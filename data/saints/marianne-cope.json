@@ -1,0 +1,11 @@
+{
+  "slug": "marianne-cope",
+  "name": "St. Marianne Cope",
+  "feastDay": "01-23",
+  "canonized": "2012",
+  "bio": "Barbara Koob was born in 1838 in Heppenheim, in the Grand Duchy of Hesse, and emigrated with her family to Utica, New York. She entered the Sisters of St. Francis of Syracuse, taking the name Marianne, and became a teacher and hospital administrator, helping to found two of the first general hospitals in central New York.\n\nIn 1883 she answered a call from King Kalakaua of Hawaii for help with the leper settlements. She arrived in Honolulu with six sisters and took charge of the hospital at Kakaako, and in 1888 she went to the settlement at Kalaupapa on Molokai, where she cared for the dying Father Damien and continued his work.\n\nShe spent the rest of her life serving the lepers of Molokai, and none of her sisters ever contracted the disease. She died in 1918 and was canonized in 2012.",
+  "patronages": [
+    { "need": "lepers", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Marianne_Cope"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "juliana-falconieri",
+  "name": "St. Juliana Falconieri",
+  "feastDay": "06-19",
+  "canonized": "1737",
+  "bio": "Juliana Falconieri was born in Florence in 1270 into the noble Falconieri family. Her uncle, St. Alexis Falconieri, was one of the seven founders of the Servite Order, and from childhood Juliana was drawn to prayer and penance. She refused marriage and, at about the age of fifteen, received the Servite habit, becoming one of the first women of the order.\n\nShe helped found the Servite Third Order for women, the Mantellate, and devoted herself to caring for the sick and the poor of Florence. She was known for her austerity and her deep devotion to the Eucharist.\n\nIn her final illness she could not swallow the Host, so she asked that it be laid upon her breast, where it is said to have disappeared. She died in 1341 and was canonized in 1737. She is invoked as a patron of the sick and of those suffering bodily illness.",
+  "patronages": [
+    { "need": "the sick", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Juliana_Falconieri"]
+}

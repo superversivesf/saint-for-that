@@ -1,0 +1,10 @@
+{
+  "slug": "lucy-of-syracuse",
+  "name": "St. Lucy of Syracuse",
+  "feastDay": "12-13",
+  "bio": "Lucy was born around 283 in Syracuse, Sicily, into a wealthy Christian family. After her father's death, she secretly consecrated her virginity to God and gave her dowry to the poor. When her suitor denounced her as a Christian during the persecution of Diocletian, she was arrested and condemned.\n\nAccording to tradition, she was tortured and her eyes were gouged out, yet her sight was miraculously restored. She was martyred by the sword around 304.\n\nLucy is one of the most venerated early martyrs, honored in the Roman Canon of the Mass. Her name means light, and she is invoked as the patroness of the blind and of those with eye diseases. Her feast on December 13 is celebrated with festivals of light, especially in Scandinavia.",
+  "patronages": [
+    { "need": "blindness", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Lucy"]
+}

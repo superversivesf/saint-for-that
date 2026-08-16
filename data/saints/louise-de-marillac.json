@@ -1,0 +1,11 @@
+{
+  "slug": "louise-de-marillac",
+  "name": "St. Louise de Marillac",
+  "feastDay": "03-15",
+  "canonized": "1934",
+  "bio": "Louise de Marillac was born in 1591 in Paris, the illegitimate daughter of a noble family. She married Antoine Le Gras in 1613 and bore a son, but was widowed in 1625. Under the spiritual direction of St. Vincent de Paul, she found her vocation in the service of the poor.\n\nIn 1633 she co-founded the Daughters of Charity with Vincent de Paul, a community of women dedicated to serving the sick and the poor in their homes, in hospitals, and in the streets. She trained the first sisters, wrote their rule, and directed the community until her death.\n\nShe died in 1660, a few months before Vincent de Paul, and was canonized in 1934. In 1960 Pope John XXIII declared her patroness of all Christian social workers.",
+  "patronages": [
+    { "need": "the sick", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Louise_de_Marillac"]
+}
