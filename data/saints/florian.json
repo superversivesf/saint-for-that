@@ -4,9 +4,19 @@
   "feastDay": "05-04",
   "bio": "Florian was a Roman army officer in the third century, stationed in Noricum, in present-day Austria. He was secretly a Christian and, according to tradition, was responsible for organizing fire brigades in the Roman military, making him the natural patron of firefighters.\n\nDuring the persecution of the emperor Diocletian, Florian refused to sacrifice to the gods and surrendered himself to the authorities. He was scourged and, around 304, was thrown into the river Enns with a millstone tied around his neck. His body was recovered and buried by a pious woman named Valeria.\n\nFlorian is venerated especially in Austria, Poland, and southern Germany, where his image appears on countless fire stations and fire engines. He is invoked against fire, floods, and drowning, and his feast is celebrated on May 4.",
   "patronages": [
-    { "need": "firefighters", "category": "military" }
+    {
+      "need": "firefighters",
+      "category": "military"
+    }
   ],
   "prayer": "St. Florian, patron of firefighters, protect those who risk their lives to save others from fire and danger, and keep our homes and families safe. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Florian"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Florian"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Francesco_del_Cossa_014.jpg/960px-Francesco_del_Cossa_014.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Florian"
+  }
 }

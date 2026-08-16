@@ -5,8 +5,21 @@
   "canonized": "1925",
   "bio": "John Eudes was born in 1601 in Normandy, France. Ordained a priest in 1625, he spent years preaching parish missions before founding the Congregation of Jesus and Mary, known as the Eudists, dedicated to the formation of diocesan priests.\n\nHe was a pioneer of devotion to the Sacred Heart of Jesus and the Immaculate Heart of Mary, composing the first liturgical offices in their honor. He also founded the Sisters of Our Lady of Charity to care for women in need.\n\nHe died in 1680 and was canonized in 1925. Pope Pius XI called him the father, doctor, and apostle of the liturgical cult of the Sacred Hearts.",
   "patronages": [
-    { "need": "seminarians", "category": "spiritual" },
-    { "need": "sacred heart devotion", "category": "spiritual" }
+    {
+      "need": "seminarians",
+      "category": "spiritual"
+    },
+    {
+      "need": "sacred heart devotion",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/John_Eudes"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Eudes"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/JeanEudes.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Eudes"
+  }
 }

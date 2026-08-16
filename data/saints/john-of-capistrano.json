@@ -5,7 +5,17 @@
   "canonized": "1690",
   "bio": "John was born in 1386 at Capistrano in the Kingdom of Naples. He studied law at Perugia and became a successful jurist and governor, but after being imprisoned during a political conflict he experienced a conversion and entered the Franciscan Order in 1416.\n\nHe became one of the great preachers of his age, traveling across Europe to call for reform and to combat heresy. In 1456, at the age of seventy, he helped lead the Christian defense of Belgrade against the Ottoman siege, carrying a banner and rallying the troops to victory.\n\nJohn died a few months later at Ilok in 1456 and was canonized in 1690. He is honored as the patron of military chaplains and jurists, a model of courage in defense of the faith.",
   "patronages": [
-    { "need": "military chaplains", "category": "military" }
+    {
+      "need": "military chaplains",
+      "category": "military"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/John_of_Capistrano"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Capistrano"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/82Johannes_von_Capestrano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Capistrano"
+  }
 }

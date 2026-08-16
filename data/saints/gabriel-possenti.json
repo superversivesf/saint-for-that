@@ -5,8 +5,18 @@
   "canonized": "1920",
   "bio": "Gabriel Possenti was born in 1838 in Assisi, Italy, the eleventh of thirteen children. He was a lively young man known for his charm, fine clothes, and love of parties and hunting.\n\nDuring a cholera epidemic, he witnessed the death of a young woman and resolved to change his life. He joined the Passionist congregation in 1856, taking the name Gabriel of Our Lady of Sorrows.\n\nHe lived a short but intense religious life marked by devotion to the Virgin Mary and died of tuberculosis in 1862 at the age of twenty-four. He was canonized in 1920 and is the patron saint of students and young people.",
   "patronages": [
-    { "need": "students", "category": "everyday" }
+    {
+      "need": "students",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gabriel7.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gabriel Possenti"
+  }
 }

@@ -5,8 +5,18 @@
   "canonized": "unknown",
   "bio": "Eligius was born around 588 near Limoges in Gaul. Trained as a goldsmith, he became master of the mint to King Clotaire II and later a trusted adviser to King Dagobert I, for whom he made a famous reliquary and throne.\n\nHe used his wealth to ransom captives, build churches and monasteries, and care for the poor. Around 640 he was ordained a priest and soon after consecrated bishop of Noyon-Tournai, where he preached in Flanders and worked to convert the pagans of the region.\n\nHe died on December 1, 660. He is venerated as the patron saint of goldsmiths, metalworkers, coin collectors, and horses.",
   "patronages": [
-    { "need": "metalworkers", "category": "everyday" }
+    {
+      "need": "metalworkers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Eligius"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eligius"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Petrus_Christus_003.jpg/960px-Petrus_Christus_003.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eligius"
+  }
 }

@@ -5,7 +5,17 @@
   "canonized": "1610",
   "bio": "Charles was born in 1538 into the noble Borromeo family of Milan. His uncle became Pope Pius IV, who made him a cardinal at twenty-two and archbishop of Milan. Charles played a key role in the final sessions of the Council of Trent and in carrying out its reforms.\n\nAs archbishop he founded seminaries for the proper formation of priests, held synods, and visited his vast diocese on foot. During the plague of 1576 he remained in Milan, organizing relief and personally ministering to the sick while many officials fled.\n\nCharles died in 1584, worn out at forty-six, and was canonized in 1610. He is the patron of seminarians, bishops, and catechists, and a model of pastoral reform.",
   "patronages": [
-    { "need": "seminarians", "category": "spiritual" }
+    {
+      "need": "seminarians",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Charles_Borromeo"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charles_Borromeo"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/960px-Carlo_Borromeo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Charles Borromeo"
+  }
 }

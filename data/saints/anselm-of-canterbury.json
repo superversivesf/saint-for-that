@@ -5,8 +5,21 @@
   "canonized": "1494",
   "bio": "Anselm was born around 1033 in Aosta, in the Italian Alps. He left home as a young man and became a monk at the abbey of Bec in Normandy, where he taught and wrote, and where he composed his famous works on the existence of God, including the Proslogion with its ontological argument.\n\nIn 1093 he became Archbishop of Canterbury, where he defended the rights of the Church against the English kings and was twice exiled. His writings on the atonement, Cur Deus Homo, shaped Western theology for centuries.\n\nHe died in 1109 and was declared a Doctor of the Church in 1720. He is venerated as a patron of philosophers and theologians.",
   "patronages": [
-    { "need": "philosophers", "category": "spiritual" },
-    { "need": "theologians", "category": "spiritual" }
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Anselm_of_Canterbury"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/960px-Anselm_of_Canterbury%2C_seal.svg.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anselm of Canterbury"
+  }
 }

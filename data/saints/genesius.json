@@ -4,8 +4,18 @@
   "feastDay": "08-25",
   "bio": "Genesius was a Roman actor in the late third century, during the reign of Emperor Diocletian. According to tradition, he led a troupe of actors who performed satirical plays mocking the Christian faith.\n\nWhile performing a mock baptism before the emperor, Genesius was suddenly converted. He stopped the play, declared himself a Christian, and refused to renounce his new faith.\n\nDiocletian ordered him tortured and beheaded around the year 303. He is remembered as the patron saint of actors, comedians, and those who work in the theater.",
   "patronages": [
-    { "need": "actors", "category": "everyday" }
+    {
+      "need": "actors",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Genesius_of_Rome"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Genesius_of_Rome"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Braunschweig_St._Aegidien_hl._Genesius.jpg/960px-Braunschweig_St._Aegidien_hl._Genesius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Genesius"
+  }
 }

@@ -5,8 +5,18 @@
   "canonized": "1199",
   "bio": "Homobonus was born in Cremona, Italy, in the twelfth century, the son of a prosperous tailor and merchant. He took over the family business and ran it with scrupulous honesty, giving a large share of his profits to the poor.\n\nHe attended Mass daily and saw his trade as a way of serving God, treating customers fairly and keeping careful accounts so that nothing was gained unjustly. His generosity to the needy of Cremona was well known in his lifetime.\n\nHe died on November 13, 1197, while attending Mass, and was canonized in 1199 by Pope Innocent III. He is venerated as the patron saint of merchants, business people, and tailors.",
   "patronages": [
-    { "need": "merchants", "category": "everyday" }
+    {
+      "need": "merchants",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Homobonus"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Homobonus"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Omobono_lianori.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Homobonus"
+  }
 }

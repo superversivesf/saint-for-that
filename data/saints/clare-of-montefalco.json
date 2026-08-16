@@ -5,8 +5,18 @@
   "canonized": "1881",
   "bio": "Clare was born around 1268 in Montefalco, Italy. At the age of six she joined a community of Franciscan tertiaries led by her sister Joan, and she later became its abbess, guiding the community with wisdom and charity.\n\nShe was known for her deep devotion to the Passion of Christ and for her care of the poor. After her death, symbols of the Passion were said to be found impressed upon her heart.\n\nShe died on August 17, 1308, and was canonized in 1881. She is venerated as the patron saint of the poor and of those seeking spiritual insight.",
   "patronages": [
-    { "need": "the poor", "category": "everyday" }
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Clare_of_Montefalco"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Saint_Clare_of_Montefalco.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Clare of Montefalco"
+  }
 }

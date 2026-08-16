@@ -5,7 +5,17 @@
   "canonized": "1519",
   "bio": "Francis was born in 1416 in Paola, Calabria, in southern Italy. His parents had prayed for a child through the intercession of St. Francis of Assisi, and they named him in gratitude. As a young man he spent a year with the Franciscans before withdrawing to a cave to live as a hermit.\n\nDisciples gathered around him, and he founded the Order of Minims, whose members embraced a life of humility, penance, and perpetual Lenten abstinence. His reputation for holiness and miracles spread, and in 1483 King Louis XI of France, gravely ill, summoned him to the royal court, where he remained as a spiritual counselor until the king's death.\n\nFrancis died on April 2, 1507, at the age of ninety-one. He is venerated as the patron saint of sailors, mariners, and naval officers, and his feast is celebrated on April 2.",
   "patronages": [
-    { "need": "sailors", "category": "jobs" }
+    {
+      "need": "sailors",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Francis_of_Paola"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francis_of_Paola"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg/960px-Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Francis of Paola"
+  }
 }

@@ -5,8 +5,21 @@
   "canonized": "1174",
   "bio": "Bernard was born in 1090 near Dijon, France, to a noble family. At twenty-two he entered the Cistercian abbey of Cîteaux, bringing with him some thirty relatives and friends, and three years later was sent to found the abbey of Clairvaux, which he led as abbot for the rest of his life.\n\nBernard became the most influential churchman of his age, a reformer of monastic life, a counselor of popes and kings, and a preacher of the Second Crusade. His writings on the love of God and his sermons on the Song of Songs shaped Western mysticism for centuries.\n\nHe died in 1153 and was canonized in 1174. He is venerated as a Doctor of the Church and is invoked by contemplatives and those seeking deeper prayer.",
   "patronages": [
-    { "need": "contemplatives", "category": "spiritual" },
-    { "need": "beekeepers", "category": "jobs" }
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "beekeepers",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bernard of Clairvaux"
+  }
 }

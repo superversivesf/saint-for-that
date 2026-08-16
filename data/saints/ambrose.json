@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Ambrose was born around 340 in Trier, in a Roman Christian family. He was serving as governor of Milan when, in 374, the people acclaimed him bishop while he was still a catechumen. He was baptized, ordained, and consecrated within a week, and he gave his wealth to the poor.\n\nAs bishop he defended the Church against Arianism, famously barring Emperor Theodosius from the cathedral until he repented of a massacre. A gifted preacher, he helped bring St. Augustine to the faith, and he wrote hymns and liturgical texts that shaped Western worship. He is one of the four great Doctors of the Western Church.\n\nLegend says that as an infant a swarm of bees settled on his face and left a drop of honey, foretelling his eloquence. For this reason he is venerated as the patron saint of beekeepers, candle makers, and students. He died on April 4, 397, and his feast is kept on December 7.",
   "patronages": [
-    { "need": "beekeepers", "category": "jobs" }
+    {
+      "need": "beekeepers",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Ambrose"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambrose"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ambrose"
+  }
 }

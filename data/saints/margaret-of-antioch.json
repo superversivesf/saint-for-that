@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Margaret, also known as Marina, was a virgin martyr of Antioch in Pisidia who lived in the late third century. According to tradition, she was the daughter of a pagan priest, converted to Christianity, and consecrated herself to God as a virgin. When the Roman prefect Olybrius sought her in marriage, she refused him and professed her faith openly.\n\nShe was imprisoned and tortured, and legend tells that she was swallowed by a dragon, which burst open when she made the sign of the cross, leaving her unharmed. She was finally beheaded around 304.\n\nMargaret is one of the Fourteen Holy Helpers and was among the most popular saints of the Middle Ages. Because of her deliverance from the dragon, she is invoked especially by women in childbirth and against complications of labor.",
   "patronages": [
-    { "need": "childbirth", "category": "illness" }
+    {
+      "need": "childbirth",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Margaret_the_Virgin"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Margaret_the_Virgin"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Margaret_the_Virgin.jpg/960px-Margaret_the_Virgin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Margaret of Antioch"
+  }
 }

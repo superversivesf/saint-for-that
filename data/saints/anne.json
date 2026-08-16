@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Anne is honored as the mother of the Blessed Virgin Mary and the grandmother of Jesus. She is not mentioned in the Bible, but her story is told in the apocryphal Protoevangelium of James, which describes her and her husband Joachim as a devout couple who suffered many years of childlessness before God blessed them with a daughter, Mary.\n\nDevotion to Anne developed early in the Eastern Church and spread throughout the West in the Middle Ages. She is especially venerated in France, where the shrine of Sainte-Anne-d'Auray and the basilica of Sainte-Anne-de-Beaupré in Canada draw many pilgrims.\n\nAs the mother of Mary, Anne is a natural patron of mothers, grandmothers, and women hoping to conceive. She is also invoked by those who care for children and by homemakers.",
   "patronages": [
-    { "need": "mothers", "category": "illness" }
+    {
+      "need": "mothers",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Anne"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Anne"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg/960px-Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anne"
+  }
 }

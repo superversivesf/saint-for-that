@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "John was born around 675 in Damascus into a prominent Christian family serving the Muslim caliphate. He followed his father into government service before leaving to become a monk at the monastery of Mar Saba near Jerusalem, where he was ordained a priest.\n\nHe became the great defender of sacred images during the iconoclast controversy, arguing in his writings that honoring icons honors the God who became visible in Christ. According to tradition, his hand was cut off for his defense of icons and miraculously restored through the intercession of the Virgin Mary.\n\nJohn was also a poet and hymnographer, composing many of the hymns still sung in the Byzantine liturgy, including the Easter canon. He is honored as a Doctor of the Church and as the patron saint of iconographers and sacred artists. He died around 749, and his feast is kept on December 4.",
   "patronages": [
-    { "need": "artists", "category": "jobs" }
+    {
+      "need": "artists",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/John_of_Damascus"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Damascus"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Damascus"
+  }
 }

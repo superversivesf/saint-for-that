@@ -5,8 +5,21 @@
   "canonized": "Pre-Congregation",
   "bio": "Emygdius was a bishop and martyr of the early Church, traditionally said to have been born in Trier and converted to Christianity while traveling in Italy. He was consecrated bishop of Ascoli Piceno and preached in the region of the Marches, where he is said to have performed many healings and to have destroyed pagan temples.\n\nHe was martyred during the persecution of Diocletian, around 303, and was beheaded near Ascoli. According to legend, he carried his own head to the place where his church now stands.\n\nEmygdius is especially venerated in central Italy, where he is invoked against earthquakes. After a devastating earthquake struck the Marches in 1703, devotion to him spread widely, and he remains the protector of Ascoli Piceno and of those who fear tremors.",
   "patronages": [
-    { "need": "earthquakes", "category": "nature" },
-    { "need": "natural disasters", "category": "nature" }
+    {
+      "need": "earthquakes",
+      "category": "nature"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Emygdius"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emygdius"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pintura_de_San_Emidio%2C_1770.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Emygdius"
+  }
 }

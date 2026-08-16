@@ -4,10 +4,23 @@
   "feastDay": "07-25",
   "bio": "According to tradition, Christopher was a man of great stature who lived in the third century, possibly in Asia Minor. Seeking to serve the greatest king, he first served a local ruler, then the devil himself, before a hermit taught him the Christian faith. He settled near a river and carried travelers across, using his great strength.\n\nOne day a child asked to be carried across. As Christopher waded into the water, the child grew heavier and heavier until Christopher feared he would drown. The child revealed himself as Christ, bearing the weight of the world, and Christopher's staff miraculously bloomed. His name means \"Christ-bearer.\"\n\nChristopher was martyred during the persecution of the emperor Decius around 250. He is one of the most popular saints in the world, invoked by travelers and motorists, and his image is carried by millions on medals and dashboard cards.",
   "patronages": [
-    { "need": "travelers", "category": "travel" },
-    { "need": "motorists", "category": "travel" }
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "motorists",
+      "category": "travel"
+    }
   ],
   "prayer": "Grant me, O Lord, a steady hand and watchful eye, that no one shall be hurt as I pass by. Through the intercession of St. Christopher, protect me and all who travel. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Christopher"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Christopher"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jheronimus_Bosch_-_Saint_Christopher_-_Google_Art_ProjectFXD_%28Cropped%29.jpg/960px-Jheronimus_Bosch_-_Saint_Christopher_-_Google_Art_ProjectFXD_%28Cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Christopher"
+  }
 }

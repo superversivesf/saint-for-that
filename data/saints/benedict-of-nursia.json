@@ -4,9 +4,19 @@
   "feastDay": "07-11",
   "bio": "Benedict was born around 480 in Nursia, in central Italy, into a noble family. Sent to Rome for his studies, he was dismayed by the city's corruption and withdrew to a cave at Subiaco, where he lived as a hermit for three years. His holiness attracted disciples, and he organized them into small monasteries.\n\nAround 529 he moved to Monte Cassino, where he founded the monastery that became the cradle of Western monasticism. There he wrote his Rule, a balanced guide to community life built on prayer, work, and obedience, summarized in the motto \"Ora et labora\" — pray and work. The Rule of St. Benedict shaped monastic life across Europe and helped preserve learning through the centuries.\n\nBenedict died at Monte Cassino around 547. In 1964 Pope Paul VI declared him patron of Europe, and he is also honored as the patron of students and of those seeking protection from evil.",
   "patronages": [
-    { "need": "students", "category": "everyday" }
+    {
+      "need": "students",
+      "category": "everyday"
+    }
   ],
   "prayer": "O glorious St. Benedict, sublime model of virtue, pure vessel of God's grace, obtain for me the grace to prefer nothing to the love of Christ. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Benedict_of_Nursia"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Benedict of Nursia"
+  }
 }

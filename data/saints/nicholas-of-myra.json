@@ -4,10 +4,23 @@
   "feastDay": "12-06",
   "bio": "Nicholas was born around 270 in Patara, in the Roman province of Lycia, in present-day Turkey. Orphaned young and left a fortune, he used his inheritance to help the poor. The most famous story tells how he secretly provided dowries for three impoverished sisters by throwing bags of gold through their window at night, saving them from slavery.\n\nNicholas became bishop of Myra and was imprisoned during the persecution of Diocletian. He attended the Council of Nicaea in 325, where, according to tradition, he struck the heretic Arius in his zeal for orthodoxy. He was also credited with calming storms at sea and saving sailors, and with rescuing three innocent men from execution.\n\nHe died on December 6, around 343, and his relics were later taken to Bari, Italy. His secret gift-giving made him the model for Santa Claus, and he remains the patron of children, sailors, and many cities and nations.",
   "patronages": [
-    { "need": "children", "category": "family" },
-    { "need": "sailors", "category": "travel" }
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
   ],
   "prayer": "O good St. Nicholas, you who loved the poor and protected children, help us to be generous with what we have and to care for those in need. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Nicholas"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nicholas"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jaroslav_%C4%8Cerm%C3%A1k_%281831_-_1878%29_-_Sv._Mikul%C3%A1%C5%A1_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nicholas of Myra"
+  }
 }

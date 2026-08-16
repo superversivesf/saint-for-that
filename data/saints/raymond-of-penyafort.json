@@ -5,8 +5,18 @@
   "canonized": "1601",
   "bio": "Raymond was born around 1175 near Barcelona, Spain, into a noble family. He taught philosophy and canon law at Barcelona and Bologna, then joined the Dominican Order in 1222.\n\nPope Gregory IX called him to Rome, where he compiled the Decretals, a collection of canon law that remained a standard reference for centuries. He also helped found the Mercedarian Order for the ransom of Christian captives.\n\nHe returned to Spain and served as Master General of the Dominicans, resigning after two years to return to pastoral work. He died in 1275 at nearly one hundred years of age and was canonized in 1601. He is the patron saint of canon lawyers and lawyers.",
   "patronages": [
-    { "need": "lawyers", "category": "everyday" }
+    {
+      "need": "lawyers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Raymond_of_Penyafort"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Raymond_of_Penyafort"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/St._Raymond_of_Penyafort_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Raymond of Penyafort"
+  }
 }

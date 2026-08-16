@@ -5,7 +5,17 @@
   "canonized": "1746",
   "bio": "Camillus de Lellis was born in 1550 in the Kingdom of Naples. As a young man he was a soldier and a gambler, and he suffered for years from a leg wound that would not heal. While working as a laborer at a Capuchin friary, he underwent a conversion and resolved to devote his life to the service of the sick.\n\nIn 1582 he founded the Order of Clerks Regular, Ministers to the Sick, known as the Camillians, whose members wear a red cross on their habit. He insisted that the sick be cared for as if they were Christ himself, and he reformed hospital care in Rome and beyond.\n\nCamillus died in Rome in 1614 and was canonized in 1746. He is the patron of the sick, of hospitals, and of nurses and nursing associations, together with St. John of God.",
   "patronages": [
-    { "need": "nursing", "category": "illness" }
+    {
+      "need": "nursing",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Camillus_de_Lellis"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lellis2.jpg/960px-Lellis2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Camillus de Lellis"
+  }
 }

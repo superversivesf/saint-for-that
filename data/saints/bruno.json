@@ -5,8 +5,21 @@
   "canonized": "1514",
   "bio": "Bruno was born in Cologne around 1030 and became a renowned teacher at the cathedral school of Reims. Disillusioned with the worldliness around him, he withdrew with six companions in 1084 to a remote valley in the French Alps called Chartreuse.\n\nThere he founded the Carthusian Order, whose monks live in solitude, silence, and prayer, combining the eremitical and cenobitic traditions. The order has never been reformed because it has never needed reform, a saying that reflects its fidelity to Bruno's original vision.\n\nHe died in 1101 in Calabria, where he had been called to advise the pope. His cult was confirmed in 1514, and he is venerated as a patron of contemplatives.",
   "patronages": [
-    { "need": "contemplatives", "category": "spiritual" },
-    { "need": "hermits", "category": "spiritual" }
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Bruno_of_Cologne"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nicolas_Mignard-Saint_Bruno.jpg/960px-Nicolas_Mignard-Saint_Bruno.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bruno"
+  }
 }

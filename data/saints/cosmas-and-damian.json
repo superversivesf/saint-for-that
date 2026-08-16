@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Cosmas and Damian were twin brothers, physicians by profession, who practiced medicine in Cilicia in Asia Minor during the third century. They treated the sick without charging any fee, earning them the title \"the silverless ones,\" and their charity is said to have brought many of their patients to the Christian faith.\n\nDuring the persecution of the emperor Diocletian, they were arrested, tortured, and beheaded around the year 287. Their cult spread quickly throughout the Christian world, and churches were dedicated to them in Rome, Constantinople, and beyond.\n\nThey are among the most famous of the early martyr physicians and are invoked as patrons of physicians, surgeons, and pharmacists, as well as by the sick who seek healing.",
   "patronages": [
-    { "need": "physicians", "category": "illness" }
+    {
+      "need": "physicians",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_C%C3%B4me_%26_Saint_Damien_Grandes_Heures_Anne_de_Bretagne_XVIe_%28cropped%29.jpg/960px-Saint_C%C3%B4me_%26_Saint_Damien_Grandes_Heures_Anne_de_Bretagne_XVIe_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Sts. Cosmas and Damian"
+  }
 }

@@ -5,7 +5,17 @@
   "canonized": "2000",
   "bio": "Faustina was born Helena Kowalska in 1905 in a poor Polish village. At twenty she entered the Congregation of the Sisters of Our Lady of Mercy in Warsaw, where she worked as a cook, gardener, and porter.\n\nFrom 1931 she received visions of Jesus, who asked her to spread devotion to the Divine Mercy and to have an image painted with the words \"Jesus, I trust in You.\" At the direction of her confessor she kept a diary recording these revelations, which has become one of the most widely read spiritual works of modern times.\n\nFaustina died of tuberculosis in 1938 at the age of thirty-three and was canonized in 2000 by Pope John Paul II, who established Divine Mercy Sunday. She is a patron of those devoted to the Divine Mercy and a model of humble prayer life.",
   "patronages": [
-    { "need": "prayer life", "category": "spiritual" }
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Faustina_Kowalska"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Maria_Faustyna_Kowalska.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Faustina Kowalska"
+  }
 }

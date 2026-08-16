@@ -5,8 +5,18 @@
   "canonized": "1120",
   "bio": "Arnold was born around 1040 in Brabant, in what is now Belgium. After a career as a soldier, he entered the Benedictine abbey of St. Medard in Soissons, France, and later became its abbot.\n\nHe withdrew to a hermitage and eventually founded the abbey of Oudenburg in Flanders, where he served as abbot. He is remembered for his austere life and for miracles attributed to his intercession.\n\nHe died around 1087 and was canonized in 1120. He is venerated as the patron saint of brewers, a patronage linked to his abbey's brewing tradition and to the story that he urged people to drink beer rather than unsafe water.",
   "patronages": [
-    { "need": "brewers", "category": "everyday" }
+    {
+      "need": "brewers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Arnold_of_Soissons"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arnold_of_Soissons"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/St.Arnoldus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arnold of Soissons"
+  }
 }

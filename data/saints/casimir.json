@@ -5,7 +5,17 @@
   "canonized": "1522",
   "bio": "Casimir was born in 1458, the son of King Casimir IV of Poland. As a prince he was educated in piety and learning, and from his youth he was known for his purity, humility, and devotion to the Blessed Virgin Mary.\n\nThough he was offered the throne of Hungary, he refused to wage an unjust war and instead devoted himself to prayer, fasting, and works of charity. He often spent nights in prayer before the church doors and recited the hymn Omni die dic Mariae daily.\n\nHe died of tuberculosis on March 4, 1484, at the age of twenty-five, and was canonized in 1522. He is venerated as the patron saint of youth.",
   "patronages": [
-    { "need": "youth", "category": "everyday" }
+    {
+      "need": "youth",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Casimir"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Casimir"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%C5%A0ventasis_Kazimieras%2C_1594.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Casimir"
+  }
 }

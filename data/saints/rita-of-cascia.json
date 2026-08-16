@@ -5,10 +5,23 @@
   "canonized": "1900",
   "bio": "Rita was born in 1381 in Roccaporena, near Cascia in central Italy. Though she longed for religious life, her parents arranged her marriage to a violent and unfaithful man. For eighteen years she endured the marriage with patience and prayer, and her gentleness eventually converted her husband, with whom she had two sons.\n\nAfter her husband was murdered in a feud, Rita forgave his killers and persuaded her sons not to seek revenge; both died soon after. Widowed and alone, she sought to enter the Augustinian convent at Cascia and, after several refusals, was finally admitted around 1413. She lived there in prayer and penance for forty years, and in 1442 received a wound on her forehead, said to be from a thorn of Christ's crown.\n\nRita died on May 22, 1457, and was canonized in 1900. She is known as the saint of impossible causes and is the patroness of difficult marriages, abused women, and hopeless situations.",
   "patronages": [
-    { "need": "impossible causes", "category": "special" },
-    { "need": "difficult marriages", "category": "family" }
+    {
+      "need": "impossible causes",
+      "category": "special"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    }
   ],
   "prayer": "O holy St. Rita, advocate of the impossible, come to my aid in this time of need. You who endured so much with patience, obtain for me the grace I seek. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Rita_of_Cascia"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rita_of_Cascia"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Santa_Rita_da_Cascia.jpg/960px-Santa_Rita_da_Cascia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rita of Cascia"
+  }
 }

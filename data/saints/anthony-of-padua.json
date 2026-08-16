@@ -5,10 +5,23 @@
   "canonized": "1232",
   "bio": "Born Fernando Martins de Bulhões in Lisbon, Portugal, around 1195, Anthony joined the Augustinian canons as a young man. Inspired by the martyrdom of Franciscan missionaries in Morocco, he transferred to the Franciscan Order and took the name Anthony, hoping to preach to Muslims. Illness forced him to return to Europe, where his ship was driven to Sicily, and he settled in Italy.\n\nAnthony's extraordinary preaching and knowledge of Scripture were discovered almost by accident when he was asked to speak at an ordination. He became one of the most celebrated preachers of his age, drawing vast crowds across Italy and France, and was known for miracles, including the famous sermon to the fishes. He taught theology with the blessing of St. Francis himself.\n\nHe died at Arcella near Padua on June 13, 1231, at about age 36, and was canonized less than a year later in 1232. Today he is one of the most beloved saints in the world, invoked especially for the recovery of lost items and as a patron of travelers.",
   "patronages": [
-    { "need": "lost items", "category": "everyday" },
-    { "need": "travelers", "category": "travel" }
+    {
+      "need": "lost items",
+      "category": "everyday"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
   ],
   "prayer": "O Holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me my request. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Anthony_of_Padua"],
-  "featured": true
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+  ],
+  "featured": true,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthony of Padua"
+  }
 }

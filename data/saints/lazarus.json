@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Lazarus of Bethany was the brother of Martha and Mary and a close friend of Jesus. In the Gospel of John, Jesus raised him from the dead four days after his burial, a miracle that led many to believe and that moved the authorities to plot against Jesus.\n\nAccording to later tradition, Lazarus and his sisters were set adrift in a boat and landed in Provence, where Lazarus became the first bishop of Marseille and was eventually martyred.\n\nIn the Middle Ages, Lazarus was confused with the beggar of the parable of the rich man and Lazarus, who was covered with sores. As a result, he came to be venerated as the patron of lepers, and the Order of Saint Lazarus was founded to care for them. He is invoked against leprosy and other diseases.",
   "patronages": [
-    { "need": "leprosy", "category": "illness" }
+    {
+      "need": "leprosy",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Lazarus_of_Bethany"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lazarus_of_Bethany"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eduard_von_Gebhardt_-_The_Raising_of_Lazarus_-_Google_Art_Project_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lazarus"
+  }
 }

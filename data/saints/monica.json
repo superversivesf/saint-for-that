@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Monica was born around 331 in Thagaste, North Africa, into a Christian family. She was married to Patricius, a pagan official with a violent temper, whom she won over to Christianity by her patience and prayers. She bore three children, the eldest of whom was Augustine, later bishop of Hippo and one of the greatest theologians of the Church.\n\nFor many years Augustine lived a wayward life and followed the Manichaean sect, and Monica prayed and wept for his conversion. She followed him to Rome and Milan, where her persistence and the preaching of St. Ambrose were finally rewarded when Augustine was baptized in 387.\n\nMonica died at Ostia later that same year, content that her life's prayer had been answered. She is honored as a model of persevering prayer and is a patron of mothers, wives, and those with wayward children.",
   "patronages": [
-    { "need": "mothers", "category": "illness" }
+    {
+      "need": "mothers",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Monica"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Monica"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_of_Hippo_by_Gozzoli.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Monica"
+  }
 }

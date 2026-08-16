@@ -5,8 +5,21 @@
   "canonized": "1582",
   "bio": "Norbert was born around 1080 in Xanten, in the Rhineland, into a noble family. He lived a worldly life as a young canon until a near-fatal lightning strike in 1115 brought about his conversion. He gave away his possessions and became an itinerant preacher.\n\nIn 1120 he founded the Order of Canons Regular of Prémontré, known as the Premonstratensians or Norbertines, combining the contemplative life with pastoral ministry. He later became Archbishop of Magdeburg, where he worked to reform the clergy.\n\nHe died in 1134 and was canonized in 1582. He is venerated as a patron of peace and of expectant mothers.",
   "patronages": [
-    { "need": "peace", "category": "spiritual" },
-    { "need": "expectant mothers", "category": "family" }
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Norbert_of_Xanten"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SSACRAM_62.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Norbert"
+  }
 }

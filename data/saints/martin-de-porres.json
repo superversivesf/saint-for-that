@@ -5,7 +5,17 @@
   "canonized": "1837",
   "bio": "Martin de Porres was born in Lima, Peru, in 1579, the illegitimate son of a Spanish nobleman and a freed woman of African and indigenous descent. Because of his mixed race he was barred from full profession as a Dominican, and he served for years as a lay brother, working as a barber, surgeon, and infirmarian.\n\nHe became famous for his care of the sick and the poor, founding an orphanage and a children's hospital in Lima. He tended the sick of every race and station, and legends tell of his miraculous cures and his kindness even to animals.\n\nHe died in 1639 and was canonized in 1837, the first black saint of the Americas. He is a patron of the sick, of the poor, and of social justice and racial harmony.",
   "patronages": [
-    { "need": "the sick", "category": "illness" }
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Martin_de_Porres"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_de_Porres"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Martin de Porres"
+  }
 }

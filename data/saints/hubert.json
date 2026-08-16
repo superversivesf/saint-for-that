@@ -4,7 +4,17 @@
   "feastDay": "11-03",
   "bio": "Hubert was a Frankish nobleman of the seventh century who loved hunting above all else. According to legend, while hunting on Good Friday, he saw a stag with a crucifix shining between its antlers, and he heard a voice calling him to conversion.\n\nHe renounced his worldly life, became a disciple of St. Lambert of Maastricht, and eventually succeeded him as bishop of Liege. Hubert worked tirelessly to evangelize the Ardennes region and was known for his humility and charity.\n\nHe died in 727 and is venerated as the patron saint of hunters, and his conversion is commemorated in the tradition of the Hubertus Mass and the blessing of hunting dogs.",
   "patronages": [
-    { "need": "hunters", "category": "jobs" }
+    {
+      "need": "hunters",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Hubertus"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hubertus"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hubert"
+  }
 }

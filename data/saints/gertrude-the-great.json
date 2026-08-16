@@ -5,8 +5,21 @@
   "canonized": "1677",
   "bio": "Gertrude was born in 1256 and entered the Benedictine monastery of Helfta in Saxony as a child. The community there was a center of learning and mysticism, and Gertrude received an excellent education in Latin and theology.\n\nAt the age of twenty-five she experienced a conversion that turned her studies toward prayer and the contemplation of Christ. Her writings, especially The Herald of Divine Love, record her visions and her devotion to the Sacred Heart, centuries before that devotion became widespread.\n\nShe died around 1302. She is the only woman saint to be called the Great, and she is venerated as a patron of the souls in purgatory.",
   "patronages": [
-    { "need": "souls in purgatory", "category": "spiritual" },
-    { "need": "mystics", "category": "spiritual" }
+    {
+      "need": "souls in purgatory",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Gertrude_the_Great"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gertrude_the_Great"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg/960px-Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gertrude the Great"
+  }
 }

@@ -4,8 +4,18 @@
   "feastDay": "07-29",
   "bio": "Martha of Bethany appears in the Gospels as the sister of Mary and Lazarus and a close friend of Jesus. In the Gospel of Luke she welcomes Jesus into her home and busies herself with serving, while her sister Mary sits listening at his feet. When Martha complains, Jesus gently reminds her that Mary has chosen the better part.\n\nMartha's faith shines in the Gospel of John, where she meets Jesus after the death of her brother Lazarus and declares, \"I believe that you are the Christ, the Son of God.\" Her confession is one of the clearest professions of faith in the Gospels.\n\nTradition holds that after the Resurrection Martha traveled to Provence in southern France, where she is said to have tamed a dragon at Tarascon. She is venerated as the patron saint of cooks, servants, and homemakers, and her feast is celebrated on July 29.",
   "patronages": [
-    { "need": "cooks", "category": "everyday" }
+    {
+      "need": "cooks",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Martha"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martha"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_%28cropped2%29.jpg/960px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project_%28cropped2%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Martha"
+  }
 }

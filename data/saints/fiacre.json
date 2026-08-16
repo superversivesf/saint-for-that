@@ -4,8 +4,18 @@
   "feastDay": "08-30",
   "bio": "Fiacre was an Irish monk of the seventh century who left his homeland to live as a hermit in France. He asked St. Faro, bishop of Meaux, for land to cultivate, and the bishop granted him as much ground as he could turn in a day. According to legend, Fiacre cleared the forest with his spade alone, and the trees fell before him.\n\nFiacre built a monastery and a hospice for travelers near what is now Saint-Fiacre in Seine-et-Marne, and he became known for his skill in growing herbs and vegetables and for healing the sick. His garden was said to be so fruitful that it fed the poor of the region.\n\nHe died around 670 and was buried in his church, which became a place of pilgrimage. Fiacre is the patron saint of gardeners, and his name lives on in the fiacre, the horse-drawn cab of Paris, which took its name from the inn where such carriages first stood. His feast is celebrated on August 30.",
   "patronages": [
-    { "need": "gardeners", "category": "everyday" }
+    {
+      "need": "gardeners",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Fiacre"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fiacre"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg/960px-Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fiacre"
+  }
 }

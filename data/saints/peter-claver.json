@@ -5,7 +5,17 @@
   "canonized": "1888",
   "bio": "Peter Claver was born in 1580 in Catalonia, Spain, and entered the Society of Jesus in 1602. Inspired by St. Alphonsus Rodriguez, he volunteered for the missions and arrived in Cartagena, Colombia, in 1610, a major port of the Atlantic slave trade.\n\nFor nearly forty years he ministered to enslaved Africans arriving on the slave ships. He met each ship with food, medicine, and clothing, and he baptized an estimated 300,000 people, insisting on their dignity as children of God and defending them against their captors.\n\nHe called himself \"the slave of the slaves\" and worked to improve their conditions, though he could not end the trade itself. He died in 1654 after a long illness. Canonized in 1888, he is the patron saint of slaves, African missions, and interracial justice.",
   "patronages": [
-    { "need": "slaves", "category": "persecution" }
+    {
+      "need": "slaves",
+      "category": "persecution"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Peter_Claver"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Claver"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/StPeterClaver.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter Claver"
+  }
 }

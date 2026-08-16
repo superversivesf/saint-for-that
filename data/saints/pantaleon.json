@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Pantaleon was a physician of Nicomedia in Asia Minor who lived in the late third century. The son of a wealthy pagan father and a Christian mother, he was converted to Christianity by the priest Hermolaus and devoted his medical skill to serving the poor without charge.\n\nDuring the persecution of the emperor Diocletian, he was denounced as a Christian, arrested, and subjected to tortures from which, according to tradition, he was repeatedly delivered by miracles. He was finally beheaded around 305.\n\nPantaleon is one of the Fourteen Holy Helpers and is counted among the great martyr physicians of the early Church. He is invoked by physicians and by the sick, and his intercession is sought for healing of all kinds.",
   "patronages": [
-    { "need": "physicians", "category": "illness" }
+    {
+      "need": "physicians",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Pantaleon"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pantaleon"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hosios_Loukas_%28nave%2C_lunette_on_west_wall_of_south_cross_arm%29_-_S._Panteleimon.jpg/960px-Hosios_Loukas_%28nave%2C_lunette_on_west_wall_of_south_cross_arm%29_-_S._Panteleimon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pantaleon"
+  }
 }

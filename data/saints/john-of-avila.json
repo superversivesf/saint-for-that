@@ -5,7 +5,17 @@
   "canonized": "1970",
   "bio": "John of Avila was born in 1499 in Almodovar del Campo, Spain, and studied law at Salamanca before turning to theology at Alcala. Ordained in 1526, he gave his inheritance to the poor and devoted himself to preaching throughout Andalusia, where his sermons drew enormous crowds and won many converts.\n\nHe became a spiritual guide to many of the great figures of the Spanish Golden Age, including St. Teresa of Avila, St. John of God, and St. Francis Borgia. He founded schools and colleges and wrote widely, most notably the treatise Audi, filia, on the spiritual life.\n\nHe died in 1569 and was canonized in 1970. In 2012 Pope Benedict XVI declared him a Doctor of the Church. He is invoked as a patron of the sick and of those who suffer illness.",
   "patronages": [
-    { "need": "the sick", "category": "illness" }
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/John_of_Avila"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Avila"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg/960px-Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Avila"
+  }
 }

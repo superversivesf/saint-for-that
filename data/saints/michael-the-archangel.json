@@ -4,10 +4,23 @@
   "feastDay": "09-29",
   "bio": "Michael is one of the three archangels named in Scripture, appearing in the Book of Daniel, the Epistle of Jude, and the Book of Revelation, where he leads the heavenly host in battle against the dragon. His name in Hebrew means \"Who is like God?\", the cry traditionally associated with his victory over Satan.\n\nChristian tradition honors Michael as the protector of the Church and the guardian of souls, often depicting him in armor with a sword or scales. He is venerated as the patron of soldiers and police, and devotion to him spread widely in both East and West, with famous shrines such as Mont-Saint-Michel in France.\n\nHis feast, shared with the archangels Gabriel and Raphael, is celebrated on September 29. The prayer to St. Michael, composed by Pope Leo XIII, remains one of the most widely recited prayers for spiritual protection.",
   "patronages": [
-    { "need": "protection", "category": "spiritual" },
-    { "need": "spiritual warfare", "category": "spiritual" }
+    {
+      "need": "protection",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
   ],
   "prayer": "St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Michael_(archangel)"],
-  "featured": true
+  "sources": [
+    "https://en.wikipedia.org/wiki/Michael_(archangel)"
+  ],
+  "featured": true,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/960px-GuidoReni_MichaelDefeatsSatan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Michael the Archangel"
+  }
 }

@@ -5,9 +5,19 @@
   "canonized": "1726",
   "bio": "Peregrine Laziosi was born around 1260 into a wealthy family in Forlì, Italy. As a young man he was active in anti-papal politics and, according to tradition, once struck St. Philip Benizi during a riot. Philip's gentle response moved Peregrine deeply, and he soon repented and joined the Servite Order in Siena.\n\nPeregrine became known for his austerity and silence, and returned to Forlì to found a Servite community. Late in life he developed a cancerous sore on his leg, and when amputation was planned, he spent the night in prayer before a crucifix. The next morning the wound was healed, and he lived about twenty more years.\n\nHe died on May 1, 1345, at about age eighty-five, and was canonized in 1726. Peregrine is the patron saint of those suffering from cancer and other serious illnesses.",
   "patronages": [
-    { "need": "cancer", "category": "illness" }
+    {
+      "need": "cancer",
+      "category": "illness"
+    }
   ],
   "prayer": "O great St. Peregrine, you who were miraculously cured of cancer, obtain for me the grace to accept my suffering with patience and, if it be God's will, the healing I seek. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Peregrine_Laziosi"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peregrine_Laziosi"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lippi%2C_circoncisione%2C_santo_spirito.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peregrine Laziosi"
+  }
 }

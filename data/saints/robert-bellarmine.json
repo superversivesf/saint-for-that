@@ -5,8 +5,21 @@
   "canonized": "1930",
   "bio": "Robert Bellarmine was born in Montepulciano, Italy, in 1542, the nephew of Pope Marcellus II. He entered the Society of Jesus in 1560 and became one of the greatest theologians of the Counter-Reformation, teaching at the Roman College and writing the Disputationes, a landmark defense of Catholic doctrine.\n\nHe served as a cardinal and as Archbishop of Capua, where he was known for his pastoral care of the poor. He also wrote two famous catechisms and guided the young St. Aloysius Gonzaga, who died in his arms.\n\nHe died in 1621 and was canonized in 1930, then declared a Doctor of the Church in 1931. He is venerated as a patron of catechists, catechumens, and canon lawyers.",
   "patronages": [
-    { "need": "catechists", "category": "spiritual" },
-    { "need": "canon lawyers", "category": "jobs" }
+    {
+      "need": "catechists",
+      "category": "spiritual"
+    },
+    {
+      "need": "canon lawyers",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Robert_Bellarmine"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg/960px-Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Robert Bellarmine"
+  }
 }

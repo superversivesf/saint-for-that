@@ -4,8 +4,21 @@
   "feastDay": "05-12",
   "bio": "Pancras was a young Roman martyr of the early fourth century. According to tradition, he was born in Phrygia and came to Rome as an orphan, where he converted to Christianity. He was beheaded during the persecution of Diocletian around the year 304, at the age of about fourteen.\n\nA church was built over his tomb on the Via Aurelia, and his cult spread widely across Europe. In England, St. Pancras Old Church in London is one of the oldest sites of Christian worship in the country.\n\nHe is venerated as a patron of children, youth, and those who suffer injustice.",
   "patronages": [
-    { "need": "children", "category": "spiritual" },
-    { "need": "youth", "category": "spiritual" }
+    {
+      "need": "children",
+      "category": "spiritual"
+    },
+    {
+      "need": "youth",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Pancras_of_Rome"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pancras_of_Rome"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Barcelona_Cathedral_Interior_-_Statue_of_Saint_Pancrace_of_Rome.jpg/960px-Barcelona_Cathedral_Interior_-_Statue_of_Saint_Pancrace_of_Rome.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pancras"
+  }
 }

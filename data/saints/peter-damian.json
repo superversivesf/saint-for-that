@@ -5,8 +5,21 @@
   "canonized": "1828",
   "bio": "Peter Damian was born in Ravenna, Italy, around 1007. Orphaned as a child, he was raised by an older brother and received an excellent education, becoming a renowned teacher of rhetoric.\n\nAround 1035 he abandoned his academic career to become a hermit at Fonte Avellana, where he later served as prior. He wrote extensively on the reform of the clergy, calling for simplicity of life and fidelity to the Gospel, and he was made a cardinal in 1057, working as a papal legate across Europe.\n\nHe died in 1072. He was declared a Doctor of the Church in 1828, and his feast is celebrated on February 21.",
   "patronages": [
-    { "need": "church reform", "category": "spiritual" },
-    { "need": "hermits", "category": "spiritual" }
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Peter_Damian"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Damian"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Peter_Damian_bust.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter Damian"
+  }
 }

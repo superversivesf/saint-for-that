@@ -5,7 +5,17 @@
   "canonized": "2009",
   "bio": "Jozef De Veuster was born in 1840 in Tremelo, Belgium, and entered the Congregation of the Sacred Hearts of Jesus and Mary, taking the name Damien. In 1864 he was sent to the Hawaiian Islands as a missionary and was ordained in Honolulu.\n\nIn 1873 he volunteered to serve the leper colony at Kalaupapa on the island of Molokai, where the sick were exiled and left largely to fend for themselves. For sixteen years he served as priest, doctor, carpenter, and undertaker, building homes, a church, and an orphanage, and restoring dignity to the settlement.\n\nHe contracted leprosy himself in 1884 and died of the disease in 1889. He was canonized in 2009 and is venerated as a patron of lepers and of those with leprosy and HIV/AIDS.",
   "patronages": [
-    { "need": "lepers", "category": "illness" }
+    {
+      "need": "lepers",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Father_Damien"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Father_Damien"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Father_Damien%2C_photograph_by_William_Brigham.jpg/960px-Father_Damien%2C_photograph_by_William_Brigham.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Damien of Molokai"
+  }
 }

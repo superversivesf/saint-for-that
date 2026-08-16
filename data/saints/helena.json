@@ -5,8 +5,21 @@
   "canonized": "Pre-Congregation",
   "bio": "Helena was born around 250, probably in Drepanum in Bithynia, and became the consort of the Roman general Constantius Chlorus. Their son Constantine became emperor in 306, and Helena was given the title Augusta. She converted to Christianity and used her position to support the Church, building churches and caring for the poor.\n\nAround 326, Helena traveled to the Holy Land, where tradition says she discovered the True Cross in Jerusalem and identified the sites of the Nativity and the Ascension. She founded the Church of the Holy Sepulchre and the Church of the Nativity in Bethlehem.\n\nHelena died around 330 and was buried in Rome. She is venerated as a patron of converts, divorced people, and archaeologists.",
   "patronages": [
-    { "need": "divorced people", "category": "family" },
-    { "need": "converts", "category": "family" }
+    {
+      "need": "divorced people",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "family"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Elena_Colosseo_Rome_Italy.jpg/960px-Elena_Colosseo_Rome_Italy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Helena"
+  }
 }

@@ -5,8 +5,21 @@
   "canonized": "2002",
   "bio": "Josemaría Escrivá was born in 1902 in Barbastro, Spain. Ordained a priest in 1925, he founded Opus Dei in 1928, teaching that holiness is not reserved for priests and religious but is the calling of every Christian in ordinary work and daily life.\n\nHe spread this message through his preaching and writings, most famously The Way, a collection of spiritual maxims. He traveled widely, and Opus Dei grew into a worldwide institution of lay people and priests.\n\nHe died in Rome in 1975 and was canonized in 2002 by Pope John Paul II. He is venerated as a patron of ordinary work and of the laity.",
   "patronages": [
-    { "need": "workers", "category": "jobs" },
-    { "need": "the laity", "category": "spiritual" }
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Josemaría Escrivá"
+  }
 }

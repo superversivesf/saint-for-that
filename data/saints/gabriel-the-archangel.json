@@ -4,9 +4,22 @@
   "feastDay": "09-29",
   "bio": "Gabriel is one of the three archangels named in Scripture, and his name in Hebrew means \"God is my strength.\" He appears in the Book of Daniel to explain visions, and in the Gospel of Luke he announces to Zechariah the birth of John the Baptist and to Mary the birth of Jesus.\n\nBecause he carried the message of the Incarnation, Gabriel is honored as the messenger of God par excellence. Christian art often depicts him with a lily, symbolizing the Annunciation, or with a trumpet, and he is traditionally identified as the angel who will sound the trumpet at the Last Judgment.\n\nGabriel is the patron saint of messengers, postal workers, and all who work in communications, as well as of diplomats and broadcasters. His feast, shared with the archangels Michael and Raphael, is celebrated on September 29.",
   "patronages": [
-    { "need": "postal workers", "category": "everyday" },
-    { "need": "television", "category": "jobs" }
+    {
+      "need": "postal workers",
+      "category": "everyday"
+    },
+    {
+      "need": "television",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Gabriel"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gabriel"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ghent_Altarpiece_-_Angel_of_the_Annunciation.jpg/960px-Ghent_Altarpiece_-_Angel_of_the_Annunciation.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gabriel the Archangel"
+  }
 }

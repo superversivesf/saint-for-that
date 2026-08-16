@@ -5,7 +5,17 @@
   "canonized": "2018",
   "bio": "Oscar Romero was born in 1917 in El Salvador and ordained a priest in 1942. Known as a quiet, bookish churchman, he was appointed Archbishop of San Salvador in 1977, a time of escalating violence and repression against the poor.\n\nWithin weeks of his appointment, his friend Fr. Rutilio Grande was murdered for defending campesinos. The killing transformed Romero, who became a fearless voice for the oppressed, denouncing violence from all sides in his Sunday homilies, broadcast across the country.\n\nOn March 24, 1980, he was shot dead while celebrating Mass in a hospital chapel. His funeral was attacked, and the civil war that followed claimed some 75,000 lives. Beatified in 2015 and canonized by Pope Francis in 2018, he is venerated as a martyr and patron of the poor and oppressed.",
   "patronages": [
-    { "need": "the oppressed", "category": "persecution" }
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/%C3%93scar_Romero"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%93scar_Romero"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Oscar Romero"
+  }
 }

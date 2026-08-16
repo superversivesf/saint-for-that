@@ -4,9 +4,19 @@
   "feastDay": "09-03",
   "bio": "Gregory was born around 540 in Rome into a wealthy senatorial family. He served as prefect of the city before selling his possessions, founding monasteries, and becoming a monk. In 590 he was elected pope against his will, and he led the Church through plague, famine, and the Lombard invasions, negotiating peace and organizing relief for the poor.\n\nGregory reformed the liturgy, and the plainchant tradition bears his name. He sent St. Augustine of Canterbury and his monks to evangelize England in 596, and his Pastoral Rule became a standard guide for bishops for centuries. He was also a prolific writer of biblical commentaries and dialogues.\n\nHe died on March 12, 604, and is one of the four great Doctors of the Western Church. Gregory is honored as the patron of teachers, students, and musicians, and his feast is celebrated on September 3.",
   "patronages": [
-    { "need": "teachers", "category": "everyday" }
+    {
+      "need": "teachers",
+      "category": "everyday"
+    }
   ],
   "prayer": "O God, who cares for your people with gentleness and rules them in love, through the intercession of Pope St. Gregory, endow with the spirit of wisdom those you have placed in authority. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Pope_Gregory_I"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/960px-Gregory_the_Great_with_the_Holy_Spirit.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory the Great"
+  }
 }

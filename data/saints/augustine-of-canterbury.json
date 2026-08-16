@@ -5,8 +5,21 @@
   "canonized": "unknown",
   "bio": "Augustine was a Benedictine monk and prior of the monastery of St. Andrew in Rome when Pope Gregory the Great chose him in 595 to lead a mission to the Anglo-Saxons of Britain. He set out with about forty monks and landed in Kent in 597, where King Æthelberht, whose wife Bertha was already a Christian, received him kindly.\n\nAugustine baptized the king and thousands of his subjects, established his see at Canterbury, and founded the monastery that became Canterbury Cathedral. He worked to reconcile the older British church with Roman customs, though with limited success in his lifetime.\n\nHe died around 604 and is honored as the Apostle of England and a patron of missionaries.",
   "patronages": [
-    { "need": "missionaries", "category": "spiritual" },
-    { "need": "england", "category": "spiritual" }
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Augustine_of_Canterbury"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/LeningradBedeHiRes.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Augustine of Canterbury"
+  }
 }

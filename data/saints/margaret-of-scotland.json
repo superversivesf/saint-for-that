@@ -5,7 +5,17 @@
   "canonized": "1250",
   "bio": "Margaret was born around 1045, a princess of the English royal house of Wessex. After the Norman Conquest, her family fled to Scotland, where she married King Malcolm III around 1070.\n\nAs queen, Margaret was renowned for her charity and her reform of the Scottish Church. She personally served the poor and orphans each day, washed the feet of beggars, and founded churches, monasteries, and ferries for pilgrims. She also raised her eight children with great care, one of whom, David, became a saintly king.\n\nShe died on November 16, 1093, and was canonized in 1250. She is venerated as the patron saint of mothers.",
   "patronages": [
-    { "need": "mothers", "category": "everyday" }
+    {
+      "need": "mothers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Saint_Margaret_of_Scotland.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Margaret of Scotland"
+  }
 }

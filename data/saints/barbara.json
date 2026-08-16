@@ -5,8 +5,18 @@
   "canonized": "unknown",
   "bio": "Barbara was, according to tradition, the daughter of a wealthy pagan named Dioscorus, who kept her shut in a tower to preserve her from the world. She secretly became a Christian and had a third window added to her bathhouse in honor of the Trinity.\n\nWhen her father discovered her faith, he denounced her to the authorities. She was tortured and condemned to death, and her father himself carried out the sentence, after which he was struck by lightning.\n\nShe is venerated as one of the Fourteen Holy Helpers and is the patron saint of architects, builders, miners, and artillerymen, and is invoked against lightning and sudden death.",
   "patronages": [
-    { "need": "architects", "category": "everyday" }
+    {
+      "need": "architects",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Barbara"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Barbara"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg/960px-Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Barbara"
+  }
 }

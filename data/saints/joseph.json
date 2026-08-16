@@ -4,11 +4,27 @@
   "feastDay": "03-19",
   "bio": "Joseph of Nazareth was the husband of the Virgin Mary and the foster father of Jesus. A descendant of the house of David, he worked as a carpenter in Nazareth. The Gospels describe him as a just man who, upon learning of Mary's pregnancy, planned to divorce her quietly until an angel in a dream revealed God's plan; he then took Mary as his wife and protected the child Jesus.\n\nJoseph led the Holy Family to Bethlehem for the census, fled with them into Egypt to escape Herod, and later returned to settle in Nazareth. He is last mentioned in Scripture when the twelve-year-old Jesus is found in the Temple. Tradition holds that he died before Jesus began his public ministry.\n\nVenerated from the earliest centuries, Joseph was declared patron of the universal Church in 1870. He is the patron of workers, fathers, and families, and is popularly invoked by those selling a home.",
   "patronages": [
-    { "need": "workers", "category": "jobs" },
-    { "need": "fathers", "category": "family" },
-    { "need": "home sale", "category": "everyday" }
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "home sale",
+      "category": "everyday"
+    }
   ],
   "prayer": "O St. Joseph, whose protection is so great, so strong, so prompt before the throne of God, I place in you all my interests and desires. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Joseph"],
-  "featured": true
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Joseph"
+  ],
+  "featured": true,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg/960px-Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Joseph"
+  }
 }

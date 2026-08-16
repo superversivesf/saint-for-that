@@ -5,9 +5,19 @@
   "canonized": "1255",
   "bio": "Clare was born in Assisi around 1194 into a noble family. At eighteen, inspired by the preaching of St. Francis, she secretly left her home on Palm Sunday 1212 and received the habit from Francis at the Portiuncula. She founded the Order of Poor Ladies, later called the Poor Clares, at San Damiano, where she lived for more than forty years.\n\nClare led her community with a radical commitment to poverty, and she obtained from Pope Gregory IX the \"Privilege of Poverty,\" the right to own nothing. In 1240, when Assisi was threatened by soldiers, she is said to have faced them holding the Blessed Sacrament, and the attackers fled. She is also credited with a vision of the Christmas Mass at the Basilica of St. Francis while confined to bed, for which she was later named patroness of television.\n\nClare died on August 11, 1253, and was canonized just two years later. She is invoked especially for diseases of the eyes, and her feast is celebrated on August 11.",
   "patronages": [
-    { "need": "eye diseases", "category": "illness" }
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    }
   ],
   "prayer": "O glorious St. Clare, mirror of poverty and humility, obtain for us clear sight of God's will and the grace to follow it with a generous heart. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Clare_of_Assisi"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/SDamiano-Clara.jpg/960px-SDamiano-Clara.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Clare of Assisi"
+  }
 }

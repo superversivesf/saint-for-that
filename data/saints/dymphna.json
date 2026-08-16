@@ -4,10 +4,23 @@
   "feastDay": "05-15",
   "bio": "According to tradition, Dymphna was the daughter of a pagan Irish king in the seventh century. Her mother, a devout Christian, died when Dymphna was young, and the girl consecrated herself to Christ. When her grief-stricken father sought to marry her, she fled with her confessor, the priest Gerebernus, to Geel in present-day Belgium.\n\nHer father pursued her and, when she refused to return with him, killed her in a rage around the year 650. She was about fifteen years old. The townspeople buried her with honor, and reports of healings, especially of those afflicted with mental and emotional disorders, soon spread.\n\nDymphna is venerated as patroness of those suffering from mental illness, anxiety, and nervous disorders. The town of Geel became famous for its centuries-old tradition of compassionate care for the mentally ill, and her shrine remains a place of pilgrimage today.",
   "patronages": [
-    { "need": "anxiety", "category": "illness" },
-    { "need": "mental illness", "category": "illness" }
+    {
+      "need": "anxiety",
+      "category": "illness"
+    },
+    {
+      "need": "mental illness",
+      "category": "illness"
+    }
   ],
   "prayer": "O God, source of our salvation, through the intercession of St. Dymphna, patroness of those afflicted with mental and emotional illness, grant comfort to all who suffer and strength to those who care for them. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Dymphna"],
-  "featured": true
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dymphna"
+  ],
+  "featured": true,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg/960px-Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dymphna"
+  }
 }

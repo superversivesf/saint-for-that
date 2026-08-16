@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Matthew, also called Levi, was a tax collector in Capernaum when Jesus called him with the simple words, \"Follow me.\" He left his toll booth at once, and tradition says he hosted a banquet for Jesus at his house, scandalizing those who thought tax collectors beyond redemption.\n\nHe became one of the Twelve Apostles and is traditionally credited with writing the Gospel that bears his name, which emphasizes Jesus as the fulfillment of the Old Testament promises. Early tradition holds that he preached in Judea and later in Ethiopia or Persia, where he was martyred.\n\nBecause his work as a tax collector required careful record-keeping and honest accounting, Matthew is venerated as the patron saint of accountants, bankers, and tax collectors. His feast is celebrated on September 21.",
   "patronages": [
-    { "need": "accountants", "category": "jobs" }
+    {
+      "need": "accountants",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Matthew_the_Apostle"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Codexaureus_17.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Matthew"
+  }
 }

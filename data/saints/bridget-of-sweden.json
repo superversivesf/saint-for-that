@@ -5,8 +5,21 @@
   "canonized": "1391",
   "bio": "Bridget was born around 1303 into a noble Swedish family. Married to Ulf Gudmarsson, she raised eight children, one of whom, Catherine, is also a saint. After her husband's death she devoted herself entirely to prayer and pilgrimage.\n\nShe received visions throughout her life, which she dictated to her confessors; they were collected as the Revelations. She founded the Order of the Most Holy Savior, known as the Brigittines, and traveled to Rome, where she lived for many years and worked for the reform of the Church.\n\nShe died in Rome in 1373 and was canonized in 1391. She is co-patroness of Europe and is venerated as a patron of widows.",
   "patronages": [
-    { "need": "widows", "category": "family" },
-    { "need": "europe", "category": "spiritual" }
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Bridget_of_Sweden"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png/960px-Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bridget of Sweden"
+  }
 }

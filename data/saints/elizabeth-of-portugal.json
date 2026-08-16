@@ -5,8 +5,18 @@
   "canonized": "1625",
   "bio": "Elizabeth was born in 1271, daughter of King Peter III of Aragon, and was named after her great-aunt Elizabeth of Hungary. In 1282 she married King Denis of Portugal, and as queen she was known for her piety, charity, and care for the poor and sick.\n\nShe repeatedly acted as a peacemaker, reconciling her husband and son and helping to settle disputes within the royal family and the kingdom. After her husband's death she became a Franciscan tertiary and lived at the convent of the Poor Clares in Coimbra.\n\nShe died on July 4, 1336, while on a journey to make peace between her son and grandson, and was canonized in 1625. She is venerated as the patron saint of peace and of difficult marriages.",
   "patronages": [
-    { "need": "peace", "category": "everyday" }
+    {
+      "need": "peace",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png/960px-Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Elizabeth of Portugal"
+  }
 }

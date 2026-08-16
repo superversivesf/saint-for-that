@@ -4,8 +4,18 @@
   "feastDay": "06-15",
   "bio": "Vitus was a Christian child martyr of Sicily, venerated since the early Church. According to tradition, he was the son of a pagan senator and was converted to Christianity by his tutor Modestus and his nurse Crescentia.\n\nWhen he refused to renounce his faith, he was subjected to various tortures, from which he was miraculously delivered. He was martyred around the year 303 during the persecution of Diocletian.\n\nHis relics were later translated to the abbey of Corvey in Germany, and devotion to him spread widely across Europe. He is one of the Fourteen Holy Helpers and is invoked against epilepsy and nervous disorders, and as the patron saint of dancers.",
   "patronages": [
-    { "need": "dancers", "category": "everyday" }
+    {
+      "need": "dancers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Vitus"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vitus"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg/960px-St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vitus"
+  }
 }

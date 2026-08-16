@@ -21,7 +21,7 @@ const q = Astro.url.searchParams.get('q') ?? '';
         input: '#pagefind-search',
         showImages: false,
         excerptLength: 12,
-        initialQuery: ${JSON.stringify(q)},
+        triggerSearchTerm: ${JSON.stringify(q)},
       });
     });`} />
 </BaseLayout>

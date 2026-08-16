@@ -4,9 +4,19 @@
   "feastDay": "12-13",
   "bio": "Lucy was a young Christian woman of Syracuse in Sicily, born around 283 into a noble family. After her father's death, she secretly consecrated her virginity to God and gave her dowry to the poor. When her mother arranged her marriage to a pagan suitor, Lucy refused, and the rejected suitor denounced her as a Christian.\n\nDuring the persecution of the emperor Diocletian, Lucy was arrested and ordered to sacrifice to the gods. When she refused, she was condemned. According to tradition, her eyes were gouged out, though some accounts say she tore them out herself to discourage a suitor; in many versions her sight was miraculously restored. She was martyred by the sword around 304.\n\nLucy is one of the most venerated early martyrs, honored in both East and West. Her name means \"light,\" and she is the patroness of the blind and of those with eye diseases. Her feast on December 13 is celebrated with festivals of light, especially in Scandinavia.",
   "patronages": [
-    { "need": "eye diseases", "category": "illness" }
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    }
   ],
   "prayer": "St. Lucy, whose beautiful name signifies light, obtain for me clear vision of the path of life, and the grace to walk it with courage and faith. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Lucy"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Lucy"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/960px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lucy"
+  }
 }

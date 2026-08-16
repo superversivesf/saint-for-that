@@ -5,7 +5,17 @@
   "canonized": "1267",
   "bio": "Hedwig was born in 1174 in Bavaria, the daughter of a count. At the age of twelve she married Henry I, Duke of Silesia, and together they raised seven children and ruled their duchy with justice and generosity.\n\nHedwig was known for her deep piety and her care for the poor. She founded hospitals, monasteries, and convents, and after her husband's death she lived in the Cistercian convent at Trebnitz, which she had established. She walked barefoot even in winter and gave away her wealth to those in need.\n\nShe died on October 15, 1243, and was canonized in 1267. She is venerated as the patron saint of brides.",
   "patronages": [
-    { "need": "brides", "category": "everyday" }
+    {
+      "need": "brides",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Hedwig_of_Silesia"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hedwig_von_Schlesien.jpg/960px-Hedwig_von_Schlesien.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hedwig"
+  }
 }

@@ -5,8 +5,18 @@
   "canonized": "unknown",
   "bio": "Bartholomew was one of the twelve apostles of Jesus, named in the Gospels of Matthew, Mark, and Luke. He is traditionally identified with Nathanael, whom Philip brought to Jesus in the Gospel of John.\n\nAfter Pentecost, tradition holds that he preached the Gospel in India, Mesopotamia, and Armenia, where he is especially venerated. He is said to have been martyred by being flayed alive, and his relics were later venerated in Rome and elsewhere.\n\nHe is the patron saint of tanners, leatherworkers, and bookbinders, and his feast is kept on August 24.",
   "patronages": [
-    { "need": "tanners", "category": "everyday" }
+    {
+      "need": "tanners",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rubens_apostel_bartolomeus_grt.jpg/960px-Rubens_apostel_bartolomeus_grt.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bartholomew"
+  }
 }

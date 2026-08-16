@@ -5,7 +5,17 @@
   "canonized": "1737",
   "bio": "Vincent de Paul was born in 1581 to a peasant family in Pouy, France, and was ordained a priest in 1600. After a period as a tutor and chaplain, a deep conversion led him to devote his life entirely to the service of the poor.\n\nIn 1625 he founded the Congregation of the Mission, known as the Vincentians, to preach missions and form the clergy, and in 1633, with St. Louise de Marillac, he founded the Daughters of Charity, the first community of women devoted to serving the sick and poor outside the cloister. He organized relief for war victims, galley slaves, and foundlings, and reformed the care of the sick in hospitals throughout France.\n\nHe died in 1660 and was canonized in 1737. He is the patron of charitable societies, and the Society of St. Vincent de Paul continues his work worldwide.",
   "patronages": [
-    { "need": "the sick", "category": "illness" }
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Vincent_de_Paul"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vincent_de_Paul"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Simon_Fran%C3%A7ois_de_Tours_-_Portrait_Vincent_de_Paul_%284x5_cropped%29.jpeg/960px-Simon_Fran%C3%A7ois_de_Tours_-_Portrait_Vincent_de_Paul_%284x5_cropped%29.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vincent de Paul"
+  }
 }

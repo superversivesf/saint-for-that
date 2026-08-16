@@ -4,7 +4,17 @@
   "feastDay": "12-13",
   "bio": "Odilia was born blind in the seventh century, the daughter of Adalric, Duke of Alsace. Her father, ashamed of her blindness, is said to have ordered her killed, but her mother sent her to be raised in a convent. According to tradition, her sight was restored when she was baptized at the age of twelve by St. Erhard of Regensburg.\n\nReturning to her family, she reconciled with her father, who gave her the castle of Hohenburg on Mount Odilienberg, where she founded a convent and became its first abbess. She also founded a hospice for the sick and the poor at the foot of the mountain.\n\nOdilia died around 720 and is venerated as the patroness of Alsace and of the blind and those with eye diseases. Her shrine at Mont Sainte-Odile remains a place of pilgrimage.",
   "patronages": [
-    { "need": "blindness", "category": "illness" }
+    {
+      "need": "blindness",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Odile_of_Alsace"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odile_of_Alsace"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sainte_Odile_-_Dompeter.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Odilia"
+  }
 }

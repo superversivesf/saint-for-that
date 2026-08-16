@@ -5,8 +5,21 @@
   "canonized": "2014",
   "bio": "Karol Wojtyła was born in 1920 in Wadowice, Poland. He lost his mother, brother, and father by the age of twenty-one, and during the Nazi occupation he worked in a quarry while studying secretly for the priesthood. Ordained in 1946, he became a professor of philosophy, then bishop and cardinal of Krakow.\n\nElected pope in 1978, he was the first non-Italian pope in 455 years. His pontificate of twenty-six years was one of the longest in history, marked by vast travels, the fall of communism in Eastern Europe, the World Youth Days, and the encyclicals that shaped a generation.\n\nHe survived an assassination attempt in 1981 and forgave his attacker. He died in 2005 and was canonized in 2014. He is venerated as a patron of families and young people.",
   "patronages": [
-    { "need": "youth", "category": "family" },
-    { "need": "families", "category": "family" }
+    {
+      "need": "youth",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Pope_John_Paul_II"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Paul II"
+  }
 }

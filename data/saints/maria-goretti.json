@@ -5,7 +5,17 @@
   "canonized": "1950",
   "bio": "Maria was born in 1890 in Corinaldo, Italy, into a poor farming family. After her father died, she helped her mother care for her younger siblings while working in the fields.\n\nIn 1902, at the age of eleven, she was attacked by a neighbor who tried to assault her. She resisted, telling him it was a sin, and he stabbed her fourteen times. She forgave her attacker before dying the next day, July 6, 1902.\n\nHer attacker later repented and attended her canonization in 1950. She is venerated as the patron saint of youth and of victims of assault.",
   "patronages": [
-    { "need": "youth", "category": "everyday" }
+    {
+      "need": "youth",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Maria_Goretti"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maria_Goretti"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Maria_Goretti.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maria Goretti"
+  }
 }

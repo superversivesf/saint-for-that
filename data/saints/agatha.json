@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Agatha was a young Christian woman of noble birth from Catania, Sicily, who lived in the third century. During the persecution of the emperor Decius, she consecrated herself to God and refused the advances of the Roman prefect Quintianus. When she rejected his demands, she was arrested and subjected to brutal tortures, including the cutting off of her breasts.\n\nAccording to tradition, she was visited in prison by St. Peter, who healed her wounds. She died as a martyr around 251, and her intercession was soon credited with stopping eruptions of Mount Etna that threatened Catania.\n\nAgatha is one of the most venerated virgin martyrs of the early Church, honored in the Roman Canon of the Mass. Because of the manner of her torture, she is invoked against breast disease and other illnesses of women.",
   "patronages": [
-    { "need": "breast disease", "category": "illness" }
+    {
+      "need": "breast disease",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Agatha_of_Sicily"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg/960px-Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agatha"
+  }
 }

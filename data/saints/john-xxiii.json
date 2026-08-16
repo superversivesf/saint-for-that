@@ -5,8 +5,21 @@
   "canonized": "2014",
   "bio": "Angelo Giuseppe Roncalli was born in 1881 in Sotto il Monte, Italy, the fourth of thirteen children of a farming family. Ordained a priest in 1904, he served as a military chaplain in World War I and later as a papal diplomat in Bulgaria, Turkey, and France.\n\nElected pope in 1958 at the age of seventy-six, he was expected to be a caretaker, but in 1959 he surprised the world by calling the Second Vatican Council, which renewed the life of the Church. He also wrote the encyclical Pacem in Terris on peace and human rights.\n\nHe died in 1963 and was canonized in 2014 by Pope Francis, together with St. John Paul II. He is remembered as the Good Pope.",
   "patronages": [
-    { "need": "church unity", "category": "spiritual" },
-    { "need": "peace", "category": "spiritual" }
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Pope_John_XXIII"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg/960px-Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John XXIII"
+  }
 }

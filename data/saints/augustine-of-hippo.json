@@ -4,9 +4,19 @@
   "feastDay": "08-28",
   "bio": "Augustine was born in 354 in Thagaste, in Roman North Africa, to a pagan father and a devout Christian mother, St. Monica. Brilliant and ambitious, he studied rhetoric at Carthage and taught in Rome and Milan. For years he lived with a concubine, fathered a son, and followed the Manichaean sect, while his mother prayed unceasingly for his conversion.\n\nIn Milan, the preaching of Bishop Ambrose and the example of Christian ascetics broke through his resistance. In a garden in 386 he heard a child's voice saying \"Take up and read,\" opened the letters of St. Paul, and was converted. He was baptized by Ambrose at Easter 387, and after his mother's death returned to Africa, where he became bishop of Hippo in 395.\n\nAugustine wrote the Confessions, the first great spiritual autobiography, and The City of God, and his theology shaped Western Christianity for centuries. He died on August 28, 430, as the Vandals besieged Hippo. He is the patron of those seeking conversion and of theologians.",
   "patronages": [
-    { "need": "conversion", "category": "spiritual" }
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
   ],
   "prayer": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you. You were within me, but I was outside, and it was there that I searched for you. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Augustine_of_Hippo"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/960px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Augustine of Hippo"
+  }
 }

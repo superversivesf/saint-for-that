@@ -4,9 +4,19 @@
   "feastDay": "10-28",
   "bio": "Jude, also called Thaddeus, was one of the twelve apostles of Jesus, traditionally identified as the author of the brief New Testament Epistle of Jude. He is often distinguished from Judas Iscariot, and in some traditions he is described as a relative of Jesus, possibly a cousin. Little is recorded of his life in the Gospels, where he appears in the lists of apostles and asks Jesus a question at the Last Supper.\n\nAccording to tradition, Jude preached the Gospel in Judea, Samaria, Syria, Mesopotamia, and Libya, and was martyred, possibly in Persia, alongside the apostle Simon the Zealot. He is often depicted holding an image of Jesus or with a flame above his head, recalling his presence at Pentecost.\n\nBecause his name was so easily confused with that of the traitor Judas, devotion to Jude developed slowly, and he became known as the patron of lost and desperate causes. Today he is one of the most widely invoked saints, with his feast celebrated on October 28.",
   "patronages": [
-    { "need": "impossible causes", "category": "special" }
+    {
+      "need": "impossible causes",
+      "category": "special"
+    }
   ],
   "prayer": "Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally as the patron of hopeless cases. Pray for me; I am so helpless and alone. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Jude_the_Apostle"],
-  "featured": true
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jude_the_Apostle"
+  ],
+  "featured": true,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/960px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Jude Thaddeus"
+  }
 }

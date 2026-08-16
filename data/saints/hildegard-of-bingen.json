@@ -5,8 +5,21 @@
   "canonized": "2012",
   "bio": "Hildegard of Bingen was born in 1098 in the Rhineland. Enclosed as a child with the anchoress Jutta, she became abbess of the community at Disibodenberg and later founded her own monasteries at Rupertsberg and Eibingen.\n\nShe was a visionary, theologian, composer, and naturalist. Her writings include Scivias, a record of her visions, works on medicine and natural history, and a large body of liturgical music. She corresponded with popes, emperors, and bishops, and preached publicly at a time when few women did.\n\nShe died in 1179. Pope Benedict XVI declared her a Doctor of the Church in 2012, recognizing her as one of the great teachers of the faith.",
   "patronages": [
-    { "need": "musicians", "category": "spiritual" },
-    { "need": "scientists", "category": "spiritual" }
+    {
+      "need": "musicians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scientists",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Hildegard_of_Bingen"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/960px-Hildegard_von_Bingen.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hildegard of Bingen"
+  }
 }

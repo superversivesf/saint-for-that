@@ -5,8 +5,18 @@
   "canonized": "1029",
   "bio": "Dunstan was born around 909 near Glastonbury in England. Educated at Glastonbury Abbey, he became a monk, and later abbot, restoring the abbey and making it a center of learning. He was also a skilled metalworker, musician, and scribe.\n\nLegend says that while working at his forge he seized the devil by the nose with his tongs. As bishop of Worcester and London and then archbishop of Canterbury from 960, he reformed the English church and monasteries and crowned several kings.\n\nHe died on May 19, 988, and was canonized in 1029. He is venerated as the patron saint of goldsmiths, blacksmiths, and musicians.",
   "patronages": [
-    { "need": "goldsmiths", "category": "everyday" }
+    {
+      "need": "goldsmiths",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Dunstan"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dunstan"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dunstan3.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dunstan"
+  }
 }

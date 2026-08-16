@@ -4,7 +4,17 @@
   "feastDay": "11-06",
   "bio": "Leonard of Noblac was a Frankish nobleman who lived in the sixth century. According to tradition, he was a courtier of King Clovis I and was converted to Christianity by St. Remigius, the bishop who baptized the king.\n\nRefusing the bishopric offered to him, Leonard withdrew to a forest near Limoges, where he lived as a hermit. The king granted him the right to free prisoners he encountered, and Leonard became known for obtaining the release of captives, many of whom settled around his hermitage.\n\nHe founded a monastery at Noblac, which became a major pilgrimage site in the Middle Ages. He is venerated as the patron saint of prisoners, captives, and women in labor, and his intercession was widely sought by those unjustly imprisoned.",
   "patronages": [
-    { "need": "prisoners", "category": "persecution" }
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Leonard_of_Noblac"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/San_leonardo_abate.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leonard of Noblac"
+  }
 }

@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Apollonia was a deaconess of the church of Alexandria who was martyred around 249, during a riot against Christians that followed the edict of the emperor Decius. An elderly woman of great virtue, she was seized by a mob that beat her and knocked out or broke all of her teeth.\n\nHer captors built a fire and threatened to throw her into it unless she renounced Christ. Asking for a moment to pray, she then leapt into the flames herself rather than deny her faith.\n\nBecause of the torture she endured, Apollonia is invoked against toothache and all diseases of the teeth. She is the patron saint of dentistry and of dentists, and is often depicted holding a tooth in a pair of pincers.",
   "patronages": [
-    { "need": "dentistry", "category": "illness" }
+    {
+      "need": "dentistry",
+      "category": "illness"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Apollonia"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Apollonia"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Francisco_de_Zurbar%C3%A1n_035.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Apollonia"
+  }
 }

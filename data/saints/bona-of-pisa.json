@@ -5,7 +5,17 @@
   "canonized": "1962",
   "bio": "Bona was born around 1156 in Pisa, Italy. As a child she experienced visions, and at the age of ten she became an Augustinian tertiary. From the age of fourteen she made pilgrimages, traveling to the Holy Land, Rome, and the shrine of Santiago de Compostela in Spain.\n\nShe made the journey to Compostela nine times, leading groups of pilgrims along the dangerous medieval roads. On one return voyage she was attacked by Muslim pirates and wounded, but she recovered and continued her travels. She also served as a guide for pilgrims, caring for the sick and the poor along the way.\n\nBona died in Pisa around 1207. Because of her lifelong work guiding and caring for travelers, she is venerated as the patron saint of flight attendants, couriers, guides, and pilgrims. Her feast is celebrated on May 29.",
   "patronages": [
-    { "need": "flight attendants", "category": "jobs" }
+    {
+      "need": "flight attendants",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Bona_of_Pisa"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bona_of_Pisa"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Santa_Bona_-_Giovanni_Lorenzetti.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bona of Pisa"
+  }
 }

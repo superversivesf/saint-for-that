@@ -4,9 +4,19 @@
   "feastDay": "08-11",
   "bio": "Philomena is a young martyr whose remains were discovered in 1802 in the Catacomb of Priscilla in Rome, in a tomb marked with the inscription \"Pax tecum Filumena\" — \"Peace be with you, Philomena.\" The tomb contained the bones of a girl of about thirteen, along with a vial of dried blood, a sign of martyrdom.\n\nDevotion to her spread rapidly after miracles were reported at her shrine in Mugnano del Cardinale, near Naples, where her relics were enshrined. According to private revelations recorded by a nun, Philomena was a Greek princess who was martyred under the emperor Diocletian for refusing marriage and remaining faithful to Christ.\n\nPhilomena was never formally canonized, and her feast was removed from the general calendar in 1961 because so little is historically certain about her. Nevertheless, she remains widely venerated as a powerful intercessor, especially for young people, and is known as the \"Wonder Worker.\"",
   "patronages": [
-    { "need": "youth", "category": "family" }
+    {
+      "need": "youth",
+      "category": "family"
+    }
   ],
   "prayer": "O faithful virgin and glorious martyr, St. Philomena, who works so many miracles, pray for me and obtain for me the grace I ask. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Philomena"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philomena"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tela_di_Santa_Filomena.jpg/960px-Tela_di_Santa_Filomena.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Philomena"
+  }
 }

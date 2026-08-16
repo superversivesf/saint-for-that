@@ -5,8 +5,21 @@
   "canonized": "Pre-Congregation",
   "bio": "Medard was born around 456 in Salency, Picardy, into a noble Frankish family. He was ordained a priest and became bishop of Vermand, later moving the see to Noyon, and around 530 he also served as bishop of Tournai. He was known for his charity to the poor and his care for the people of the countryside.\n\nMany legends grew up around Medard, the most famous telling how an eagle sheltered him from a sudden storm with its wings while he was a boy, leaving him dry while the rain fell all around. This story made him the saint to invoke for good weather, and farmers long looked to his feast day, June 8, as a weather marker.\n\nMedard died around 545 and was buried at Soissons, where the abbey of Saint-Médard became a place of pilgrimage. He is a patron of farmers, vineyards, and good weather.",
   "patronages": [
-    { "need": "good weather", "category": "nature" },
-    { "need": "farmers", "category": "nature" }
+    {
+      "need": "good weather",
+      "category": "nature"
+    },
+    {
+      "need": "farmers",
+      "category": "nature"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Medardus"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Medardus"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Saint_medard_a_saint_medard_d_eyrans.jpg/960px-Saint_medard_a_saint_medard_d_eyrans.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Medard"
+  }
 }

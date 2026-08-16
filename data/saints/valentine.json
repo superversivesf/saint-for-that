@@ -4,9 +4,19 @@
   "feastDay": "02-14",
   "bio": "Valentine was a priest or bishop in Rome in the third century, martyred during the persecution of the emperor Claudius II around 269. According to tradition, he ministered to persecuted Christians and performed marriages for soldiers who were forbidden to wed, and he is said to have healed the blind daughter of his jailer, leaving her a farewell note signed \"Your Valentine.\"\n\nHe was beaten and beheaded on the Via Flaminia on February 14, and a basilica was later built over his tomb. Another martyr named Valentine, bishop of Terni, shares the same feast day, and the two accounts may have merged over time.\n\nBy the Middle Ages, his feast had become associated with courtly love, and he is now celebrated worldwide as the patron of lovers, engaged couples, and happy marriages.",
   "patronages": [
-    { "need": "engaged couples", "category": "family" }
+    {
+      "need": "engaged couples",
+      "category": "family"
+    }
   ],
   "prayer": "St. Valentine, faithful witness to love, pray for all who are engaged and married, that their love may be patient, kind, and enduring. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Valentine"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Valentine"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Matija_Brada%C5%A1ka_-_Sv._Valentin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Valentine"
+  }
 }

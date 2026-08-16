@@ -5,8 +5,18 @@
   "canonized": "1900",
   "bio": "Jean-Baptiste de La Salle was born in 1651 in Reims, France, into a wealthy family. He was ordained a priest in 1678 and became involved in founding free schools for poor boys.\n\nHe gave up his family fortune and gathered a community of teachers, the Brothers of the Christian Schools, dedicated to the education of the poor. He pioneered classroom teaching methods, teacher training, and the use of the vernacular instead of Latin.\n\nHe died in 1719 and was canonized in 1900. In 1950 Pope Pius XII declared him the patron saint of all teachers.",
   "patronages": [
-    { "need": "teachers", "category": "everyday" }
+    {
+      "need": "teachers",
+      "category": "everyday"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle"],
-  "featured": false
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle"
+  ],
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jean_baptiste_de_la_Salle.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Jean-Baptiste de La Salle"
+  }
 }

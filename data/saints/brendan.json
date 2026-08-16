@@ -5,7 +5,17 @@
   "canonized": "Pre-Congregation",
   "bio": "Brendan was born around 484 near Tralee in County Kerry, Ireland. He was educated by St. Ita and ordained a priest, and he founded monasteries across Ireland, the most famous being Clonfert in County Galway.\n\nHe is best known as Brendan the Navigator. According to the Navigatio Sancti Brendani, he and a band of monks set sail in a currach, a small leather boat, in search of the Promised Land of the Saints. The voyage, which may have lasted seven years, describes encounters with sea monsters, islands, and wonders, and some scholars believe the account preserves memories of real Atlantic voyages, possibly as far as Iceland or North America.\n\nBrendan died around 577 at Annaghdown and was buried at Clonfert. He is venerated as the patron saint of sailors, navigators, and travelers, and his feast is celebrated on May 16.",
   "patronages": [
-    { "need": "sailors", "category": "jobs" }
+    {
+      "need": "sailors",
+      "category": "jobs"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Brendan_the_Navigator"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brendan_the_Navigator"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brendan"
+  }
 }

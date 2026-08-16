@@ -5,8 +5,21 @@
   "canonized": "unknown",
   "bio": "Cyril and Methodius were brothers born in Thessalonica in the ninth century, sons of a Byzantine official. Both became scholars and monks; Cyril was known as Constantine the Philosopher before taking the name Cyril late in life. In 862 they were sent by the Byzantine emperor to evangelize the Slavic peoples of Moravia at the request of Prince Rastislav.\n\nTo preach in the language of the people, Cyril devised the Glagolitic alphabet, the ancestor of Cyrillic, and with Methodius translated the Gospels, the psalter, and the liturgy into Old Church Slavonic. Their work met fierce opposition from Frankish clergy who insisted on Latin, and they traveled to Rome to defend the Slavic liturgy, where Pope Adrian II approved it.\n\nCyril died in Rome in 869; Methodius continued as archbishop of Moravia until his death in 885. They are honored as the Apostles of the Slavs and patrons of missionaries and of Europe.",
   "patronages": [
-    { "need": "missionaries", "category": "spiritual" },
-    { "need": "europe", "category": "spiritual" }
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Cyril_and_Methodius"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Sts. Cyril and Methodius"
+  }
 }

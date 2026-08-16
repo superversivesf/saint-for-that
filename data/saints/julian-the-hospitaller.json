@@ -4,7 +4,17 @@
   "feastDay": "02-12",
   "bio": "Julian the Hospitaller is a legendary saint whose story was widely told in medieval Europe. According to tradition, he was a nobleman who, after a prophecy that he would kill his parents, fled his home in horror. He married and prospered, but one day his parents arrived seeking him while he was away; his wife welcomed them and gave them her own bed.\n\nReturning at night, Julian mistook the sleeping couple for his wife and a lover and killed them both. Overcome with remorse, he devoted the rest of his life to penance and service. With his wife he built a hospice beside a dangerous river, ferrying travelers across and caring for the sick and poor.\n\nOne stormy night he carried a leper across the river and warmed him in his own bed; the leper revealed himself as Christ, announcing that Julian's sins were forgiven. He is venerated as the patron saint of innkeepers, ferrymen, and travelers.",
   "patronages": [
-    { "need": "innkeepers", "category": "travel" }
+    {
+      "need": "innkeepers",
+      "category": "travel"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Julian_the_Hospitaller"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Saintjulianghirlandaio.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Julian the Hospitaller"
+  }
 }

@@ -5,8 +5,21 @@
   "canonized": "2015",
   "bio": "Louis Martin was born in 1823 in Bordeaux, France. He trained as a watchmaker and settled in Alençon, where he married Zélie Guérin in 1858. The couple raised nine children, five of whom entered religious life, including St. Thérèse of Lisieux, the youngest.\n\nLouis was a quiet, prayerful man who loved fishing and long walks, and he supported his wife's lacemaking business while managing the household. After Zélie's death in 1877, he moved the family to Lisieux and devoted himself to his daughters, later enduring years of illness and mental decline with humility.\n\nLouis and Zélie were canonized together in 2015, the first married couple canonized as a pair. He is a patron of fathers, widowers, and families.",
   "patronages": [
-    { "need": "fathers", "category": "family" },
-    { "need": "widowers", "category": "family" }
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "widowers",
+      "category": "family"
+    }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Louis_Martin_(blessed)"]
+  "sources": [
+    "https://en.wikipedia.org/wiki/Louis_Martin_(blessed)"
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Louis_Martin_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Louis Martin"
+  }
 }
