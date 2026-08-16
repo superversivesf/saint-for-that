@@ -1,0 +1,11 @@
+{
+  "slug": "john-of-the-cross",
+  "name": "St. John of the Cross",
+  "feastDay": "12-14",
+  "canonized": "1726",
+  "bio": "John was born Juan de Yepes in 1542 in Fontiveros, Spain. He entered the Carmelite Order and, with St. Teresa of Avila, worked to reform it, founding the Discalced Carmelites. His reforms brought him imprisonment by his own brethren, and for nine months he was held in a tiny cell in Toledo.\n\nIn that darkness he composed some of the greatest poetry in the Spanish language, including the Spiritual Canticle. His writings, especially The Dark Night of the Soul and The Ascent of Mount Carmel, describe the soul's journey through purification to union with God.\n\nJohn died in 1591 and was canonized in 1726 and declared a Doctor of the Church. He is the patron of contemplatives, mystics, and poets.",
+  "patronages": [
+    { "need": "contemplation", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_of_the_Cross"]
+}

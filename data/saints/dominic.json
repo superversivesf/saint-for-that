@@ -1,0 +1,11 @@
+{
+  "slug": "dominic",
+  "name": "St. Dominic",
+  "feastDay": "08-08",
+  "canonized": "1234",
+  "bio": "Dominic was born around 1170 in Caleruega, Castile. As a canon of Osma he traveled through southern France, where he encountered the Albigensian heresy and resolved to answer it not with force but with preaching, poverty, and holiness of life.\n\nIn 1216 he founded the Order of Preachers, the Dominicans, dedicated to study and the proclamation of the Gospel. He established communities of friars and of contemplative nuns, and tradition associates him with the spread of the rosary.\n\nDominic died in Bologna in 1221 and was canonized in 1234. His order produced great saints and scholars such as Thomas Aquinas and Catherine of Siena. He is the patron of preachers, astronomers, and the Dominican Order.",
+  "patronages": [
+    { "need": "preachers", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Dominic"]
+}

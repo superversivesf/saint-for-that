@@ -1,0 +1,10 @@
+{
+  "slug": "george",
+  "name": "St. George",
+  "feastDay": "04-23",
+  "bio": "George was a Christian soldier of Greek origin who served in the Roman army in the late third century. According to tradition he was born in Cappadocia and rose to the rank of tribune before the emperor Diocletian began his persecution of Christians.\n\nWhen the persecution edicts were published, George is said to have torn them down and confessed his faith before the emperor. He was tortured and beheaded at Lydda in Palestine around 303. His courage made him one of the most venerated martyrs of the early Church.\n\nThe famous legend of George slaying a dragon to rescue a princess arose in the Middle Ages and made him the ideal of Christian chivalry. He is the patron saint of England, Georgia, and many other lands, and is invoked by soldiers, knights, and scouts.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_George"]
+}

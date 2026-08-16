@@ -1,0 +1,11 @@
+{
+  "slug": "ignatius-of-loyola",
+  "name": "St. Ignatius of Loyola",
+  "feastDay": "07-31",
+  "canonized": "1622",
+  "bio": "Ignatius was born in 1491 into a noble Basque family and pursued a career as a soldier. In 1521 he was gravely wounded by a cannonball at the siege of Pamplona. During his long recovery he read the lives of Christ and the saints, and he resolved to serve God instead of earthly princes.\n\nAfter a period of prayer and penance at Manresa, he wrote the Spiritual Exercises, a method of prayer and discernment that has guided countless souls. He studied at Paris, gathered companions including Francis Xavier, and in 1540 founded the Society of Jesus, the Jesuits, dedicated to the service of the Church and education.\n\nIgnatius governed the order from Rome until his death in 1556 and was canonized in 1622. He is the patron of retreats, soldiers, and spiritual exercises.",
+  "patronages": [
+    { "need": "retreats", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Ignatius_of_Loyola"]
+}

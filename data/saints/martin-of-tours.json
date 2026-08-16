@@ -1,0 +1,10 @@
+{
+  "slug": "martin-of-tours",
+  "name": "St. Martin of Tours",
+  "feastDay": "11-11",
+  "bio": "Martin was born around 316 in Pannonia, in present-day Hungary, the son of a Roman army officer. He was conscripted into the cavalry while still a catechumen. At Amiens he met a shivering beggar, cut his military cloak in two, and gave half to the man. That night he dreamed of Christ wearing the half-cloak, and he was baptized soon after.\n\nConvinced that a Christian could not fight, Martin left the army and became a disciple of St. Hilary of Poitiers. He founded a monastery at Ligugé, one of the first in Gaul, and lived as a hermit and monk. In 371 the people of Tours acclaimed him their bishop, and he served them with tireless preaching and care for the poor until his death in 397.\n\nMartin became one of the most beloved saints of Europe. He is the patron of soldiers, France, and conscientious objectors, and his feast day marks the traditional end of the harvest season.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Martin_of_Tours"]
+}

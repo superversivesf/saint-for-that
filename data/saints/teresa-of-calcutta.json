@@ -1,0 +1,11 @@
+{
+  "slug": "teresa-of-calcutta",
+  "name": "St. Teresa of Calcutta",
+  "feastDay": "09-05",
+  "canonized": "2016",
+  "bio": "Teresa was born Anjezë Gonxhe Bojaxhiu in 1910 in Skopje, in present-day North Macedonia. At eighteen she joined the Sisters of Loreto and was sent to India, where she taught in Calcutta for nearly twenty years.\n\nIn 1946, during a train journey, she experienced what she called a call within a call to serve the poorest of the poor. She left the convent school and in 1950 founded the Missionaries of Charity, whose sisters care for the dying, the abandoned, and the destitute. The order spread across the world, and she received the Nobel Peace Prize in 1979.\n\nTeresa died in 1997 and was canonized in 2016. She is remembered for her radiant charity and her hidden interior darkness, which she offered in union with Christ. She is the patron of the poor and of the Missionaries of Charity.",
+  "patronages": [
+    { "need": "the poor", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Mother_Teresa"]
+}

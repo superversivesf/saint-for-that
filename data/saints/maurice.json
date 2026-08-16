@@ -1,0 +1,10 @@
+{
+  "slug": "maurice",
+  "name": "St. Maurice",
+  "feastDay": "09-22",
+  "bio": "Maurice was the commander of the Theban Legion, a unit of Christian soldiers from Egypt serving in the Roman army. Around 287 the emperor Maximian ordered the legion to offer sacrifice to the gods before a campaign and to persecute local Christians.\n\nMaurice and his men refused, declaring that they would obey the emperor in all lawful things but could not deny their faith. When the legion persisted in its refusal, Maximian ordered the soldiers decimated, and finally the entire legion was executed at Agaunum, in present-day Switzerland.\n\nMaurice and his companions were venerated from the earliest centuries, and the abbey of Saint-Maurice d'Agaune became a great pilgrimage center. He is the patron of soldiers, infantrymen, and swordsmiths, and is honored as a model of fidelity to conscience.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Maurice"]
+}
