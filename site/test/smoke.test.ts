@@ -1,7 +1,8 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { spawn, exec, type ChildProcess } from 'node:child_process';
 import { readFile } from 'node:fs/promises';
-import { glob } from 'node:fs/promises';
+import { readdirSync } from 'node:fs';
+import { join } from 'node:path';
 
 const PORT = 4321;
 const BASE = `http://127.0.0.1:${PORT}`;
@@ -56,8 +57,9 @@ describe('build smoke', () => {
   });
 
   it('every saint page returns 200', async () => {
-    const files = [];
-    for await (const f of glob('../data/saints/*.json')) files.push(f);
+    const files = readdirSync(join(process.cwd(), '..', 'data', 'saints'))
+      .filter((f) => f.endsWith('.json'))
+      .map((f) => join(process.cwd(), '..', 'data', 'saints', f));
     const saints = await Promise.all(files.map(async (f) => JSON.parse(await readFile(f, 'utf8'))));
     const results = await Promise.all(
       saints.map(async (s) => ({ slug: s.slug, status: await status(`/saints/${s.slug}/`) })),
