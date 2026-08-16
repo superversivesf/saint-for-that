@@ -13,8 +13,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </div>
 
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
   <script is:inline>
-    import '/pagefind/pagefind-ui.js';
     window.addEventListener('DOMContentLoaded', () => {
       new PagefindUI({
         element: '#pagefind-results',
