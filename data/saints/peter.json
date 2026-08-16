@@ -1,0 +1,11 @@
+{
+  "slug": "peter",
+  "name": "St. Peter",
+  "feastDay": "06-29",
+  "canonized": "Pre-Congregation",
+  "bio": "Peter, originally named Simon, was a fisherman on the Sea of Galilee when Jesus called him and his brother Andrew to become \"fishers of men.\" He became the leader of the Twelve Apostles, and Jesus gave him the name Peter, the rock on which he would build his Church.\n\nPeter's faith was tested: he walked on water, confessed Jesus as the Christ, and yet denied him three times before the crucifixion. After the resurrection, the risen Lord forgave him and entrusted him with the care of his flock. Peter preached at Pentecost, worked miracles, and led the early Church in Jerusalem and Antioch before going to Rome.\n\nHe was martyred in Rome around 64 AD during the persecution of Nero, tradition says by crucifixion upside down at his own request. He is venerated as the first pope and as the patron saint of fishermen, popes, and Rome. His feast, shared with St. Paul, is celebrated on June 29.",
+  "patronages": [
+    { "need": "fishermen", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Peter"]
+}

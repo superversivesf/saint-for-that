@@ -1,0 +1,11 @@
+{
+  "slug": "romanos-the-melodist",
+  "name": "St. Romanos the Melodist",
+  "feastDay": "10-01",
+  "canonized": "Pre-Congregation",
+  "bio": "Romanos was born in Emesa, Syria, in the late fifth century and served as a deacon in Beirut before moving to Constantinople. According to tradition, he was a poor singer who was mocked by his fellow clergy until the Virgin Mary appeared to him in a dream and gave him a scroll to eat, filling him with the gift of sacred song.\n\nThat Christmas he mounted the ambo and sang his famous kontakion on the Nativity, astonishing the congregation. He went on to compose around a thousand kontakia, long poetic hymns that dramatized Scripture and the lives of the saints, earning him the title \"the Melodist.\"\n\nHe is the greatest hymnographer of the Byzantine Church, and his works are still sung in Eastern liturgies today. He died around 556 and is venerated as the patron saint of church musicians, singers, and choirs. His feast is celebrated on October 1.",
+  "patronages": [
+    { "need": "musicians", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Romanos_the_Melodist"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "anthony-the-abbot",
+  "name": "St. Anthony the Abbot",
+  "feastDay": "01-17",
+  "canonized": "Pre-Congregation",
+  "bio": "Anthony was born around 251 in Egypt to wealthy Christian parents. After hearing the Gospel command to sell everything and give to the poor, he gave away his inheritance and withdrew to the desert to live a life of prayer and asceticism.\n\nHe spent decades in solitude, and his holiness drew disciples who gathered around him, making him the father of Christian monasticism. St. Athanasius wrote his biography, which spread his example throughout the Christian world. Anthony lived to the age of about 105, dying in 356.\n\nIn the Middle Ages, an order of hospitallers known as the Antonines cared for the sick, and their pigs were allowed to roam freely, which is why Anthony is often pictured with a pig. He is venerated as the patron saint of butchers, gravediggers, and those who work with animals.",
+  "patronages": [
+    { "need": "butchers", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Anthony_the_Great"]
+}
