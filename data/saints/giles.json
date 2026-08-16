@@ -1,0 +1,11 @@
+{
+  "slug": "giles",
+  "name": "St. Giles",
+  "feastDay": "09-01",
+  "canonized": "Pre-Congregation",
+  "bio": "Giles was a hermit of Greek origin who lived in the seventh century. According to tradition, he sailed to Provence and settled in a forest near the mouth of the Rhône, where he lived in solitude, sustained by the milk of a hind. When hunters pursued the hind, one of them wounded Giles with an arrow, and the king, moved by his holiness, gave him land for a monastery.\n\nAround this hermitage grew the abbey of Saint-Gilles-du-Gard, which became a major pilgrimage center on the road to Santiago de Compostela.\n\nGiles became one of the most popular saints of the Middle Ages, invoked by the sick, the poor, and the disabled. Because lepers were among those he welcomed and healed, he is venerated as a patron of lepers and of those suffering from leprosy.",
+  "patronages": [
+    { "need": "leprosy", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Giles"]
+}

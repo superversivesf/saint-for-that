@@ -1,0 +1,11 @@
+{
+  "slug": "lidwina",
+  "name": "St. Lidwina",
+  "feastDay": "04-14",
+  "canonized": "1890",
+  "bio": "Lidwina was born in Schiedam, Holland, in 1380. At the age of fifteen she fell while ice skating and broke a rib, an injury from which she never recovered. Her condition worsened over the years, and she spent the rest of her life bedridden, suffering from sores, paralysis, and constant pain.\n\nAt first she was bitter, but through the guidance of her confessor she came to accept her suffering as a share in the passion of Christ. She became known for her patience, her prayer, and her counsel to the many visitors who came to her bedside, and she was granted mystical graces and visions.\n\nLidwina died in 1433 after thirty-eight years of illness. She is considered one of the first documented cases of multiple sclerosis, and she is invoked by the chronically ill and those in chronic pain.",
+  "patronages": [
+    { "need": "chronic pain", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Lidwina"]
+}

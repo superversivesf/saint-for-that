@@ -1,0 +1,11 @@
+{
+  "slug": "john-of-god",
+  "name": "St. John of God",
+  "feastDay": "03-08",
+  "canonized": "1690",
+  "bio": "John of God was born João Duarte Cidade in Portugal in 1495. After a restless youth as a soldier and a bookseller, he experienced a dramatic conversion in Granada, Spain, after hearing a sermon by St. John of Ávila. He gave away his possessions and devoted himself entirely to the care of the sick and the poor.\n\nHe founded a hospital in Granada and gathered followers who became the Brothers Hospitallers of St. John of God, an order dedicated to hospital work. He was known for his heroic charity, begging in the streets to support his patients and rescuing the sick from a burning hospital.\n\nJohn died in Granada in 1550 and was canonized in 1690. He is the patron of hospitals, the sick, nurses, and firefighters.",
+  "patronages": [
+    { "need": "hospitals", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_of_God"]
+}

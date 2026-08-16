@@ -1,0 +1,11 @@
+{
+  "slug": "gemma-galgani",
+  "name": "St. Gemma Galgani",
+  "feastDay": "04-11",
+  "canonized": "1940",
+  "bio": "Gemma Galgani was born near Lucca, Italy, in 1878. After the death of her mother, she took charge of the household and cared for her father and siblings. She longed for the religious life, but poor health and family duties kept her from entering a convent.\n\nIn 1899 she developed tuberculosis of the spine, and she suffered for years from severe back pain and other ailments. She was cured, she believed, through the intercession of St. Gabriel of Our Lady of Sorrows and St. Margaret Mary Alacoque. She later received the stigmata and experienced frequent ecstasies.\n\nGemma died in Lucca in 1903 at the age of twenty-five and was canonized in 1940. She is invoked by those suffering from back pain, spinal disease, and other bodily afflictions.",
+  "patronages": [
+    { "need": "back pain", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Gemma_Galgani"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "roch",
+  "name": "St. Roch",
+  "feastDay": "08-16",
+  "canonized": "Pre-Congregation",
+  "bio": "Roch was born into a noble family in Montpellier, France, around 1295. After the death of his parents he gave away his inheritance and set out as a pilgrim for Rome. Along the way he stopped in towns stricken by plague and cared for the sick, and many were said to be cured through his prayers and the sign of the cross.\n\nHe himself contracted the plague at Piacenza and withdrew to a forest to die alone. According to tradition, a dog brought him bread each day and licked his wounds, and he eventually recovered.\n\nAfter his death, devotion to Roch spread rapidly across Europe as a protector against plague and contagious disease. He is usually depicted pointing to a plague sore on his leg, with a dog at his side.",
+  "patronages": [
+    { "need": "plague", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Roch"]
+}
