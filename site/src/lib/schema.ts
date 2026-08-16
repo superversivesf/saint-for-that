@@ -17,6 +17,11 @@ export const imageSchema = z.object({
   altText: z.string().min(1).max(300).optional(),
 });
 
+export const prayerSchema = z.object({
+  text: z.string().min(1).max(2000),
+  source: z.enum(['traditional', 'original']),
+});
+
 export const saintSchema = z.object({
   slug: z.string().min(1).max(100).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'slug must be kebab-case'),
   name: z.string().min(1).max(200),
@@ -24,7 +29,7 @@ export const saintSchema = z.object({
   canonized: z.string().min(1).max(50).optional(),
   bio: z.string().min(10).max(10000),
   patronages: z.array(patronageSchema).min(1, 'at least one patronage is required'),
-  prayer: z.string().min(1).max(2000).optional(),
+  prayer: prayerSchema.optional(),
   image: imageSchema.optional(),
   sources: z.array(z.string().url()).default([]),
   featured: z.boolean().default(false),
