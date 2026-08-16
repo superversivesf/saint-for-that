@@ -1,0 +1,11 @@
+{
+  "slug": "bernadette-soubirous",
+  "name": "St. Bernadette Soubirous",
+  "feastDay": "04-16",
+  "canonized": "1933",
+  "bio": "Bernadette Soubirous was born in 1844 in Lourdes, France, the eldest child of a poor miller's family. In 1858, at the age of fourteen, she reported a series of apparitions of a lady in a grotto near the river Gave. The lady identified herself as the Immaculate Conception and asked that a chapel be built and that people come in procession.\n\nA spring that appeared at the grotto soon became associated with remarkable healings, and Lourdes grew into one of the world's great pilgrimage sites. Bernadette herself sought no fame; in 1866 she entered the Sisters of Charity of Nevers, where she lived quietly as a nurse and sacristan.\n\nShe suffered from chronic illness, including tuberculosis of the bone, and died in 1879 at the age of thirty-five. She was canonized in 1933 and is invoked as a patron of the sick and of those who suffer bodily illness.",
+  "patronages": [
+    { "need": "the sick", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Bernadette_Soubirous"]
+}

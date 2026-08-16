@@ -1,0 +1,11 @@
+{
+  "slug": "elizabeth-ann-seton",
+  "name": "St. Elizabeth Ann Seton",
+  "feastDay": "01-04",
+  "canonized": "1975",
+  "bio": "Elizabeth Ann Bayley Seton was born in 1774 in New York City into a prominent Episcopalian family. She married William Magee Seton, a wealthy merchant, and bore five children. When her husband's business failed and his health collapsed, she accompanied him to Italy, where he died in 1803, leaving her a widow at twenty-nine.\n\nIn Italy she was drawn to the Catholic faith, and after returning to New York she was received into the Church in 1805. Facing rejection from her family and society, she moved to Emmitsburg, Maryland, where in 1809 she founded the Sisters of Charity of St. Joseph's, the first religious community for women established in the United States.\n\nShe also opened St. Joseph's Academy and Free School, laying the foundation of the American Catholic parochial school system. She died in 1821 and was canonized in 1975, the first native-born citizen of the United States to be declared a saint. She is a patron of widows, orphans, and Catholic schools.",
+  "patronages": [
+    { "need": "widows", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "luke",
+  "name": "St. Luke",
+  "feastDay": "10-18",
+  "canonized": "Pre-Congregation",
+  "bio": "Luke was a first-century Gentile Christian, traditionally identified as a physician from Antioch in Syria. He was a companion of the apostle Paul on his missionary journeys and remained with him during his imprisonment in Rome.\n\nHe is the author of the Gospel of Luke and the Acts of the Apostles, which together form the largest portion of the New Testament written by a single author. His Gospel is noted for its attention to the poor, the outcast, and the sick, and for its detailed accounts of Christ's healings.\n\nBecause Paul calls him \"the beloved physician,\" Luke is honored as the patron of physicians, surgeons, and medical students. According to tradition, he died at an advanced age in Boeotia, Greece, around the year 84.",
+  "patronages": [
+    { "need": "physicians", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Luke_the_Evangelist"]
+}

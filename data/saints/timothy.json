@@ -1,0 +1,11 @@
+{
+  "slug": "timothy",
+  "name": "St. Timothy",
+  "feastDay": "01-26",
+  "canonized": "Pre-Congregation",
+  "bio": "Timothy was a first-century Christian from Lystra in Asia Minor, the son of a Jewish mother and a Greek father. He became a close companion and trusted coworker of the apostle Paul, who addressed two New Testament letters to him. Paul placed him in charge of the church at Ephesus, where he served as its first bishop.\n\nAccording to tradition, Timothy was martyred around the year 97, stoned to death after opposing a pagan festival in honor of the goddess Diana. His relics were later brought to Constantinople.\n\nIn the First Letter to Timothy, Paul advises him to take a little wine for the sake of his stomach, and for this reason Timothy is invoked against stomach ailments and digestive disorders.",
+  "patronages": [
+    { "need": "stomach ailments", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Timothy"]
+}

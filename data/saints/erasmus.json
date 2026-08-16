@@ -1,0 +1,11 @@
+{
+  "slug": "erasmus",
+  "name": "St. Erasmus",
+  "feastDay": "06-02",
+  "canonized": "Pre-Congregation",
+  "bio": "Erasmus, also known as St. Elmo, was a bishop of Formia in Campania, Italy, who lived in the third century. According to tradition, he fled to Mount Lebanon during the persecution of the emperor Diocletian, where he was fed by a raven. He was later arrested, tortured, and miraculously delivered, before finally dying as a martyr around 303.\n\nHe is one of the Fourteen Holy Helpers, a group of saints invoked especially in the Middle Ages against disease and danger. Sailors came to know him as St. Elmo, and the electrical discharge seen on ships during storms is named St. Elmo's fire in his honor.\n\nBecause one account of his martyrdom describes his intestines being wound around a windlass, he is invoked against stomach ailments, intestinal disorders, and colic.",
+  "patronages": [
+    { "need": "stomach ailments", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Erasmus_of_Formia"]
+}
