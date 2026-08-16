@@ -6,5 +6,6 @@
   "patronages": [
     { "need": "prisoners", "category": "persecution" }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Penitent_thief"]
+  "prayer": "Saint Dismas, the Good Thief, who received the promise of paradise from Christ on the cross, pray for prisoners and for all who seek mercy at the hour of death. Amen.",
+"sources": ["https://en.wikipedia.org/wiki/Penitent_thief"]
 }

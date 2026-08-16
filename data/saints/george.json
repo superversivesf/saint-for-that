@@ -6,5 +6,6 @@
   "patronages": [
     { "need": "soldiers", "category": "military" }
   ],
-  "sources": ["https://en.wikipedia.org/wiki/Saint_George"]
+  "prayer": "Saint George, valiant martyr and protector, pray for soldiers and for all who defend the innocent. Amen.",
+"sources": ["https://en.wikipedia.org/wiki/Saint_George"]
 }
