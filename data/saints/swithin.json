@@ -8,5 +8,6 @@
     { "need": "rain", "category": "nature" },
     { "need": "good weather", "category": "nature" }
   ],
+  "prayer": "St. Swithin, humble bishop of Winchester, pray for all who suffer from drought or flood, that the weather may be gentle and the land fruitful. Amen.",
   "sources": ["https://en.wikipedia.org/wiki/Swithun"]
 }

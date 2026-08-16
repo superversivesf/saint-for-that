@@ -7,5 +7,6 @@
   "patronages": [
     { "need": "plague", "category": "illness" }
   ],
+  "prayer": "St. Rosalia, hermit of Palermo, pray for all who suffer from plague and illness, that they may be delivered and restored to health. Amen.",
   "sources": ["https://en.wikipedia.org/wiki/Saint_Rosalia"]
 }

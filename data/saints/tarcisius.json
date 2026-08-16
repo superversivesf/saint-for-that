@@ -7,5 +7,6 @@
     { "need": "altar servers", "category": "spiritual" },
     { "need": "first communicants", "category": "spiritual" }
   ],
+  "prayer": "St. Tarcisius, martyr of the Eucharist, pray for altar servers and for all who protect the Blessed Sacrament, that they may serve with reverence. Amen.",
   "sources": ["https://en.wikipedia.org/wiki/Tarcisius"]
 }
