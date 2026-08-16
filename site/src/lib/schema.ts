@@ -2,7 +2,12 @@ import { z } from 'zod';
 import { CATEGORY_IDS } from './taxonomy';
 
 export const patronageSchema = z.object({
-  need: z.string().min(1).max(200),
+  need: z
+    .string()
+    .min(1)
+    .max(200)
+    .regex(/^[a-z0-9][a-z0-9 ,'&\/-]*$/, 'need must be lowercase')
+    .refine((v) => v.trim().split(/\s+/).length <= 4, 'need must be at most 4 words'),
   category: z.enum(CATEGORY_IDS),
 });
 

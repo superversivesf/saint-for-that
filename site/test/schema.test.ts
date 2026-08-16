@@ -32,6 +32,14 @@ describe('saintSchema', () => {
     expect(saintSchema.safeParse({ ...valid, patronages: [] }).success).toBe(false);
   });
 
+  it('rejects need with uppercase', () => {
+    expect(saintSchema.safeParse({ ...valid, patronages: [{ need: 'Lost Items', category: 'everyday' }] }).success).toBe(false);
+  });
+
+  it('rejects need with 5+ words', () => {
+    expect(saintSchema.safeParse({ ...valid, patronages: [{ need: 'help for people who are lost', category: 'everyday' }] }).success).toBe(false);
+  });
+
   it('rejects unknown category', () => {
     expect(saintSchema.safeParse({ ...valid, patronages: [{ need: 'lost items', category: 'not-a-category' }] }).success).toBe(false);
   });
