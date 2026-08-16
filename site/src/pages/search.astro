@@ -15,13 +15,19 @@ const q = Astro.url.searchParams.get('q') ?? '';
 
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
   <script is:inline src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline set:html={`window.addEventListener('DOMContentLoaded', () => {
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      const params = new URLSearchParams(window.location.search);
+      const query = params.get('q') ?? '';
+      const input = document.getElementById('pagefind-search');
+      if (query && input) input.value = query;
       new PagefindUI({
         element: '#pagefind-results',
         input: '#pagefind-search',
         showImages: false,
         excerptLength: 12,
-        triggerSearchTerm: ${JSON.stringify(q)},
+        triggerSearchTerm: query,
       });
-    });`} />
+    });
+  </script>
 </BaseLayout>
