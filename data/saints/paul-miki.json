@@ -1,0 +1,11 @@
+{
+  "slug": "paul-miki",
+  "name": "St. Paul Miki",
+  "feastDay": "02-06",
+  "canonized": "1862",
+  "bio": "Paul Miki was born around 1562 in Japan, the son of a samurai, and was educated by the Jesuits. He joined the Society of Jesus and became a gifted preacher, known for his eloquence and his ability to explain the faith to his countrymen.\n\nIn 1597, the ruler Toyotomi Hideyoshi turned against the growing Christian community. Miki and twenty-five companions, including Japanese laypeople, European missionaries, and children, were arrested, mutilated, and marched to Nagasaki to be executed.\n\nOn February 5, 1597, they were crucified on a hill overlooking the city. From his cross, Miki preached forgiveness and declared himself a Japanese Christian. The twenty-six martyrs were canonized in 1862, and Miki is venerated as a patron of Japan and of martyrs.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Paul_Miki"]
+}

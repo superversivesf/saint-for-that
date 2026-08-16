@@ -1,0 +1,11 @@
+{
+  "slug": "edith-stein",
+  "name": "St. Edith Stein",
+  "feastDay": "08-09",
+  "canonized": "1998",
+  "bio": "Edith Stein was born in 1891 into a Jewish family in Breslau, Germany. A brilliant philosopher, she studied under Edmund Husserl and became one of the first women to earn a doctorate in philosophy in Germany.\n\nAfter reading the autobiography of St. Teresa of Avila, she converted to Catholicism and was baptized in 1922. She taught and lectured, and in 1933 she entered the Carmelite convent in Cologne, taking the name Teresa Benedicta of the Cross. She later moved to a convent in the Netherlands to escape Nazi persecution.\n\nIn 1942, in retaliation for a Dutch bishops' protest against the deportation of Jews, the Nazis arrested all Catholic Jews in the Netherlands, including Stein and her sister Rosa. They were sent to Auschwitz, where they were killed in the gas chambers. Canonized by Pope John Paul II in 1998, she is a co-patron of Europe.",
+  "patronages": [
+    { "need": "prisoners", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Edith_Stein"]
+}

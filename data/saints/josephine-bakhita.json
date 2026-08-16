@@ -1,0 +1,11 @@
+{
+  "slug": "josephine-bakhita",
+  "name": "St. Josephine Bakhita",
+  "feastDay": "02-08",
+  "canonized": "2000",
+  "bio": "Josephine Bakhita was born around 1869 in Darfur, Sudan. As a child she was kidnapped by slave traders and sold repeatedly, enduring brutal treatment; she was so traumatized that she forgot her own name, and her captors called her Bakhita, meaning \"fortunate.\"\n\nIn 1883 she was bought by an Italian consul, who took her to Italy, where she was placed with the Canossian Sisters in Venice. There she encountered Christianity and, when her owners tried to take her back to Africa, an Italian court ruled that slavery was illegal in Italy and she was free.\n\nShe was baptized in 1890 and entered the Canossian Sisters, serving as cook, sacristan, and doorkeeper for fifty years. Known for her gentleness and forgiveness, she died in 1947. Canonized in 2000, she is the patron saint of Sudan and of victims of human trafficking.",
+  "patronages": [
+    { "need": "trafficking victims", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Josephine_Bakhita"]
+}

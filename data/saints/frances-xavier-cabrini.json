@@ -1,0 +1,11 @@
+{
+  "slug": "frances-xavier-cabrini",
+  "name": "St. Frances Xavier Cabrini",
+  "feastDay": "11-13",
+  "canonized": "1946",
+  "bio": "Frances Xavier Cabrini was born in 1850 in Lombardy, Italy, the youngest of thirteen children. She wanted to be a missionary from childhood, and in 1880 she founded the Missionary Sisters of the Sacred Heart of Jesus to serve orphans and the poor.\n\nPope Leo XIII urged her to go to the United States to care for Italian immigrants, and she arrived in New York in 1889. Over the next three decades she founded schools, orphanages, and hospitals across the Americas and Europe, crossing the Atlantic more than twenty times despite a lifelong fear of water.\n\nShe became a naturalized American citizen in 1909 and died in Chicago in 1917. In 1946 she became the first United States citizen to be canonized. She is the patron saint of immigrants.",
+  "patronages": [
+    { "need": "immigrants", "category": "travel" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"]
+}

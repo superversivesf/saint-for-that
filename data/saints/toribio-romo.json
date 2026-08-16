@@ -1,0 +1,11 @@
+{
+  "slug": "toribio-romo",
+  "name": "St. Toribio Romo",
+  "feastDay": "02-25",
+  "canonized": "2000",
+  "bio": "Toribio Romo Gonzalez was born in 1900 in Jalisco, Mexico, and ordained a priest in 1922. He served the rural parish of Tequila, where he was known for his devotion to the poor, his work with the indigenous Huichol people, and his tireless pastoral care.\n\nDuring the Cristero War, when the Mexican government outlawed Catholic worship and persecuted priests, Romo refused to abandon his flock. He celebrated Mass in secret, moving between safe houses and ranches to minister to the faithful.\n\nIn February 1928, government soldiers raided the ranch where he was hiding. He was shot and killed while sleeping, at the age of twenty-seven. Canonized by Pope John Paul II in 2000, he is especially venerated by Mexican migrants and is regarded as their patron and protector on the journey north.",
+  "patronages": [
+    { "need": "migrants", "category": "travel" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Toribio_Romo_Gonz%C3%A1lez"]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "dismas",
+  "name": "St. Dismas",
+  "feastDay": "03-25",
+  "bio": "Dismas is the traditional name of the penitent thief crucified beside Jesus, known from the Gospel of Luke. While the other criminal mocked Jesus, Dismas rebuked him and said, \"Jesus, remember me when you come into your kingdom.\"\n\nJesus answered him, \"Truly I tell you, today you will be with me in paradise.\" This exchange has made Dismas a powerful symbol of repentance and of God's mercy offered even at the last moment of life.\n\nThough the Gospels do not name him, Christian tradition has long called him Dismas, and he is venerated as a saint. He is the patron saint of prisoners, the condemned, and repentant thieves, and his feast is celebrated on March 25.",
+  "patronages": [
+    { "need": "prisoners", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Penitent_thief"]
+}
