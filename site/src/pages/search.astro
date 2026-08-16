@@ -21,13 +21,13 @@ const q = Astro.url.searchParams.get('q') ?? '';
       const query = params.get('q') ?? '';
       const input = document.getElementById('pagefind-search');
       if (query && input) input.value = query;
-      new PagefindUI({
+      const ui = new PagefindUI({
         element: '#pagefind-results',
         input: '#pagefind-search',
         showImages: false,
         excerptLength: 12,
-        triggerSearchTerm: query,
       });
+      if (query) ui.triggerSearch(query);
     });
   </script>
 </BaseLayout>
