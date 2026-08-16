@@ -15,15 +15,13 @@ const q = Astro.url.searchParams.get('q') ?? '';
 
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
   <script is:inline src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline>
-    window.addEventListener('DOMContentLoaded', () => {
+  <script is:inline set:html={`window.addEventListener('DOMContentLoaded', () => {
       new PagefindUI({
         element: '#pagefind-results',
         input: '#pagefind-search',
         showImages: false,
         excerptLength: 12,
-        initialQuery: q,
+        initialQuery: ${JSON.stringify(q)},
       });
-    });
-  </script>
+    });`} />
 </BaseLayout>
