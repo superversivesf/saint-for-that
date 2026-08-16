@@ -8,6 +8,12 @@ const valid = {
   canonized: '1232',
   bio: 'Anthony of Padua was a Portuguese Catholic priest and friar of the Franciscan Order. He was known for his powerful preaching and expert knowledge of scripture.',
   patronages: [{ need: 'lost items', category: 'everyday' }],
+  prayer: 'O Holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy, when on earth, to possess miraculous powers.',
+  image: {
+    url: 'https://example.com/anthony.jpg',
+    attribution: 'Public domain',
+    altText: 'St. Anthony of Padua',
+  },
   sources: ['https://en.wikipedia.org/wiki/Anthony_of_Padua'],
 };
 
