@@ -1,0 +1,13 @@
+{
+  "slug": "teresa-of-avila",
+  "name": "St. Teresa of Avila",
+  "feastDay": "10-15",
+  "canonized": "1622",
+  "bio": "Teresa de Cepeda y Ahumada was born in Avila, Spain, in 1515. As a girl she was lively and devout, and at twenty she entered the Carmelite convent of the Incarnation in Avila, though for years her prayer life was lukewarm. Around 1554, a profound conversion before an image of the wounded Christ set her on fire with love of God.\n\nTeresa reformed the Carmelite Order, founding the Discalced Carmelites with St. John of the Cross, and established seventeen convents across Spain despite poverty, opposition, and poor health. She wrote masterpieces of mystical theology, including The Interior Castle and The Way of Perfection, describing the soul's journey to union with God.\n\nShe died at Alba de Tormes on October 4, 1582, and was canonized in 1622. In 1970 she became the first woman declared a Doctor of the Church. She is invoked against headaches and bodily illness, and her feast is celebrated on October 15.",
+  "patronages": [
+    { "need": "headaches", "category": "illness" }
+  ],
+  "prayer": "Let nothing disturb you, let nothing frighten you. All things are passing; God never changes. Patience obtains all things. Whoever has God lacks nothing; God alone suffices. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"],
+  "featured": false
+}

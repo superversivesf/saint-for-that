@@ -1,0 +1,13 @@
+{
+  "slug": "joan-of-arc",
+  "name": "St. Joan of Arc",
+  "feastDay": "05-30",
+  "canonized": "1920",
+  "bio": "Joan was born around 1412 in Domrémy, in northeastern France, the daughter of peasant farmers. At about thirteen she began to hear voices, which she identified as St. Michael, St. Catherine, and St. Margaret, urging her to save France from English occupation during the Hundred Years' War and to see the Dauphin crowned at Reims.\n\nAt seventeen she convinced the Dauphin Charles VII of her mission, and in 1429 she led French forces to lift the siege of Orléans, a turning point of the war. She was captured by the Burgundians in 1430, sold to the English, and tried by an ecclesiastical court on charges including heresy and cross-dressing. Condemned, she was burned at the stake in Rouen on May 30, 1431, at about nineteen.\n\nA retrial in 1456 declared her innocent, and she was canonized in 1920. Joan is one of the patron saints of France and is honored as the patron of soldiers and of those who face unjust trials.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" }
+  ],
+  "prayer": "St. Joan of Arc, give me strength in this, my hour of need. You who faced your enemies with courage, pray that I may be brave and faithful. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Joan_of_Arc"],
+  "featured": false
+}

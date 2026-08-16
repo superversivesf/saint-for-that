@@ -1,0 +1,13 @@
+{
+  "slug": "isidore-the-farmer",
+  "name": "St. Isidore the Farmer",
+  "feastDay": "05-15",
+  "canonized": "1622",
+  "bio": "Isidore was born around 1070 in Madrid, then a small town in the kingdom of Castile, to poor parents. He worked all his life as a hired farm laborer on the estate of a wealthy landowner, and he married a woman named Maria Torribia, who is also venerated as a saint.\n\nIsidore was known for his devotion: he attended Mass each morning before work, and legend says angels plowed the fields beside him so that his work was never neglected. He shared what little he had with the poor and was said to have multiplied food for the hungry and to have found water in dry ground.\n\nHe died on May 15, 1130, and was canonized in 1622 together with St. Ignatius of Loyola, St. Francis Xavier, St. Teresa of Avila, and St. Philip Neri. Isidore is the patron of farmers, farm workers, and rural communities, and his feast is celebrated on May 15.",
+  "patronages": [
+    { "need": "farmers", "category": "jobs" }
+  ],
+  "prayer": "St. Isidore, humble farmer and faithful servant, pray for all who work the land, and obtain for us good harvests and grateful hearts. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Isidore_the_Laborer"],
+  "featured": false
+}

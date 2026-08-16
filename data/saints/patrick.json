@@ -1,0 +1,12 @@
+{
+  "slug": "patrick",
+  "name": "St. Patrick",
+  "feastDay": "03-17",
+  "bio": "Patrick was born in Roman Britain in the late fourth century, the son of a deacon and grandson of a priest. At sixteen he was captured by Irish raiders and taken to Ireland as a slave, where he herded sheep for six years. During that time his faith deepened, and after escaping, he returned to Britain and studied for the priesthood.\n\nIn a dream he heard the voice of the Irish calling him back, and around 432 he returned to Ireland as a missionary bishop. He traveled the island for decades, baptizing thousands, ordaining clergy, and founding churches and monasteries. Tradition credits him with using the shamrock to explain the Trinity and with driving the snakes from Ireland, a legend symbolizing the end of paganism.\n\nPatrick died on March 17, around 461, and his feast is celebrated worldwide. He is the patron saint of Ireland and of missionaries, and his Confession remains one of the earliest surviving writings from Britain.",
+  "patronages": [
+    { "need": "missionaries", "category": "spiritual" }
+  ],
+  "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Patrick"],
+  "featured": false
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "gerard-majella",
+  "name": "St. Gerard Majella",
+  "feastDay": "10-16",
+  "canonized": "1904",
+  "bio": "Gerard Majella was born in 1726 in Muro Lucano, in southern Italy, the son of a tailor. After his father's death, he was apprenticed to a tailor, but he longed for religious life. After several attempts, he was received in 1749 as a lay brother of the Redemptorists, founded by St. Alphonsus Liguori.\n\nGerard served as tailor, sacristan, and porter, and became known for his holiness, ecstasies, and miracles. He was falsely accused of misconduct by a woman who later admitted the lie, and he bore the accusation in silence, a trial that deepened his reputation for patience. He is especially remembered for a handkerchief he gave to a young woman in labor, which became a source of protection for mothers and infants.\n\nGerard died of tuberculosis on October 16, 1755, at age twenty-nine, and was canonized in 1904. He is the patron of expectant mothers, unborn children, and childbirth.",
+  "patronages": [
+    { "need": "expectant mothers", "category": "family" }
+  ],
+  "prayer": "O good St. Gerard, powerful intercessor before the throne of God, watch over all expectant mothers and the children they carry, and obtain for them a safe delivery and healthy child. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Gerard_Majella"],
+  "featured": false
+}

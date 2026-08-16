@@ -1,0 +1,13 @@
+{
+  "slug": "sebastian",
+  "name": "St. Sebastian",
+  "feastDay": "01-20",
+  "bio": "Sebastian was a Christian soldier from Milan who served in the Praetorian Guard of the emperor Diocletian in Rome in the late third century. He used his position to encourage imprisoned Christians and to convert others, including the brothers Marcus and Marcellianus, who were awaiting execution.\n\nWhen his faith was discovered, Diocletian ordered him bound to a stake and shot with arrows. Left for dead, he was found alive and nursed back to health by a Christian widow named Irene. He then confronted the emperor publicly and was beaten to death with clubs around 288, his body thrown into a sewer.\n\nSebastian became one of the most popular saints of the Middle Ages, depicted in countless works of art. Because the plague was believed to strike like arrows, he was invoked against epidemics, and he remains the patron of soldiers, athletes, and those suffering from plague and disease.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" },
+    { "need": "plague", "category": "illness" }
+  ],
+  "prayer": "St. Sebastian, brave soldier and martyr, obtain for us courage in trial and protection from every illness of body and soul. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Sebastian"],
+  "featured": false
+}

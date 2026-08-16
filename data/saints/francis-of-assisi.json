@@ -1,0 +1,14 @@
+{
+  "slug": "francis-of-assisi",
+  "name": "St. Francis of Assisi",
+  "feastDay": "10-04",
+  "canonized": "1228",
+  "bio": "Born Giovanni di Pietro di Bernardone in Assisi around 1181, Francis was the son of a wealthy cloth merchant. As a young man he dreamed of military glory, but a period of imprisonment and illness turned his thoughts to God. After a vision at San Damiano, he renounced his inheritance, embraced poverty, and devoted himself to repairing churches and serving lepers.\n\nFrancis gathered followers who became the Order of Friars Minor, and with St. Clare he inspired the Poor Clares. He preached to all creatures, famously taming a wolf and preaching to birds, and in 1224 received the stigmata, the wounds of Christ. His Canticle of the Sun praises God through creation.\n\nHe died at the Porziuncola on October 3, 1226, and was canonized in 1228. Francis remains one of the most beloved saints in history, patron of animals and ecology.",
+  "patronages": [
+    { "need": "animals", "category": "nature" },
+    { "need": "ecology", "category": "nature" }
+  ],
+  "prayer": "Lord, make me an instrument of your peace: where there is hatred, let me sow love; where there is injury, pardon; where there is doubt, faith; where there is despair, hope; where there is darkness, light; where there is sadness, joy. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Francis_of_Assisi"],
+  "featured": true
+}

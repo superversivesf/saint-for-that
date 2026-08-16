@@ -1,0 +1,12 @@
+{
+  "slug": "blaise",
+  "name": "St. Blaise",
+  "feastDay": "02-03",
+  "bio": "Blaise was a physician and bishop of Sebastea in Armenia who lived in the third and early fourth centuries. According to tradition, during the persecution of Christians he withdrew to a cave in the mountains, where he lived among wild animals and blessed and healed them.\n\nWhile imprisoned, he is said to have saved a boy who was choking on a fish bone, a miracle that made him the patron of throat ailments. He was tortured and beheaded around 316, during the persecution of the emperor Licinius.\n\nDevotion to St. Blaise spread widely in both East and West. On his feast day, February 3, the Church blesses throats with two crossed candles, invoking his intercession against diseases of the throat and other illnesses.",
+  "patronages": [
+    { "need": "throat ailments", "category": "illness" }
+  ],
+  "prayer": "Through the intercession of St. Blaise, bishop and martyr, may God deliver you from every disease of the throat and from every other illness, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Blaise"],
+  "featured": false
+}

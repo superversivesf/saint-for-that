@@ -1,0 +1,13 @@
+{
+  "slug": "raphael-the-archangel",
+  "name": "St. Raphael the Archangel",
+  "feastDay": "09-29",
+  "bio": "Raphael is one of the three archangels named in Scripture, and his name means \"God heals.\" He appears in the Book of Tobit, where he travels in disguise with the young Tobias, guiding him safely on a long journey, arranging his marriage to Sarah, and healing the blindness of his father Tobit with the gall of a fish.\n\nBecause of this story, Raphael is honored as the patron of travelers, of the young, and of healing. He is also traditionally identified as the angel who stirred the waters of the pool of Bethesda in the Gospel of John, where the sick came to be healed.\n\nRaphael's feast is celebrated on September 29 together with the archangels Michael and Gabriel. He is invoked by those seeking physical healing, by travelers setting out on journeys, and by those seeking a good spouse.",
+  "patronages": [
+    { "need": "healing", "category": "illness" },
+    { "need": "travelers", "category": "travel" }
+  ],
+  "prayer": "O glorious Archangel St. Raphael, great prince of the heavenly court, guide of travelers and healer of the sick, be with me on my journey and obtain for me the healing I seek. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Raphael_(archangel)"],
+  "featured": false
+}

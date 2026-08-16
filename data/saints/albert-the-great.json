@@ -1,0 +1,13 @@
+{
+  "slug": "albert-the-great",
+  "name": "St. Albert the Great",
+  "feastDay": "11-15",
+  "canonized": "1931",
+  "bio": "Albert was born around 1200 in Lauingen, in Bavaria, into a noble family. He studied at Padua, where he joined the Dominican Order, and taught at Cologne, Paris, and other universities. His most famous student was St. Thomas Aquinas, whose genius Albert recognized and defended.\n\nAlbert was remarkable for the breadth of his learning. He wrote on logic, theology, philosophy, astronomy, chemistry, botany, zoology, and geography, and he insisted that the study of nature was a path to God. His scientific observations, such as his work on plants and animals, earned him the title \"Doctor Universalis,\" the universal teacher.\n\nHe served as bishop of Regensburg for a time but resigned to return to teaching. He died in Cologne on November 15, 1280. Albert was beatified in 1622 and canonized in 1931, and in 1941 Pope Pius XII declared him the patron saint of natural scientists.",
+  "patronages": [
+    { "need": "scientists", "category": "jobs" }
+  ],
+  "prayer": "St. Albert the Great, teacher and seeker of truth, pray for all who study the natural world, that their work may lead them to the Creator of all things. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Albertus_Magnus"],
+  "featured": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "cecilia",
+  "name": "St. Cecilia",
+  "feastDay": "11-22",
+  "bio": "Cecilia was a young Roman noblewoman of the second or third century who consecrated her virginity to God. According to tradition, she was married against her will to a pagan named Valerian, and on their wedding night she told him that an angel guarded her. Valerian sought baptism, and his brother Tiburtius followed; together they buried the bodies of martyrs.\n\nWhen the brothers were martyred, Cecilia buried them and was herself arrested. She was condemned to death, and after an attempt to suffocate her in the steam baths failed, she was beheaded around 230. Her body was later found in the Catacombs of St. Callixtus and enshrined in the Roman church that bears her name.\n\nCecilia is honored as the patroness of musicians because, according to legend, she sang to God in her heart as the wedding music played. Her feast on November 22 has inspired centuries of music, art, and poetry.",
+  "patronages": [
+    { "need": "musicians", "category": "jobs" }
+  ],
+  "prayer": "St. Cecilia, glorious virgin and martyr, patroness of musicians, pray that I may use my gifts to praise God and lift the hearts of others. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Cecilia"],
+  "featured": false
+}

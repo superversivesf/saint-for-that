@@ -1,0 +1,13 @@
+{
+  "slug": "therese-of-lisieux",
+  "name": "St. Thérèse of Lisieux",
+  "feastDay": "10-01",
+  "canonized": "1925",
+  "bio": "Thérèse Martin was born in Alençon, France, in 1873, the youngest of nine children of Louis and Zélie Martin, who were themselves canonized in 2015. After her mother's death, the family moved to Lisieux, and Thérèse grew up with a deep desire to become a saint. At fifteen she received special permission from Pope Leo XIII to enter the Carmelite convent at Lisieux.\n\nIn the cloister she developed her \"little way\" of spiritual childhood: doing small things with great love and trusting completely in God's mercy. Obedient to her superiors, she wrote her autobiography, The Story of a Soul, which after her death became one of the most widely read spiritual books of the twentieth century.\n\nThérèse died of tuberculosis on September 30, 1897, at age twenty-four, promising to \"spend her heaven doing good on earth.\" Canonized in 1925 and declared a Doctor of the Church in 1997, she is the patroness of missionaries and of the missions.",
+  "patronages": [
+    { "need": "missions", "category": "spiritual" }
+  ],
+  "prayer": "St. Thérèse of the Child Jesus, teach me your little way of trust and love, and let fall from heaven a shower of roses upon those I pray for. Amen.",
+  "sources": ["https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"],
+  "featured": false
+}
