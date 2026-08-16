@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "Lord, who gave St. Aloysius the grace to renounce a princely inheritance and die at twenty-three serving plague victims, grant through his intercession that students may seek wisdom and holiness in all their studies. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "Lord, who gave St. Aloysius the grace to renounce a princely inheritance and die at twenty-three serving plague victims, grant through his intercession that students may seek wisdom and holiness in all their studies. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Aloysius_Gonzaga"
   ],

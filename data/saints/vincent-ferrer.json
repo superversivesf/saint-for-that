@@ -14,7 +14,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Vincent Ferrer, whose preaching was understood by every tongue, pray for preachers and builders, that their words and works may raise up the house of God. Amen.",
+  "prayer": {
+    "text": "St. Vincent Ferrer, whose preaching was understood by every tongue, pray for preachers and builders, that their words and works may raise up the house of God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Vincent_Ferrer"
   ],

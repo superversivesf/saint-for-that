@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Isidore of Seville, who gathered the knowledge of the ancient world into your Etymologies so that nothing would be lost, pray for all who work with technology, that it may serve truth and charity. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Isidore of Seville, who gathered the knowledge of the ancient world into your Etymologies so that nothing would be lost, pray for all who work with technology, that it may serve truth and charity. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Isidore_of_Seville"
   ],
   "featured": false,

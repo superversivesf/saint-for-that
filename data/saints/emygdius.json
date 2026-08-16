@@ -14,8 +14,11 @@
       "category": "nature"
     }
   ],
-  "prayer": "St. Emygdius, beheaded for Christ near Ascoli and honored as protector against earthquakes, pray for all who live where the earth trembles, that they may be kept safe and unshaken in faith. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Emygdius, beheaded for Christ near Ascoli and honored as protector against earthquakes, pray for all who live where the earth trembles, that they may be kept safe and unshaken in faith. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Emygdius"
   ],
   "image": {

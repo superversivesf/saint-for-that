@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Agnes, who at twelve years old chose Christ above every suitor, obtain for young women the courage to keep their hearts undivided for the Lord. Amen.",
+  "prayer": {
+    "text": "St. Agnes, who at twelve years old chose Christ above every suitor, obtain for young women the courage to keep their hearts undivided for the Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Agnes"
   ],

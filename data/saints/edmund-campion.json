@@ -14,8 +14,11 @@
       "category": "persecution"
     }
   ],
-  "prayer": "St. Edmund Campion, who returned to England in disguise and wrote your Brag in defense of the faith, pray for martyrs and writers, that they may defend the faith in word and deed. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Edmund Campion, who returned to England in disguise and wrote your Brag in defense of the faith, pray for martyrs and writers, that they may defend the faith in word and deed. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Edmund_Campion"
   ],
   "image": {

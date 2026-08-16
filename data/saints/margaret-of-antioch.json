@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Margaret of Antioch, who burst unharmed from the dragon by the sign of the cross, pray for women in childbirth and for all in danger, that they may be delivered safely. Amen.",
+  "prayer": {
+    "text": "St. Margaret of Antioch, who burst unharmed from the dragon by the sign of the cross, pray for women in childbirth and for all in danger, that they may be delivered safely. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Margaret_the_Virgin"
   ],

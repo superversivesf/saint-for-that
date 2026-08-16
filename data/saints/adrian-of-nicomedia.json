@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "Lord God, who gave the soldier Adrian courage to lay down his arms and take up the Cross, grant through his intercession that all who work with their hands may serve You in their labor and remain steadfast in faith. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "Lord God, who gave the soldier Adrian courage to lay down his arms and take up the Cross, grant through his intercession that all who work with their hands may serve You in their labor and remain steadfast in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Adrian_and_Natalia_of_Nicomedia"
   ],

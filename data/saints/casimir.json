@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Casimir, who refused a throne rather than wage an unjust war and spent nights in prayer before the church doors, pray for young people, that they may choose virtue over pleasure and serve God with generous hearts. Amen.",
+  "prayer": {
+    "text": "St. Casimir, who refused a throne rather than wage an unjust war and spent nights in prayer before the church doors, pray for young people, that they may choose virtue over pleasure and serve God with generous hearts. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Casimir"
   ],

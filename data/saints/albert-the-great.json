@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Albert the Great, teacher and seeker of truth, pray for all who study the natural world, that their work may lead them to the Creator of all things. Amen.",
+  "prayer": {
+    "text": "St. Albert the Great, teacher and seeker of truth, pray for all who study the natural world, that their work may lead them to the Creator of all things. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Albertus_Magnus"
   ],

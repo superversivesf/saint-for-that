@@ -5,8 +5,16 @@
   "canonized": "1881",
   "bio": "Lawrence of Brindisi was born in 1559 in the Kingdom of Naples and joined the Capuchin Franciscans as a young man. He was a gifted scholar who mastered many languages, including Hebrew, Greek, Syriac, and several modern tongues, and he could preach fluently in them all.\n\nHe served as a diplomat and military chaplain, and in 1601 he led the Christian army into battle at Szekesfehervar carrying only a crucifix, helping to secure victory against a much larger Ottoman force.\n\nLawrence was elected Minister General of the Capuchins and traveled widely, preaching and reforming. He died in Lisbon in 1619 and was declared a Doctor of the Church in 1959. He is venerated as the patron saint of linguists and translators.",
   "patronages": [
-    { "need": "linguists", "category": "jobs" }
+    {
+      "need": "linguists",
+      "category": "jobs"
+    }
   ],
-  "prayer": "St. Lawrence of Brindisi, who led an army into battle carrying only a crucifix, pray for all who study and translate languages, that their words may carry the Gospel across every border. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Lawrence_of_Brindisi"]
+  "prayer": {
+    "text": "St. Lawrence of Brindisi, who led an army into battle carrying only a crucifix, pray for all who study and translate languages, that their words may carry the Gospel across every border. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi"
+  ]
 }

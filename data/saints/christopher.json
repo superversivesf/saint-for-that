@@ -13,7 +13,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "Grant me, O Lord, a steady hand and watchful eye, that no one shall be hurt as I pass by. Through the intercession of St. Christopher, protect me and all who travel. Amen.",
+  "prayer": {
+    "text": "Grant me, O Lord, a steady hand and watchful eye, that no one shall be hurt as I pass by. Through the intercession of St. Christopher, protect me and all who travel. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Christopher"
   ],

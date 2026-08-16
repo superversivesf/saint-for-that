@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Norbert, whom a lightning bolt threw from your horse and woke to God, pray for the worldly and the comfortable, that they may be shaken awake to the Gospel. Amen.",
+  "prayer": {
+    "text": "St. Norbert, whom a lightning bolt threw from your horse and woke to God, pray for the worldly and the comfortable, that they may be shaken awake to the Gospel. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
   ],

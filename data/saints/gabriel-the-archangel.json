@@ -13,8 +13,11 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Gabriel the Archangel, who stood before Mary and announced the Incarnation, pray for all who bring news and messages, that they may serve the truth, and obtain for us a ready \"yes\" to God's word. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Gabriel the Archangel, who stood before Mary and announced the Incarnation, pray for all who bring news and messages, that they may serve the truth, and obtain for us a ready \"yes\" to God's word. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Gabriel"
   ],
   "featured": false,

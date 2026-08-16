@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Raymond Nonnatus, ransomed from captivity with your lips sealed by a padlock, pray for expectant mothers and for all who are silenced, that they may be delivered and speak again. Amen.",
+  "prayer": {
+    "text": "St. Raymond Nonnatus, ransomed from captivity with your lips sealed by a padlock, pray for expectant mothers and for all who are silenced, that they may be delivered and speak again. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Raymond_Nonnatus"
   ],

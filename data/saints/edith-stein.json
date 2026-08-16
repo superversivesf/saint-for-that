@@ -10,8 +10,11 @@
       "category": "persecution"
     }
   ],
-  "prayer": "St. Teresa Benedicta of the Cross, who found Christ in the pages of Teresa of Avila and died in the gas chambers of Auschwitz, pray for all who seek truth and for those who suffer persecution. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Teresa Benedicta of the Cross, who found Christ in the pages of Teresa of Avila and died in the gas chambers of Auschwitz, pray for all who seek truth and for those who suffer persecution. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Edith_Stein"
   ],
   "image": {

@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Clare of Montefalco, in whose heart the instruments of the Passion were found, pray for the poor, that they may find hope in Christ and be comforted in their need. Amen.",
+  "prayer": {
+    "text": "St. Clare of Montefalco, in whose heart the instruments of the Passion were found, pray for the poor, that they may find hope in Christ and be comforted in their need. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
   ],

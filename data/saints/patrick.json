@@ -9,7 +9,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left. Amen.",
+  "prayer": {
+    "text": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left. Amen.",
+    "source": "traditional"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Patrick"
   ],

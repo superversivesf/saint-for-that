@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Catherine Labouré, to whom Our Lady showed the Miraculous Medal and its rays of grace, pray for the elderly and for all who wear the medal, that they may receive abundant graces. Amen.",
+  "prayer": {
+    "text": "St. Catherine Labouré, to whom Our Lady showed the Miraculous Medal and its rays of grace, pray for the elderly and for all who wear the medal, that they may receive abundant graces. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
   ],

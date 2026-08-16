@@ -10,7 +10,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Peter Faber, who won souls by gentleness and dialogue in the bitter years of the Reformation, pray for all who seek reconciliation, that they may speak with charity. Amen.",
+  "prayer": {
+    "text": "St. Peter Faber, who won souls by gentleness and dialogue in the bitter years of the Reformation, pray for all who seek reconciliation, that they may speak with charity. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Peter_Faber"
   ],

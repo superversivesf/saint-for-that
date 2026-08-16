@@ -10,8 +10,11 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Damien, who volunteered for Kalaupapa and served its lepers as priest, doctor, carpenter, and undertaker until the disease took you too, pray for all who suffer illness and for those who care for them. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Damien, who volunteered for Kalaupapa and served its lepers as priest, doctor, carpenter, and undertaker until the disease took you too, pray for all who suffer illness and for those who care for them. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Father_Damien"
   ],
   "image": {

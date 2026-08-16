@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Monica, whose tears and prayers pursued Augustine until God gave him back to you, pray for parents who weep over wayward children, that their tears may not be wasted. Amen.",
+  "prayer": {
+    "text": "St. Monica, whose tears and prayers pursued Augustine until God gave him back to you, pray for parents who weep over wayward children, that their tears may not be wasted. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Monica"
   ],

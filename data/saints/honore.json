@@ -9,8 +9,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Honoré, bishop of Amiens, whose nursemaid's bread peel took root and became a tree when she doubted your election, pray for bakers and for all who provide bread, that none may go hungry. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Honoré, bishop of Amiens, whose nursemaid's bread peel took root and became a tree when she doubted your election, pray for bakers and for all who provide bread, that none may go hungry. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Honoratus_of_Amiens"
   ],
   "featured": false,

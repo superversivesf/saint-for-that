@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Francis de Sales, who won the Calvinists of Chablais back to the faith by patience and gentleness, obtain for us a heart that persuades by love, and teach us to live devoutly in the world. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Francis de Sales, who won the Calvinists of Chablais back to the faith by patience and gentleness, obtain for us a heart that persuades by love, and teach us to live devoutly in the world. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Francis_de_Sales"
   ],
   "featured": false,

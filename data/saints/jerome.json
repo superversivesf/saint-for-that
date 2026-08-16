@@ -9,7 +9,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Jerome, who spent decades in Bethlehem translating the Scriptures from the original languages, pray for librarians and scholars, that they may seek the truth with diligence and humility. Amen.",
+  "prayer": {
+    "text": "St. Jerome, who spent decades in Bethlehem translating the Scriptures from the original languages, pray for librarians and scholars, that they may seek the truth with diligence and humility. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Jerome"
   ],

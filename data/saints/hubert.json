@@ -9,8 +9,11 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Hubert, who saw the crucifix shining between the stag's antlers on Good Friday and left your hunting for the Gospel, pray for hunters and for all who seek God in the wilderness, that they may hear His voice. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Hubert, who saw the crucifix shining between the stag's antlers on Good Friday and left your hunting for the Gospel, pray for hunters and for all who seek God in the wilderness, that they may hear His voice. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Hubertus"
   ],
   "image": {

@@ -14,7 +14,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Margaret Mary Alacoque, to whom the Lord showed his Sacred Heart burning with love, pray that we may return love for love and honor that Heart in the Holy Hour and on the First Fridays. Amen.",
+  "prayer": {
+    "text": "St. Margaret Mary Alacoque, to whom the Lord showed his Sacred Heart burning with love, pray that we may return love for love and honor that Heart in the Holy Hour and on the First Fridays. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"
   ],

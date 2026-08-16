@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "O glorious St. Benedict, sublime model of virtue, pure vessel of God's grace, obtain for me the grace to prefer nothing to the love of Christ. Amen.",
+  "prayer": {
+    "text": "O glorious St. Benedict, sublime model of virtue, pure vessel of God's grace, obtain for me the grace to prefer nothing to the love of Christ. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
   ],

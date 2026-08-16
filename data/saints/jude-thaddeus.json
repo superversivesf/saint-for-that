@@ -9,7 +9,10 @@
       "category": "special"
     }
   ],
-  "prayer": "Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally as the patron of hopeless cases. Pray for me; I am so helpless and alone. Amen.",
+  "prayer": {
+    "text": "Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally as the patron of hopeless cases. Pray for me; I am so helpless and alone. Amen.",
+    "source": "traditional"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Jude_the_Apostle"
   ],

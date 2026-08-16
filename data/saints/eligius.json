@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Eligius, master of the mint who ransomed captives with your gold, pray for metalworkers and goldsmiths, that their work may serve God and neighbor. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Eligius, master of the mint who ransomed captives with your gold, pray for metalworkers and goldsmiths, that their work may serve God and neighbor. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Saint_Eligius"
   ],
   "featured": false,

@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Peter, who denied the Lord three times and wept, and was given the keys of the kingdom, pray for the Church and for all who have failed, that they may rise again in love. Amen.",
+  "prayer": {
+    "text": "St. Peter, who denied the Lord three times and wept, and was given the keys of the kingdom, pray for the Church and for all who have failed, that they may rise again in love. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Peter"
   ],

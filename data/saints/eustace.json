@@ -9,8 +9,11 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Eustace, who met Christ in the stag with the crucifix between its antlers and lost everything rather than deny Him, pray for hunters and for all who seek God in creation, that they may find Him and remain faithful. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Eustace, who met Christ in the stag with the crucifix between its antlers and lost everything rather than deny Him, pray for hunters and for all who seek God in creation, that they may find Him and remain faithful. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Saint_Eustace"
   ],
   "image": {

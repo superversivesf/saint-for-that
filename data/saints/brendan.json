@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Brendan, who set out in a leather currach in search of the Promised Land of the Saints, pray for sailors and all who venture across the seas, that they may be kept safe and find their way to God. Amen.",
+  "prayer": {
+    "text": "St. Brendan, who set out in a leather currach in search of the Promised Land of the Saints, pray for sailors and all who venture across the seas, that they may be kept safe and find their way to God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Brendan_the_Navigator"
   ],

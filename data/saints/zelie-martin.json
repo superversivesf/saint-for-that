@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Zélie, who made lace and raised saints while bearing cancer with patience, pray for mothers and working parents, that their daily labor may become a path to holiness. Amen.",
+  "prayer": {
+    "text": "St. Zélie, who made lace and raised saints while bearing cancer with patience, pray for mothers and working parents, that their daily labor may become a path to holiness. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Z%C3%A9lie_Martin"
   ],

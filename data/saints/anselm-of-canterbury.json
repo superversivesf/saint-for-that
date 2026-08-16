@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Anselm, who taught that faith seeks understanding and was twice exiled for defending the Church, pray for philosophers and theologians, that faith may enlighten their reason and their reason serve the truth. Amen.",
+  "prayer": {
+    "text": "St. Anselm, who taught that faith seeks understanding and was twice exiled for defending the Church, pray for philosophers and theologians, that faith may enlighten their reason and their reason serve the truth. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
   ],

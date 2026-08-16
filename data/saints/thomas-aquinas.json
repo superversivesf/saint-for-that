@@ -5,10 +5,21 @@
   "canonized": "1323",
   "bio": "Thomas Aquinas was born around 1225 at Roccasecca, near Naples, into a noble family. Sent to study at Monte Cassino and Naples, he joined the Dominican Order against his family's wishes; his brothers even imprisoned him to change his mind, but he held firm. He studied under St. Albert the Great in Cologne and Paris.\n\nThomas became the greatest theologian of the Middle Ages, teaching at Paris and in Italy. His Summa Theologiae and Summa contra Gentiles synthesized Christian faith with the philosophy of Aristotle, and he wrote hymns for the feast of Corpus Christi, including the Tantum Ergo. He was known as the \"Angelic Doctor\" for the clarity of his thought.\n\nHe died on March 7, 1274, at Fossanova while traveling to the Council of Lyon, and was canonized in 1323. In 1567 he was declared a Doctor of the Church, and he remains the patron of students, scholars, and Catholic universities.",
   "patronages": [
-    { "need": "students", "category": "everyday" },
-    { "need": "scholars", "category": "jobs" }
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
   ],
-  "prayer": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, conduct pleasing to you, faithful perseverance in waiting for you, and a hope of finally embracing you. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Thomas_Aquinas"],
+  "prayer": {
+    "text": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, conduct pleasing to you, faithful perseverance in waiting for you, and a hope of finally embracing you. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  ],
   "featured": false
 }

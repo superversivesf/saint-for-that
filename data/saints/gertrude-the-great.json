@@ -14,8 +14,11 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Eternal Father, I offer You the most precious Blood of Your Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in purgatory. Amen.",
-"sources": [
+  "prayer": {
+    "text": "Eternal Father, I offer You the most precious Blood of Your Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in purgatory. Amen.",
+    "source": "traditional"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Gertrude_the_Great"
   ],
   "image": {

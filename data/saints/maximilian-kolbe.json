@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "God of love, you gave St. Maximilian Kolbe grace to take the place of a condemned father in the starvation bunker of Auschwitz; through his intercession make us capable of such love. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "God of love, you gave St. Maximilian Kolbe grace to take the place of a condemned father in the starvation bunker of Auschwitz; through his intercession make us capable of such love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
   ],

@@ -9,7 +9,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Andrew, who left your nets at the first call and brought your brother Peter to the Lord, pray for fishermen and all who labor at sea, that they may be kept safe and draw many souls to Christ. Amen.",
+  "prayer": {
+    "text": "St. Andrew, who left your nets at the first call and brought your brother Peter to the Lord, pray for fishermen and all who labor at sea, that they may be kept safe and draw many souls to Christ. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
   ],

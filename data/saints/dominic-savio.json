@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Dominic Savio, who resolved at twelve years old to choose death rather than sin, pray for young people, that they may grow in purity, joy, and love of God. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Dominic Savio, who resolved at twelve years old to choose death rather than sin, pray for young people, that they may grow in purity, joy, and love of God. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Dominic_Savio"
   ],
   "image": {

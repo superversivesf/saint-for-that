@@ -5,9 +5,20 @@
   "canonized": "pre-congregation",
   "bio": "Scholastica was born in Nursia, Italy, around 480, the twin sister of St. Benedict of Nursia. Consecrated to God from childhood, she founded a community of nuns near Monte Cassino, living under the rule her brother wrote for monks.\n\nBenedict and Scholastica met once a year at a house between their monasteries to speak of spiritual things. At their final meeting, when Benedict prepared to leave, Scholastica prayed that he might stay, and a sudden storm prevented his departure. She told him, \"I asked you and you would not listen; I asked my God and he heard me.\"\n\nShe died three days later, around 543, and Benedict saw her soul ascend to heaven in the form of a dove. She is venerated as the patron saint of nuns and is invoked against storms and rain.",
   "patronages": [
-    { "need": "nuns", "category": "spiritual" },
-    { "need": "storms", "category": "nature" }
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "storms",
+      "category": "nature"
+    }
   ],
-  "prayer": "St. Scholastica, whose prayer brought the storm that kept your brother at your side, teach us to ask God with the confidence of a child, for He hears those who love Him. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Scholastica"]
+  "prayer": {
+    "text": "St. Scholastica, whose prayer brought the storm that kept your brother at your side, teach us to ask God with the confidence of a child, for He hears those who love Him. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scholastica"
+  ]
 }

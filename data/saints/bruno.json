@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Bruno, who left the schools of Reims for the silence of Chartreuse, pray for contemplatives and hermits, that in solitude and silence they may find the face of God. Amen.",
+  "prayer": {
+    "text": "St. Bruno, who left the schools of Reims for the silence of Chartreuse, pray for contemplatives and hermits, that in solitude and silence they may find the face of God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
   ],

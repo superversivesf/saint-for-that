@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Elizabeth of Hungary, when your husband asked what you carried to the poor, the bread in your cloak became roses; teach us to serve Christ in the hungry and the sick with the same hidden love. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Elizabeth of Hungary, when your husband asked what you carried to the poor, the bread in your cloak became roses; teach us to serve Christ in the hungry and the sick with the same hidden love. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
   ],
   "featured": false,

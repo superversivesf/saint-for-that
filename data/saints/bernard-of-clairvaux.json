@@ -14,7 +14,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Bernard, who entered Cîteaux with thirty companions and taught the world to love God, pray for contemplatives and beekeepers, that they may taste the sweetness of God and lead others to him. Amen.",
+  "prayer": {
+    "text": "St. Bernard, who entered Cîteaux with thirty companions and taught the world to love God, pray for contemplatives and beekeepers, that they may taste the sweetness of God and lead others to him. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
   ],

@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Vitus, delivered from the cauldron, pray for us. St. Vitus, healer of the trembling, pray for us. St. Vitus, joy of dancers, pray for us. Amen.",
+  "prayer": {
+    "text": "St. Vitus, delivered from the cauldron, pray for us. St. Vitus, healer of the trembling, pray for us. St. Vitus, joy of dancers, pray for us. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Vitus"
   ],

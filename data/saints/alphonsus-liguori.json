@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Alphonsus, who left the bar after one lost case and spent your life preaching mercy to the poor, pray for those burdened by scruples and for all confessors, that they may lead souls to the gentle mercy of God. Amen.",
+  "prayer": {
+    "text": "St. Alphonsus, who left the bar after one lost case and spent your life preaching mercy to the poor, pray for those burdened by scruples and for all confessors, that they may lead souls to the gentle mercy of God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
   ],

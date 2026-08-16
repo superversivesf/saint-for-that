@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Louis Martin, watchmaker and father of St. Thérèse, who endured illness and the loss of your wife with quiet faith, pray for fathers and widowers, that their homes may be schools of holiness. Amen.",
+  "prayer": {
+    "text": "St. Louis Martin, watchmaker and father of St. Thérèse, who endured illness and the loss of your wife with quiet faith, pray for fathers and widowers, that their homes may be schools of holiness. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Louis_Martin_(blessed)"
   ],

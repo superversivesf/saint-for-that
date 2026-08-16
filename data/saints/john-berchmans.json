@@ -5,9 +5,20 @@
   "canonized": "1888",
   "bio": "John Berchmans was born in 1599 in Diest, in what is now Belgium. The son of a shoemaker, he entered the Jesuit novitiate at Mechelen in 1616 and later studied philosophy in Rome. He was known not for dramatic deeds but for his extraordinary fidelity to ordinary duties, his cheerfulness, and his devotion to the rules of his order.\n\nHis spiritual motto was to do the most ordinary things in the most perfect way. He died in Rome in 1621 at the age of twenty-two, shortly before he was to defend his philosophy thesis.\n\nHe was canonized in 1888 and is venerated as a patron of students, altar servers, and young people.",
   "patronages": [
-    { "need": "students", "category": "spiritual" },
-    { "need": "altar servers", "category": "spiritual" }
+    {
+      "need": "students",
+      "category": "spiritual"
+    },
+    {
+      "need": "altar servers",
+      "category": "spiritual"
+    }
   ],
-  "prayer": "St. John Berchmans, who said, \"If I do not become a saint when I am young, I never shall,\" and died at twenty-two doing ordinary things perfectly, pray for students and altar servers, that they may grow in holiness through small duties done well. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/John_Berchmans"]
+  "prayer": {
+    "text": "St. John Berchmans, who said, \"If I do not become a saint when I am young, I never shall,\" and died at twenty-two doing ordinary things perfectly, pray for students and altar servers, that they may grow in holiness through small duties done well. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Berchmans"
+  ]
 }

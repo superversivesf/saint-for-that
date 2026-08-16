@@ -10,8 +10,11 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Elizabeth Ann Seton, who came to the faith through widowhood and founded the first American religious community for women, pray for widows, for teachers, and for all who serve the poor. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Elizabeth Ann Seton, who came to the faith through widowhood and founded the first American religious community for women, pray for widows, for teachers, and for all who serve the poor. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton"
   ],
   "image": {

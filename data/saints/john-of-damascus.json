@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. John of Damascus, whose severed hand was restored by the Mother of God when you defended her images, pray for artists and for all who create, that their work may glorify God and lift hearts to heaven. Amen.",
+  "prayer": {
+    "text": "St. John of Damascus, whose severed hand was restored by the Mother of God when you defended her images, pray for artists and for all who create, that their work may glorify God and lift hearts to heaven. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_of_Damascus"
   ],

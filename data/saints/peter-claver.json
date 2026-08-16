@@ -10,7 +10,10 @@
       "category": "persecution"
     }
   ],
-  "prayer": "St. Peter Claver, who called yourself the slave of the slaves and met every ship with food and medicine, pray for the enslaved and the trafficked, that their chains may be broken. Amen.",
+  "prayer": {
+    "text": "St. Peter Claver, who called yourself the slave of the slaves and met every ship with food and medicine, pray for the enslaved and the trafficked, that their chains may be broken. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Peter_Claver"
   ],

@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Ambrose, acclaimed bishop while still a catechumen, who barred an emperor from the cathedral until he repented, pray for beekeepers and for all who preach, that their words may be sweet as honey and strong as truth. Amen.",
+  "prayer": {
+    "text": "St. Ambrose, acclaimed bishop while still a catechumen, who barred an emperor from the cathedral until he repented, pray for beekeepers and for all who preach, that their words may be sweet as honey and strong as truth. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Ambrose"
   ],

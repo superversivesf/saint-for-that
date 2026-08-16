@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "O holy St. Rita, advocate of the impossible, come to my aid in this time of need. You who endured so much with patience, obtain for me the grace I seek. Amen.",
+  "prayer": {
+    "text": "O holy St. Rita, advocate of the impossible, come to my aid in this time of need. You who endured so much with patience, obtain for me the grace I seek. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Rita_of_Cascia"
   ],

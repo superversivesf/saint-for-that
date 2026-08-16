@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Philip Neri, who shaved half your beard to laugh at your own reputation, pray for all who seek holiness, that they may serve God with joy and humility. Amen.",
+  "prayer": {
+    "text": "St. Philip Neri, who shaved half your beard to laugh at your own reputation, pray for all who seek holiness, that they may serve God with joy and humility. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Philip_Neri"
   ],

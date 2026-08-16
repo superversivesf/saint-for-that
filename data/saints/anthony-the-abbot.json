@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Anthony, who heard the Gospel and sold all you had to follow Christ into the desert, pray for butchers and for all who seek God in solitude, that they may resist temptation and grow in holiness. Amen.",
+  "prayer": {
+    "text": "St. Anthony, who heard the Gospel and sold all you had to follow Christ into the desert, pray for butchers and for all who seek God in solitude, that they may resist temptation and grow in holiness. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Anthony_the_Great"
   ],

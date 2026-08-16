@@ -10,7 +10,10 @@
       "category": "persecution"
     }
   ],
-  "prayer": "St. Paul Miki, who preached forgiveness from your cross at Nagasaki, pray for the Church in Japan and for all who die for the faith, that they may persevere to the end. Amen.",
+  "prayer": {
+    "text": "St. Paul Miki, who preached forgiveness from your cross at Nagasaki, pray for the Church in Japan and for all who die for the faith, that they may persevere to the end. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Paul_Miki"
   ],

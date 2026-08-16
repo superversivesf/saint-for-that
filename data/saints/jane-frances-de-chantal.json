@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Jane Frances de Chantal, who forgave the man who shot your husband and became godmother to his child, pray for widows and for all who struggle to forgive, that they may find peace in God's providence. Amen.",
+  "prayer": {
+    "text": "St. Jane Frances de Chantal, who forgave the man who shot your husband and became godmother to his child, pray for widows and for all who struggle to forgive, that they may find peace in God's providence. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
   ],

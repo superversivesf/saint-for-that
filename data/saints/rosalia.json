@@ -5,8 +5,16 @@
   "canonized": "Pre-Congregation",
   "bio": "Rosalia was born into a noble Norman family in Palermo, Sicily, in the twelfth century. According to tradition, she renounced the court and her family's plans for her marriage and withdrew to live as a hermit in a cave on Mount Pellegrino, where she died alone around 1166.\n\nIn 1624, during a severe outbreak of plague in Palermo, her relics were discovered in the cave and carried in procession through the city. The plague is said to have ceased, and Rosalia was acclaimed as the city's protector.\n\nShe is venerated as the patron saint of Palermo and is invoked against plague and epidemics. Her feast is still celebrated in Palermo with a great procession, and she is often depicted with a crown of roses and a skull.",
   "patronages": [
-    { "need": "plague", "category": "illness" }
+    {
+      "need": "plague",
+      "category": "illness"
+    }
   ],
-  "prayer": "St. Rosalia, who left the court for a cave on Monte Pellegrino and freed Palermo from plague, pray for our cities in time of sickness, that they may be delivered as yours was. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Saint_Rosalia"]
+  "prayer": {
+    "text": "St. Rosalia, who left the court for a cave on Monte Pellegrino and freed Palermo from plague, pray for our cities in time of sickness, that they may be delivered as yours was. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Rosalia"
+  ]
 }

@@ -14,8 +14,11 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Helena, who in your old age traveled to Jerusalem and uncovered the True Cross, pray for converts and for all who seek the truth of Christ, that they may find it and hold it fast. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Helena, who in your old age traveled to Jerusalem and uncovered the True Cross, pray for converts and for all who seek the truth of Christ, that they may find it and hold it fast. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
   ],
   "image": {

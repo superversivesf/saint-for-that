@@ -9,7 +9,10 @@
       "category": "military"
     }
   ],
-  "prayer": "St. Maurice, who with your Theban Legion chose death rather than deny Christ, pray for soldiers and for all who must obey authority, that they may obey God first. Amen.",
+  "prayer": {
+    "text": "St. Maurice, who with your Theban Legion chose death rather than deny Christ, pray for soldiers and for all who must obey authority, that they may obey God first. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Maurice"
   ],

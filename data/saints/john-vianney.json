@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. John Vianney, who spent sixteen hours a day in the confessional of Ars and said, \"I love You, O my God,\" pray for priests, that they may be holy, humble, and faithful shepherds of souls. Amen.",
+  "prayer": {
+    "text": "St. John Vianney, who spent sixteen hours a day in the confessional of Ars and said, \"I love You, O my God,\" pray for priests, that they may be holy, humble, and faithful shepherds of souls. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_Vianney"
   ],

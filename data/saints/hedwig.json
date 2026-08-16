@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Hedwig, duchess who walked barefoot in winter and gave away your wealth to the poor, pray for brides and for all who seek holiness in married life, that they may serve Christ in their households. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Hedwig, duchess who walked barefoot in winter and gave away your wealth to the poor, pray for brides and for all who seek holiness in married life, that they may serve Christ in their households. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
   ],
   "image": {

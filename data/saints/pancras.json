@@ -13,7 +13,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Pancras, who gave your life for Christ at fourteen, pray for children and for the young, that their faith may be brave and their hearts pure. Amen.",
+  "prayer": {
+    "text": "St. Pancras, who gave your life for Christ at fourteen, pray for children and for the young, that their faith may be brave and their hearts pure. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Pancras_of_Rome"
   ],

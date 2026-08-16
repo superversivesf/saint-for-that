@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Josemaría Escrivá, who taught that holiness is found in ordinary work and daily life, pray for us, that we may sanctify our labor and find God in the duties of each day. Amen.",
+  "prayer": {
+    "text": "St. Josemaría Escrivá, who taught that holiness is found in ordinary work and daily life, pray for us, that we may sanctify our labor and find God in the duties of each day. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
   ],

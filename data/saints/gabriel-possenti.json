@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Gabriel Possenti, who turned from parties and fine clothes to the Passionists after seeing death in a cholera epidemic, pray for students and for all who are young, that they may give their best years to God. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Gabriel Possenti, who turned from parties and fine clothes to the Passionists after seeing death in a cholera epidemic, pray for students and for all who are young, that they may give their best years to God. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
   ],
   "featured": false,

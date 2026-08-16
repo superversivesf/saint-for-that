@@ -5,9 +5,20 @@
   "canonized": "1582",
   "bio": "Romuald was born around 951 in Ravenna, Italy, into a noble family. After witnessing his father kill a relative in a duel, he entered a monastery to do penance, and later became a hermit, wandering through Italy founding small communities of hermits.\n\nAround 1012 he founded the monastery of Camaldoli in Tuscany, which gave its name to the Camaldolese branch of the Benedictine family, combining the solitary life of hermits with community life.\n\nHe died in 1027, reportedly at the age of about 120. He is remembered for his strict asceticism and his saying that one should sit in one's cell like a paradise.",
   "patronages": [
-    { "need": "hermits", "category": "spiritual" },
-    { "need": "monks", "category": "spiritual" }
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
   ],
-  "prayer": "St. Romuald, you taught your monks to sit in the cell like a paradise; teach us to find God in silence and to remain with Him in prayer. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Romuald"]
+  "prayer": {
+    "text": "St. Romuald, you taught your monks to sit in the cell like a paradise; teach us to find God in silence and to remain with Him in prayer. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romuald"
+  ]
 }

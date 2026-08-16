@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Louis de Montfort, who taught total consecration to Jesus through Mary, pray for preachers and for all who seek Our Lady's help, that we may belong wholly to Christ. Amen.",
+  "prayer": {
+    "text": "St. Louis de Montfort, who taught total consecration to Jesus through Mary, pray for preachers and for all who seek Our Lady's help, that we may belong wholly to Christ. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Louis_de_Montfort"
   ],

@@ -10,7 +10,10 @@
       "category": "family"
     }
   ],
-  "prayer": "O good St. Gerard, powerful intercessor before the throne of God, watch over all expectant mothers and the children they carry, and obtain for them a safe delivery and healthy child. Amen.",
+  "prayer": {
+    "text": "O good St. Gerard, powerful intercessor before the throne of God, watch over all expectant mothers and the children they carry, and obtain for them a safe delivery and healthy child. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Gerard_Majella"
   ],

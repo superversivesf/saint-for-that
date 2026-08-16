@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Zita, whose apron of bread for the poor became flowers, pray for housekeepers and domestic workers, that their service may be honored and their work a prayer. Amen.",
+  "prayer": {
+    "text": "St. Zita, whose apron of bread for the poor became flowers, pray for housekeepers and domestic workers, that their service may be honored and their work a prayer. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Zita"
   ],

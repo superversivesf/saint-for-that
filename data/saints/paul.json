@@ -9,7 +9,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Paul, whom the risen Christ struck down on the road to Damascus and made his apostle, pray for missionaries and for all who persecute the Church, that they may be converted and preach. Amen.",
+  "prayer": {
+    "text": "St. Paul, whom the risen Christ struck down on the road to Damascus and made his apostle, pray for missionaries and for all who persecute the Church, that they may be converted and preach. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Paul_the_Apostle"
   ],

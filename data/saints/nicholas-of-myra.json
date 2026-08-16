@@ -13,7 +13,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "O good St. Nicholas, you who loved the poor and protected children, help us to be generous with what we have and to care for those in need. Amen.",
+  "prayer": {
+    "text": "O good St. Nicholas, you who loved the poor and protected children, help us to be generous with what we have and to care for those in need. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Nicholas"
   ],

@@ -10,8 +10,11 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Dominic, who answered heresy not with force but with preaching and poverty, pray for all preachers and teachers of the faith, that the word of God may bear fruit in every heart. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Dominic, who answered heresy not with force but with preaching and poverty, pray for all preachers and teachers of the faith, that the word of God may bear fruit in every heart. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Saint_Dominic"
   ],
   "image": {

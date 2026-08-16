@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Bernardino, who held crowds spellbound with the Holy Name of Jesus and carried the IHS monogram through Italy, pray for advertisers and all who communicate, that their words may always serve truth and the glory of God. Amen.",
+  "prayer": {
+    "text": "St. Bernardino, who held crowds spellbound with the Holy Name of Jesus and carried the IHS monogram through Italy, pray for advertisers and all who communicate, that their words may always serve truth and the glory of God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Bernardino_of_Siena"
   ],

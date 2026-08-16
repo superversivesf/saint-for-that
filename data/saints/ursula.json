@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "O God, who crowned St. Ursula and her companions with martyrdom, grant teachers and students steadfast faith and growing wisdom. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "O God, who crowned St. Ursula and her companions with martyrdom, grant teachers and students steadfast faith and growing wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Ursula"
   ],

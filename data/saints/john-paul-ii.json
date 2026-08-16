@@ -14,7 +14,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. John Paul II, who visited your assassin in prison and forgave him, pray for young people and for every family, that they may be strong in faith, hope, and love. Amen.",
+  "prayer": {
+    "text": "St. John Paul II, who visited your assassin in prison and forgave him, pray for young people and for every family, that they may be strong in faith, hope, and love. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
   ],

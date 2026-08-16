@@ -5,9 +5,20 @@
   "canonized": "2000",
   "bio": "Katharine Drexel was born in 1858 in Philadelphia into a wealthy banking family. After her parents died, she and her sisters inherited a vast fortune, and Katharine felt called to give it away in service of Native Americans and African Americans, whose poverty and neglect she had seen firsthand on family travels.\n\nIn 1891 she founded the Sisters of the Blessed Sacrament, a religious order devoted to serving these communities. Over the following decades she spent her inheritance building schools, including Xavier University in New Orleans, the first Catholic university in the United States for Black students.\n\nShe died in 1955 at the age of ninety-six and was canonized in 2000. She is a patron of Native Americans, African Americans, and racial justice.",
   "patronages": [
-    { "need": "native americans", "category": "spiritual" },
-    { "need": "racial justice", "category": "spiritual" }
+    {
+      "need": "native americans",
+      "category": "spiritual"
+    },
+    {
+      "need": "racial justice",
+      "category": "spiritual"
+    }
   ],
-  "prayer": "God of justice, you moved St. Katharine Drexel to spend her great inheritance on schools for Native and Black Americans; through her intercession grant us generous hearts that see your image in every person. We ask this through Christ our Lord. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Katharine_Drexel"]
+  "prayer": {
+    "text": "God of justice, you moved St. Katharine Drexel to spend her great inheritance on schools for Native and Black Americans; through her intercession grant us generous hearts that see your image in every person. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Katharine_Drexel"
+  ]
 }

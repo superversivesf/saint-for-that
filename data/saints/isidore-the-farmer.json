@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Isidore, humble farmer and faithful servant, pray for all who work the land, and obtain for us good harvests and grateful hearts. Amen.",
+  "prayer": {
+    "text": "St. Isidore, humble farmer and faithful servant, pray for all who work the land, and obtain for us good harvests and grateful hearts. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Isidore_the_Laborer"
   ],

@@ -9,7 +9,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "Through the intercession of St. Blaise, bishop and martyr, may God deliver you from every disease of the throat and from every other illness, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+  "prayer": {
+    "text": "Through the intercession of St. Blaise, bishop and martyr, may God deliver you from every disease of the throat and from every other illness, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Blaise"
   ],

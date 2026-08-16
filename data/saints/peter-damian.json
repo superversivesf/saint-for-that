@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Peter Damian, who left the schools for a hermit's cell and called the clergy to reform, pray for the Church, that she may be poor, pure, and faithful. Amen.",
+  "prayer": {
+    "text": "St. Peter Damian, who left the schools for a hermit's cell and called the clergy to reform, pray for the Church, that she may be poor, pure, and faithful. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Peter_Damian"
   ],

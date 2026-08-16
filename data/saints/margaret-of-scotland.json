@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Margaret of Scotland, queen who washed the feet of beggars and fed orphans at your own table, pray for rulers and for all who serve the poor, that power may become charity. Amen.",
+  "prayer": {
+    "text": "St. Margaret of Scotland, queen who washed the feet of beggars and fed orphans at your own table, pray for rulers and for all who serve the poor, that power may become charity. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
   ],

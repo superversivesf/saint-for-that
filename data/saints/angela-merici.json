@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Angela, who gathered women to teach poor girls in their own homes, pray for teachers and all who form the young, that they may instruct with wisdom and love. Amen.",
+  "prayer": {
+    "text": "St. Angela, who gathered women to teach poor girls in their own homes, pray for teachers and all who form the young, that they may instruct with wisdom and love. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Angela_Merici"
   ],

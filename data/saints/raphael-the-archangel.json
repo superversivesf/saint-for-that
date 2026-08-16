@@ -13,7 +13,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "O glorious Archangel St. Raphael, great prince of the heavenly court, guide of travelers and healer of the sick, be with me on my journey and obtain for me the healing I seek. Amen.",
+  "prayer": {
+    "text": "O glorious Archangel St. Raphael, great prince of the heavenly court, guide of travelers and healer of the sick, be with me on my journey and obtain for me the healing I seek. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Raphael_(archangel)"
   ],

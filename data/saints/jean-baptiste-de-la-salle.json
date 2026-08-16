@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. John Baptist de La Salle, who gave away your family fortune to open free schools for poor boys, pray for teachers and for all who educate the young, that they may teach with wisdom, patience, and love. Amen.",
+  "prayer": {
+    "text": "St. John Baptist de La Salle, who gave away your family fortune to open free schools for poor boys, pray for teachers and for all who educate the young, that they may teach with wisdom, patience, and love. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle"
   ],

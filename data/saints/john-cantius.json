@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. John Cantius, professor of Kraków who gave away your salary and even your shoes, pray for all who seek knowledge, that their learning may lead them closer to God. Amen.",
+  "prayer": {
+    "text": "St. John Cantius, professor of Kraków who gave away your salary and even your shoes, pray for all who seek knowledge, that their learning may lead them closer to God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_Cantius"
   ],

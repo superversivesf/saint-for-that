@@ -14,8 +14,11 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Hildegard of Bingen, who saw visions from childhood and set them to music, pray for musicians and scientists, that their gifts may glorify God and reveal the harmony of His creation. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Hildegard of Bingen, who saw visions from childhood and set them to music, pray for musicians and scientists, that their gifts may glorify God and reveal the harmony of His creation. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
   ],
   "image": {

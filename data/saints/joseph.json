@@ -17,7 +17,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "O St. Joseph, whose protection is so great, so strong, so prompt before the throne of God, I place in you all my interests and desires. Amen.",
+  "prayer": {
+    "text": "O St. Joseph, whose protection is so great, so strong, so prompt before the throne of God, I place in you all my interests and desires. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Joseph"
   ],

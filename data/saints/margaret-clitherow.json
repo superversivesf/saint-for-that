@@ -14,7 +14,10 @@
       "category": "persecution"
     }
   ],
-  "prayer": "St. Margaret Clitherow, Pearl of York, who was pressed to death rather than betray your priests and children, pray for mothers and for all who keep the faith in secret, that they may stand firm. Amen.",
+  "prayer": {
+    "text": "St. Margaret Clitherow, Pearl of York, who was pressed to death rather than betray your priests and children, pray for mothers and for all who keep the faith in secret, that they may stand firm. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Margaret_Clitherow"
   ],

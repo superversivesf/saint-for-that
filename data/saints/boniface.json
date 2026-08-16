@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Lord, who gave Boniface the courage to fell the oak of Thor and build a chapel from its wood, grant through his intercession that missionaries and the people of Germany may see the Gospel take deep root in every heart. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "Lord, who gave Boniface the courage to fell the oak of Thor and build a chapel from its wood, grant through his intercession that missionaries and the people of Germany may see the Gospel take deep root in every heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Boniface"
   ],

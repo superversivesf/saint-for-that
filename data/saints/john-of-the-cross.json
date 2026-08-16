@@ -10,7 +10,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. John of the Cross, who composed your greatest poetry in a dark cell in Toledo where your own brethren imprisoned you, pray for all who seek God in silence and contemplation, that they may find light in the darkness. Amen.",
+  "prayer": {
+    "text": "St. John of the Cross, who composed your greatest poetry in a dark cell in Toledo where your own brethren imprisoned you, pray for all who seek God in silence and contemplation, that they may find light in the darkness. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_of_the_Cross"
   ],

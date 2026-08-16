@@ -10,7 +10,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "St. Toribio Romo, who celebrated Mass in secret and died for your flock, watch over migrants who journey far from home, and bring them safely to their destination. Amen.",
+  "prayer": {
+    "text": "St. Toribio Romo, who celebrated Mass in secret and died for your flock, watch over migrants who journey far from home, and bring them safely to their destination. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Toribio_Romo_Gonz%C3%A1lez"
   ],

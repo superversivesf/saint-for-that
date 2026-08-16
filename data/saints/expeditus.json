@@ -10,8 +10,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Expeditus, who trampled the crow that cried \"tomorrow\" and answered \"Hodie!\" — today! — pray for us in our urgent needs, that we may never put off what God asks of us. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Expeditus, who trampled the crow that cried \"tomorrow\" and answered \"Hodie!\" — today! — pray for us in our urgent needs, that we may never put off what God asks of us. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Expeditus"
   ],
   "featured": false,

@@ -9,7 +9,10 @@
       "category": "family"
     }
   ],
-  "prayer": "O faithful virgin and glorious martyr, St. Philomena, who works so many miracles, pray for me and obtain for me the grace I ask. Amen.",
+  "prayer": {
+    "text": "O faithful virgin and glorious martyr, St. Philomena, who works so many miracles, pray for me and obtain for me the grace I ask. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Philomena"
   ],

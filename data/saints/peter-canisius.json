@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Peter Canisius, whose catechisms taught the faith to generations in simple words, pray for catechists and teachers, that they may hand on the faith whole and clear. Amen.",
+  "prayer": {
+    "text": "St. Peter Canisius, whose catechisms taught the faith to generations in simple words, pray for catechists and teachers, that they may hand on the faith whole and clear. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Peter_Canisius"
   ],

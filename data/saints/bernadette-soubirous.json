@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Bernadette, to whom the Lady of the grotto said, \"I am the Immaculate Conception,\" and who hid your visions for a lifetime, pray for the sick, that through your intercession they may find healing of body and soul. Amen.",
+  "prayer": {
+    "text": "St. Bernadette, to whom the Lady of the grotto said, \"I am the Immaculate Conception,\" and who hid your visions for a lifetime, pray for the sick, that through your intercession they may find healing of body and soul. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
   ],

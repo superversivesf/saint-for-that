@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "O God, who cares for your people with gentleness and rules them in love, through the intercession of Pope St. Gregory, endow with the spirit of wisdom those you have placed in authority. Amen.",
+  "prayer": {
+    "text": "O God, who cares for your people with gentleness and rules them in love, through the intercession of Pope St. Gregory, endow with the spirit of wisdom those you have placed in authority. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Pope_Gregory_I"
   ],

@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Wenceslaus, murdered at the church door by your brother's men, pray for our rulers and for all who labor, that they may govern and work in justice and peace. Amen.",
+  "prayer": {
+    "text": "St. Wenceslaus, murdered at the church door by your brother's men, pray for our rulers and for all who labor, that they may govern and work in justice and peace. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Bohemia"
   ],

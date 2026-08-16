@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Agatha, who endured the tortures of Quintianus and was healed in prison by the Apostle Peter, pray for all who suffer breast disease, that they may know the healing touch of Christ. Amen.",
+  "prayer": {
+    "text": "St. Agatha, who endured the tortures of Quintianus and was healed in prison by the Apostle Peter, pray for all who suffer breast disease, that they may know the healing touch of Christ. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
   ],

@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Pantaleon, physician who healed the poor without charge and died for the faith, pray for doctors and for all who are ill, that healing may come to body and soul. Amen.",
+  "prayer": {
+    "text": "St. Pantaleon, physician who healed the poor without charge and died for the faith, pray for doctors and for all who are ill, that healing may come to body and soul. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Pantaleon"
   ],

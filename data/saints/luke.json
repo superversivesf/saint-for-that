@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "Lord Jesus, who gave St. Luke the physician grace to write your Gospel of mercy to the poor and the outcast, through his intercession guide the hands and hearts of all who heal. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "Lord Jesus, who gave St. Luke the physician grace to write your Gospel of mercy to the poor and the outcast, through his intercession guide the hands and hearts of all who heal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
   ],

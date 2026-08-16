@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "Lord Jesus, who wept at the tomb of your friend Lazarus and called him out four days dead, through his intercession raise up all who lie in sickness and isolation to newness of life. We ask this through Christ our Lord. Amen.",
+  "prayer": {
+    "text": "Lord Jesus, who wept at the tomb of your friend Lazarus and called him out four days dead, through his intercession raise up all who lie in sickness and isolation to newness of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Lazarus_of_Bethany"
   ],

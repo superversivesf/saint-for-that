@@ -13,7 +13,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "O God, source of our salvation, through the intercession of St. Dymphna, patroness of those afflicted with mental and emotional illness, grant comfort to all who suffer and strength to those who care for them. Amen.",
+  "prayer": {
+    "text": "O God, source of our salvation, through the intercession of St. Dymphna, patroness of those afflicted with mental and emotional illness, grant comfort to all who suffer and strength to those who care for them. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Dymphna"
   ],

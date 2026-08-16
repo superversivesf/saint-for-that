@@ -10,8 +10,11 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Gianna Beretta Molla, physician and mother who refused the treatment that would have cost your unborn child's life, pray for mothers and for all who defend the unborn, that they may choose life with your courage. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Gianna Beretta Molla, physician and mother who refused the treatment that would have cost your unborn child's life, pray for mothers and for all who defend the unborn, that they may choose life with your courage. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Gianna_Beretta_Molla"
   ],
   "image": {

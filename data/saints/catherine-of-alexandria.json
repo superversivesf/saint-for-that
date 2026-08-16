@@ -9,7 +9,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Catherine, who confounded fifty philosophers and saw the spiked wheel shatter at your touch, pray for students, that they may grow in wisdom and defend the faith with courage. Amen.",
+  "prayer": {
+    "text": "St. Catherine, who confounded fifty philosophers and saw the spiked wheel shatter at your touch, pray for students, that they may grow in wisdom and defend the faith with courage. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
   ],

@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Raymond of Penyafort, who spread your cloak upon the sea and sailed home to Barcelona, pray for lawyers and for all who seek justice, that they may serve truth with mercy. Amen.",
+  "prayer": {
+    "text": "St. Raymond of Penyafort, who spread your cloak upon the sea and sailed home to Barcelona, pray for lawyers and for all who seek justice, that they may serve truth with mercy. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Raymond_of_Penyafort"
   ],

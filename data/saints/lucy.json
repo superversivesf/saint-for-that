@@ -9,7 +9,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Lucy, whose beautiful name signifies light, obtain for me clear vision of the path of life, and the grace to walk it with courage and faith. Amen.",
+  "prayer": {
+    "text": "St. Lucy, whose beautiful name signifies light, obtain for me clear vision of the path of life, and the grace to walk it with courage and faith. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Lucy"
   ],

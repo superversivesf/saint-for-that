@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Barbara, who had a third window cut in your bathhouse in honor of the Trinity, pray for architects and builders, that their work may serve the good of all and give glory to God. Amen.",
+  "prayer": {
+    "text": "St. Barbara, who had a third window cut in your bathhouse in honor of the Trinity, pray for architects and builders, that their work may serve the good of all and give glory to God. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Barbara"
   ],

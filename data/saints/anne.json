@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Anne, who after long years of waiting received the daughter who would bear the Savior, pray for mothers and grandmothers, that they may raise their children in faith and love. Amen.",
+  "prayer": {
+    "text": "St. Anne, who after long years of waiting received the daughter who would bear the Savior, pray for mothers and grandmothers, that they may raise their children in faith and love. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Anne"
   ],

@@ -9,7 +9,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you. You were within me, but I was outside, and it was there that I searched for you. Amen.",
+  "prayer": {
+    "text": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you. You were within me, but I was outside, and it was there that I searched for you. Amen.",
+    "source": "traditional"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
   ],

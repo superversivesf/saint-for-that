@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "O glorious St. Clare, mirror of poverty and humility, obtain for us clear sight of God's will and the grace to follow it with a generous heart. Amen.",
+  "prayer": {
+    "text": "O glorious St. Clare, mirror of poverty and humility, obtain for us clear sight of God's will and the grace to follow it with a generous heart. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Clare_of_Assisi"
   ],

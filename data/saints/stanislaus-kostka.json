@@ -5,8 +5,16 @@
   "canonized": "1726",
   "bio": "Stanislaus was born in 1550 into a noble Polish family. As a young student at the Jesuit college in Vienna, he felt a strong call to religious life, but his family opposed him and his older brother mistreated him.\n\nDetermined to follow his vocation, he walked over four hundred miles to Rome, where he was received into the Society of Jesus by St. Francis Borgia in 1567. He was known for his cheerfulness, his devotion to the Eucharist, and his tender love for the Virgin Mary.\n\nHe died on August 15, 1568, at the age of seventeen, and was canonized in 1726. He is venerated as the patron saint of youth.",
   "patronages": [
-    { "need": "youth", "category": "everyday" }
+    {
+      "need": "youth",
+      "category": "everyday"
+    }
   ],
-  "prayer": "St. Stanislaus, who walked four hundred miles to Rome rather than abandon your vocation, pray for the young, that they may follow God's call with your courage and joy. Amen.",
-  "sources": ["https://en.wikipedia.org/wiki/Stanislaus_Kostka"]
+  "prayer": {
+    "text": "St. Stanislaus, who walked four hundred miles to Rome rather than abandon your vocation, pray for the young, that they may follow God's call with your courage and joy. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+  ]
 }

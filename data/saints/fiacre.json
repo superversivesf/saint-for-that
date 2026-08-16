@@ -9,8 +9,11 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Fiacre, who cleared the forest with your spade alone and grew herbs for the sick, pray for gardeners and for all who till the earth, that their labor may feed the hungry and heal the suffering. Amen.",
-"sources": [
+  "prayer": {
+    "text": "St. Fiacre, who cleared the forest with your spade alone and grew herbs for the sick, pray for gardeners and for all who till the earth, that their labor may feed the hungry and heal the suffering. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Saint_Fiacre"
   ],
   "featured": false,

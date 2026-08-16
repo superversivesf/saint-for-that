@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "Sts. Cosmas and Damian, who healed the sick without payment and were called the silverless ones, pray for physicians and all who practice medicine, that they may heal with skill and compassion. Amen.",
+  "prayer": {
+    "text": "Sts. Cosmas and Damian, who healed the sick without payment and were called the silverless ones, pray for physicians and all who practice medicine, that they may heal with skill and compassion. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian"
   ],

@@ -14,7 +14,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "O Holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me my request. Amen.",
+  "prayer": {
+    "text": "O Holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me my request. Amen.",
+    "source": "traditional"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Anthony_of_Padua"
   ],

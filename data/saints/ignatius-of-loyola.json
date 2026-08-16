@@ -10,8 +10,11 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will, all that I have and possess. You have given all to me; to You, O Lord, I return it. All is Yours; dispose of it wholly according to Your will. Give me Your love and Your grace, for this is sufficient for me. Amen.",
-"sources": [
+  "prayer": {
+    "text": "Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will, all that I have and possess. You have given all to me; to You, O Lord, I return it. All is Yours; dispose of it wholly according to Your will. Give me Your love and Your grace, for this is sufficient for me. Amen.",
+    "source": "traditional"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
   ],
   "image": {

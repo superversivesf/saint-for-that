@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Nicholas of Tolentino, who carried bread to the sick and prayed the dead into rest, pray for the holy souls in purgatory and for all who hunger, that they may be satisfied. Amen.",
+  "prayer": {
+    "text": "St. Nicholas of Tolentino, who carried bread to the sick and prayed the dead into rest, pray for the holy souls in purgatory and for all who hunger, that they may be satisfied. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
   ],

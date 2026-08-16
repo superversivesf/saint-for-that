@@ -14,8 +14,11 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "Sts. Cyril and Methodius, who devised an alphabet and translated the Gospels so the Slavs could hear the Word in their own tongue, pray for missionaries and for the peoples of Europe, that the faith may take root in every language and culture. Amen.",
-"sources": [
+  "prayer": {
+    "text": "Sts. Cyril and Methodius, who devised an alphabet and translated the Gospels so the Slavs could hear the Word in their own tongue, pray for missionaries and for the peoples of Europe, that the faith may take root in every language and culture. Amen.",
+    "source": "original"
+  },
+  "sources": [
     "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
   ],
   "image": {

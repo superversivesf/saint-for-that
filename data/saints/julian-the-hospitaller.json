@@ -9,7 +9,10 @@
       "category": "travel"
     }
   ],
-  "prayer": "St. Julian the Hospitaller, who carried a leper across the river and found him to be Christ, teach us to welcome every stranger as the Lord himself, and pray for all who keep inns and ferries and open doors. Amen.",
+  "prayer": {
+    "text": "St. Julian the Hospitaller, who carried a leper across the river and found him to be Christ, teach us to welcome every stranger as the Lord himself, and pray for all who keep inns and ferries and open doors. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
   ],

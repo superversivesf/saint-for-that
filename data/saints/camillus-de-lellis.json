@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Camillus, once a soldier and gambler, who taught your brothers to serve the sick as if they were Christ himself, pray for nurses and all who care for the suffering, that they may see Christ in every patient. Amen.",
+  "prayer": {
+    "text": "St. Camillus, once a soldier and gambler, who taught your brothers to serve the sick as if they were Christ himself, pray for nurses and all who care for the suffering, that they may see Christ in every patient. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
   ],

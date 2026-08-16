@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "O great St. Peregrine, you who were miraculously cured of cancer, obtain for me the grace to accept my suffering with patience and, if it be God's will, the healing I seek. Amen.",
+  "prayer": {
+    "text": "O great St. Peregrine, you who were miraculously cured of cancer, obtain for me the grace to accept my suffering with patience and, if it be God's will, the healing I seek. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Peregrine_Laziosi"
   ],

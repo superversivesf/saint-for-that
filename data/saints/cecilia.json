@@ -9,7 +9,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Cecilia, glorious virgin and martyr, patroness of musicians, pray that I may use my gifts to praise God and lift the hearts of others. Amen.",
+  "prayer": {
+    "text": "St. Cecilia, glorious virgin and martyr, patroness of musicians, pray that I may use my gifts to praise God and lift the hearts of others. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Cecilia"
   ],

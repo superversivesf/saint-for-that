@@ -10,7 +10,10 @@
       "category": "military"
     }
   ],
-  "prayer": "St. John of Capistrano, who at seventy carried the standard of the Cross at the siege of Belgrade and led the defense to victory, pray for military chaplains and for all who serve in the armed forces, that they may be instruments of peace and courage. Amen.",
+  "prayer": {
+    "text": "St. John of Capistrano, who at seventy carried the standard of the Cross at the siege of Belgrade and led the defense to victory, pray for military chaplains and for all who serve in the armed forces, that they may be instruments of peace and courage. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_of_Capistrano"
   ],

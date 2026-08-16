@@ -10,7 +10,10 @@
       "category": "everyday"
     }
   ],
-  "prayer": "St. Maria Goretti, who forgave the man who stabbed you and prayed for his repentance, pray for victims of violence and for the young, that purity and mercy may triumph over evil. Amen.",
+  "prayer": {
+    "text": "St. Maria Goretti, who forgave the man who stabbed you and prayed for his repentance, pray for victims of violence and for the young, that purity and mercy may triumph over evil. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Maria_Goretti"
   ],

@@ -10,7 +10,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. Vincent de Paul, you found Christ in the galley slaves and the foundlings; obtain for us eyes that see Him in the poor and hands quick to serve them. Amen.",
+  "prayer": {
+    "text": "St. Vincent de Paul, you found Christ in the galley slaves and the foundlings; obtain for us eyes that see Him in the poor and hands quick to serve them. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Vincent_de_Paul"
   ],

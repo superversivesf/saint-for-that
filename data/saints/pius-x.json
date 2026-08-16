@@ -14,7 +14,10 @@
       "category": "spiritual"
     }
   ],
-  "prayer": "St. Pius X, who opened the altar to children and called them to early Communion, pray for the young and for all who hunger for the Eucharist, that they may be fed. Amen.",
+  "prayer": {
+    "text": "St. Pius X, who opened the altar to children and called them to early Communion, pray for the young and for all who hunger for the Eucharist, that they may be fed. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Pope_Pius_X"
   ],

@@ -9,7 +9,10 @@
       "category": "military"
     }
   ],
-  "prayer": "St. Florian, patron of firefighters, protect those who risk their lives to save others from fire and danger, and keep our homes and families safe. Amen.",
+  "prayer": {
+    "text": "St. Florian, patron of firefighters, protect those who risk their lives to save others from fire and danger, and keep our homes and families safe. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Florian"
   ],

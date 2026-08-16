@@ -14,7 +14,10 @@
       "category": "nature"
     }
   ],
-  "prayer": "St. Medard, whom an eagle sheltered from the storm with its wings, pray for farmers and for all who depend on the weather, that the seasons may be kind and the harvest sure. Amen.",
+  "prayer": {
+    "text": "St. Medard, whom an eagle sheltered from the storm with its wings, pray for farmers and for all who depend on the weather, that the seasons may be kind and the harvest sure. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Medardus"
   ],

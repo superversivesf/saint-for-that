@@ -14,7 +14,10 @@
       "category": "illness"
     }
   ],
-  "prayer": "St. John Neumann, who arrived in New York with one dollar in your pocket and built the first diocesan school system in America, pray for immigrants and for sick children, that they may find welcome and healing. Amen.",
+  "prayer": {
+    "text": "St. John Neumann, who arrived in New York with one dollar in your pocket and built the first diocesan school system in America, pray for immigrants and for sick children, that they may find welcome and healing. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/John_Neumann"
   ],

@@ -9,7 +9,10 @@
       "category": "family"
     }
   ],
-  "prayer": "St. Valentine, faithful witness to love, pray for all who are engaged and married, that their love may be patient, kind, and enduring. Amen.",
+  "prayer": {
+    "text": "St. Valentine, faithful witness to love, pray for all who are engaged and married, that their love may be patient, kind, and enduring. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Valentine"
   ],

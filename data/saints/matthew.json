@@ -10,7 +10,10 @@
       "category": "jobs"
     }
   ],
-  "prayer": "St. Matthew, who left your tax booth at a single word, \"Follow me,\" pray for all who handle money and for sinners who long to change, that they may rise and follow Christ. Amen.",
+  "prayer": {
+    "text": "St. Matthew, who left your tax booth at a single word, \"Follow me,\" pray for all who handle money and for sinners who long to change, that they may rise and follow Christ. Amen.",
+    "source": "original"
+  },
   "sources": [
     "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
   ],
