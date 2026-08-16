@@ -1,0 +1,12 @@
+{
+  "slug": "boniface",
+  "name": "St. Boniface",
+  "feastDay": "06-05",
+  "canonized": "unknown",
+  "bio": "Boniface was born around 675 in Wessex, England, and entered a monastery as a young man. In 716 he set out as a missionary to the Germanic peoples of Frisia and central Germany, where he spent the rest of his life preaching, founding monasteries, and organizing the church. He famously felled the sacred oak of Thor at Geismar, using its wood to build a chapel.\n\nAppointed archbishop of Mainz, Boniface reformed the Frankish church, convened councils, and crowned Pepin the Short king of the Franks. He was martyred in 754 at Dokkum in Frisia, along with dozens of companions, while preparing converts for confirmation.\n\nHe is called the Apostle of Germany and is venerated as a patron of missionaries and of Germany.",
+  "patronages": [
+    { "need": "missionaries", "category": "spiritual" },
+    { "need": "germany", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Boniface"]
+}

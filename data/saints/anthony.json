@@ -1,0 +1,12 @@
+{
+  "slug": "anthony",
+  "name": "St. Anthony",
+  "feastDay": "06-13",
+  "canonized": "1232",
+  "bio": "Anthony of Padua was born Fernando Martins de Bulhões in Lisbon around 1195. He joined the Augustinian canons as a young man, but after seeing the relics of Franciscan martyrs from Morocco he transferred to the Franciscans, taking the name Anthony, and set out to preach to Muslims. Illness forced him back to Europe, and he settled in Italy.\n\nHis gift for preaching was discovered almost by accident when he was asked to speak at an ordination, and he became one of the most celebrated preachers of his age, drawing vast crowds across Italy and France. He taught theology with the blessing of St. Francis and was known for miracles, including the famous sermon to the fishes.\n\nHe died near Padua in 1231 at about age thirty-six and was canonized within a year. He is one of the most beloved saints in the world, invoked especially for the recovery of lost items.",
+  "patronages": [
+    { "need": "lost items", "category": "special" },
+    { "need": "travelers", "category": "special" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Anthony_of_Padua"]
+}

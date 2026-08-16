@@ -1,0 +1,12 @@
+{
+  "slug": "francis-xavier",
+  "name": "St. Francis Xavier",
+  "feastDay": "12-03",
+  "canonized": "1622",
+  "bio": "Francis Xavier was born in 1506 into a noble family in the Kingdom of Navarre, in what is now Spain. While studying at the University of Paris he met Ignatius of Loyola and became one of the seven founding members of the Society of Jesus. Ordained in 1537, he was sent by the pope as a missionary to the East, arriving in Goa, India, in 1542.\n\nOver the next decade Xavier traveled relentlessly through India, the Malay Peninsula, the Moluccas, and Japan, baptizing tens of thousands and adapting his preaching to local languages and customs. He dreamed of entering China but died on the island of Shangchuan in 1552, within sight of the mainland, at the age of forty-six.\n\nHe is remembered as one of the greatest missionaries since the apostles and was canonized in 1622 alongside Ignatius of Loyola. He is a patron of missions, missionaries, and the Far East.",
+  "patronages": [
+    { "need": "missions", "category": "spiritual" },
+    { "need": "missionaries", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Francis_Xavier"]
+}
