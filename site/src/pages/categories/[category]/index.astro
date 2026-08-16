@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SaintCard from '../../../components/SaintCard.astro';
+import { CATEGORIES, categoryLabel } from '../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { category: c.id } }));
+}
+const { category } = Astro.params;
+const saints = (await getCollection('saints'))
+  .filter((s) => !s.data.draft && s.data.patronages.some((p) => p.category === category))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+const needs = [...new Set(saints.flatMap((s) => s.data.patronages.filter((p) => p.category === category).map((p) => p.need)))].sort();
+---
+<BaseLayout title={categoryLabel(category)}>
+  <div class="mx-auto max-w-screen-sm px-4 pb-24 pt-4 sm:max-w-2xl lg:max-w-5xl lg:px-8">
+    <nav class="text-sm" aria-label="Breadcrumb"><a href="/" class="underline">Home</a> › <a href="/categories/" class="underline">Categories</a> › {categoryLabel(category)}</nav>
+    <h1 class="mt-2 font-serif text-3xl text-balance">{categoryLabel(category)}</h1>
+    <p class="text-sm text-zinc-600">{saints.length} saints</p>
+
+    <ul class="mt-4 flex flex-wrap gap-2">
+      {needs.map((n) => (
+        <li><a href={`#${n.replace(/\s+/g, '-')}`} class="tap-target inline-flex h-10 items-center rounded-full border border-zinc-200 px-3 text-sm hover:bg-zinc-50">{n}</a></li>
+      ))}
+    </ul>
+
+    <ul class="mt-6 space-y-3">
+      {saints.map((s) => (
+        <li id={s.data.patronages.find((p) => p.category === category)?.need.replace(/\s+/g, '-')}>
+          <SaintCard saint={s.data} />
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>
