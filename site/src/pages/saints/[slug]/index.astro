@@ -13,7 +13,7 @@ const { saint } = Astro.props;
 const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
 ---
 <BaseLayout title={saint.name} description={`${saint.name}: patron of ${saint.patronages.map((p) => p.need).join(', ')}.`}>
-  <article class="mx-auto max-w-2xl px-4 pb-24 pt-2" data-pagefind-body>
+  <article class="mx-auto max-w-2xl px-4 pb-24 pt-2 lg:max-w-5xl" data-pagefind-body>
     <header class="mt-4">
       <h1 class="font-serif text-3xl text-balance sm:text-4xl" data-pagefind-meta="title">{saint.name}</h1>
       <p class="mt-1 text-sm text-ink-soft">
@@ -21,56 +21,62 @@ const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
       </p>
     </header>
 
-    {saint.image && (
-      <figure class="mt-4 overflow-hidden rounded-2xl border border-line bg-parchment-deep">
-        <img src={saint.image.url}
-             alt={saint.image.altText ?? `Portrait of ${saint.name}`}
-             loading="lazy" decoding="async"
-             class="aspect-[4/5] w-full object-contain"
-             onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'aspect-[4/5] grid place-items-center text-ink-soft text-sm',textContent:'Image unavailable'}))" />
-        <figcaption class="px-3 py-2 text-xs text-ink-soft">{saint.image.attribution}</figcaption>
-      </figure>
-    )}
+    <div class="lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-8">
+      <aside class="mt-4 lg:order-2 lg:mt-0">
+        {saint.image && (
+          <figure class="overflow-hidden rounded-2xl border border-line bg-parchment-deep lg:sticky lg:top-20">
+            <img src={saint.image.url}
+                 alt={saint.image.altText ?? `Portrait of ${saint.name}`}
+                 loading="lazy" decoding="async"
+                 class="aspect-[4/5] w-full object-contain"
+                 onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'aspect-[4/5] grid place-items-center text-ink-soft text-sm',textContent:'Image unavailable'}))" />
+            <figcaption class="px-3 py-2 text-xs text-ink-soft">{saint.image.attribution}</figcaption>
+          </figure>
+        )}
+      </aside>
 
-    <section class="mt-6" aria-labelledby="patron">
-      <h2 id="patron" class="text-lg font-semibold">Patron of</h2>
-      <ul class="mt-2 flex flex-wrap gap-2">
-        {saint.patronages.map((p) => (
-          <li data-pagefind-filter={`category:${p.category}`} data-pagefind-index-attrs="data-need" data-need={p.need}>
-            <a href={`/categories/${p.category}/`}
-               class="tap-target inline-flex h-10 items-center rounded-full bg-parchment-deep px-3 text-sm text-brand hover:bg-line focus-visible:ring-2 focus-visible:ring-brand">
-              {p.need}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+      <div class="lg:order-1">
+        <section class="mt-6 lg:mt-0" aria-labelledby="patron">
+          <h2 id="patron" class="text-lg font-semibold">Patron of</h2>
+          <ul class="mt-2 flex flex-wrap gap-2">
+            {saint.patronages.map((p) => (
+              <li data-pagefind-filter={`category:${p.category}`} data-pagefind-index-attrs="data-need" data-need={p.need}>
+                <a href={`/categories/${p.category}/`}
+                   class="tap-target inline-flex h-10 items-center rounded-full bg-parchment-deep px-3 text-sm text-brand hover:bg-line focus-visible:ring-2 focus-visible:ring-brand">
+                  {p.need}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
 
-    <section class="mt-6 prose max-w-none font-serif text-lg leading-relaxed">
-      <h2>About</h2>
-      {saint.bio.split(/\n\n+/).map((p) => <p>{p}</p>)}
-    </section>
+        <section class="mt-6 prose max-w-none font-serif text-lg leading-relaxed">
+          <h2>About</h2>
+          {saint.bio.split(/\n\n+/).map((p) => <p>{p}</p>)}
+        </section>
 
-    <span class="sr-only">
-      {saint.patronages.flatMap((p) => [p.need, ...(NEED_SYNONYMS[p.need] ?? [])]).join(', ')}
-    </span>
+        <span class="sr-only">
+          {saint.patronages.flatMap((p) => [p.need, ...(NEED_SYNONYMS[p.need] ?? [])]).join(', ')}
+        </span>
 
-    {saint.prayer && (
-      <section id="prayer" class="mt-6 rounded-2xl bg-parchment-deep p-5 ring-1 ring-brand-light/40" data-pagefind-ignore>
-        <h2 class="font-serif text-xl">Prayer</h2>
-        <p class="mt-2 whitespace-pre-line text-base leading-relaxed">{saint.prayer}</p>
-      </section>
-    )}
+        {saint.prayer && (
+          <section id="prayer" class="mt-6 rounded-2xl bg-parchment-deep p-5 ring-1 ring-brand-light/40" data-pagefind-ignore>
+            <h2 class="font-serif text-xl">Prayer</h2>
+            <p class="mt-2 whitespace-pre-line text-base leading-relaxed">{saint.prayer}</p>
+          </section>
+        )}
 
-    {saint.sources.length > 0 && (
-      <section class="mt-6 border-t border-line pt-4 text-sm text-ink-soft" data-pagefind-ignore>
-        <h2 class="text-base font-semibold">Sources</h2>
-        <ul class="mt-2 space-y-1">
-          {saint.sources.map((src) => (
-            <li><a href={src} rel="noopener" class="underline break-words">{src}</a></li>
-          ))}
-        </ul>
-      </section>
-    )}
+        {saint.sources.length > 0 && (
+          <section class="mt-6 border-t border-line pt-4 text-sm text-ink-soft" data-pagefind-ignore>
+            <h2 class="text-base font-semibold">Sources</h2>
+            <ul class="mt-2 space-y-1">
+              {saint.sources.map((src) => (
+                <li><a href={src} rel="noopener" class="underline break-words">{src}</a></li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </div>
+    </div>
   </article>
 </BaseLayout>
