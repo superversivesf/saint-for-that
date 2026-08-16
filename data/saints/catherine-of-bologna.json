@@ -1,0 +1,12 @@
+{
+  "slug": "catherine-of-bologna",
+  "name": "St. Catherine of Bologna",
+  "feastDay": "03-09",
+  "canonized": "1712",
+  "bio": "Catherine was born in 1413 in Bologna, Italy, into a noble family. As a young woman she served at the court of Ferrara, where she received an education in letters, music, and art.\n\nIn 1426 she joined a community of devout women that later became the Poor Clares, and in 1456 she founded a monastery of Poor Clares in Bologna, serving as its abbess. She was a gifted painter and illuminator, and her writings include the mystical treatise The Seven Spiritual Weapons.\n\nShe died on March 9, 1463, and was canonized in 1712. She is venerated as the patron saint of artists.",
+  "patronages": [
+    { "need": "artists", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Catherine_of_Bologna"],
+  "featured": false
+}

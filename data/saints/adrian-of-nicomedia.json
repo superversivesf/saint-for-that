@@ -1,0 +1,12 @@
+{
+  "slug": "adrian-of-nicomedia",
+  "name": "St. Adrian of Nicomedia",
+  "feastDay": "09-08",
+  "canonized": "unknown",
+  "bio": "Adrian was a Roman officer serving in Nicomedia in the early fourth century, during the persecution of Christians under Emperor Diocletian. Moved by the courage of the Christians he was ordered to guard, he converted to the faith.\n\nHe was arrested and tortured for his new faith, and tradition says his wife Natalia encouraged him to remain steadfast. He was martyred around 306, and Natalia preserved his relics, which were later taken to Rome.\n\nHe is venerated as a martyr and as the patron saint of butchers, soldiers, and arms dealers, and his feast is kept on September 8.",
+  "patronages": [
+    { "need": "butchers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Adrian_and_Natalia_of_Nicomedia"],
+  "featured": false
+}

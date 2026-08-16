@@ -1,0 +1,12 @@
+{
+  "slug": "philip-neri",
+  "name": "St. Philip Neri",
+  "feastDay": "05-26",
+  "canonized": "1622",
+  "bio": "Philip Neri was born in Florence in 1515 and moved to Rome as a young man. There he spent years in prayer and service to the poor and sick, and in 1548 he founded a confraternity to care for pilgrims and convalescents.\n\nOrdained a priest in 1551, he gathered a circle of followers for prayer, music, and conversation, which grew into the Congregation of the Oratory. He was famous for his joyful spirit and playful humor, once shaving half his beard to deflate his own reputation for holiness.\n\nHe died on May 26, 1595, and was canonized in 1622. He is remembered as the Apostle of Rome and is venerated as the patron saint of humor and joy.",
+  "patronages": [
+    { "need": "humor", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Philip_Neri"],
+  "featured": false
+}

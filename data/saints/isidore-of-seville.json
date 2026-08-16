@@ -1,0 +1,12 @@
+{
+  "slug": "isidore-of-seville",
+  "name": "St. Isidore of Seville",
+  "feastDay": "04-04",
+  "canonized": "1598",
+  "bio": "Isidore was born around 560 in Cartagena, Spain, into a family of saints. He succeeded his brother Leander as bishop of Seville around 600 and led the church in Visigothic Spain for nearly four decades.\n\nHe presided over councils, promoted education, and wrote extensively. His greatest work, the Etymologiae, was an encyclopedia that gathered and organized the knowledge of the ancient world, and it remained a standard reference for centuries.\n\nHe died on April 4, 636, and was canonized in 1598. In 1997 he was proposed as the patron saint of the internet and computer users for his work as a compiler of knowledge.",
+  "patronages": [
+    { "need": "computer users", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Isidore_of_Seville"],
+  "featured": false
+}
