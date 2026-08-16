@@ -1,0 +1,12 @@
+{
+  "slug": "joseph-of-cupertino",
+  "name": "St. Joseph of Cupertino",
+  "feastDay": "09-18",
+  "canonized": "1767",
+  "bio": "Joseph was born in 1603 in the village of Cupertino in southern Italy. Poor and slow in his studies, he was rejected by the Capuchins before being accepted by the Conventual Franciscans, where he was ordained a priest in 1628 despite struggling with his examinations.\n\nHe became famous for ecstatic levitations during prayer and Mass, which drew crowds and sometimes alarmed his superiors. He was moved from friary to friary and kept largely in seclusion, yet he bore these restrictions with humility and obedience.\n\nHe died on September 18, 1663, and was canonized in 1767. Because he passed his ordination exams against the odds, he is invoked by students, especially those facing examinations.",
+  "patronages": [
+    { "need": "students", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Joseph_of_Cupertino"],
+  "featured": false
+}

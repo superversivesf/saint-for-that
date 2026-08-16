@@ -1,0 +1,12 @@
+{
+  "slug": "nicholas-of-tolentino",
+  "name": "St. Nicholas of Tolentino",
+  "feastDay": "09-10",
+  "canonized": "1446",
+  "bio": "Nicholas was born around 1245 in Sant'Angelo in Pontano, Italy. His parents, long childless, had prayed for a son at the shrine of St. Nicholas of Myra, and named the boy in gratitude. He joined the Augustinian order and was ordained a priest around 1270.\n\nHe spent most of his life in Tolentino, where he was known for fasting, long hours of prayer, and tireless care for the poor and the sick. He was a renowned preacher and confessor, and many miracles were attributed to his intercession both before and after his death.\n\nHe died on September 10, 1305, and was canonized in 1446. He is venerated as the patron of the poor, of souls in purgatory, and of mothers and children.",
+  "patronages": [
+    { "need": "the poor", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"],
+  "featured": false
+}

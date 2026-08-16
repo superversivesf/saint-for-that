@@ -1,0 +1,12 @@
+{
+  "slug": "expeditus",
+  "name": "St. Expeditus",
+  "feastDay": "04-19",
+  "canonized": "unknown",
+  "bio": "Expeditus is a Roman martyr whose historical details are uncertain. Tradition holds that he was a soldier in Armenia who converted to Christianity and was beheaded during the Diocletian persecution around 303.\n\nHe is usually depicted as a young Roman soldier trampling a crow that cries \"cras\" (Latin for \"tomorrow\") while holding a cross inscribed \"hodie\" (\"today\"), symbolizing his refusal to put off conversion.\n\nHis name led the faithful to invoke him for urgent causes and against procrastination. Devotion to him spread widely in the nineteenth and twentieth centuries, and he is venerated as the patron of urgent causes, emergencies, and those who must act without delay.",
+  "patronages": [
+    { "need": "urgent causes", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Expeditus"],
+  "featured": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "crispin",
+  "name": "St. Crispin",
+  "feastDay": "10-25",
+  "canonized": "unknown",
+  "bio": "Crispin and his brother Crispinian were Roman Christians who, according to tradition, fled persecution and settled at Soissons in Gaul, where they preached the Gospel by day and made shoes by night.\n\nThey supported themselves by their trade and gave shoes to the poor, refusing payment from those who could not afford them. During the reign of Diocletian they were arrested, tortured, and beheaded around 286.\n\nTheir feast is kept on October 25, and they are venerated as the patron saints of cobblers, shoemakers, and leather workers. The battle of Agincourt in 1415, fought on their feast day, made their name famous through Shakespeare's play Henry V.",
+  "patronages": [
+    { "need": "cobblers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Crispin_and_Crispinian"],
+  "featured": false
+}

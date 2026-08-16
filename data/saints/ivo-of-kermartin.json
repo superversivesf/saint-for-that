@@ -1,0 +1,12 @@
+{
+  "slug": "ivo-of-kermartin",
+  "name": "St. Ivo of Kermartin",
+  "feastDay": "05-19",
+  "canonized": "1347",
+  "bio": "Ivo was born in 1253 at Kermartin in Brittany, France. He studied civil and canon law in Paris and Orléans and became an ecclesiastical judge in the diocese of Rennes, where he was known for refusing bribes and defending the poor without charge.\n\nHe was ordained a priest and served as a parish priest, giving away his income and even his clothes to the needy, and sleeping on a straw mat. He was called \"the advocate of the poor\" for his tireless work on behalf of widows, orphans, and the destitute.\n\nHe died on May 19, 1303, and was canonized in 1347. He is venerated as the patron saint of lawyers, judges, and abandoned children.",
+  "patronages": [
+    { "need": "lawyers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Ivo_of_Kermartin"],
+  "featured": false
+}

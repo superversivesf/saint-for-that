@@ -1,0 +1,12 @@
+{
+  "slug": "thomas-more",
+  "name": "St. Thomas More",
+  "feastDay": "06-22",
+  "canonized": "1935",
+  "bio": "Thomas More was born in London in 1478. A brilliant lawyer and scholar, he rose to become Lord Chancellor of England under King Henry VIII, and was the author of Utopia.\n\nWhen Henry broke with Rome and declared himself head of the Church in England, More refused to take the oath acknowledging the king's supremacy. He resigned his office and was imprisoned in the Tower of London, where he remained cheerful and devout, writing prayers and letters to his family.\n\nHe was tried for treason and beheaded on July 6, 1535, declaring that he died \"the king's good servant, but God's first.\" He was canonized in 1935 and is venerated as the patron saint of lawyers, politicians, and statesmen.",
+  "patronages": [
+    { "need": "lawyers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Thomas_More"],
+  "featured": false
+}
