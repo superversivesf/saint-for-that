@@ -1,0 +1,11 @@
+{
+  "slug": "dominic-savio",
+  "name": "St. Dominic Savio",
+  "feastDay": "05-06",
+  "canonized": "1954",
+  "bio": "Dominic was born in 1842 in Riva, Italy, the son of a blacksmith. At the age of twelve he became a student of St. John Bosco at the Oratory of St. Francis de Sales in Turin, where he quickly became known for his holiness.\n\nDominic made a resolution to live simply: death rather than sin. He formed a sodality of boys devoted to Mary, helped his classmates with their studies, and cared for the sick. He was cheerful, prayerful, and deeply devoted to the Eucharist.\n\nHe died of illness on March 9, 1857, at the age of fourteen, and was canonized in 1954. He is venerated as the patron saint of youth.",
+  "patronages": [
+    { "need": "youth", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Dominic_Savio"]
+}

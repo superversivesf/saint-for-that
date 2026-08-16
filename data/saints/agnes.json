@@ -1,0 +1,10 @@
+{
+  "slug": "agnes",
+  "name": "St. Agnes",
+  "feastDay": "01-21",
+  "bio": "Agnes was a young Roman girl, about twelve or thirteen years old, who was martyred for her faith during the persecution of Diocletian around the year 304.\n\nAccording to tradition, she refused offers of marriage from noble suitors, declaring that she had consecrated herself to Christ. When her faith was discovered, she was condemned and executed, remaining faithful and serene to the end.\n\nShe is one of the most beloved martyrs of the early Church, and her name is included in the Roman Canon of the Mass. She is venerated as the patron saint of girls.",
+  "patronages": [
+    { "need": "girls", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Agnes"]
+}

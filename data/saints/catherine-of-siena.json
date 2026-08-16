@@ -1,0 +1,11 @@
+{
+  "slug": "catherine-of-siena",
+  "name": "St. Catherine of Siena",
+  "feastDay": "04-29",
+  "canonized": "1461",
+  "bio": "Catherine was born in 1347 in Siena, Italy, the twenty-fourth of twenty-five children. From a young age she felt called to give herself entirely to God, and at sixteen she joined the Third Order of St. Dominic, living a life of prayer and service at home.\n\nShe became known for her mystical experiences and her wise counsel. She cared for the sick and the poor, and she wrote letters to popes and rulers urging peace and reform. Her Dialogue is a classic of spiritual literature.\n\nShe died on April 29, 1380, and was canonized in 1461. In 1970 she was declared a Doctor of the Church. She is venerated as the patron saint of single women.",
+  "patronages": [
+    { "need": "single women", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Catherine_of_Siena"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "rose-of-lima",
+  "name": "St. Rose of Lima",
+  "feastDay": "08-23",
+  "canonized": "1671",
+  "bio": "Rose was born in 1586 in Lima, Peru, and was given the name Isabel, but her mother called her Rose because of her beauty. From childhood she was devoted to prayer and penance, and she refused marriage, consecrating herself to Christ.\n\nShe became a member of the Third Order of St. Dominic and lived a life of prayer and service in a small hermitage in her family's garden. She cared for the sick and the poor of Lima and endured many trials with patience and joy.\n\nShe died on August 24, 1617, and was canonized in 1671, the first saint of the Americas. She is venerated as the patron saint of single women.",
+  "patronages": [
+    { "need": "single women", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Rose_of_Lima"]
+}

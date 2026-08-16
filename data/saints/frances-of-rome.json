@@ -1,0 +1,11 @@
+{
+  "slug": "frances-of-rome",
+  "name": "St. Frances of Rome",
+  "feastDay": "03-09",
+  "canonized": "1608",
+  "bio": "Frances was born in 1384 in Rome into a noble family. Though she wished to become a nun, she obeyed her parents and married Lorenzo Ponziani, with whom she raised three children and managed a large household.\n\nFrances saw her duties as wife and mother as a path to holiness. She cared for the poor and the sick of Rome, and during times of plague and war she opened her home and gave away her goods. With other noblewomen she founded a community of oblates dedicated to prayer and service.\n\nAfter her husband's death she joined the community she had founded. She died on March 9, 1440, and was canonized in 1608. She is venerated as the patron saint of homemakers.",
+  "patronages": [
+    { "need": "homemakers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Frances_of_Rome"]
+}
