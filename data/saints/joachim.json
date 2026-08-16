@@ -1,0 +1,12 @@
+{
+  "slug": "joachim",
+  "name": "St. Joachim",
+  "feastDay": "07-26",
+  "canonized": "Pre-Congregation",
+  "bio": "Joachim is honored as the father of the Blessed Virgin Mary and the grandfather of Jesus. He is not mentioned in the Bible, but the apocryphal Protoevangelium of James tells of a wealthy and devout man who, with his wife Anne, suffered many years of childlessness. When his offering at the Temple was rejected because he had no children, Joachim withdrew to the wilderness to fast and pray, and an angel announced that Anne would bear a daughter.\n\nDevotion to Joachim developed early in the Eastern Church and spread through the West in the Middle Ages. He is often depicted with Anne and the child Mary, and his feast was long celebrated on August 16 before being joined with Anne's on July 26 in the modern calendar.\n\nAs the father of Mary, Joachim is a natural patron of fathers, grandfathers, and couples hoping to conceive.",
+  "patronages": [
+    { "need": "fathers", "category": "family" },
+    { "need": "grandparents", "category": "family" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Joachim"]
+}

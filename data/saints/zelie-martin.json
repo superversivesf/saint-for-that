@@ -1,0 +1,12 @@
+{
+  "slug": "zelie-martin",
+  "name": "St. Zélie Martin",
+  "feastDay": "07-12",
+  "canonized": "2015",
+  "bio": "Zélie Guérin was born in 1831 in Gandelain, France. She hoped to become a religious sister but was turned away, and instead became a skilled lacemaker, building a successful business in Alençon. In 1858 she married Louis Martin, a watchmaker, and together they raised nine children, five of whom became nuns, including St. Thérèse of Lisieux.\n\nZélie combined her work with a deep family life, attending daily Mass and caring for her children with tenderness and firm faith. She endured the deaths of four children in infancy and her own long struggle with breast cancer, which she bore with patience until her death in 1877.\n\nZélie and Louis were canonized together in 2015, the first married couple canonized as a pair. She is a patron of mothers, working parents, and families.",
+  "patronages": [
+    { "need": "mothers", "category": "family" },
+    { "need": "working parents", "category": "family" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Z%C3%A9lie_Martin"]
+}

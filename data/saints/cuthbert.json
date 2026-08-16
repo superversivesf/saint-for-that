@@ -1,0 +1,12 @@
+{
+  "slug": "cuthbert",
+  "name": "St. Cuthbert",
+  "feastDay": "03-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Cuthbert was born around 634 in Northumbria and became a monk at Melrose Abbey. He served as prior of Melrose and later of Lindisfarne, where he was known for his gentleness, his long walks among the people, and his deep life of prayer. He often withdrew to the small island of Inner Farne to pray alone.\n\nMany stories tell of Cuthbert's closeness to animals. Otters are said to have warmed his feet with their breath after he stood praying in the cold sea, and birds and seals obeyed his word. He became bishop of Lindisfarne in 685 but returned to Farne to die as a hermit in 687.\n\nCuthbert's relics were carried across northern England for years before resting at Durham, where his shrine became a great place of pilgrimage. He is a patron of shepherds, sailors, and the natural world.",
+  "patronages": [
+    { "need": "animals", "category": "nature" },
+    { "need": "shepherds", "category": "nature" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Cuthbert"]
+}

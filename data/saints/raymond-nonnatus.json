@@ -1,0 +1,12 @@
+{
+  "slug": "raymond-nonnatus",
+  "name": "St. Raymond Nonnatus",
+  "feastDay": "08-31",
+  "canonized": "1657",
+  "bio": "Raymond Nonnatus was born around 1204 in Portell, Catalonia. His surname, meaning \"not born,\" comes from the tradition that he was delivered by caesarean section after his mother died in childbirth. He joined the Mercedarian order, founded to ransom Christians held captive by Muslim rulers, and succeeded St. Peter Nolasco as its head.\n\nRaymond traveled to North Africa to ransom captives and, when his money ran out, offered himself as a hostage in exchange for the freedom of others. He endured imprisonment and torture, and legend says his lips were pierced with a padlock to keep him from preaching. He was eventually ransomed and returned to Spain, where he died in 1240.\n\nBecause of the manner of his birth, Raymond is invoked by expectant mothers, women in labor, and midwives.",
+  "patronages": [
+    { "need": "expectant mothers", "category": "family" },
+    { "need": "childbirth", "category": "family" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Raymond_Nonnatus"]
+}

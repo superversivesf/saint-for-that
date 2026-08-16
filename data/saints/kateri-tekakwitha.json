@@ -1,0 +1,12 @@
+{
+  "slug": "kateri-tekakwitha",
+  "name": "St. Kateri Tekakwitha",
+  "feastDay": "07-14",
+  "canonized": "2012",
+  "bio": "Kateri Tekakwitha was born in 1656 in the Mohawk village of Ossernenon, in what is now New York. Her mother was an Algonquin Christian and her father a Mohawk chief, but both died in a smallpox epidemic that also scarred Kateri's face and weakened her eyes. She was raised by relatives and converted to Christianity through Jesuit missionaries, taking the name Catherine.\n\nFacing hostility in her village, Kateri fled to the Christian mission of Kahnawake near Montreal, where she lived a life of prayer, penance, and care for the sick and elderly. She died there in 1680 at the age of twenty-four, and witnesses said the scars on her face vanished at her death.\n\nKateri was canonized in 2012 as the first Native American saint from North America. She is a patron of ecology, the environment, and Native peoples.",
+  "patronages": [
+    { "need": "ecology", "category": "nature" },
+    { "need": "environment", "category": "nature" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Kateri_Tekakwitha"]
+}

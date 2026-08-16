@@ -1,0 +1,12 @@
+{
+  "slug": "swithin",
+  "name": "St. Swithin",
+  "feastDay": "07-15",
+  "canonized": "Pre-Congregation",
+  "bio": "Swithin was an Anglo-Saxon bishop of Winchester who died around 862. He was a trusted counselor of King Egbert of Wessex and tutor to his son Ethelwulf, and he was known for his humility and his care for the poor. He asked to be buried humbly outside the north door of the Old Minster, where the rain could fall on his grave.\n\nAbout a century later, his relics were moved into the cathedral on July 15, 971, and legend says the saint was so displeased that he sent forty days of rain. From this grew the English weather proverb that if it rains on St. Swithin's Day, it will rain for forty days more.\n\nSwithin's shrine at Winchester became one of the great pilgrimage sites of medieval England. He is invoked for rain and for good weather.",
+  "patronages": [
+    { "need": "rain", "category": "nature" },
+    { "need": "good weather", "category": "nature" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Swithun"]
+}
