@@ -7,5 +7,6 @@
   "patronages": [
     { "need": "miners", "category": "jobs" }
   ],
+  "prayer": "St. Kinga, patron of miners, pray for all who work beneath the earth, that they may be kept safe and find their treasure in God. Amen.",
   "sources": ["https://en.wikipedia.org/wiki/Kinga_of_Poland"]
 }

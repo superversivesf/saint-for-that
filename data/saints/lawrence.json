@@ -6,6 +6,7 @@
   "patronages": [
     { "need": "cooks", "category": "everyday" }
   ],
+  "prayer": "St. Lawrence, deacon and martyr, patron of cooks, pray for all who serve others, that they may serve with joy and generosity. Amen.",
   "sources": ["https://en.wikipedia.org/wiki/Saint_Lawrence"],
   "featured": false
 }
