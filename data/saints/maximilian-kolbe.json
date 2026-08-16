@@ -1,0 +1,11 @@
+{
+  "slug": "maximilian-kolbe",
+  "name": "St. Maximilian Kolbe",
+  "feastDay": "08-14",
+  "canonized": "1982",
+  "bio": "Maximilian Kolbe was born in Poland in 1894 and became a Conventual Franciscan friar. He founded the Militia Immaculatae, a movement dedicated to evangelization through Mary, and used modern media to spread the faith.\n\nHe published the magazine Knight of the Immaculate, which reached a circulation of nearly a million, and he established a large friary and printing operation at Niepokalanow. He also founded a mission in Japan, where he published a Japanese edition of his magazine.\n\nDuring World War II, Kolbe sheltered refugees, including Jews, at his friary. Arrested by the Nazis, he was sent to Auschwitz, where in 1941 he volunteered to die in place of a fellow prisoner, Franciszek Gajowniczek. He was canonized by Pope John Paul II as a martyr of charity and is venerated as the patron saint of journalists.",
+  "patronages": [
+    { "need": "journalists", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Maximilian_Kolbe"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "kinga",
+  "name": "St. Kinga",
+  "feastDay": "07-24",
+  "canonized": "1999",
+  "bio": "Kinga, also known as Cunegunda, was a Hungarian princess of the Arpad dynasty, born in 1224. She married Boleslaw V, Duke of Poland, but the couple lived in perpetual chastity, and she devoted herself to prayer and works of charity.\n\nAfter her husband's death, Kinga entered the Poor Clare monastery she had founded at Stary Sacz, where she lived as a humble nun until her death in 1292. She was known for her generosity to the poor and her care for the people of the region.\n\nKinga is especially venerated in Poland as the patron saint of salt miners, because of the famous salt mine at Wieliczka, which tradition says she helped to develop. She is also invoked by miners of all kinds.",
+  "patronages": [
+    { "need": "miners", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Kinga_of_Poland"]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "andrew",
+  "name": "St. Andrew",
+  "feastDay": "11-30",
+  "bio": "Andrew was a fisherman from Bethsaida in Galilee and the brother of Simon Peter. He was first a disciple of John the Baptist, who pointed him to Jesus as the Lamb of God. Andrew immediately followed Christ and then brought his brother Peter to him, becoming the first-called of the apostles.\n\nAccording to tradition, Andrew preached the Gospel in Greece and Asia Minor and was martyred at Patras on an X-shaped cross, which came to be known as Saint Andrew's Cross. He is venerated as the patron saint of Scotland, Russia, and Greece.\n\nAs a fisherman by trade, Andrew is invoked as the patron saint of fishermen and all who work at sea.",
+  "patronages": [
+    { "need": "fishermen", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Andrew_the_Apostle"]
+}

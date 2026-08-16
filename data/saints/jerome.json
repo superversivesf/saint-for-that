@@ -1,0 +1,10 @@
+{
+  "slug": "jerome",
+  "name": "St. Jerome",
+  "feastDay": "09-30",
+  "bio": "Jerome was born in Dalmatia around 347 and received a classical education in Rome. After a period of worldly living, he was baptized and withdrew to the Syrian desert, where he lived as a hermit and learned Hebrew.\n\nHe served as secretary to Pope Damasus I, who commissioned him to produce a reliable Latin translation of the Bible. Jerome spent decades in Bethlehem translating the Scriptures from the original languages, producing the Vulgate, which became the standard Bible of the Western Church for over a thousand years.\n\nJerome was also a prolific biblical commentator and a fierce defender of orthodoxy. He died in Bethlehem in 420 and is honored as a Doctor of the Church. He is venerated as the patron saint of librarians, translators, and scholars.",
+  "patronages": [
+    { "need": "librarians", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Jerome"]
+}

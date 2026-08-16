@@ -1,0 +1,10 @@
+{
+  "slug": "gabriel",
+  "name": "St. Gabriel the Archangel",
+  "feastDay": "09-29",
+  "bio": "Gabriel is one of the three archangels named in Scripture. He appears in the Book of Daniel to explain visions, and in the Gospel of Luke he announces to Zechariah the birth of John the Baptist and to Mary the birth of Jesus.\n\nHis name means \"God is my strength,\" and he is traditionally regarded as the messenger of God, the angel of the Annunciation who brought the greatest news in history to the world.\n\nBecause of his role as a divine messenger, Gabriel is venerated as the patron saint of messengers, broadcasters, and all who work in communications, including television and radio.",
+  "patronages": [
+    { "need": "television", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Gabriel"]
+}

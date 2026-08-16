@@ -1,0 +1,10 @@
+{
+  "slug": "eustace",
+  "name": "St. Eustace",
+  "feastDay": "09-20",
+  "bio": "Eustace, known before his conversion as Placidus, was a Roman general under the emperor Trajan. While hunting, he encountered a stag with a crucifix between its antlers, and a voice spoke to him, leading to his conversion to Christianity along with his family.\n\nAfter his conversion, Eustace suffered many trials, losing his wealth and being separated from his family, but he remained faithful. He was eventually reunited with his wife and sons and restored to favor, but when he refused to sacrifice to pagan gods, the emperor Hadrian condemned him.\n\nEustace, his wife, and their sons were martyred by being roasted inside a bronze bull around the year 118. He is one of the Fourteen Holy Helpers and is venerated as the patron saint of hunters.",
+  "patronages": [
+    { "need": "hunters", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Eustace"]
+}

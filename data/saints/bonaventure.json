@@ -1,0 +1,11 @@
+{
+  "slug": "bonaventure",
+  "name": "St. Bonaventure",
+  "feastDay": "07-15",
+  "canonized": "1482",
+  "bio": "Bonaventure was born in Italy around 1217 and joined the Franciscan Order while studying at the University of Paris. A brilliant theologian, he became a master of the university alongside his friend St. Thomas Aquinas.\n\nIn 1257 he was elected Minister General of the Franciscans, and he worked to unite the order and to preserve the spirit of St. Francis. He wrote many profound works of theology and mysticism, including The Journey of the Mind to God.\n\nHe was made a cardinal and bishop of Albano, and he played a key role at the Second Council of Lyon before his death in 1274. Declared a Doctor of the Church, he is known as the Seraphic Doctor and is venerated as a patron of scholars.",
+  "patronages": [
+    { "need": "scholars", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Bonaventure"]
+}

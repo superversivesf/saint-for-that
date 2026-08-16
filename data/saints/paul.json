@@ -1,0 +1,10 @@
+{
+  "slug": "paul",
+  "name": "St. Paul",
+  "feastDay": "06-29",
+  "bio": "Paul, originally named Saul, was a zealous Pharisee from Tarsus who persecuted the early Christians. On the road to Damascus, he encountered the risen Christ in a blinding vision and was converted, becoming the great Apostle to the Gentiles.\n\nPaul undertook several missionary journeys across the Roman Empire, founding churches and preaching the Gospel. His letters, which make up much of the New Testament, are among the most influential writings in history and form the foundation of Christian theology.\n\nHe was martyred in Rome under Nero around the year 67, beheaded as a Roman citizen. Paul is venerated as the patron saint of writers, journalists, and all who communicate the faith.",
+  "patronages": [
+    { "need": "journalists", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Paul_the_Apostle"]
+}
