@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+site/node_modules
+site/dist
+site/.astro
+docs
+.superpowers
+Dockerfile
+docker-compose.yml

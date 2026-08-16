@@ -1,0 +1,9 @@
+services:
+  saint-for-that:
+    build:
+      context: .
+      args:
+        SITE_URL: ${SITE_URL:-https://saints.superversive.net}
+    ports:
+      - "8080:80"
+    restart: unless-stopped
