@@ -1,0 +1,12 @@
+{
+  "slug": "vincent-ferrer",
+  "name": "St. Vincent Ferrer",
+  "feastDay": "04-05",
+  "canonized": "1455",
+  "bio": "Vincent Ferrer was born in Valencia, Spain, in 1350 and joined the Dominican Order at seventeen. A brilliant theologian, he served as confessor and counselor to popes during the Western Schism, working tirelessly to heal the division in the Church.\n\nIn 1399 he began a career as an itinerant preacher that lasted twenty years, traveling through Spain, France, Switzerland, and Italy. Preaching in his native Valencian, he was understood by crowds of many languages, and thousands of conversions and reported miracles accompanied his missions.\n\nHe died in Vannes, Brittany, in 1419 and was canonized in 1455. He is venerated as a patron of preachers, builders, and plumbers.",
+  "patronages": [
+    { "need": "preachers", "category": "spiritual" },
+    { "need": "builders", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Vincent_Ferrer"]
+}

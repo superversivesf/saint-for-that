@@ -1,0 +1,12 @@
+{
+  "slug": "jane-frances-de-chantal",
+  "name": "St. Jane Frances de Chantal",
+  "feastDay": "08-12",
+  "canonized": "1767",
+  "bio": "Jane Frances Frémyot was born in Dijon, France, in 1572. Married to Baron de Chantal at twenty, she was widowed at twenty-eight when her husband died in a hunting accident, leaving her with four children. She forgave the man who shot him and even became godmother to his child.\n\nIn 1604 she met St. Francis de Sales, who became her spiritual director. Together they founded the Order of the Visitation of Holy Mary in 1610, a congregation for women who wished to live a life of prayer and charity without the severe austerities of older orders.\n\nShe died in 1641 and was canonized in 1767. She is venerated as a patron of widows, of those rejected by religious orders, and of parents separated from their children.",
+  "patronages": [
+    { "need": "widows", "category": "spiritual" },
+    { "need": "forgiveness", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"]
+}

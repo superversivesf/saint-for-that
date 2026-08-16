@@ -1,0 +1,12 @@
+{
+  "slug": "alphonsus-liguori",
+  "name": "St. Alphonsus Liguori",
+  "feastDay": "08-01",
+  "canonized": "1839",
+  "bio": "Alphonsus Liguori was born near Naples, Italy, in 1696. A brilliant lawyer, he abandoned the bar at twenty-seven after losing an important case through a legal oversight, and was ordained a priest in 1726.\n\nIn 1732 he founded the Congregation of the Most Holy Redeemer, the Redemptorists, to preach missions to the poor in the countryside around Naples. He became a bishop in 1762 and wrote more than a hundred works, above all on moral theology, where he steered a middle course between rigorism and laxity.\n\nHe died in 1787 and was canonized in 1839, then declared a Doctor of the Church in 1871. He is venerated as a patron of confessors, moral theologians, and those with scruples.",
+  "patronages": [
+    { "need": "confessors", "category": "spiritual" },
+    { "need": "scruples", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Alphonsus_Liguori"]
+}

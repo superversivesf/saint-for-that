@@ -1,0 +1,12 @@
+{
+  "slug": "john-neumann",
+  "name": "St. John Neumann",
+  "feastDay": "01-05",
+  "canonized": "1977",
+  "bio": "John Nepomucene Neumann was born in Prachatice, Bohemia, in 1811. Ordained in 1836, he found no assignment in his overcrowded homeland and sailed for America, arriving in New York with one dollar in his pocket. He was ordained for the Diocese of New York and served German-speaking immigrants in the Buffalo area.\n\nIn 1840 he joined the Redemptorists, and in 1852 he was named Bishop of Philadelphia. There he organized the first diocesan school system in the United States, built dozens of churches, and founded the Sisters of the Third Order of St. Francis.\n\nHe died in 1860 and was canonized in 1977, the first American male saint. He is venerated as a patron of immigrants and of sick children.",
+  "patronages": [
+    { "need": "immigrants", "category": "spiritual" },
+    { "need": "sick children", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_Neumann"]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "teresa-benedicta",
+  "name": "St. Teresa Benedicta of the Cross",
+  "feastDay": "08-09",
+  "canonized": "1998",
+  "bio": "Edith Stein was born in Breslau, Germany, in 1891, the youngest child of a devout Jewish family. A brilliant philosopher, she studied under Edmund Husserl and became one of the first women to earn a doctorate in philosophy in Germany.\n\nAfter reading the autobiography of St. Teresa of Avila, she was baptized in 1922 and entered the Carmelite convent in Cologne in 1933, taking the name Teresa Benedicta of the Cross. She continued her philosophical work, writing on the person and on the meaning of woman.\n\nFleeing Nazi persecution, she moved to a convent in the Netherlands, but was arrested there in 1942 and died at Auschwitz. She was canonized in 1998 and is venerated as a patron of converts, of Europe, and of those who have lost parents.",
+  "patronages": [
+    { "need": "converts", "category": "spiritual" },
+    { "need": "europe", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Edith_Stein"]
+}

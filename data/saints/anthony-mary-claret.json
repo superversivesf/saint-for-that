@@ -1,0 +1,12 @@
+{
+  "slug": "anthony-mary-claret",
+  "name": "St. Anthony Mary Claret",
+  "feastDay": "10-24",
+  "canonized": "1950",
+  "bio": "Anthony Mary Claret was born in Sallent, Spain, in 1807. After working as a weaver, he was ordained a priest in 1835 and spent a decade preaching popular missions across Catalonia and the Canary Islands, drawing enormous crowds with his direct, fiery style.\n\nIn 1849 he founded the Congregation of Missionary Sons of the Immaculate Heart of Mary, known as the Claretians, and established a religious publishing house that printed millions of books and pamphlets. In 1850 he was named Archbishop of Santiago, Cuba, where he reformed the seminary and defended the enslaved.\n\nRecalled to Spain as confessor to Queen Isabella II, he died in exile in France in 1870 and was canonized in 1950. He is venerated as a patron of publishers, the Catholic press, and weavers.",
+  "patronages": [
+    { "need": "publishers", "category": "spiritual" },
+    { "need": "weavers", "category": "jobs" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Anthony_Mary_Claret"]
+}

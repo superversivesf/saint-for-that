@@ -1,0 +1,12 @@
+{
+  "slug": "peter-canisius",
+  "name": "St. Peter Canisius",
+  "feastDay": "12-21",
+  "canonized": "1925",
+  "bio": "Peter Canisius was born in Nijmegen, in the Netherlands, in 1521. He joined the Society of Jesus in 1543 after making the Spiritual Exercises under St. Peter Faber, and became one of the first Jesuits to work in Germany during the Reformation.\n\nFor over fifty years he traveled through Germany, Austria, and Switzerland, founding colleges, preaching, and writing catechisms. His three catechisms, written in clear and simple language, went through hundreds of editions and shaped Catholic teaching for generations.\n\nHe died in Fribourg, Switzerland, in 1597 and was canonized and declared a Doctor of the Church in 1925. He is venerated as a patron of catechists and of Germany.",
+  "patronages": [
+    { "need": "catechists", "category": "spiritual" },
+    { "need": "germany", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Peter_Canisius"]
+}
