@@ -9,9 +9,9 @@ import { CATEGORIES } from '../../lib/taxonomy';
       {CATEGORIES.map((c) => (
         <li>
           <a href={`/categories/${c.id}/`}
-             class="block rounded-2xl border border-zinc-200 bg-white p-4 focus-visible:ring-2 focus-visible:ring-brand">
-            <h2 class="font-serif text-lg">{c.label}</h2>
-            <p class="mt-1 text-sm text-zinc-600">{c.description}</p>
+             class="block rounded-2xl border border-line bg-white p-4 focus-visible:ring-2 focus-visible:ring-brand">
+            <h2 class="font-serif text-lg text-brand">{c.label}</h2>
+            <p class="mt-1 text-sm text-ink-soft">{c.description}</p>
           </a>
         </li>
       ))}

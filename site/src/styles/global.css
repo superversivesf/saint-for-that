@@ -4,13 +4,27 @@
 @theme {
   --font-serif: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   --font-sans: system-ui, sans-serif;
-  --color-brand: #6B2D5C;
-  --color-brand-light: #D4A8C7;
+  --color-brand: #8C2F2F;
+  --color-brand-light: #C9A227;
+  --color-parchment: #FAF6EE;
+  --color-parchment-deep: #F1E9D7;
+  --color-ink: #3E2F23;
+  --color-ink-soft: #6B5D4F;
+  --color-line: #E8DFCE;
 }
 
 @utility tap-target {
   min-height: 2.75rem;
   min-width: 2.75rem;
+}
+
+:root {
+  --pagefind-ui-primary: #8C2F2F;
+  --pagefind-ui-text: #3E2F23;
+  --pagefind-ui-background: #FAF6EE;
+  --pagefind-ui-border: #E8DFCE;
+  --pagefind-ui-tag: #F1E9D7;
+  --pagefind-ui-font: inherit;
 }
 
 @media (prefers-reduced-motion: reduce) {

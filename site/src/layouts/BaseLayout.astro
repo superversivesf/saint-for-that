@@ -11,22 +11,22 @@ const { title, description = 'Find the saint who intercedes for your need.' } = 
     <meta name="description" content={description} />
     <title>{title} · Saint For That</title>
   </head>
-  <body class="bg-white text-zinc-900 antialiased">
-    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-2">Skip to main content</a>
-    <header class="sticky top-0 z-30 h-14 border-b border-zinc-100 bg-white/85 backdrop-blur">
+  <body class="bg-parchment text-ink antialiased">
+    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-parchment focus:p-2">Skip to main content</a>
+    <header class="sticky top-0 z-30 h-14 border-b border-line bg-parchment/90 backdrop-blur">
       <div class="mx-auto flex h-full max-w-screen-sm items-center gap-2 px-4 sm:max-w-2xl lg:max-w-5xl lg:px-8">
-        <a href="/" class="font-serif text-lg">Saint For That</a>
+        <a href="/" class="font-serif text-lg text-brand">Saint For That</a>
         <form action="/search" method="get" class="ml-auto flex-1" role="search">
           <label class="sr-only" for="q">Search saints and patronages</label>
           <input id="q" type="search" name="q" placeholder="Search needs, names…"
-                 class="h-11 w-full rounded-full border border-zinc-200 bg-zinc-50 px-3 text-sm focus-visible:bg-white focus-visible:ring-2 focus-visible:ring-brand" />
+                 class="h-11 w-full rounded-full border border-line bg-white px-3 text-sm focus-visible:bg-white focus-visible:ring-2 focus-visible:ring-brand" />
         </form>
       </div>
     </header>
     <main id="main">
       <slot />
     </main>
-    <footer class="border-t border-zinc-100 py-8 text-center text-sm text-zinc-600">
+    <footer class="border-t border-line py-8 text-center text-sm text-ink-soft">
       <p>Inspired by <a href="https://www.youtube.com/watch?v=9lEUN28c0oc" rel="noopener" class="underline">"There Is a Saint for That" by Peter's Barque</a></p>
       <p class="mt-2"><a href="/about" class="underline">About this project</a></p>
     </footer>

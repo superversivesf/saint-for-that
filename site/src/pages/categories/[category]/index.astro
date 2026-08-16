@@ -17,13 +17,13 @@ const needs = [...new Set(saints.flatMap((s) => s.data.patronages.filter((p) => 
   <div class="mx-auto max-w-screen-sm px-4 pb-24 pt-4 sm:max-w-2xl lg:max-w-5xl lg:px-8">
     <nav class="text-sm" aria-label="Breadcrumb"><a href="/" class="underline">Home</a> › <a href="/categories/" class="underline">Categories</a> › {categoryLabel(category)}</nav>
     <h1 class="mt-2 font-serif text-3xl text-balance">{categoryLabel(category)}</h1>
-    <p class="text-sm text-zinc-600">{saints.length} saints</p>
+    <p class="text-sm text-ink-soft">{saints.length} saints</p>
 
     <ul class="mt-4 flex flex-wrap gap-2">
       {needs.map((n) => {
         const first = saints.find((s) => s.data.patronages.find((p) => p.category === category)?.need === n);
         return (
-          <li><a href={`#${first?.data.slug}-${n.replace(/\s+/g, '-')}`} class="tap-target inline-flex h-10 items-center rounded-full border border-zinc-200 px-3 text-sm hover:bg-zinc-50">{n}</a></li>
+          <li><a href={`#${first?.data.slug}-${n.replace(/\s+/g, '-')}`} class="tap-target inline-flex h-10 items-center rounded-full border border-line bg-white px-3 text-sm text-brand hover:bg-parchment-deep">{n}</a></li>
         );
       })}
     </ul>
