@@ -1,0 +1,12 @@
+{
+  "slug": "john-bosco",
+  "name": "St. John Bosco",
+  "feastDay": "01-31",
+  "canonized": "1934",
+  "bio": "John Bosco was born in 1815 near Turin, Italy, into a poor farming family. His father died when he was two, and he was raised by his mother, Margaret. As a boy he learned juggling and magic tricks to attract other children, whom he would then teach the catechism. Ordained a priest in 1841, he devoted himself to the abandoned boys of Turin, who crowded the city during the Industrial Revolution.\n\nDon Bosco founded the Oratory of St. Francis de Sales, a home, school, and playground where boys could learn trades and the faith. His educational method, the Preventive System, was built on reason, religion, and loving kindness rather than punishment. In 1859 he founded the Salesians, and with St. Mary Mazzarello he co-founded the Daughters of Mary Help of Christians.\n\nHe died in 1888 and was canonized in 1934. John Bosco is the patron saint of students, apprentices, and young people, and his feast is celebrated on January 31.",
+  "patronages": [
+    { "need": "students", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_Bosco"],
+  "featured": false
+}

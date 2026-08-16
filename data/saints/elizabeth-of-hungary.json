@@ -1,0 +1,12 @@
+{
+  "slug": "elizabeth-of-hungary",
+  "name": "St. Elizabeth of Hungary",
+  "feastDay": "11-17",
+  "canonized": "1235",
+  "bio": "Elizabeth was born in 1207, the daughter of King Andrew II of Hungary. At the age of four she was sent to the court of Thuringia, where she was raised and later married to Landgrave Louis IV. The marriage was a happy one, and the couple had three children.\n\nElizabeth devoted herself to the poor, building a hospital at the foot of the Wartburg castle and personally tending the sick. The most famous legend tells that while carrying bread to the poor, she met her husband, who asked what she was hiding; when she opened her cloak, the bread had turned to roses.\n\nAfter Louis died on crusade in 1227, Elizabeth joined the Third Order of St. Francis and spent her remaining years serving the sick in Marburg. She died in 1231 at the age of twenty-four and was canonized just four years later. She is the patron saint of bakers, hospitals, and charitable societies.",
+  "patronages": [
+    { "need": "bakers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"],
+  "featured": false
+}

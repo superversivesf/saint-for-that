@@ -1,0 +1,11 @@
+{
+  "slug": "honore",
+  "name": "St. Honoré",
+  "feastDay": "05-16",
+  "bio": "Honoré (Honorius) was born around 600 in Port-le-Grand, near Amiens in northern France, into a noble family. He was chosen as bishop of Amiens around 600 and served the diocese with humility and care for the poor.\n\nA beloved legend tells that when news of his election reached his family home, his old nursemaid, who was baking bread, refused to believe it. She declared that the wooden peel she was using would sprout leaves and become a tree if the news were true. The peel took root and grew into a mulberry tree, which was still shown to pilgrims centuries later.\n\nHonoré died around 653 and was buried in Amiens. In 1204 a Parisian baker donated land for a chapel in his honor, and the bakers' guild of Paris adopted him as their patron. He remains the patron saint of bakers, pastry chefs, and confectioners, and his feast is celebrated on May 16.",
+  "patronages": [
+    { "need": "bakers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Honoratus_of_Amiens"],
+  "featured": false
+}

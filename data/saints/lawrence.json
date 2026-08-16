@@ -1,0 +1,11 @@
+{
+  "slug": "lawrence",
+  "name": "St. Lawrence",
+  "feastDay": "08-10",
+  "bio": "Lawrence was one of the seven deacons of Rome, entrusted with the care of the Church's treasury and the distribution of alms to the poor. During the persecution of Emperor Valerian in 258, the prefect of Rome demanded that Lawrence hand over the Church's riches.\n\nLawrence asked for three days to gather them, then presented the poor, the crippled, and the blind, saying, \"These are the treasure of the Church.\" For this defiance he was martyred, tradition says, by being roasted alive on a gridiron. According to legend he told his executioners, \"Turn me over; I am done on this side.\"\n\nLawrence is one of the most venerated martyrs of the early Church, and his name appears in the Roman Canon of the Mass. Because of the manner of his death, he is the patron saint of cooks, chefs, and comedians, and his feast is celebrated on August 10.",
+  "patronages": [
+    { "need": "cooks", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Lawrence"],
+  "featured": false
+}

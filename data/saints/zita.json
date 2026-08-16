@@ -1,0 +1,12 @@
+{
+  "slug": "zita",
+  "name": "St. Zita",
+  "feastDay": "04-27",
+  "canonized": "1696",
+  "bio": "Zita was born around 1212 in the village of Monsagrati near Lucca, Italy, into a poor but devout family. At the age of twelve she became a servant in the household of the Fatinelli family in Lucca, where she remained for the rest of her life.\n\nZita saw her work as a form of prayer, rising early to attend Mass before beginning her duties and giving away her own food and clothing to the poor. Legend says that when she gave bread from the household to the hungry, her apron filled with flowers instead. She endured the jealousy of fellow servants with patience and eventually won the respect of the whole household.\n\nShe died on April 27, 1272, and was canonized in 1696. Zita is venerated as the patron saint of domestic workers and housekeepers, and her body remains incorrupt in the Basilica of San Frediano in Lucca.",
+  "patronages": [
+    { "need": "housekeepers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Zita"],
+  "featured": false
+}

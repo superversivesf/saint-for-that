@@ -1,0 +1,12 @@
+{
+  "slug": "francis-de-sales",
+  "name": "St. Francis de Sales",
+  "feastDay": "01-24",
+  "canonized": "1665",
+  "bio": "Francis de Sales was born in 1567 into a noble family in the duchy of Savoy. He studied law at Padua but felt called to the priesthood, and in 1593 he was ordained. He volunteered for the difficult mission of preaching to the Calvinists of the Chablais region, where he is said to have won thousands back to the Catholic faith through patience and gentleness.\n\nIn 1602 he became bishop of Geneva, and he became famous as a preacher, spiritual director, and writer. His Introduction to the Devout Life, published in 1609, taught that holiness is possible for everyone, in every state of life, and it remains a classic of spiritual literature. With St. Jane Frances de Chantal he founded the Order of the Visitation.\n\nFrancis died in 1622 and was canonized in 1665. In 1923 Pope Pius XI declared him the patron saint of writers and journalists, and his feast is celebrated on January 24.",
+  "patronages": [
+    { "need": "writers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Francis_de_Sales"],
+  "featured": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "catherine-of-alexandria",
+  "name": "St. Catherine of Alexandria",
+  "feastDay": "11-25",
+  "bio": "Catherine of Alexandria was, according to tradition, a noble and learned young woman of the early fourth century who converted to Christianity after a vision. When the emperor Maxentius began persecuting Christians, she rebuked him to his face and, when he summoned fifty philosophers to refute her, she is said to have converted them all.\n\nThe emperor condemned her to death on a spiked wheel, but the wheel shattered at her touch, and she was beheaded instead. Angels are said to have carried her body to Mount Sinai, where the monastery that bears her name was later built.\n\nCatherine became one of the most popular saints of the Middle Ages, venerated as a patron of philosophers, scholars, and students. She is one of the Fourteen Holy Helpers, and in art she is shown with the broken wheel and a sword. Her feast is celebrated on November 25.",
+  "patronages": [
+    { "need": "students", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Catherine_of_Alexandria"],
+  "featured": false
+}
