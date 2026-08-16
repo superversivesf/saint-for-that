@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search saints">
+  <div class="mx-auto max-w-2xl px-4 pb-24 pt-4">
+    <div class="sticky top-14 z-10 -mx-4 bg-white/85 px-4 py-3 backdrop-blur">
+      <input id="pagefind-search" type="search" inputmode="search" autofocus
+             placeholder="What do you need a saint for?"
+             aria-label="Search saints and patronages"
+             class="h-12 w-full rounded-full border border-zinc-200 px-4 text-base focus-visible:ring-2 focus-visible:ring-brand" />
+    </div>
+    <div id="pagefind-results" class="mt-4" aria-live="polite"></div>
+  </div>
+
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script is:inline>
+    import '/pagefind/pagefind-ui.js';
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({
+        element: '#pagefind-results',
+        input: '#pagefind-search',
+        showImages: false,
+        excerptLength: 12,
+      });
+    });
+  </script>
+</BaseLayout>
