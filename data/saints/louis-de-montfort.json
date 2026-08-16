@@ -1,0 +1,12 @@
+{
+  "slug": "louis-de-montfort",
+  "name": "St. Louis de Montfort",
+  "feastDay": "04-28",
+  "canonized": "1947",
+  "bio": "Louis-Marie Grignion de Montfort was born in 1673 in Brittany, France. Ordained a priest in 1700, he devoted himself to preaching parish missions across western France, calling the faithful to conversion and to devotion to Mary.\n\nHe wrote several spiritual classics, most famously True Devotion to Mary, which teaches total consecration to Jesus through Mary. The book was lost for over a century and rediscovered in 1842, after which it profoundly influenced later popes and saints, including St. John Paul II, whose motto Totus Tuus came from Montfort.\n\nHe founded the Company of Mary and the Daughters of Wisdom, and died in 1716 at the age of forty-three. He was canonized in 1947.",
+  "patronages": [
+    { "need": "preachers", "category": "spiritual" },
+    { "need": "marian devotion", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Louis_de_Montfort"]
+}

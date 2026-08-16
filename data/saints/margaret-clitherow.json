@@ -1,0 +1,12 @@
+{
+  "slug": "margaret-clitherow",
+  "name": "St. Margaret Clitherow",
+  "feastDay": "03-26",
+  "canonized": "1970",
+  "bio": "Margaret Clitherow was born in York, England, around 1556. She converted to Catholicism in 1574, at a time when the faith was outlawed in England. She sheltered priests in her home and arranged for Mass to be celebrated secretly, risking her life to keep the faith alive in her city.\n\nShe was arrested in 1586 and refused to plead, to protect her children and her priest friends from being forced to testify. She was pressed to death under a heavy door on Good Friday, 1586.\n\nKnown as the Pearl of York, she was canonized in 1970 as one of the Forty Martyrs of England and Wales.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" },
+    { "need": "mothers", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Margaret_Clitherow"]
+}

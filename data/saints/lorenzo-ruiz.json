@@ -1,0 +1,12 @@
+{
+  "slug": "lorenzo-ruiz",
+  "name": "St. Lorenzo Ruiz",
+  "feastDay": "09-28",
+  "canonized": "1987",
+  "bio": "Lorenzo Ruiz was born in Manila around 1600, the son of a Chinese father and a Filipino mother. He worked as a calligrapher and served with the Dominican missionaries. Falsely accused of a crime, he fled with missionaries to Japan in 1636.\n\nIn Japan, Christians faced brutal persecution. Lorenzo was arrested in Nagasaki and tortured, but refused to renounce his faith, reportedly saying that he was ready to die a thousand deaths for God.\n\nHe was martyred in 1637 and canonized in 1987 by Pope John Paul II, becoming the first Filipino saint.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" },
+    { "need": "migrants", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Lorenzo_Ruiz"]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "margaret-mary-alacoque",
+  "name": "St. Margaret Mary Alacoque",
+  "feastDay": "10-16",
+  "canonized": "1920",
+  "bio": "Margaret Mary Alacoque was born in 1647 in Burgundy, France. After a childhood marked by illness and family hardship, she entered the Visitation convent at Paray-le-Monial in 1671.\n\nThere she received a series of visions of Christ, who revealed to her his Sacred Heart and asked for devotion to it, including the practice of receiving Communion on the first Fridays of the month and the observance of a Holy Hour. Her confessor, St. Claude de la Colombière, recognized the authenticity of her experiences and supported her.\n\nShe died in 1690 and was canonized in 1920. The devotion to the Sacred Heart she promoted became one of the most widespread in the Catholic Church.",
+  "patronages": [
+    { "need": "sacred heart devotion", "category": "spiritual" },
+    { "need": "the sick", "category": "illness" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"]
+}

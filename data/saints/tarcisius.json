@@ -1,0 +1,11 @@
+{
+  "slug": "tarcisius",
+  "name": "St. Tarcisius",
+  "feastDay": "08-15",
+  "bio": "Tarcisius was a young Christian of Rome in the third century, remembered as a martyr of the Eucharist. According to tradition, during a time of persecution he was carrying the Blessed Sacrament to imprisoned Christians when he was stopped by a mob. Rather than surrender the Eucharist, he was beaten to death.\n\nHe is one of the earliest known acolytes, and his story has inspired devotion to the Eucharist among young people for centuries. Pope Damasus I honored him with an inscription comparing him to St. Stephen.\n\nHe is venerated as a patron of altar servers and first communicants.",
+  "patronages": [
+    { "need": "altar servers", "category": "spiritual" },
+    { "need": "first communicants", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Tarcisius"]
+}

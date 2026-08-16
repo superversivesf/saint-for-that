@@ -1,0 +1,11 @@
+{
+  "slug": "peter-faber",
+  "name": "St. Peter Faber",
+  "feastDay": "08-02",
+  "canonized": "2013",
+  "bio": "Peter Faber was born in 1506 in the village of Villaret in the Duchy of Savoy. As a young man he went to Paris to study, where he shared a room with Francis Xavier and met Ignatius of Loyola. He became the first of the companions to be ordained a priest, and he celebrated the Mass at Montmartre in 1534 at which the first Jesuits took their vows.\n\nFaber spent his life traveling across Europe, preaching, giving the Spiritual Exercises, and working for reconciliation between Catholics and Protestants during the turbulent years of the Reformation. He was known for his gentleness and his skill in guiding souls, and he was a trusted advisor at the Council of Trent.\n\nHe died in Rome in 1546 at the age of forty. Pope Francis canonized him in 2013, recognizing his holiness and his model of patient, charitable dialogue.",
+  "patronages": [
+    { "need": "spiritual direction", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Peter_Faber"]
+}

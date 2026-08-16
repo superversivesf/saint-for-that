@@ -1,0 +1,11 @@
+{
+  "slug": "michael",
+  "name": "St. Michael",
+  "feastDay": "09-29",
+  "bio": "St. Michael the Archangel is the leader of the heavenly host, named in the Book of Daniel, the Letter of Jude, and the Book of Revelation. He is depicted as the warrior angel who defeats Satan, and his name means Who is like God.\n\nDevotion to St. Michael is ancient, with shrines such as Mont Saint-Michel in France and Monte Sant'Angelo in Italy drawing pilgrims for centuries. The prayer to St. Michael, composed by Pope Leo XIII, remains widely recited.\n\nHe is venerated as the protector of the Church, of soldiers, and of all who face spiritual danger.",
+  "patronages": [
+    { "need": "soldiers", "category": "military" },
+    { "need": "police officers", "category": "military" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Michael_(archangel)"]
+}

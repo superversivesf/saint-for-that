@@ -1,0 +1,12 @@
+{
+  "slug": "charles-lwanga",
+  "name": "St. Charles Lwanga",
+  "feastDay": "06-03",
+  "canonized": "1964",
+  "bio": "Charles Lwanga was born around 1860 in the kingdom of Buganda, in present-day Uganda. He served as a page in the court of King Mwanga II and became a leader among the young Christian converts who had embraced the faith through the White Fathers missionaries.\n\nWhen King Mwanga turned against the Christians, Lwanga protected the younger pages and baptized several of them before their arrest. He and his companions were burned to death at Namugongo on June 3, 1886.\n\nHe was canonized in 1964 by Pope Paul VI and is venerated as a patron of African youth and of converts.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" },
+    { "need": "youth", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Charles_Lwanga"]
+}

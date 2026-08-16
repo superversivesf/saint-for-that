@@ -1,0 +1,12 @@
+{
+  "slug": "edmund-campion",
+  "name": "St. Edmund Campion",
+  "feastDay": "12-01",
+  "canonized": "1970",
+  "bio": "Edmund Campion was born in London in 1540 and was a brilliant scholar at Oxford, where he was admired for his eloquence. He was ordained an Anglican deacon but later converted to Catholicism, joining the Jesuits in 1573.\n\nIn 1580 he returned secretly to England as a missionary priest, traveling in disguise and ministering to persecuted Catholics. His pamphlet defending the faith, known as Campion's Brag, was widely circulated.\n\nHe was captured in 1581, tortured, and executed at Tyburn. He was canonized in 1970 among the Forty Martyrs of England and Wales.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" },
+    { "need": "writers", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Edmund_Campion"]
+}

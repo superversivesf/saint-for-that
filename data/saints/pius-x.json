@@ -1,0 +1,12 @@
+{
+  "slug": "pius-x",
+  "name": "St. Pius X",
+  "feastDay": "08-21",
+  "canonized": "1954",
+  "bio": "Giuseppe Sarto was born in 1835 in Riese, Italy, the son of a village postman. Ordained a priest in 1858, he served as a parish priest, bishop of Mantua, and patriarch of Venice before being elected pope in 1903.\n\nHis motto was to restore all things in Christ. He lowered the age for First Communion so that children could receive the Eucharist early, promoted frequent Communion, reformed church music, and began the codification of canon law. He also fought against the errors of Modernism.\n\nHe died in 1914, heartbroken at the outbreak of World War I. He was canonized in 1954, the first pope to be canonized since St. Pius V.",
+  "patronages": [
+    { "need": "first communicants", "category": "spiritual" },
+    { "need": "catechists", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Pope_Pius_X"]
+}

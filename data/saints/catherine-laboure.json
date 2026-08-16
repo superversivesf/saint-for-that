@@ -1,0 +1,12 @@
+{
+  "slug": "catherine-laboure",
+  "name": "St. Catherine Labouré",
+  "feastDay": "11-28",
+  "canonized": "1947",
+  "bio": "Catherine Labouré was born in 1806 in Burgundy, France, the ninth of eleven children. After her mother's death she cared for the family farm, and in 1830 she entered the Daughters of Charity in Paris.\n\nThat same year, the Virgin Mary appeared to her in the convent chapel and asked her to have a medal struck showing Mary with rays of grace flowing from her hands, surrounded by the words O Mary, conceived without sin, pray for us who have recourse to thee. The Miraculous Medal, as it came to be called, spread around the world and was associated with countless healings and conversions.\n\nCatherine kept her identity as the visionary secret for forty-six years, revealing it only near the end of her life. She died in 1876 and was canonized in 1947.",
+  "patronages": [
+    { "need": "miraculous medal devotees", "category": "spiritual" },
+    { "need": "the elderly", "category": "family" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"]
+}

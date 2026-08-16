@@ -1,0 +1,12 @@
+{
+  "slug": "andrew-kim-taegon",
+  "name": "St. Andrew Kim Taegon",
+  "feastDay": "09-20",
+  "canonized": "1984",
+  "bio": "Andrew Kim Taegon was born in 1821 into a Korean Catholic family during a time of fierce persecution. He was the first native Korean priest, ordained in Shanghai in 1845 after studying in Macau.\n\nHe returned to Korea to minister in secret, but was arrested in 1846 and beheaded near Seoul at the age of twenty-five. His father, Ignatius Kim, had been martyred years earlier.\n\nHe was canonized in 1984 by Pope John Paul II along with 102 other Korean martyrs, and is venerated as a patron of the Korean clergy.",
+  "patronages": [
+    { "need": "martyrs", "category": "persecution" },
+    { "need": "priests", "category": "persecution" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Andrew_Kim_Taegon"]
+}

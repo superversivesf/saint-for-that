@@ -1,0 +1,11 @@
+{
+  "slug": "carlo-acutis",
+  "name": "Bl. Carlo Acutis",
+  "feastDay": "10-12",
+  "bio": "Carlo Acutis was born in London in 1991 to Italian parents and grew up in Milan. From an early age he showed a deep devotion to the Eucharist, attending daily Mass and praying the rosary. He was also a gifted computer programmer, and he built websites cataloging Eucharistic miracles and Marian apparitions around the world.\n\nHe was known for his cheerfulness, his care for the poor, and his ability to use technology in the service of the faith. He died of leukemia in 2006 at the age of fifteen, offering his suffering for the pope and the Church.\n\nHe was beatified in 2020 in Assisi, where his body rests. He is venerated as a patron of young people and of the internet.",
+  "patronages": [
+    { "need": "youth", "category": "family" },
+    { "need": "internet users", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Carlo_Acutis"]
+}

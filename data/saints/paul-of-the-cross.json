@@ -1,0 +1,12 @@
+{
+  "slug": "paul-of-the-cross",
+  "name": "St. Paul of the Cross",
+  "feastDay": "10-19",
+  "canonized": "1867",
+  "bio": "Paul Danei was born in 1694 in Ovada, northern Italy. After a conversion experience in his youth, he felt called to found a religious order dedicated to the Passion of Christ. He spent forty days in retreat writing the rule of the new congregation.\n\nIn 1720 he was clothed in the black habit of the Passionists, and in 1725 he was ordained a priest. He preached missions throughout Italy for decades, calling people to meditate on the suffering and love of Christ, and he founded the Passionist nuns as well.\n\nHe died in Rome in 1775 and was canonized in 1867. The Passionists he founded continue his work of preaching the mystery of the Cross throughout the world.",
+  "patronages": [
+    { "need": "preachers", "category": "spiritual" },
+    { "need": "passion devotion", "category": "spiritual" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Paul_of_the_Cross"]
+}
