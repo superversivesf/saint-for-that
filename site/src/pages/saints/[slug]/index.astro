@@ -13,7 +13,7 @@ const { saint } = Astro.props;
 const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
 ---
 <BaseLayout title={saint.name} description={`${saint.name}: patron of ${saint.patronages.map((p) => p.need).join(', ')}.`}>
-  <article class="mx-auto max-w-2xl px-4 pb-24 pt-2 lg:max-w-5xl" data-pagefind-body>
+  <article class="mx-auto max-w-2xl px-4 pb-24 pt-2 lg:max-w-5xl" data-pagefind-body data-pagefind-meta={saint.image ? `image:${saint.image.url}` : undefined}>
     <header class="mt-4">
       <h1 class="font-serif text-3xl text-balance sm:text-4xl" data-pagefind-meta="title">{saint.name}</h1>
       <p class="mt-1 text-sm text-ink-soft">

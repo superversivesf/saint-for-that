@@ -24,8 +24,9 @@ const q = Astro.url.searchParams.get('q') ?? '';
       const ui = new PagefindUI({
         element: '#pagefind-results',
         input: '#pagefind-search',
-        showImages: false,
+        showImages: true,
         excerptLength: 12,
+        openFilters: ['category'],
       });
       if (query) ui.triggerSearch(query);
     });
