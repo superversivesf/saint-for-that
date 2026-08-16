@@ -20,17 +20,23 @@ const needs = [...new Set(saints.flatMap((s) => s.data.patronages.filter((p) => 
     <p class="text-sm text-zinc-600">{saints.length} saints</p>
 
     <ul class="mt-4 flex flex-wrap gap-2">
-      {needs.map((n) => (
-        <li><a href={`#${n.replace(/\s+/g, '-')}`} class="tap-target inline-flex h-10 items-center rounded-full border border-zinc-200 px-3 text-sm hover:bg-zinc-50">{n}</a></li>
-      ))}
+      {needs.map((n) => {
+        const first = saints.find((s) => s.data.patronages.find((p) => p.category === category)?.need === n);
+        return (
+          <li><a href={`#${first?.data.slug}-${n.replace(/\s+/g, '-')}`} class="tap-target inline-flex h-10 items-center rounded-full border border-zinc-200 px-3 text-sm hover:bg-zinc-50">{n}</a></li>
+        );
+      })}
     </ul>
 
     <ul class="mt-6 space-y-3">
-      {saints.map((s) => (
-        <li id={s.data.patronages.find((p) => p.category === category)?.need.replace(/\s+/g, '-')}>
-          <SaintCard saint={s.data} />
-        </li>
-      ))}
+      {saints.map((s) => {
+        const need = s.data.patronages.find((p) => p.category === category)?.need.replace(/\s+/g, '-');
+        return (
+          <li id={`${s.data.slug}-${need}`}>
+            <SaintCard saint={s.data} />
+          </li>
+        );
+      })}
     </ul>
   </div>
 </BaseLayout>

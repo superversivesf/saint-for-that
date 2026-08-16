@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://saintforthat.example.com',
+  site: process.env.SITE_URL || 'https://saints.superversive.net',
   output: 'static',
   trailingSlash: 'always',
   build: { format: 'directory' },

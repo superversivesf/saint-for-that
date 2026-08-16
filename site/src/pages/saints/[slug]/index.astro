@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { NEED_SYNONYMS, categoryLabel } from '../../../lib/taxonomy';
+import { NEED_SYNONYMS } from '../../../lib/taxonomy';
 
 export async function getStaticPaths() {
   const saints = await getCollection('saints');
@@ -51,7 +51,7 @@ const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
       {saint.bio.split(/\n\n+/).map((p) => <p>{p}</p>)}
     </section>
 
-    <span class="sr-only" data-pagefind-body>
+    <span class="sr-only">
       {saint.patronages.flatMap((p) => [p.need, ...(NEED_SYNONYMS[p.need] ?? [])]).join(', ')}
     </span>
 

@@ -1,10 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+const q = Astro.url.searchParams.get('q') ?? '';
 ---
 <BaseLayout title="Search saints">
   <div class="mx-auto max-w-2xl px-4 pb-24 pt-4">
     <div class="sticky top-14 z-10 -mx-4 bg-white/85 px-4 py-3 backdrop-blur">
-      <input id="pagefind-search" type="search" inputmode="search" autofocus
+      <input id="pagefind-search" type="search" inputmode="search" autofocus value={q}
              placeholder="What do you need a saint for?"
              aria-label="Search saints and patronages"
              class="h-12 w-full rounded-full border border-zinc-200 px-4 text-base focus-visible:ring-2 focus-visible:ring-brand" />
@@ -21,6 +22,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         input: '#pagefind-search',
         showImages: false,
         excerptLength: 12,
+        initialQuery: q,
       });
     });
   </script>
