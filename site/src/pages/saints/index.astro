@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SaintCard from '../../components/SaintCard.astro';
+
+const saints = (await getCollection('saints'))
+  .filter((s) => !s.data.draft)
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const groups = new Map<string, typeof saints>();
+for (const s of saints) {
+  const letter = s.data.name.replace(/^St\.?\s*/i, '').charAt(0).toUpperCase();
+  if (!groups.has(letter)) groups.set(letter, []);
+  groups.get(letter)!.push(s);
+}
+---
+<BaseLayout title="All saints">
+  <div class="mx-auto max-w-screen-sm px-4 pb-24 pt-4 sm:max-w-2xl lg:max-w-5xl lg:px-8">
+    <h1 class="font-serif text-3xl text-balance">All saints</h1>
+    <p class="mt-1 text-sm text-zinc-600">{saints.length} saints</p>
+    {[...groups.entries()].map(([letter, list]) => (
+      <section class="mt-8">
+        <h2 class="text-lg font-semibold">{letter}</h2>
+        <ul class="mt-3 space-y-3">
+          {list.map((s) => <li><SaintCard saint={s.data} /></li>)}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
