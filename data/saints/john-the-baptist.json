@@ -1,0 +1,11 @@
+{
+  "slug": "john-the-baptist",
+  "name": "St. John the Baptist",
+  "feastDay": "06-24",
+  "bio": "John the Baptist was the son of Zechariah and Elizabeth, a relative of the Virgin Mary. He lived as an ascetic in the desert, preaching repentance and baptizing in the Jordan River in preparation for the coming of the Messiah.\n\nHe baptized Jesus and pointed his own disciples toward him, saying, \"Behold, the Lamb of God.\" He fearlessly rebuked Herod Antipas for his unlawful marriage to Herodias.\n\nHerod imprisoned him and, at the request of Herodias's daughter Salome, had him beheaded. Jesus called him the greatest of those born of women. He is venerated as the patron saint of tailors, among many other patronages.",
+  "patronages": [
+    { "need": "tailors", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_the_Baptist"],
+  "featured": false
+}

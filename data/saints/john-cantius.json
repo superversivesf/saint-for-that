@@ -1,0 +1,12 @@
+{
+  "slug": "john-cantius",
+  "name": "St. John Cantius",
+  "feastDay": "12-23",
+  "canonized": "1767",
+  "bio": "John Cantius was born in 1390 in Kęty, Poland. He studied at the Jagiellonian University in Kraków, where he earned a doctorate and became a professor of philosophy and theology.\n\nHe was known for his humility, his austere way of life, and his generosity to the poor, giving away his salary and even his shoes. He made pilgrimages to Jerusalem and Rome, traveling on foot.\n\nHe died in 1473 and was canonized in 1767. He is one of the patron saints of Poland and is venerated as the patron saint of students, teachers, and universities.",
+  "patronages": [
+    { "need": "students", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/John_Cantius"],
+  "featured": false
+}

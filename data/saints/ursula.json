@@ -1,0 +1,11 @@
+{
+  "slug": "ursula",
+  "name": "St. Ursula",
+  "feastDay": "10-21",
+  "bio": "Ursula was a legendary British princess venerated as a virgin martyr. According to tradition, she traveled across Europe with a large company of virgin companions on a pilgrimage to Rome.\n\nOn their return journey, they were attacked by Huns near Cologne, and Ursula and her companions were martyred rather than renounce their faith, around the fourth century.\n\nHer cult spread widely in the Middle Ages, especially after the discovery of a Roman burial ground in Cologne. She is venerated as the patron saint of teachers, schoolgirls, and students.",
+  "patronages": [
+    { "need": "teachers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Saint_Ursula"],
+  "featured": false
+}

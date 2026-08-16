@@ -1,0 +1,12 @@
+{
+  "slug": "angela-merici",
+  "name": "St. Angela Merici",
+  "feastDay": "01-27",
+  "canonized": "1807",
+  "bio": "Angela Merici was born around 1474 in Desenzano, Italy. Orphaned as a young woman, she joined the Third Order of St. Francis and devoted herself to the religious education of poor girls.\n\nIn 1535 she founded the Company of St. Ursula in Brescia, a community of women dedicated to teaching girls in their own homes. This became the foundation of the Ursuline Order, the first teaching order of women in the Church.\n\nShe died in 1540 and was canonized in 1807. She is venerated as the patron saint of teachers, educators, and the sick.",
+  "patronages": [
+    { "need": "teachers", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Angela_Merici"],
+  "featured": false
+}

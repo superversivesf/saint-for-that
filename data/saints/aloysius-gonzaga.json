@@ -1,0 +1,12 @@
+{
+  "slug": "aloysius-gonzaga",
+  "name": "St. Aloysius Gonzaga",
+  "feastDay": "06-21",
+  "canonized": "1726",
+  "bio": "Aloysius Gonzaga was born in 1568 into the noble Gonzaga family of Castiglione, Italy. As a young page in the courts of Florence and Spain, he was exposed to courtly life but resolved early to dedicate himself to God.\n\nHe renounced his inheritance and entered the Society of Jesus in Rome in 1585. He was known for his intense prayer, penance, and devotion to the poor and the sick.\n\nDuring a plague epidemic in Rome in 1591, he cared for the sick in the Jesuit hospital and contracted the disease himself. He died on June 21, 1591, at the age of twenty-three, and was canonized in 1726. He is the patron saint of students and young people.",
+  "patronages": [
+    { "need": "students", "category": "everyday" }
+  ],
+  "sources": ["https://en.wikipedia.org/wiki/Aloysius_Gonzaga"],
+  "featured": false
+}
