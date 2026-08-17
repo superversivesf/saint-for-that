@@ -1,0 +1,33 @@
+{
+  "slug": "macrina-the-younger",
+  "name": "St. Macrina the Younger",
+  "feastDay": "07-19",
+  "bio": "Saint Macrina the Younger was an early Christian consecrated virgin and a formative influence on the monastic and theological life of the Church. Born around 330, she was the elder sister of Basil the Great, Gregory of Nyssa, Naucratius, and Peter of Sebaste, and played a decisive role in their spiritual formation. After her fiancé died before their marriage, she chose to remain a virgin and devoted herself to prayer, Scripture, and the care of her family. She became the head of a community of virgins and widows at Annesi, shaping a form of communal life that influenced later monasticism. Her brother Gregory of Nyssa wrote a celebrated Life of Macrina describing her sanctity, asceticism, and counsel on the soul and resurrection. Her death in 379 was recorded as a passage of profound peace.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Macrina the Younger a model of consecrated virginity and a teacher of wisdom, grant through her intercession that we may devote our lives to prayer and the study of Your word, and grow in the knowledge of Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macrina_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

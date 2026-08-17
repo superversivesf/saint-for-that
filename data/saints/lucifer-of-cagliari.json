@@ -1,0 +1,25 @@
+{
+  "slug": "lucifer-of-cagliari",
+  "name": "St. Lucifer of Cagliari",
+  "feastDay": "05-20",
+  "bio": "Saint Lucifer of Cagliari was bishop of Cagliari in Sardinia during the fourth century and a fierce defender of orthodox Christianity against the Arian heresy, which denied the full divinity of Christ. Though his name has startled later generations, in late antiquity \"Lucifer\" meant \"light-bearer\" and was borne by Christians of devotion. He was a passionate advocate for the Nicene faith, opposing Arianism with such zeal that he was exiled for his convictions. He attended the Council of Milan in 355 and refused to condemn Saint Athanasius, earning exile alongside other defenders of orthodoxy. He later consecrated a bishop for the Nicene party at Antioch, drawing controversy even among his allies. In Sardinia he is honoured as a confessor who suffered for Christ's divinity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Lucifer of Cagliari to confess the divinity of Your Son amid heresy and exile, grant through his intercession that we may hold fast to the truth of the faith and never be ashamed of the name of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lucifer_of_Cagliari"
+  ],
+  "featured": false,
+  "draft": false
+}

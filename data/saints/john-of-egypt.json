@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-egypt",
+  "name": "St. John of Egypt",
+  "feastDay": "03-27",
+  "bio": "Saint John of Egypt, also known as John the Hermit, John the Anchorite, or John of Lycopolis, was one of the great hermits and grazers of the Nitrian Desert. Born in the town of Lycopolis, or Asyut, in Upper Egypt, he began his working life as a carpenter. At the age of twenty-five, drawn by the call of solitude, he left the world behind to live a life of seclusion and prayer.\n\nJohn spent decades enclosed in his cell, receiving visitors only rarely and through a narrow window, yet his wisdom and gift of prophecy drew seekers from far and wide. Emperors and officials consulted him by letter, and he was reputed to read the secrets of hearts and foretell events with remarkable accuracy. He combined this charism with deep humility, refusing honor and pointing all who came to him toward God.\n\nHe died in the late fourth century, revered throughout Egypt and beyond as a prophet and intercessor. St. John of Egypt remains a patron of those who seek God in silence and of the ancient craft of woodworking he once practiced.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. John of Egypt the gift of prophecy in the solitude of the desert, grant through his intercession that we may learn to listen for Your voice in silence and to counsel others with humility and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

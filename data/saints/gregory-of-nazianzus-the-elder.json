@@ -1,0 +1,29 @@
+{
+  "slug": "gregory-of-nazianzus-the-elder",
+  "name": "St. Gregory of Nazianzus the Elder",
+  "feastDay": "01-01",
+  "bio": "Gregory the Elder, also called Gregory of Nazianzus the Elder, was the bishop of Nazianzus in Cappadocia during the fourth century. He is better remembered as the patriarch of an important family of ecclesiastics whose children would shape the Church for generations.\n\nAccording to his son, St. Gregory the Theologian, Gregory the Elder belonged to the Hypsistarians, who worshipped an unknown God but had not embraced the Christian faith. He was brought to the faith through a dream calling him to worship the one true God, and after his conversion was baptized with his wife, Nonna.\n\nOrdained bishop of Nazianzus, he served with the help of his famous son. Honored as a saint in East and West, his feast is January 1. He is remembered as the father of one of the holiest families of the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gregory the Elder out of the worship of an unknown God into the fullness of the Christian faith and made him the father of a family of saints, grant through his intercession that all who seek you in sincerity may find you in truth and that Christian parents may raise children in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

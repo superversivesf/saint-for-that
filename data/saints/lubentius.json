@@ -1,0 +1,25 @@
+{
+  "slug": "lubentius",
+  "name": "St. Lubentius",
+  "feastDay": "10-13",
+  "bio": "Saint Lubentius is venerated by the Catholic Church as a patron of the boatmen who worked the River Lahn in western Germany. Little certain detail of his life survives, but tradition honours him as a holy priest and hermit who lived near the banks of the Lahn, ministering to the ferrymen, fishermen, and travellers who passed along its waters. In an age when river travel was hazardous and the boatmen's livelihood depended on wind, current, and weather, Lubentius was remembered as a steadying spiritual presence, a man of prayer who trusted God amid the uncertainties of the water. His memory endured among the river communities of the Lahn valley, where churches and chapels were dedicated to him. He is invoked by those whose work and lives are bound to rivers and boats.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "fishermen",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Lubentius a faithful guide to those who labour upon the waters, grant through his intercession that we may navigate the currents of this life with steadfast faith and reach the harbor of eternal rest. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lubentius"
+  ],
+  "featured": false,
+  "draft": false
+}

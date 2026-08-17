@@ -1,0 +1,25 @@
+{
+  "slug": "eustorgius-i",
+  "name": "St. Eustorgius I",
+  "feastDay": "09-18",
+  "bio": "Eustorgius I was bishop of Milan from about the year 343 to about 349, a brief but significant episcopate in that great age when the Church was emerging from persecution into the dawn of a Christian empire. He shepherded the see of Milan in the years just before St. Ambrose would make it one of the most illustrious in Christendom.\n\nHe is honored as a saint in both the Catholic Church and the Eastern Orthodox Church, and his feast day is kept on September 18. According to tradition, he received as a gift from the Empress Helena the relics of the Magi, which he brought to Milan and enshrined there, a treasure that would later be carried off to Cologne by Frederick Barbarossa but that made Milan a place of pilgrimage for centuries.\n\nThough the written record of his life is scant, his memory was kept alive in the church that bore his name, where St. Ambrose himself is said to have sung his praise. He is invoked as a patron of bishops and of those who honor and preserve the sacred traditions of the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eustorgius a faithful shepherd of the see of Milan and a guardian of sacred things, grant through his intercession that bishops may govern Your Church with holiness and that pilgrims may find You in the holy places they seek. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eustorgius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

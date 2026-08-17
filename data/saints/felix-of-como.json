@@ -1,0 +1,25 @@
+{
+  "slug": "felix-of-como",
+  "name": "St. Felix of Como",
+  "feastDay": "unknown",
+  "bio": "Felix of Como is venerated as the first bishop of Como, the ancient see at the southern foot of Lake Como in northern Italy. He labored in the early centuries of the Church, when the faith was still taking root among the peoples of the Italian lakes and valleys, and he is remembered as the one who established the Gospel in that region.\n\nLittle certain detail of his life has come down to us, but the Church of Como honored his memory for centuries as its founder and first shepherd. He represents the long line of missionary bishops who carried the faith outward from the great cities into the countryside of the Roman world. His feast is kept locally, though the precise date has not been preserved in the universal calendar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Felix to plant the faith by Lake Como and to be the first shepherd of its people, grant through his intercession that the Church may never lack pastors who labor to bring the Gospel to new places. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Como"
+  ],
+  "featured": false,
+  "draft": false
+}

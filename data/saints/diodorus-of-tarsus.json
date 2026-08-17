@@ -1,0 +1,33 @@
+{
+  "slug": "diodorus-of-tarsus",
+  "name": "St. Diodorus of Tarsus",
+  "feastDay": "unknown",
+  "bio": "Diodore of Tarsus was a Christian bishop, monastic reformer, and theologian of the fourth century. A strong and unwavering supporter of the orthodoxy of Nicaea, Diodore played a pivotal role at the Council of Constantinople and boldly opposed the anti-Christian policies of the emperor Julian the Apostate.\n\nDiodore founded one of the most influential centers of Christian thought in the early Church, a school and monastic community that shaped a generation of pastors and teachers. Many of his students became notable theologians in their own right, carrying his zeal for sound doctrine and ascetic discipline into the great controversies that defined the age.\n\nVenerated as a champion of orthodoxy and a father of monks, Diodore is remembered as a steadfast shepherd who defended the divinity of Christ and nurtured the minds that would carry the faith forward through storm and persecution.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Diodorus of Tarsus to defend the truth of your Son's divinity and to form servants worthy of the Gospel, grant through his intercession that all who teach and study the faith may remain steadfast in orthodoxy and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diodorus_of_Tarsus"
+  ],
+  "featured": false,
+  "draft": false
+}

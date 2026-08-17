@@ -1,0 +1,29 @@
+{
+  "slug": "emilianus-of-trevi",
+  "name": "St. Emilianus of Trevi",
+  "feastDay": "unknown",
+  "bio": "Saint Emilianus, sometimes recorded as Æmilianus, was a fourth-century bishop of Trevi who gave his life in witness to the Gospel during the fierce persecution ordered by the Emperor Diocletian. He governed the small Christian community of central Italy at a time when merely to hold the office of bishop was to invite arrest and death.\n\nThe great persecution that swept through the Empire beginning in 303 targeted the clergy above all, seeking to decapitate the Church by destroying its shepherds. Emilianus, faithful to his charge, refused to surrender the sacred scriptures or offer sacrifice to the pagan gods, and so he was put to death, probably in 302 or 304, gaining the martyr's palm he had so long been prepared to receive.\n\nThough the precise date of his feast has not been preserved in the calendars, his name endured in the devotion of the local Church, a reminder that many early bishops sealed their ministry not with words but with their own blood.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Emilianus of Trevi the courage to lay down his life rather than betray the flock entrusted to his care, grant through his intercession that all bishops may be true shepherds, willing to suffer for the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emilianus_of_Trevi"
+  ],
+  "featured": false,
+  "draft": false
+}

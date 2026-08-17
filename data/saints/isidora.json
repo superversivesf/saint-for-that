@@ -1,0 +1,25 @@
+{
+  "slug": "isidora",
+  "name": "St. Isidora",
+  "feastDay": "05-10",
+  "bio": "Saint Isidora, also called Isidora of Tabenna, was a Christian nun of the fourth century and one of the earliest fools for Christ. Living in the convent of Tabenna in Egypt, she chose to be regarded as the lowliest among the sisters, wearing a ragged dish-towel upon her head and performing the most menial tasks without complaint. The other sisters, misunderstanding her, despised her as mad or possessed.\n\nHer secret holiness was revealed when the great abbot Pitirim, instructed by an angel, came to the convent seeking the holiest nun. To the astonishment of all, he identified Isidora, who had hidden her virtue beneath the appearance of foolishness. Having been thus exposed, Isidora fled the convent rather than endure praise, and her fate remains unknown.\n\nHer story, cherished by the Desert Fathers and Mothers, embodies the Pauline paradox that the wisdom of this world is foolishness before God, and that true greatness lies in humility unseen by men but known to God alone.",
+  "patronages": [
+    {
+      "need": "humor",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Isidora to seek Your praise above the esteem of mortals and to embrace humility as the path to true wisdom, grant through her intercession that we may be freed from vain glory and counted among the lowly whom You exalt. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Isidora"
+  ],
+  "featured": false,
+  "draft": false
+}

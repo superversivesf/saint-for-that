@@ -1,0 +1,25 @@
+{
+  "slug": "james-of-cyrrhestica",
+  "name": "St. James of Cyrrhestica",
+  "feastDay": "unknown",
+  "bio": "James of Cyrrhestica was a fourth-century monk who lived in the Cyrrhestica region of Syria, the rugged territory around the city of Cyrrhus. His way of life is attested by Theodoret of Cyrus, the fifth-century bishop and historian, who recorded the deeds of the holy ascetics of his diocese in his \"Religious History.\" In that wild and barren landscape, James took up the anchorite's struggle, seeking God in silence, fasting, and unceasing prayer.\n\nLike many of the Syrian ascetics, James embraced solitude not as an escape from the world but as a battle against the passions and a witness to the Kingdom yet to come. The witness of Theodoret places him among the great company of desert dwellers whose holiness shone forth in the early centuries of the Church, men and women who traded the comforts of cities for the discipline of the wilderness.\n\nThough few details of his life survive, his memory endures as a testimony to the monastic ideal that took root in the Syrian heartland.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. James of Cyrrhestica to seek You in the silence of the Syrian wilderness, grant through his intercession that we may find in stillness and prayer a deeper communion with You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/James_of_Cyrrhestica"
+  ],
+  "featured": false,
+  "draft": false
+}

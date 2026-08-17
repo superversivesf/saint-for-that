@@ -1,0 +1,29 @@
+{
+  "slug": "hyperechios",
+  "name": "St. Hyperechios",
+  "feastDay": "08-07",
+  "bio": "Hyperechios, also called Hyperechius, was a Christian ascetic and monastic writer of the late fourth or early fifth century. He most likely lived in Egypt or Roman Palestine, in the circles of the desert fathers who shaped the early monastic tradition.\n\nHe is known to us through the Sayings of the Desert Fathers, which preserve his brief but memorable teachings, and through a collection of 160 sayings attributed to him, known as the Exhortation to the Monks. His words urging monks to keep watch over the senses and to persevere in prayer and humility reflect the spiritual wisdom of the early desert.\n\nHyperechios is honored as a saint who handed on the ascetic teaching of the desert fathers, guiding monks and all who seek God in the discipline of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Hyperechios to exhort the monks of the desert to watchfulness and prayer, grant through his intercession that we may guard our senses and persevere in seeking your face. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hyperechios"
+  ],
+  "featured": false,
+  "draft": false
+}

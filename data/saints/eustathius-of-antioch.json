@@ -1,0 +1,29 @@
+{
+  "slug": "eustathius-of-antioch",
+  "name": "St. Eustathius of Antioch",
+  "feastDay": "02-21",
+  "bio": "Eustathius of Antioch, sometimes surnamed the Great, was a Christian patriarch of Antioch in the fourth century and one of the most steadfast defenders of the orthodox faith in that turbulent age. He succeeded to the see of Antioch during the years when the Arian controversy was tearing the Church apart, and from the first he set himself against the new teaching with learning and courage.\n\nAt the Council of Nicaea in 325 he stood with St. Athanasius among the chief champions of the consubstantiality of the Son of God, and his witness helped to shape the faith confessed by the whole Church. But his stand cost him dearly: through the intrigues of the Arian party and the court, he was deposed from his see and sent into exile, where he continued to write and to confess the truth until his death.\n\nHis feast day is kept on February 21 in the Eastern Orthodox, Syriac Orthodox, and Coptic Orthodox Churches, which have always honored his memory. He is invoked as a patron of bishops and of all who defend the faith against error.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to St. Eustathius of Antioch a tongue of fire to confess Your Son's divinity and a heart of steel to suffer for the truth, grant through his intercession that bishops and all who teach may hold fast to the faith once delivered to the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eustathius_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

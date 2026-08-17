@@ -1,0 +1,25 @@
+{
+  "slug": "ezana-of-axum",
+  "name": "St. Ezana of Axum",
+  "feastDay": "10-01",
+  "bio": "Ezana was the ruler of the Kingdom of Aksum in the fourth century and one of the best-documented kings of that great Ethiopian civilization. He is remembered above all as the first ruler of his land to adopt for his country the religion of Christianity and the name of Ethiopia, a decision that would shape the whole subsequent history of that ancient church.\n\nAccording to tradition, Ezana succeeded his father Ella Amida as king while still a child, and his mother Sofya served as regent until he came of age. His tutor was the Syrian Frumentius, who had been shipwrecked and raised at the Aksumite court and who instructed the young king in the faith. Moved by Frumentius's teaching, Ezana was baptized and made Christianity the religion of his kingdom, sending his tutor to Alexandria to be consecrated as its first bishop by St. Athanasius.\n\nUnder Ezana the coins of Aksum bore the cross for the first time, and the Gospel took root in the highlands of Ethiopia, where it has flourished ever since. His feast is kept on October 1, and he is honored as a patron of converts and of rulers who seek to govern in the fear of God.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ezana of Axum to the light of the Gospel and made him a planter of the faith in Ethiopia, grant through his intercession that rulers may govern according to Your will and that all nations may come to know the name of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ezana_of_Axum"
+  ],
+  "featured": false,
+  "draft": false
+}

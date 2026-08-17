@@ -1,0 +1,29 @@
+{
+  "slug": "firmina",
+  "name": "St. Firmina",
+  "feastDay": "11-24",
+  "bio": "Firmina was an early Christian virgin and martyr of Rome, or by some accounts of the Italian town of Amelia, who suffered death for her faith during the persecutions of the third or early fourth century. The tradition holds that she endured torture rather than renounce Christ, and that she was at last put to death as a young woman who had consecrated herself wholly to God.\n\nHer cult took deep root in central Italy. She is venerated as the patron saint of Civitavecchia on the Tyrrhenian coast, and the cathedral of Amelia is dedicated to her name. Her feast has been kept on November 24, and the memory of her witness has been carried by the Churches of the region for centuries as one of the virgin martyrs of the Roman age.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin St. Firmina with the palm of martyrdom, grant through her intercession that those who strive to keep themselves pure for your sake may stand firm in trial and faithful to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Firmina"
+  ],
+  "featured": false,
+  "draft": false
+}

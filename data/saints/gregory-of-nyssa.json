@@ -1,0 +1,29 @@
+{
+  "slug": "gregory-of-nyssa",
+  "name": "St. Gregory of Nyssa",
+  "feastDay": "01-10",
+  "bio": "Gregory of Nyssa, also known as Gregory Nyssen, was born into a family of saints in Cappadocia in the early fourth century. His elder brother was Basil of Caesarea, and with their friend Gregory of Nazianzus they form the trio known as the Cappadocian Fathers, who defended the orthodox faith concerning the Trinity and the divinity of the Holy Spirit.\n\nConsecrated bishop of Nyssa in 372, Gregory was deposed for a time by Arian authorities but returned to his see in 378 and served until his death around 394. He was a profound mystical and theological writer, producing works on the life of Moses, the Song of Songs, and the resurrection, and he played a distinguished role at the Council of Constantinople in 381.\n\nVenerated in both East and West, Gregory is honored as a champion of Nicene orthodoxy and a father of the Church's mystical tradition.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Gregory of Nyssa to proclaim the mysteries of your Trinity and to guide your people into the depths of contemplation, grant through his intercession that we may grow in knowledge of you and in love of your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Nyssa"
+  ],
+  "featured": false,
+  "draft": false
+}

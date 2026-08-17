@@ -1,0 +1,29 @@
+{
+  "slug": "five-martyrs-of-persia",
+  "name": "St. Five Martyrs of Persia",
+  "feastDay": "06-06",
+  "bio": "The Five Martyrs of Persia, also called the Five Sisters or Five Virgins of Persia, were Christian women who suffered martyrdom during the great persecution carried out by the Sasanian king Shapur II, who reigned from 309 to 379. In those years the Church in Persia was scourged with a ferocity that rivaled the Roman persecutions, and many confessors bore witness to Christ by their death.\n\nThese five women are remembered together because they stood firm as a company, refusing to abandon their faith though threatened with the full weight of imperial power. The ancient calendars kept their feast on June 6. They are honored in both East and West as examples of steadfast women whose confession was sealed by their blood, and whose unity in suffering has been a pattern for the Church ever since.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the Five Martyrs of Persia courage to confess your name together rather than deny you one by one, grant through their intercession that your Church may stand united in every trial and that the oppressed may find strength in the company of the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Five_Martyrs_of_Persia"
+  ],
+  "featured": false,
+  "draft": false
+}

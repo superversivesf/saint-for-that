@@ -1,0 +1,25 @@
+{
+  "slug": "macarius-of-jerusalem",
+  "name": "St. Macarius of Jerusalem",
+  "feastDay": "03-10",
+  "bio": "Saint Macarius I served as Bishop of Jerusalem from 312 until shortly before 335, shepherding the Church of the Holy City after Constantine legalized Christianity. He was bishop when Saint Helena came to Jerusalem, and according to tradition he assisted her in identifying the sites of Christ's crucifixion, burial, and resurrection, leading to the discovery of the True Cross. Present at the Council of Nicaea in 325, he affirmed the divinity of Christ against Arianism. Constantine entrusted him with building the Church of the Holy Sepulchre, and he oversaw the raising of the great basilica where Christ had died and risen. He is venerated in both the Eastern Orthodox and Catholic Churches, honoured as a builder of the holy places and a witness to the triumph of the Cross.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Macarius of Jerusalem a guardian of the holy places where Your Son suffered and rose, grant through his intercession that we may venerate the mystery of the Cross with living faith and proclaim the Resurrection to the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macarius_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

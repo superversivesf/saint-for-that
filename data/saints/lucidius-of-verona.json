@@ -1,0 +1,21 @@
+{
+  "slug": "lucidius-of-verona",
+  "name": "St. Lucidius of Verona",
+  "feastDay": "unknown",
+  "bio": "Saint Lucidius was a bishop of Verona in northern Italy during the fourth century, one of the early shepherds of the Church in that ancient city. He served in the decades following the Edict of Milan, when the Christian faith was emerging from persecution and bishops were tasked with building communities still surrounded by pagan traditions. Lucidius is remembered as a faithful pastor who guided the Church of Verona through a formative age, preserving the faith handed down from the apostles and tending the flock entrusted to his care. His memory was honoured by the Christians of Verona, who counted him among the sainted bishops who laid the foundations of their local Church. He is venerated as a confessor of the faith in an era of new freedom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Lucidius a faithful shepherd of Your Church at Verona, grant through his intercession that all pastors may guide their people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lucidius_of_Verona"
+  ],
+  "featured": false,
+  "draft": false
+}

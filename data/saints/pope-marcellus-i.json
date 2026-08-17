@@ -1,0 +1,29 @@
+{
+  "slug": "pope-marcellus-i",
+  "name": "St. Marcellus I",
+  "feastDay": "01-16",
+  "bio": "Pope Marcellus I became bishop of Rome in May or June 308, after a long and troubled vacancy left by the death of Marcellinus. He inherited a Church deeply scarred by the Diocletian persecution: many Christians had lapsed under threat of torture and now sought reconciliation, while the faithful who had confessed and suffered argued for severity.\n\nMarcellus took up the work of restoration with firm resolve, reorganising the Church in Rome and establishing parishes within the city so that the penitential system could function in an orderly way. His insistence on rigorous public penance for the lapsed provoked rioting in the streets, and the emperor Maxentius, disturbed by the unrest, banished him from Rome in 309. He died in exile that same year, being succeeded by Eusebius.\n\nHis relics were later returned and honoured beneath the altar of San Marcello al Corso in Rome. His feast is traditionally kept on 16 January.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Pope Marcellus I to rebuild Your Church after persecution and to govern the penitent with justice and mercy, grant through his intercession that we may be renewed in discipline and persevere in exile and trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

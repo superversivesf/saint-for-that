@@ -1,0 +1,37 @@
+{
+  "slug": "helena-mother-of-constantine-i",
+  "name": "St. Helena, mother of Constantine I",
+  "feastDay": "08-18",
+  "bio": "Flavia Julia Helena was born into the lower classes of the Roman Empire, traditionally in the city of Drepanon in Bithynia, Asia Minor. She became the wife or consort of the emperor Constantius Chlorus and mother of Constantine the Great, who upon becoming emperor honored her with the title Augusta.\n\nLate in life Helena embraced Christianity with fervor and, around 326, undertook a celebrated pilgrimage to the Holy Land. There she is credited with overseeing excavations on Golgotha that uncovered the True Cross of Christ and the crosses of the two thieves, as well as identifying the sites of the Nativity and the Ascension, on which she founded churches.\n\nHer devotion and discoveries shaped Christian pilgrimage for centuries. Helena died around 330, revered as a model convert and a patron of archaeologists, converts, and those who seek Christ in the places where he walked.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "divorced people",
+      "category": "family"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "archaeologists",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Helena to the fullness of faith in her later years and guided her steps to the holy places of our redemption, grant through her intercession that converts and pilgrims may find you in truth, and that those burdened in marriage may know your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helena%2C_mother_of_Constantine_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "justina-of-padua",
+  "name": "St. Justina of Padua",
+  "feastDay": "10-07",
+  "bio": "Justina of Padua is honored as a virgin and martyr of the early Church and as the principal patroness of the city of Padua. Devoted to God from her earliest years, she consecrated herself by vow to perpetual virginity and gave her life to prayer and the practice of the Christian faith.\n\nWhen the prefect Maximian summoned her to renounce her beliefs, Justina stood firm against every threat and persuasion. Neither flattery nor fear could move her from the love of Christ she had pledged. Enraged by her constancy, the prefect ordered her to be slain with the sword, and so she completed her witness in blood.\n\nHer feast on October 7 has been kept in Padua and the surrounding cities for many centuries, and she remains a model of steadfast virginity and courageous confession under persecution.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned the virgin Justina with the crown of martyrdom and made her the steadfast confessor of your Son, grant through her prayers that we may hold fast to the faith and keep our bodies and souls pure for your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justina_of_Padua"
+  ],
+  "featured": false,
+  "draft": false
+}

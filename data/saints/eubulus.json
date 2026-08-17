@@ -1,0 +1,29 @@
+{
+  "slug": "eubulus",
+  "name": "St. Eubulus",
+  "feastDay": "03-07",
+  "bio": "Saint Eubulus was a Christian martyr of the early fourth century who suffered death at Caesarea Palaestina alongside his companion Saint Adrian of Batanea. According to the ancient witness, Adrian had traveled from Batanea to the Palestinian metropolis, where both men were seized for their confession of Christ and put to death during the persecutions that scourged the Church under the Roman emperors.\n\nThe calendar preserves a distinction between the two companions: Adrian is commemorated on the fifth of March, and Eubulus on the seventh, a small sign of the honor paid to each martyr in his own right. Their shared suffering, however, binds them together in the memory of the Church as two witnesses who would not deny the name they had received.\n\nLittle else is recorded of Eubulus beyond his fidelity and his end, but the brevity of the account is itself a testament to the countless humble martyrs whose names the early Church cherished even when full stories were lost to time.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Eubulus with the palm of martyrdom beside his companion Adrian, grant through his intercession that we may stand firm in confessing Your name and that those who are oppressed for the faith may find courage in his example. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pope-marcellinus",
+  "name": "St. Marcellinus",
+  "feastDay": "04-26",
+  "bio": "Pope Marcellinus served as bishop of Rome from 30 June 296 until his death on 25 October 304, guiding the Church through the opening years of the fierce Diocletian persecution, the most savage attempt yet to destroy Christianity within the Empire.\n\nDuring his pontificate the churches of Rome endured confiscation, the destruction of scriptures, and the threat of death to all who refused to sacrifice to the pagan gods. Later tradition, preserved in the Liber Pontificalis, recounts that Marcellinus himself, terror-stricken by the persecution, offered incense to the idols, only to repent bitterly and suffer martyrdom shortly after. Though this account was disputed by Augustine and others, it lent his cult a penitential character.\n\nHonoured from antiquity as a saint, Marcellinus was buried in the cemetery of Priscilla on the Via Salaria. His feast is kept on 26 April.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Pope Marcellinus amid the fury of persecution and received his repentance with mercy, grant through his intercession that we may never deny Your name under trial and may rise again whenever we fall. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Marcellinus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "malchus-of-syria",
+  "name": "St. Malchus of Syria",
+  "feastDay": "unknown",
+  "bio": "Saint Malchus of Syria is a monk of the fourth century whose story is known through the biography written by Saint Jerome around 391, the Life of Malchus the Captive Monk. According to Jerome, Malchus was a Syrian Christian who, against his mother's wishes, fled to the desert to embrace the monastic life rather than enter the marriage his family arranged. Captured by Saracen raiders, he was sold into slavery and forced to marry a fellow captive, though he and his wife agreed to live in continence, honouring their vows even in bondage. After years of hardship, they escaped, and Malchus returned to a life of prayer. Jerome held him up as an example of chastity preserved through danger and the monk's resolve to live for God. He is remembered as a confessor of continence and conscience.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved Saint Malchus of Syria in chastity and conscience through captivity and exile, grant through his intercession that all who are bound or coerced may remain free in spirit and faithful to Your call. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malchus_of_Syria"
+  ],
+  "featured": false,
+  "draft": false
+}

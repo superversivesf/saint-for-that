@@ -1,0 +1,25 @@
+{
+  "slug": "ibar-of-beggerin",
+  "name": "St. Ibar of Beggerin",
+  "feastDay": "04-23",
+  "bio": "Ibar mac Lugna, also rendered as Iberius or Ivor, was an early Irish saint and bishop honored as the patron of Beggerin Island in Wexford harbor. He is counted among the earliest preachers of the Christian faith in Ireland, and some traditions place him among the \"Quattuor sanctissimi Episcopi,\" the four most holy bishops said to have preceded St. Patrick in Ireland, though others regard them as contemporaries.\n\nHe labored in the southeast of Ireland, founding a church and monastic settlement on Beggerin Island, then a remote and penitential place. His work helped lay the groundwork for the great flowering of Irish Christianity in the following century.\n\nIbar is venerated as one of the pioneer evangelists of Ireland, a bishop who planted the faith before the mission of Patrick transformed the island.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Ibar to plant the seeds of faith in Ireland, grant through his intercession that missionaries may labor with zeal and that the fruits of early evangelists may endure in your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ibar_of_Beggerin"
+  ],
+  "featured": false,
+  "draft": false
+}

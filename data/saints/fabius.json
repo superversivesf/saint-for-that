@@ -1,0 +1,25 @@
+{
+  "slug": "fabius",
+  "name": "St. Fabius",
+  "feastDay": "07-31",
+  "bio": "Fabius was a martyr of the Roman Empire, a Christian of Mauretania Caesariensis who suffered death for his faith during one of the persecutions that scourged the Church in the late third or early fourth century. The ancient accounts tell us little beyond the fact of his confession: that he would not deny Christ, and so was put to death.\n\nHis memory was preserved in the liturgy of the African Church, and his feast was set on July 31. The region that gave him birth was rich in martyrs, and Fabius is one of many whose names the Church kept even when the details of their trial were lost. He is venerated by both the Catholic and Orthodox Churches as a witness who shed his blood rather than betray his Lord.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Fabius with the palm of martyrdom, grant through his intercession that we may confess your name with courage and bear witness to the truth whatever the cost. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fabius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "euprepius-of-egypt",
+  "name": "St. Euprepius of Egypt",
+  "feastDay": "unknown",
+  "bio": "Euprepius of Egypt was an Egyptian Orthodox Christian monk, ascetic, and saint who lived in the fourth century, that great age when the desert became a city of those who sought God. Almost all that is known of him comes down to us through the Sayings of the Desert Fathers, those short fragments of wisdom treasured by monks and laity alike.\n\nIn those sayings, Euprepius is remembered as a teacher of the interior life, who prized vigilance over the heart above every external observance. His counsel pointed away from mere outward discipline and toward the unceasing struggle against self-will, a theme at the very center of the desert tradition. To read his words is to glimpse the furnace of prayer that burned in the Egyptian wilderness.\n\nThough history has preserved little else of his life, his name has been honored in the Church's memory as one of those who turned their backs on the world to seek the face of God in silence. He is a fitting patron for all contemplatives and for those who long to grow in prayer.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Euprepius into the silence of the Egyptian desert to seek Your face, grant through his intercession that we may learn to guard our hearts and to pray without ceasing, even amid the noise of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euprepius_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "john-of-senhout",
+  "name": "St. John of Senhout",
+  "feastDay": "unknown",
+  "bio": "Saint John of Senhout is an Egyptian saint venerated from the fourth century, a child of the early Coptic Church that flourished in the deserts and villages of the Nile valley. Though the historical record preserves only a brief memory of his life, his name endured among the faithful of Egypt as a witness to the holiness that took root in that ancient Christian heartland.\n\nThe fourth century was a time of both trial and triumph for the Church of Egypt, as it passed from the fires of persecution into the freedom won under Constantine and then faced the long struggle of doctrinal controversy. Saints such as John of Senhout belong to that formative age when monasticism was born and the faith was carried into every corner of the land.\n\nHonored in the Coptic tradition, St. John of Senhout stands among the great cloud of Egyptian witnesses whose prayers the faithful still invoke, a reminder that holiness is often hidden in the quiet places known only to God.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. John of Senhout among the early saints of Egypt, grant through his intercession that we may stand firm in the faith and join our prayers to the ancient witness of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Senhout"
+  ],
+  "featured": false,
+  "draft": false
+}

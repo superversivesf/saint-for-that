@@ -1,0 +1,29 @@
+{
+  "slug": "ecclesius-of-ravenna",
+  "name": "St. Ecclesius of Ravenna",
+  "feastDay": "07-27",
+  "bio": "Saint Ecclesius served as bishop of Ravenna from AD 521 to 532, governing that great Italian see during the reign of the Ostrogoths and the age of Justinian. He is best remembered as the founder of the Basilica of San Vitale in Ravenna, one of the masterpieces of early Christian architecture, whose mosaics still dazzle pilgrims after fifteen centuries.\n\nEcclesius began the great work of San Vitale and laid its foundations, though he did not live to see it completed. The basilica, with its octagonal plan and luminous mosaics of Christ and the saints, stands as a monument to his vision and to the flourishing of the Church in Ravenna at the dawn of the sixth century.\n\nHe is invoked as a patron of builders and of all who undertake great works for the glory of God, knowing they may not live to see them finished, a witness to the faith that plants what another generation reaps.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "architects",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Ecclesius to raise the Basilica of San Vitale to your glory, grant through his intercession that all who build for your Church may labour with vision and faith, trusting that you will bring every good work to its fulfilment. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ecclesius_of_Ravenna"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "fabiola",
+  "name": "St. Fabiola",
+  "feastDay": "12-27",
+  "bio": "Fabiola was a noble Roman matron of the late fourth century, a woman of rank who moved in the highest circles of the imperial city yet found her worldly pleasures empty. Married first to a cruel and unfaithful husband, she obtained a civil divorce and then, against counsel, married again before her first husband had died. St. Jerome, whom she sought out in Bethlehem, rebuked her publicly, and she did penance for the rest of her life.\n\nFabiola gave away her wealth, founded a hospital in Rome where she nursed the sick with her own hands, and gathered the poor and wounded from the streets. She then followed Jerome to the Holy Land, living in a cell near his monastery and giving herself to Scripture, fasting, and prayer. She died in 399, mourned by Jerome as a woman of incomparable charity.",
+  "patronages": [
+    {
+      "need": "divorced people",
+      "category": "family"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "nursing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fabiola from worldly rank to the service of the poor and the healing of the sick, grant through her intercession that those who bear the wounds of broken marriages may find comfort in your mercy and courage to begin again. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fabiola"
+  ],
+  "featured": false,
+  "draft": false
+}

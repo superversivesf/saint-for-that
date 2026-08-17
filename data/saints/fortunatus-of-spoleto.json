@@ -1,0 +1,25 @@
+{
+  "slug": "fortunatus-of-spoleto",
+  "name": "St. Fortunatus of Spoleto",
+  "feastDay": "06-01",
+  "bio": "Saint Fortunatus of Spoleto was a parish priest who served in the countryside near Spoleto in Umbria sometime between the fourth and fifth centuries. Little is recorded of his life, but the memory of his holiness endured among the people he served, and devotion to him was passed down across the centuries.\n\nThe latest official edition of the Roman Martyrology commemorates Saint Fortunatus on the first of June, bearing witness to the recognition the universal Church has given to his cult. He is honored in particular in Montefalco, the Umbrian hill town that treasures his memory.\n\nFortunatus is remembered as a model of the humble country priest, a pastor who laboured quietly among ordinary faithful, celebrated the sacraments, and shepherded souls without seeking earthly reward.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fortunatus to serve you faithfully among the rural people of Umbria, grant through his intercession that all who minister in quiet and hidden places may find strength in your grace and bear fruit in the souls entrusted to their care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fortunatus_of_Spoleto"
+  ],
+  "featured": false,
+  "draft": false
+}

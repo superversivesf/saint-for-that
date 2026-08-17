@@ -1,0 +1,29 @@
+{
+  "slug": "dorothea-of-alexandria",
+  "name": "St. Dorothea of Alexandria",
+  "feastDay": "02-06",
+  "bio": "Dorothea of Alexandria is venerated as a Christian virgin and saint of the early fourth century. Her legend recounts that the Roman emperor Maximinus Daia sought to court her, yet she rejected his suit in fidelity to Christ and to the virginity she had consecrated to him, and fled Alexandria rather than yield.\n\nShe died in Arabia around the year 320, during the last great wave of persecution to strike the Church before the peace of Constantine. Like so many of the virgin martyrs, Dorothea chose the crown of purity and the crown of suffering over the favour of the powerful, and her witness strengthened the faithful of her age.\n\nShe is invoked as a patron of single women and of all who suffer for refusing to compromise their faith or their integrity, a model of courage under the pressure of the mighty.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Dorothea of Alexandria grace to preserve her virginity and her faith before the face of an emperor, grant through her intercession that all who are pressed to deny you may stand firm and inherit the crown of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorothea_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

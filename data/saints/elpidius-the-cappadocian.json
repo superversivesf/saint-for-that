@@ -1,0 +1,29 @@
+{
+  "slug": "elpidius-the-cappadocian",
+  "name": "St. Elpidius the Cappadocian",
+  "feastDay": "09-02",
+  "bio": "Saint Elpidius the Cappadocian was an abbot and holy man of Asia Minor who embraced the eremitical life with singular determination. Tradition holds that he dwelt in a cave in the rugged landscape of Cappadocia for twenty-five years, devoting himself to unceasing prayer, fasting, and contemplation of the mysteries of God.\n\nHis reputation for sanctity drew disciples to the solitude, among them Eustace, known in Italian as Eustachio, and Ennesius, or Ennesio, who gathered around the aging hermit and formed a monastic community under his guidance. Through his example of austerity and his counsel, Elpidius became a father of monks in a region already rich with ascetic tradition.\n\nVeneration of the saint spread beyond Cappadocia, and the great shrine of Sant'Elpidio a Mare on the Adriatic coast preserves his name to this day, a lasting monument to a hermit whose hidden life bore fruit in generations of followers.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Elpidius to a life of solitude and prayer in the caves of Cappadocia, and made him a father of monks, grant through his intercession that we may learn to seek You in stillness and serve You in humility. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elpidius_the_Cappadocian"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "john-the-hermit-armenian",
+  "name": "St. John the Hermit",
+  "feastDay": "03-29",
+  "bio": "Venerable John the Hermit began his ascetic life at a young age, born in the fourth century in Armenia to Juliana, a devout Eastern Orthodox Christian mother who raised him in the fear of the Lord. Drawn to the life of the spirit, John became the spiritual son of St. Pharmutius, who discipled him for a time in the ways of prayer and self-denial.\n\nSeeking a yet deeper solitude, John took up his abode in the depths of a dry well, a literal descent into the earth that became for him a place of encounter with God. Pharmutius visited him daily, bringing bread which sacred tradition attributes to the ministry of an angel, a sign of the heavenly sustenance granted to those who forsake all for the Kingdom.\n\nJohn's hidden life of fasting, vigil, and prayer in the depths of the well became a witness to the radical devotion of the early ascetics, who counted the world as nothing that they might gain Christ. His memory is cherished in the Armenian tradition as a model of obedience, humility, and trust in divine providence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. John the Hermit in the depths of a dry well with bread provided by an angel, grant through his intercession that we may hunger only for Your presence and trust Your providence in every place of obscurity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Hermit_(Armenian)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "isaac-of-dalmatia",
+  "name": "St. Isaac of Dalmatia",
+  "feastDay": "05-30",
+  "bio": "Saint Isaac the Confessor, also known as Isaacius or Isaakios, was a Christian monk of Constantinople honored as a saint and confessor. Though called \"the Dalmatian,\" he did not hail from Dalmatia; the title comes from the Dalmatian Monastery which he founded in the imperial capital. In a time of doctrinal turmoil, Isaac stood firm in the orthodox faith, enduring hardship and opposition for his steadfastness.\n\nAs a founder of a monastery, he gathered disciples and shaped a community devoted to prayer, ascetic discipline, and fidelity to the teaching of the Church. His witness as a confessor attests that he suffered for the faith without shedding his blood, bearing trial with patience and courage. The Dalmatian Monastery endured as a spiritual center long after his death, a testament to the fruit of his labors.\n\nVenerated in both East and West, St. Isaac is remembered as a model of monastic perseverance and a pillar of orthodoxy in an age of controversy.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Isaac of Dalmatia to found a house of prayer and to confess the orthodox faith amid turmoil, grant through his intercession that we may persevere in fidelity to Your truth and labor faithfully for Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isaac_of_Dalmatia"
+  ],
+  "featured": false,
+  "draft": false
+}

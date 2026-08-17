@@ -1,0 +1,25 @@
+{
+  "slug": "florus-of-lod-ve",
+  "name": "St. Florus of Lodève",
+  "feastDay": "06-01",
+  "bio": "Saint Florus is honored as the legendary first bishop of Lodève, a small but ancient see in the Languedoc region of southern Gaul. According to local tradition, he evangelised the peoples of Languedoc and the Auvergne, bringing the Christian faith to villages still shadowed by pagan worship.\n\nFlorus laboured as a missionary bishop in the closing decades of the fourth century, a time when the Church in Gaul was still putting down roots among rural populations. He is said to have been martyred in about 389, sealing his witness with his blood.\n\nThough the historical record is thin, devotion to Florus endured in Lodève, and his feast is kept on the first of June. He is remembered as a pioneer of the faith in southern France, a pastor who gave his life for the flock he served.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Florus a faithful shepherd of your people in Languedoc and strengthened him to lay down his life for the Gospel, grant through his intercession that missionaries may bear witness to Christ with courage and that all pastors may imitate his devoted care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florus_of_Lod%C3%A8ve"
+  ],
+  "featured": false,
+  "draft": false
+}

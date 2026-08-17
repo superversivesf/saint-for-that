@@ -1,0 +1,21 @@
+{
+  "slug": "kunigunde-of-rapperswil",
+  "name": "St. Kunigunde of Rapperswil",
+  "feastDay": "06-16",
+  "bio": "Kunigunde of Rapperswil was a Christian saint of the early medieval period, venerated in the town of Rapperswil on the shores of Lake Zurich. Her name, in Old High German, means 'fighter for her clan,' and tradition has preserved her memory as one who endured suffering with patience and who was honored especially among the blind and the lame.\n\nFew written details of her life have survived, but devotion to her was strong among the people of the region, who invoked her intercession for those afflicted in body and limb. Her cult was carried by local piety rather than by written record, and has endured through many generations.\n\nKunigunde is remembered as a patroness of those who bear bodily affliction, a saint whose name was linked with hope for healing.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Kunigunde a patron of those who suffer in body and limb, grant through her prayers that the blind and the lame may find relief and that all who bear affliction may rest in your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kunigunde_of_Rapperswil"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "eusebius-of-rome",
+  "name": "St. Eusebius of Rome",
+  "feastDay": "08-14",
+  "bio": "Eusebius of Rome was a priest of the early Roman Church and the founder of the church on the Esquiline Hill that bears his name, the titulus Eusebii. He is listed in the ancient Roman Martyrology among the saints venerated on the fourteenth of August, and his memory has been kept by the faithful of Rome since the earliest centuries.\n\nAccording to tradition, Eusebius lived during the fierce persecution under the Emperor Constantius and was a courageous confessor of the faith. When a divided Roman presbyterate threatened the peace of the Church, he stood firm for the truth, and for his constancy he is said to have suffered, being buried alive or confined until his death in the place that would become his shrine.\n\nThe church of Sant'Eusebio on the Esquiline still stands today, a quiet witness to the faith of one who would not yield. He is invoked as a patron of confessors and of those who endure opposition for the sake of the truth.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Eusebius of Rome to confess Your name in the hour of trial, grant through his intercession that we may stand firm in the truth and never prefer the peace of the world to the peace of conscience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

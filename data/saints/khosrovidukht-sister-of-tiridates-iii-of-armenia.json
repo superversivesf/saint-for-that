@@ -1,0 +1,25 @@
+{
+  "slug": "khosrovidukht-sister-of-tiridates-iii-of-armenia",
+  "name": "St. Khosrovidukht",
+  "feastDay": "unknown",
+  "bio": "Khosrovidukht was a princess of the Arsacid dynasty of Armenia, the royal house that ruled one of the client-kingdoms of the Roman Empire and traced its lineage to the Parthian Arsacids. She lived when Armenia stood on the threshold of becoming the first nation to embrace the Christian faith.\n\nAccording to Armenian tradition, Khosrovidukht was the sister of King Tiridates III. When the king, afflicted in mind and body, lay suffering, it was Khosrovidukht who recalled the imprisoned Gregory the Illuminator and called for his prayers. Through Gregory's intercession the king was restored, and Armenia was led to baptism.\n\nShe is remembered as a princess whose discernment opened the way for the conversion of her people, a handmaid who turned a kingdom to Christ.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided the princess Khosrovidukht to call for the prayers of your servant Gregory and so opened the way for the conversion of Armenia, grant through her intercession that the nations may turn to Christ and find in him the healing of their afflictions. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Khosrovidukht_(sister_of_Tiridates_III_of_Armenia)"
+  ],
+  "featured": false,
+  "draft": false
+}

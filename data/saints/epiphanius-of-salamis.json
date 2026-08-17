@@ -1,0 +1,33 @@
+{
+  "slug": "epiphanius-of-salamis",
+  "name": "St. Epiphanius of Salamis",
+  "feastDay": "05-12",
+  "bio": "Epiphanius of Salamis was bishop of that Cypriot see at the close of the fourth century, and one of the most formidable defenders of the orthodox faith in a age riven by doctrinal conflict. He was born in Palestine and early embraced the monastic life in the Egyptian desert, where he absorbed the rigor of the ascetics and a fierce loyalty to the doctrines handed down by the Church.\n\nConsecrated bishop of Salamis in about 367, he gained lasting renown for his learning and his zeal for truth. His greatest surviving work is the Panarion, or \"Medicine Chest,\" an exhaustive compendium describing eighty heresies alongside the pagan religions and philosophical systems of his day, written to equip the faithful against every form of spiritual error.\n\nEpiphanius was a strict and sometimes controversial figure, even quarreling with such luminaries as John Chrysostom over questions of Church order and the use of images. Yet he was revered by the Eastern Orthodox, the Catholic Churches, and several other Christian traditions as a saint and a Church Father, and he is remembered for that unyielding love of orthodoxy that made him a pillar of the ancient faith.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Epiphanius to defend the faith against every error with zeal and learning, grant through his intercession that your Church may walk in the truth and that all who teach may be kept faithful to the doctrine of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
+  ],
+  "featured": false,
+  "draft": false
+}

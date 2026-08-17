@@ -1,0 +1,29 @@
+{
+  "slug": "eusebius-the-hermit",
+  "name": "St. Eusebius the Hermit",
+  "feastDay": "unknown",
+  "bio": "Saint Eusebius the Hermit was a fourth-century Syrian monk, one of those who heard the call of Christ to leave all and follow him into the wilderness. He lived as a solitary in the stark landscape of Syria in that first great flowering of the eremitical life, when men and women fled the cities to wrestle with their own hearts and seek God alone.\n\nIn the desert tradition, the hermit's cell was a battlefield and a school of prayer at once, and Eusebius was remembered for the long years he spent in that quiet warfare. He took his stand against the noise of the world and the subtler noise of his own thoughts, and in the silence he learned to listen for the voice that speaks in the depths.\n\nLittle else has come down to us of his life, but the desert remembers its own. He is honored as a patron of hermits and of all who, in whatever state of life, seek to make room for God in silence and solitude.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Eusebius the Hermit into the Syrian wilderness to seek You in silence, grant through his intercession that we may learn to quiet our restless hearts and find You in the secret place of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

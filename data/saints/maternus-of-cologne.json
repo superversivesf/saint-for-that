@@ -1,0 +1,29 @@
+{
+  "slug": "maternus-of-cologne",
+  "name": "St. Maternus of Cologne",
+  "feastDay": "09-14",
+  "bio": "Saint Maternus, also known as Maternus II, is honoured as the first known bishop of Cologne and a foundational figure in the Christianization of the Rhineland. Tradition also names him the third bishop of Trier and the founder of the diocese of Tongeren, making him one of the great missionary bishops who carried the Gospel into the Germanic provinces of the Roman Empire.\n\nAccording to the records of his see, Maternus worked to establish churches and clergy among peoples only recently touched by Christianity, and his name is attached to the early foundation of the Basilica of Saint Maternus in Walcourt, in present-day Belgium, which local tradition holds he himself established.\n\nHe is venerated as a saint in both the Catholic and Eastern Orthodox churches, and his cult spread widely through the Low Countries and the Rhineland. His feast is celebrated on 14 September, and he is remembered as a patron of the Church in western Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Maternus of Cologne to plant Your Church along the Rhine and among the Low Countries, grant through his intercession that the Gospel may take root in every land and that we may build upon the foundation he laid. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maternus_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

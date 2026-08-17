@@ -1,0 +1,25 @@
+{
+  "slug": "euphemia",
+  "name": "St. Euphemia",
+  "feastDay": "09-16",
+  "bio": "Euphemia, honored in the East as the Great-martyr Euphemia the All-praised, was a virgin martyr who suffered for her faith at Chalcedon during the persecution of Diocletian. Born of a noble Christian family, she consecrated her virginity to Christ and refused to abandon him, even under threat of terrible torments.\n\nShe was arrested and endured rack, fire, and the beasts, finally being killed in the arena around the year 303 AD. Her relics were later enshrined at Chalcedon, where in 451 the historic Council of Chalcedon is said to have been validated by a miracle involving her: when the two competing confessions of faith were placed in her tomb, her relics were found the next morning clasping the orthodox statement, a sign revered by Christians ever after.\n\nHer feast has long been kept on September 16 in both East and West. Venerated at the great shrine in Rovinj, Croatia, and at the Patriarchal Cathedral in Istanbul, she is invoked as a patron of the Church's unity in doctrine and of those who witness to the truth.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin martyr Euphemia with the palm of victory and made her a defender of the orthodox faith, grant through her intercession that Your Church may be preserved in the truth and held together in undivided unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphemia"
+  ],
+  "featured": false,
+  "draft": false
+}

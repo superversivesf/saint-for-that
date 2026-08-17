@@ -1,0 +1,25 @@
+{
+  "slug": "faustinus-of-brescia",
+  "name": "St. Faustinus of Brescia",
+  "feastDay": "02-15",
+  "bio": "Faustinus became bishop of Brescia in northern Italy around the year 360, succeeding Ursicinus on that ancient see. He governed the Church of Brescia in a turbulent age, when the Arian controversy still divided the faithful and the legacy of the great Council of Nicaea had to be defended in city after city.\n\nHe was a friend of St. Ambrose, who preached at his funeral and praised his integrity and zeal. Under Faustinus the Church of Brescia held firm to the orthodox faith, and he was remembered as a pastor who cared for his people and preserved the unity of his see through years of trial. He died around 381, and his feast has been kept on February 15 in the Roman Church and on February 16 in the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Faustinus to guard the faith of Brescia and preserve your Church in unity, grant through his intercession that all pastors may stand firm in the truth and lead your people in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustinus_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

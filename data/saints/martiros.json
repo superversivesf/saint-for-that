@@ -1,0 +1,25 @@
+{
+  "slug": "martiros",
+  "name": "St. Martiros",
+  "feastDay": "unknown",
+  "bio": "Saint Martiros, also known as Mardiros, was the son of Saint Sarkis the Warrior, a renowned Christian soldier and martyr of the fourth century. Martiros was canonized alongside his father and is honoured in the Armenian and Syriac traditions as a confessor of the faith raised within a household wholly given to Christ.\n\nLittle detailed hagiography survives, but the devotion surrounding him celebrates the witness of a Christian family in an age of empire-wide persecution, when the profession of the Gospel could cost a soldier his rank, his freedom, and his life. The name Martiros itself, derived from the Greek word for witness or martyr, points to the vocation of testimony at the heart of his memory.\n\nHe is remembered with Sarkis as a model of filial faith and steadfastness, honoured among the saints of the early Armenian Church.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Martiros within the household of the warrior Sarkis to witness to Your name, grant through his intercession that Christian families may stand firm in faith and hand on the Gospel from one generation to the next. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Martiros"
+  ],
+  "featured": false,
+  "draft": false
+}

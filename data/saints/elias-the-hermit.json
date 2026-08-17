@@ -1,0 +1,29 @@
+{
+  "slug": "elias-the-hermit",
+  "name": "St. Elias the Hermit",
+  "feastDay": "01-08",
+  "bio": "Venerable Elias the Hermit was a desert-dwelling monk of the fourth century AD, one of the fathers who carried the ascetic life into the mountains and caves of Egypt. He led the ascetic life for seventy-five years in a mountain cave, wrestling with the elements and with his own heart, and he is recorded to have lived one hundred and ten years.\n\nElias belongs to the great generation of desert fathers who sought God in silence and solitude, turning their backs on the cities and the applause of the world. His long life of penance and prayer made him a living witness to the discipline that shaped the monastic tradition of the East and, through it, the whole Church.\n\nHe is invoked as a patron of hermits, of contemplatives, and of all who seek God in silence and solitude, a reminder that the deepest battles are fought and won in the cave of the heart.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Elias the Hermit to seek you in the silence of the desert for seventy-five years, grant through his intercession that all who long for contemplation may find in solitude the depth of your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

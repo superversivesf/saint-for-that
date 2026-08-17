@@ -1,0 +1,25 @@
+{
+  "slug": "frumentius",
+  "name": "St. Frumentius",
+  "feastDay": "12-27",
+  "bio": "Frumentius was a Phoenician Christian missionary and the first bishop of Axum, who brought the Christian faith to the Kingdom of Aksum in what is now Ethiopia and Eritrea. According to the historian Rufinus, Frumentius and his brother Edesius were shipwrecked on the Aksumite coast as boys and taken into the royal household, where Frumentius rose to become a trusted servant of the king.\n\nAs a Christian in a pagan court, he encouraged the faith among Christian merchants and planted the seeds of the Gospel. He later sought out St. Athanasius of Alexandria, who ordained him bishop and sent him back to Aksum around the year 330.\n\nFrumentius returned and won the king and many of his people to Christ. Known as Abuna, Father of Peace, he is honored as the founder of the ancient Ethiopian Church.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Frumentius to carry the Gospel to the Kingdom of Aksum and made him the father of the Church in Ethiopia, grant through his intercession that missionaries may labour faithfully among every people and that all nations may come to know the peace of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frumentius"
+  ],
+  "featured": false,
+  "draft": false
+}

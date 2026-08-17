@@ -1,0 +1,29 @@
+{
+  "slug": "liberalis-of-treviso",
+  "name": "St. Liberalis of Treviso",
+  "feastDay": "04-27",
+  "bio": "Saint Liberalis of Treviso is honored as a priest and confessor of the fourth century, a time when the Church, though freed from the worst of the imperial persecutions, was shaken by the errors of Arianism. Tradition relates that Liberalis gave himself to the defense of the orthodox faith and that he suffered persecution for his witness at Ancona.\n\nHe is venerated in the region of Treviso and in Castelfranco Veneto, where his memory has been kept for centuries. His cult is that of a faithful priest who would not surrender the truth of Christ's divinity when it was denied by those around him.\n\nLiberalis is remembered as a confessor who bore hardship for the faith, a defender of the Church's doctrine in an age of controversy, whose witness encouraged the faithful to hold fast to the truth.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "jobs"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your priest Liberalis to confess the divinity of your Son against the errors of his time, grant through his intercession that we may hold fast to the truth and bear with patience whatever hardship confessing it may bring. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liberalis_of_Treviso"
+  ],
+  "featured": false,
+  "draft": false
+}

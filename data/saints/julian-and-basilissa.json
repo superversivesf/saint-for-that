@@ -1,0 +1,25 @@
+{
+  "slug": "julian-and-basilissa",
+  "name": "St. Julian and Basilissa",
+  "feastDay": "01-09",
+  "bio": "Julian and Basilissa were husband and wife, venerated as saints and martyrs in both the Roman Catholic and the Eastern Orthodox Churches. Married in the early centuries of the Church, they are said to have lived in mutual continence, devoting themselves to prayer and works of charity while preserving the bond of their union. Their household became a refuge for the sick and the stranger, a living image of the Gospel lived within marriage.\n\nThey suffered martyrdom in the reign of the Emperor Diocletian, early in the fourth century, at either Antioch or, more probably, at Antinoe in Egypt. The Roman Martyrology records their feast on the sixth of January, while the Greek Menaia keep it on the eighth. Basilissa in particular has been invoked by the faithful against chilblains, the painful inflammation of the skin caused by cold.\n\nTogether Julian and Basilissa stand as patrons of married couples who seek to sanctify their union through mutual devotion and self-giving, and of those who endure the hardships of winter and cold for love of Christ.",
+  "patronages": [
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "engaged couples",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who joined St. Julian and Basilissa in a holy marriage and crowned them with martyrdom, grant through their intercession that Christian spouses may grow in mutual love and that all who suffer from cold and affliction may find relief and healing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julian_and_Basilissa"
+  ],
+  "featured": false,
+  "draft": false
+}

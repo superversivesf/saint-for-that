@@ -1,0 +1,25 @@
+{
+  "slug": "felix-of-trier",
+  "name": "St. Felix of Trier",
+  "feastDay": "unknown",
+  "bio": "Felix of Trier served as bishop of Trier, the great see on the Moselle, from around 386 to 398. He governed that Church in the years after St. Ambrose had begun his episcopate in Milan and when the legacy of Athanasius was still being vindicated across the Western provinces. Trier in that age was an imperial residence, a city where emperors held court and the Church had to navigate both imperial power and lingering Arian division.\n\nFelix succeeded to the see after a difficult period and is counted among the bishops who steadied the Church of the Rhineland in the late fourth century. He died in office around 398, leaving his memory to the local Church, which venerated him as a saint. The exact date of his feast has not been preserved in the universal calendar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Felix to guide the Church of Trier through the trials of an imperial age, grant through his intercession that all bishops may shepherd your people with wisdom and keep the unity of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

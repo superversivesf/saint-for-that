@@ -1,0 +1,25 @@
+{
+  "slug": "dorotheus-of-tyre",
+  "name": "St. Dorotheus of Tyre",
+  "feastDay": "06-05",
+  "bio": "Saint Dorotheus, bishop of Tyre, is traditionally credited with compiling an Acts of the Seventy Apostles, the disciples sent out by Christ according to the Gospel of Luke, chapter ten. He is honoured as a learned pastor of the early Church who laboured to preserve the memory of the first witnesses of the Gospel.\n\nAs bishop of Tyre, a great and ancient see of Phoenicia, Dorotheus governed a flock that stood at the crossroads of the Greek, Roman, and Jewish worlds. His work on the Seventy Apostles reflects the zeal of the early Church to guard the apostolic foundation upon which all later teaching and ministry was built.\n\nHe is invoked as a patron of scholars and of all who labour to preserve the memory of the Church's beginnings, a witness to the unbroken chain that links the age of the apostles to the age of the bishops.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Dorotheus of Tyre a faithful bishop and a careful keeper of the apostolic memory, grant through his intercession that all who study the origins of the Church may be grounded in the witness of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorotheus_of_Tyre"
+  ],
+  "featured": false,
+  "draft": false
+}

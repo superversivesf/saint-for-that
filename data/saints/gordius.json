@@ -1,0 +1,25 @@
+{
+  "slug": "gordius",
+  "name": "St. Gordius",
+  "feastDay": "01-03",
+  "bio": "Saint Gordius was a Christian soldier in the Roman army in Cappadocia before the Edict of Milan. When the persecution of Christians fell upon the army, Gordius was dismissed for refusing to sacrifice to the pagan gods. He withdrew into the wilderness and lived as a hermit, giving himself to prayer and penance.\n\nIn time, he felt the call to make an open declaration of his faith. He returned from his solitude to Caesarea Maritima and there, before the magistrates and the crowds, boldly confessed himself a Christian. For this public witness he was condemned and put to death, sealing his confession with his blood.\n\nHe is commemorated on January 3 in both the Eastern Orthodox and Roman Catholic Churches. St. Basil praised the soldier who laid down his arms to take up the cross.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Gordius the courage to lay down the soldier's sword and to confess your name before the magistrates of Caesarea, grant through his intercession that all who serve in arms may honor the higher law of conscience and that all who are tempted to hide their faith may boldly proclaim your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Gordius"
+  ],
+  "featured": false,
+  "draft": false
+}

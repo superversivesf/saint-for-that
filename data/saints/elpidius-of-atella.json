@@ -1,0 +1,25 @@
+{
+  "slug": "elpidius-of-atella",
+  "name": "St. Elpidius of Atella",
+  "feastDay": "05-24",
+  "bio": "Elpidius, known in Italian as Elpidio, served as bishop of the ancient city of Atella in Campania during the fifth century. He is recorded as having governed the see from about the year 432 for roughly two decades, shepherding his flock through a turbulent period that followed the upheavals of the late Roman era.\n\nThough few details of his life survive, his long and faithful episcopacy is itself a quiet witness to perseverance in pastoral care at a time when bishops were often the sole stabilizing presence in their cities. Tradition honors him as a saintly shepherd who held his church together amid political uncertainty and the disruptions that accompanied the decline of imperial authority in the region.\n\nHis memory endured in the local devotion of Campania, where later Christian communities continued to invoke him as a fatherly protector of their churches and towns.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Elpidius grace to govern your Church at Atella with steadfast faith through troubled times, grant through his intercession that all bishops may shepherd their people with the same fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elpidius_of_Atella"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "leontius-of-caesarea",
+  "name": "St. Leontius of Caesarea",
+  "feastDay": "01-13",
+  "bio": "Leontius of Caesarea was a bishop of Caesarea Mazaca in Cappadocia, the great see of the early Church in Asia Minor. He served in the generation that saw the Church emerge from persecution into the age of councils, and he took his place among the bishops who defended the orthodox faith.\n\nLeontius was a childhood friend of Gregory the Illuminator, the apostle of Armenia. When Gregory's mission bore fruit and the Armenians turned to Christ, it was Leontius who consecrated Gregory patriarch of the Armenians, linking Cappadocia and Armenia in a shared labor.\n\nHe also attended the First Council of Nicaea in 325, where the Church confessed the divinity of the Son against the errors of Arius. His feast on January 13 honors a bishop who stood in the gatherings that shaped the Church's doctrine.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Leontius a witness to the truth at the Council of Nicaea and a friend of Gregory the apostle of Armenia, grant through his prayers that your Church may confess your Son in unity and hand on the faith to every nation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontius_of_Caesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

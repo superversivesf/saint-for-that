@@ -1,0 +1,29 @@
+{
+  "slug": "marcellina",
+  "name": "St. Marcellina",
+  "feastDay": "07-17",
+  "bio": "Marcellina was born in Trier, Gaul, the daughter of the Praetorian prefect of Gaul, and elder sister of Ambrose of Milan and Satyrus of Milan. Raised in a prominent Christian family, she devoted herself as a consecrated virgin to a life of prayer, fasting, and asceticism—a rare and countercultural vocation in the fourth century.\n\nOn Christmas Day 353 or 354, Pope Liberius personally placed the veil of virginity upon her in St. Peter's Basilica in Rome, a moment that helped shape the early Church's understanding of the consecrated life for women. She remained a spiritual companion and counsellor to her brother Ambrose, who often sought her guidance and dedicated theological writings to her.\n\nMarcellina is remembered as a pioneer of the vowed life of virginity within the Church, embodying quiet fidelity and prayer. Her feast is celebrated on 17 July.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Marcellina to the vowed life of virginity and made her a light of prayer and counsel within her family and Your Church, grant through her intercession that we may consecrate ourselves to You with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Marcellina"
+  ],
+  "featured": false,
+  "draft": false
+}

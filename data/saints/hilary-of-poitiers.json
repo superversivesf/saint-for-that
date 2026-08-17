@@ -1,0 +1,29 @@
+{
+  "slug": "hilary-of-poitiers",
+  "name": "St. Hilary of Poitiers",
+  "feastDay": "01-13",
+  "bio": "Hilary was born in Poitiers in the early fourth century to a pagan family of rank and learning. After a searching study of philosophy and Scripture he was drawn to the Christian doctrine of the Incarnation and was baptized along with his wife and daughter. The clergy and people of Poitiers, though still largely pagan, elected him bishop around 350.\n\nAs bishop he became a resolute defender of the divinity of Christ against the Arian heresy that then dominated much of the Empire. Exiled by the emperor Constantius II for his orthodoxy, Hilary used the years of banishment to write his great work On the Trinity, earning him the titles \"Hammer of the Arians\" and \"Athanasius of the West.\" His daughter Abra, consecrated to virginity, became a saint in her own right.\n\nHilary died around 367 and is honored as a Doctor of the Church, a champion of Trinitarian orthodoxy, and a patron of those who study and defend the faith.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Hilary of Poitiers to confess the divinity of your Son and to defend the mystery of the Trinity, grant through his intercession that we may hold fast to the Catholic faith and proclaim it with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "horsiesius",
+  "name": "St. Horsiesius",
+  "feastDay": "unknown",
+  "bio": "Horsiesius was a fourth-century Egyptian Christian monk who became the second head of the Pachomian monasteries, the great communal foundation established by St. Pachomius in Upper Egypt. He governed the federation of monasteries from 346 to 350 and again from 368 to 387, overseeing the orderly life of thousands of monks who shared all things in common.\n\nHis leadership came at a difficult time, following the death of Pachomius and the challenge of preserving the rule and discipline the founder had established. Though he himself sought the obscurity of the solitary cell, obedience called him again to the service of the community, and he proved a faithful steward of the cenobitic ideal.\n\nHorsiesius is honored as a saint by the Coptic Orthodox Church as a successor of Pachomius and a pillar of the early monastic movement in Egypt.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Horsiesius to govern the monasteries of Pachomius and to preserve the common life of your servants, grant through his intercession that those who live in community may grow in charity and persevere in obedience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Horsiesius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "eugenios-of-trebizond",
+  "name": "St. Eugenios of Trebizond",
+  "feastDay": "01-21",
+  "bio": "Saint Eugenios, the patron of Trebizond, was a martyr who suffered under the persecution of the Emperor Diocletian at the turn of the fourth century. According to tradition, he was a soldier or an official of the Roman presence along the remote coast of the Black Sea who refused to renounce his Christian faith and so laid down his life for the name he confessed.\n\nA flourishing cult devoted to Eugenios developed in the city of Trebizond, and his memory became inseparable from the identity of that place. For centuries the citizens, especially the leaders of the Empire of Trebizond, invoked him as their heavenly protector and champion, crediting his intercession for the city's deliverance from enemies and disasters.\n\nAfter the long centuries of that Greek-speaking empire and beyond, the saint remained a guardian of the Pontic Greek people, who carried his veneration into exile following the upheavals of the early twentieth century. He is honored as a steadfast witness to the faith in the farthest reaches of the ancient Christian world.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Eugenios the courage to die rather than forsake the faith, and who made him a protector of the city that honored him, grant through his intercession that all who defend the weak may be strengthened in justice and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugenios_of_Trebizond"
+  ],
+  "featured": false,
+  "draft": false
+}

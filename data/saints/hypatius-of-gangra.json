@@ -1,0 +1,29 @@
+{
+  "slug": "hypatius-of-gangra",
+  "name": "St. Hypatius of Gangra",
+  "feastDay": "03-31",
+  "bio": "Hypatius was bishop of Gangra in Asia Minor, a city in the province of Paphlagonia. He was present at the First Ecumenical Council of Nicaea in 325, where he joined St. Athanasius and the other orthodox fathers in defending the divinity of Christ against the Arian heresy.\n\nReturning from the council, Hypatius was attacked and killed by a group of heretics, traditionally said to be Novatians whom he had rebuked, making him a martyr for the faith. His relics were venerated in Gangra, and his cult spread widely in both East and West.\n\nThe Eastern Orthodox Church celebrates his feast on March 31 and the Roman Catholic Church on November 14. He is honored as a bishop-martyr who confessed the Nicene faith at the cost of his life.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Hypatius with martyrdom after he confessed your Son's divinity at Nicaea, grant through his intercession that we may stand firm for the truth and find in you our shield and protector. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hypatius_of_Gangra"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "ephrem-the-syrian",
+  "name": "St. Ephrem the Syrian",
+  "feastDay": "unknown",
+  "bio": "Ephrem the Syrian, also called Ephraem the Deacon, Ephrem of Edessa, or Aprem of Nisibis, was one of the most luminous figures of the early Syriac Church and arguably its greatest poet. Born at Nisibis in the early fourth century, he served as a deacon and never sought higher orders, pouring his extraordinary gifts instead into hymns, homilies, and commentaries that carried the truths of faith deep into the hearts of ordinary people.\n\nWhen the city of Nisibis was ceded to the Persians in 363, Ephrem led an exodus of Christians to Edessa, where he continued to write and to teach. There he composed vast quantities of verse, including the Hymns on Paradise and Hymns Against Heresies, instructing the faithful and defending the Church against false teaching with a beauty of language that has never been surpassed in Syriac literature.\n\nHe is said to have died while ministering to plague victims in the famine of 373, faithful to the end. Revered as a Doctor of the Church, he is honored as a patron of spiritual directors and spiritual leaders, having spent his life shepherding souls through the gentle power of poetry and song.",
+  "patronages": [
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "jobs"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ephrem the Syrian a mighty harp of the Holy Spirit and a teacher of the faithful, grant through his intercession that we may sing Your praises with sincere hearts and walk the path of truth under the guidance of wise shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "aelia-flaccilla",
+  "name": "St. Aelia Flaccilla",
+  "feastDay": "09-14",
+  "bio": "Aelia Flavia Flaccilla, known simply as Flaccilla, was a Roman empress of Hispanian descent and the first wife of the Emperor Theodosius I, who ruled the Eastern and then the whole Roman Empire in the late fourth century. She was married to Theodosius before his accession and bore him two sons, the future emperors Arcadius and Honorius, and a daughter, Aelia Pulcheria.\n\nAs empress, Flaccilla was noted for her piety and her care for the poor. The Church historian Sozomen praised her for her humility and for her active charity toward the afflicted, and Gregory of Nyssa delivered a homily at her funeral extolling her faith and her works of mercy. She died around 386, while still young, and was honored as a saint. Her feast has been kept on September 14 in the Eastern tradition.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the empress St. Aelia Flaccilla a heart for the poor and a faith that adorned her high station, grant through her intercession that those who hold earthly power may use it for mercy and that mothers may raise their children in your fear and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aelia_Flaccilla"
+  ],
+  "featured": false,
+  "draft": false
+}

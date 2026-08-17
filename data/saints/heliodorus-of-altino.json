@@ -1,0 +1,21 @@
+{
+  "slug": "heliodorus-of-altino",
+  "name": "St. Heliodorus of Altino",
+  "feastDay": "07-03",
+  "bio": "Heliodorus was born in Dalmatia in the fourth century and became a disciple of Valerianus, bishop of Aquileia, alongside his friend Chromatius. Drawn to the ascetic and pastoral ideals of the Church of Aquileia, he was consecrated the first bishop of Altinum, a city on the lagoons near what would become Venice.\n\nAs bishop he shepherded a flock threatened by pagan customs and by the Arian controversy that troubled the age. He is remembered as a faithful pastor and a friend of the great bishops who defended Nicene faith in northern Italy, and tradition associates him with the early evangelization of the lagoon communities.\n\nHeliodorus died in the early fifth century and is venerated as a founder-bishop of the Veneto, honored especially in Altino and Torcello.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Heliodorus a faithful shepherd of your people at Altino and a defender of the orthodox faith, grant through his intercession that bishops may stand firm in truth and guide their flocks with love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+  ],
+  "featured": false,
+  "draft": false
+}

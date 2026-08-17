@@ -1,0 +1,29 @@
+{
+  "slug": "pope-julius-i",
+  "name": "St. Julius I",
+  "feastDay": "04-12",
+  "bio": "Pope Julius I served as bishop of Rome from the sixth of February, 337, until his death on the twelfth of April, 352. He inherited a Church torn by the Arian controversy, that long dispute over the divinity of Christ which divided East and West and tested the foundations of Christian doctrine. Into this storm Julius brought a steady hand and a firm defense of the orthodox faith.\n\nWhen St. Athanasius was deposed from his see as patriarch of Alexandria by Arian bishops, he appealed to Julius, who examined the case and judged the deposition unjust. Julius supported Athanasius and worked for his restoration, asserting the authority of the Roman see over the proceedings of the Eastern bishops. He was also traditionally credited with setting the twenty-fifth of December as the official observance of the Nativity of the Lord in the Roman Church.\n\nHonored as a saint, Julius I is remembered as a defender of orthodoxy, a guardian of due process in ecclesiastical affairs, and a pope who strengthened the bonds of unity in a fractured age.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Julius I to defend the orthodox faith and to uphold the just cause of Athanasius, grant through his intercession that Your Church may be preserved in unity and truth and that her shepherds may govern with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Julius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

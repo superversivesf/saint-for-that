@@ -1,0 +1,29 @@
+{
+  "slug": "pope-eusebius",
+  "name": "St. Pope Eusebius",
+  "feastDay": "08-17",
+  "bio": "Pope Eusebius was the bishop of Rome from the eighteenth of April 309 until his exile on the seventeenth of August 310, a pontificate measured in months rather than years. He ascended the chair of Peter in the brief lull after the terrible persecution of Diocletian, and his short reign was consumed by one of the most painful disputes of the age: how to receive back those Christians who had weakened under torture and denied the faith.\n\nEusebius held that the lapsed, after doing fitting penance, could be reconciled to the Church, a position of mercy that put him at odds with the rigorist party led by Heraclius, who would admit no such return. The strife grew so sharp that the Emperor Maxentius banished them both, pope and opponent alike, and Eusebius ended his days in exile in Sicily, where he died on the very day of his banishment.\n\nHis successor, Pope Miltiades, brought his relics back to Rome and laid them in the cemetery of Calixtus. He is honored as a patron of those who seek reconciliation and of pastors who bear the burden of merciful discipline.",
+  "patronages": [
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Eusebius a shepherd's heart to seek the lost and a confessor's courage to suffer for the truth, grant through his intercession that we may show mercy to those who fall and bear with patience every trial for the sake of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Eusebius"
+  ],
+  "featured": false,
+  "draft": false
+}

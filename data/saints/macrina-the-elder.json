@@ -1,0 +1,29 @@
+{
+  "slug": "macrina-the-elder",
+  "name": "St. Macrina the Elder",
+  "feastDay": "01-14",
+  "bio": "Saint Macrina the Elder was a Christian noblewoman of Pontus in Asia Minor who lived through the persecutions of the third century and became the matriarch of one of the most remarkable families in Church history. She and her husband suffered for the faith under Galerius, hiding for years in forests to preserve their lives and confession. After the peace of the Church, she became the mother of Basil the Elder and the grandmother of Basil the Great, Gregory of Nyssa, Peter of Sebaste, and Macrina the Younger, shaping the formation of saints who would shape theology forever. A disciple of Saint Gregory Thaumaturgus, she planted a tradition of faith and prayer that bore fruit across generations. Honoured as a model of widowhood and trust in Providence, she is invoked by widows and the poor.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "grandparents",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Saint Macrina the Elder through persecution and loss and made her the mother of a family of saints, grant through her intercession that widows and all who live in poverty may find in You their portion and their hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macrina_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

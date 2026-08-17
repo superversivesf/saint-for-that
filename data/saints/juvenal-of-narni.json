@@ -1,0 +1,25 @@
+{
+  "slug": "juvenal-of-narni",
+  "name": "St. Juvenal of Narni",
+  "feastDay": "05-03",
+  "bio": "Saint Juvenal is venerated as the first Bishop of Narni in Umbria and as one of the earliest heralds of the Gospel in central Italy. Historical details of his life are limited, and a later Vita written after the seventh century adds legendary elements of little historical value, but his cult is ancient and continuous.\n\nThat Vita relates that Juvenal was born in Africa, ordained by Pope Damasus I, and established as first bishop of Narni, with burial on the Via Flaminia on August 7, though the Church keeps his feast on May 3.\n\nThe martyrologies of Florus of Lyon and of Ado describe Juvenal as a bishop and confessor rather than a martyr. He is remembered therefore as a faithful pastor who served the young Church of Narni with quiet perseverance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your bishop Juvenal to be the first shepherd of the Church of Narni and made him a confessor of the faith, grant through his intercession that our pastors may serve you with quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juvenal_of_Narni"
+  ],
+  "featured": false,
+  "draft": false
+}

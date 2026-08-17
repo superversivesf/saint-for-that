@@ -1,0 +1,25 @@
+{
+  "slug": "helladius-of-auxerre",
+  "name": "St. Helladius of Auxerre",
+  "feastDay": "05-08",
+  "bio": "Helladius served as bishop of Auxerre in Gaul for thirty years, from 357 until his death around 387. He governed the see during a decisive period for the consolidation of Christianity in Roman Gaul, shepherding a diocese that would become one of the most venerated in early medieval France.\n\nAmong his notable acts, Helladius converted Amator to the Christian faith, ordained him a deacon, and tonsured him, providing the earliest example of ecclesiastical tonsure recorded in the religious history of France. Amator would himself later become bishop of Auxerre and is honored as a saint.\n\nHelladius is remembered as a steady pastor who nurtured vocations and helped root the Church in the soil of Gaul, leaving a legacy of faith that endured through the centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Helladius to govern your Church at Auxerre and to form new laborers for your vineyard, grant through his intercession that those ordained to your service may be conformed to Christ the Servant. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helladius_of_Auxerre"
+  ],
+  "featured": false,
+  "draft": false
+}

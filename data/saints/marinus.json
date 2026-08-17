@@ -1,0 +1,29 @@
+{
+  "slug": "marinus",
+  "name": "St. Marinus",
+  "feastDay": "09-03",
+  "bio": "Saint Marinus, according to hagiographical tradition recorded centuries after his lifetime, was a stonemason and deacon who fled religious persecution in the Roman province of Dalmatia around the year 257. Finding refuge on Mount Titano in the Apennines, he built a small chapel and, in 301, founded a monastery whose community would in time grow into the Republic of San Marino, the oldest surviving sovereign state and constitutional republic in the world.\n\nMarinus was known for his skill as a craftsman, his preaching among the mountain people, and his defence of the poor and the falsely accused. Tradition holds that he received the sacraments from a wandering bishop, lived a life of austere labour, and died as a confessor of the faith.\n\nHe is honoured as the patron of bachelors, deacons, falsely accused people, and of the Republic of San Marino. His feast is celebrated on 3 September.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "jobs"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Marinus from his craft as a stonemason to build a refuge of faith upon the mountain, grant through his intercession that the falsely accused may find justice and that we may labour faithfully for Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Marinus"
+  ],
+  "featured": false,
+  "draft": false
+}

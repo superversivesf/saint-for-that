@@ -1,0 +1,25 @@
+{
+  "slug": "euverte-d-orl-ans",
+  "name": "St. Euverte d'Orléans",
+  "feastDay": "09-07",
+  "bio": "Euverte d'Orléans, also known as St. Euverte, Evurtius, Evortius, or Eortius, was the fourth Bishop of Orléans in the fourth century, one of that line of Gallic bishops who built up the Church in Gaul after the peace of Constantine. He shepherded the diocese of Orléans in the decades when Christianity was putting down deep roots in the Loire valley.\n\nAccording to the tradition of his see, he was a man of learning and of humble pastoral care, who governed the church committed to him with wisdom and who worked to establish the faith among a people still half-attached to the old pagan ways. He is said to have been a friend of St. Evurtius of Sens and to have shared in that great work of planting the Gospel in the countryside of Gaul.\n\nHis feast has long been kept at Orléans on September 7, where his memory was honored for centuries as one of the early builders of that local church. He is invoked as a patron of bishops and of those who labor quietly to build up the Church in places where it is still young.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Euverte a wise bishop of the church of Orléans and a planter of the faith in Gaul, grant through his intercession that those who shepherd Your people may build them up in holiness and lead them to the fullness of truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euverte_d'Orl%C3%A9ans"
+  ],
+  "featured": false,
+  "draft": false
+}

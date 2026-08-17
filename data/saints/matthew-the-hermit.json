@@ -1,0 +1,29 @@
+{
+  "slug": "matthew-the-hermit",
+  "name": "St. Matthew the Hermit",
+  "feastDay": "09-18",
+  "bio": "Saint Matthew the Hermit was a fourth-century Christian priest who embraced the eremitical life in the deserts and mountains of the Syriac-speaking East, where the ascetic tradition ran deep. He is venerated as a saint in the Syriac Orthodox Church, which has preserved the memory of the desert fathers with particular care.\n\nMatthew devoted himself to prayer, fasting, and solitude, the classic disciplines of the hermit's calling, and as a priest he would have served the sacramental needs of those who sought him out in the wilderness for counsel and confession. His life belongs to that great fourth-century flowering of monastic and eremitic witness by which the Church discovered anew the radical demands of the Gospel.\n\nFew details of his life survive, but his feast on 18 September marks the honour given to him by generations of faithful. He is remembered as a model of contemplative prayer and priestly simplicity.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "jobs"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Matthew the Hermit into the solitude of the desert and made him a priest of prayer for those who sought him there, grant through his intercession that we may learn to rest in Your presence and serve You with a quiet heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthew_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

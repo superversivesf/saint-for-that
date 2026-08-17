@@ -1,0 +1,29 @@
+{
+  "slug": "emmelia-of-caesarea",
+  "name": "St. Emmelia of Caesarea",
+  "feastDay": "01-01",
+  "bio": "Emmelia of Caesarea was born in the late third or early fourth century, into a world where the spread of Christianity posed a growing challenge to pagan Roman rule. She married Basil the Elder, himself a man of faith, and together they became the parents of one of the most remarkable families in the history of the Church.\n\nShe bore nine or ten children, among them Basil of Caesarea, the great theologian and bishop; Gregory of Nyssa, another Doctor of the Church; Peter of Sebaste, later a bishop; Naucratius, an ascetic who died young; and Macrina the Younger, revered as a model of sanctity. Emmelia raised them all in the Christian faith amid the trials of the age, and her patient motherhood bore fruit in the holiness of nearly an entire household of saints.\n\nAfter the death of her husband she followed Macrina into a life of prayer and ascetic discipline, forming a community on the family estate at Annesi. She is honored as a model of Christian motherhood, having offered her children not only to the world but to the service of God.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed St. Emmelia with the grace of motherhood and made her the parent of a household of saints, grant through her intercession that all mothers may raise their children in the fear and love of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emmelia_of_Caesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "dorothea-of-caesarea",
+  "name": "St. Dorothea of Caesarea",
+  "feastDay": "02-06",
+  "bio": "Dorothea of Caesarea is a fourth-century virgin martyr who was executed at Caesarea Mazaca in Cappadocia during the late Diocletianic Persecution. Sentenced to death for refusing to sacrifice to the pagan gods, she went to her execution with joy, and the legend tells that a child brought her roses and apples from paradise as a sign of the reward that awaited her.\n\nThough the historical evidence for her life is sparse, her cult spread widely through both East and West, and she became one of the most beloved of the virgin martyrs, named in the Roman Canon of the Mass alongside Agnes, Lucy, and Cecilia. She is honoured as a patron of gardeners, florists, brides, and newlyweds.\n\nShe is invoked as a patron of horticulture and brewers, and of those who seek love and fruitfulness, a witness that the winter of suffering yields to the spring of paradise.",
+  "patronages": [
+    {
+      "need": "gardeners",
+      "category": "nature"
+    },
+    {
+      "need": "brides",
+      "category": "family"
+    },
+    {
+      "need": "brewers",
+      "category": "jobs"
+    },
+    {
+      "need": "engaged couples",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Dorothea of Caesarea grace to greet her martyrdom with joy and to behold the roses of paradise, grant through her intercession that all who labour among growing things and all who prepare for marriage may see in you the source of every fruitfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

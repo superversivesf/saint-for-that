@@ -1,0 +1,25 @@
+{
+  "slug": "mansuetus-bishop-of-toul",
+  "name": "St. Mansuetus",
+  "feastDay": "09-03",
+  "bio": "Saint Mansuetus was the first Bishop of Toul in Lorraine, a see that would become one of the great bishoprics of northeastern France. According to tradition, he was born in Scotland or Ireland and travelled to the continent as a missionary bishop in the middle of the fourth century, bringing the Christian faith to a region still dotted with pagan shrines. Said to have been consecrated by the Pope, he was sent to evangelise the lands along the Moselle, where he preached the Gospel, baptised converts, and established the first Christian community at Toul. As the founding bishop of the see, he laid the foundations upon which centuries of ministry would be built, and his memory was cherished as that of an apostle to Lorraine. He died around 375 and was buried at Toul, his feast on 3 September.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Mansuetus as the first bishop of Toul to plant the Gospel in a distant land, grant through his intercession that the Church may never lack shepherds willing to carry the faith to those who have not heard. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mansuetus_(bishop_of_Toul)"
+  ],
+  "featured": false,
+  "draft": false
+}

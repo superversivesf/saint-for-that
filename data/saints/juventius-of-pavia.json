@@ -1,0 +1,25 @@
+{
+  "slug": "juventius-of-pavia",
+  "name": "St. Juventius of Pavia",
+  "feastDay": "02-08",
+  "bio": "Saint Juventius, whose name is also rendered Eventius, Iventius, or Inventius, was a bishop of Pavia during the fourth century, holding that see for thirty-nine years. According to tradition, he was sent to Pavia together with Saint Syrus by Saint Hermagoras of Aquileia to evangelize the city and to plant the Christian faith among its people.\n\nThere they founded the bishopric of Pavia, with Syrus serving as first bishop and Juventius succeeding him in that office. Juventius is counted among the early apostolic bishops of northern Italy, who labored in the age when the Church was passing from persecution to peace.\n\nHe is remembered as a steadfast shepherd who guided the Church of Pavia through decades of change and growth, shaping that Church for generations to come.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Juventius to found the Church of Pavia and to labor there for many years, grant through his prayers that all who are given the work of the Gospel may persevere in it to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juventius_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

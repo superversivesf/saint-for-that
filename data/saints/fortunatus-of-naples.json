@@ -1,0 +1,25 @@
+{
+  "slug": "fortunatus-of-naples",
+  "name": "St. Fortunatus of Naples",
+  "feastDay": "06-14",
+  "bio": "Fortunatus of Naples was a fourth-century Christian bishop and the first historically-attested holder of the see of Naples. He appears in the documentary record as one of the recipients of a letter circulated by bishops who took part in the Arian Council of Philippopolis in the 340s, an assembly aligned with imperial theology that orthodox bishops refused to accept.\n\nThe local tradition of Naples remembers Fortunatus as a fierce opponent of Arianism, the teaching that denied the full divinity of the Son. When emperors pressed bishops to compromise on Nicaea, he stood firm.\n\nHonored at Naples on June 14, he is remembered as a confessor of the true doctrine of Christ and a steadfast witness in an age of doctrinal turmoil. His term as bishop is traditionally held to run from about 347 to 359.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Fortunatus the courage to defend the true divinity of your Son against the errors of his age, grant through his intercession that all bishops may stand firm in the faith and that your Church may be preserved in unity and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fortunatus_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

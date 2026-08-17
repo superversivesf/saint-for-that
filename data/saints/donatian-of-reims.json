@@ -1,0 +1,25 @@
+{
+  "slug": "donatian-of-reims",
+  "name": "St. Donatian of Reims",
+  "feastDay": "unknown",
+  "bio": "Donatian of Reims was a fourth-century French saint and the eighth Bishop of Reims, governing that ancient see in the formative generations after the faith first reached Gaul. He belonged to the line of early Gallic bishops who consolidated the Church in northern France and prepared the ground from which the great see of Reims would later crown the kings of the Franks.\n\nThough the details of his life are veiled by the distance of centuries, Donatian is venerated as a faithful pastor who tended his flock in the days when the Church was still young in Gaul. His memory was preserved by the faithful of Reims, who honoured him among the founding bishops of their church.\n\nHe is invoked as a patron of bishops and of all who carry forward the work of planting the Gospel in new lands.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Donatian a faithful bishop of Reims in the early days of the Church in Gaul, grant through his intercession that the Gospel may take root and flourish in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donatian_of_Reims"
+  ],
+  "featured": false,
+  "draft": false
+}

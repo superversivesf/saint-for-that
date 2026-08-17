@@ -1,0 +1,25 @@
+{
+  "slug": "elen",
+  "name": "St. Elen",
+  "feastDay": "unknown",
+  "bio": "Saint Elen, often anglicized as Helen, was a late fourth-century founder of churches in Wales. Although never formally canonized by Rome, Elen is traditionally considered a saint in the Welsh Church, and in English she is sometimes known as Saint Helen of Caernarfon, to distinguish her from Saint Helena the mother of Constantine.\n\nElen is remembered as a woman of noble birth who used her standing to establish churches across the mountains and valleys of north Wales, planting the Gospel in places where it had scarcely been heard. Her legacy is bound up with the holy wells and ancient chapels that dot the Welsh landscape, signs of a faith older than any official decree.\n\nShe is invoked as a patron of the Welsh and of all who found and sustain churches in remote places, a mother of the faith in the Celtic lands.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Elen a planter of churches among the hills of Wales, grant through her intercession that your Gospel may take root in every remote and forgotten place, and that all who labour to build your Church may persevere in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Elen"
+  ],
+  "featured": false,
+  "draft": false
+}

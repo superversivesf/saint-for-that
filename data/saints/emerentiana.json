@@ -1,0 +1,29 @@
+{
+  "slug": "emerentiana",
+  "name": "St. Emerentiana",
+  "feastDay": "01-23",
+  "bio": "Emerentiana was a Roman virgin and martyr who lived at the dawn of the fourth century, a time when the Church still bled under the shadow of imperial persecution. According to tradition she was a foster sister of Saint Agnes, the beloved Roman martyr, and had been instructed in the Christian faith from her earliest years.\n\nThe ancient account relates that Emerentiana went to mourn and pray at the tomb of Agnes shortly after that saint's execution, openly professing her own faith before the pagan crowd. Enraged by her bold confession, the people stoned her to death, and she won the crown of martyrdom beside the very grave of her foster sister.\n\nHer feast has been kept on 23 January from the earliest centuries, and she has long been invoked as a patroness of those suffering from stomach ailments, a devotion rooted in later popular piety. She stands as a quiet witness to the courage of those who, scarcely beyond childhood themselves, gave their lives for the name of Christ.",
+  "patronages": [
+    {
+      "need": "stomach ailments",
+      "category": "illness"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the virgin martyr Emerentiana to confess Your name even at the cost of her life, grant through her intercession relief to all who suffer in body and courage to all who are oppressed for righteousness' sake. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emerentiana"
+  ],
+  "featured": false,
+  "draft": false
+}

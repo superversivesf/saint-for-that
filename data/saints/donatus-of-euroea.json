@@ -1,0 +1,25 @@
+{
+  "slug": "donatus-of-euroea",
+  "name": "St. Donatus of Euroea",
+  "feastDay": "04-30",
+  "bio": "Saint Donatus of Euroea was a Greek saint of the early Church, revered by both Eastern Orthodox and Roman Catholics, chiefly in Albania and Greece. His memory is bound to the ancient Christian heritage of the Epirus region, where the Gospel took root in apostolic times and flourished through the witness of martyrs and confessors.\n\nA great shrine at Kassiopi in Corfu, in modern Greece, honoured Donatus for centuries, drawing pilgrims who sought his intercession and gave thanks for his protection. He is counted among the saints who bridged the Latin and Greek traditions of the Church, honoured on both sides of the great divide.\n\nHe is invoked as a patron of church unity and of all who dwell in the lands where East and West meet, a witness to the one faith shared across ancient rites and tongues.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Donatus of Euroea a bridge between the churches of East and West, grant through his intercession that all who honour him may find in you the unity that surpasses every division. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donatus_of_Euroea"
+  ],
+  "featured": false,
+  "draft": false
+}

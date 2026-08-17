@@ -1,0 +1,25 @@
+{
+  "slug": "macarius-of-alexandria",
+  "name": "St. Macarius of Alexandria",
+  "feastDay": "01-19",
+  "bio": "Saint Macarius of Alexandria was a monk of the Nitrian Desert in Egypt in the fourth century, a younger contemporary of Saint Macarius of Egypt, and is known as Macarius the Younger. He withdrew to the desert to seek God in solitude, embracing the austere life of the early Desert Fathers, where prayer, fasting, and manual labour formed the rhythm of existence. Renowned for severe asceticism, he once spent a Lent eating only a few raw vegetables. Ordained a priest in the community of the Cells, where hermits lived in separate dwellings and gathered only on weekends for worship, he was a friend of the great Macarius of Egypt. Together they represented that first flowering of Christian monasticism in which men abandoned the world to seek the face of God. His memory is kept on 19 January.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Macarius of Alexandria to the silence of the desert, where he sought You in fasting and prayer, grant through his intercession that we may detach our hearts from the world and find You in stillness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

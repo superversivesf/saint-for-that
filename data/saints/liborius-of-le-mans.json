@@ -1,0 +1,29 @@
+{
+  "slug": "liborius-of-le-mans",
+  "name": "St. Liborius of Le Mans",
+  "feastDay": "07-23",
+  "bio": "Liborius of Le Mans was the second Bishop of Le Mans, serving that see in the fourth century. The year of his birth is not recorded, but tradition places his death in the year 397, on the twenty-third of July, the day on which his feast has long been kept.\n\nHe is the patron saint of the cathedral and archdiocese of Paderborn in Germany, a patronage dating from the eighth century when his relics were translated from Le Mans to Paderborn, binding the two churches together across the centuries.\n\nLiborius has been invoked by the faithful against gallstones, renal colic and fever, afflictions that have long brought his name to the lips of the suffering. He is honored as a bishop and healer, an intercessor for those who bear painful illness, and a patron of the diocese that treasures his memory.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "stomach ailments",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Liborius a patron of those who suffer in body and an intercessor for the painful diseases of the flesh, grant through his prayers that the sick may find relief and the Church may always be served by faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liborius_of_Le_Mans"
+  ],
+  "featured": false,
+  "draft": false
+}

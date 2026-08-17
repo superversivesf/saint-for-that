@@ -1,0 +1,25 @@
+{
+  "slug": "gaudentius-of-rimini",
+  "name": "St. Gaudentius of Rimini",
+  "feastDay": "unknown",
+  "bio": "Gaudentius of Rimini was a bishop of the ancient Adriatic city of Rimini who is venerated as a martyred saint in both the Catholic and Eastern Orthodox Churches. The circumstances of his life and death have been obscured by time, but his memory was preserved in the local tradition of Rimini, where devotion to him has endured across the centuries.\n\nGaudentius is honored as a pastor who gave his life for the faith, one of the early bishops of Italy whose witness was sealed by martyrdom in the first Christian centuries. He is invoked in Rimini and in Garaguso in the south and Ostra and Montefabbri in the Marche, where his cult took root.\n\nThough the dates of his episcopate and passion are uncertain, Gaudentius stands as a witness to the apostolic courage of the early Italian episcopate.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Gaudentius with the martyr's palm and made him a shepherd of your Church at Rimini, grant through his intercession that all bishops may be faithful unto death and that your people may be defended by the prayers of the martyrs. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudentius_of_Rimini"
+  ],
+  "featured": false,
+  "draft": false
+}

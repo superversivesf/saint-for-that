@@ -1,0 +1,25 @@
+{
+  "slug": "gorgonia",
+  "name": "St. Gorgonia",
+  "feastDay": "02-23",
+  "bio": "Saint Gorgonia was the daughter of Saint Gregory the Elder and Saint Nonna, and thus the sister of Saint Gregory of Nazianzus the Theologian and Saint Caesarius of Nazianzus. She was raised in a household that produced some of the most celebrated saints of the fourth-century Church, steeped in the faith her mother Nonna had brought to the whole family.\n\nGorgonia is remembered as a saint in both East and West for her piety as a married woman. She lived out her faith in the vocation of marriage, devoted to her husband and children, and gave herself to prayer, almsgiving, and the reading of Scripture. Her brother Gregory delivered her funeral oration, praising her as a model of Christian womanhood.\n\nShe is invoked by those afflicted by bodily ills. Her feast is kept on February 23.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gorgonia a model of piety in married life and a patient bearer of suffering, grant through her intercession that all who are afflicted by bodily ills may find comfort in your grace and that Christian wives and mothers may walk in the path of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Gorgonia"
+  ],
+  "featured": false,
+  "draft": false
+}

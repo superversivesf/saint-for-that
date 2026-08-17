@@ -1,0 +1,29 @@
+{
+  "slug": "florentius-of-anjou",
+  "name": "St. Florentius of Anjou",
+  "feastDay": "unknown",
+  "bio": "Florentius of Anjou was a fourth-century Christian hermit, priest, and abbot who labored to evangelize the region around Saumur in the Loire valley. According to tradition, he was the brother of Florian of Lorch, and like many saints of Gaul he combined the solitary life of the desert with the pastoral work of preaching the Gospel to a region still dotted with pagan villages.\n\nFrom his settlement grew the great Angevin monasteries that bear his name: Saint-Florent-le-Vieil on the Loire, Saint-Florent-le-Jeune, and the collegiate church at Roye in Picardy. The abbey of Saint-Florent in Saumur commissioned a tapestry around 1524 showing scenes from his life, still preserved in Saumur. His feast has been kept locally, though the precise date is not fixed in the universal calendar.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Florentius from the solitude of the hermitage to preach your Gospel in the valleys of Anjou, grant through his intercession that those who seek you in silence may also bear your word to those who have not heard it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florentius_of_Anjou"
+  ],
+  "featured": false,
+  "draft": false
+}

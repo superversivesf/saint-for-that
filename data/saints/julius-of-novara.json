@@ -1,0 +1,25 @@
+{
+  "slug": "julius-of-novara",
+  "name": "St. Julius of Novara",
+  "feastDay": "01-31",
+  "bio": "Julius of Novara, also called Julius of Aegina, was a missionary priest who labored to plant the Christian faith in northern Italy during the early centuries of the Church. Sent to evangelize the region around Lake Orta, he is remembered as a tireless preacher and a gentle pastor of souls, founding churches and gathering the first Christian communities among the peoples of the Novarese.\n\nHis major shrine, the island of San Giulio in Lake Orta, marks the place where his memory has long been kept. Tradition places his ministry in the age of the late empire, when the Gospel was still new to the Alpine foothills.\n\nJulius is honored as an apostle of the region, an early herald who brought the light of Christ to lands that had not yet heard his name.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Julius to proclaim the Gospel among the peoples of northern Italy, grant through his intercession that we too may bear the light of Christ to those who have not yet received it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julius_of_Novara"
+  ],
+  "featured": false,
+  "draft": false
+}

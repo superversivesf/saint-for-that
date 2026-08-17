@@ -1,0 +1,25 @@
+{
+  "slug": "hilarion",
+  "name": "St. Hilarion",
+  "feastDay": "10-21",
+  "bio": "Hilarion was born in Thabatha, near Gaza, in the late third century. While still young he went to Alexandria to study and there embraced Christianity. Drawn by the fame of Anthony the Great, he spent two months in the Egyptian desert as Anthony's disciple, but sensing a call to his own land he returned to Palestine and established himself as a hermit near Gaza.\n\nFrom this solitary beginning Hilarion became, as his biographer St. Jerome records, the founder of Palestinian monasticism. Disciples gathered around him, and his way of life, marked by extreme fasting, manual labor, and continual prayer, shaped the ascetic tradition of the Holy Land. He traveled widely in his later years, fleeing his own fame, and died in Cyprus around 371.\n\nVenerated by the Eastern Orthodox, Oriental Orthodox, and Roman Catholic Churches, Hilarion is honored as a pioneer of desert monasticism beyond Egypt and a model of the hermit's single-hearted devotion to God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hilarion to the solitude of the desert and made him a father of monks in the Holy Land, grant through his intercession that those who seek you in silence and prayer may find you as their portion and their peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hilarion"
+  ],
+  "featured": false,
+  "draft": false
+}

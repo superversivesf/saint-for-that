@@ -1,0 +1,25 @@
+{
+  "slug": "florentius-of-vienne",
+  "name": "St. Florentius of Vienne",
+  "feastDay": "unknown",
+  "bio": "Florentius was a bishop of Vienne in the late fourth century, a see that stood in the Rhone valley of southern Gaul and that counted itself among the oldest churches of Gaul. He is known to history chiefly through his attendance at the Council of Valence in 374, a gathering of the bishops of the region convened to address matters of faith and discipline in the years after the Arian controversy.\n\nHe governed the Church of Vienne in an age when the sees of Gaul were finding their footing between imperial pressure and the legacy of Athanasius. The local tradition counts him among the sainted bishops of that ancient see, and his memory has been preserved in the calendars of the Church of Vienne. The exact date of his feast has not come down in the universal calendar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Florentius to shepherd the Church of Vienne and to gather his brother bishops in council, grant through his intercession that pastors may seek the unity of your Church and govern your people with justice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florentius_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

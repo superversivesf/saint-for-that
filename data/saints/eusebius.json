@@ -1,0 +1,33 @@
+{
+  "slug": "eusebius",
+  "name": "St. Eusebius of Caesarea",
+  "feastDay": "unknown",
+  "bio": "Eusebius of Caesarea, also known as Eusebius Pamphilius, was a historian of Christianity, an exegete, and a Christian polemicist born in the Roman province of Syria Palaestina in the mid-third century. A disciple of the learned presbyter Pamphilus, whose name he took as a badge of affection, he gathered around himself a school of sacred learning at Caesarea that preserved one of the great libraries of the early Church.\n\nAround the year 314 he became bishop of Caesarea Palaestina, and in the turbulent decades that followed he became a confidant of the Emperor Constantine and a participant in the great councils of the age. His Ecclesiastical History, the first comprehensive narrative of the Church from Pentecost to his own day, earned him the title Father of Church History, and his Chronicon and On the Life of Constantine remain indispensable sources for the period.\n\nThough his theological sympathies drew him at times toward Arian views and earned him the criticism of later orthodox writers, his labors preserved for us the memory of countless martyrs and the story of the Church's early centuries. He is honored as a patron of historians, scholars, and librarians, who carry forward the work of remembering.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "librarians",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to St. Eusebius of Caesarea the grace to trace the deeds of Your Church through the ages, grant through his intercession that historians and all who love truth may preserve the memory of Your saints and hand on the story of Your saving work. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius"
+  ],
+  "featured": false,
+  "draft": false
+}

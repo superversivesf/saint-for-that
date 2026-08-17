@@ -1,0 +1,25 @@
+{
+  "slug": "martin-of-tongres",
+  "name": "St. Martin of Tongres",
+  "feastDay": "06-21",
+  "bio": "Saint Martin of Tongres is venerated as the seventh bishop of Tongeren, an ancient see in what is now Belgium, and one of the early apostles of the Hesbaye district of Brabant. His episcopate, traditionally placed in the fourth century, was marked by persistent missionary labours among a people still only partly evangelised, and he is remembered as a tireless preacher who brought the Gospel to villages and farmsteads that had known little of Christ.\n\nHe worked to strengthen the Church in the Low Countries, founding churches and ordaining clergy for the scattered rural communities under his care. Though details of his life are scarce, later tradition honours him for his pastoral zeal and for establishing the Church's presence in the region around Tongeren.\n\nHis feast is traditionally kept on 21 June, and his memory endures among the faithful of Brabant as that of an early shepherd and evangelist.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Martin of Tongres to preach the Gospel among the villages of Brabant and to gather a people for Your name, grant through his intercession that we may bear witness to Christ wherever we are placed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_of_Tongres"
+  ],
+  "featured": false,
+  "draft": false
+}

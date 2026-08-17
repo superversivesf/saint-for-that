@@ -1,0 +1,29 @@
+{
+  "slug": "macarius-of-egypt",
+  "name": "St. Macarius of Egypt",
+  "feastDay": "01-15",
+  "bio": "Saint Macarius of Egypt, called Macarius the Great, was an Egyptian monk of the early fourth century and one of the most celebrated of the Desert Fathers. Drawn to solitude from his youth, he became a hermit and settled in the desert of Scetes, where his holiness attracted disciples and he became the spiritual father of a community of monks. He was famed for his humility, his gentleness with penitents, and his power over demons, whom he resisted with quiet confidence in Christ. Ordained a priest, he served the settlement at Scetes, where the monastery bearing his name still stands. Exiled briefly during the Arian controversy, he returned to his desert home and continued his life of prayer until his death around 391. He is counted among the founding fathers of Christian monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Macarius the Great a father of monks and a model of desert holiness, grant through his intercession that we may pursue You with undivided hearts and overcome evil with humble trust. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macarius_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

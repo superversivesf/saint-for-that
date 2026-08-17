@@ -1,0 +1,25 @@
+{
+  "slug": "pope-mark",
+  "name": "St. Mark",
+  "feastDay": "10-07",
+  "bio": "Pope Mark (Marcus) served as bishop of Rome from 18 January until his death on 7 October 336, one of the briefest pontificates in the early Church. He was a Roman by birth and, according to tradition, a kinsman of Pope Pius I.\n\nThough his reign was short, Mark left his mark on the Church's order. According to the Liber Pontificalis, he decreed that the bishop of Ostia, who consecrated the bishop of Rome, should receive the pallium as a sign of his metropolitan dignity, and he founded two churches in Rome: the titulus Marci, which later became the church of San Marco, and a basilica in the cemetery of Balbina on the Ardeatine Way.\n\nMark died a natural death and was buried in the cemetery of Balbina, where his relics were honoured until they were later translated into the city. His feast is traditionally kept on 7 October.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in a brief but fruitful pontificate granted Pope Mark wisdom to order Your Church and to raise up houses of prayer, grant through his intercession that we may build well what lasts and serve the unity of Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Mark"
+  ],
+  "featured": false,
+  "draft": false
+}

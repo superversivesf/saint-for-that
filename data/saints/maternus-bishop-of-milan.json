@@ -1,0 +1,25 @@
+{
+  "slug": "maternus-bishop-of-milan",
+  "name": "St. Maternus",
+  "feastDay": "07-18",
+  "bio": "Saint Maternus served as Archbishop of Milan from approximately 316 until his death around 328, guiding one of the most important sees of the Western Church through a formative generation. He lived and ministered in the decades of Constantine's reign, when the Church passed from persecution to imperial favour and began to organize itself for a new public role.\n\nMaternus is remembered as a steadfast pastor who governed the Church of Milan during the build-up to the great doctrinal controversies of the fourth century, the very controversies in which his successor Eustorgius and, later, Ambrose of Milan would so famously engage. He took part in the early councils that sought to preserve communion among the bishops and to settle disputes over discipline and order.\n\nHis feast is celebrated on 18 July, and he is honoured among the early archbishops of Milan as a faithful shepherd in a pivotal age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maternus a faithful shepherd of the Church of Milan in a pivotal age, grant through his intercession that our pastors may preserve communion in truth and guide Your people with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maternus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

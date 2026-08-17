@@ -1,0 +1,25 @@
+{
+  "slug": "julian-of-mesopotamia",
+  "name": "St. Julian of Mesopotamia",
+  "feastDay": "unknown",
+  "bio": "Julian the Hermit of Mesopotamia embraced the ascetic life during the reign of the Roman emperor Julian the Apostate in the fourth century, a time when the old pagan cults were briefly revived and Christians faced renewed pressure from the imperial throne. Against this backdrop, Saint Julian withdrew to a life of solitude near the river Euphrates, choosing the barren banks of that ancient waterway as the place of his spiritual combat.\n\nIn the tradition of the Mesopotamian desert fathers, he devoted himself to fasting, vigil, and unceasing prayer, wrestling with the passions and seeking the face of God in silence. The Euphrates, which had watered the cradle of civilization, became for him a symbol of the living water that only Christ can give. His solitary witness stood as a quiet rebuke to an empire that turned away from the Gospel, and a testimony that the Kingdom of God is built not by imperial decree but by the hidden holiness of the saints.\n\nThough few details of his life survive, St. Julian of Mesopotamia is remembered among the anchorites whose prayers sustained the Church through a season of trial.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Julian of Mesopotamia by the waters of the Euphrates and the deeper currents of Your grace, grant through his intercession that we may remain steadfast in prayer when the world turns from You and find in solitude the strength to endure. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julian_of_Mesopotamia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "leo-of-montefeltro",
+  "name": "St. Leo of Montefeltro",
+  "feastDay": "08-01",
+  "bio": "Saint Leo of Montefeltro, also called Leone of Montefeltro, is venerated as the first bishop of Montefeltro, where he is said to have been established as shepherd of the Church in the year 301, in the very age when the faith was passing through its last great trials under the empire.\n\nTradition holds that Leo was a stonecutter by trade, a craftsman from Dalmatia who came to the Italian peninsula and was raised to the episcopate to serve the young Christian community of the Montefeltro region. His hands, once shaped to the working of stone, were then given to the building up of the Church in that rugged land.\n\nHis feast is kept on the first of August. He is remembered as a working bishop, a craftsman-shepherd whose labor for the Gospel was rooted in the humble work of his earlier life.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Leo from the work of the stonecutter to the office of bishop, grant through his intercession that we may build up your Church with humble hands and faithful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leo_of_Montefeltro"
+  ],
+  "featured": false,
+  "draft": false
+}

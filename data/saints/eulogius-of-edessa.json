@@ -1,0 +1,29 @@
+{
+  "slug": "eulogius-of-edessa",
+  "name": "St. Eulogius of Edessa",
+  "feastDay": "05-05",
+  "bio": "Saint Eulogius served as bishop of Edessa during the late fourth century, governing that ancient Mesopotamian see in the wake of a theological and political upheaval that had shaken the region for decades. Edessa, a great centre of Syriac Christianity, had seen fierce struggles over doctrine, and the bishop who occupied its throne carried a heavy burden of pastoral discernment.\n\nEulogius is chiefly remembered for his intervention in the case of the monk Eutyches, whose teachings had begun to trouble the Church in Constantinople. He corresponded with bishops and theologians of his day and lent his authority to the patient work of preserving the orthodox faith in a city that was one of the crossroads of Christian thought.\n\nFew personal details survive, but his quiet fidelity as a bishop in a turbulent era speaks through the records that name him. He is honored as a steady shepherd who sought unity and truth amid the conflicts that so often fractured the early Church in the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Eulogius to guide the ancient see of Edessa and to labor for the unity of the faith, grant through his intercession that all bishops may be instruments of peace and that your Church may stand firm in the truth of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_Edessa"
+  ],
+  "featured": false,
+  "draft": false
+}

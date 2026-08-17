@@ -1,0 +1,29 @@
+{
+  "slug": "gregory-of-nazianzus",
+  "name": "St. Gregory of Nazianzus",
+  "feastDay": "01-02",
+  "bio": "Gregory of Nazianzus, also known as Saint Gregory the Theologian, was an early Christian theologian who served as Archbishop of Constantinople from 380 to 381. Born around 329 in Cappadocia, he was educated in Athens alongside St. Basil the Great and became one of the most learned men of his age.\n\nWidely considered the most accomplished rhetorical stylist of the patristic age, he infused Hellenism into the early Church and set the paradigm of Byzantine theologians who followed him. His orations on the Trinity remain celebrated works.\n\nCalled to Constantinople during Arian ascendancy, he preached in a chapel named the Anastasia and witnessed the restoration of orthodox worship. Honored as a Doctor of the Church, he is remembered with Basil and Chrysostom as one of the Three Holy Hierarchs.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who revealed the mystery of the Trinity through the luminous preaching of St. Gregory the Theologian, grant through his intercession that all who study your Word may penetrate its depths with reverence and that your Church may never lack teachers faithful to the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
+  ],
+  "featured": false,
+  "draft": false
+}

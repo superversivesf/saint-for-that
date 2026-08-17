@@ -1,0 +1,25 @@
+{
+  "slug": "dionysius-bishop-of-milan",
+  "name": "St. Dionysius",
+  "feastDay": "05-25",
+  "bio": "Dionysius served as bishop of Milan from 349 to 355, shepherding the Church in that great Italian see during a turbulent age of doctrinal strife. He governed his flock at a time when the Arian controversy was tearing at the unity of the Church and when emperors and councils pressed hard upon the bishops of Italy.\n\nHonoured as a saint in both the Catholic and Eastern Orthodox churches, Dionysius is remembered on May 25 for his faithful stewardship of the Milanese church. Though the historical record of his deeds is sparse, his veneration endured through the centuries as a witness to the apostolic succession and the perseverance of pastors who held their sees in difficult days.\n\nHe is invoked as a patron of bishops and of all who labour for the unity of the Church amid division and confusion.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Dionysius a faithful shepherd of the Church of Milan in an age of division, grant through his intercession that all pastors may preserve the unity of your flock in truth and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dionysius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

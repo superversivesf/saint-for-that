@@ -1,0 +1,25 @@
+{
+  "slug": "geminianus",
+  "name": "St. Geminianus",
+  "feastDay": "01-31",
+  "bio": "Saint Geminianus was a fourth-century deacon who became Bishop of Modena in northern Italy. He is mentioned in the historical record in the year 390, when he participated in a council called by Saint Ambrose at Milan, bearing witness to his standing among the bishops of the region and his communion with the great archbishop.\n\nFrom his name, scholars have deduced that Geminianus probably belonged to the caste of Roman senators, one of the aristocratic converts of the late imperial age who brought their standing into the service of the Church. As bishop of Modena he laboured to consolidate the faith in a city still young in its Christian identity.\n\nDevotion to Geminianus endured in Modena, and his feast is kept on January 31. He is remembered as a learned and pastoral bishop.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Geminianus from the ranks of deacons to be bishop of Modena and made him a faithful shepherd of your people, grant through his intercession that all pastors may serve with wisdom and that your Church may be built up in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Geminianus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "joseph-of-tiberias",
+  "name": "St. Joseph of Tiberias",
+  "feastDay": "unknown",
+  "bio": "Joseph of Tiberias was a Jewish and later Christian theologian and statesman of Roman Palestine in the fourth century. A member of the Sanhedrin, the highest Jewish assembly of his day, he held a position of authority and learning within the Jewish community. Despite his standing, Joseph was drawn to faith in Christ and converted to Christianity, a decision that reshaped the remainder of his life.\n\nKnown also as Count Joseph, he is venerated as Saint Joseph of Palestine, honored for the courage of his conversion and his service to the Christian community in the Holy Land. His memorial is kept on the twenty-second of July. In an age when conversion from Judaism to Christianity could bring suspicion and loss, Joseph's witness stands as a testament to the power of the Gospel to cross every boundary.\n\nHis life recalls the early Church's hope that the grace of Christ would reach to the very centers of Jewish learning, and his memory endures among the saints of Palestine who labored in the land where the Lord himself walked.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Joseph of Tiberias from the councils of Israel to the knowledge of Your Son, grant through his intercession that all who seek the truth may find it in Christ and that we may welcome the stranger with courage and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseph_of_Tiberias"
+  ],
+  "featured": false,
+  "draft": false
+}
