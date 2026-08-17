@@ -1,0 +1,42 @@
+{
+  "slug": "melchior-magus",
+  "name": "St. Melchior",
+  "feastDay": "01-01",
+  "canonized": "Pre-Congregation",
+  "bio": "Melchior is traditionally venerated as the oldest of the three Magi who traveled from the East to adore the infant Jesus. Western tradition names him the King of Persia, and he is said to have brought the gift of gold, a tribute befitting the newborn King and a sign of Christ's royal dignity.\n\nThe Gospel of Matthew records that wise men from the East followed a star to Bethlehem, where they fell down and worshipped the Christ child, opening their treasures before him. The names and kingdoms of the Magi come from the early traditions of the Church, which took deep root in Christian devotion.\n\nMelchior's relics are honored alongside those of Caspar and Balthazar in the Cathedral of Cologne. He is invoked as a patron of travelers, pilgrims, and those who seek the Lord with sincere hearts.",
+  "patronages": [
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "merchants",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "motorists",
+      "category": "travel"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided the Magi by the light of a star to the manger of your Son, grant through the intercession of St. Melchior that we may offer the gold of a contrite heart and seek the Lord with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melchior_(magus)"
+  ],
+  "featured": false,
+  "draft": false
+}

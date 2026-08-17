@@ -1,0 +1,26 @@
+{
+  "slug": "abdias-of-babylon",
+  "name": "St. Abdias of Babylon",
+  "feastDay": "10-28",
+  "canonized": "Pre-Congregation",
+  "bio": "Abdias of Babylon is remembered in Christian tradition as the first bishop of Babylon and one of the Seventy Apostles whom the Lord Jesus sent forth in pairs to preach, as recorded in the Gospel of Luke. Tradition holds that Saints Simon and Jude consecrated him to this see, commissioning him to shepherd the fledgling church in the East.\n\nHe is also associated with Saint Thomas and Saint Addai, and is recognized in Syriac Christianity as connected with the first Patriarch of the Church of the East. These traditions, though legendary in form, witness to the early spread of the Gospel beyond the Roman Empire into Mesopotamia and Persia.\n\nAbdias is honored on October 28 as a sign of the apostolic mission that carried the name of Christ to the ancient cities of Babylon and Edessa.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your Seventy Apostles to proclaim the kingdom to every nation, grant through the intercession of St. Abdias of Babylon that the Gospel may reach every land and people, and that those who preach it may be faithful to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abdias_of_Babylon"
+  ],
+  "featured": false,
+  "draft": false
+}

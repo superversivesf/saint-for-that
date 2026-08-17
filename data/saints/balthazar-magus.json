@@ -1,0 +1,42 @@
+{
+  "slug": "balthazar-magus",
+  "name": "St. Balthazar",
+  "feastDay": "01-06",
+  "canonized": "Pre-Congregation",
+  "bio": "Balthazar, traditionally named as one of the three Magi who journeyed from the East to adore the infant Jesus, is venerated in the Catholic Church as a saint. Western tradition calls him the King of Arabia, and he is said to have brought the gift of myrrh, prefiguring Christ's suffering and death.\n\nTogether with Caspar and Melchior, Balthazar followed the star to Bethlehem, presented his treasures, and paid homage to the newborn King. The Gospel of Matthew records the visit without naming the Magi, but the ancient tradition of three kings took firm root in Christian devotion.\n\nThe relics of the Magi are venerated in the Cathedral of Cologne. His feast is kept on the Epiphany, January 6, and he is invoked by travelers, merchants, and all who seek protection on the road.",
+  "patronages": [
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "merchants",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "motorists",
+      "category": "travel"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led the Magi by the guidance of a star to adore your incarnate Son, grant through the intercession of St. Balthazar that we too may journey faithfully toward Christ and offer him the treasure of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balthazar_(magus)"
+  ],
+  "featured": false,
+  "draft": false
+}

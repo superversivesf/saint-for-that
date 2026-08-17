@@ -1,0 +1,30 @@
+{
+  "slug": "simeon-gospel-of-luke",
+  "name": "St. Simeon",
+  "feastDay": "02-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Simeon, described in the Gospel of Luke as a just and devout man of Jerusalem, awaited the consolation of Israel under the promise of the Holy Spirit that he would not see death before he had looked upon the Lord's Christ. Led by the Spirit into the Temple, he received the infant Jesus in his arms when Mary and Joseph brought him for the rites of purification.\n\nHis song, the Nunc Dimittis, has echoed through the Church's evening prayer: \"Lord, now lettest thou thy servant depart in peace, for mine eyes have seen thy salvation.\" He prophesied to Mary that her child was set for the fall and rising of many, and that a sword would pierce her soul.\n\nSimeon's patient faith has made him a patron of those who wait upon the Lord. His encounter with Christ is celebrated on February 3 alongside Anna.",
+  "patronages": [
+    {
+      "need": "the elderly",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who rewarded the patient faith of Simeon with the sight of your incarnate Son, grant through his intercession that we too may recognize our salvation in Christ and depart this life in your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_(Gospel_of_Luke)"
+  ],
+  "featured": false,
+  "draft": false
+}

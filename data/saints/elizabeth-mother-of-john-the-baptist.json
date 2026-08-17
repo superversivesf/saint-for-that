@@ -1,0 +1,26 @@
+{
+  "slug": "elizabeth-mother-of-john-the-baptist",
+  "name": "St. Elizabeth, mother of John the Baptist",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Elizabeth, the wife of Zechariah and a relative of the Virgin Mary, is celebrated in the Gospel of Luke as the mother of John the Baptist. Though advanced in years and deemed barren, she conceived in her old age by the mercy of God, fulfilling the angelic promise made to her husband.\n\nWhen Mary, bearing Jesus in her womb, visited her kinswoman, the infant John leapt in Elizabeth's womb, and filled with the Holy Spirit she exclaimed, \"Blessed are you among women, and blessed is the fruit of your womb!\" She became the first to call Mary the Mother of the Lord.\n\nElizabeth's faith and her role in salvation history have made her beloved in Catholic, Orthodox, and Islamic tradition. She is invoked by expectant mothers and by all who await God's promises with patient hope.",
+  "patronages": [
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "childbirth",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who looked with mercy on your handmaid Elizabeth and granted her a son in her old age, grant through her intercession that expectant mothers may carry their children in faith and joy, and welcome new life as a gift from your hand. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elizabeth%2C_mother_of_John_the_Baptist"
+  ],
+  "featured": false,
+  "draft": false
+}

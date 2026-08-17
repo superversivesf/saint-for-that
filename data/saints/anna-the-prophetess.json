@@ -1,0 +1,30 @@
+{
+  "slug": "anna-the-prophetess",
+  "name": "St. Anna the Prophetess",
+  "feastDay": "02-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Anna, a prophetess of the Tribe of Asher, is remembered in the Gospel of Luke as one of the first to bear witness to the infant Jesus. Widowed after seven years of marriage, she devoted her long life to prayer and fasting in the Temple, serving God night and day for some eighty-four years.\n\nWhen Mary and Joseph brought Jesus for his presentation, Anna, filled with the Holy Spirit, gave thanks to God and spoke of the child to all who awaited the redemption of Jerusalem. Her encounter is recorded in Luke 2:36-38.\n\nShe is honored as a model of faithful widowhood and contemplation, counted among the earliest saints of the New Covenant, one whose eyes beheld the Lord's Christ.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "the elderly",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Anna to a life of prayer and prophecy in your holy Temple, grant through her intercession that we may persevere in worship and recognize the presence of your Christ in our midst. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anna_the_Prophetess"
+  ],
+  "featured": false,
+  "draft": false
+}

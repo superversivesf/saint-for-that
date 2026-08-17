@@ -1,0 +1,25 @@
+{
+  "slug": "abgar-v",
+  "name": "St. Abgar V",
+  "feastDay": "unknown",
+  "bio": "Abgar V, called Ukkāmā, meaning \"the Black,\" was an Arab King of Osroene with his capital at Edessa. He ruled in the first century and is described in ancient sources as a king of the Arabs, governing a small but strategically placed kingdom between the Roman and Parthian empires.\n\nLater Christian tradition, preserved in Eusebius and the Syriac Doctrine of Addai, relates that Abgar corresponded with Jesus, inviting him to Edessa to heal a disease and offering refuge. In return, Jesus is said to have sent a letter blessing the king and promising that Edessa would be blessed.\n\nThe legend made Edessa one of the earliest Christian cities and gave Abgar a place in the memory of the Eastern churches, where he is venerated as a saintly king who welcomed the Gospel.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence prepared the city of Edessa to receive the Gospel through the longing of King Abgar, grant through his intercession that rulers may seek the truth and that every city may welcome the presence of your Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abgar_V"
+  ],
+  "featured": false,
+  "draft": false
+}

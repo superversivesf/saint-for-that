@@ -1,0 +1,34 @@
+{
+  "slug": "massacre-of-the-innocents",
+  "name": "St. Massacre of the Innocents",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "The Holy Innocents are the male children of Bethlehem whom Herod the Great ordered slain in his jealous rage against the newborn King of the Jews. The Gospel of Matthew records that Herod commanded the death of every male child two years old and under in Bethlehem, fulfilling the prophecy of Jeremiah.\n\nThese little ones, though unbaptized, were honored by the Church from ancient times as the first martyrs of Christ, for they bore witness to him not by words but by their blood. The liturgy calls them the flowers of the martyrs, plucked at the very dawn of the Christian era.\n\nTheir feast, kept on December 28, has been observed since at least the fifth century. They are invoked as patrons of innocence and of the unborn, a solemn witness to kingship corrupted by fear.",
+  "patronages": [
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the Holy Innocents of Bethlehem as the first martyrs of your Son, grant through their intercession that the lives of the young and vulnerable may be cherished and defended, and that innocence may triumph over every form of cruelty. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents"
+  ],
+  "featured": false,
+  "draft": false
+}
