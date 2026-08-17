@@ -1,0 +1,25 @@
+{
+  "slug": "metrophanes-of-byzantium",
+  "name": "St. Metrophanes of Byzantium",
+  "feastDay": "06-04",
+  "bio": "Metrophanes served as bishop of Byzantium from around 306 until his death in 314, a momentous period that spanned the final persecutions of the Church under Diocletian and the accession of Constantine the Great. According to tradition he was the twenty-sixth bishop of the see, and he is the first of its bishops to be mentioned by contemporary sources, marking the emergence of an organized Christian community at Byzantium.\n\nHe guided the small but growing flock through the years of danger and into the era of peace granted to the Church by Constantine. He did not live to see the refounding of the city as Constantinople in 330, but his episcopate laid the foundations upon which his successor Alexander and the later patriarchs would build.\n\nHe died in peace and was venerated as a confessor of the faith, one who had shepherded the Church through the last of the great trials. His feast is kept on June 4, and he is remembered as a quiet pioneer of the see that would become the heart of Eastern Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Metrophanes a faithful shepherd of Your Church at Byzantium in the days of trial and of peace, grant through his intercession that we may stand firm in every tribulation and give thanks for the freedom You have given us to worship You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Metrophanes_of_Byzantium"
+  ],
+  "featured": false,
+  "draft": false
+}

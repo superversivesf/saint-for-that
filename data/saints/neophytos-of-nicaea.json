@@ -1,0 +1,25 @@
+{
+  "slug": "neophytos-of-nicaea",
+  "name": "St. Neophytos of Nicaea",
+  "feastDay": "01-21",
+  "bio": "Neophytos was born in Nicaea of Bithynia to Christian parents named Theodore and Florentia. During the Diocletianic Persecution, one of the most ferocious campaigns against Christians in the Roman Empire, he went to Nicaea and boldly denounced the pagan faith before the officials and populace. His public refusal to offer sacrifice to the Roman gods marked him as a dangerous agitator. He was killed by Roman soldiers in A.D. 303, ten years before the Edict of Milan permanently established religious toleration for Christianity within the Roman Empire. Honored as a martyr from the earliest days, his feast is kept on January 21.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Neophytos with the palm of martyrdom for his bold confession of Your name before the persecutors of Nicaea, grant through his intercession that we may never be ashamed to profess our faith before others. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Neophytos_of_Nicaea"
+  ],
+  "featured": false,
+  "draft": false
+}

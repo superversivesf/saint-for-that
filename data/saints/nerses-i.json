@@ -1,0 +1,21 @@
+{
+  "slug": "nerses-i",
+  "name": "St. Nerses I",
+  "feastDay": "11-19",
+  "bio": "Nerses I the Great, also known as Nerses the Parthian, was an Armenian Catholicos who lived in the fourth century. He belonged to the line of Gregorid patriarchs descended from St. Gregory the Illuminator, the apostle of Armenia, and he guided the Armenian Church during a period of consolidation after the nation's historic conversion to Christianity. As Catholicos, Nerses worked to organize the Church's structures and to extend pastoral care across the Armenian highlands. His leadership helped shape the distinctive Armenian Christian tradition that would endure for centuries. Venerated as a saint in the Armenian Apostolic Church, his feast is kept on November 19.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nerses I to guide Your Armenian Church in its early days and to strengthen the faith of a newly converted people, grant through his intercession that all bishops may labor with equal zeal for the good of the flock entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nerses_I"
+  ],
+  "featured": false,
+  "draft": false
+}

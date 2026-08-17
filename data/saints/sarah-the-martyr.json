@@ -1,0 +1,25 @@
+{
+  "slug": "sarah-the-martyr",
+  "name": "St. Sarah the Martyr",
+  "feastDay": "05-03",
+  "bio": "Sarah is a fourth-century martyr honored as a saint in the Coptic Orthodox Church, which commemorates her on the twenty-fifth day of Baramouda, corresponding to May 3 in the Western calendar. She suffered during the great persecutions that swept the Christian communities of Egypt under Roman rule, when confessors of Christ were subjected to torture and death rather than offer sacrifice to the old gods. Though the details of her trial and passion have been largely lost, her name was preserved in the Coptic synaxarium, that treasury of the Church of Alexandria which keeps alive the memory of the martyrs of the Nile. She stands among the countless women of the early Church who chose death over apostasy, her feast a day of remembrance for the witness of Egypt's first Christians.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Sarah the courage to face death rather than deny Your Son, grant through her intercession that we may remain steadfast in faith and that the Church in every land may be strengthened by the witness of her martyrs. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sarah_the_Martyr"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pharmutius",
+  "name": "St. Pharmutius",
+  "feastDay": "unknown",
+  "bio": "Saint Pharmutius was a hermit in the Egyptian desert and a disciple of Anthony the Great, one of the generation of desert fathers who carried forward the monastic witness of the founder of Christian eremitic life. According to the Prologue from Ohrid, he lived in the desert in fasting, prayer, and the ascetic struggle that marked the holiness of the early Egyptian monks.\n\nAs a disciple of Anthony, Pharmutius belonged to the line of saints who sought God alone in the wilderness, fighting the demons and subduing the passions through long years of discipline. The desert fathers of this generation were the spiritual ancestors of all later monasticism, East and West, and their example has shaped the Church's understanding of holiness for centuries.\n\nThough fewer details of his life survive than of some of his companions, Pharmutius is remembered as one of the holy ones who made the Egyptian desert a city of God, and his intercession is sought by all who strive after a life of prayer and ascetic fidelity.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Pharmutius to seek you in the silence of the Egyptian desert, grant through his intercession that we may learn to withdraw from the noise of the world and to find in prayer the presence for which our hearts were made. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pharmutius"
+  ],
+  "featured": false,
+  "draft": false
+}

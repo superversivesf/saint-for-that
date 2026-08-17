@@ -1,0 +1,29 @@
+{
+  "slug": "pambo",
+  "name": "St. Pambo",
+  "feastDay": "07-18",
+  "bio": "Pambo of Nitria was a Coptic Desert Father of the fourth century, a disciple of Saint Anthony the Great and one of the founders of the monastic settlement at Nitria in the Egyptian desert. He received the monastic habit from Anthony himself and lived a life of such silence that he is said never to have spoken an idle word.\n\nThe Apophthegmata preserve several stories of Pambo, including his remark to Saint Melania the Elder that he had never regretted a word he had spoken but had often regretted his silence. He worked with his hands, gave his earnings to the poor, and taught his disciples to be ever doing God's will.\n\nHe died around 390, and his feast is kept on July 18 by the Oriental Orthodox, Eastern Orthodox, and Catholic churches. He is honored as a father of monastic silence.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught your servant Pambo to keep silence and to speak only words of life, grant through his intercession that we may bridle our tongues, attend to your presence, and labor with our hands for the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pambo"
+  ],
+  "featured": false,
+  "draft": false
+}

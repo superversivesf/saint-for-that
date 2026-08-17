@@ -1,0 +1,33 @@
+{
+  "slug": "paul-the-simple",
+  "name": "St. Paul the Simple",
+  "feastDay": "03-07",
+  "bio": "Paul the Simple of Egypt was a hermit and disciple of Anthony the Great. He was married in youth, but upon discovering his wife's infidelity he left the world and presented himself to Anthony in the desert, begging to be made a monk. Anthony at first refused, judging him too old and too simple for the rigors of the eremitic life, but Paul persevered, lying outside the cell in fasting and prayer until the great father relented.\n\nUnder Anthony's guidance Paul grew rapidly in holiness, surpassing many of the older monks in virtue and in the gift of discernment. John, the Abbot of Sinai, wrote of him: \"Paul the Simple was a clear example for us, for he was the rule and type of blessed simplicity.\" Though a contemporary of Paul of Thebes, the First Hermit, he is a distinct figure.\n\nThe account of his life is found in Palladius of Helenopolis's De Vitis Patrum and in Tyrannius Rufinus's Historia Eremitica. He is remembered as a model of the holiness that comes not from learning but from a single-hearted love of God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Paul the Simple the grace of a single heart and made him a rule and type of blessed simplicity, grant through his intercession that we may seek you with undivided love and find in humility the path to true wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_the_Simple"
+  ],
+  "featured": false,
+  "draft": false
+}

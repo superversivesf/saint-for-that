@@ -1,0 +1,29 @@
+{
+  "slug": "mirian-iii",
+  "name": "St. Mirian III",
+  "feastDay": "10-01",
+  "bio": "Mirian III was a king of Iberia, the ancient Georgian realm of Kartli, who ruled in the early fourth century and founded the royal Chosroid dynasty. According to tradition, while hunting he was struck blind in a forest and, calling upon the God of a captive Christian woman, recovered his sight. He sought instruction from the missionary Nino and was baptized, leading his nation into the Christian faith.\n\nUnder Mirian's patronage, Christianity became the state religion of Iberia, making Georgia one of the first Christian kingdoms. He built churches and fostered the establishment of the Georgian Church, earning from later generations the title Equal-to-the-Apostles. His conversion shaped the spiritual and cultural identity of an entire people, and he is honored by the Georgian Orthodox Church as a saint whose royal authority served the Gospel.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mirian from the darkness of ignorance to the light of the Gospel and made him a royal herald of the faith, grant through his intercession that rulers and peoples alike may seek Your truth and walk in it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mirian_III"
+  ],
+  "featured": false,
+  "draft": false
+}

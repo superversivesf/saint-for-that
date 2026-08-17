@@ -1,0 +1,49 @@
+{
+  "slug": "nicholas",
+  "name": "St. Nicholas",
+  "feastDay": "12-06",
+  "bio": "Saint Nicholas of Myra, also known as Nicholas of Bari, was an early Christian bishop of Greek descent from the maritime city of Patara in Anatolia during the time of the Roman Empire. Because of the many miracles attributed to his intercession, he is also known as Nicholas the Wonderworker. Ordained bishop of Myra in Lycia, Nicholas became renowned for his generosity and his defense of the orthodox faith. Tradition credits him with secret gift-giving, most famously providing dowries for three impoverished girls by tossing bags of gold through their window by night. He is patron of sailors, merchants, archers, repentant thieves, children, brewers, pawnbrokers, toymakers, and students. His feast is December 6.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "merchants",
+      "category": "jobs"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "brewers",
+      "category": "jobs"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Nicholas with untiring zeal for justice and a boundless generosity toward the poor and the young, grant through his intercession that we may learn to give in secret and to defend the innocent. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nicholas"
+  ],
+  "featured": false,
+  "draft": false
+}

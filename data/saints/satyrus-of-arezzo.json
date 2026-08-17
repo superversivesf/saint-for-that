@@ -1,0 +1,25 @@
+{
+  "slug": "satyrus-of-arezzo",
+  "name": "St. Satyrus of Arezzo",
+  "feastDay": "unknown",
+  "bio": "Saint Satyrus of Arezzo is venerated as the first bishop of that ancient Tuscan city, which, according to the Catholic Encyclopedia, became a bishopric around the year 304 under his pastoral care. He shepherded the Christian community of Arezzo during the perilous years of the Diocletian persecution, when the very existence of the Church in Italy was threatened by imperial decree. His successor, St. Donatus, is honored as patron of the cathedral of St. Peter the Apostle, a sign of the unbroken line of faith that Satyrus established. Though few particulars of his life have survived, his name stands at the head of the episcopal list of one of Italy's oldest sees, a witness to the bishops who held the Church together through the last and greatest of the Roman persecutions.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established Your Church in Arezzo through the ministry of St. Satyrus, grant through his intercession that those who shepherd Your people may stand firm in days of trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Satyrus_of_Arezzo"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mellonius",
+  "name": "St. Mellonius",
+  "feastDay": "10-22",
+  "bio": "Saint Mellonius is said to have been an early fourth-century bishop of Rotomagus, the Roman city later known as Rouen, in the province of Secunda Provincia Lugdunensis. According to a Life composed only in the seventeenth century, he was converted to the Christian faith in Rome and was there ordained a bishop before being sent to evangelize the Gauls, a narrative whose historical value is doubtful.\n\nDespite the uncertain historicity of the details, his cult was planted early in northern Gaul, and churches were dedicated to him at Rouen and at St Mellons in Cardiff, Wales, where local devotion preserved his memory for centuries. He was honored as one of the pioneer bishops who brought the Gospel to the peoples of the far west of Europe.\n\nHe is remembered as a quiet patron of the early missionary Church, whose name lingered in the prayers of the faithful long after the written record of his deeds had faded.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in Your providence sent St. Mellonius to sow the Gospel among the peoples of Gaul, grant through his intercession that the faith once planted may continue to bear fruit in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mellonius"
+  ],
+  "featured": false,
+  "draft": false
+}

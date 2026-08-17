@@ -1,0 +1,29 @@
+{
+  "slug": "spyridon",
+  "name": "St. Spyridon",
+  "feastDay": "12-12",
+  "bio": "Spyridon, also called Spyridon of Tremithus, was a shepherd and bishop of Tremithus in Cyprus who lived in the fourth century. Honored in both the Eastern and Western Christian traditions, he is remembered as a humble pastor who tended his flock with the same devotion he once gave to his sheep. Tradition holds that he was present at the Council of Nicaea in 325, where he defended the divinity of Christ against the Arians, famously using a potsherd to demonstrate the unity of the Holy Trinity as fire, water, and clay issued forth. Despite his episcopal dignity he continued to live simply, caring for the poor and working the land. His relics were later carried to Corfu, where he is honored as the island's chief protector. He is invoked by craftsmen, healers, and farmers.",
+  "patronages": [
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "healing",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Spyridon to be a shepherd of souls and a defender of the true faith, grant through his intercession that all who labor with their hands may find dignity in their work and all who seek healing may rest in Your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Spyridon"
+  ],
+  "featured": false,
+  "draft": false
+}

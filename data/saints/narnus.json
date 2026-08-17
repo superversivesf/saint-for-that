@@ -1,0 +1,21 @@
+{
+  "slug": "narnus",
+  "name": "St. Narnus",
+  "feastDay": "08-27",
+  "bio": "Saint Narnus is venerated as the first bishop of Bergamo, an ancient see in northern Italy. Christian tradition holds that he was consecrated to the episcopate during the Apostolic Age by St. Barnabas, though later scholarship suggests he likely lived in the fourth century, during the reign of Diocletian, when the Church was emerging from persecution into freedom.\n\nThe oldest surviving source to mention Narnus dates from the thirteenth century, written by Branca da Gandino, a friar who sought to preserve the memory of Bergamo's founding shepherd. Though the details of his life are veiled in the mists of early tradition, his cult endured across the centuries, and the Cathedral of Bergamo preserves his name and his witness. He is honored as a pioneer bishop, one who planted the faith in a city that would carry it forward through the ages.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Narnus the first shepherd of Bergamo and planted the faith through his ministry, grant through his intercession that the Church in every age may find faithful pastors to guide her people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narnus"
+  ],
+  "featured": false,
+  "draft": false
+}

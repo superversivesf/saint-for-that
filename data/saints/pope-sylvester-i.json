@@ -1,0 +1,25 @@
+{
+  "slug": "pope-sylvester-i",
+  "name": "St. Sylvester I",
+  "feastDay": "12-31",
+  "bio": "Pope Sylvester I served as bishop of Rome from 31 January 314 until his death on 31 December 335, guiding the Church through one of the most pivotal eras in Western Christian history. He occupied the See of Rome during the reign of Constantine the Great, when persecution gave way to toleration through the Edict of Milan, opening an age of freedom for the Christian faith. Though little is known of the details of his life, tradition associates him with the building of great Roman basilicas and with the baptism of Constantine. He is honored as a steadfast pastor who governed the Church during the transition from suffering to peace. His feast is kept on 31 December, and he is invoked as a patron of Benedictine and Sylvestrine religious orders.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Sylvester to govern Your Church in the hour of her emerging freedom, grant through his intercession that your people may dwell in unity and peace under the guidance of faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Sylvester_I"
+  ],
+  "featured": false,
+  "draft": false
+}

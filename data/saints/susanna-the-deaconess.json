@@ -1,0 +1,29 @@
+{
+  "slug": "susanna-the-deaconess",
+  "name": "St. Susanna the Deaconess",
+  "feastDay": "unknown",
+  "bio": "Susanna the Deaconess was a holy virgin and martyr of Palestine in the fourth century. According to her hagiography, she devoted herself entirely to Christ by disguising herself as a man and entering a male monastery under the name John. There she lived a life of great piety, humility, and discipline, undetected for a time among the brethren. Her disguise was uncovered after false accusations were brought against her, and she endured the shame and suffering that followed with patient endurance. She is remembered as a model of single-minded devotion to God, willing to surrender even her identity in the world to pursue the life of prayer and asceticism to which she was called. She is invoked by all who face false accusation, persecution, or the trials of a consecrated life.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Susanna the Deaconess grace to devote herself wholly to You even at the cost of her name and safety, grant through her prayers that all who suffer false accusation or persecution may find strength in Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Susanna_the_Deaconess"
+  ],
+  "featured": false,
+  "draft": false
+}

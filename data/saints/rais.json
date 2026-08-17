@@ -1,0 +1,29 @@
+{
+  "slug": "rais",
+  "name": "St. Rais",
+  "feastDay": "09-23",
+  "bio": "Rais, also known as Iris, Iraida, Irais, Herais, or Rhais, is a martyr venerated by both the Roman Catholic and Eastern Orthodox Churches. According to one ancient account, she was the daughter of a Christian priest named Peter living in Alexandria, in the Roman province of Egypt, a city that was both a center of Christian learning and a place of fierce persecution.\n\nAs a young girl, Rais was drawn to a life of consecrated virginity and devoted herself to prayer. During a wave of persecution, she was arrested for her faith and brought before the authorities. Despite her youth and the threats arrayed against her, she refused to deny Christ and was put to death, joining the noble company of Alexandrian martyrs.\n\nHer feast is commemorated on September 23, and she is remembered as a model of youthful courage and unwavering fidelity to Christ under the most severe trials.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the young virgin Rais with the palm of martyrdom, grant through her intercession that we may have the courage to confess your name before all the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Rais"
+  ],
+  "featured": false,
+  "draft": false
+}

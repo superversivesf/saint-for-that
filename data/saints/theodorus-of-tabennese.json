@@ -1,0 +1,21 @@
+{
+  "slug": "theodorus-of-tabennese",
+  "name": "St. Theodorus of Tabennese",
+  "feastDay": "05-16",
+  "bio": "Theodorus of Tabennese, known also as Abba Theodorus and Theodore the Sanctified, was the faithful disciple and spiritual successor of Saint Pachomius, the founder of Christian cenobitic monasticism. When Pachomius died, Theodorus took up the burden of leadership and labored to hold together the young federation of monasteries that his master had gathered in the Egyptian desert. Through his humility, obedience, and steady governance he preserved the common life from dissolution and strengthened the rule under which thousands of monks prayed and worked. He is honored as a pillar of communal monasticism and a model of faithful succession in the religious life.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Theodorus preserved the common life of monks founded by Saint Pachomius, grant through his intercession that we may live in unity and obedience with our brothers and sisters. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodorus_of_Tabennese"
+  ],
+  "featured": false,
+  "draft": false
+}

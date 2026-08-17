@@ -1,0 +1,25 @@
+{
+  "slug": "serapion-the-sindonite",
+  "name": "St. Serapion the Sindonite",
+  "feastDay": "03-21",
+  "bio": "Serapion the Sindonite was a Christian monk of Egypt whose radical poverty earned him his name, for \"sindonite\" refers to the single linen garment he wore as his sole possession. He embraced the ascetic life in the great flowering of Egyptian monasticism, and his exploits were recorded by Palladius in the Lausiac History and by Rufinus, who marvelled at his renunciation. Serapion gave away whatever was placed in his hands, traveling from place to place with nothing but his sindon, and when even that was demanded of him he parted with it gladly. He visited the famous hermit John of Lycopolis and sought out the solitary women of the desert, teaching that one who owns nothing is truly free. Venerated by the Eastern and Oriental Orthodox and Roman Catholic Churches, he is kept on March 21.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Serapion to possess nothing that he might possess all things in You, grant through his intercession that we may be freed from the love of earthly things and clothed instead with the virtues of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Serapion_the_Sindonite"
+  ],
+  "featured": false,
+  "draft": false
+}

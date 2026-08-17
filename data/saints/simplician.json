@@ -1,0 +1,26 @@
+{
+  "slug": "simplician",
+  "name": "St. Simplician",
+  "feastDay": "08-14",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Simplician was Bishop of Milan from 397 to 400 or 401, the successor of the great Ambrose in one of the most important sees of the Western Church.\n\nBefore his election he was a trusted friend and advisor of Ambrose, and he also played a quiet but decisive role in the life of Augustine of Hippo. It was Simplician who received Augustine's account of his conversion and who encouraged him on the path that would lead to his baptism at the hands of Ambrose. In this way he stood at the threshold of one of the greatest lives in the Church.\n\nHonoured on 14 August by both the Catholic and Orthodox Churches, he is remembered as a bishop and a guide of souls, a man whose counsel helped to shape the saints of his age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Simplician a wise guide of souls and a faithful successor of St. Ambrose, grant through his intercession that those who seek you may find in your Church wise counsellors and that we may welcome the conversion of every heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simplician"
+  ],
+  "featured": false,
+  "draft": false
+}

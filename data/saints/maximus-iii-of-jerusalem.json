@@ -1,0 +1,25 @@
+{
+  "slug": "maximus-iii-of-jerusalem",
+  "name": "St. Maximus III of Jerusalem",
+  "feastDay": "05-05",
+  "bio": "Saint Maximus of Jerusalem was an early Christian bishop who governed the see of Jerusalem from roughly 333 until his death in 347. He was the third bishop of that city to bear the name Maximus, and he shepherded the fledgling Christian community during the turbulent years that followed the Council of Nicaea, when the Arian controversy divided the Churches of the East.\n\nMaximus was a staunch defender of the orthodox faith and a trusted ally of the great confessors of his age. He worked alongside Saint Macarius of Jerusalem to promote the veneration of the holy places associated with the life of Christ, and he is counted among the bishops who signed the decrees of the Council of Nicaea in 325.\n\nHe died in peace after a long and faithful episcopate, and his feast is kept on May 5. He is remembered as a gentle and steadfast pastor of the mother Church of Jerusalem.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maximus a faithful bishop of the holy city of Jerusalem and a defender of Your truth, grant through his intercession that Your Church may be one in faith and steadfast in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_III_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

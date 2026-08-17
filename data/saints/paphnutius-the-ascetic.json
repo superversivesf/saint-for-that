@@ -1,0 +1,29 @@
+{
+  "slug": "paphnutius-the-ascetic",
+  "name": "St. Paphnutius the Ascetic",
+  "feastDay": "02-15",
+  "bio": "Paphnutius the Ascetic, also called Paphnutius the Hermit, was an Egyptian anchorite of the fourth century who lived in the desert and devoted himself to prayer, fasting, and the remembrance of the holy ones who had gone before him. He is remembered as a recorder of the lives of the desert hermits, among them Saint Onuphrius, whose story he told after meeting the solitary in the wilderness.\n\nThe accounts attributed to him, composed in Greek and later translated into Latin and the eastern tongues, carried the wisdom of the Egyptian desert to monasteries across the Christian world. Through his writings the names of Onuphrius and other hermits were preserved.\n\nHis feast is February 15. He is honored as a father of monastic memory, who kept alive the witness of the hermits for the Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired your servant Paphnutius to seek you in the desert and to record the lives of the hermits who went before him, grant through his intercession that we may remember the witness of the saints and follow their example. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paphnutius_the_Ascetic"
+  ],
+  "featured": false,
+  "draft": false
+}

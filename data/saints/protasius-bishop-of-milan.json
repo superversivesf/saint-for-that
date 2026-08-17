@@ -1,0 +1,29 @@
+{
+  "slug": "protasius-bishop-of-milan",
+  "name": "St. Protasius",
+  "feastDay": "11-24",
+  "bio": "Protasius served as Archbishop of Milan in the late fourth century, succeeding St. Ambrose in that great see. He is honored as a saint in the Catholic Church, and his feast day is celebrated on November 24, the day of his death, marking the close of a life devoted to pastoral care and the defense of the faith in one of the Church's most important dioceses.\n\nDuring his episcopate, Protasius continued the work of Ambrose in nurturing the Christian community of Milan and consolidating the gains made during the long struggle against Arianism. He was present at important councils and maintained the unity of the Church in a turbulent era of doctrinal controversy.\n\nHis memory endures in the liturgical calendar of Milan, where he is commemorated as a faithful successor to the apostolic mission entrusted to the Church of that ancient city.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Protasius to shepherd the Church of Milan after the labors of St. Ambrose, grant through his intercession that bishops may be faithful shepherds and defenders of unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Protasius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "petronius-of-egypt",
+  "name": "St. Petronius of Egypt",
+  "feastDay": "unknown",
+  "bio": "Petronius, also spelled Petronios, was a fourth-century Egyptian Christian monk who served as a superior of the Pachomian monasteries. He belonged to the great movement of communal monasticism founded by Pachomius the Great, which organized the desert ascetics of Egypt into communities bound by a common rule of prayer and work.\n\nAs a superior among the Pachomians, Petronius carried the responsibility of overseeing the lives and discipline of the monks under his care, ensuring that the rule of the community was observed and that the monks grew in holiness. The Pachomian foundations were among the first organized monasteries in Christian history and became a model for monastic life throughout East and West.\n\nPetronius is remembered among the fathers of the Egyptian desert who built up the Church through the witness of community life, showing that solitude and common life are both paths by which God leads his saints to holiness.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Petronius to guide the Pachomian communities in the way of holiness, grant through his intercession that those who lead others in the religious life may be filled with your wisdom and that all monks may grow in fidelity to their rule. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Petronius_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sylvius-of-toulouse",
+  "name": "St. Sylvius of Toulouse",
+  "feastDay": "unknown",
+  "bio": "Sylvius of Toulouse served as bishop of that city from approximately 360 to 400 AD, governing the Church of southern Gaul during a formative age of Christian expansion. He is remembered above all for beginning the construction of the great basilica of St. Sernin in Toulouse, which his successor Exuperius later completed. Sylvius labored to establish the faith in a land still marked by the memory of earlier martyrs, and his episcopate spanned the years when the Church was consolidating its presence in the Roman provinces of Gaul. After his death his remains were transferred to the basilica he had begun. He is remembered as a builder of the Church in both stone and spirit, a pastor who gave his people a worthy house for the worship of God.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Sylvius to build a house for Your worship and to shepherd Your people in Gaul, grant through his prayers that we may labor faithfully to establish Your Church in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sylvius_of_Toulouse"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "romanus-of-blaye",
+  "name": "St. Romanus of Blaye",
+  "feastDay": "unknown",
+  "bio": "Saint Romanus of Blaye was a priest in the Gironde region of southwestern France, serving the Christian community of that area in the early centuries of the Church. Little detail survives about his life and ministry, but his memory was preserved in the local devotion of the people of Blaye, a town on the right bank of the Gironde estuary.\n\nHe is counted among the early Gallic saints who labored to establish the faith in the towns and countryside of Roman Gaul, often at great personal risk during times of persecution and uncertainty. His witness belongs to the great company of parish priests and pastors whose quiet fidelity helped root Christianity in the soil of Europe.\n\nRomanus is honored as a patron of the region around Blaye and as a reminder of the countless humble priests whose labors built up the Church in its earliest and most vulnerable days.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Romanus to serve your people in the region of Blaye, grant through his intercession that parish priests may labor with faithful love for the souls entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romanus_of_Blaye"
+  ],
+  "featured": false,
+  "draft": false
+}

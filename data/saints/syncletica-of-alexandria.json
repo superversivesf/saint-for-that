@@ -1,0 +1,29 @@
+{
+  "slug": "syncletica-of-alexandria",
+  "name": "St. Syncletica of Alexandria",
+  "feastDay": "01-05",
+  "bio": "Syncletica of Alexandria was a Christian saint, ascetic, and anchorite of the fourth century, counted among the Desert Mothers of Roman Egypt. Born to a noble family of Alexandria, she consecrated herself to God after her parents' death, giving away her inheritance to the poor and retreating to a tomb outside the city to live in solitude and prayer. She gathered disciples who sought her counsel, and her sayings were preserved in the Apophthegmata of the Desert Fathers and in a hagiography attributed to St. Athanasius. She taught the way of humility, inner stillness, and the mastery of the passions. After a long life of prayer she endured a final illness of three years, a cancer of the mouth. She died at eighty and is invoked by hermits, contemplatives, and those who bear cancer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "cancer",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Syncletica the way of humility and inner stillness in the solitude of the desert, grant through her intercession that those who suffer in body may find peace in You and those who seek You in silence may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syncletica_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

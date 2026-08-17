@@ -1,0 +1,25 @@
+{
+  "slug": "theodore-of-mopsuestia",
+  "name": "St. Theodore of Mopsuestia",
+  "feastDay": "unknown",
+  "bio": "Theodore of Mopsuestia, born in Antioch in the fourth century, was one of the most learned and influential interpreters of Scripture in the early Church. Ordained presbyter in his native city, he was consecrated Bishop of Mopsuestia in 392 and served that see for thirty-six years. He became the foremost representative of the Antiochene school of exegesis, which sought the literal and historical meaning of the biblical text with rigor and devotion. His commentaries and homilies trained generations of preachers and catechists, and his pupils carried the Gospel eastward. Honored in his lifetime as a teacher and pastor, he devoted his labors to making the mysteries of Scripture plain to the faithful.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Theodore of Mopsuestia to unfold the Scriptures for Your people, grant through his intercession that we may read Your word with understanding and proclaim it with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_Mopsuestia"
+  ],
+  "featured": false,
+  "draft": false
+}

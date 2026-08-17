@@ -1,0 +1,25 @@
+{
+  "slug": "rufus-of-metz",
+  "name": "St. Rufus of Metz",
+  "feastDay": "11-07",
+  "bio": "Rufus of Metz is honored as an early bishop of the ancient see of Metz in Gaul, a city that would become one of the great centers of Frankish Christianity. According to longstanding tradition, he served as bishop for twenty-nine years, shepherding his flock through the turbulent first centuries of the Church's expansion beyond the Roman frontier. Though few details of his life have survived, his memory was preserved in the local liturgy and calendars of Lorraine, where his feast was kept on November 7. By his labors the faith was planted and nurtured in a land that would later produce such luminaries as St. Arnulf and St. Chrodegang. He stands as a witness to the countless bishops of late antiquity whose quiet, faithful ministry laid the foundations of European Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who built Your Church upon the ministry of apostles and bishops, grant through the intercession of St. Rufus that those entrusted with pastoral office may serve with fidelity and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rufus_of_Metz"
+  ],
+  "featured": false,
+  "draft": false
+}

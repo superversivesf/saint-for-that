@@ -1,0 +1,29 @@
+{
+  "slug": "sapor-isaac-mahanes-abraham-and-simeon",
+  "name": "Sts. Sapor, Isaac, Mahanes, Abraham, and Simeon",
+  "feastDay": "11-30",
+  "bio": "Saints Sapor, Isaac, Mahanes, Abraham, and Simeon were Persian Christians who suffered martyrdom under the fierce persecution unleashed by King Shapur II in the fourth century. The Sassanian monarchy, seeking to bind its empire to Zoroastrianism, turned with special savagery upon the Christian communities of Persia, and these five confessors were among the multitude who refused to renounce Christ. Their names, preserved in the Syriac and Chaldean traditions, recall the diversity of the Persian Church, in which bishops, priests, and lay folk suffered side by side. Honored together on November 30, they stand as witnesses to the cost of faith under a hostile state and as patrons of all who face persecution for the name of Christ, their blood watering a Church that endures to this day.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to Ss. Sapor, Isaac, Mahanes, Abraham, and Simeon the grace to die rather than deny You, grant through their intercession that all who suffer for the faith may be strengthened and that persecutors may be brought to the knowledge of the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sapor%2C_Isaac%2C_Mahanes%2C_Abraham%2C_and_Simeon"
+  ],
+  "featured": false,
+  "draft": false
+}

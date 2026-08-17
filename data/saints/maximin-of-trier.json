@@ -1,0 +1,37 @@
+{
+  "slug": "maximin-of-trier",
+  "name": "St. Maximin of Trier",
+  "feastDay": "05-29",
+  "bio": "Maximin was the sixth bishop of Trier, serving in the first half of the fourth century at a time when the Church along the Rhine was still young and beset by the pressures of imperial politics and heresy. He was a close associate of Saint Athanasius, whom he sheltered in Trier during that bishop's exile from Alexandria, and he stood firm against the Arian party that sought to divide the faithful.\n\nUnder his care the see of Trier grew in holiness and influence, and he was revered as a wise and charitable pastor who fed the poor and defended the orthodox faith. Medieval devotion invoked him as a protector against perjury, against loss at sea, and against destructive rains that threatened the harvest.\n\nHe died around the year 347 and was buried at Trier, where his shrine drew pilgrims for centuries. His feast is kept on May 29.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "storms",
+      "category": "nature"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maximin a faithful shepherd of Your Church and a shelter for the exiled, grant through his intercession that we may hold fast to the truth, stand firm against every storm, and keep our conscience clear before You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximin_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pacian",
+  "name": "St. Pacian",
+  "feastDay": "03-09",
+  "bio": "Pacian, or Pacianus, was bishop of Barcelona in the fourth century, a Spaniard of noble birth and a man of deep learning. He governed his diocese during the decades after the Council of Nicaea and combated the Novatian heresy, teaching that even grievous sinners could be reconciled through penance.\n\nHis surviving writings, composed in eloquent Latin, include letters and a treatise on penance, and he is remembered for the phrase Christianus meus non est nomen sed natura, declaring that Christian is not merely a name but a nature. Jerome praised him as a man of chastity and eloquence.\n\nPacian died around 390 and was buried at Barcelona. Venerated as a saint of the Catholic Church, he is honored as a model bishop and teacher whose preaching reconciled sinners to the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Pacian eloquence to defend the faith and a father's heart to reconcile sinners, grant through his intercession that bishops may preach with clarity and that all who have fallen may find the way back to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pacian"
+  ],
+  "featured": false,
+  "draft": false
+}

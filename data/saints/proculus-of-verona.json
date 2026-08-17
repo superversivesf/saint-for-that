@@ -1,0 +1,29 @@
+{
+  "slug": "proculus-of-verona",
+  "name": "St. Proculus of Verona",
+  "feastDay": "12-09",
+  "bio": "Saint Proculus was a bishop of Verona in northern Italy who lived during the great persecutions under the Emperor Diocletian at the turn of the fourth century. According to tradition, he endured imprisonment and torture for the faith yet survived, continuing to shepherd his flock with courage after the persecution abated. He ultimately died of natural causes at Verona, a confessor of the faith rather than a martyr, but honored no less for his steadfastness.\n\nHis relics were later enshrined in the Chapel of San Procolo within the Basilica di San Zeno, one of Verona's most beautiful Romanesque churches. He is commemorated on December 9, the day of his death, and has been venerated for centuries as a protector of the city and of its bishops.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Proculus to confess your name in the midst of persecution, grant through his intercession that we may remain firm in faith when trials come upon us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Proculus_of_Verona"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "theosebia",
+  "name": "St. Theosebia",
+  "feastDay": "01-10",
+  "bio": "Saint Theosebia, called the Deaconess, was a leader of the Christian community in the fourth century and is honored as a saint in the Eastern Orthodox Church and as Blessed in the Catholic tradition. She served the Church in the order of deaconesses, devoting herself to the liturgy, the care of the sick, and the instruction of women catechumens. Ancient witnesses also speak of her as a presbyter, a woman entrusted with ministry in the days when the Church was still young. Her life testifies to the many forms of service that holy women have offered to God from the apostolic age onward, and she remains a model of consecrated pastoral devotion.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Theosebia to serve Your Church as a deaconess, grant through her intercession that all who minister in Your name may serve with humility and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theosebia"
+  ],
+  "featured": false,
+  "draft": false
+}

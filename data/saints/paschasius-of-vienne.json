@@ -1,0 +1,21 @@
+{
+  "slug": "paschasius-of-vienne",
+  "name": "St. Paschasius of Vienne",
+  "feastDay": "unknown",
+  "bio": "Saint Paschasius was bishop of Vienne in the Dauphine, France, in the early fourth century, a successor of the apostolic line of bishops who planted the faith in the Rhone valley. He governed his see in the generation that followed the peace of Constantine, a time of consolidation for the young Gallican Church.\n\nFew particulars of his life have come down, but the ancient martyrologies record him among the bishops of Vienne who preserved the tradition of the see through years of difficulty. He is numbered with the early shepherds who instructed their people and handed on the ministry of the Church.\n\nHe is venerated as a saint of the Catholic Church. His memory recalls the patient succession of bishops who built the Church in Gaul upon the foundation of the apostles.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Paschasius to shepherd the Church of Vienne in its early days, grant through his intercession that bishops may preserve the apostolic faith and hand it on undefiled. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paschasius_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

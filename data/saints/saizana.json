@@ -1,0 +1,25 @@
+{
+  "slug": "saizana",
+  "name": "St. Saizana",
+  "feastDay": "unknown",
+  "bio": "Saizana was the brother of King Ezana of Axum, the ruler whose conversion transformed the ancient kingdom of Axum into one of the first Christian states in history. Situated along the Red Sea in what is now Ethiopia and Eritrea, Axum was a powerful trading empire, and the baptism of its royal house by St. Frumentius in the fourth century sent the Gospel deep into Africa. Saizana stood alongside his brother as the new faith took root, helping to replace the old pagan rites with the worship of Christ. Though the chronicles preserve only glimpses of his life, he is remembered as a royal witness to the conversion of a nation and a patron of the Church's spread among the peoples of the Horn of Africa. His memory endures in the liturgy of the Ethiopian and Eritrean traditions.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the royal house of Axum brought the light of the Gospel to the peoples of Africa, grant through the intercession of St. Saizana that nations and their rulers may turn to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saizana"
+  ],
+  "featured": false,
+  "draft": false
+}

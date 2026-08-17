@@ -1,0 +1,26 @@
+{
+  "slug": "severinus-of-bordeaux",
+  "name": "St. Severinus of Bordeaux",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Severinus was an early bishop of Bordeaux, the great city of Aquitaine, where he shepherded the Church in the centuries after the persecutions had ended.\n\nHe was remembered above all for his strong stance against Arianism, the heresy that denied the true divinity of Christ and that had won the sympathy of many rulers and peoples. Standing firm in the Catholic faith, Severinus taught his people and defended the truth handed down from the apostles.\n\nVenerated as patron saint of the city of Bordeaux on account of the miracles he reputedly worked in its defence, he is honoured in the latest Roman Martyrology. He remains a model of episcopal courage in the face of doctrinal error.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Severinus boldness to defend the truth of your Son's divinity against the errors of his age, grant through his intercession that we may hold fast to the Catholic faith and that your Church may enjoy the unity you desire. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severinus_of_Bordeaux"
+  ],
+  "featured": false,
+  "draft": false
+}

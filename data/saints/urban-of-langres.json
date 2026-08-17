@@ -1,0 +1,29 @@
+{
+  "slug": "urban-of-langres",
+  "name": "St. Urban of Langres",
+  "feastDay": "01-23",
+  "bio": "Urban of Langres served as the sixth Bishop of Langres in Gaul from the year 374 until his death, shepherding a diocese in the twilight of the Roman Empire. Medieval devotion made him the patron of all who tend the vine: vine-growers, vine-dressers, gardeners, vintners, and coopers. The faithful invoked his intercession against the dangers that threaten the harvest, blight and frost and storms, and against the temptations of alcoholism and the faintness that afflicts laborers in the field. His sister Leodegaria shared his holiness. For centuries the wine-growers of Burgundy have honored him as their heavenly protector and advocate before God.",
+  "patronages": [
+    {
+      "need": "gardeners",
+      "category": "everyday"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Urban of Langres bless the labor of those who tend the earth, grant through his intercession that our work may bear fruit and that we may be preserved from every harm of storm and want. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Urban_of_Langres"
+  ],
+  "featured": false,
+  "draft": false
+}

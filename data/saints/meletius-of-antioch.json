@@ -1,0 +1,29 @@
+{
+  "slug": "meletius-of-antioch",
+  "name": "St. Meletius of Antioch",
+  "feastDay": "02-12",
+  "bio": "Meletius of Antioch became patriarch of Antioch in 360, at the height of the controversies that followed the Council of Nicaea. His election was disputed by a rival bishop, Paulinus II, and his episcopate was dominated by the long and painful division known as the Meletian schism. Though himself a defender of the orthodox faith, he was caught between competing factions and was exiled from Antioch three times by imperial authority.\n\nDuring his exiles he traveled widely through the eastern provinces, and his patient and gentle manner won the esteem of such future lights of the Church as Saint Basil, Saint Gregory of Nazianzus, and Saint John Chrysostom, who had been his disciples. He presided over the First Council of Constantinople in 381, but died shortly after its opening, and his funeral was attended by all the bishops, who mourned the loss of a peacemaker.\n\nHe is remembered as a long-suffering pastor who labored without ceasing for the unity of the Church, and whose meekness in controversy bore witness to the charity of Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Meletius a shepherd's heart for a divided Church and made him a father of peacemakers, grant through his intercession that the wounds of division may be healed and that all who confess the faith may be one in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meletius_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

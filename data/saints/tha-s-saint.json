@@ -1,0 +1,25 @@
+{
+  "slug": "tha-s-saint",
+  "name": "St. Thaïs",
+  "feastDay": "10-08",
+  "bio": "Saint Thaïs was a woman of fourth-century Alexandria in Roman Egypt, known in her early life as a courtesan who lived in wealth and pleasure. According to her hagiography, a monk visited her and, with patience and the power of the Gospel, turned her heart to repentance. She burned her possessions and retired to a cell in the Egyptian desert, where she spent three years in penance and prayer, seeking the mercy of God. At the end of her penance the monk returned and found her ready to be received back into the Church's life, and she died shortly after in peace. Her story was cherished in East and West, a testimony to the depth of God's forgiveness. Her feast is kept on 8 October, and she is invoked by all who seek conversion and a fresh beginning.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the repentance of St. Thaïs and made her a sign of Your boundless mercy, grant through her intercession that all who seek a fresh beginning may find the door of Your forgiveness open wide. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tha%C3%AFs_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

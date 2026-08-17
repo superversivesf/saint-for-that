@@ -1,0 +1,26 @@
+{
+  "slug": "silvanus-of-gaza-hieromartyr",
+  "name": "St. Silvanus of Gaza",
+  "feastDay": "05-04",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Silvanus was bishop of Gaza in Palestine during the years of the Great Persecution under Diocletian, when the imperial will sought to crush the Church by force.\n\nAs a bishop he was a father to his people, but he was also a target. Arrested for refusing to sacrifice to the gods, he was condemned to the mines and laboured in chains for the faith. Tradition records that he was finally put to death together with thirty-nine other Christians, a whole company of martyrs drawn from every rank of the Church.\n\nHonoured as a hieromartyr, a priest who shed his blood for Christ, he is venerated by both the Catholic and Orthodox Churches. His feast is kept on 4 May in the West and 14 October in the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Silvanus, your bishop, with the glory of martyrdom, grant through his intercession that we may be faithful to the end and that the Church, watered by the blood of her martyrs, may bear fruit in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Silvanus_of_Gaza_(hieromartyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

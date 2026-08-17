@@ -1,0 +1,26 @@
+{
+  "slug": "soteris",
+  "name": "St. Soteris",
+  "feastDay": "02-10",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Soteris was a Roman Christian virgin of the early fourth century, one of the noble company of women who consecrated themselves wholly to Christ in the years before the Church won peace.\n\nShe lived in Rome under the shadow of the persecutions, and when the storm broke she refused to deny her Lord. Condemned for her faith, she was put to death, joining the virgins and martyrs whose blood watered the Church of the catacombs. Ancient tradition holds that she faced her trial with a calm that astonished her judges.\n\nVenerated by both the Eastern Orthodox and Roman Catholic Churches, she is honoured on 10 February in the West and 11 February in the East. She is remembered as a model of consecrated virginity and of courage under trial.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Soteris the grace of consecrated virginity and the crown of martyrdom, grant through her intercession that those who have pledged themselves to Christ may persevere in purity, and that all your faithful may face trial with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Soteris"
+  ],
+  "featured": false,
+  "draft": false
+}

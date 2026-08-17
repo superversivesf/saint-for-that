@@ -1,0 +1,25 @@
+{
+  "slug": "palladius-of-antioch",
+  "name": "St. Palladius of Antioch",
+  "feastDay": "unknown",
+  "bio": "Palladius of Antioch, also called Palladius the Desert Dweller and Palladius the Hermit, was an early Christian monk who lived in the desert near Antioch in the late fourth century. A friend and companion of Saint Simeon Stylites, he embraced the eremitic life of fasting, vigils, and unceasing prayer.\n\nLittle is recorded of his origins, but the accounts describe a man wholly given to God, who sought solitude in the wilderness and there endured heat and cold, hunger and thirst, for love of Christ. His friendship with Simeon bound him to the great movement of Syrian asceticism that drew thousands into the desert.\n\nHe died around 390 of natural causes and was venerated as a saint from early times. He is honored as a model of the hermit's calling, who left the world to find God in silence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led your servant Palladius into the desert near Antioch to seek you in solitude, grant through his intercession that those who long for silence may find you, and that all who are weary may rest in your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palladius_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

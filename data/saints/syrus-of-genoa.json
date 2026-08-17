@@ -1,0 +1,21 @@
+{
+  "slug": "syrus-of-genoa",
+  "name": "St. Syrus of Genoa",
+  "feastDay": "06-29",
+  "bio": "Saint Syrus of Genoa was a priest and later bishop of Genoa in the fourth century, one of the earliest recorded pastors of that great Italian port city. Little is known of the details of his life, but tradition holds that he labored to establish and strengthen the Christian community in Liguria during the years when the faith was still young in the region. He is remembered as a faithful shepherd who cared for his people in an age of transition, when the Church was emerging from the shadow of persecution into the light of imperial favor. His memory was cherished by the people of Genoa, who venerated him as their heavenly patron and protector. He is invoked as a patron of Genoa and of the bishops who serve their flocks with quiet fidelity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Syrus a faithful shepherd of Your people in Genoa, grant through his intercession that the pastors of Your Church may serve with quiet fidelity and that all who dwell in the cities of the world may know Your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syrus_of_Genoa"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "romedius",
+  "name": "St. Romedius",
+  "feastDay": "01-15",
+  "bio": "Saint Romedius was born into nobility in the early medieval period, yet from his youth he was drawn to a life of contemplation and withdrew to a rock cave in the mountains to meditate and seek God in solitude. When his parents died, he renounced his inheritance and gave away all his possessions, choosing holy poverty over the privileges of his birth. He established himself in the Val di Non in Trentino, the alpine region of northern Italy that is still associated with his memory.\n\nRomedius lived as a hermit in the mountains, and tradition holds that he was befriended by a bear, who became his companion after the saint tamed it. His life of radical simplicity and communion with creation in the high Alps made him one of the most beloved saints of the Tyrolean and Trentino people.\n\nHe is venerated on January 15, and his shrine in the Val di Non, carved into the rock where he once prayed, has been a place of pilgrimage for nearly a thousand years. He is the patron of hunters, mountain travelers, and those who love the solitude of the heights.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "hunters",
+      "category": "everyday"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Romedius to leave all things and seek you in the solitude of the mountains, grant through his intercession that we may learn to detach ourselves from worldly possessions and find you in the silence of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romedius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pachomius-the-great",
+  "name": "St. Pachomius the Great",
+  "feastDay": "05-09",
+  "bio": "Pachomius was born in the late third century in Upper Egypt, a pagan conscripted into the Roman army who first met Christianity through the kindness of Christians who brought food to the prisoners. Released, he was baptized and became a disciple of the hermit Palemon. After years of asceticism, he gathered disciples and around 320 founded the first Christian monastery at Tabennisi on the Nile.\n\nHe wrote a rule that organized monks into companies under superiors, set hours for prayer and work, and required obedience, the foundation of cenobitic monasticism. Before his death around 346, his federation had grown to nine monasteries with thousands of monks.\n\nVenerated by the Coptic, Eastern Orthodox, and Catholic churches, Pachomius is honored as the father of communal monastic life.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Pachomius from the army of the world to gather a host of monks under one rule, grant through his intercession that those who seek you in community may persevere in obedience and prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

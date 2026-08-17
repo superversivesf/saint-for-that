@@ -1,0 +1,22 @@
+{
+  "slug": "simplicius-of-vienne",
+  "name": "St. Simplicius of Vienne",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Simplicius, also called Simplides, was bishop of Vienne in the Dauphiné, in the Rhône valley of Gaul, around the end of the fourth century and the beginning of the fifth.\n\nHe governed the see of Vienne in the years when the Church of Gaul was consolidating itself after the long age of persecution, and when the great sees of southern France were becoming centres of learning and pastoral care. Though little detail of his life survives, his name was preserved in the martyrologies as one of the bishops who held the line of the faith in a time of transition.\n\nVenerated as a saint of the Catholic Church, he is remembered among the pastors of Gaul who served quietly and faithfully in the shadow of the declining empire.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Simplicius a faithful bishop of Vienne in the twilight of empire, grant through his intercession that your Church may stand firm in every age and that her pastors may serve you with quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simplicius_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

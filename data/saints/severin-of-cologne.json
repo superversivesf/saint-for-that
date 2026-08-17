@@ -1,0 +1,26 @@
+{
+  "slug": "severin-of-cologne",
+  "name": "St. Severin of Cologne",
+  "feastDay": "10-23",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Severin served as the third Bishop of Cologne in the latter years of the fourth century, when the Church along the Rhine was still young and the memory of Roman power was fading.\n\nLittle is recorded of his life, but tradition preserves his memory as a faithful pastor who shepherded his flock in uncertain times, when barbarian pressures pressed upon the frontiers and the faith of the people needed firm guidance.\n\nVenerated on 23 October, he is invoked against bad luck and drought, and his relics were later translated with honour within the cathedral of Cologne. He stands as a quiet witness to the bishops who built up the Church in the Germanic lands.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Severin a steadfast bishop of Cologne in days of trial, grant through his intercession that we may be preserved from misfortune and drought, and that the Church in every land may flourish under faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severin_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

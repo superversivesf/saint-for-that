@@ -1,0 +1,25 @@
+{
+  "slug": "monas-bishop-of-milan",
+  "name": "St. Monas",
+  "feastDay": "10-12",
+  "bio": "Monas served as Bishop of Milan at the turn of the third to fourth century, governing that ancient see during the final years of Roman persecution and the first stirrings of the Church's public freedom. He is counted among the early line of bishops who shepherded the Church of Milan through perilous times, when confession of the faith could lead to imprisonment or death.\n\nThough the record of his episcopate is sparse, tradition preserves his name as a faithful pastor who upheld the Church's discipline and guided his flock with quiet devotion. The see he served would later be glorified by St. Ambrose, but bishops like Monas laid the groundwork in obscurity and trial. The Catholic Church honors him as a saint, with his feast kept on October 12, a witness to the continuity of apostolic faith across generations.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Monas as a faithful bishop in days of trial, grant through his intercession that all pastors may stand firm in the faith and guide Your people with unwavering devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monas_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

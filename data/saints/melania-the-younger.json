@@ -1,0 +1,37 @@
+{
+  "slug": "melania-the-younger",
+  "name": "St. Melania the Younger",
+  "feastDay": "12-31",
+  "bio": "Melania the Younger, born around 383 into one of the wealthiest senatorial families of Rome, was the paternal granddaughter of Saint Melania the Elder. Betrothed against her wishes at the age of fourteen to her kinsman Valerius Pinianus, she soon lost two children in infancy and resolved, with her husband's eventual consent, to live in continence and to devote herself wholly to God.\n\nAfter the death of their children, the couple freed their vast households of slaves, sold their estates across Italy, Africa, and Spain, and gave the proceeds to the poor and to the Church. They traveled to North Africa, where they befriended Saint Augustine and established religious houses, and then to Jerusalem, where Melania founded a monastery on the Mount of Olives and lived as an ascetic for many years.\n\nShe died in 439, renowned for her humility, her generosity, and her wise counsel to monks and nuns. She is honored as a Desert Mother and a model of the renunciation of wealth for the sake of the Kingdom.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Melania the Younger to count all things as loss for the sake of Christ, grant through her intercession that we may be freed from the love of earthly possessions and given hearts generous toward the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melania_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

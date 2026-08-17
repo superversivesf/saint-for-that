@@ -1,0 +1,33 @@
+{
+  "slug": "regulus",
+  "name": "St. Regulus",
+  "feastDay": "10-17",
+  "bio": "Saint Regulus, also known as Saint Rule, was a legendary fourth-century monk or bishop of Patras in Greece. According to tradition, he was warned in a vision that the relics of Saint Andrew the Apostle were in danger and was divinely instructed to carry them to the farthest corner of the known world. Obeying the heavenly command, he set out with a few companions on a perilous voyage that brought him to the coast of Scotland.\n\nThere, around the year 345, he is said to have deposited the bones of Saint Andrew at a site that became known as St. Andrews, giving the place its name and making it one of the most important pilgrimage destinations of medieval Europe. His feast day in the Aberdeen Breviary is October 17, and he is honored as the bearer of one of Christendom's most precious relics.\n\nWhether history or pious legend, his story captures the missionary zeal of the early Church and the deep devotion of the Scottish people to Saint Andrew.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Regulus across the sea to bring the relics of your apostle Andrew to a distant land, grant through his intercession that we may carry the faith wherever you lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Regulus"
+  ],
+  "featured": false,
+  "draft": false
+}

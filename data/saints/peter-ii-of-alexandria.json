@@ -1,0 +1,29 @@
+{
+  "slug": "peter-ii-of-alexandria",
+  "name": "St. Peter II of Alexandria",
+  "feastDay": "02-27",
+  "bio": "Patriarch Peter II of Alexandria was the 21st Patriarch of Alexandria, serving from AD 373 to AD 381. He was a devoted disciple of Athanasius of Alexandria, who, knowing the Arian party would continue to press against the see of Alexandria, designated Peter as his successor before his death in 373.\n\nPeter inherited the long struggle of his predecessor to hold the Alexandrian church faithful to the orthodox doctrine of Christ's divinity. As patriarch he stood firm against the Arian party and the imperial officials who supported them, continuing the witness of Athanasius in difficult years.\n\nHe died in 381, the same year as the First Council of Constantinople, which reaffirmed the Nicene faith he had championed. He is remembered as a faithful shepherd who kept the see of Alexandria in the orthodox faith during a turbulent generation.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Peter II to succeed Athanasius and to keep the see of Alexandria steadfast in the faith, grant through his intercession that pastors may hand on the truth undefiled and that your Church may remain faithful to the confession of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_II_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "onuphrius",
+  "name": "St. Onuphrius",
+  "feastDay": "06-12",
+  "bio": "Onuphrius lived as a hermit in the desert of Upper Egypt in the fourth or fifth centuries. He is venerated as Saint Onuphrius in both the Roman Catholic and Eastern Catholic churches, as Venerable Onuphrius in Eastern Orthodoxy, and as Saint Nofer the Anchorite in Oriental Orthodoxy. According to the account of his life, Onuphrius was discovered by a monk named Paphnutius, who had set out into the wilderness seeking the desert fathers. He found the aged hermit clothed only in his long hair and a loincloth of leaves, sustained for decades by bread brought each day by an angel. When Onuphrius sensed his death approaching, he asked Paphnutius to bury him in the sand. His feast is kept on June 12.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "weavers",
+      "category": "jobs"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Onuphrius in the wilderness for decades by the ministry of Your angels, grant through his intercession that those who seek You in solitude may never lack the bread of Your presence and the strength of Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Onuphrius"
+  ],
+  "featured": false,
+  "draft": false
+}

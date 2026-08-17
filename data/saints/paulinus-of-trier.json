@@ -1,0 +1,33 @@
+{
+  "slug": "paulinus-of-trier",
+  "name": "St. Paulinus of Trier",
+  "feastDay": "08-31",
+  "bio": "Saint Paulinus of Trier was bishop of Trier in the fourth century and a staunch supporter of St. Athanasius the Great in the conflict against Arianism. When Athanasius was driven from his see and sought refuge in the West, Paulinus received him and defended the orthodox faith at the Council of Sardica in 343.\n\nAt the Synod of Arles in 353, Paulinus was targeted by the Arians and singled out by the Emperor Constantius II, who pressured the bishops present to condemn Athanasius. Paulinus refused, and was therefore exiled to Phrygia in Asia Minor, where he died in exile five years later, having never wavered in his confession.\n\nHis remains were returned to Trier in 395 and laid to rest in the crypt of the church that bears his name. He is honored as a confessor of the faith and a model of episcopal courage in the face of imperial pressure to compromise the truth.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Paulinus of Trier the courage to defend the truth against imperial power and to die in exile rather than betray his brother, grant through his intercession that bishops may be fearless shepherds and your Church may be kept in unity of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paulinus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

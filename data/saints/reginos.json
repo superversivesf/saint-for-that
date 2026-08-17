@@ -1,0 +1,29 @@
+{
+  "slug": "reginos",
+  "name": "St. Reginos",
+  "feastDay": "02-25",
+  "bio": "Saint Reginos is the patron saint of the Greek island of Skopelos in the northern Sporades. Christian tradition holds that he was a bishop who was tortured to death in 362 AD, during the persecution launched by the Emperor Julian the Apostate, who sought to revive pagan worship and suppress the growing Christian faith.\n\nReginos shepherded his flock with courage in a time of great danger, refusing to abandon his people or his confession of Christ. His martyrdom made him a symbol of the island's Christian identity, and his memory has been cherished on Skopelos for centuries. His feast day, February 25, is a local holiday on the island, marked by liturgical celebrations and popular devotion.\n\nHe is remembered as a faithful bishop who gave his life for the flock entrusted to him, a patron and protector of the island that still honors him.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Reginos the grace to lay down his life for his flock, grant through his intercession that we may be faithful shepherds of those entrusted to our care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reginos"
+  ],
+  "featured": false,
+  "draft": false
+}

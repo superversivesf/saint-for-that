@@ -1,0 +1,26 @@
+{
+  "slug": "sergius-of-cappadocia",
+  "name": "St. Sergius of Cappadocia",
+  "feastDay": "02-24",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Sergius of Cappadocia was a monk of Asia Minor in the generation before the great Council of Nicaea, when the Church enjoyed a brief peace before the storm. He devoted himself to prayer and the ascetic discipline of the desert, seeking God in silence and fasting.\n\nWhen the Emperor Diocletian unleashed the most savage of the imperial persecutions, Sergius refused to sacrifice to the pagan gods. He was arrested, tortured, and finally put to death for the name of Christ, joining the noble company of the Cappadocian martyrs.\n\nVenerated on 24 February, he is remembered as a witness to the faith who loved Christ more than life itself.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Sergius of Cappadocia grace to embrace the monastic life and courage to die for the name of Christ, grant through his intercession that we may love you above all things and witness to our faith with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sergius_of_Cappadocia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ursicinus-of-brescia",
+  "name": "St. Ursicinus of Brescia",
+  "feastDay": "12-01",
+  "bio": "Ursicinus of Brescia was an Italian bishop who governed the Church of Brescia in Lombardy in the middle of the fourth century. In the year 347 he took part in the Council of Sardica, a gathering of bishops from East and West that sought to defend the orthodox faith and uphold the dignity of Saint Athanasius. He died in that same year and was laid to rest in Brescia, where his shrine may still be seen. Honored as a faithful hierarch who labored for the unity of the Church in a time of bitter division, he is remembered among the bishops of northern Italy who kept watch over their flocks through the storms of the Arian controversy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Ursicinus strengthened the unity of Your Church at the Council of Sardica, grant through his intercession that Your bishops may labor for peace and truth among Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursicinus_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

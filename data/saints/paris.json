@@ -1,0 +1,21 @@
+{
+  "slug": "paris",
+  "name": "St. Paris",
+  "feastDay": "08-05",
+  "bio": "Saint Paris, also called Paris of Teano, was ordained bishop of Teano in Campania by Pope Sylvester I in the early fourth century, at a time when the Church, freshly freed from persecution, was beginning to build its first churches and establish its ministry in the towns of Italy.\n\nLittle is recorded of his origins or his labors, but the tradition of Teano honors him as the first bishop of that city and a faithful shepherd of the people entrusted to his care. He is said to have governed the see with prudence and to have died in peace, and his memory was kept by the clergy and people of the diocese.\n\nHis feast is kept on August 5 and he is venerated in both the Eastern Orthodox and Roman Catholic churches. He is honored as a patron and protector of the city that received his ministry.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who appointed your servant Paris to be the first bishop of Teano, grant through his intercession that the shepherds of your Church may serve their people with prudence and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Paris"
+  ],
+  "featured": false,
+  "draft": false
+}

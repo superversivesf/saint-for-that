@@ -1,0 +1,29 @@
+{
+  "slug": "maxima-of-rome",
+  "name": "St. Maxima of Rome",
+  "feastDay": "09-02",
+  "bio": "Maxima of Rome was a Christian slave and the spiritual friend of Saint Ansanus of Siena, the apostle of that city. During the fierce persecutions unleashed by the Emperor Diocletian at the turn of the fourth century, she consecrated herself to Christ in the secrecy of her lowly station, assisting Ansanus in his ministry and encouraging the faithful who were brought before the tribunals.\n\nAccording to the accounts of her passion, she was arrested and confessed her faith with steadfast courage. She was beaten to death for her refusal to renounce Christ, around the year 304, and so joined the noble company of the martyrs of Rome. Her memory was cherished locally, and her feast is kept on September 2.\n\nShe is honored as a model of fidelity under oppression, a woman whose slavery on earth became the gateway to freedom and glory in heaven.",
+  "patronages": [
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Maxima in her sufferings and crowned her with the palm of martyrdom, grant through her intercession that all who are enslaved or oppressed may find in Christ the freedom of the children of God. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maxima_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

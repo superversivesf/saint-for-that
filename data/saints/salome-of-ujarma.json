@@ -1,0 +1,25 @@
+{
+  "slug": "salome-of-ujarma",
+  "name": "St. Salome of Ujarma",
+  "feastDay": "unknown",
+  "bio": "Salome was an Armenian princess of the Arsacid dynasty who became, through marriage, a queen of the Chosroid dynasty of Iberia, the ancient kingdom of eastern Georgia. She was a daughter of King Tiridates III of Armenia and Queen Ashkhen, the royal house whose conversion by St. Gregory the Illuminator had made Armenia the first Christian nation. In Georgia she carried that same faith across the mountains, and the early medieval Georgian chronicle Life of Kings preserves her memory. In Georgian tradition she is called Salome of Ujarma after the castle where she is credited with erecting a cross, a sign of the Gospel's triumph in a still-pagan land. Honored by both the Armenian and Georgian churches, she stands as a royal patron of the Church's roots in the Caucasus.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "brides",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who planted the cross in Iberia through the faith of St. Salome, grant through her intercession that women who carry the Gospel into new homes and lands may be strengthened in grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salome_of_Ujarma"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sylvia-of-aquitaine",
+  "name": "St. Sylvia of Aquitaine",
+  "feastDay": "unknown",
+  "bio": "Sylvia of Aquitaine was a fourth-century nun from the region of Aquitaine in Roman Gaul who undertook a pilgrimage to the holy places of the East. An account attributed to her was long believed to be one of the earliest records of a Christian woman's journey to Jerusalem and the monasteries of the Near East, describing the liturgies, landscapes, and sacred sites she encountered along the way. Modern scholarship has shown that this narrative was in fact the work of another nun, Egeria, yet Sylvia's memory endured among the faithful of Gaul as a woman of devotion who left her homeland to visit the places sanctified by the life of Christ. She is remembered as a witness to the early spirit of Christian pilgrimage. She is invoked as a patron of pilgrims and of all who journey in search of God.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Sylvia of Aquitaine to seek the holy places where Your Son walked the earth, grant through her intercession that all who journey in faith may find You present at every step of their road. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sylvia_of_Aquitaine"
+  ],
+  "featured": false,
+  "draft": false
+}

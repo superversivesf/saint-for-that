@@ -1,0 +1,29 @@
+{
+  "slug": "philastrius",
+  "name": "St. Philastrius",
+  "feastDay": "07-18",
+  "bio": "Philastrius served as Bishop of Brescia in northern Italy during the late fourth century, a turbulent era when the Church was contending with Arianism and other doctrinal divisions. He was among the bishops who gathered at the synod of Aquileia in 381, convened under the authority of St. Ambrose to address heresy and defend orthodox teaching on the Trinity.\n\nPhilastrius is also remembered as the author of a treatise against heresies, demonstrating his pastoral concern for preserving the integrity of the faith handed down from the apostles. He shepherded his flock with steadfastness during a period of great theological conflict and died around the year 397, leaving a legacy of doctrinal fidelity and episcopal zeal.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Philastrius to defend the orthodox faith against the errors of his age, grant through his intercession that we may remain steadfast in the truth handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philastrius"
+  ],
+  "featured": false,
+  "draft": false
+}

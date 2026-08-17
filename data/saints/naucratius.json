@@ -1,0 +1,33 @@
+{
+  "slug": "naucratius",
+  "name": "St. Naucratius",
+  "feastDay": "unknown",
+  "bio": "Saint Naucratius was born into one of the most luminous families of the early Church, the son of Basil the Elder and Emmelia of Caesarea in Cappadocia. He was the younger brother of Macrina the Younger and St. Basil the Great, and an older brother of St. Gregory of Nyssa and St. Peter of Sebaste—a household that would give the Church no fewer than four saints and a legacy of holiness spanning generations.\n\nNaucratius distinguished himself in both scholarship and Christian devotion. While still a young man, he withdrew to a solitary life as a hermit on the banks of the Iris, dedicating himself to prayer, study, and the care of the poor. His brief life of contemplation ended in tragedy when he died in a hunting accident, breaking the hearts of his family, especially Macrina, whose account of his life survives in the writings of Gregory of Nyssa. He is remembered as a scholar-saint whose love of learning was surrendered to a greater love of solitude and God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Naucratius a love of learning and a greater love of solitude, grant through his intercession that all who seek You in study and silence may find You present in both, and that families may be blessed with the grace of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naucratius"
+  ],
+  "featured": false,
+  "draft": false
+}

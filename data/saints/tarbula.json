@@ -1,0 +1,25 @@
+{
+  "slug": "tarbula",
+  "name": "St. Tarbula",
+  "feastDay": "04-04",
+  "bio": "Tarbula, also called Tarbu, Therbuta, Pherbutha, and Phermoutha, was a Syriac Christian virgin and martyr of the fourth century who suffered under the Persian king Shapur II. She was accused of witchcraft and of causing the illness of the Persian queen, and for this false charge she was condemned to a death of unspeakable cruelty, being cut in half with a saw. Her passion is recorded among the Persian martyr acts, which preserve the memory of the Christians who gave their lives during the great persecution of the Sasanian rulers. She bore her sentence with the courage of one who knew her innocence before God. Her feast is kept on 4 April, and she is invoked by all who suffer false accusation, oppression, and the violence of the powerful.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Tarbula courage to face a martyr's death though she was innocent of the charges against her, grant through her prayers that all who suffer false accusation and the violence of the powerful may find justice in Your sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tarbula"
+  ],
+  "featured": false,
+  "draft": false
+}

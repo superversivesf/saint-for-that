@@ -1,0 +1,21 @@
+{
+  "slug": "theoclia",
+  "name": "St. Theoclia",
+  "feastDay": "unknown",
+  "bio": "Saint Theoclia was an Egyptian martyr and saint of the fourth century, one of the many confessors of the early Church in the land of the Nile. Little is recorded of the circumstances of her life and death, but her name was preserved among the saints of Egypt, where the Church endured long seasons of trial and gave witness to Christ through the blood of countless martyrs. She is remembered as one of those hidden saints whose deeds are known to God alone, yet whose intercession the faithful have trusted across the centuries. Her memory is a reminder that the communion of saints includes not only those whose stories are written in full, but the multitude whose faithful endurance was recorded only in heaven. She is invoked as a patron of all who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered St. Theoclia among the martyrs of Egypt whose names are known to You alone, grant through her intercession that all who suffer for the faith may find their reward in Your eternal kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Theoclia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "paphnutius-of-thebes",
+  "name": "St. Paphnutius of Thebes",
+  "feastDay": "09-11",
+  "bio": "Paphnutius of Thebes, also called Paphnutius the Confessor, was a fourth-century Egyptian bishop, a disciple of Saint Anthony the Great, and a witness to the sufferings of the early Church. During the persecution under Maximinus Daia he was arrested, mutilated, and sent to the mines, bearing the marks of his confession for life.\n\nAfter the Edict of Milan he was released and restored to his see in the Upper Thebaid. He is counted among the bishops who attended the First Council of Nicaea in 325, where he defended the faith he had suffered for. The accounts say Constantine would often kiss the eye the persecutors had put out.\n\nHe died around the middle of the fourth century and is venerated by the Catholic and Eastern churches as a confessor of the faith. His feast is September 11.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your confessor Paphnutius strength to endure mutilation for the faith and to confess your truth at Nicaea, grant through his intercession that all who suffer for your name may be sustained, and that bishops may defend the faith with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paphnutius_of_Thebes"
+  ],
+  "featured": false,
+  "draft": false
+}

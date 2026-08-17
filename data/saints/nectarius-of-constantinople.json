@@ -1,0 +1,29 @@
+{
+  "slug": "nectarius-of-constantinople",
+  "name": "St. Nectarius of Constantinople",
+  "feastDay": "unknown",
+  "bio": "Nectarius served as Archbishop of Constantinople from 381 until his death, succeeding St. Gregory of Nazianzus in that great see and preceding the even more celebrated St. John Chrysostom. His election came at the Council of Constantinople, the second ecumenical council, which confirmed the Nicene faith and defined the full divinity of the Holy Spirit.\n\nThough less renowned than the giants between whom he served, Nectarius governed the Church of the imperial capital with dignity during a time of theological ferment, preserving order and discipline while the Church consolidated its doctrine against lingering Arianism. He was a layman of noble character when chosen to the episcopate, a sign of the esteem in which he was held. His tenure maintained the unity of the see through turbulent years, and he handed on a Church prepared for the reforming zeal of Chrysostom. He is remembered as a faithful bridge between two eras of Constantinople's episcopal glory.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Nectarius a faithful shepherd of Constantinople in a time of doctrinal strife, grant through his intercession that Your Church may ever preserve the unity of the faith and the peace of right order. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nectarius_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

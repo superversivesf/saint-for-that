@@ -1,0 +1,25 @@
+{
+  "slug": "nino",
+  "name": "St. Nino",
+  "feastDay": "01-14",
+  "bio": "Saint Nino was a woman who preached Christianity in the territory of the Kingdom of Iberia, in what is now the country of Georgia. Her preaching led to the Christianization of Iberia, making her one of the most important missionary figures in the history of the Georgian Church. According to tradition, Nino arrived bearing a cross of grapevines bound with her own hair. Through her witness and the healing miracles attributed to her, she won the favor of the royal household, and King Mirian III declared Christianity the state religion of Iberia around 327. She is revered as the Enlightener of Georgia, and her feast is kept on January 14.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Nino to bring the light of the gospel to the people of Iberia and to lead a nation to the waters of baptism, grant through her intercession that the nations who still walk in darkness may come to know the saving truth of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Nino"
+  ],
+  "featured": false,
+  "draft": false
+}

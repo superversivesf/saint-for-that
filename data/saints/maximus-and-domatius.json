@@ -1,0 +1,29 @@
+{
+  "slug": "maximus-and-domatius",
+  "name": "St. Maximus and Domatius",
+  "feastDay": "unknown",
+  "bio": "Maximus and Domatius were Roman noblemen of the fourth century who, moved by the example of the early desert fathers, renounced their wealth and station to embrace the monastic life in Egypt. They are said to have been friends or kinsmen who together sought out the great Macarius in the desert of Scetis, placing themselves under his spiritual direction.\n\nIn the wilderness they gave themselves to prayer, fasting, and manual labor, sharing the hardships of the monks and drawing many others to the ascetic way. Their consecration helped establish the young monastic tradition of Egypt, and they were venerated as models of voluntary poverty and single-hearted devotion to Christ.\n\nThey are honored in the Coptic Orthodox Church, the Syriac Orthodox Church, and the Eastern Orthodox Church, and their memory endures as a testimony to the power of the Gospel to call even the privileged to the radical freedom of the desert.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Maximus and Domatius from the honors of the world to the silence of the desert, grant through their intercession that we may be detached from earthly things and seek You with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_and_Domatius"
+  ],
+  "featured": false,
+  "draft": false
+}

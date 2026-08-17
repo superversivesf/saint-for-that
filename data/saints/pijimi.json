@@ -1,0 +1,29 @@
+{
+  "slug": "pijimi",
+  "name": "St. Pijimi",
+  "feastDay": "unknown",
+  "bio": "Pijimi is a fourth-century Coptic saint, a native of Fisha in the diocese of Masil, in the Egyptian heartland where Christian monasticism was taking root. Little survives in the historical record about his life, but the Coptic tradition preserves his memory as one of the early witnesses to the faith in the desert communities of Egypt.\n\nHe is honored among the saints of the Coptic Church, which from the earliest centuries cultivated a rich devotion to the hermits, ascetics, and martyrs who consecrated their lives to Christ amid the silence of the desert. His witness recalls the great cloud of Egyptian saints whose hidden lives of prayer helped shape the spiritual heritage of the universal Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Pijimi to the quiet desert of Egypt to seek your face in prayer, grant through his intercession that we too may find you in stillness and silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pijimi"
+  ],
+  "featured": false,
+  "draft": false
+}

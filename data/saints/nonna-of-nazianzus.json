@@ -1,0 +1,25 @@
+{
+  "slug": "nonna-of-nazianzus",
+  "name": "St. Nonna of Nazianzus",
+  "feastDay": "08-05",
+  "bio": "Saint Nonna of Nazianzus was the wife of Gregory of Nazianzus the Elder, and the mother of Gregory the Theologian, Caesarius, and Gorgonia. She lived in Cappadocia, a province of the Roman Empire in present-day central Turkey, during the fourth century. Raised in a Christian family, Nonna married Gregory, who was then still a member of the Hypsistarian sect, and through her prayers and example she brought him to full Christian faith. Her household produced three saints, including Gregory the Theologian, one of the greatest Fathers of the Church. Her life of motherhood and steadfast prayer made her a model of the Christian family. Her feast is kept on August 5.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Nonna of Nazianzus a faithful mother and the spiritual guide of a household of saints, grant through her intercession that all parents may raise their children in the knowledge and love of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nonna_of_Nazianzus"
+  ],
+  "featured": false,
+  "draft": false
+}

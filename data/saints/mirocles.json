@@ -1,0 +1,25 @@
+{
+  "slug": "mirocles",
+  "name": "St. Mirocles",
+  "feastDay": "12-03",
+  "bio": "Mirocles served as Bishop of Milan in the early years of the fourth century, governing that see during the transition from the age of persecution to the peace of the Church under Constantine. He is counted among the earliest recorded bishops of Milan, laboring at a time when the Church was emerging from the catacombs into the public life of the empire.\n\nThough few details of his life survive, tradition honors him as a faithful shepherd who upheld the faith and maintained the discipline of the Church during a period of rapid growth and change. The see he served would later be adorned by St. Ambrose, but Mirocles' quiet fidelity laid early foundations for that flourishing. He is venerated as a saint in the Catholic Church, with his feast kept on December 3.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Mirocles a faithful shepherd of Your people in Milan during the dawn of the Church's peace, grant through his intercession that all bishops may govern with steadfast faith and pastoral zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mirocles"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "isidore-of-alexandria",
+  "name": "St. Isidore of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Saint Isidore of Alexandria was an early Christian ascetic whose life of heroic mortification made him a model of the desert tradition. After years in the Egyptian desert, he was taken from his cell by St. Athanasius, ordained priest, and placed in the dignity of hospitaller, charged with receiving pilgrims and the poor. In that great city he lived as a model of meekness and prayer, frequently weeping at table as he reflected that one made to enjoy God should feed on the food of brutes. Sought out by Palladius and other aspirants to the ascetic life, he proved a skilful director of souls. He suffered persecution from the Arian intruder Lucius and was unjustly accused of Origenism by Theophilus, yet he condemned that heresy at Constantinople, where he died in 403 under St. John Chrysostom.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Isidore from the desert to minister to Your people with meekness and tears, grant through his intercession that we may hunger for the bread of angels and stand firm against every false accusation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Isidore_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

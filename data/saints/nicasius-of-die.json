@@ -1,0 +1,25 @@
+{
+  "slug": "nicasius-of-die",
+  "name": "St. Nicasius of Die",
+  "feastDay": "unknown",
+  "bio": "Nicasius of Die was a fourth-century bishop from Gaul, in present-day France. As Bishop of Die he is notable to history as one of only five Catholic bishops from the Western part of the Roman Empire who attended the First Council of Nicaea in 325. That council, convoked by Emperor Constantine, produced the Nicene Creed, the foundational statement of Christian belief in the consubstantiality of the Son with the Father. Nicasius's long journey from southern Gaul to Bithynia to take part in these deliberations testifies to his commitment to orthodox teaching and to the unity of the Church. His feast day is not widely recorded.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Nicasius of Die to the Council of Nicaea to confess the divinity of Your Son, grant through his intercession that all bishops may guard the unity of the faith and the truth handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicasius_of_Die"
+  ],
+  "featured": false,
+  "draft": false
+}

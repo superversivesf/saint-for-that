@@ -1,0 +1,26 @@
+{
+  "slug": "servatius-of-tongeren",
+  "name": "St. Servatius of Tongeren",
+  "feastDay": "05-13",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Servatius was bishop of Tongeren in what is now Belgium, one of the first dioceses in the Low Countries. Tradition holds that he was sent to Gaul by the pope and that he guarded the relics of the apostles, bringing them to the north to strengthen the young Church.\n\nAs bishop he defended his people against invasion and heresy, and after the destruction of Tongeren he transferred his see to Maastricht, where he died around 384. His shrine at Maastricht became one of the great pilgrimage sites of the medieval Rhineland.\n\nHonoured on 13 May as one of the Ice Saints, whose feast days fall in mid-May, he is invoked against foot troubles, lameness, and rheumatism, and against rats and mice.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "chronic pain",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Servatius a faithful bishop and the guardian of your people in the Low Countries, grant through his intercession that those who suffer pain of body or plague of vermin may find relief, and that your Church may be strengthened by the ministry of her pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Servatius_of_Tongeren"
+  ],
+  "featured": false,
+  "draft": false
+}

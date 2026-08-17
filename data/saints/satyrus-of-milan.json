@@ -1,0 +1,25 @@
+{
+  "slug": "satyrus-of-milan",
+  "name": "St. Satyrus of Milan",
+  "feastDay": "09-17",
+  "bio": "Satyrus of Milan was an Italian Catholic administrator of the fourth century, born in Augusta Treverorum, the Roman city now known as Trier. He was the elder brother of St. Ambrose of Milan and of the virgin St. Marcellina, and together the three siblings formed one of the most remarkable families of the late Roman Church. While Ambrose pursued the path of a governor and then an unwilling bishop, and Marcellina devoted herself to consecrated virginity, Satyrus gave himself to the administration of the Church's temporal affairs, serving his brother with quiet competence. When Satyrus died unexpectedly, Ambrose preached a profound funeral oration that survives to this day. Honored as patron of sacristans of Milan, Satyrus is a model of humble service behind the scenes.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Satyrus to serve Your Church in humility as the brother of St. Ambrose, grant through his intercession that we may support the work of the Gospel with quiet devotion and love those You have given us as family. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Satyrus_of_Milan"
+  ],
+  "featured": false,
+  "draft": false
+}

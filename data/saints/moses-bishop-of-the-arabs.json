@@ -1,0 +1,33 @@
+{
+  "slug": "moses-bishop-of-the-arabs",
+  "name": "St. Moses",
+  "feastDay": "02-07",
+  "bio": "Moses, venerated as Saint Moses, spent many years in the fourth century as a hermit on the desert frontier between Egypt and Syria, dwelling on the margins of the Roman world in fasting and prayer. Renowned for his holiness and reputed miracles, he drew the respect of both Christian and Arab communities.\n\nWhen the Arab warrior-queen Mavia sought terms of peace with Rome, she made one condition: that Moses, the holy hermit, be consecrated bishop over her people. Rome acquiesced, and Moses became the first Arab bishop of the Arab tribes, bridging the desert and the empire, the hermit's cell and the pastoral chair. His consecration marked the formal planting of the Church among the Arabs, and his ministry united the zeal of the desert with the care of souls. He is remembered as a pioneer of the faith in Arabia and a peacemaker whose sanctity opened doors no army could.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Moses from the solitude of the desert to be the first bishop of the Arab peoples and a peacemaker between nations, grant through his intercession that hermits and pastors alike may serve You with undivided hearts, and that peace may flourish where strife has reigned. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moses_(bishop_of_the_Arabs)"
+  ],
+  "featured": false,
+  "draft": false
+}

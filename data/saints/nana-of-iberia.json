@@ -1,0 +1,33 @@
+{
+  "slug": "nana-of-iberia",
+  "name": "St. Nana of Iberia",
+  "feastDay": "unknown",
+  "bio": "Nana was a Queen consort of the Kingdom of Iberia, the ancient Georgian realm, in the fourth century. As the second wife of King Mirian III, she played a decisive role in the conversion of the Georgian people to Christianity. According to tradition, she was healed of a grave illness through the prayers of the missionary St. Nino, and in gratitude she embraced the Christian faith and urged her royal husband toward the same.\n\nHer witness, joined to Mirian's, made Iberia one of the first kingdoms to adopt Christianity as its state religion. The Georgian Orthodox Church honors her as Saint Equal-to-the-Apostles Queen Nana, a royal woman whose faith helped turn a nation to Christ. She is remembered as a patron of converts, of queens who labor for their people's good, and of the enduring faith of Georgia.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Nana of Iberia to the faith through the prayers of Your servant Nino and made her a royal herald of the Gospel, grant through her intercession that all who seek You in sickness or doubt may find healing of body and soul. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nana_of_Iberia"
+  ],
+  "featured": false,
+  "draft": false
+}

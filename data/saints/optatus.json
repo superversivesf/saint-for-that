@@ -1,0 +1,29 @@
+{
+  "slug": "optatus",
+  "name": "St. Optatus",
+  "feastDay": "06-04",
+  "bio": "Optatus, sometimes anglicized as Optate, was Bishop of Milevis, in Numidia, in the fourth century. His see city lay in the North African province that corresponds to present-day Algeria, a region that in his time was among the most vibrant centers of Christian thought in the Latin-speaking West. Optatus is remembered above all for his writings against Donatism, the schismatic movement that claimed the sacraments of clergy who had lapsed under persecution were invalid. He defended the catholic doctrine that the sacraments derive their efficacy from Christ, not from the holiness of the minister. His treatise, Against the Donatists, is among the earliest Latin theological works on the nature of the Church. His feast is kept on June 4.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Optatus to defend the unity of Your Church and the power of the sacraments against the schism of his day, grant through his intercession that all who teach the faith may hold fast to the truth and labor for the healing of divisions. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Optatus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tiridates-iii-of-armenia",
+  "name": "St. Tiridates III of Armenia",
+  "feastDay": "11-29",
+  "bio": "Tiridates III, called the Great, was the Arsacid king of Armenia in the late third and early fourth centuries. According to the tradition of the Armenian Church, he was healed of a grievous affliction through the prayers of Saint Gregory the Illuminator, whom he had once persecuted. In gratitude he embraced the Christian faith and, around the year 301, proclaimed Christianity the state religion of his kingdom, making Armenia the first nation on earth to adopt the Gospel as its official faith. He labored to build churches and establish the Church throughout his realm. Honored as a saint in the Armenian Apostolic tradition, he is remembered as a royal convert who gave his nation to Christ.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the prayers of Saint Gregory turned the heart of King Tiridates to Your Son, grant through his intercession that rulers and nations may embrace the Gospel and walk in its light. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tiridates_III_of_Armenia"
+  ],
+  "featured": false,
+  "draft": false
+}

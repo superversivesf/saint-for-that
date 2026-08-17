@@ -1,0 +1,37 @@
+{
+  "slug": "mesrop-mashtots",
+  "name": "St. Mesrop Mashtots",
+  "feastDay": "unknown",
+  "bio": "Mesrop Mashtots was an Armenian linguist, composer, theologian, statesman, and hymnologist of the late fourth and early fifth centuries. Born into a noble family, he served at the royal court of Armenia before being drawn to the religious life and ordained a priest. He soon devoted himself to the preaching of the Gospel among the Armenian people and to the peoples of the neighboring regions.\n\nHis greatest achievement was the invention, around 405, of the Armenian alphabet, which for the first time made it possible to render the Armenian language in writing and to translate the Scriptures and the liturgy into the tongue of the people. With the support of King Vramshapuh and Catholicos Sahak, he founded schools across the kingdom and trained a generation of translators and scribes.\n\nHe also composed many of the earliest Armenian hymns and is counted among the saints of the Armenian Apostolic Church. He died in 440, having given his people the tools of literacy and of faith, and he is venerated as a father of Armenian culture and letters.",
+  "patronages": [
+    {
+      "need": "linguists",
+      "category": "jobs"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Mesrop Mashtots with the wisdom to give a written tongue to his people and to open the Scriptures to them, grant through his intercession that all who labor in letters and learning may use their gifts for the spread of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
+  ],
+  "featured": false,
+  "draft": false
+}

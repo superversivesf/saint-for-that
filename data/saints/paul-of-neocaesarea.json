@@ -1,0 +1,33 @@
+{
+  "slug": "paul-of-neocaesarea",
+  "name": "St. Paul of Neocaesarea",
+  "feastDay": "12-23",
+  "bio": "Paul of Neocaesarea, bishop of Neocaesarea in Pontus, was an early Christian bishop who suffered grievously for the faith under the emperor Licinius in the years before Constantine's final victory. During the persecution he was repeatedly tortured, and the scars of his suffering remained with him for the rest of his life.\n\nAt the First Council of Nicaea in AD 325, Paul stood before the assembled bishops and displayed the marks of his confession, bearing on his body the wounds inflicted for Christ's name. The fathers of the council, moved to tears by the sight, honored him as a living witness to the truth of the faith he confessed.\n\nHe is remembered as a confessor, one who suffered for Christ without dying a martyr's death, and as a pillar of the orthodox party at Nicaea. His feast is kept on December 23, and he is invoked by all who must endure long suffering for the sake of conscience.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Paul of Neocaesarea strength to confess your Son under torture and to bear the scars of his faithfulness to the end, grant through his intercession that we may never betray the truth, no matter the cost. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Neocaesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

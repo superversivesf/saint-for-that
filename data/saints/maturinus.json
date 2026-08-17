@@ -1,0 +1,41 @@
+{
+  "slug": "maturinus",
+  "name": "St. Maturinus",
+  "feastDay": "11-01",
+  "bio": "Maturinus, known in French as Saint Mathurin, was a Gallo-Roman Christian of the early centuries of the Church, venerated as a powerful exorcist and missionary. According to tradition, he was born at Larchant near Paris and was ordained a priest, gaining renown for his ability to cast out demons and for his tireless preaching of the Gospel in the regions of Gaul.\n\nHis cult flourished particularly in Brittany and the Île-de-France, where churches were dedicated to him from an early date. Pilgrims flocked to his shrine, and he was invoked as a patron of sailors on the Breton coast and of craftsmen in Paris. Later medieval devotion also named him protector of comic actors and jesters, and he was sought in prayer against mental illness and infertility.\n\nHe is remembered as a gentle and joyful intercessor, whose ministry of deliverance and whose care for the troubled of mind made him beloved among the common people.",
+  "patronages": [
+    {
+      "need": "actors",
+      "category": "everyday"
+    },
+    {
+      "need": "humor",
+      "category": "everyday"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "infertility",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Maturinus with power over unclean spirits and a compassionate heart for the troubled, grant through his intercession that those who suffer in mind or body may find peace, and that all who labor may rejoice in Your providence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maturinus"
+  ],
+  "featured": false,
+  "draft": false
+}

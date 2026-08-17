@@ -1,0 +1,33 @@
+{
+  "slug": "peter-of-sebaste",
+  "name": "St. Peter of Sebaste",
+  "feastDay": "01-09",
+  "bio": "Peter of Sebaste was a bishop in the fourth century, taking his usual name from the city of his bishopric, Sebaste in Lesser Armenia. He was the younger brother of Basil of Caesarea, Gregory of Nyssa, and Macrina the Younger, and of the Christian jurist Naucratius, one of the most remarkable families in the history of the Church.\n\nThough not as celebrated as his more famous siblings, Peter was not intellectually inferior to them, but his genius seems to have been rather practical than literary. He carried forward the work of Basil, completing the hospital Basil had founded at Caesarea and supporting his brother Gregory in the theological struggles of the age.\n\nHe was also closely associated with the ascetic foundations of his family, continuing the monastic vision of Macrina at the family estate on the river Iris. He died around 391 and is honored as a bishop and confessor who served the Church with quiet fidelity in the shadow of his more famous kin.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Peter of Sebaste to serve your Church with quiet fidelity and to carry forward the work of his more famous kin, grant through his intercession that we may serve without seeking recognition and that our families may become schools of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_of_Sebaste"
+  ],
+  "featured": false,
+  "draft": false
+}

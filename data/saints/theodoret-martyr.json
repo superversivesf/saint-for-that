@@ -1,0 +1,21 @@
+{
+  "slug": "theodoret-martyr",
+  "name": "St. Theodoret",
+  "feastDay": "10-22",
+  "bio": "Saint Theodoret, a Greek-speaking Syrian priest of Antioch, served Christ's flock during the reign of the Emperor Julian the Apostate, who sought to restore paganism and suppress the Church. When the emperor's agents seized the sacred vessels of the church, Theodoret refused to surrender them and suffered martyrdom rather than see the things of God profaned. Ancient accounts tell of his steadfast confession and the joy with which he faced death. His relics were later carried to Uzes in southern France and enshrined in the cathedral dedicated to his name, where the faithful have venerated him for centuries as a witness to courage and fidelity.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Theodoret the grace to defend Your holy things even unto death, grant through his intercession that we may never surrender the treasures of our faith but preserve them with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

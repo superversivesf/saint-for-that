@@ -1,0 +1,25 @@
+{
+  "slug": "theodorus-of-egypt",
+  "name": "St. Theodorus of Egypt",
+  "feastDay": "01-07",
+  "bio": "Theodorus of Egypt was among the earliest and most revered of the desert fathers, a Coptic monk and hermit who flourished under the reign of Constantine the Great. He was a disciple of Saint Amun, one of the first solitaries of the Nile region, and embraced the eremitical life in the Egyptian wilderness. Saint Athanasius of Alexandria and Saint Gregory the Great both record his holiness and wisdom, preserving his memory for the Church. Though little of his story has come down to us, he stands among that first generation of monks who sought God in silence and prayer, founding the great monastic tradition that would shape Christian spirituality for ages.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Theodorus into the desert to seek You in silence and prayer, grant through his intercession that we may find in stillness the depth of Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodorus_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

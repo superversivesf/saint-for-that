@@ -1,0 +1,25 @@
+{
+  "slug": "triphyllius",
+  "name": "St. Triphyllius",
+  "feastDay": "06-13",
+  "bio": "Saint Triphyllius was born in Constantinople in the early fourth century and trained in the law at the famous school of Beirut. Converted to Christianity, he was named Bishop of Nicosia in Cyprus and became a devoted follower of Saint Spyridon of Trimythous. An ardent defender of Saint Athanasius against the Arians, Triphyllius suffered persecution for his orthodoxy and bore it with patience. Saint Jerome reckoned him among the most eloquent figures of the Church in his day. As a bishop he governed his flock with learning and zeal, and as a confessor of the true faith he endured the hostility of those who denied the divinity of the Word.",
+  "patronages": [
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Triphyllius the tongue of an eloquent preacher and the heart of a faithful confessor, grant through his intercession that we may defend the truth with boldness and suffer for it with patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Triphyllius"
+  ],
+  "featured": false,
+  "draft": false
+}

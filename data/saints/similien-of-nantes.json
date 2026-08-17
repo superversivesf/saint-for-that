@@ -1,0 +1,22 @@
+{
+  "slug": "similien-of-nantes",
+  "name": "St. Similien of Nantes",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Similien, also called Similianus, was a bishop in Gaul in the fourth century, when the Church of France was taking root in the cities that rimmed the Loire.\n\nHe served the see of Nantes, a city that would in later centuries become a great centre of faith in Brittany. Little is recorded of his deeds, but his name was preserved in the memory of the people, who honoured him as one of the early shepherds who built up the Church in a land only recently delivered from persecution.\n\nVenerated as a saint from ancient times, he is remembered among the bishops of Gaul who laboured in the age after Constantine, when the faith passed from the catacombs into the daylight and the churches rose across the land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Similien a pastor of your people in the early Church of Gaul, grant through his intercession that the bishops of our day may guide their flocks with wisdom and that the faithful may grow in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Similien_of_Nantes"
+  ],
+  "featured": false,
+  "draft": false
+}

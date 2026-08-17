@@ -1,0 +1,29 @@
+{
+  "slug": "mohrael",
+  "name": "St. Mohrael",
+  "feastDay": "unknown",
+  "bio": "Saint Mohrael was a Coptic Christian venerated as a martyr of the early Church, killed for her faith in the fourth century at the tender age of twelve. Little detail of her life survives in the historical record, yet the Coptic tradition preserves her memory as one of the youngest confessors of Christ, a child who bore witness to the Gospel with a courage beyond her years.\n\nIn an age when professing Christ could cost a believer everything, Mohrael chose fidelity over safety, joining the company of the martyrs of Egypt. Her witness reminds the Church that the grace of fortitude is not measured in years but in love, and that even the smallest among the faithful may carry the Cross. The Coptic Church honors her among its saints, a young girl whose brief life shone with the light of unyielding faith.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the child St. Mohrael with the palm of martyrdom, grant through her intercession that all who suffer for Your name may stand firm in faith, and that children everywhere may know the strength of Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mohrael"
+  ],
+  "featured": false,
+  "draft": false
+}

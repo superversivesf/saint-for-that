@@ -1,0 +1,33 @@
+{
+  "slug": "pierius",
+  "name": "St. Pierius",
+  "feastDay": "11-04",
+  "bio": "Pierius was a Christian priest of Alexandria in the late third century and is believed to have served as head of the celebrated Catechetical School of Alexandria, possibly alongside Achillas. He flourished during the episcopate of Theonas and was renowned for his deep learning in Scripture and philosophy, writing treatises that showed the harmony of faith and reason in an age of great intellectual ferment.\n\nAfter years of teaching and forming catechumens in the faith, Pierius traveled to Rome, where he died sometime after 309. The Roman Martyrology commemorates him on November 4, honoring him as a scholar-priest who gave his life to the exposition of Christian truth during the turbulent years before Constantine's peace.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "jobs"
+    },
+    {
+      "need": "catechists",
+      "category": "spiritual"
+    },
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Pierius the gift of teaching and the zeal to form catechumens in the faith, grant through his intercession that all who instruct others in your truth may be filled with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pierius"
+  ],
+  "featured": false,
+  "draft": false
+}

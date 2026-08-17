@@ -1,0 +1,21 @@
+{
+  "slug": "timothy-i-of-alexandria",
+  "name": "St. Timothy I of Alexandria",
+  "feastDay": "07-20",
+  "bio": "Timothy I served as the twenty-second Pope of Alexandria and Patriarch of the See of Saint Mark, shepherding the Coptic Church in the latter half of the fourth century. As successor to Saint Mark, he carried the burden of pastoral care over a vast and often troubled Church, guiding clergy and laity through the doctrinal storms that followed the Council of Nicaea. He died around the twentieth of July in the year 384, having labored to preserve the unity and faith of the Church of Alexandria. Honored by the Coptic tradition as a faithful hierarch, he stands among the great patriarchs who governed the Church of Egypt in the age of the Fathers.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted Saint Timothy I with the See of Saint Mark, grant through his intercession that the pastors of Your Church may guide Your people with wisdom and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Timothy_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

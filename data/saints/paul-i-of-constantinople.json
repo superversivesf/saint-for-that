@@ -1,0 +1,29 @@
+{
+  "slug": "paul-i-of-constantinople",
+  "name": "St. Paul I of Constantinople",
+  "feastDay": "11-06",
+  "bio": "Paul I of Constantinople, called the Confessor, was the sixth bishop of Constantinople, first elected in 337. He became embroiled in the Arian controversy that divided the Church after the Council of Nicaea, drawing in the Emperor of the West, Constans, and his Eastern counterpart Constantius II, who favored the Arian party.\n\nPaul was installed and deposed three times from the See of Constantinople between 337 and 350, as imperial favor shifted between the orthodox and the Arians. Each time he was restored by the faithful and the Western emperor, and each time he was again expelled by the court at Constantinople.\n\nDuring his third and final exile in Cappadocia he was murdered by strangulation, dying a martyr for the orthodox faith. Honored as a confessor of the faith, he is remembered for his steadfast refusal to compromise the truth of Christ's divinity despite repeated persecution by imperial power.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Paul the Confessor the grace to stand firm for the divinity of your Son through three exiles and a martyr's death, grant through his intercession that bishops may uphold the truth with courage and that your Church may be one. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

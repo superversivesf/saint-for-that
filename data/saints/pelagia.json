@@ -1,0 +1,37 @@
+{
+  "slug": "pelagia",
+  "name": "St. Pelagia",
+  "feastDay": "10-08",
+  "bio": "Pelagia, distinguished in tradition as Pelagia of Antioch, Pelagia the Penitent, and Pelagia the Harlot, was a Christian saint and hermit of the fourth or fifth century. According to the account of her life, she was a celebrated actress and courtesan of Antioch who, hearing a sermon by the bishop Nonnus, was moved to repentance and sought baptism.\n\nShe disappeared from Antioch, dressed as a male monk, and retired to a cell on the Mount of Olives, where she lived as a recluse for the rest of her days. Her sex was discovered only at her death, when the holy fathers who had known her as the monk Pelagius tried to keep the matter secret, but the news spread and her relics drew pilgrims from as far as Jericho and the Jordan valley.\n\nPelagia died as a result of extreme asceticism, which had emaciated her beyond recognition. She is remembered as a model of the power of repentance and of God's mercy toward even the most public of sinners, and her feast has long been celebrated on October 8.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    },
+    {
+      "need": "actresses",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the repentance of St. Pelagia and led her from the vanity of the world to the solitude of the Mount of Olives, grant through her intercession that sinners may never despair of your mercy and that all who seek you may find the grace of conversion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelagia"
+  ],
+  "featured": false,
+  "draft": false
+}

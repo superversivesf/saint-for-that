@@ -1,0 +1,21 @@
+{
+  "slug": "odilia-of-cologne",
+  "name": "St. Odilia of Cologne",
+  "feastDay": "07-18",
+  "bio": "Saint Odilia is a saint venerated in the Roman Catholic Church. According to the current liturgical calendar, her feast day is not officially commemorated, yet her memory has endured through the devotion of the religious order that claims her as its patroness. By tradition, Odilia was one of the companions of St. Ursula, the legendary British princess said to have been martyred at Cologne along with a company of virgins. She is honored as a patroness of the Order of the Holy Cross, a community of Canons Regular founded in the thirteenth century whose members have long invoked her protection. She is remembered as a witness whose example of consecrated virginity continues to inspire.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Odilia of Cologne to the company of the holy virgins and made her the patroness of those who serve under the banner of the Holy Cross, grant through her intercession that all consecrated women may persevere in fidelity to their calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odilia_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

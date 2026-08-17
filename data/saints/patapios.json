@@ -1,0 +1,25 @@
+{
+  "slug": "patapios",
+  "name": "St. Patapios",
+  "feastDay": "12-08",
+  "bio": "Patapios of Thebes was an Egyptian ascetic of the early centuries who withdrew to the desert and devoted himself to prayer, fasting, and the contemplation of God. He followed the great line of the Desert Fathers and became known for holiness and for the care he took of those who sought his counsel.\n\nAfter his death his relic was carried to Constantinople, and a tradition arose that a portion of his relics was brought to a monastery at Loutraki near Athens, where it is still kept. He is invoked especially against dropsy, the old name for the swelling of the body by retained fluid, and his intercession has been sought by sufferers for generations.\n\nHis feast is December 8, and he is venerated by the Eastern Orthodox and Catholic churches as a healer and patron of those afflicted with dropsy.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Patapios grace to seek you in the desert and to bring healing to those who suffer, grant through his intercession that all afflicted with dropsy and every infirmity may find relief in your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patapios"
+  ],
+  "featured": false,
+  "draft": false
+}

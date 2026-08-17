@@ -1,0 +1,25 @@
+{
+  "slug": "sargis-the-general",
+  "name": "St. Sargis the General",
+  "feastDay": "unknown",
+  "bio": "Saint Sargis the General, known in Greek as Sergius Stratelates, was a Cappadocian Greek officer in the Roman army revered as a martyr and military saint by the Armenian Apostolic Church and the Assyrian Church of the East. The name Sargis, or Sarkis, is the Armenian form of Sergius. As a high-ranking commander, he held position and honor, yet he refused to sacrifice to the pagan gods when persecution fell upon the army, choosing Christ over his rank and his life. His cult spread across the Christian East, where he became a patron of soldiers and a champion of youth, and churches were dedicated to him from Armenia to Mesopotamia. He is invoked as a protector of the young and a patron of fidelity, a soldier-saint who bore arms for an earthly empire yet gave his life for heaven.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "youth",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Sargis with martyrdom though he bore the sword of an earthly army, grant through his intercession that the young may walk in fidelity and that all who serve in arms may serve justice and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sargis_the_General"
+  ],
+  "featured": false,
+  "draft": false
+}

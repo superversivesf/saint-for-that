@@ -1,0 +1,25 @@
+{
+  "slug": "nicetas-the-goth",
+  "name": "St. Nicetas the Goth",
+  "feastDay": "09-15",
+  "bio": "Nicetas was a Christian martyr of the fourth century, venerated particularly in the Eastern Orthodox Church. He was of Gothic origin, living during the era of Emperor Constantine the Great's sole rule, and he belonged to the upper social class of his people. Nicetas was instructed in Christianity by Theophilus of Gothia, a converted bishop, between 325 and 341 AD, during the early missionary period among the Gothic tribes north of the Danube. He suffered martyrdom for his confession of Christ, and his feast is kept on September 15. He is honored as one of the early Gothic saints, a witness to the spread of the gospel beyond the frontiers of the Roman Empire.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Nicetas the Goth to confess Your name among his own people and to die for the faith he had received, grant through his intercession that all converts may stand firm in the truth and bear witness to Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicetas_the_Goth"
+  ],
+  "featured": false,
+  "draft": false
+}

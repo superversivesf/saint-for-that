@@ -1,0 +1,21 @@
+{
+  "slug": "patiens",
+  "name": "St. Patiens",
+  "feastDay": "01-08",
+  "bio": "Patiens was the fourth bishop of Metz in the fourth century, a successor of the earliest shepherds of that Gallican see and a pastor who guided his people through the years that followed the peace of the Church. His name, Patiens, means patient, and the tradition of Metz remembers him as a man who bore that name as a mark of his character.\n\nHe governed the diocese with care, instructed the faithful, and tended the poor, and after his death the people of Metz chose him as the patron of their city. His memory was kept in the liturgy of the cathedral and in the devotion of the townsfolk, who for centuries invoked his protection.\n\nHe died in the fourth century and his feast is kept on January 8. He is venerated as the patron saint of Metz, a city that honored him as its father and protector.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Patiens a patient shepherd of the see of Metz, grant through his intercession that those who govern your Church may guide their people with patience and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patiens"
+  ],
+  "featured": false,
+  "draft": false
+}

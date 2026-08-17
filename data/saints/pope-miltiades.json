@@ -1,0 +1,33 @@
+{
+  "slug": "pope-miltiades",
+  "name": "St. Miltiades",
+  "feastDay": "12-10",
+  "bio": "Pope Miltiades, also called Melchiades the African, governed the Church of Rome from 311 until his death in January 314, spanning the most pivotal moment in early Christian history. During his pontificate, Emperor Constantine issued the Edict of Milan in 313, granting Christianity legal standing after centuries of persecution. Miltiades received from Constantine the palace of Empress Fausta, on whose grounds the Lateran Palace—the papal residence for centuries—would rise. He presided over the Lateran Council, which condemned the Donatist practice of rebaptizing apostate clergy, defending the sacramental integrity of the Church. An African by birth, he shepherded the flock from the shadows of persecution into the dawn of imperial favor.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Miltiades to guide Your Church from the shadow of persecution into the dawn of peace, grant through his intercession that all bishops may preserve the unity of the faith and defend the integrity of the sacraments. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Miltiades"
+  ],
+  "featured": false,
+  "draft": false
+}

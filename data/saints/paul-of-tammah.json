@@ -1,0 +1,29 @@
+{
+  "slug": "paul-of-tammah",
+  "name": "St. Paul of Tammah",
+  "feastDay": "10-04",
+  "bio": "Paul of Tammah was an Egyptian saint who lived in the fourth and fifth centuries AD, venerated as a saint in the Oriental Orthodox Churches. He is associated with the desert monastic tradition of Scetes in Egypt, where he lived the ascetic life alongside other fathers of the Egyptian wilderness.\n\nHis shrine at the Monastery of Saint Pishoy in Scetes marks the place of his burial and has been a destination of pilgrimage for centuries. The Coptic Orthodox Church honors him as one of the desert saints who carried forward the witness of Anthony and Pachomius in the Egyptian desert.\n\nThough fewer details of his life survive than of some of his contemporaries, Paul of Tammah is remembered for his holiness of life, his devotion to prayer, and his place among the fathers who made the Egyptian desert a school of holiness for the whole Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Paul of Tammah to the holiness of the desert and to a life of ceaseless prayer, grant through his intercession that we may turn from the noise of the world to seek you in silence and find you in the stillness of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Tammah"
+  ],
+  "featured": false,
+  "draft": false
+}
