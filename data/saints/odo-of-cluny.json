@@ -1,0 +1,25 @@
+{
+  "slug": "odo-of-cluny",
+  "name": "St. Odo of Cluny",
+  "feastDay": "05-11",
+  "bio": "Odo of Cluny was the second abbot of Cluny, the great Benedictine monastery in Burgundy that became the center of a far-reaching reform of monastic and ecclesiastical life in the tenth and eleventh centuries. Born around 879, Odo was educated at the court of William the Pious and became a canon of the Church of St. Martin in Tours before entering the monastery of Baume and then Cluny itself. As abbot from 927 until his death in 942, he extended Cluny's influence widely, founding and reforming dependent priories across France and Italy and insisting on a rigorous observance of the Rule of St. Benedict, with a particular emphasis on the splendor and solemnity of the liturgy. He was a man of deep devotion to music and to the beauty of worship, and is invoked for rain and against drought.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "jobs"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Odo a shepherd of monks and a lover of Your liturgy, grant through his intercession that we may worship You with reverent hearts and, when the heavens withhold their rain, send down showers to refresh the earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

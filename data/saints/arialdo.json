@@ -1,0 +1,33 @@
+{
+  "slug": "arialdo",
+  "name": "St. Arialdo",
+  "feastDay": "06-27",
+  "bio": "Saint Arialdo was a Christian saint of the eleventh century, a nobleman of Milan and a canon of the cathedral chapter, who gave his life to reform the clergy of his city. When simony and clerical concubinage had spread through the Lombard church, Arialdo joined the Pataria, the lay reform movement led by his kinsman St. Heribert, preaching repentance to priests and people alike.\n\nHis zeal made him enemies among the clergy whose abuses he exposed. He was repeatedly threatened, assaulted, and excommunicated by a hostile faction, yet pressed on with the support of Pope Alexander II. In 1066 he was ambushed by armed men near Milan, murdered, and his body thrown into Lake Maggiore.\n\nThe people of Milan reverenced him as a martyr, and his relics were later enshrined in the Cathedral of Milan.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Arialdo the courage to plead for holiness among the clergy of Milan even to the shedding of his blood, grant through his intercession that Your people may never grow weary of seeking reform and justice in Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arialdo"
+  ],
+  "featured": false,
+  "draft": false
+}

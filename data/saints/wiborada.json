@@ -1,0 +1,29 @@
+{
+  "slug": "wiborada",
+  "name": "St. Wiborada",
+  "feastDay": "05-02",
+  "bio": "Wiborada of St. Gall was a member of the Swabian nobility in what is present-day Switzerland. Drawn to the life of prayer from an early age, she became an anchoress attached to the Benedictine Abbey of St. Gall, where she lived in fasting, contemplation, and counsel for those who sought her wisdom. She was one of the first women in the German-speaking lands to embrace the eremitic vocation.\n\nAccording to tradition, Wiborada foresaw the coming of invading Magyar raiders and urged the monks of St. Gall to flee with their treasures and books. She herself remained in her cell and was killed by the raiders around 926, giving her life as a martyr. She was canonized in 1047, one of the first women to be canonized through the formal process. She is honored as a patron of libraries and librarians.",
+  "patronages": [
+    {
+      "need": "librarians",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wiborada to guard the wisdom of Your Church at the cost of her life, grant through her intercession that all who tend the written word may serve You with like devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wiborada"
+  ],
+  "featured": false,
+  "draft": false
+}

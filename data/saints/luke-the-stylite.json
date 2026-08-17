@@ -1,0 +1,29 @@
+{
+  "slug": "luke-the-stylite",
+  "name": "St. Luke the Stylite",
+  "feastDay": "unknown",
+  "bio": "Venerable Luke the Stylite lived in Constantinople in the tenth century, one of the later and more hidden figures in the long line of pillar saints who followed the path first opened by St. Symeon Stylites in fifth-century Syria. Taking up his stand on a column in or near the imperial capital, Luke embraced a life of ceaseless prayer, exposure to the elements, and public witness, his body raised above the city as a sign that the Christian is called to set the mind on things above. Little detail of his life survives, yet his name is preserved in the synaxaria of the Eastern Church as one who persevered in this extraordinary asceticism at the heart of the Byzantine world. He stands as a reminder that even amid the splendor of a great city, the call to contemplation finds its answer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Luke the Stylite to lift himself above the city in ceaseless prayer, grant through his intercession that we may rise above the noise of the world and fix our hearts on You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luke_the_Stylite"
+  ],
+  "featured": false,
+  "draft": false
+}

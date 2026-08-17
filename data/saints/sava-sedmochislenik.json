@@ -1,0 +1,29 @@
+{
+  "slug": "sava-sedmochislenik",
+  "name": "St. Sava Sedmochislenik",
+  "feastDay": "unknown",
+  "bio": "Saint Sava was a medieval Bulgarian and Slavic saint, one of the most prominent disciples of Saints Cyril and Methodius, the apostles of the Slavs. After the death of Methodius in 885, when the German clergy drove the Slavonic-speaking disciples from Moravia, Sava followed the path of exile southward into the Balkans, carrying with him the Slavonic liturgy and alphabet that would take root among the Bulgarian and Slav peoples. Together with Saints Gorazd, Clement of Ohrid, Naum, and Angelar, and with Cyril and Methodius themselves, he is venerated as one of the Seven Saints, the Sedmochislenitsi, whose collective feast the Slav Churches celebrate as the feast of those who gave the Slavs the Word of God in their own tongue. He labored to the end that the Gospel might be heard and prayed in the language of the people.",
+  "patronages": [
+    {
+      "need": "translators",
+      "category": "everyday"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Sava among the Slav peoples to make the Gospel resound in their own tongue, grant through his intercession that every nation may hear Your Word in the language of its heart and that those who translate the Scriptures may be strengthened in their labor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sava_Sedmochislenik"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lfheah-of-canterbury",
+  "name": "St. Ælfheah of Canterbury",
+  "feastDay": "04-19",
+  "bio": "Saint Ælfheah, better known as Alphege, was an Anglo-Saxon Bishop of Winchester and later Archbishop of Canterbury from 1006 to 1012. He began his religious life as an anchorite before being elected abbot of Bath Abbey. His reputation for piety led to his consecration as bishop and, in time, to the primacy of all England.\n\nAs archbishop, Ælfheah fostered the cult of Saint Dunstan and encouraged learning among the clergy. When Viking raiders besieged Canterbury in 1011, he was captured. The following year, after refusing to let his people pay a ransom, his captors murdered him, one of the first martyrs of the Danish invasions.\n\nCanonized in 1078, Ælfheah is a patron of Greenwich and Solihull and an intercessor for those kidnapped. Becket prayed to him before his martyrdom.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ælfheah the courage to lay down his life rather than burden his people, grant through his intercession that all who are held captive may find freedom in You and that we may face evil with steadfast faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfheah_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

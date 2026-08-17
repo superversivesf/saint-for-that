@@ -1,0 +1,25 @@
+{
+  "slug": "sabiana",
+  "name": "St. Sabiana",
+  "feastDay": "unknown",
+  "bio": "Saint Sabiana, also called Sabiana of Samtskhe, was a Georgian nun and venerable figure of the tenth and early eleventh centuries, honored among the saints of the ancient Church of Georgia. She spent nearly the whole of her long life in the monastery she led as hegumen, set among the rugged highlands of Samtskhe in the southwest of the kingdom, where she guided a community of women in prayer, work, and the discipline of the religious life. Under her rule the house was a school of holiness and a refuge of quiet faith in an age when the Georgian Church was still young and much tried by the pressures of neighboring empires. She is remembered as a mother of nuns and a pillar of the monastic life in the lands of the Caucasus.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Sabiana a mother and guide to the sisters of her monastery in Samtskhe, grant through her intercession that those who serve You in the religious life may persevere in prayer and bear witness to Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sabiana"
+  ],
+  "featured": false,
+  "draft": false
+}

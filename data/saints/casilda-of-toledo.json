@@ -1,0 +1,25 @@
+{
+  "slug": "casilda-of-toledo",
+  "name": "St. Casilda of Toledo",
+  "feastDay": "04-09",
+  "bio": "Saint Casilda of Toledo, who lived from 950 to 1050, is venerated by both the Catholic and Eastern Orthodox Churches, her feast 9 April. Born a Muslim in Moorish Spain, the daughter of a ruler of Toledo, she was moved by compassion for the Christian prisoners her father held and secretly carried bread to them, hiding the loaves beneath her skirts.\n\nWhen her father once stopped her and demanded to see what she carried, the bread, by a miracle, had turned to roses, and he found only flowers in his hands. Struck by the sign, Casilda continued her works of mercy and was drawn to the faith, receiving baptism and withdrawing to penance.\n\nCasilda lived to a great age as a hermit near Burgos, devoting herself to contemplation and charity. She is a patron of Muslim converts and of infertile women.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "infertility",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Casilda from the faith of her birth to the fullness of truth in Christ and rewarded her compassion with the miracle of roses, grant through her intercession that all who seek you may find you, and that you may comfort those who long for the gift of children. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Casilda_of_Toledo"
+  ],
+  "featured": false,
+  "draft": false
+}

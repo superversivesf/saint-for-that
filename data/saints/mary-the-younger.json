@@ -1,0 +1,25 @@
+{
+  "slug": "mary-the-younger",
+  "name": "St. Mary the Younger",
+  "feastDay": "unknown",
+  "bio": "Saint Mary the Younger was a Byzantine holy woman of Armenian origin, the daughter of an Armenian noble, who lived in the mid-10th century and beyond. The details of her life are not known with certainty, and the text recording her noteworthy accomplishments was most likely composed after 1025, making her one of the more enigmatic figures of the Byzantine hagiographic tradition. Scholars have suggested that the Life of Mary may be a conscious literary echo or parody of Gregory of Nyssa's Life of Macrina, placing her in the lineage of exemplary Christian women honored for their piety and virtue. Despite the obscurity that surrounds her, she is venerated as a saint who exemplified the noble Christian life of Constantinople and the Armenian diaspora within the Empire.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Mary the Younger with the virtues of noble Christian womanhood, grant through her intercession that we may value holiness above earthly rank and serve You in humility of heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mary_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

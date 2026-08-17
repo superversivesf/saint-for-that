@@ -1,0 +1,25 @@
+{
+  "slug": "aurelia-of-regensburg",
+  "name": "St. Aurelia of Regensburg",
+  "feastDay": "10-15",
+  "bio": "Saint Aurelia of Regensburg, also known as Aurelia of Ratisbon, was an eleventh-century German recluse who lived near the city of Regensburg in Bavaria. According to her legend, she was of noble or even royal lineage and, renouncing the world, retired to a hermit's cell where she gave herself to prayer, fasting, and works of mercy for the rest of her days.\n\nHer cult was centred in the Regensburg region, where the faithful invoked her especially against fevers and sudden illness. She died around 1027 and was buried in Regensburg, where her memory was preserved by local devotion long before formal canonization processes existed. She is honoured as one of the recluses whose hidden holiness sanctified the medieval Church in Germany.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your handmaid Aurelia grace to renounce the world and to serve you in a life of prayer, grant through her intercession that those who suffer from fever and illness may be restored to health and praise your holy name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurelia_of_Regensburg"
+  ],
+  "featured": false,
+  "draft": false
+}

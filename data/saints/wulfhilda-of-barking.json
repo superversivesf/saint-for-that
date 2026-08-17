@@ -1,0 +1,25 @@
+{
+  "slug": "wulfhilda-of-barking",
+  "name": "St. Wulfhilda of Barking",
+  "feastDay": "unknown",
+  "bio": "Wulfhilda, also known as Wulfhild or Wulfreda, was an Anglo-Saxon noblewoman who became a Benedictine nun and abbess in England. Raised under the influence of the royal court and formed in the religious houses of her day, she was appointed abbess of Barking Abbey, one of the foremost convents of early medieval England. As abbess she governed a community of women devoted to prayer and learning, guiding her sisters through the turbulent decades of the tenth-century monastic revival. She is remembered for her piety, her wise administration, and her role in sustaining religious life among the Anglo-Saxons.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Wulfhilda to govern the abbey of Barking with wisdom and grace, grant through her intercession that women who lead in the Church may be guided by your Holy Spirit and find joy in your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wulfhilda_of_Barking"
+  ],
+  "featured": false,
+  "draft": false
+}

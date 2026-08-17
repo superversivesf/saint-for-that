@@ -1,0 +1,25 @@
+{
+  "slug": "wicbert",
+  "name": "St. Wicbert",
+  "feastDay": "05-23",
+  "bio": "Wicbert, also known as Guibert, was a nobleman of the Low Countries who renounced his inheritance to pursue the solitary life of a hermit. After years of pilgrimage and prayer he settled on a portion of his family's estate at Gembloux, in present-day Belgium, where he founded a Benedictine monastery around 946. Though born into wealth, Wicbert embraced poverty and silence, and his holiness drew disciples who sought his guidance. He died around 962, and his cult was formally confirmed in 1211 when Pope Innocent III canonized him. His foundation at Gembloux became a celebrated center of learning in the Middle Ages. He is honored as a patron of hermits and monks.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Wicbert to leave the wealth of the world and find you in the silence of the hermitage, grant through his intercession that we may treasure poverty of spirit and build our lives on the rock of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wicbert"
+  ],
+  "featured": false,
+  "draft": false
+}

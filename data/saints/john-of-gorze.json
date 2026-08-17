@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-gorze",
+  "name": "St. John of Gorze",
+  "feastDay": "02-27",
+  "bio": "Saint John of Gorze was a Lorraine-born monk, diplomat, administrator, and monastic reformer of the tenth century. Born around 900 into a noble family, he spent his youth in worldly pursuits before a pilgrimage to Rome and contact with the monastery of Gorze in the Moselle valley transformed his life. He entered Gorze and became its prior, applying the Rule of St. Benedict with rigor and restoring discipline to a house grown lax. Emperor Otto I sent him as ambassador to the Caliph of Córdoba, a delicate mission to the court of al-Andalus, where John endured danger and intrigue with patience. Returning to Lorraine, he reformed several monasteries and re-established regular observance. He died around 974, honored as one of the great reformers of pre-Cluniac monasticism in the Rhineland.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. John of Gorze from a worldly life to reform Your monasteries and to serve as a peacemaker among nations, grant through his intercession that we may turn from vain pursuits and labor faithfully for the renewal of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Gorze"
+  ],
+  "featured": false,
+  "draft": false
+}

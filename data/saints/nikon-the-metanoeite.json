@@ -1,0 +1,25 @@
+{
+  "slug": "nikon-the-metanoeite",
+  "name": "St. Nikon the Metanoeite",
+  "feastDay": "11-26",
+  "bio": "Nikon the \"Metanoeite\" was a Byzantine monk, itinerant preacher, and saint of the Eastern Orthodox Church. The epithet \"Metanoeite\" comes from the Greek word for repentance, and Nikon made it the constant cry of his preaching: \"Repent!\" He traveled widely through the Byzantine world, calling sinners to conversion and exhorting both cities and villages to turn back to God. According to historian Andrew Louth, Nikon is best understood as the heroic subject of his Life, a hagiography written after his death by a successor abbot of his monastery. He eventually settled near Sparta in Laconia, where he founded a monastery and labored to gather disciples around the Gospel imperative of repentance. He is honored as a patron of Sparta and the region of Laconia.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Nikon to cry out repentance to a wandering world, grant through his intercession that we may turn from our sins and embrace the Gospel with sincere hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nikon_the_Metanoeite"
+  ],
+  "featured": false,
+  "draft": false
+}

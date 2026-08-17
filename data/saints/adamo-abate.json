@@ -1,0 +1,21 @@
+{
+  "slug": "adamo-abate",
+  "name": "St. Adamo Abate",
+  "feastDay": "06-03",
+  "bio": "Saint Adamo Abate was an Italian Benedictine abbot of the eleventh century. He entered religious life as a young man and rose to become abbot of the monastery of Santa Maria delle Isole Tremiti, a fortified island house in the Adriatic, around the middle of the century. As abbot he worked to restore monastic discipline, preserve the house's endowments, and care for the poor who sought the community's help. He governed with wisdom in a turbulent age of Norman incursions and political upheaval in southern Italy. He died around 1070 and was venerated locally as a model of monastic perseverance and charity.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Adamo Abate a faithful shepherd of his island monastery, grant through his intercession that we may serve you with steady love amid the storms of life, and find in you our sure refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adamo_Abate"
+  ],
+  "featured": false,
+  "draft": false
+}

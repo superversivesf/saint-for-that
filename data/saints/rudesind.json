@@ -1,0 +1,29 @@
+{
+  "slug": "rudesind",
+  "name": "St. Rudesind",
+  "feastDay": "03-01",
+  "bio": "Saint Rudesind, born to a noble Galician family in the tenth century, was a bishop and abbot who served his region both as churchman and as administrator and military leader under his kinsmen, the Kings of León. Consecrated bishop of Mondoñedo, he shepherded the Church in the rugged lands of northwestern Iberia while also bearing arms to defend his people against the threats of the age, that combination of altar and sword not uncommon in the Christian kingdoms then pressing southward. He later withdrew from the cares of office to govern the monastery of Celanova as abbot, exchanging the crozier of the bishop for the rule of the cloister, and there he lived out his days in penance and prayer. Honored across Galicia and even in far-off Pinar del Río in Cuba, his feast is kept on March 1.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Rudesind a shepherd of Your Church and a defender of his people, and who called him at last to the quiet of the cloister, grant through his intercession that we may serve You faithfully in every station to which we are called. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rudesind"
+  ],
+  "featured": false,
+  "draft": false
+}

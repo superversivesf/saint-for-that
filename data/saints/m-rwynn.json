@@ -1,0 +1,25 @@
+{
+  "slug": "m-rwynn",
+  "name": "St. Mærwynn",
+  "feastDay": "unknown",
+  "bio": "Mærwynn, also known as St. Merewenna or Merwinna, was a 10th-century abbess of Romsey Abbey in Hampshire, England. She governed a community of women religious, preserving the Benedictine ideal of prayer, learning, and hospitality in the troubled decades of the early English reformation of monastic life. Honored as a saint by both the Catholic and Eastern Orthodox churches, she is remembered among the holy women who, in an age of upheaval, kept the lamp of devotion burning in the convents of Anglo-Saxon England. Romsey Abbey, under her care and that of her successors, stood for centuries as a house of prayer and a refuge for those who sought God in the cloister.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mærwynn to govern Romsey Abbey as a mother of souls, grant through her intercession that women religious may persevere in prayer and be shining lamps of devotion in the Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A6rwynn"
+  ],
+  "featured": false,
+  "draft": false
+}

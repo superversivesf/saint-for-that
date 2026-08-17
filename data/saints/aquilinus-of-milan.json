@@ -1,0 +1,37 @@
+{
+  "slug": "aquilinus-of-milan",
+  "name": "St. Aquilinus of Milan",
+  "feastDay": "01-29",
+  "bio": "Saint Aquilinus of Milan, also known as Aquilinus of Cologne, is venerated as a martyr by the Catholic and Eastern Orthodox Churches. Born into a noble family, he studied in Cologne and was ordained a missionary priest. Fired with zeal for souls, he traveled as a preacher through Germany and other European lands, declaring the Gospel where the old paganisms still lingered.\n\nTradition holds that after years of missionary labor Aquilinus returned to the region of Milan, where he confronted heresy and was slain by enemies of the faith, winning the martyr's crown. His relics were honored at Milan, where he became a patron of the city's working people.\n\nHe is invoked especially by the hotel porters, the facchini of Milan. He was canonized before the formal process of canonization existed.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "innkeepers",
+      "category": "jobs"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the missionary labors of St. Aquilinus with the palm of martyrdom, grant through his intercession that we may bear witness to Your truth with courage, and that all who serve travelers and strangers may find in You their reward. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aquilinus_of_Milan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "adalgott",
+  "name": "St. Adalgott",
+  "feastDay": "10-26",
+  "bio": "Saint Adalgott was an abbot of Disentis Abbey in the Grisons of what is now Switzerland, venerated as a Catholic saint from the early medieval period. Disentis, founded in the eighth century, was one of the great Benedictine houses of the Alps, and Adalgott sustained its life of prayer and learning in a rugged land.\n\nRecords preserve the memory of two abbots of Disentis named Adalgott, separated by roughly a century and a half, both honored as saints. Later writers sometimes confused the two, blending their deeds into a single figure. Yet the name Adalgott was held in deep reverence at Disentis and the surrounding valley.\n\nHe is remembered as one of the holy abbots who carried the Gospel into the high Alps. His feast is kept on October 26.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the holy abbot Adalgott sustained the monastic life of Disentis in the high Alps, grant through his intercession that we may persevere in prayer and faithful service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalgott"
+  ],
+  "featured": false,
+  "draft": false
+}

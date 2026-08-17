@@ -1,0 +1,33 @@
+{
+  "slug": "bernard-of-menthon",
+  "name": "St. Bernard of Menthon",
+  "feastDay": "05-28",
+  "bio": "Saint Bernard of Menthon, also called Bernard of Aosta or Bernard of Montjoux, was an eleventh-century priest from the Aosta Valley in the Italian Alps. Renouncing a marriage arranged by his noble family, he was ordained and devoted his life to the service of travellers crossing the perilous alpine passes. On the Great St Bernard Pass, more than eight thousand feet above sea level, he founded a hospice to shelter pilgrims and wayfarers caught in the snow.\n\nAround this hospice he established the Canons Regular of the Hospitaller Congregation of Great Saint Bernard, a community whose canons and lay brothers tended the stranded and buried travellers. The famous rescue dogs later bred by the canons took their name from the pass and its patron. Bernard travelled widely, preaching in the Alps and opposing local superstitions. He died around 1081 and is honoured as the apostle of the Alps and the patron of mountaineers and skiers.",
+  "patronages": [
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "mountaineers",
+      "category": "jobs"
+    },
+    {
+      "need": "skiers",
+      "category": "travel"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Bernard to the heights of the Alps to shelter pilgrims and rescue the perishing, grant through his intercession that we may be guides to those who wander and a refuge for those in danger. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Menthon"
+  ],
+  "featured": false,
+  "draft": false
+}

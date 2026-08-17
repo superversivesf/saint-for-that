@@ -1,0 +1,25 @@
+{
+  "slug": "peter-i-of-bulgaria",
+  "name": "St. Peter I of Bulgaria",
+  "feastDay": "unknown",
+  "bio": "Peter I ruled as emperor (tsar) of Bulgaria from 927 to 969, presiding over a long and largely peaceful reign in the heart of the First Bulgarian Empire. He inherited a realm troubled by the Bogomil heresy and by rebellions led by his own brothers, yet he endured, and in time secured the realm against foreign foes—most famously by prompting Bulgaria's Pecheneg allies to strike at Kiev, forcing the invading Rus to withdraw. Though later ages once judged him a weak ruler, recent scholarship has recovered the truth of his age: under Peter the empire enjoyed affluence, internal peace, and the respect of Christian Europe. Medieval Bulgarians remembered him as a good and pious sovereign, and later rulers seeking to restore Bulgarian independence under Byzantine dominion took his name to proclaim the continuity of their Christian kingship.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "family"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Peter of Bulgaria wisdom to govern his realm in peace and fidelity to Your Church, grant through his intercession that those entrusted with authority may seek justice, preserve unity, and hand on the faith undivided. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_I_of_Bulgaria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "simon-the-tanner",
+  "name": "St. Simon the Tanner",
+  "feastDay": "unknown",
+  "bio": "Simon the Tanner, also known as Simon the Shoemaker, is a Coptic Orthodox saint associated with one of the most celebrated miracles of medieval Egypt. During the rule of the Fatimid Caliph al-Muizz (953–975), while Abraham the Syrian was Pope of the Coptic Church of Alexandria, the caliph challenged the Christians to prove Christ's words that faith could move mountains. According to tradition, Simon led the faithful in prayer and fasting, and the Mokattam Mountain near Cairo was raised.\n\nSimon lived among the poor of Cairo, working as a tanner and cobbler, and his holiness was revealed in humility and faith. The St. Simon the Tanner Monastery in the Zabbaleen district of Mokattam stands today as a witness to his memory. He is venerated by Coptic Christians as a model of lay sanctity.",
+  "patronages": [
+    {
+      "need": "tanners",
+      "category": "jobs"
+    },
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the humble faith of St. Simon the Tanner revealed the power that moves mountains, grant through his intercession that we may trust in Your word with like steadfastness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simon_the_Tanner"
+  ],
+  "featured": false,
+  "draft": false
+}

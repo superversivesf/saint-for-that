@@ -1,0 +1,25 @@
+{
+  "slug": "bruno-of-cologne",
+  "name": "St. Bruno of Cologne",
+  "feastDay": "10-06",
+  "bio": "Bruno of Cologne, born around 1030 into a noble family, became one of the most celebrated teachers of his age at the cathedral school of Reims. His pupils included the future Pope Urban II, and for decades he formed minds in theology, until the simoniacal disorders of his archbishop drove him from teaching.\n\nYearning for solitude, Bruno and six companions retreated in 1084 to a wild valley in the Chartreuse near Grenoble, where the local bishop granted them land. There they founded the first hermitage of what would become the Carthusian Order, living in cells around a chapel, bound by silence, prayer, and scant food.\n\nCalled to Rome by Pope Urban II, Bruno served as an advisor but refused every bishopric, returning to a second hermitage in Calabria, where he died on 6 October 1101.",
+  "patronages": [
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bruno to leave the fame of the schools for the silence of the wilderness, grant through his intercession that in the midst of the world's noise we may learn to seek you in stillness and prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

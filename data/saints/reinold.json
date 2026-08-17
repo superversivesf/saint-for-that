@@ -1,0 +1,25 @@
+{
+  "slug": "reinold",
+  "name": "St. Reinold",
+  "feastDay": "01-07",
+  "bio": "Saint Reinold was a Benedictine monk of the tenth century, venerated in the Rhineland and honored in legend as a descendant of Charlemagne. He is the fourth son named in the romantic poem Duke Aymon, William Caxton's English rendering of the old French Chanson de Geste Les Quatre Fils Aymon, in which the hero Renaud de Montauban perishes in a manner almost identical to the way Reinold is said to have died. Beyond the romance, the monks remembered him as a quiet and faithful brother, given to prayer and to the humble work of his house, until the Lord called him to himself. He came to be invoked as a patron of stonemasons, those who raise walls and churches from the dust of the earth, and his feast is kept on January 7.",
+  "patronages": [
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Reinold to the quiet labor of the cloister and made him a patron of those who build with their hands, grant through his intercession that we may raise up works worthy of Your kingdom and seek You in the hidden life of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reinold"
+  ],
+  "featured": false,
+  "draft": false
+}

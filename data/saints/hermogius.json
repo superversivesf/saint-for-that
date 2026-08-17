@@ -1,0 +1,25 @@
+{
+  "slug": "hermogius",
+  "name": "St. Hermogius",
+  "feastDay": "06-26",
+  "bio": "Hermogius was a Benedictine bishop of the early medieval Spanish Church, remembered above all as the uncle and guardian of Saint Pelagius of Córdova, the boy martyr who would give courageous witness to Christ under Muslim rule in ninth-century al-Andalus. As a bishop in a land pressed between Christian and Islamic domains, Hermogius belonged to that line of Iberian pastors who preserved the faith and formed the next generation of saints amid hardship and political upheaval. His own life of obedience and learning prepared the way for his nephew's heroic witness, and his feast is kept on June 26. Though the historical record is thin, his name endures in the martyrologies as a faithful shepherd of a troubled age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Hermogius a faithful bishop and the guardian of a young martyr, grant through his intercession that pastors may form the young in courage and that the Church under trial may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hermogius"
+  ],
+  "featured": false,
+  "draft": false
+}

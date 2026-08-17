@@ -1,0 +1,25 @@
+{
+  "slug": "lfwold-ii-bishop-of-sherborne",
+  "name": "St. Ælfwold II",
+  "feastDay": "03-25",
+  "bio": "Saint Ælfwold II was a Bishop of Sherborne in Dorset, venerated as a saint in the Catholic Church. He served as the shepherd of the West Saxon see of Sherborne in the latter days of Anglo-Saxon England, governing a diocese whose bishops had carried the Gospel into the western reaches of Wessex since the seventh century.\n\nLittle detail of Ælfwold's life survives, but the memory of his holiness endured among the people and clergy of Dorset. He is remembered as one of the line of holy bishops who, in obscurity and faithfulness, tended the Church in the years before the Norman Conquest reshaped the English episcopate.\n\nHis feast is kept on March 25, and he is honored among the saints of pre-Conquest England who preserved the faith in quiet fidelity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Ælfwold guided the see of Sherborne in holiness, grant through his intercession that bishops may be faithful shepherds and that the Church in England may stand firm in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfwold_II_(bishop_of_Sherborne)"
+  ],
+  "featured": false,
+  "draft": false
+}

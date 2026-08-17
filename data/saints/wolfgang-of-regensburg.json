@@ -1,0 +1,33 @@
+{
+  "slug": "wolfgang-of-regensburg",
+  "name": "St. Wolfgang of Regensburg",
+  "feastDay": "10-31",
+  "bio": "Wolfgang of Regensburg, born around 924 in Swabia, was one of the three great German saints of the tenth century. Educated at Reichenau and Einsiedeln, he served as a tutor to the young Emperor Henry II before being ordained. In 972 he became Bishop of Regensburg, where he reformed the clergy, founded schools, and was a tireless shepherd of his people. Towards the end of his life he withdrew as a hermit to a solitary spot in the Salzkammergut region of Upper Austria, seeking God in silence. He died on October 31, 994. Churches and towns chose him as their patron soon after his death. He is invoked against strokes and stomach ailments and is a patron of carpenters.",
+  "patronages": [
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "stomach ailments",
+      "category": "illness"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Wolfgang a faithful bishop and a tireless reformer of your Church, grant through his intercession that we may seek you in both action and contemplation, and serve your people with joyful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wolfgang_of_Regensburg"
+  ],
+  "featured": false,
+  "draft": false
+}

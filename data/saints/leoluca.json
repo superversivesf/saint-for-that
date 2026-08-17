@@ -1,0 +1,29 @@
+{
+  "slug": "leoluca",
+  "name": "St. Leoluca",
+  "feastDay": "03-01",
+  "bio": "Leoluca, also called Leone Luca or Luke of Sicily, was abbot and wonderworker of the monastery of Mount Mula in Calabria and a founder of Italo-Greek monasticism in southern Italy. Born in Sicily in the ninth century, he left his homeland amid Muslim expansion and crossed to Calabria, where he gathered disciples and established a monastery that carried forward the Byzantine tradition of prayer on Italian soil. His reputation as a wonderworker spread through the valleys of the Aspromonte, and he became a father to the Greek-speaking monks of the Mezzogiorno, shaping the spiritual life of a region where Latin and Greek Christianity met. He died around the year 1000 and is venerated in both the Catholic and Orthodox churches, honored at Corleone in Sicily and Vibo Valentia in Calabria.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Leoluca from Sicily to found a school of holiness in Calabria, grant through his intercession that those driven from their homes may build anew in Your name and that we may seek You in silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leoluca"
+  ],
+  "featured": false,
+  "draft": false
+}

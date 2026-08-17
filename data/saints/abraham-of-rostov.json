@@ -1,0 +1,21 @@
+{
+  "slug": "abraham-of-rostov",
+  "name": "St. Abraham of Rostov",
+  "feastDay": "10-29",
+  "bio": "Abraham of Rostov, born Abercius in the tenth century at Chukhloma near Galich in Kievan Rus', embraced the monastic life and became Archimandrite of Rostov. He devoted himself to prayer and the service of the faithful in the newly evangelized lands of the north. He founded a monastery dedicated to the Entry of the Mother of God into the Temple and worked among the people of Rostov, teaching the Christian faith by word and example. He died around 1077 and is honored as a monastic father and intercessor for his region, remembered for his humility and his zeal in planting the seeds of the Gospel.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abraham of Rostov to plant the seeds of faith in a young land, grant through his intercession that we may share the Gospel with humble and willing hearts, and bear fruit that endures. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Rostov"
+  ],
+  "featured": false,
+  "draft": false
+}

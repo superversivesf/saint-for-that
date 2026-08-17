@@ -1,0 +1,25 @@
+{
+  "slug": "boris-and-gleb",
+  "name": "St. Boris and Gleb",
+  "feastDay": "07-24",
+  "bio": "Boris and Gleb, baptized Roman and David, were sons of Vladimir the Great of Kiev and the first saints canonized in Kievan Rus' after its Christianization. After their father's death around 1015, their brother Sviatopolk seized the throne and sent men to murder them both. Boris, warned of the plot, refused to raise arms against his brother and was cut down while praying; Gleb, summoned under false pretenses, was likewise slain.\n\nTheir deaths were received as a voluntary embrace of suffering in imitation of Christ. The people of Rus' venerated them as passion-bearers, for they shed their blood without striking a blow, choosing meekness over vengeance.\n\nCanonized by the Russian Church, Boris and Gleb became the heavenly protectors of the Russian land and its soldiers. Their feast is 24 July.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the passion-bearers Boris and Gleb with heavenly glory for their meek acceptance of death, grant through their intercession that we may meet injustice with the patience of Christ and return hatred with love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boris_and_Gleb"
+  ],
+  "featured": false,
+  "draft": false
+}

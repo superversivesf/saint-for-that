@@ -1,0 +1,25 @@
+{
+  "slug": "thelnoth-archbishop-of-canterbury",
+  "name": "St. Æthelnoth",
+  "feastDay": "10-30",
+  "bio": "Saint Æthelnoth was Archbishop of Canterbury from 1020 until his death. Descended from an earlier English king, he became a monk before his elevation to the primacy, bringing to the highest see of England a monastic formation of prayer and learning.\n\nWhile archbishop, Æthelnoth journeyed to Rome and returned bearing relics of the saints, enriching the shrines of England. He consecrated bishops from beyond his own archdiocese, which stirred friction with neighboring metropolitans, yet his labor strengthened a Church still recovering from Danish upheaval. He was regarded as a saint after his death, though evidence of a cult at Canterbury is slight.\n\nÆthelnoth is remembered as one of the last great Anglo-Saxon archbishops, holding Canterbury before the Norman Conquest. His feast is October 30.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Æthelnoth in the governance of Canterbury through a time of trial, grant through his intercession that the bishops of Your Church may be men of prayer and faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelnoth_(archbishop_of_Canterbury)"
+  ],
+  "featured": false,
+  "draft": false
+}

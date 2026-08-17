@@ -1,0 +1,33 @@
+{
+  "slug": "bernward-of-hildesheim",
+  "name": "St. Bernward of Hildesheim",
+  "feastDay": "11-20",
+  "bio": "Bernward was the thirteenth Bishop of Hildesheim from 993 until his death in 1022. Born into Saxon nobility and educated at the cathedral school of Hildesheim, he served as a scribe and tutor at the imperial court before his election to the episcopate. As bishop he proved both a capable administrator and a devoted patron of the arts, overseeing the construction of churches and the crafting of splendid liturgical objects that still survive.\n\nUnder Bernward's direction Hildesheim became a centre of Ottonian art: the bronze doors of St. Mary's Cathedral and the great column of Christ, cast in bronze, stand as masterpieces of medieval metalwork. He founded the Benedictine monastery of St. Michael, laboured to reform his clergy, and cared for the poor with generosity. He died on 20 November 1022 and was canonized in 1193. He is honoured as a patron of architects, painters, sculptors, and goldsmiths.",
+  "patronages": [
+    {
+      "need": "architects",
+      "category": "jobs"
+    },
+    {
+      "need": "artists",
+      "category": "jobs"
+    },
+    {
+      "need": "goldsmiths",
+      "category": "jobs"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed your bishop Bernward with wisdom to build your churches and to adorn them with the work of human hands, grant through his intercession that all artists and craftsmen may offer their gifts to your glory and find in their labour a foretaste of the beauty of heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernward_of_Hildesheim"
+  ],
+  "featured": false,
+  "draft": false
+}

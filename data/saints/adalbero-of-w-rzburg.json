@@ -1,0 +1,29 @@
+{
+  "slug": "adalbero-of-w-rzburg",
+  "name": "St. Adalbero of Würzburg",
+  "feastDay": "10-06",
+  "bio": "Adalbero of Wurzburg was Bishop of Wurzburg and Count of Lambach-Wels, born into the noble Babenberg family. He was appointed bishop in 1045 and served during a stormy period of the Investiture Controversy, siding with Pope Gregory VII against Emperor Henry IV. For his fidelity to the Church he was exiled from his see, enduring hardship and imprisonment rather than abandon the cause of reform. He returned to Wurzburg and resumed his pastoral duties, but continued to suffer for his witness. He died in 1090 and was venerated as a bishop and reformer who placed loyalty to God above the favor of princes.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Adalbero to confess your truth even at the cost of exile, grant through his intercession that we may never prefer the favor of princes to the friendship of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalbero_of_W%C3%BCrzburg"
+  ],
+  "featured": false,
+  "draft": false
+}

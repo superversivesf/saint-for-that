@@ -1,0 +1,25 @@
+{
+  "slug": "bruno-of-querfurt",
+  "name": "St. Bruno of Querfurt",
+  "feastDay": "10-15",
+  "bio": "Bruno of Querfurt, also known as Brun, was a missionary, bishop, Camaldolese monk, and martyr who labored in the eastern Holy Roman Empire. Born into Saxon nobility around 974, he was educated at the imperial court of Otto III and drawn to the Camaldolese hermits, but the Gospel pulled him to the still-pagan peoples of northeastern Europe.\n\nConsecrated a bishop for the missions, Bruno traveled among the Poles, Rus', and Lithuanians, preaching Christ where his name had scarcely been heard. He organized the churches he planted, ordaining clergy and translating prayers so the faith might take root in native soil, earning the title \"Second Apostle of the Prussians.\"\n\nIn 1009, while preaching to the Old Prussians near Kyivan Rus' and Lithuania, Bruno and his companions were killed.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Bruno of Querfurt to carry the Gospel to the peoples of the north and crowned his labor with martyrdom, grant through his intercession that your Church may never lack missionaries willing to give their lives for the salvation of souls. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_of_Querfurt"
+  ],
+  "featured": false,
+  "draft": false
+}

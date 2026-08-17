@@ -1,0 +1,29 @@
+{
+  "slug": "ludmila-of-bohemia",
+  "name": "St. Ludmila of Bohemia",
+  "feastDay": "09-16",
+  "bio": "Ludmila of Bohemia is a Czech saint and martyr venerated by Catholic and Orthodox Christians. Born around 860 in Mělník, daughter of the Sorbian prince Slavibor, she was married to Bořivoj I, first Christian duke of Bohemia, and together they received baptism from St. Methodius, bringing the Gospel to the Czech lands. After her husband's death she became grandmother and teacher of the young Wenceslaus, the future Good King Wenceslaus, whom she raised in the faith. Her influence over the boy made her a threat to her daughter-in-law Drahomíra, who, according to tradition, had her strangled with her own veil around 921. Canonized shortly after her martyrdom, Wenceslaus translated her remains to St. George's Basilica in Prague in 925. She is honored as mother of Czech Christianity.",
+  "patronages": [
+    {
+      "need": "grandparents",
+      "category": "family"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Ludmila with martyrdom after a life of bringing the Gospel to her people, grant through her intercession that grandparents may hand on the faith to the young and that the Czech lands may flourish in Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ludmila_of_Bohemia"
+  ],
+  "featured": false,
+  "draft": false
+}

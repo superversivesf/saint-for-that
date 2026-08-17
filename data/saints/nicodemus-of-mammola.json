@@ -1,0 +1,25 @@
+{
+  "slug": "nicodemus-of-mammola",
+  "name": "St. Nicodemus of Mammola",
+  "feastDay": "03-12",
+  "bio": "Saint Nicodemus of Mammola is venerated as a saint in Calabria, southern Italy. His exact place of birth is unknown but has been identified as Ypsicron. His parents, Theophanus and Pandia, entrusted his spiritual education to a priest named Galato (Galatone). Early on, Nicodemus was drawn to the monastic life and longed to join the ascetics who had established themselves in the Mercurion, on the cliffs of the Pollino—a rugged frontier of Byzantine monasticism. There, among hermits who had fled iconoclastic persecution in the East, he gave himself to prayer, fasting, and the disciplines of the desert. He is remembered as a model of the ascetic ideal, one who left family and homeland to seek God in the silence of the mountains, and his cult endures among the people of Calabria.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nicodemus to seek You among the cliffs and silence of Calabria, grant through his intercession that we may find in prayer and detachment from the world the freedom to love You above all. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicodemus_of_Mammola"
+  ],
+  "featured": false,
+  "draft": false
+}

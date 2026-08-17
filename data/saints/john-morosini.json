@@ -1,0 +1,25 @@
+{
+  "slug": "john-morosini",
+  "name": "St. John Morosini",
+  "feastDay": "unknown",
+  "bio": "The Blessed John Morosini, O.S.B., was a Venetian abbot who founded the noted Monastery of San Giorgio Maggiore on the island of that name in the Venetian lagoon. Taking the Benedictine habit, he labored to establish a house of prayer and learning in the maritime republic, and his monastery grew into one of the most famous foundations of Venice, enduring for centuries as a center of monastic life and scholarship. His work of foundation and governance marked him as one of the great Benedictine builders of the Italian Middle Ages. He is honored as a blessed of the Order, a patron of those who found and sustain religious houses.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. John Morosini to found a house of prayer upon the waters of Venice, grant through his intercession that we may build enduring communities of faith and give ourselves to the work of Your praise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Morosini"
+  ],
+  "featured": false,
+  "draft": false
+}

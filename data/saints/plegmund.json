@@ -1,0 +1,29 @@
+{
+  "slug": "plegmund",
+  "name": "St. Plegmund",
+  "feastDay": "08-02",
+  "bio": "Plegmund was a ninth-century English scholar and churchman, raised to the archbishopric of Canterbury in 890 under the patronage of King Alfred the Great. Before his elevation he is said to have lived as a hermit in the marshes of Mercia, devoting himself to prayer and study in a land sorely troubled by Danish invasion. As archbishop he proved a zealous reformer: he reorganized the Diocese of Winchester, creating four new sees to strengthen the pastoral care of a ravaged Church, and he labored beside Alfred and other learned men in the great work of translating religious books from Latin into English, that the faith might be taught to a people who had lost the knowledge of the older tongue. He was venerated as a saint after his death, and his feast is kept on August 2.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Plegmund from the solitude of the marshes to rebuild Your Church and make the Scriptures known in the tongue of the English people, grant through his intercession that we may labor to hand on the faith with wisdom and zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plegmund"
+  ],
+  "featured": false,
+  "draft": false
+}

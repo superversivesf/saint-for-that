@@ -1,0 +1,29 @@
+{
+  "slug": "wulfthryth-of-wilton",
+  "name": "St. Wulfthryth of Wilton",
+  "feastDay": "unknown",
+  "bio": "Wulfthryth, also called Wilfrida, was an Anglo-Saxon noblewoman linked to the royal court of King Edgar in the early 960s. After Edgar married Aelfthryth in 964, Wulfthryth returned to Wilton Abbey, where she had been educated, accompanied by her daughter Edith, who was widely venerated as a saint in the eleventh century. Wulfthryth remained at Wilton for the rest of her life, serving as abbess and raising her daughter in holiness. She died on September 21 around the year 1000. Though her cult remained local to Wilton, she is honored for her devotion and her role in shaping one of medieval England's most venerated young saints.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Wulfthryth from royal splendor to the quiet service of the cloister, grant through her intercession that we may raise our children in holiness and find you in simplicity of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wulfthryth_of_Wilton"
+  ],
+  "featured": false,
+  "draft": false
+}

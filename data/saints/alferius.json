@@ -1,0 +1,29 @@
+{
+  "slug": "alferius",
+  "name": "St. Alferius",
+  "feastDay": "04-12",
+  "bio": "Saint Alferius, born around 930, was an Italian abbot and founder of the Abbey of La Trinità della Cava, near Salerno. Of noble lineage, he served as a high official at the court of the Lombard princes before a pilgrimage to Cluny changed the course of his life.\n\nWhile on a diplomatic mission to France, Alferius fell gravely ill and took refuge at the monastery of Cluny. There he recovered both bodily health and a vocation, and he became a monk. After years in the Cluniac household of prayer, he returned to Italy seeking solitude and settled in a cave in the mountains above Cava, where disciples gathered.\n\nFrom that hermitage grew the abbey of La Trinità della Cava, motherhouse of monasteries of southern Italy. Alferius governed it some fifty years and died around 1050. His feast is April 12.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Alferius from the courts of princes to the silence of a mountain cave and there founded a great house of prayer, grant through his intercession that we may seek You above all worldly honors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alferius"
+  ],
+  "featured": false,
+  "draft": false
+}

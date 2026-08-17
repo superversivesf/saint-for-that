@@ -1,0 +1,29 @@
+{
+  "slug": "benedict-of-skalka",
+  "name": "St. Benedict of Skalka",
+  "feastDay": "05-01",
+  "bio": "Benedict of Skalka, born in Nitra in the Grand Principality of Hungary, was a Benedictine monk who sought perfection beyond the cloister by embracing the life of a hermit. He withdrew to a cave along the Váh River at Skalka, not far from his monastery, and there lived an austere life of prayer, fasting, and manual labour. His reputation for holiness drew pilgrims and penitents to his rocky retreat.\n\nIn 1012, Benedict was seized by a band of robbers who believed his cave concealed treasure. Finding nothing of value, they strangled him to death and cast his body into the river. His relics were later recovered and enshrined, and he was canonized in 1083, one of the first saints of the Hungarian Church. He is venerated especially by the sailors and boatmen of the Váh and by the dioceses of Nitra and Tarnów.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your servant Benedict with the palm of martyrdom as he kept vigil in his cave by the Váh, grant through his intercession that we may prefer the treasure of heaven to all earthly wealth and remain steadfast in your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_of_Skalka"
+  ],
+  "featured": false,
+  "draft": false
+}

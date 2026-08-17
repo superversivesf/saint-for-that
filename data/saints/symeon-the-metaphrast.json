@@ -1,0 +1,29 @@
+{
+  "slug": "symeon-the-metaphrast",
+  "name": "St. Symeon the Metaphrast",
+  "feastDay": "11-09",
+  "bio": "Symeon, also called Simeon and distinguished as Symeon Metaphrastes or Symeon the Metaphrast, was a Byzantine writer and official regarded as a saint in the Eastern Orthodox Church. He served in the imperial administration at Constantinople and devoted his learning to the service of the Church, gathering and reworking the lives of the saints into a single collection.\n\nHis ten-volume Greek menologion, a systematic compendium of saints' lives arranged by feast day, became one of the most important hagiographic works of the Middle Ages. Through his labor, countless stories of Christian witness were preserved for later generations. His feast is celebrated on 9 November (or 28 November in some traditions), and he is honored as a patron of those who study and write.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Symeon the Metaphrast to preserve the memory of Your saints for the building up of Your Church, grant through his intercession that we may learn from the witness of those who have gone before us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symeon_the_Metaphrast"
+  ],
+  "featured": false,
+  "draft": false
+}

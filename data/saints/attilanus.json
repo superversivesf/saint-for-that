@@ -1,0 +1,25 @@
+{
+  "slug": "attilanus",
+  "name": "St. Attilanus",
+  "feastDay": "unknown",
+  "bio": "Attilanus, born in 937, was an Aragonese Benedictine monk who rose to become bishop of Zamora in the kingdom of León. He served as prior of Moreruela Abbey, one of the earliest and most influential Benedictine houses in the Iberian Peninsula, before his elevation to the episcopate. He governed his diocese with diligence during a turbulent age of reconquest and reconquest and reconquest, and he was a close associate of St. Dominic of Silos.\n\nAttilanus died in 1007 and was venerated as a saint shortly thereafter. His cult was confirmed by popular devotion in the region of Zamora and the monasteries of the Camino. Though his feast day is not universally fixed, he is remembered as a model Benedictine bishop who united the life of a monk with the care of a pastor.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Attilanus a faithful monk and a zealous bishop of Zamora, grant through his intercession that pastors of the Church may be rooted in prayer and guiding their people with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Attilanus"
+  ],
+  "featured": false,
+  "draft": false
+}

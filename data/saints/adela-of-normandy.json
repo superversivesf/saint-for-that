@@ -1,0 +1,29 @@
+{
+  "slug": "adela-of-normandy",
+  "name": "St. Adela of Normandy",
+  "feastDay": "unknown",
+  "bio": "Saint Adela of Normandy, also called Adela of Blois, was a daughter of William the Conqueror and Matilda of Flanders. Born into the highest nobility of the Norman world, she married Stephen II, Count of Blois, and became one of the most influential women of her age.\n\nAdela twice served as regent of Blois, first during her husband's absence on the First Crusade from 1096 to 1100 and again from 1101 to 1102, and governed during the minority of her son until 1120. A woman of formidable piety, she patronized monasteries and shaped the careers of her children, among them the future King Stephen of England.\n\nIn later life Adela retired to the abbey of Marcigny, taking the veil as a nun. She is honored as a model of noble Christian womanhood, seeking God in the cloister.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Adela from the courts of worldly power to the quiet of the cloister, grant through her intercession that all who bear responsibility may seek Your wisdom and rest in Your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adela_of_Normandy"
+  ],
+  "featured": false,
+  "draft": false
+}

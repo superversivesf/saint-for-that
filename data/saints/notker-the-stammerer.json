@@ -1,0 +1,29 @@
+{
+  "slug": "notker-the-stammerer",
+  "name": "St. Notker the Stammerer",
+  "feastDay": "unknown",
+  "bio": "Notker the Stammerer, also called Notker Balbulus, was a Benedictine monk at the Abbey of Saint Gall in present-day Switzerland, active as a composer, poet, and scholar. Described as \"a significant figure in the Western Church,\" Notker made substantial contributions to both the music and literature of his time. He is usually credited with two major works of the Carolingian period: the Liber Hymnorum, which includes an important collection of early musical sequences, and an early biography of Charlemagne, the Gesta Karoli Magni. His other works include a biography of Saint Gall and a martyrology. Despite the stutter from which he took his name, he became one of the great voices of Carolingian liturgical poetry, showing how weakness can be turned to God's praise.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "jobs"
+    },
+    {
+      "need": "poets",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Notker the Stammerer a tongue to sing Your praises though it faltered in speech, grant through his intercession that our weakness may become the place where Your strength is made perfect. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Notker_the_Stammerer"
+  ],
+  "featured": false,
+  "draft": false
+}

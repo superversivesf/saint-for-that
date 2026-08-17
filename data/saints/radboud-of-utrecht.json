@@ -1,0 +1,25 @@
+{
+  "slug": "radboud-of-utrecht",
+  "name": "St. Radboud of Utrecht",
+  "feastDay": "unknown",
+  "bio": "Saint Radbod, or Radboud, was bishop of Utrecht from 899 until his death in 917, the last in a noble line of Frisian churchmen who kept the faith alive in a region once won for Christ by the earlier missionary martyrs. He was a man of prayer and pastoral care who governed his diocese in troubled times, when the attacks of the Northmen had laid waste many churches and scattered the faithful. Though the record of his deeds is brief, tradition honors him as a bishop who labored to gather again what had been broken and to keep the lamp of the Gospel burning in the lowlands of the Frisians. He died in office and was venerated as a saint by the people he had shepherded.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Radboud as a faithful shepherd of Utrecht when the Church was scattered and hard-pressed, grant through his intercession that those who govern Your people may stand firm in faith and rebuild what ruin has touched. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Radboud_of_Utrecht"
+  ],
+  "featured": false,
+  "draft": false
+}

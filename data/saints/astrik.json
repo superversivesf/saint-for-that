@@ -1,0 +1,33 @@
+{
+  "slug": "astrik",
+  "name": "St. Astrik",
+  "feastDay": "unknown",
+  "bio": "Saint Astrik of Pannonhalma is a saint of the eleventh century, honored as one of the first evangelizers of the Magyar people and a chief instrument in planting Benedictine monastic life in the kingdom of Hungary. A monk of the Latin rite, he was sent by Saint Adalbert of Prague and later served under King Stephen I, the first Christian king of the Hungarians, whose throne he helped to anchor in the faith of Rome.\n\nAstrik is most closely linked to Pannonhalma, the great abbey above the plain where, according to tradition, the first Hungarian monks gathered under his guidance. From that hill the Benedictine life spread across the young kingdom, binding the newly converted Magyars to Latin Christendom.\n\nHe is remembered with Stephen and Adalbert among the founders of Christian Hungary.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hungary",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Astrik to the plain of Pannonhalma to raise up the Benedictine life among the Magyar people, grant through his intercession that the faith planted in that land may ever bear fruit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Astrik"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "thomais-of-lesbos",
+  "name": "St. Thomais of Lesbos",
+  "feastDay": "01-03",
+  "bio": "Thomais of Lesbos, also known simply as Saint Thomais, was a Byzantine woman from the island of Lesbos who is venerated as a saint in the Eastern Orthodox Church. She is a rare and cherished example of a married laywoman who achieved sanctity through the ordinary duties and struggles of daily life, rather than through martyrdom or the monastic vocation.\n\nThomais bore the hardships of marriage and family with patience and charity, dedicating herself to prayer, almsgiving, and the care of those in need. Her life demonstrated that holiness is not reserved to monks and bishops but is offered to all who love God faithfully in their own state of life. Her feast day is kept on 3 January, and her shrine at Thessaloniki has long been a place of devotion for the faithful.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "homemakers",
+      "category": "everyday"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in St. Thomais of Lesbos showed that holiness flowers in every state of life, grant through her intercession that married couples and all who labor at home may find You in their daily duties. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomais_of_Lesbos"
+  ],
+  "featured": false,
+  "draft": false
+}

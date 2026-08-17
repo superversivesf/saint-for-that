@@ -1,0 +1,29 @@
+{
+  "slug": "wenceslaus-i-duke-of-bohemia",
+  "name": "St. Wenceslaus I, Duke of Bohemia",
+  "feastDay": "09-28",
+  "bio": "Wenceslaus I, also known as Wenceslas or Václav the Good, was the Prince (kníže) of Bohemia from 921 until his death, probably in 935. Raised a Christian by his grandmother, St. Ludmila, he ruled a land only recently evangelized and strove to strengthen the faith through the building of churches, the support of the clergy, and peace with neighboring Christian rulers. His reign was marked by piety, justice, and care for the poor.\n\nAccording to tradition, Wenceslaus was assassinated by his younger brother Boleslaus the Cruel, who coveted the throne. He died forgiving his murderer and was immediately venerated as a martyr. His tomb at Prague became the heart of Czech Christianity and a great pilgrimage shrine of Central Europe. He is the patron of Bohemia, of Prague, and of the Czech people.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Wenceslaus with martyrdom as he ruled his people with justice and faith, grant through his intercession that rulers and all in authority may seek Your kingdom above earthly power. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Bohemia"
+  ],
+  "featured": false,
+  "draft": false
+}

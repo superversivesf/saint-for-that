@@ -1,0 +1,25 @@
+{
+  "slug": "bernold",
+  "name": "St. Bernold",
+  "feastDay": "07-19",
+  "bio": "Saint Bernulf, or Bernold, of Utrecht was Bishop of Utrecht from 1026 or 1027 until his death in 1054. A faithful shepherd of the Church in the Low Countries, he governed the diocese during a period of reform and consolidation, supporting monastic life and the building of churches. He was a friend and ally of the imperial bishops who laboured to renew the discipline of the clergy in the eleventh century.\n\nBernold died in 1054 and was soon venerated as a saint by the faithful of his diocese. His cult was particularly strong among the artists and craftsmen of the Netherlands, who claimed him as their patron. He is remembered as a zealous bishop whose labours strengthened the Church in Utrecht and whose intercession is sought by all who work with their hands to make beautiful things for the glory of God.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "artists",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Bernold a faithful bishop of Utrecht and a patron of artists and craftsmen, grant through his intercession that all who labour with their hands may offer their work as a hymn of praise to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernold"
+  ],
+  "featured": false,
+  "draft": false
+}

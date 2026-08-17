@@ -1,0 +1,33 @@
+{
+  "slug": "rasso",
+  "name": "St. Rasso",
+  "feastDay": "05-17",
+  "bio": "Saint Rasso of Andechs was a Bavarian count and military leader of the tenth century, lord of Dießen-Andechs, who took up the sword to defend his homeland against the invading Magyars in the 950s. After years of warfare he laid down arms and undertook the life of a pilgrim, journeying to Rome and then to Jerusalem, where he embraced the discipline and penance of the holy places. On his return he withdrew to the monastery he had founded at Andechs, exchanging the banner of the soldier for the cowl of the monk, and there he ended his days in prayer. No contemporary life of Rasso survives, yet the memory of the count who fought the pagan and then became a pilgrim endured in the devotion of the Bavarian people, who invoked him especially against stomach pains, above all in children. His feast is kept on May 17.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "stomach ailments",
+      "category": "illness"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Rasso a defender of his people in battle and a penitent pilgrim at the end of his days, grant through his intercession that we may fight evil with courage and seek You with repentant hearts, and that the sick, especially children afflicted in body, may find relief. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rasso"
+  ],
+  "featured": false,
+  "draft": false
+}

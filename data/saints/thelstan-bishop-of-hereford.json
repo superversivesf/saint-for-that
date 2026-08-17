@@ -1,0 +1,25 @@
+{
+  "slug": "thelstan-bishop-of-hereford",
+  "name": "St. Æthelstan",
+  "feastDay": "02-10",
+  "bio": "Saint Æthelstan was a medieval Bishop of Hereford, serving the West Saxon see that stretched along the Welsh Marches. He governed the diocese in the Anglo-Saxon period, when the bishops of Hereford tended a frontier Church standing between the kingdoms of England and the Celtic lands to the west.\n\nThe scant records of his episcopate speak of a pastor remembered for holiness of life, and his name was long honored among the saints of pre-Conquest England. The see of Hereford, founded in the seventh century from the mission of Wessex, counted Æthelstan among its holy bishops who kept the faith alive in a borderland often marked by warfare and uncertainty.\n\nHis feast is kept on February 10, and he is remembered as one of the quiet saints of the early English Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Æthelstan to shepherd Your people on the marches of Hereford, grant through his intercession that bishops may serve with quiet fidelity and the Church stand firm in every borderland. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelstan_(bishop_of_Hereford)"
+  ],
+  "featured": false,
+  "draft": false
+}

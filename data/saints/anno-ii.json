@@ -1,0 +1,33 @@
+{
+  "slug": "anno-ii",
+  "name": "St. Anno II",
+  "feastDay": "12-04",
+  "bio": "Saint Anno II was Archbishop of Cologne from 1056 until his death and one of the great churchmen of the Salian age. From 1063 to 1065 he served as regent of the Holy Roman Empire for the minor Emperor Henry IV, bearing the weight of empire while shaping the reforming church of his day. He founded monasteries, among them Siegburg Abbey, a center of the Hirsau reform.\n\nHis career spanned the tensions of the Investiture Controversy: he counseled, corrected, and at times resisted the young Henry IV, navigating the cross-currents of Saxon and imperial politics. In Cologne he was remembered as a builder and patron, gathering relics and drawing scholars to the Rhineland.\n\nHe died on December 4, 1075, and was buried at Siegburg. Miracles at his tomb spread devotion, and he was later canonized.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Anno to Your Church as archbishop of Cologne and steersman of empire in a turbulent age, grant through his intercession that those who bear authority may serve Your peace and Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anno_II"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "theobald-of-vienne",
+  "name": "St. Theobald of Vienne",
+  "feastDay": "05-21",
+  "bio": "Saint Theobald of Vienne served as Archbishop of Vienne from 970 until his death, shepherding the ancient see through a turbulent age of political upheaval and monastic reform. Vienne, in what is now southeastern France, had long been a center of Gallo-Roman Christianity, and Theobald continued the line of bishops who preserved the faith through the collapse of the Carolingian order.\n\nAs archbishop he worked to maintain the discipline of the clergy, support the monastic communities of his diocese, and defend the Church's rights against the encroachments of secular lords. He died in office and was venerated by the people of Vienne as a faithful pastor who held the Church together in uncertain times. His feast is kept on 21 May.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Theobald a faithful shepherd of the Church of Vienne in a time of turmoil, grant through his intercession that our pastors may stand firm in faith and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theobald_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

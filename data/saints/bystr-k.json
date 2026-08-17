@@ -1,0 +1,25 @@
+{
+  "slug": "bystr-k",
+  "name": "St. Bystrík",
+  "feastDay": "09-24",
+  "bio": "Saint Bystrík was a tenth-century bishop of the Diocese of Nitra, in what is now Slovakia, and a martyr of the early Hungarian Christian past. Consecrated to govern one of the oldest sees in the region, he shepherded a flock still new to the faith in a land where pagan and Christian loyalties contended for the hearts of rulers and people alike.\n\nBystrík labored among the Slavic and Magyar peoples of the Middle Danube at the close of the first millennium, when the cross was being planted in kingdoms only recently evangelized. His work centered on Nitra, a stronghold whose Christian community traced its beginnings to SS. Cyril and Methodius.\n\nKilled for his faith around 1046 during a pagan reaction, Bystrík gave his life as a martyr-bishop. His feast is 24 September.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Bystrík with the glory of martyrdom as he shepherded the young Church of Nitra, grant through his intercession that we may hold fast to the faith handed down to us and witness to it without fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bystr%C3%ADk"
+  ],
+  "featured": false,
+  "draft": false
+}

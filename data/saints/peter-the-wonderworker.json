@@ -1,0 +1,25 @@
+{
+  "slug": "peter-the-wonderworker",
+  "name": "St. Peter the Wonderworker",
+  "feastDay": "05-03",
+  "bio": "Saint Peter the Wonderworker, called the Thaumaturge and known especially as Peter of Argos, labored in the Peloponnese of southern Greece as a bishop and healer in the early centuries of the Church. So numerous were the miracles reported at his tomb and through his intercession that he earned the title Wonderworker, a name reserved in the Eastern Church for the great servants of God whose holiness was confirmed by signs and wonders. The people of Argos have venerated him from ancient times as their patron and protector, and his feast is kept on May 3. Though the details of his earthly life are mostly lost to history, the memory of his wonder-working intercession endures, a testimony to the power of holiness in a city that honors him still.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Peter the Wonderworker a fountain of miracles for the people of Argos, grant through his intercession that we may believe in Your power to heal and serve You with steadfast faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Wonderworker"
+  ],
+  "featured": false,
+  "draft": false
+}

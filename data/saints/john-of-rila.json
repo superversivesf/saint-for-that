@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-rila",
+  "name": "St. John of Rila",
+  "feastDay": "10-19",
+  "bio": "Saint Ivan of Rila, also known as Ivan Rilski, was the first Bulgarian hermit and one of the most beloved saints of the Bulgarian Orthodox Church. Born in the ninth century, he withdrew from the world to live in caves and wilderness, eventually settling in the Rila Mountains of southwestern Bulgaria, where he devoted himself to unceasing prayer and fasting. The tradition tells of wild animals that came freely to him and birds that alighted in his hands, signs of the harmony that grace restored between the saint and creation. Disciples gathered around him, and after his death around 946 his followers founded many churches in his honor, chief among them the great Rila Monastery, spiritual heart of the Bulgarian people. He is honored as patron of the Bulgarians.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. John of Rila to the silence of the wilderness and made even the wild beasts his companions, grant through his intercession that we may find in prayer the peace that reconciles us with all creation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Rila"
+  ],
+  "featured": false,
+  "draft": false
+}

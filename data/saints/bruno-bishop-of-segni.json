@@ -1,0 +1,25 @@
+{
+  "slug": "bruno-bishop-of-segni",
+  "name": "St. Bruno, Bishop of Segni",
+  "feastDay": "07-18",
+  "bio": "Bruno of Segni was an Italian Benedictine prelate who served as Bishop of Segni and, for a time, Abbot of Montecassino. Formed by the Benedictines of Bologna, he began as a canon of Siena before being called to Rome, where he counseled four successive popes and was consecrated a bishop.\n\nA prolific scripture commentator and defender of orthodox doctrine, Bruno wrote treatises that circulated widely. Elevated to the abbacy of Montecassino, he risked his standing by criticizing Pope Paschal II over the Concordat of Ponte Mammolo in 1111. Paschal relieved him of his abbacy and sent him back to his diocese, where he spent his final decade governing his see.\n\nBruno died around 1123 and was canonized on 5 September 1181 by Pope Lucius III in Segni.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Bruno of Segni the courage to defend your truth even against those who held power over him, grant through his intercession that we may study your word faithfully and never compromise our conscience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_(bishop_of_Segni)"
+  ],
+  "featured": false,
+  "draft": false
+}

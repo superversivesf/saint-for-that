@@ -1,0 +1,25 @@
+{
+  "slug": "olga-of-kiev",
+  "name": "St. Olga of Kiev",
+  "feastDay": "07-11",
+  "bio": "Olga was a regent of Kievan Rus' for her son Sviatoslav from 945 until 957. Following her baptism, she took the name Elena. She is known for her subjugation of the Drevlians, a tribe that had killed her husband Igor, a story of vengeance that belongs to her life before her conversion. Though it was her grandson Vladimir who adopted Christianity and made it the state religion of Rus', she was the first Rurikid ruler to be baptized, journeying to Constantinople and receiving the faith from the Byzantine clergy there. She returned to Kiev as a Christian, planting the seed from which the conversion of an entire people would grow. Honored as equal to the apostles in the Eastern Church, she is invoked as a patron of widows and of converts to the faith.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who opened the heart of St. Olga to the Gospel and made her the first fruits of the Christian faith in Rus', grant through her intercession that widows may find comfort and all converts may persevere in the way of salvation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olga_of_Kiev"
+  ],
+  "featured": false,
+  "draft": false
+}

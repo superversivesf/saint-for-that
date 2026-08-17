@@ -1,0 +1,25 @@
+{
+  "slug": "pietro-i-orseolo",
+  "name": "St. Pietro I Orseolo",
+  "feastDay": "01-10",
+  "bio": "Pietro I Orseolo (928–987), also known as Peter Urseulus, was the Doge of Venice from 976 until 978. Born into the noble Orseolo family, he came to power in the aftermath of turmoil and ruled the republic with prudence. Yet after only two years, he abdicated his high office and left Venice in the middle of the night, renouncing wealth and power to become a monk. He journeyed to the mountains of Catalonia and entered the order of the Camaldolese Hermits of Mount Corona, giving himself to penance and prayer far from the splendor of the ducal palace. He is venerated as a saint in both the Eastern Orthodox Church and the Roman Catholic Church, honored as one who exchanged the crown of earthly rule for the hidden life of a contemplative.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who moved St. Pietro to leave the ducal palace for the silence of the hermitage, grant through his intercession that we may be free from attachment to worldly honors and seek Your face above every earthly crown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pietro_I_Orseolo"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "henry-ii-holy-roman-emperor",
+  "name": "St. Henry II, Holy Roman Emperor",
+  "feastDay": "07-13",
+  "bio": "Henry II, the last ruler of the Ottonian line, was born in 973 and formed in the piety of the Bavarian ducal court. As Duke of Bavaria from 995, he became King of the Romans in 1002 after the death of Emperor Otto III, King of Italy in 1004, and was crowned Holy Roman Emperor by Pope Benedict VIII in 1014. Though sovereign of vast temporal power, Henry governed as a Christian prince, founding the diocese of Bamberg, endowing monasteries, and working closely with the Church to reform the life of Christendom. He and his wife Cunigunde lived in continence and devotion, and Henry became a Benedictine oblate, seeking the monastic ideal even amid empire. He died without an heir in 1024 and was canonized in 1146, the only Holy Roman Emperor so honored.",
+  "patronages": [
+    {
+      "need": "disabled people",
+      "category": "illness"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Henry to rule an empire with justice and yet to seek the humility of a monk, grant through his intercession that those who bear authority may serve You in holiness and that the disabled and rejected may find their place in Your house. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+  ],
+  "featured": false,
+  "draft": false
+}

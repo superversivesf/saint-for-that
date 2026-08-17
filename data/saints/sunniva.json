@@ -1,0 +1,29 @@
+{
+  "slug": "sunniva",
+  "name": "St. Sunniva",
+  "feastDay": "07-08",
+  "bio": "Saint Sunniva is the patron saint of the Diocese of Bjørgvin and of all Western Norway. According to medieval tradition, she was an Irish princess who, rather than submit to a pagan suitor, fled across the sea with her companions and was shipwrecked on the Norwegian island of Selja. There the small community lived in caves, praying and trusting in God's providence, until they were persecuted and killed by local inhabitants.\n\nSunniva's shrine on Selja became one of Norway's oldest pilgrimage sites, and her memory shaped the Christian identity of the Norwegian west coast for centuries. King Olaf Tryggvason is said to have discovered her incorrupt remains and built a church in her honor. She is honored as a model of chastity, courage, and missionary witness.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Sunniva to witness to Your truth even to the shores of a distant land, grant through her intercession that we may keep our hearts pure and our courage firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sunniva"
+  ],
+  "featured": false,
+  "draft": false
+}

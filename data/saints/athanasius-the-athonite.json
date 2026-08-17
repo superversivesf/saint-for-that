@@ -1,0 +1,25 @@
+{
+  "slug": "athanasius-the-athonite",
+  "name": "St. Athanasius the Athonite",
+  "feastDay": "07-05",
+  "bio": "Athanasius the Athonite was a Byzantine monk of the tenth century, revered as the founder of the organized monastic community on the peninsula of Mount Athos. Born in Trebizond and educated in Constantinople, he embraced the monastic life and was drawn to the solitude of the Holy Mountain. There, around 963, with the support of the Byzantine emperor Nikephoros II Phokas, he established the Great Lavra, the first of the twenty monasteries that would make Athos the greatest centre of Eastern Orthodox monasticism.\n\nAthanasius gathered disciples, drew up a communal rule, and transformed scattered hermits into a coenobitic brotherhood. His labours were not without trial: he faced resistance from hermits who prized their isolation, and he was killed in 1000 when a stone vault collapsed during construction work at the Lavra. He is honoured as a luminary of the Eastern Church and a father of monastic reform.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Athanasius to the solitude of the Holy Mountain and made him a father of monastic life on Mount Athos, grant through his intercession that we may seek you with undivided hearts and build up communities of prayer and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athanasius_the_Athonite"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "canute-iv-of-denmark",
+  "name": "St. Canute IV of Denmark",
+  "feastDay": "07-10",
+  "bio": "Canute IV, called Canute the Holy, was King of Denmark from 1080 until his murder in 1086, and the first Danish king to be canonized. An ambitious and devout ruler, he strengthened the Danish monarchy, defended the Church, supported the spread of Christianity, and harbored designs on the English throne.\n\nA champion of the Church, Canute endowed foundations and sought to bind his kingdom to Rome, but his centralizing policies and the tithes he imposed provoked a rebellion. In 1086, as rebels closed in on him in the church of St. Alban at Odense, Canute received communion and waited at the altar, refusing to flee; he was cut down before the cross.\n\nRecognized as patron saint of Denmark in 1101, Canute is venerated as a royal martyr.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Canute from the throne of Denmark to the palm of martyrdom before your altar, grant through his intercession that rulers may govern with justice and defend the Church, and that all who suffer for righteousness may be crowned with life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
+  ],
+  "featured": false,
+  "draft": false
+}

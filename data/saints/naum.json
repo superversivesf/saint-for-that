@@ -1,0 +1,37 @@
+{
+  "slug": "naum",
+  "name": "St. Naum",
+  "feastDay": "01-05",
+  "bio": "Naum, also known as Naum of Ohrid or Naum of Preslav, was a medieval Bulgarian writer, monk, and missionary among the Slavs, counted among the Seven Apostles of the First Bulgarian Empire. A disciple of Saints Cyril and Methodius, he was associated with the creation of the Glagolitic and Cyrillic scripts that carried the Gospel into the Slavic tongue. He was among the founders of the Pliska Literary School and later labored at the Ohrid Literary School, where he trained clergy and scholars for the young Bulgarian Church. He was among the first saints declared by the Bulgarian Orthodox Church after its foundation in the 9th century. The Monastery of Saint Naum at Ohrid remains one of the great pilgrimage sites of the Balkans. His feast is January 5, and his mission played a significant role in the transformation of the Early Slavs into a Christian people.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "everyday"
+    },
+    {
+      "need": "linguists",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Naum to proclaim Your name among the Slavs and gave him the letters of their tongue, grant through his intercession that all peoples may hear the Gospel in their own language and praise You in their own words. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Naum"
+  ],
+  "featured": false,
+  "draft": false
+}

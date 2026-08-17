@@ -1,0 +1,25 @@
+{
+  "slug": "urea-of-san-mill-n",
+  "name": "St. Áurea of San Millán",
+  "feastDay": "03-11",
+  "bio": "Áurea, also called Oria, was born in 1043 in the village of Villavelayo in the Spanish province of La Rioja. Drawn to a life of prayer from her youth, she became an anchorite attached to the Monastery of San Millán de la Cogolla, living in a cell near the community of monks. There she devoted herself to penance, contemplation, and the service of the poor who came to her window.\n\nHer life was short but luminous. She died in 1070, at about twenty-seven years of age, and was soon venerated as a saint by the people of La Rioja. Her cult spread around her native Villavelayo, which honours her as its heavenly patroness. She is remembered as a model of the recluse's vocation: hidden with Christ in the silence of a cell, yet fruitful for the whole Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Áurea to the hidden life of an anchorite beside the monastery of San Millán, grant through her intercession that we may learn to seek you in silence and to find you in the service of the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%81urea_of_San_Mill%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

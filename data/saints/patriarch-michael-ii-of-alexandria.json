@@ -1,0 +1,25 @@
+{
+  "slug": "patriarch-michael-ii-of-alexandria",
+  "name": "St. Patriarch Michael II of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Michael II served as the Greek Patriarch of Alexandria from 870 to 903, guiding the ancient See of St. Mark through more than three decades of patient stewardship under the rule of the Abbasid Caliphate. In an age when the patriarchal throne of Alexandria was beset by political pressures and the steady decline of the Greek-speaking faithful, he maintained the continuity of the Church and the dignity of the office. Though the historical record of his patriarchate is sparse, his long and faithful service preserved the line of Alexandrine hierarchs and sustained the Christian community of Egypt through a difficult century.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the See of Alexandria through the faithful ministry of St. Michael II, grant through his intercession that Your Church, though tried, may never fail in her witness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patriarch_Michael_II_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

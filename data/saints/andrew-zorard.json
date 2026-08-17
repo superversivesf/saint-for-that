@@ -1,0 +1,37 @@
+{
+  "slug": "andrew-zorard",
+  "name": "St. Andrew Zorard",
+  "feastDay": "06-13",
+  "bio": "Saint Andrew Zorard was a Benedictine monk born in Poland who lived out his vocation in the kingdoms of Hungary, venerated in both the Catholic and Orthodox Churches. Drawn to the solitary life, he settled on a hill near Nitra in present-day Slovakia, where he built a hermitage and gave himself to prayer, fasting, and manual labor in the Slav wilderness.\n\nHis reputation drew disciples, and the monastic life he planted endured long after him, forming a bridge between the Latin and Byzantine traditions of the Carpathian basin. Nitra, the Dioceses of Nitra and Tarnów, and St. Andrew Abbey in Cleveland claim him as patron.\n\nHe died around 1040 and was buried on the hill of Zobor, where a cave and a spring associated with him were long venerated. His feast is June 13.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "slovakia",
+      "category": "everyday"
+    },
+    {
+      "need": "poland",
+      "category": "everyday"
+    },
+    {
+      "need": "hungary",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Andrew Zorard from Poland to the hill of Zobor, there to plant the monastic life in the Carpathian wilderness, grant through his intercession that all who seek You in solitude may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_Zorard"
+  ],
+  "featured": false,
+  "draft": false
+}

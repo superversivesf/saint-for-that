@@ -1,0 +1,25 @@
+{
+  "slug": "pope-macarius-i-of-alexandria",
+  "name": "St. Macarius I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Macarius I of Alexandria served as the 59th Pope of Alexandria and Patriarch of the See of St. Mark from 932 to 952, shepherding the Coptic Church through a period of pastoral care and spiritual continuity. Commemorated in the Coptic Synaxarion on the 24th day of Baramhat, he is remembered as a faithful successor of St. Mark, carrying the burdens of the ancient Patriarchate with devotion. His long pontificate spanned two decades in which the Church of Alexandria endured under Islamic rule, and his commemoration endures among the Coptic faithful as a witness to the unbroken line of patriarchs who kept the faith alive in Egypt.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Your Church in Alexandria through the long ministry of St. Macarius I, grant through his intercession that shepherds of Your flock may remain faithful in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Macarius_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

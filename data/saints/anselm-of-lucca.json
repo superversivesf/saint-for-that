@@ -1,0 +1,33 @@
+{
+  "slug": "anselm-of-lucca",
+  "name": "St. Anselm of Lucca",
+  "feastDay": "03-18",
+  "bio": "Saint Anselm of Lucca, born Anselm of Baggio, was a medieval bishop of Lucca and a prominent figure in the Investiture Controversy that rent the eleventh-century Church. His uncle, also named Anselm, had preceded him as bishop of Lucca before being raised to the papacy as Alexander II, and so he is sometimes called Anselm the Younger or Anselm II.\n\nCaught up in the struggle between the Countess Matilda of Tuscany and the Emperor Henry IV, Anselm stood with the reforming party of Gregory VII, refusing investiture from lay hands and suffering exile for the liberty of the Church. He guided the see of Lucca through years of faction and strife with a confessor's courage.\n\nHe died on March 18, 1086, and was honored as a saint in Lucca and beyond. Mantua also venerates him as patron.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Anselm of Lucca to defend the freedom of Your Church in the storm of the Investiture Controversy, grant through his intercession that bishops may never yield the truth to the powers of this world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anselm_of_Lucca"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "maiolus-of-cluny",
+  "name": "St. Maiolus of Cluny",
+  "feastDay": "05-11",
+  "bio": "Maiolus, the fourth abbot of Cluny, was one of the great reformers of the 10th-century Church. Born of noble Aquitanian stock, he rose to lead the monastery that had become the beating heart of Western monasticism. As abbot he traveled extensively, reorganizing individual communities of monks and canons at the request and authorization of emperors and nobility. Finding that personal visitation alone could not secure lasting reform, he pioneered the affiliation of dependent foundations to the motherhouse at Cluny, binding them in a single congregation so that discipline might not relapse. So great was his reputation that emperors sought to make him pope, an honor he refused. He died on May 11, 994, having shaped the monastic revival that would define the age.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Maiolus to renew the monasteries of Cluny and bind them in one fellowship of discipline, grant through his intercession that Your Church may be ever reformed and renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maiolus_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

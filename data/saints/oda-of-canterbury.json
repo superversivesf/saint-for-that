@@ -1,0 +1,25 @@
+{
+  "slug": "oda-of-canterbury",
+  "name": "St. Oda of Canterbury",
+  "feastDay": "07-04",
+  "bio": "Oda the Good was a tenth-century Archbishop of Canterbury in England. The son of a Danish invader, he became a bridge between conquerors and conquered, entering the service of the Church and becoming Bishop of Ramsbury before 928. A number of stories were told about his actions before and during his episcopate, though few are recorded in contemporary accounts. After being named to Canterbury in 941, Oda was instrumental in crafting royal legislation and gave rules to his clergy. He was also deeply involved in efforts to reform religious life in England, working alongside the monastic reformers of his age. He died in 958, and legendary tales were afterwards ascribed to him. Later he came to be regarded as a saint, and a hagiography was written in the late eleventh or early twelfth century.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Oda to govern Your Church with wisdom and to labor for the reform of its life, grant through his intercession that pastors may lead with integrity and the faithful may be renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oda_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

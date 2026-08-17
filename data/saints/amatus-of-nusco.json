@@ -1,0 +1,33 @@
+{
+  "slug": "amatus-of-nusco",
+  "name": "St. Amatus of Nusco",
+  "feastDay": "09-30",
+  "bio": "Saint Amatus of Nusco, known in Italian as Amato di Nusco, was the first bishop of Nusco in Irpinia, southern Italy, celebrated in the Roman Martyrology on September 30. Born of noble stock, he renounced every worldly possession and gave his patrimony to the poor, embraced the priesthood, and then withdrew to the monastic life of the Abbey of Monte Vergine.\n\nAs bishop he guided the church of Nusco with the simplicity of a monk and the zeal of an apostle, holding together the contemplative inheritance of Monte Vergine and the pastoral care of his diocese. He died probably on September 30, 1093, and was laid to rest in his cathedral.\n\nMiracles were reported at his tomb, and devotion grew until the Roman Martyrology took up his name. He remains a beloved patron of the hilltowns of Irpinia.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Amatus from the nobility of the world to the poverty of the Gospel, making him first bishop of Nusco and a monk of Monte Vergine, grant through his intercession that we may hold lightly to earthly goods and serve You with undivided heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amatus_of_Nusco"
+  ],
+  "featured": false,
+  "draft": false
+}

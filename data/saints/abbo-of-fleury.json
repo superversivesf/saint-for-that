@@ -1,0 +1,25 @@
+{
+  "slug": "abbo-of-fleury",
+  "name": "St. Abbo of Fleury",
+  "feastDay": "11-13",
+  "bio": "Abbo, also called Abbon, was a monk and abbot of Fleury Abbey, in present-day Saint-Benoit-sur-Loire near Orleans, France. Born around 945 and educated at Fleury, Paris, and Reims, he became one of the most learned men of his age, studying mathematics, astronomy, and canon law. After a pilgrimage to Rome and a period of teaching in Ramsey, England, he was elected abbot of Fleury in 988. He worked tirelessly to reform monastic life and defend the liberties of his house against secular lords. In 1004 he was killed while seeking to settle a dispute at the monastery of La Reole in Gascony. He is venerated as a monk and scholar who gave his life for peace.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Abbo of Fleury a love of learning and a zeal for reform, grant through his intercession that scholars may seek the wisdom that leads to you, and monks may persevere in their calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abbo_of_Fleury"
+  ],
+  "featured": false,
+  "draft": false
+}

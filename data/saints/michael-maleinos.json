@@ -1,0 +1,29 @@
+{
+  "slug": "michael-maleinos",
+  "name": "St. Michael Maleinos",
+  "feastDay": "07-12",
+  "bio": "Saint Michael Maleinos was a Byzantine monk and spiritual father who commanded great respect among the Christians of Asia Minor in the 10th century. Born into the distinguished Maleinos family of Cappadocia, he forsook the world and embraced the eremitical life, gathering disciples around him on Mount Kyminas in Bithynia. He was the brother of the general Constantine Maleinos and the uncle of Nikephoros II Phokas, the Byzantine emperor who was profoundly influenced by Michael's counsel. As a staretz figure he guided many in the monastic life, among them St. Athanasius of Athos, whom he blessed to found the Great Lavra on Mount Athos. His feast day is July 12.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Michael Maleinos a father of monks and a guide of souls on the holy mountain, grant through his intercession that we may seek You in solitude and lead others to You by our counsel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Maleinos"
+  ],
+  "featured": false,
+  "draft": false
+}

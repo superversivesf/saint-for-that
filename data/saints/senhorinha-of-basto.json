@@ -1,0 +1,25 @@
+{
+  "slug": "senhorinha-of-basto",
+  "name": "St. Senhorinha of Basto",
+  "feastDay": "04-22",
+  "bio": "Saint Senhorinha of Basto, also known as Senorina, was a Portuguese Benedictine abbess who lived in what is today northern Portugal. Born into a noble family related to Saint Rudesind of Mondoñedo, she devoted herself to God from an early age and became abbess of a Benedictine community in the region of Basto. She governed her sisters with wisdom and holiness, fostering a life of prayer, work, and hospitality for the pilgrims who passed through the hills of the Minho.\n\nAfter her death her tomb became a place of pilgrimage, and the people of Vieira do Minho and the surrounding valleys have venerated her for centuries as their heavenly protectress. She is honored in both the Roman Catholic and Eastern Orthodox Churches, a witness to the ancient roots of Christianity in Iberia.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Senhorinha to govern her Benedictine sisters with wisdom and holiness, grant through her intercession that all who serve You in the religious life may persevere in prayer and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Senhorinha_of_Basto"
+  ],
+  "featured": false,
+  "draft": false
+}

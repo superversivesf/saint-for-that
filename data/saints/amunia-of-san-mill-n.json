@@ -1,0 +1,33 @@
+{
+  "slug": "amunia-of-san-mill-n",
+  "name": "St. Amunia of San Millán",
+  "feastDay": "03-11",
+  "bio": "Saint Amunia of San Millán was a Benedictine hermit of the La Rioja province in northern Spain, whose memory is inseparable from that of her daughter, Saint Áurea. After the death of her husband, Amunia turned from the world and followed Áurea into the hermit's life, mother and daughter making their way to the Monastery of San Millán de la Cogolla.\n\nThere in the valley of the Cárdenas river the two women gave themselves to prayer and contemplation within the shadow of the great Benedictine house that had shaped Spain's monastic awakening. Amunia's vocation was that of a widow who found in the cloister a second calling, and her example nourished the contemplative tradition of La Rioja.\n\nHer feast is March 11.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Amunia from widowhood to the hermit's cell at San Millán, following her daughter St. Áurea into the life of contemplation, grant through her intercession that widows and all who mourn may find in You their lasting home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amunia_of_San_Mill%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "anthony-of-kiev",
+  "name": "St. Anthony of Kiev",
+  "feastDay": "05-07",
+  "bio": "Saint Anthony of Kiev, also called Anthony of the Caves, was the founder of the monastic tradition in Kievan Rus'. Born in the eleventh century, he journeyed as a young man to Mount Athos and embraced the ascetic life among hermits living in caves. He was tonsured with the name Anthony in memory of the desert father.\n\nReturning to Kiev, he settled in a cave on the bluff above the Dnieper and gave himself to prayer, fasting, and silence. Disciples gathered, and with Saint Theodosius he co-founded the Kiev Pechersk Lavra, the Monastery of the Caves, which became the spiritual heart of Russian and Ukrainian Orthodoxy.\n\nAnthony later withdrew again to the solitude of the caves, leaving Theodosius to guide the community. He died in the late eleventh century, and his relics rest in the Lavra.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "ukraine",
+      "category": "everyday"
+    },
+    {
+      "need": "russia",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anthony of Kiev from Mount Athos to the caves above the Dnieper, there to plant the monastic life in the land of Rus', grant through his intercession that we may seek You in stillness and persevering prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_of_Kiev"
+  ],
+  "featured": false,
+  "draft": false
+}

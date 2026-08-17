@@ -1,0 +1,41 @@
+{
+  "slug": "yaroslav-the-wise",
+  "name": "St. Yaroslav the Wise",
+  "feastDay": "02-20",
+  "bio": "Yaroslav I Vladimirovich, called the Wise, was Grand Prince of Kiev from 1019 until his death in 1054, after earlier ruling as Prince of Novgorod and Rostov. His baptismal name was George, after Saint George. Yaroslav united the principalities of Kievan Rus' and oversaw a great flourishing of learning, law, and church-building. He promulgated the Russkaya Pravda, Kievan Rus's first written legal code, founded the Kiev Pechersk Lavra, and established schools and libraries. A statesman of rare prudence, he strengthened ties with Byzantium and Western Europe through diplomacy and marriage alliances. He is venerated as a wise and pious ruler, a patron of judges, librarians, teachers, and scholars.",
+  "patronages": [
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "librarians",
+      "category": "jobs"
+    },
+    {
+      "need": "scientists",
+      "category": "jobs"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Yaroslav the Wise a heart for justice and learning, grant through his intercession that rulers may govern with wisdom, and that students and teachers may seek the truth that sets us free. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
+  ],
+  "featured": false,
+  "draft": false
+}

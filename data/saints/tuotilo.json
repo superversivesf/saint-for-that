@@ -1,0 +1,29 @@
+{
+  "slug": "tuotilo",
+  "name": "St. Tuotilo",
+  "feastDay": "03-28",
+  "bio": "Tuotilo, also spelled Tutilo, was a Frankish monk of the Benedictine Abbey of Saint Gall in what is now Switzerland. A student of Iso of St. Gallen and a friend of the famous Notker the Stammerer, he belonged to the remarkable circle of scholars and artists who made ninth-century Saint Gall one of the great centers of medieval learning and culture.\n\nTuotilo was gifted in many arts: according to Ekkehard IV, writing a century later, he was a poet, musician, painter, and sculptor as well as a composer. Various trope melodies can be assigned to him with confidence, while works in other media are attributed with less certainty. He exemplifies the Benedictine ideal that work and prayer, art and worship, are inseparable. His feast is kept on 28 March.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "artists",
+      "category": "everyday"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Tuotilo with many gifts of art and melody for the praise of Your name, grant through his intercession that all who create may offer their work to Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tuotilo"
+  ],
+  "featured": false,
+  "draft": false
+}

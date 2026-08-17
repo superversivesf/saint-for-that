@@ -1,0 +1,21 @@
+{
+  "slug": "bruno-bishop-of-w-rzburg",
+  "name": "St. Bruno, Bishop of Würzburg",
+  "feastDay": "05-27",
+  "bio": "Bruno of Würzburg, also called Bruno of Carinthia, served as imperial chancellor of Italy from 1027 to 1034 under his kinsman Emperor Conrad II, overseeing the imperial lands south of the Alps. After seven years of statecraft he was appointed prince-bishop of Würzburg in 1034, exchanging the burdens of government for the care of souls.\n\nAs bishop he tended his Franconian diocese with diligence, maintaining the liturgy, supporting the clergy, and continuing the building works that transformed the see into a great ecclesiastical center of medieval Germany. His brief episcopate was marked by pastoral attention and the stewardship of a man accustomed to authority but now turned to the service of the Church.\n\nBruno died on 27 May 1045 while traveling in Italy, and was soon venerated as a saint.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bruno from the councils of empire to the pastoral care of your Church, grant through his intercession that those entrusted with authority may use it in the service of your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_(bishop_of_W%C3%BCrzburg)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "matilda-of-ringelheim",
+  "name": "St. Matilda of Ringelheim",
+  "feastDay": "03-14",
+  "bio": "Matilda of Ringelheim, also known as Saint Matilda, was a Saxon noblewoman who became queen of Germany and one of the most beloved royal saints of the early medieval Church. Married to Henry the Fowler, the first king of the Ottonian dynasty, she bore sons who would reshape Christendom: her eldest, Otto the Great, restored the Holy Roman Empire in 962. Widowed early, Matilda devoted her long widowhood to works of piety and charity, founding several spiritual institutions and women's convents, including Quedlinburg Abbey, where she was ultimately buried. She was renowned for her righteousness, her care for the poor, and her patient endurance of family strife, even suffering temporary exile at the hands of her own sons. Her two hagiographical biographies and Widukind's Deeds of the Saxons preserve her memory. Her feast is March 14.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "mothers",
+      "category": "illness"
+    },
+    {
+      "need": "germany",
+      "category": "family"
+    },
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Matilda a model of queenly charity and patient motherhood, grant through her intercession that widows and mothers may find in their trials the path to holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matilda_of_Ringelheim"
+  ],
+  "featured": false,
+  "draft": false
+}

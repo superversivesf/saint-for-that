@@ -1,0 +1,25 @@
+{
+  "slug": "paul-of-xeropotamou",
+  "name": "St. Paul of Xeropotamou",
+  "feastDay": "07-28",
+  "bio": "Paul of Xeropotamou was a Byzantine ascetic who lived between the ninth and tenth centuries on Mount Athos, the holy mountain that became the heart of Orthodox monasticism. There, amid the cliffs and forests overlooking the sea, Paul gave himself to the eremitical life, seeking God in fasting, vigil, and unceasing prayer. He is especially remembered for restoring and founding monasteries on the mountain, gathering the scattered ascetics into communities of worship and discipline. The monastery of Xeropotamou, which bears his name, stands as a witness to his labors. He is commemorated in the Orthodox Church and his feast day is kept on July 28, honored as one of the great fathers of the Athonite monastic tradition.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Paul to the holy mountain of Athos to restore houses of prayer and gather disciples in Your name, grant through his intercession that we may seek You in stillness and build up communities where You are worshiped. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Xeropotamou"
+  ],
+  "featured": false,
+  "draft": false
+}

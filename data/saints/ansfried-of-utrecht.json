@@ -1,0 +1,37 @@
+{
+  "slug": "ansfried-of-utrecht",
+  "name": "St. Ansfried of Utrecht",
+  "feastDay": "05-03",
+  "bio": "Saint Ansfried of Utrecht, sometimes called Ansfried the Younger, was Count of Huy and sword-bearer to the Emperor Otto I before he laid down sword and title to become Bishop of Utrecht in 995. He was the son or grandson of Lambert, a nobleman of the Maasgau, the very district where he later founded the Abbey of Thorn, the first women's religious house in the Low Countries.\n\nAt Otto's court he had been a warrior and a counsellor; as bishop he turned to the care of souls, the building of churches, and the relief of the poor, embodying the Ottonian ideal of the nobleman turned pastor. He spent himself in the humble service of his diocese.\n\nBlind in his final years, Ansfried resigned his see and withdrew to a monastery, where he died around 1010. He was honored as a saint at Utrecht and Huy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "netherlands",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ansfried from the sword-bearer's post to the shepherd's staff, making him bishop of Utrecht and father of the Abbey of Thorn, grant through his intercession that all who bear arms may learn the ways of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ansfried_of_Utrecht"
+  ],
+  "featured": false,
+  "draft": false
+}

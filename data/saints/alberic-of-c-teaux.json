@@ -1,0 +1,29 @@
+{
+  "slug": "alberic-of-c-teaux",
+  "name": "St. Alberic of Cîteaux",
+  "feastDay": "01-26",
+  "bio": "Saint Alberic of Cîteaux, sometimes called Aubrey, was a French monk and abbot and one of the founders of the Cistercian Order. He began his religious life among the Benedictines of Molesme, where a group of monks yearned for a stricter observance of the Rule of Saint Benedict.\n\nIn 1098 Alberic joined Robert of Molesme and a small band of companions in withdrawing to the marshy wilderness of Cîteaux, south of Dijon, to found a monastery devoted to poverty, manual labor, and the literal following of the Rule. When Robert was recalled to Molesme, Alberic became the second abbot of Cîteaux, shaping the community's way of life and winning from Rome its founding charter.\n\nUnder Alberic the White Monks laid the foundations of a reform that would reshape medieval monasticism. His feast is January 26.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Alberic to the wilderness of Cîteaux to restore the strict life of the Rule, grant through his intercession that monks and all the faithful may seek You in poverty of spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alberic_of_C%C3%AEteaux"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "oswald-of-worcester",
+  "name": "St. Oswald of Worcester",
+  "feastDay": "02-29",
+  "bio": "Oswald of Worcester was Archbishop of York from 972 until his death in 992. Of Danish ancestry, he was brought up by his uncle, Oda of Canterbury, who sent him to France to the abbey of Fleury to become a monk. After several years at Fleury, Oswald returned to England at the request of his uncle, who died before he arrived. With his uncle gone, Oswald needed a patron and turned to another kinsman, Oskytel, then Archbishop of York. His work for Oskytel attracted the notice of Archbishop Dunstan, who had Oswald consecrated Bishop of Worcester in 961. In 972, Oswald was promoted to York while continuing to hold Worcester. He was a leading figure in the tenth-century monastic reform of England, founding monasteries and reviving religious life alongside Dunstan and Æthelwold.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Oswald to labor with Dunstan for the renewal of monastic life in England, grant through his intercession that Your Church may be ever reformed in faith and fervent in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oswald_of_Worcester"
+  ],
+  "featured": false,
+  "draft": false
+}

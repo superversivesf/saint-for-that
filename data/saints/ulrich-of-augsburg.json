@@ -1,0 +1,33 @@
+{
+  "slug": "ulrich-of-augsburg",
+  "name": "St. Ulrich of Augsburg",
+  "feastDay": "07-04",
+  "bio": "Ulrich of Augsburg, sometimes spelled Uodalric or Odalrici, was Prince-Bishop of Augsburg in the Holy Roman Empire during the tenth century. Born into a noble Swabian family around 890, he was educated at the monastery of St. Gall and rose through the clergy until his election as bishop in 923. He served the see of Augsburg for fifty years, defending the city against Magyar raids and shepherding his people through a turbulent age.\n\nHe was renowned for his personal austerity, his care for the poor, and his steadfast defense of the Church. He was the first saint to be formally canonized by a pope rather than by local acclamation. He died in 973 and was canonized by Pope John XV in 993. He is invoked against birth complications and fever, and as a patron of weavers.",
+  "patronages": [
+    {
+      "need": "weavers",
+      "category": "jobs"
+    },
+    {
+      "need": "childbirth",
+      "category": "illness"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ulrich a faithful bishop and defender of his people in time of danger, grant through his intercession that we may stand firm in faith and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulrich_of_Augsburg"
+  ],
+  "featured": false,
+  "draft": false
+}

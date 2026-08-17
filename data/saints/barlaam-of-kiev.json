@@ -1,0 +1,25 @@
+{
+  "slug": "barlaam-of-kiev",
+  "name": "St. Barlaam of Kiev",
+  "feastDay": "unknown",
+  "bio": "Barlaam of Kiev was the first abbot of the Kiev Pechersk Lavra, the great Monastery of the Caves that became the cradle of Russian monasticism. He served alongside St. Anthony of Kiev, the founder of the lavra, guiding the first brotherhood of monks who had gathered in the caves on the banks of the Dnieper.\n\nUnder Barlaam's leadership the young community grew and eventually moved from the caves to a monastery on the surface, with the support of Prince Iziaslav of Kiev. He later transferred to the monastery of St. Demetrius, where he continued his labours. He is regarded as a saint of the Russian Orthodox Church, with a feast kept on 19 November, and is honoured as a pillar of monastic life in the lands of Rus'.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your servant Barlaam to guide the first brotherhood of the Kiev Caves Lavra, grant through his intercession that monastic communities may flourish in holiness and that the Church may be built upon the rock of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barlaam_of_Kiev"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "luke-of-steiris",
+  "name": "St. Luke of Steiris",
+  "feastDay": "02-07",
+  "bio": "Luke of Steiris, also known as Luke the Younger, Luke of Hellas, and Luke the Wonder-worker, was a Byzantine saint of the tenth century who lived in the themes of Hellas and Peloponnese. Born around 896 near Delphi, he showed devotion to God from childhood, giving away his possessions and seeking solitary places of prayer. After a pilgrimage to Rome, he settled as a hermit on the slopes of Mount Helicon in Boeotia, between Delphi and Levadia, founding the Monastery of Hosios Loukas, one of the finest surviving monuments of Middle Byzantine architecture. His gift of miracles drew the sick from across Greece, and he was counted among the earliest saints said to have been seen levitating in prayer. He died in 953 and was buried in his monastery, whose mosaics still proclaim the Resurrection.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who lifted up St. Luke of Steiris in prayer and made his hermitage a fountain of healing, grant through his intercession that we may rise above earthly cares and find in You the remedy for every ill. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luke_of_Steiris"
+  ],
+  "featured": false,
+  "draft": false
+}

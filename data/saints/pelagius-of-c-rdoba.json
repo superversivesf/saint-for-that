@@ -1,0 +1,29 @@
+{
+  "slug": "pelagius-of-c-rdoba",
+  "name": "St. Pelagius of Córdoba",
+  "feastDay": "06-26",
+  "bio": "Pelagius of Córdoba was a Christian boy who died as a martyr in Córdoba in southern Spain around 926 AD, during the period of Muslim rule in al-Andalus. According to his passio, Pelagius was a young hostage handed over to the emir, and when he refused both apostasy and the advances made toward him, he was tortured and killed for his faith and his chastity. His death is one of the episodes remembered in the Martyrs of Córdoba, a series of ninth- and tenth-century executions of Christians who publicly defied Islamic authority. His courage as a youth who chose death over betrayal of Christ made him a beloved figure in medieval Spain, and he is invoked as a patron of abandoned people, of torture victims, and of the town of Castro Urdiales.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "youth",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Pelagius the courage to die rather than renounce his faith, grant through his intercession that all who suffer for Your name may stand firm, and that the abandoned and tortured may find in You their refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba"
+  ],
+  "featured": false,
+  "draft": false
+}

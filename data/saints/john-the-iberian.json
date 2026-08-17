@@ -1,0 +1,29 @@
+{
+  "slug": "john-the-iberian",
+  "name": "St. John the Iberian",
+  "feastDay": "07-12",
+  "bio": "John the Iberian was a Georgian monk and Orthodox saint of the tenth century, venerated for his piety and leadership on Mount Athos. He was one of the founders of Iviron monastery, a major center of Georgian monastic culture on the Holy Mountain, which became a refuge and beacon for Georgian monks who sought the contemplative life far from the political turbulence of the Caucasus. Under his guidance the monastery grew in numbers and reputation, joining the Greek and Slavic houses of Athos as a pillar of the Eastern monastic tradition. His work as abbot and builder made him a father of his people in exile, preserving both their language and their spiritual heritage in a foreign land. He died around 1005 and is remembered as a bridge between the Georgian and Byzantine worlds of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. John the Iberian to build a house of prayer for his people in a foreign land, grant through his intercession that all who dwell far from home may find You as their dwelling place. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Iberian"
+  ],
+  "featured": false,
+  "draft": false
+}

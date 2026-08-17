@@ -1,0 +1,29 @@
+{
+  "slug": "adelelmus-of-burgos",
+  "name": "St. Adelelmus of Burgos",
+  "feastDay": "01-30",
+  "bio": "Saint Adelelmus of Burgos was a French-born Benedictine monk venerated as a saint in the Roman Catholic Church. Drawn by God to the monastic life, he left his native France to settle in the Christian kingdom of León, where his reputation for holiness and learning preceded him.\n\nAdelelmus became abbot of the monastery of San Facundo and Primitivo at Sahagún and, in time, was called to the see of Burgos, where he served as its bishop. He labored to strengthen the faith in a frontier land only recently reclaimed from Muslim rule, building churches and caring for the poor and fostering the Benedictine way among clergy and people.\n\nHe is honored as a patron of Burgos and as one of the French-born churchmen whose labor helped root the Gospel in medieval Spain. His feast is kept on January 30.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Adelelmus from France to build up Your Church in Spain, grant through his intercession that bishops and monks may labor faithfully for the spread of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adelelmus_of_Burgos"
+  ],
+  "featured": false,
+  "draft": false
+}

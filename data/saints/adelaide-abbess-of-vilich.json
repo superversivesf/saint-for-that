@@ -1,0 +1,29 @@
+{
+  "slug": "adelaide-abbess-of-vilich",
+  "name": "St. Adelaide, Abbess of Vilich",
+  "feastDay": "02-05",
+  "bio": "Saint Adelaide, also called Adelheid, was abbess of the convent at Vilich and later of St. Maria im Kapitol in Cologne. She was descended from the German king Henry the Fowler, and her noble parents founded the convent at Vilich on the Rhine, entrusting its first leadership to their daughter.\n\nUnder Adelaide's guidance Vilich grew into a center of prayer and learning for the women of the region. When the abbacy of the great convent of St. Maria im Kapitol in Cologne fell to her as well, she governed both houses with wisdom and holiness, and miracles were ascribed to her both in life and after her death around the year 1015.\n\nAdelaide is remembered as one of the noble women who, in the tenth and eleventh centuries, shaped the religious life of the Rhineland. Her feast is kept on February 5.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Adelaide to govern the convents of Vilich and Cologne with holiness and wisdom, grant through her intercession that all women religious may flourish in prayer and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adelaide,_Abbess_of_Vilich"
+  ],
+  "featured": false,
+  "draft": false
+}

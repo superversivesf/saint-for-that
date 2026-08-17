@@ -1,0 +1,25 @@
+{
+  "slug": "rachilidis",
+  "name": "St. Rachilidis",
+  "feastDay": "11-23",
+  "bio": "Saint Rachilidis, honored at the monastery of Saint Gall in Switzerland, was a recluse of the tenth century born of noble lineage in the region of Alemannia. Though she might have lived in ease and honor, she forsook the world to embrace the solitary life, enclosing herself for the love of Christ and giving her days to prayer and penance. She endured long years of bodily affliction, including an incurable skin disease that she bore with patience and offered to God as a willing sacrifice. Her quiet holiness drew the reverence of the monks of Saint Gall, who treasured her memory and recorded her feast on November 23. She stands as a witness to the hidden strength of those whose suffering is known to God alone.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Rachilidis grace to bear long illness with patience and to offer her hidden life as a sacrifice of love, grant through her intercession that we may unite our sufferings with the sufferings of Christ and find in solitude the depth of Your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rachilidis"
+  ],
+  "featured": false,
+  "draft": false
+}

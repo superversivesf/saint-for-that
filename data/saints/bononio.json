@@ -1,0 +1,21 @@
+{
+  "slug": "bononio",
+  "name": "St. Bononio",
+  "feastDay": "08-30",
+  "bio": "Saint Bononio, also known as Bononius, was a Benedictine abbot venerated in both the Eastern Orthodox and Roman Catholic Churches, his feast kept on 30 August. As an abbot he governed a monastic community according to the Rule of St. Benedict, fostering the daily round of prayer and labor that has formed the heart of Benedictine life for fifteen centuries.\n\nHis veneration bridges East and West, a reminder of the shared monastic heritage that united Christians before the divisions of later ages. Monks under his care looked to him as a father who balanced discipline with mercy, guiding souls toward conversion of life.\n\nHonored after his holy death, Bononio is remembered among the Benedictine abbots whose governance built the spiritual foundations of medieval Europe.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bononio to govern his monks with wisdom and love, grant through his intercession that all who live under the Rule of Benedict may persevere in prayer and good works. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bononio"
+  ],
+  "featured": false,
+  "draft": false
+}

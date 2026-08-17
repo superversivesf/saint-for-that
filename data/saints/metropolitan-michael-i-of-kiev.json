@@ -1,0 +1,29 @@
+{
+  "slug": "metropolitan-michael-i-of-kiev",
+  "name": "St. Metropolitan Michael I of Kiev",
+  "feastDay": "06-15",
+  "bio": "Metropolitan Michael I of Kiev is honored as the first Metropolitan of Kiev and all Rus', serving from 988, the year of the baptism of Rus', until his death. Sent to the newly Christianized land, he undertook the immense labor of organizing the Church across a vast and still pagan territory, establishing sees, ordaining clergy, and planting the seeds of Russian Orthodoxy. He was canonized as a saint by the Russian Orthodox Church and is commemorated on June 15 and September 30. As the founding hierarch of the Russian Church, he stands at the head of a long line of saintly metropolitans who carried the Gospel from Byzantium to the Slavic north and built the house of God upon the banks of the Dnieper.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Michael I to lay the foundations of Your Church in the land of Rus', grant through his intercession that the bishops and missionaries of our day may build well upon the foundation of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Metropolitan_Michael_I_of_Kiev"
+  ],
+  "featured": false,
+  "draft": false
+}

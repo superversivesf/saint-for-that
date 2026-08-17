@@ -1,0 +1,29 @@
+{
+  "slug": "basil-of-khakhuli",
+  "name": "St. Basil of Khakhuli",
+  "feastDay": "05-27",
+  "bio": "Basil, son of Bagrat, was an eleventh-century Georgian monk and man of letters in the Kingdom of Georgia. He is frequently identified as a son of King Bagrat III, the first king of a unified Georgia, though he renounced royal honours to pursue the monastic life. He was active at the Khakhuli Monastery, a major spiritual and cultural centre in the Tao region of medieval Georgia.\n\nBasil was renowned as a translator, hymnographer, and theologian, contributing to the golden age of Georgian letters. He rendered works from Greek into Georgian and composed hymns still sung in the Georgian Church. He is honoured as a saint of the Georgian Orthodox Church, celebrated on 27 May, and remembered as a scholar-monk who wed learning to holiness.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed your servant Basil with wisdom from above and made him a translator of holy writings and a hymnographer of your Church, grant through his intercession that we may treasure the words of Scripture and sing your praises with grateful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Khakhuli"
+  ],
+  "featured": false,
+  "draft": false
+}

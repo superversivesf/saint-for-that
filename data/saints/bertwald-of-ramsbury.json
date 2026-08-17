@@ -1,0 +1,21 @@
+{
+  "slug": "bertwald-of-ramsbury",
+  "name": "St. Bertwald of Ramsbury",
+  "feastDay": "unknown",
+  "bio": "Bertwald of Ramsbury served as Bishop of Ramsbury in eleventh-century England, shepherding a small Wiltshire diocese during a turbulent age of Norman conquest and reform. Though the record of his life is sparse, his name endured as that of a pastor who guarded his flock and upheld the liturgy through seasons of political upheaval.\n\nThe see of Ramsbury, carved from the old West Saxon lands, was poor and sparsely settled, yet Bertwald governed it with quiet fidelity, tending parishes along the Avon and Kennet and maintaining Christian worship when many smaller dioceses were being absorbed or suppressed.\n\nVenerated after his death, he is remembered among the bishops of early medieval England who labored without fame to sustain the Church in frontier country.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Bertwald to shepherd your people in the quiet diocese of Ramsbury, grant through his intercession that bishops may serve their flocks with humble fidelity and guard the faith in every season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bertwald_of_Ramsbury"
+  ],
+  "featured": false,
+  "draft": false
+}

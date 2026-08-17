@@ -1,0 +1,29 @@
+{
+  "slug": "john-tornike",
+  "name": "St. John Tornike",
+  "feastDay": "06-12",
+  "bio": "John Tornike, also known as Tornike Eristavi, was a retired Georgian general and nobleman of the tenth century who laid down the sword to become a monk on Mount Athos. A member of the powerful Chordvaneli family and a distinguished commander in the service of the Georgian crown, he achieved military renown before renouncing the world and journeying to the Holy Mountain. There, together with St. John the Iberian, he became a founder of Iviron monastery, the Georgian house on Athos, endowing it with his wealth and labor. His passage from the battlefield to the cloister made him a living parable of conversion, and his gifts of command served the new community in building and defense. He died around 985 and is venerated as a father of Georgian Athonite monasticism.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the sword of St. John Tornike into a trowel for Your monastery, grant through his intercession that all who have served in war may find the way of peace and that we may use our strength to build Your house. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Tornike"
+  ],
+  "featured": false,
+  "draft": false
+}
