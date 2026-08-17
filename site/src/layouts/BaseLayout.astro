@@ -17,11 +17,12 @@ const { title, description = 'Find the saint who intercedes for your need.' } = 
     <header class="sticky top-0 z-30 h-14 border-b border-line bg-parchment/90 backdrop-blur">
       <div class="mx-auto flex h-full max-w-screen-sm items-center gap-2 px-4 sm:max-w-2xl lg:max-w-5xl lg:px-8">
         <a href="/" class="font-serif text-lg text-brand">Saint For That</a>
-        <form action="/search" method="get" class="ml-auto flex-1" role="search">
-          <label class="sr-only" for="q">Search saints and patronages</label>
-          <input id="q" type="search" name="q" placeholder="Search needs, names…"
-                 class="h-11 w-full rounded-full border border-line bg-white px-3 text-sm focus-visible:bg-white focus-visible:ring-2 focus-visible:ring-brand" />
-        </form>
+        <nav class="ml-auto hidden sm:block" aria-label="Primary">
+          <a href="/saints/" class="text-sm text-ink hover:text-brand focus-visible:ring-2 focus-visible:ring-brand">Saints</a>
+        </nav>
+        <a href="/search" class="ml-auto sm:ml-4 inline-flex h-9 w-9 items-center justify-center rounded-full text-brand hover:bg-white focus-visible:ring-2 focus-visible:ring-brand" aria-label="Search saints">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </a>
       </div>
     </header>
     <main id="main">

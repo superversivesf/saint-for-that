@@ -29,6 +29,26 @@ const q = Astro.url.searchParams.get('q') ?? '';
         openFilters: ['category'],
       });
       if (query) ui.triggerSearch(query);
+
+      const resultsContainer = document.getElementById('pagefind-results');
+      if (resultsContainer) {
+        const hintId = 'no-results-hint';
+        const observer = new MutationObserver(() => {
+          const existing = document.getElementById(hintId);
+          const hasNoResults = resultsContainer.querySelectorAll('.pagefind-ui__result').length === 0 &&
+            resultsContainer.textContent && resultsContainer.textContent.trim().length > 0;
+          if (hasNoResults && !existing) {
+            const hint = document.createElement('div');
+            hint.id = hintId;
+            hint.className = 'mt-4 rounded-2xl border border-line bg-parchment-deep p-4 text-sm text-ink-soft';
+            hint.innerHTML = 'Try a synonym — e.g. <strong>lost wallet</strong> for lost items, or <a href="/" class="text-gold underline">browse categories</a>.';
+            resultsContainer.appendChild(hint);
+          } else if (!hasNoResults && existing) {
+            existing.remove();
+          }
+        });
+        observer.observe(resultsContainer, { childList: true, subtree: true, characterData: true });
+      }
     });
   </script>
 </BaseLayout>

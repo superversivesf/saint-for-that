@@ -1,16 +1,29 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SaintCard from '../../../components/SaintCard.astro';
 import { NEED_SYNONYMS } from '../../../lib/taxonomy';
 
 export async function getStaticPaths() {
   const saints = await getCollection('saints');
-  return saints
-    .filter((s) => !s.data.draft)
-    .map((s) => ({ params: { slug: s.data.slug }, props: { saint: s.data } }));
+  const published = saints.filter((s) => !s.data.draft);
+  return published.map((s) => ({
+    params: { slug: s.data.slug },
+    props: { saint: s.data, allSaints: published.map((p) => p.data) },
+  }));
 }
-const { saint } = Astro.props;
+const { saint, allSaints } = Astro.props;
 const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
+
+const relatedGroups = saint.patronages
+  .slice(0, 2)
+  .map((p) => ({
+    need: p.need,
+    saints: allSaints
+      .filter((s) => s.slug !== saint.slug && s.patronages.some((sp) => sp.need === p.need))
+      .slice(0, 4),
+  }))
+  .filter((g) => g.saints.length > 0);
 ---
 <BaseLayout title={saint.name} description={`${saint.name}: patron of ${saint.patronages.map((p) => p.need).join(', ')}.`}>
   <article class="mx-auto max-w-2xl px-4 pb-24 pt-2 lg:max-w-5xl" data-pagefind-body data-pagefind-meta={saint.image ? `image:${saint.image.url}` : undefined}>
@@ -74,6 +87,22 @@ const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
                 <li><a href={src} rel="noopener" class="underline break-words">{src}</a></li>
               ))}
             </ul>
+          </section>
+        )}
+
+        {relatedGroups.length > 0 && (
+          <section class="mt-8" aria-labelledby="related">
+            <h2 id="related" class="text-lg font-semibold">Other saints to pray to</h2>
+            {relatedGroups.map((group) => (
+              <div class="mt-4">
+                <h3 class="font-serif text-base text-brand">For {group.need}</h3>
+                <ul class="mt-2 grid gap-3 sm:grid-cols-2">
+                  {group.saints.map((s) => (
+                    <li><SaintCard saint={s} /></li>
+                  ))}
+                </ul>
+              </div>
+            ))}
           </section>
         )}
       </div>
