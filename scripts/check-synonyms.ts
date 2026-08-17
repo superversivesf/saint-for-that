@@ -21,6 +21,8 @@ function main() {
       errors.push(`missing synonyms for need "${need}"`);
     } else if (syns.length < 5) {
       errors.push(`need "${need}" has only ${syns.length} synonyms (min 5)`);
+    } else if (syns.length > 10) {
+      errors.push(`need "${need}" has ${syns.length} synonyms (max 10)`);
     }
   }
 

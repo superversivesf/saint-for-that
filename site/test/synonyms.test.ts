@@ -27,4 +27,16 @@ describe('NEED_SYNONYMS', () => {
       }
     }
   });
+
+  it('has no more than 10 synonyms per need', () => {
+    for (const [need, syns] of Object.entries(NEED_SYNONYMS)) {
+      expect(syns.length, `${need} has ${syns.length} synonyms (max 10)`).toBeLessThanOrEqual(10);
+    }
+  });
+
+  it('no synonym equals its key', () => {
+    for (const [need, syns] of Object.entries(NEED_SYNONYMS)) {
+      expect(syns, `${need} contains itself as a synonym`).not.toContain(need);
+    }
+  });
 });
