@@ -1,0 +1,20 @@
+{
+  "slug": "hyglac",
+  "name": "St. Hyglac",
+  "feastDay": "unknown",
+  "bio": "Hyglac was a Catholic saint of the eighth century, one of the holy men raised up in Anglo-Saxon England during the great age of its conversion and monastic foundation. The records of his life are sparse, but his name was preserved in the calendars and litanies of the early English Church, a sign that his holiness was known among the faithful of his time. He lived when the Gospel was still taking root in the kingdoms of the Heptarchy, when monks and missionaries labored to plant the cross in soil that had long been pagan. Like many saints of that era, his memory rests not in chronicles but in the quiet veneration of the people who called upon his intercession. He is remembered as one of the hidden saints of England, a figure of the age when the faith was woven into the life of a people.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Hyglac among the hidden saints of Anglo-Saxon England, grant through his intercession that we too may live lives of quiet holiness, known to You though unseen by the world, and that the faith planted in ages past may bear fruit in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Hyglac"
+  ],
+  "featured": false
+}

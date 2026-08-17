@@ -1,0 +1,33 @@
+{
+  "slug": "germanus-i-of-constantinople",
+  "name": "St. Germanus I of Constantinople",
+  "feastDay": "05-12",
+  "bio": "Germanus I of Constantinople served as Ecumenical Patriarch from 715 to 730, leading the Byzantine Church during the opening decades of the iconoclast controversy. A learned theologian and faithful pastor, he defended the veneration of icons against Emperor Leo III, teaching that the Incarnation made the depiction of Christ not only permissible but a confession of the faith.\n\nWhen imperial policy demanded he repudiate sacred images, Germanus refused and was deposed in 730, resigning his see rather than betray the tradition of the Church. He is regarded as a saint by both the Orthodox and Catholic Churches, with a feast day on May 12. Preceded by Patriarch John VI and succeeded by Anastasius, Germanus stands as a confessor who held the line when the empire turned against the icons.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Germanus the courage to defend the holy icons and to surrender his see rather than deny your Incarnation, grant through his intercession that we may honor your Son made flesh and confess the faith without compromise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

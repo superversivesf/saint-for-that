@@ -1,0 +1,25 @@
+{
+  "slug": "fructus",
+  "name": "St. Fructus",
+  "feastDay": "10-25",
+  "bio": "Saint Fructus was a Castilian hermit of the eighth century venerated as a saint in the region of Sepulveda, near Segovia. Christian tradition relates that he had two siblings, Valentine (Valentin) and Engratia (Engracia), and that all three chose to live as hermits on a mountain, seeking God in poverty and prayer amid the uncertainties of medieval Iberia.\n\nThe Engratia named here should not be confused with the fourth-century Portuguese martyr of the same name. Fructus and his siblings stand as witnesses to the enduring call to contemplative withdrawal, a stream of sanctity that flowered in the Iberian peninsula under both Visigothic and Muslim rule. He is honored as a patron of Segovia.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired your servant Fructus to seek you on a mountain in the company of his siblings, grant through his intercession that we may learn to withdraw from noise and find in prayer the peace the world cannot give. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fructus"
+  ],
+  "featured": false,
+  "draft": false
+}

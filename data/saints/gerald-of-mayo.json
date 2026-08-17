@@ -1,0 +1,29 @@
+{
+  "slug": "gerald-of-mayo",
+  "name": "St. Gerald of Mayo",
+  "feastDay": "unknown",
+  "bio": "Gerald of Mayo is honored as a saint of both the Roman Catholic Church and the Eastern Orthodox Church, one of the figures linking the ancient Celtic and wider Christian traditions. The Mayo region of western Ireland that gave him his epithet was a heartland of early Irish monasticism, and Gerald belongs to that great host of monks and pastors who nurtured the faith in Ireland in the centuries after Patrick.\n\nAlthough surviving historical detail is slender, his veneration has persisted across East and West, a reminder of the shared heritage of the undivided Church. He stands for the countless Irish saints whose quiet pastoral and monastic labors made Ireland a land renowned for holiness and learning, sending missionaries across Britain and the Continent.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Gerald a bridge between the traditions of your Church, grant through his intercession that divided Christians may rediscover the shared holiness of their common roots. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerald_of_Mayo"
+  ],
+  "featured": false,
+  "draft": false
+}

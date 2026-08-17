@@ -1,0 +1,29 @@
+{
+  "slug": "anthusa-of-mantinea",
+  "name": "St. Anthusa of Mantinea",
+  "feastDay": "07-27",
+  "bio": "Saint Anthusa of Mantinea, also called Anthusa the Confessor, was an anchoress and abbess in Constantinople during the eighth century. Choosing the path of severe asceticism, she withdrew from the world to a life of solitude and unceasing prayer, and later became the head of a community of women religious in the imperial city.\n\nAs a confessor of the faith, Anthusa endured the trials of her age with steadfastness, bearing witness to the Gospel through the silent eloquence of her life. Her witness as both anchoress and abbess made her a model of the contemplative and communal dimensions of the consecrated life, and she has been venerated from ancient times as a holy woman who sought God with all her heart.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anthusa to seek you in solitude and to guide others in the way of holiness, grant through her intercession that we may find in prayer the wellspring of our strength and lead others to you by the example of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthusa_of_Mantinea"
+  ],
+  "featured": false,
+  "draft": false
+}

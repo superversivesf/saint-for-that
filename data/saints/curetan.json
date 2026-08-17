@@ -1,0 +1,29 @@
+{
+  "slug": "curetan",
+  "name": "St. Curetán",
+  "feastDay": "unknown",
+  "bio": "Saint Curetán was a Scoto-Pictish bishop and abbot whose ministry spanned the early Church in northern Britain. He is named among the witnesses to the Cáin Adomnáin, the seventh-century law enacted at the Synod of Birr for the protection of non-combatants, where he is styled \"Curetan epscop\" — a sign of his standing among the bishops of his age. The Martyrology of Tallaght remembers him as \"of Ross Mand Bairend,\" and the Martyrology of O'Gorman calls him bishop and abbot of that place. His see is generally identified with Ross, whose seat lay at Rosemarkie on the Black Isle, a settlement named from the adjacent promontory. As one of the early pastors of the Pictish Church, he helped lay foundations that would sustain the faith in the north for centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Curetán to shepherd Your people among the Picts and to defend the defenseless, grant through his intercession that we may be builders of peace and faithful pastors of the souls entrusted to us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Curet%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

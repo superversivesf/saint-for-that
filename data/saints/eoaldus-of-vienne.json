@@ -1,0 +1,21 @@
+{
+  "slug": "eoaldus-of-vienne",
+  "name": "St. Eoaldus of Vienne",
+  "feastDay": "unknown",
+  "bio": "Saint Eoaldus, also called Eoldus, was bishop of Vienne in the very late seventh century and the early eighth century, governing the ancient see of the Rhône valley at a time when the Merovingian kingdoms were passing into the hands of the Carolingian mayors of the palace. Little is recorded of his life, but he is counted among the pre-congregational saints of the Catholic Church, honoured from ancient times at Vienne and throughout the province. He shepherded his clergy and people through a period of political change and preserved the continuity of the faith in southern Gaul. His memory is kept in the martyrologies of the early medieval Church, a quiet witness to the long line of bishops who have governed the Church of Vienne since apostolic times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved your Church in the see of Vienne through the ministry of your bishop Eoaldus, grant through his intercession that the shepherds of your people may be faithful in times of change and steadfast in the faith of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eoaldus_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

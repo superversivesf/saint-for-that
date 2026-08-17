@@ -1,0 +1,29 @@
+{
+  "slug": "m-el-ruba",
+  "name": "St. Máel Ruba",
+  "feastDay": "04-20",
+  "bio": "Máel Ruba was an Irish saint of the early Christian Church who labored as a missionary in Scotland. Originally from Bangor, County Down, Ireland, he was formed in the monastic tradition of his homeland before crossing the sea to bring the Gospel to the Picts and Gaels of northern Britain. He founded the monastic community of Applecross in Ross, one of the best attested early Christian monasteries in what is now Scotland, which became a center of prayer and evangelization for the surrounding region. Known also by the forms Máelrubai and Maol Rubha, and the Latin Rufus, he preached and prayed among the peoples of the Highlands for many years. He died in the early eighth century and was venerated as a saint, especially in the west of Scotland and the Hebrides, where his memory long endured.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "retreats",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Máel Ruba from Ireland to found the monastery of Applecross and to preach the Gospel among the peoples of Scotland, grant through his intercession that missionaries may carry the light of Christ to every nation and that those who seek You in solitude may find Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A1el_Ruba"
+  ],
+  "featured": false,
+  "draft": false
+}

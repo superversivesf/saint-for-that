@@ -1,0 +1,25 @@
+{
+  "slug": "colm-n-mac-com-n",
+  "name": "St. Colmán mac Comán",
+  "feastDay": "unknown",
+  "bio": "Colmán mac Comán was an Irish saint of the early medieval period who served as Abbot of Aran, one of the most venerable monastic foundations of Ireland. The Aran Islands, set in the mouth of Galway Bay, were a great center of monastic and eremitical life, and the abbots of Aran were numbered among the foremost spiritual fathers of the Irish Church. Though the details of his life are sparse, his name is preserved in the calendars and martyrologies of Ireland as a holy abbot and shepherd of monks. He stands among the countless Irish saints whose labors built up the monastic civilization that kept the lamp of faith burning in the early Middle Ages.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Colmán mac Comán a holy abbot at Aran and a father of monks, grant through his intercession that we may walk in the way of the Irish saints and keep the lamp of faith burning in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_mac_Com%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

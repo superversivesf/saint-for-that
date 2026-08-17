@@ -1,0 +1,29 @@
+{
+  "slug": "john-maron",
+  "name": "St. John Maron",
+  "feastDay": "03-02",
+  "bio": "John Maron was a Syriac monk and the first Maronite Patriarch, revered as a saint by the Catholic Church and especially by the Maronite Church, which honors him as a foundational father. He lived in the late seventh and early eighth centuries, when the Maronite community of the Levant was consolidating its distinctive identity within the Catholic communion, holding fast to the faith of the Council of Chalcedon amid currents that divided the churches of the East. As a monk he gave himself to prayer and study, and as patriarch he guided his flock, anchoring the Maronite Church in fidelity to Rome. He died and was buried at Kfarhy near Batroun in Lebanon, where a shrine is dedicated to him, and he is commemorated on March 2 as the first in the long line of Maronite patriarchs.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. John Maron as the first patriarch of the Maronite Church and anchored it in the faith of the apostles, grant through his intercession that the Maronite people may ever remain steadfast in unity with the See of Peter and that all monks and bishops may imitate his pastoral zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Maron"
+  ],
+  "featured": false,
+  "draft": false
+}

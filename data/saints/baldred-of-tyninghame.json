@@ -1,0 +1,25 @@
+{
+  "slug": "baldred-of-tyninghame",
+  "name": "St. Baldred of Tyninghame",
+  "feastDay": "03-06",
+  "bio": "Baldred, also called Balthere, was a Northumbrian hermit and abbot who lived in East Lothian during the eighth century. He made his hermitage at Tyninghame on the coast of what is now Scotland, where he devoted himself to prayer and the eremitical life in the tradition of the early Anglo-Saxon and Celtic saints. As abbot he governed a community gathered around his witness, blending the solitary and coenobitic ideals in the manner of the northern church. His relics were later translated to Durham Cathedral, where devotion to him continued through the Middle Ages. His feast is kept on March 6. He is remembered as one of the quiet figures who planted the faith in the lands of Northumbria.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Baldred to the hermit's life at Tyninghame and made his solitude a wellspring of faith for Northumbria, grant through his intercession that we may find in prayer the strength to serve You and the nations around us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baldred_of_Tyninghame"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fergus",
+  "name": "St. Fergus",
+  "feastDay": "09-08",
+  "bio": "Saint Fergus was a bishop who worked in Scotland as a missionary in the eighth century, one of the figures who carried the faith from the Celtic lands into the northern reaches of Britain. He is associated with the region of Buchan in Aberdeenshire, where local tradition holds that he founded churches and preached among the Picts. He is said to have been consecrated bishop and to have travelled widely, establishing Christian communities in lands still partly pagan. His memory is preserved in the place-names and dedications of northeastern Scotland, and his feast is kept on 8 September. He is honoured as one of the apostles of the Pictish nation, a quiet labourer in the long work of bringing the Gospel to every people of the far north.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Fergus to preach the Gospel to the peoples of the north, grant through his intercession that the faith may be renewed in every land and that all who labour for the Gospel may be faithful to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fergus"
+  ],
+  "featured": false,
+  "draft": false
+}

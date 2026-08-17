@@ -1,0 +1,25 @@
+{
+  "slug": "cissa-of-crowland",
+  "name": "St. Cissa of Crowland",
+  "feastDay": "09-23",
+  "bio": "Cissa of Crowland was a saint of the medieval Fenlands and the successor of Saint Guthlac as abbot of the hermit-monastery of Crowland. He is mentioned in Felix's Vita Guthlaci, the earliest life of the great hermit saint, and he carried forward the contemplative tradition established at Crowland. According to the Crowland Chronicle, his tomb was placed next to Guthlac's, and like that of his master, it was destroyed by the Scandinavians during the Viking raids. His relics were later translated to Thorney Abbey in the tenth century. His feast is kept on September 23, and he is remembered among the abbots who preserved the eremitical life in the wild places of early medieval England.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Cissa the successor of Guthlac and a faithful keeper of the eremitical life at Crowland, grant through his intercession that we may find You in solitude and preserve the contemplative heritage of Your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cissa_of_Crowland"
+  ],
+  "featured": false,
+  "draft": false
+}

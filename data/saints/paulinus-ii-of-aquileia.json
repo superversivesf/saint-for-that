@@ -1,0 +1,29 @@
+{
+  "slug": "paulinus-ii-of-aquileia",
+  "name": "St. Paulinus II of Aquileia",
+  "feastDay": "01-11",
+  "bio": "Saint Paulinus II of Aquileia was a priest, theologian, poet, and one of the most eminent scholars of the Carolingian Renaissance. From 787 until his death he served as Patriarch of Aquileia in northeastern Italy, governing one of the most ancient sees of the Church.\n\nAs patriarch, Paulinus participated in synods opposing Spanish Adoptionism and promoted both ecclesiastical reforms and the adoption of the Filioque in the Nicene Creed. He was a trusted counselor of Charlemagne and a leader of the intellectual and spiritual renewal of the Carolingian age.\n\nPaulinus also arranged for the peaceful Christianisation of the Avars and the Alpine Slavs within his patriarchate. For this he is known as the apostle of the Slovenes. His feast is kept on 11 January.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Paulinus II an apostle of the Slovenes and a luminary of the Carolingian renewal, grant through his intercession that the Gospel may be preached to all nations and that your Church may ever grow in wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paulinus_II_of_Aquileia"
+  ],
+  "featured": false,
+  "draft": false
+}

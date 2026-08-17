@@ -1,0 +1,29 @@
+{
+  "slug": "libert-of-saint-trond",
+  "name": "St. Libert of Saint-Trond",
+  "feastDay": "07-14",
+  "bio": "Libert of Sint-Truiden was a Belgian saint born as Count Libert of Adone in Mechelen. As a nobleman of the region that is now Belgium, he was baptized and educated in the Christian faith by St. Rumoldus, the missionary bishop associated with Mechelen. Under Rumoldus's guidance, Libert embraced the Gospel wholeheartedly and, renouncing his aristocratic standing, became a Benedictine monk at the abbey of Saint-Trond. His conversion from worldly rank to monastic humility became a witness to the transforming power of grace, and he was venerated as a saint at Saint-Trond, where his memory was kept with devotion. He is honored as a noble who exchanged an earldom for the cloister and found in Christ the treasure that earthly titles could not give.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Libert of Saint-Trond to exchange his noble title for the humility of the cloister, grant through his intercession that all who seek conversion of heart may find in You the treasure that worldly honors cannot give. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Libert_of_Saint-Trond"
+  ],
+  "featured": false,
+  "draft": false
+}

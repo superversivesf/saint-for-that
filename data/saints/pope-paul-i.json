@@ -1,0 +1,25 @@
+{
+  "slug": "pope-paul-i",
+  "name": "St. Paul I",
+  "feastDay": "unknown",
+  "bio": "Pope Paul I served as bishop of Rome and ruler of the emerging Papal States from 757 until his death in 767. Before his election to the papacy, he served as a Roman deacon and was frequently employed by his brother, Pope Stephen II, in delicate negotiations with the Lombard kings who threatened the security of Rome.\n\nUpon the death of Stephen II, Paul was chosen to succeed him and continued the work of strengthening the Church's position in Italy. He maintained the alliance with the Frankish kingdom that his brother had forged, seeking to protect Rome and the papal territories from Lombard encroachment.\n\nPaul I died on 28 June 767 and was venerated as a saint. He is remembered among the early medieval popes who labored to secure the Church's freedom and independence in turbulent times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Paul I a steadfast shepherd of your Church in times of trouble, grant through his intercession that your people may always be defended by wise and courageous pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Paul_I"
+  ],
+  "featured": false,
+  "draft": false
+}

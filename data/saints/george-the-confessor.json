@@ -1,0 +1,29 @@
+{
+  "slug": "george-the-confessor",
+  "name": "St. George the Confessor",
+  "feastDay": "04-19",
+  "bio": "Saint George the Confessor, also known as Saint George of Antioch, was Bishop of Antioch in Pisidia in the eighth century, serving during the turbulent era of iconoclasm that tore at the Byzantine Church. He is venerated as a saint in both the Eastern Orthodox Church and the Roman Catholic Church, and his feast is kept on April 19.\n\nAs a confessor he bore witness to the orthodox faith under trial, defending the honor due to holy images when imperial power sought to suppress them. The title \"Confessor\" marks one who suffered for the faith without undergoing a martyr's death. His faithful episcopate testifies to the courage required of pastors when the state presses against the Church's teaching.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your bishop George to confess the faith amid imperial hostility, grant through his intercession that we may hold fast to the truth and reverence the holy images that point us to your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

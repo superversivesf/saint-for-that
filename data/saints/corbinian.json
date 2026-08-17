@@ -1,0 +1,33 @@
+{
+  "slug": "corbinian",
+  "name": "St. Corbinian",
+  "feastDay": "09-08",
+  "bio": "Saint Corbinian was a Frankish bishop whose life wove together solitude, obedience, and courageous pastoral leadership. After living as a hermit near Chartres for fourteen years, he made a pilgrimage to Rome, where Pope Gregory II discerned in him the shepherd Bavaria needed and sent him to evangelize its people. As bishop, Corbinian boldly upheld the Church's moral teaching, opposing the marriage of Duke Grimoald of Bavaria to his brother's widow Biltrudis. His fidelity cost him exile for a time, yet he returned to labor among the people entrusted to his care. Honored as a founding evangelizer of Bavaria and patron of Freising and of the archdiocese of Munich and Freising, his feast is kept on 8 September, with the translation of his relics commemorated on 20 November.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Corbinian from the silence of a hermit's cell to shepherd Your people in Bavaria, grant through his intercession that we may defend the truth with courage and bear exile for the sake of righteousness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corbinian"
+  ],
+  "featured": false,
+  "draft": false
+}

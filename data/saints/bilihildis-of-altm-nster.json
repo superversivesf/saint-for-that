@@ -1,0 +1,29 @@
+{
+  "slug": "bilihildis-of-altm-nster",
+  "name": "St. Bilihildis of Altmünster",
+  "feastDay": "11-27",
+  "bio": "Bilihildis was a Frankish noblewoman of the early medieval period who used her high birth in the service of the Church. Born into the nobility of the Austrasian heartland, she was drawn to the religious life from her youth. Around the year 700, she founded the monastery of Altmünster near Mainz and became its first abbess, gathering a community of women devoted to prayer, study, and the liturgy. Her foundation stood as a beacon of Christian learning in a still-young evangelized land. Venerated locally from the time of her death, her feast is kept on November 27. She is remembered as a model of noble generosity given wholly to God.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bilihildis to leave the honors of the world and found a house of prayer at Altmünster, grant through her intercession that we too may offer our gifts generously in the service of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bilihildis_of_Altm%C3%BCnster"
+  ],
+  "featured": false,
+  "draft": false
+}

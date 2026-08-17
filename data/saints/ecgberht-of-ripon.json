@@ -1,0 +1,29 @@
+{
+  "slug": "ecgberht-of-ripon",
+  "name": "St. Ecgberht of Ripon",
+  "feastDay": "04-24",
+  "bio": "Ecgberht was an Anglo-Saxon monk of Northumbria in the seventh and eighth centuries. Formed at the great monasteries of Lindisfarne and Rath Melsigi in Ireland, he spent much of his life travelling among the monasteries of northern Britain and around the Irish Sea, strengthening the faith of the Celtic and Saxon peoples. Though he long wished to preach the Gospel himself in foreign lands, he believed himself unworthy of martyrdom and instead devoted his energies to sending others. He was instrumental in establishing the mission of Wihtberht to Frisia, helping to carry the Gospel to the pagan peoples of the continent. He died at Iona and was buried at Ripon, where his shrine was long venerated by pilgrims.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Ecgberht to labour among the monasteries of the north and to send others to preach the Gospel in foreign lands, grant through his intercession that we may be zealous for the salvation of souls and faithful in the work you have given us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ecgberht_of_Ripon"
+  ],
+  "featured": false,
+  "draft": false
+}

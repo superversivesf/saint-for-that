@@ -1,0 +1,29 @@
+{
+  "slug": "george-of-amastris",
+  "name": "St. George of Amastris",
+  "feastDay": "02-21",
+  "bio": "George of Amastris was a Byzantine monk who was made bishop of Amastris against his will, a familiar pattern in the Eastern Church where reluctant humility was taken as a sign of genuine worthiness. His life exemplifies the monastic ideal of the age: a soul drawn to silence and ascetic struggle, yet willing to bear the burden of pastoral office when the Church called.\n\nAs bishop he is remembered as a faithful pastor and defender of his people during turbulent centuries on the Black Sea coast, when Byzantine provinces faced raids and political upheaval. His feast is kept on February 21. He is honored as a confessor-bishop, one who witnessed to Christ through faithful service rather than martyrdom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant George a monk and, against his will, a bishop, grant through his intercession that we may accept the burdens you lay on us and serve your people with humble fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_of_Amastris"
+  ],
+  "featured": false,
+  "draft": false
+}

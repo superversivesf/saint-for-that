@@ -1,0 +1,25 @@
+{
+  "slug": "alto-of-altom-nster",
+  "name": "St. Alto of Altomünster",
+  "feastDay": "02-09",
+  "bio": "Alto, O.S.B., was a Benedictine abbot active in the Duchy of Bavaria during the mid-eighth century, a time when the Christian faith was still taking root among the peoples of that region. Tradition holds him to be the eponymous founder of Altomünster Abbey, around which a market town grew up, also called Altomünster. As a monk and abbot he gave himself to prayer, the establishment of monastic life, and the spread of the Gospel in Bavaria.\n\nHonored as a saint by the Catholic Church, Alto is remembered as one of the early Benedictine evangelists of southern Germany. His abbey endured for centuries as a center of prayer and pilgrimage, carrying forward the work he began. He is invoked as a patron of the Diocese of Freising, where his memory has long been cherished.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Alto to the Benedictine life and made him a founder of monastic prayer in Bavaria, grant through his intercession that we may seek you with the same perseverance and build up your Church in fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alto_of_Altom%C3%BCnster"
+  ],
+  "featured": false,
+  "draft": false
+}

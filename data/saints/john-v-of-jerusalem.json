@@ -1,0 +1,29 @@
+{
+  "slug": "john-v-of-jerusalem",
+  "name": "St. John V of Jerusalem",
+  "feastDay": "unknown",
+  "bio": "John V served as the Greek Orthodox Patriarch of Jerusalem from 706 to 735, guiding the ancient see of Jerusalem during a period of profound challenge for Christians in the Holy Land. The early eighth century saw the rise of Islamic rule over Jerusalem and the gradual diminishment of the Christian communities that had flourished there since apostolic times. As patriarch, John V bore the weight of shepherding his flock through political change and religious pressure, striving to preserve the liturgical life and doctrinal integrity of the Jerusalem church. His long patriarchate provided continuity and stability for the faithful of the Holy City, and he is remembered among the saints who upheld the see of Jerusalem in difficult days.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. John V with the patriarchal see of Jerusalem in troubled times, grant through his intercession that shepherds may preserve unity in Your Church and that pilgrims who seek the Holy Places may find the living Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_V_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

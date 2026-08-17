@@ -1,0 +1,21 @@
+{
+  "slug": "osana",
+  "name": "St. Osana",
+  "feastDay": "06-18",
+  "bio": "Osana was a Northumbrian princess whose local cult developed informally after her death, though she was never officially canonised. The Norman-Welsh chronicler Giraldus Cambrensis described her as the sister of King Osred I of Northumbria and daughter of King Aldfrith.\n\nOsana was buried at Howden in Yorkshire, where her most famous miracle was recorded. Giraldus recounts that a concubine of the priest of the collegiate church at Howden, having mocked the saint's memory, was seized by a miraculous scourging at Osana's grave, a chastisement assuaged only by penance.\n\nThe tale was told as a moral lesson in support of clerical celibacy, a central aim of the Gregorian reform enforced in England from the time of Archbishop Anselm's council of London in 1102. Her feast is kept on 18 June.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Osana taught your Church the dignity of holy chastity and the power of penance, grant through her intercession that we may live with purity of heart and repent readily of our sins. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Osana"
+  ],
+  "featured": false,
+  "draft": false
+}

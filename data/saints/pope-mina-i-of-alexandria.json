@@ -1,0 +1,21 @@
+{
+  "slug": "pope-mina-i-of-alexandria",
+  "name": "St. Mina I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Mina I of Alexandria, also known as Menas I, served as the forty-seventh Pope of Alexandria and Patriarch of the See of Saint Mark from 767 to 776, shepherding the Coptic Orthodox Church during a period of difficulty under Abbasid rule.\n\nAs patriarch he governed the ancient church of Alexandria with pastoral care, maintaining the faith of his people amid the pressures of Islamic governance. He is remembered as a faithful shepherd who upheld the traditions of the See of Saint Mark, founded according to tradition by the evangelist Mark himself.\n\nHe died in 776 after nine years of service and was honored as a saint by the Coptic Church. He is commemorated among the patriarchs of Alexandria who guided the church through times of trial.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Mina I a faithful patriarch of the See of Saint Mark, grant through his intercession that your Church may be guided by wise and holy pastors in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Mina_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

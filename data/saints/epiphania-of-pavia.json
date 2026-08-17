@@ -1,0 +1,25 @@
+{
+  "slug": "epiphania-of-pavia",
+  "name": "St. Epiphania of Pavia",
+  "feastDay": "10-06",
+  "bio": "Epiphania, also called Epifania or Pyphania, is recorded in the late medieval traditions of Pavia as the daughter of Ratchis, King of the Lombards and of Italy in the eighth century. Born into the royal house that ruled much of Italy after the fall of the Roman Empire, she is said to have devoted herself to religion, turning from the court of her father to the service of Christ. The details of her life are scant, preserved in the pious traditions of the city of Pavia rather than in contemporary records, but she is honoured there as a saint. Her memory recalls the many royal and noble women of the early medieval Church who chose the cloister or the religious life over the marriage alliances arranged for them by their families.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Epiphania from a royal house to the service of your Son, grant through her intercession that all women may seek the things that are above and find in you their true inheritance. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epiphania_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

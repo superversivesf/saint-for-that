@@ -1,0 +1,29 @@
+{
+  "slug": "burchard-of-w-rzburg",
+  "name": "St. Burchard of Würzburg",
+  "feastDay": "10-14",
+  "bio": "Saint Burchard of Würzburg was an Anglo-Saxon missionary of the eighth century who crossed the sea to bring the Gospel to the Germanic peoples. He became the first Bishop of Würzburg in 741, serving until his death in 751, and established the see as a center of Christian life in the region of Franconia. Working in the tradition of Boniface, he organized the Church among peoples only recently converted, planting the faith deep in the soil of central Germany. His feast is kept on October 14, and he is remembered as one of the tireless missionaries who built up the Church in the lands beyond the old frontiers of the Roman world.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Burchard from across the sea to plant Your Church at Würzburg, grant through his intercession that the Gospel may take root in every land and that missionaries may labor with his same steadfast zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Burchard_of_W%C3%BCrzburg"
+  ],
+  "featured": false,
+  "draft": false
+}

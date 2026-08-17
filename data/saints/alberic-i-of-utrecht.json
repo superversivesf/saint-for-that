@@ -1,0 +1,29 @@
+{
+  "slug": "alberic-i-of-utrecht",
+  "name": "St. Alberic I of Utrecht",
+  "feastDay": "11-14",
+  "bio": "Saint Alberic, known in Dutch as Alberik I van Utrecht, was a Benedictine monk before he became Bishop of Utrecht in what is today the Netherlands. His monastic formation shaped a ministry rooted in prayer, discipline, and the steady labor of building up the Church among the peoples of the Low Countries.\n\nAs bishop, Alberic governed the see of Utrecht at a time when the Christian mission in the region was still young, and he worked to establish and strengthen the faith among the Frisians and the surrounding peoples. His labors helped lay foundations upon which later bishops would build, and his name became inseparable from the early history of the Church in the Netherlands.\n\nHe is honored as one of the holy pastors who, in quiet fidelity, served the young churches of northern Europe. His feast is kept on November 14, and he is remembered by Benedictines and by the people of Utrecht as a model of monastic and pastoral virtue.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Alberic from the Benedictine cloister to the episcopal see of Utrecht, grant through his intercession that monks and bishops alike may serve You with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alberic_I_of_Utrecht"
+  ],
+  "featured": false,
+  "draft": false
+}

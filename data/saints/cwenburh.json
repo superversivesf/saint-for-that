@@ -1,0 +1,29 @@
+{
+  "slug": "cwenburh",
+  "name": "St. Cwenburh",
+  "feastDay": "unknown",
+  "bio": "Saint Cwenburh of Wimborne was an eighth-century Anglo-Saxon holy woman, sister of King Ine of Wessex and of Saint Cuthburh. Her sister Cuthburh, after marriage to King Aldfrith of Northumbria, became the first abbess of the double monastery at Wimborne in Dorset. Cwenburh joined her sister in the religious life and shared in the governance and spiritual formation of that community. The monastery at Wimborne became one of the notable houses of early England, and together the sisters represented the alliance of royal house and monastic foundation that did so much to shape Anglo-Saxon Christianity. Cwenburh's memory is preserved among the holy women of the early English Church, a patron of nuns and of those who labor in the hidden life of the cloister.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cwenburh to the cloister at Wimborne and to a life of prayer alongside her sister Cuthburh, grant through her intercession that we may seek You in stillness and serve You in the hidden work of faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cwenburh"
+  ],
+  "featured": false,
+  "draft": false
+}

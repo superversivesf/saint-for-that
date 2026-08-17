@@ -1,0 +1,25 @@
+{
+  "slug": "botwine",
+  "name": "St. Botwine",
+  "feastDay": "unknown",
+  "bio": "Botwine was a Northumbrian saint of the eighth century, venerated at Ripon and Peterborough. He served first as a priest and later became Abbot of Ripon, one of the great monastic foundations of the Anglo-Saxon Church. The Anglo-Saxon Chronicle records his death in the 780s, placing him among the last great abbots of Ripon before the Viking storms. After his death in 786, he was succeeded by Ealdberht and then Sigered, themselves numbered among the saints. Though the details of his life are sparse, his memory endured in the liturgy of Ripon and Peterborough, where he was honored as a faithful shepherd of monks and a man of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Botwine a faithful abbot and shepherd of monks at Ripon, grant through his intercession that those entrusted with spiritual leadership may guide their communities with wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Botwine"
+  ],
+  "featured": false,
+  "draft": false
+}

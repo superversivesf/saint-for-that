@@ -1,0 +1,33 @@
+{
+  "slug": "donatus-of-zadar",
+  "name": "St. Donatus of Zadar",
+  "feastDay": "02-25",
+  "bio": "Saint Donatus of Zadar, also called Donato of Zara, was a Dalmatian saint who served as a bishop and a diplomat for the city-state of Zadar (Zara) on the Adriatic. In the turbulent years of the late eighth and early ninth centuries he traveled on behalf of his city and its people, navigating the competing powers that shaped the Adriatic world. He is associated with the construction of the Church of the Holy Trinity at Zadar, later named after him, a pre-Romanesque jewel that still stands as one of the most distinctive churches of the region. His feast is celebrated on 25 February. Honored as patron of Zadar, he is remembered as a pastor who married civic service to the care of souls and left a house of prayer as his enduring monument.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Donatus a faithful shepherd of Zadar and a builder of a house of prayer, grant through his intercession that those who serve the common good may do so with upright hearts and leave behind works that glorify Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donatus_of_Zadar"
+  ],
+  "featured": false,
+  "draft": false
+}

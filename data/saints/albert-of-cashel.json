@@ -1,0 +1,25 @@
+{
+  "slug": "albert-of-cashel",
+  "name": "St. Albert of Cashel",
+  "feastDay": "unknown",
+  "bio": "Albert of Cashel was an eighth-century saint honored as the patron of Cashel in Ireland. The details of his life are scant, and the chronicles preserve only that he labored in the south of Ireland, among the churches and monasteries that had long been the glory of the Irish Church.\n\nThe see of Cashel, set upon the Rock of Cashel, was one of the ancient seats of the Irish Church, and Albert was venerated as one of its early patrons, a bishop or missionary whose work among the people of Munster won him lasting honor. His name belongs to that great company of Irish saints of whom little is recorded yet much is believed, whose holiness was remembered in the places where they served.\n\nThough the precise date of his feast has not been preserved, Albert of Cashel is honored among the patrons of Ireland, a witness to the deep roots of the faith in the land whose saints were, for centuries, the light of the western world.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Albert a patron of Cashel and a light to the people of Ireland, grant through his intercession that the faith planted by her early saints may continue to flourish in that land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Albert_of_Cashel"
+  ],
+  "featured": false,
+  "draft": false
+}

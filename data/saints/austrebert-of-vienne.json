@@ -1,0 +1,25 @@
+{
+  "slug": "austrebert-of-vienne",
+  "name": "St. Austrebert of Vienne",
+  "feastDay": "unknown",
+  "bio": "Austrebert, or Austrebertus, served as bishop of Vienne in the Dauphiné region of France during the first half of the eighth century. He was already in office by 719, when Pope Gregory II addressed a letter to him dated August 31 of that year, and he was still governing his see on March 7, 742, when Pope Zachary wrote to him in turn. His long episcopate spanned a turbulent era for the Church in the Rhône valley. Shortly after 742, Saracen raids devastated the region, and Austrebert was forced to flee his see. He died, as the old records tell, \"very far from Vienne,\" an exile for the sake of his flock. He is remembered as a faithful shepherd who kept communion with the Apostolic See through two pontificates and bore witness to Christ in displacement.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "migrants",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Austrebert in a long episcopate and gave him the grace to flee rather than forsake his flock, grant through his intercession that all who are driven from their homes by violence may find You as their refuge and their strength. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austrebert_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

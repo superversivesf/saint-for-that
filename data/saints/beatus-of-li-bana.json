@@ -1,0 +1,29 @@
+{
+  "slug": "beatus-of-li-bana",
+  "name": "St. Beatus of Liébana",
+  "feastDay": "02-19",
+  "bio": "Beatus of Liébana was a monk, theologian, and author of the Commentary on the Apocalypse, compiled largely from earlier authorities on the Book of Revelation. Its theological influence was mostly confined to the Iberian Peninsula until about the thirteenth century, but it is remembered today for the twenty-seven surviving illustrated copies, outstanding monuments of Mozarabic art, including the Morgan Beatus and the Saint-Sever Beatus. Unusually for a work of theology, Beatus seems to have intended his book to be illustrated from the first, and he is credited with the original designs and possibly the execution of the earliest illustrations. His feast is kept on February 19. He is remembered as a theologian of the Apocalypse and a patron of the artistic tradition bearing his name.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Beatus of Liébana eyes to read the Apocalypse and a hand to illuminate its mysteries for the Church of Spain, grant through his intercession that we may study Your word with reverence and proclaim its hope to the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beatus_of_Li%C3%A9bana"
+  ],
+  "featured": false,
+  "draft": false
+}

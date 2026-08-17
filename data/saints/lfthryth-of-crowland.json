@@ -1,0 +1,25 @@
+{
+  "slug": "lfthryth-of-crowland",
+  "name": "St. Ælfthryth of Crowland",
+  "feastDay": "08-02",
+  "bio": "Ælfthryth, also known as Alfreda, Alfritha, or Etheldritha, was a princess of Mercia, the daughter of King Offa and his queen Cynethryth. Raised in the splendor of one of the most powerful courts in Anglo-Saxon England, she was sought in marriage by the kings and nobles of neighboring realms.\n\nYet Ælfthryth renounced all worldly advancement and withdrew to a life of prayer and seclusion. According to tradition she took refuge at the hermitage of Crowland, where she lived as a virgin and recluse, consecrating herself wholly to God apart from the honors and intrigues of the royal house into which she had been born.\n\nShe was venerated after her death as a saint by both the Catholic Church and the Antiochian Orthodox Church, honored as a model of one who forsook the crown of earth for the crown of heaven. Her feast is kept on August 2, and she remains a patron of those who seek God in the silence of the cloister.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ælfthryth from a royal throne to the silence of a solitary life, grant through her intercession that we may esteem the riches of Your kingdom above all the honors of this world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfthryth_of_Crowland"
+  ],
+  "featured": false,
+  "draft": false
+}

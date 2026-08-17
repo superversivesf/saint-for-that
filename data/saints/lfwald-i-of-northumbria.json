@@ -1,0 +1,25 @@
+{
+  "slug": "lfwald-i-of-northumbria",
+  "name": "St. Ælfwald I of Northumbria",
+  "feastDay": "unknown",
+  "bio": "Ælfwald I was king of Northumbria from 779 until his death in 788, ruling a kingdom long troubled by dynastic strife and political violence. He is thought to have been a son of Oswulf and thus a grandson of Eadberht Eating, inheriting both the throne and the Christian heritage of his line.\n\nOf Ælfwald's reign the chronicles preserve only fragments, yet later tradition honored him as a saint, suggesting that beneath the turbulence of Northumbrian politics he was remembered as a ruler who sought to govern with justice and to defend the Church within his realm. The cult of Northumbrian royal saints was strong, and Ælfwald was numbered among those kings whose lives, though set amid warfare, were believed to have been pleasing to God.\n\nHe died in 788 and was venerated locally as a saint. His feast day is not certainly preserved, but his memory endured among the people of Northumbria as one of their royal saints who, in an age of blood and ambition, labored to hold fast to the faith of his ancestors.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ælfwald grace to rule in difficult days, grant through his intercession that all who bear authority may seek justice and walk in the way of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfwald_I_of_Northumbria"
+  ],
+  "featured": false,
+  "draft": false
+}

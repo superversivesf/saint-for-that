@@ -1,0 +1,25 @@
+{
+  "slug": "othmar",
+  "name": "St. Othmar",
+  "feastDay": "11-16",
+  "bio": "Saint Othmar was a medieval monk and priest who served as the first abbot of the Abbey of Saint Gall, one of the most celebrated Benedictine monasteries of the early Middle Ages, near the city that now bears its name in Switzerland.\n\nAs abbot, Othmar gathered a community of brothers devoted to prayer, learning, and the cultivation of the land. He governed the monastery with wisdom and holiness, building up the community that would become one of the great centers of monastic learning in the Germanic world.\n\nOthmar endured trials in his later years, bearing his sufferings with patience and faith. He died in the eighth century and was venerated as a saint. His feast is kept on 16 November, and he is honored as a patron of the city and abbey of Saint Gall.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Othmar to be the first abbot of Saint Gall and to build up a community of prayer and learning, grant through his intercession that all monasteries may flourish in holiness and that those who govern may do so with wisdom and patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Othmar"
+  ],
+  "featured": false,
+  "draft": false
+}

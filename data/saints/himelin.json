@@ -1,0 +1,28 @@
+{
+  "slug": "himelin",
+  "name": "St. Himelin",
+  "feastDay": "03-10",
+  "bio": "Saint Himelin was an Irish or Scottish priest of the early eighth century who set out on pilgrimage to Rome, the long road walked by so many Celtic saints. Returning from the Eternal City, he fell gravely ill while passing through the village of Vissenaken in what is now Belgium. Too weak to go farther, he was taken in by the charity of the local people and there, in a strange land far from home, he surrendered his soul to God. His death, marked by the simplicity of a pilgrim who had given everything for the love of Christ, moved the villagers to bury him with reverence, and a shrine grew up over his grave that drew the faithful for centuries. He died around 750 and his feast is kept on March 10. He is honored as a patron of pilgrims and of the sick who fall far from home.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received St. Himelin, a pilgrim from a distant land, into the rest of Your kingdom when he fell sick far from home, grant through his intercession that all who travel may be kept safe in body and soul, and that the stranger and the sick may find in us the welcome of Christ Himself. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Himelin"
+  ],
+  "featured": false
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "irmina-of-oeren",
+  "name": "St. Irmina of Oeren",
+  "feastDay": "01-03",
+  "bio": "Saint Irmina of Oeren was a noblewoman of the Merovingian kingdom who founded and ruled as abbess a convent at Oeren, near Trier, and was co-founder of the convent at Echternach with St. Willibrord. Born into one of the most powerful families of the Frankish realm, she was likely the mother of Plectrude, wife of Pepin of Herstal, and may have been connected to the royal lines of Dagobert I and II. Her twelfth-century biography is, as Basil Watkins notes, unreliable, yet the core of her holiness stands firm. She gave her wealth and her life to God, gathering women around her in the cloister and endowing the monastic foundations through which the faith was nurtured in the Rhineland. She died around 710, honored as a patron of abbesses and of women who serve the Church in the cloister.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Irmina of Oeren from the courts of the Merovingians to found houses of prayer for women, grant through her intercession that those who serve You in the cloister may be faithful in their vocation, and that all women may find in You the fullness of their dignity and hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irmina_of_Oeren"
+  ],
+  "featured": false
+}

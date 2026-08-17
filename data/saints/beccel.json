@@ -1,0 +1,25 @@
+{
+  "slug": "beccel",
+  "name": "St. Beccel",
+  "feastDay": "unknown",
+  "bio": "Bettelin of Crowland, also known as Beccel, was an eighth-century Christian hermit and saint of Crowland in the Lincolnshire fens. He was a follower of Guthlac, the celebrated hermit of Crowland, and joined the saintly community that gathered around Guthlac's hermitage on the island of Croyland. In the wild and watery landscape of the fens, Beccel devoted himself to prayer and the disciplined life of a hermit in the tradition of the Desert Fathers. His feast day is not recorded, but his memory was kept in the local cult of Crowland alongside that of his master. He is remembered as one of the quiet companions whose fidelity helped establish the eremitical tradition in early Anglo-Saxon England.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Beccel to the fens of Crowland as a companion of Guthlac, grant through his intercession that we may learn the way of prayer in solitude and bear one another's burdens in the fellowship of the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Beccel"
+  ],
+  "featured": false,
+  "draft": false
+}

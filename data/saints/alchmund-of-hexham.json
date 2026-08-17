@@ -1,0 +1,25 @@
+{
+  "slug": "alchmund-of-hexham",
+  "name": "St. Alchmund of Hexham",
+  "feastDay": "09-07",
+  "bio": "Alchmund, also known as Alcmund, became the seventh bishop of the see of Hexham in Northumberland when he was consecrated on April 24, 767. The see was centered on the church founded there by St. Wilfrid, and Alchmund inherited the care of a community that had been served by a distinguished succession of bishops during the golden age of Northumbrian Christianity.\n\nLittle is recorded of Alchmund's episcopate, but his memory was cherished at Hexham, where his shrine was honored at the abbey that grew up around the cathedral church. Pilgrims came to invoke his intercession, and the people of Northumberland counted him among the holy pastors who had labored in their land.\n\nHe died around the year 780 and was buried at Hexham Abbey, where his shrine remained a place of devotion for centuries. His feast is kept on September 7, and he is honored as one of the early bishops of the English Church, a witness to the deep roots of Christian worship in the north of England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Alchmund to serve the see of Hexham, grant through his intercession that the pastors of Your Church may be filled with holiness and that the people they serve may grow in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alchmund_of_Hexham"
+  ],
+  "featured": false,
+  "draft": false
+}

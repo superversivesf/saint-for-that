@@ -1,0 +1,33 @@
+{
+  "slug": "frithuswith",
+  "name": "St. Frithuswith",
+  "feastDay": "02-12",
+  "bio": "Frithuswith, also called Frideswide, was an English princess and abbess who became the patron saint of Oxford and its university. Born to a sub-king of Mercia named Dida of Eynsham whose lands occupied western Oxfordshire and the upper reaches of the Thames, she renounced royal privilege to consecrate herself to Christ. Fleeing a royal suitor, she took refuge in the woods and lived as a solitary devoted to prayer and the care of the poor.\n\nShe is credited as the foundress of a monastery later incorporated into Christ Church Cathedral, Oxford, and her shrine drew pilgrims for centuries. Her witness as a virgin-abbess shaped the religious imagination of one of England's most famous cities, and her patronage of Oxford and its university endures to this day.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Frithuswith to forsake the honors of her royal house and seek you in solitude, grant through her intercession that students and all who dwell in Oxford may seek wisdom as the fruit of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frithuswith"
+  ],
+  "featured": false,
+  "draft": false
+}

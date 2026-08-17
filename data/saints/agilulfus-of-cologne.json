@@ -1,0 +1,29 @@
+{
+  "slug": "agilulfus-of-cologne",
+  "name": "St. Agilulfus of Cologne",
+  "feastDay": "03-31",
+  "bio": "Saint Agilulfus was Abbot of Stavelot in the Ardennes before he became Bishop of Cologne in the early eighth century. A man of monastic formation and discipline, he brought to his episcopal office the prayer and order of the cloister, governing the great see of Cologne at a time when the Church in the Rhineland was still establishing itself among newly converted peoples.\n\nAgilulfus died as a martyr around the year 750, giving his life, according to tradition, in witness to the faith. The exact circumstances of his martyrdom are obscure, but his memory endured as one who sealed his pastoral labors with the sacrifice of his own blood.\n\nHis relics were honored at the Kölner Dom, the great cathedral of Cologne, where pilgrims invoked his intercession. He is venerated as a martyr-bishop, and his feast is kept on March 31, a witness to the long tradition of the Church at Cologne and to the cost of faithful service in a violent age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Agilulfus with the palm of martyrdom after a life of faithful pastoral service, grant through his intercession that bishops may be steadfast in truth and the Church in Germany may ever flourish in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agilulfus_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

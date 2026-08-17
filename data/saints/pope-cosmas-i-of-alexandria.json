@@ -1,0 +1,25 @@
+{
+  "slug": "pope-cosmas-i-of-alexandria",
+  "name": "St. Cosmas I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Saint Cosmas I of Alexandria served as the 44th Pope of Alexandria and Patriarch of the See of St. Mark, occupying one of the most ancient and venerated apostolic thrones in Christendom. As successor to the Evangelist Mark in the city that became a cradle of Christian theology and monastic life, he shepherded the Coptic faithful through a period of theological consolidation and pastoral care. Though the surviving historical record preserves only the outline of his pontificate, his place among the patriarchs of Alexandria links him to the great Alexandrian tradition that produced the Catechetical School, the desert fathers, and the defenders of orthodox Christology. He is commemorated among the saints of the Coptic and Eastern traditions.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Cosmas I a successor of the Evangelist Mark and a shepherd of the ancient See of Alexandria, grant through his intercession that Your Church may stand firm in the apostolic faith and be united in the confession of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Cosmas_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

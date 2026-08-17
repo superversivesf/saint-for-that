@@ -1,0 +1,29 @@
+{
+  "slug": "ecgbert-of-york",
+  "name": "St. Ecgbert of York",
+  "feastDay": "unknown",
+  "bio": "Ecgbert was an eighth-century Anglo-Saxon cleric, the brother of King Eadberht of Northumbria, who established the archdiocese of York in 735 and became its first archbishop. A learned man and a correspondent of Bede and Boniface, he laboured to raise the standards of his clergy, composing a legal code that regulated their conduct and privileges. He encouraged learning, founded schools, and oversaw the copying of manuscripts, helping to make York one of the intellectual centres of early medieval Europe. He worked alongside his royal brother on the great ecclesiastical issues of the day, and although several works have been ascribed to him, modern scholars doubt some of these attributions. He died in 766, leaving a diocese stronger than he had found it.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your bishop Ecgbert to establish the see of York and to govern your clergy with wisdom and law, grant through his intercession that the shepherds of your Church may be zealous for reform and learned in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ecgbert_of_York"
+  ],
+  "featured": false,
+  "draft": false
+}

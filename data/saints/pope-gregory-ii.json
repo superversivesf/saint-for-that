@@ -1,0 +1,28 @@
+{
+  "slug": "pope-gregory-ii",
+  "name": "St. Gregory II",
+  "feastDay": "02-11",
+  "bio": "Pope Gregory II governed the Church as bishop of Rome from May 715 until his death on February 11, 731, shepherding the faithful through one of the most turbulent ages of the eighth century. A man of learning and firm resolve, he repaired the walls of Rome, restored churches, and championed the missionary work that carried the Gospel into the Germanic lands. When Emperor Leo III the Isaurian unleashed the iconoclast assault on sacred images, Gregory defended their veneration with unwavering courage, rebuking the emperor and preparing the faithful to stand firm. His steadfastness helped shape the alliance between the papacy and the Frankish kingdom that would in time transform Europe. He is remembered as a zealous pastor, a patron of monks, and a defender of sacred tradition.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Gregory II to defend the honor of Your sacred images and to shepherd Your people through storm and schism, grant through his intercession that we may venerate Your holy icons with reverent hearts and stand firm for the truth of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_II"
+  ],
+  "featured": false
+}

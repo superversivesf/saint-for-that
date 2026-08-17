@@ -1,0 +1,21 @@
+{
+  "slug": "oda",
+  "name": "St. Oda",
+  "feastDay": "10-23",
+  "bio": "Saint Oda of Scotland was a holy woman who, according to tradition, was of Scottish origin and who left her homeland to live as a recluse in the Netherlands. Little is known of her early life, but medieval accounts describe her as a woman of deep prayer and singular devotion to God who sought solitude in order to give herself wholly to contemplation.\n\nOda settled in the Netherlands, where she lived as a hermit, dedicated to prayer, fasting, and the life of the spirit. Her simplicity and holiness drew the reverence of the local people, who came to regard her as a saint even during her lifetime.\n\nShe died in the early medieval period and was honored as a saint in the Netherlands. Her feast is kept on 23 October. She is invoked as a patron of those who seek the eremitic life.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Oda to seek you in the solitude of the hermit's life, grant through her prayers that we may find in silence and contemplation the depth of your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Oda"
+  ],
+  "featured": false,
+  "draft": false
+}

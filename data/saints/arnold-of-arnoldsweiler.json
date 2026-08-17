@@ -1,0 +1,29 @@
+{
+  "slug": "arnold-of-arnoldsweiler",
+  "name": "St. Arnold of Arnoldsweiler",
+  "feastDay": "07-18",
+  "bio": "Arnold of Arnoldsweiler, who died around 800 in Ginnizweiler, today Düren-Arnoldsweiler, is a saint of the Roman Catholic Church, the Orthodox Church, and the True Orthodox Church. He was a musician at the court of Emperor Charles the Great, known as Charlemagne, where his skill with instruments and song served the worship and the gatherings of the imperial household. His feast day is observed on July 18.\n\nArnold is honored as a patron of musicians, organists, and makers of musical instruments, and he is also invoked for the grace of a good and gentle death. His witness shows that the gifts of art and music, offered to God, can become a path to holiness, and his intercession has long been sought by those who devote their lives to sacred music.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "the elderly",
+      "category": "family"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Arnold with the gift of music and the grace of a holy death, grant through his intercession that we may offer you the best of our gifts and, at the hour of our passing, be received into your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arnold_of_Arnoldsweiler"
+  ],
+  "featured": false,
+  "draft": false
+}

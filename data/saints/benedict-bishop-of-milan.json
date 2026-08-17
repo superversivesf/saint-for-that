@@ -1,0 +1,25 @@
+{
+  "slug": "benedict-bishop-of-milan",
+  "name": "St. Benedict of Milan",
+  "feastDay": "03-11",
+  "bio": "Benedict served as Archbishop of Milan from about 685 to 732, governing the great Ambrosian see through a critical era in the life of the Church in northern Italy. He was heir to the liturgical and pastoral tradition established by St. Ambrose, and he shepherded the Milanese church through decades that saw political upheaval, the consolidation of Lombard rule, and the ongoing work of evangelization in the region. He is honored as a saint in both the Catholic and Eastern Orthodox churches. His feast is kept on March 11. He is remembered as a faithful archbishop who preserved the Ambrosian inheritance and maintained communion with the universal Church across a long and troubled episcopate.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Benedict a faithful shepherd of the Ambrosian see of Milan, grant through his intercession that the pastors of Your Church may preserve the heritage of the apostles and govern Your people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

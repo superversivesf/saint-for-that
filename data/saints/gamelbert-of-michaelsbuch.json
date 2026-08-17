@@ -1,0 +1,25 @@
+{
+  "slug": "gamelbert-of-michaelsbuch",
+  "name": "St. Gamelbert of Michaelsbuch",
+  "feastDay": "01-17",
+  "bio": "Gamelbert was a Christian priest who labored in the eighth century in what is now Stephansposching, Bavaria, in southern Germany. Little survives in the way of dramatic detail, but the Church preserves him as a quiet, faithful servant who tended his rural flock with pastoral care amid the slow Christianization of the Bavarian countryside.\n\nHe is commemorated on January 17, and his memory is bound up with the parish and people of Michaelsbuch. In an age of grand missionary expeditions, Gamelbert represents the sanctity of steady, local priesthood: offering Mass, teaching the faith, and serving the poor without renown. His witness reminds us that holiness is often worked out in obscure places.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Gamelbert a faithful shepherd of a rural flock, grant through his intercession that priests may serve with quiet devotion and that the Church may flourish in every hidden place. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gamelbert_of_Michaelsbuch"
+  ],
+  "featured": false,
+  "draft": false
+}

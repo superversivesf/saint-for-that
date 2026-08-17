@@ -1,0 +1,25 @@
+{
+  "slug": "elias-of-heliopolis",
+  "name": "St. Elias of Heliopolis",
+  "feastDay": "02-01",
+  "bio": "Elias of Heliopolis, also called Elias of Damascus, was a Syrian Christian of the early eighth century who worked as a carpenter and suffered martyrdom under the persecutions that followed the Muslim conquest of the Levant. Known from a Greek hagiography, he is said to have been denounced for his faith and for refusing to abandon Christ, and to have suffered torture and death with steadfast courage. He is revered as a saint in the Eastern Orthodox Church and the Syriac Orthodox Church, one of the many Christian witnesses of the East who gave their lives rather than deny their Lord. His memory recalls the long line of artisans and labourers who have confessed Christ in every age and under every regime.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your martyr Elias the courage to confess your name even unto death, grant through his intercession that we may stand firm in the faith and that all who suffer for righteousness may be strengthened by your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_of_Heliopolis"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "alkmund-of-derby",
+  "name": "St. Alkmund of Derby",
+  "feastDay": "03-19",
+  "bio": "Alkmund of Derby, also spelled Ealhmund, Alhmund, Alcmund, or Alchmund, was a son of Alhred of Northumbria, born into the turbulent dynastic struggles of the early medieval English kingdoms. As a prince of the Northumbrian royal line, his life was shaped by the violent succession disputes that marked that age, and he was eventually laid to rest in Derby, where a church and later a shrine were dedicated to his memory.\n\nVenerated from early times as a saintly royal figure, Alkmund became the focus of popular devotion in the Derby region. His relics were honored by the faithful who sought his intercession, and his cult endured through the centuries despite the obscurity that surrounds much of his life. He stands as a witness to the faith of early England and to the veneration accorded to those of royal blood who suffered in the storms of political strife.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the storms of earthly kingdoms preserved St. Alkmund in faithfulness and granted him the veneration of your people, grant through his intercession that we may remain steadfast amid the trials of this world and come at last to your heavenly kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alkmund_of_Derby"
+  ],
+  "featured": false,
+  "draft": false
+}

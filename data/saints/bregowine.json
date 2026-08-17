@@ -1,0 +1,25 @@
+{
+  "slug": "bregowine",
+  "name": "St. Bregowine",
+  "feastDay": "08-26",
+  "bio": "Bregowine served as Archbishop of Canterbury in the eighth century, a time when the English Church was still consolidating its structure after the mission of Augustine. Little is known of his origins, and no records of him survive prior to his elevation to the see of Canterbury. He possibly owed his appointment to the Kentish monarch. The records that remain from his time in office concern chiefly disputes over land, and knowledge of his archiepiscopate is hampered by the destruction of many contemporary documents. After his death he was venerated as a saint, and a Life of him was composed in the twelfth century. His feast is kept on August 26.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bregowine to shepherd the see of Canterbury in a time of uncertainty, grant through his intercession that the pastors of Your Church may govern with justice and preserve the heritage of faith entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bregowine"
+  ],
+  "featured": false,
+  "draft": false
+}

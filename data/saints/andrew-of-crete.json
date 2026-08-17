@@ -1,0 +1,29 @@
+{
+  "slug": "andrew-of-crete",
+  "name": "St. Andrew of Crete",
+  "feastDay": "07-04",
+  "bio": "Andrew of Crete, also known as Andrew of Jerusalem, was an eighth-century bishop, theologian, homilist, and hymnographer whose literary and spiritual gifts enriched the Church of his age. Born in Damascus and raised in Jerusalem, he entered the monastic life and was eventually consecrated bishop of Gortyna on the island of Crete, where he served with distinction for many years.\n\nAndrew is best remembered for his sermons and hymns, above all the Great Canon, a lengthy penitential hymn still sung in the Eastern churches during Lent. As a theologian he defended the faith and shepherded his flock with wisdom. Venerated as a saint in both the Eastern Orthodox Church and the Catholic Church, he stands as a bridge between the traditions of East and West and a model of eloquent, penitential preaching.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Andrew of Crete the gift of eloquence in preaching and the grace of penitential song, grant through his intercession that we may turn our hearts to you with sincere sorrow and proclaim your mercy in word and deed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_of_Crete"
+  ],
+  "featured": false,
+  "draft": false
+}

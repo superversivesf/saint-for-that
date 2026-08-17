@@ -1,0 +1,21 @@
+{
+  "slug": "mildrith",
+  "name": "St. Mildrith",
+  "feastDay": "07-13",
+  "bio": "Saint Mildrith, also known as Mildthryth or Mildred, was a seventh- and eighth-century Anglo-Saxon abbess of the monastery at Minster-in-Thanet in Kent. Of royal Kentish lineage, tradition recounts that she was sent as a young woman to be educated at the monastery of Chelles in Francia before returning to England to embrace the monastic life.\n\nUpon her return, Mildrith entered the community at Minster-in-Thanet and eventually became its abbess, governing her sisters with devotion and holiness. Her reputation for sanctity spread throughout Kent.\n\nAfter her death she was venerated as a saint, and in 1030 her remains were solemnly translated to the church of Saint Augustine at Canterbury, where her shrine became a place of pilgrimage. Her feast is kept on 13 July.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Mildrith a faithful shepherd of the community at Minster-in-Thanet, grant through her prayers that we may persevere in the monastic virtues of prayer, humility, and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mildrith"
+  ],
+  "featured": false,
+  "draft": false
+}

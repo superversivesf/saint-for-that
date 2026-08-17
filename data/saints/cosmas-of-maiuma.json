@@ -1,0 +1,37 @@
+{
+  "slug": "cosmas-of-maiuma",
+  "name": "St. Cosmas of Maiuma",
+  "feastDay": "10-14",
+  "bio": "Saint Cosmas of Maiuma, also called Cosmas Hagiopolites, Cosmas of Jerusalem, Cosmas the Melodist, or Cosmas the Poet, was a bishop and one of the most important hymnographers of the Christian East. Adopted as an orphan by the parents of St. John of Damascus, he was educated alongside John in the monastery of St. Sabas near Jerusalem, where both men devoted themselves to theology and sacred poetry. His hymns enriched the Byzantine liturgy, and he composed many of the canons still sung in the Orthodox Paschal cycle and on great feasts. He later became bishop of Maiuma, the port of Gaza, serving the Church through word and song. Venerated by both the Eastern Orthodox and Catholic Churches, he is remembered as a poet of the Incarnation whose verse still carries the Church's prayer.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "poets",
+      "category": "everyday"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Cosmas the Melodist the gift of weaving theology into song, grant through his intercession that our worship may be filled with beauty and our hearts lifted by sacred melody. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cosmas_of_Maiuma"
+  ],
+  "featured": false,
+  "draft": false
+}

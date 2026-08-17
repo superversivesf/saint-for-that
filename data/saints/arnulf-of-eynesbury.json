@@ -1,0 +1,25 @@
+{
+  "slug": "arnulf-of-eynesbury",
+  "name": "St. Arnulf of Eynesbury",
+  "feastDay": "unknown",
+  "bio": "Saint Arnulf of Eynesbury is an obscure English saint, apparently a hermit who lived in the eighth or ninth century. He was venerated in Eynesbury, about half a mile from St Neots in Cambridgeshire, during the ninth century, and his memory has been preserved by the local devotion of the faithful across many generations.\n\nThough little is known of his life, Arnulf's witness as a hermit points to the ancient English tradition of solitary holiness, in which men and women withdrew from the world to seek God in silence and prayer. He is honored as one of the hidden saints of early England, whose lives of quiet fidelity helped to sustain the faith of the people among whom they lived and prayed.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Arnulf to seek you in the solitude of the hermit's life, grant through his intercession that we may find moments of silence amid the noise of the world and draw near to you with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arnulf_of_Eynesbury"
+  ],
+  "featured": false,
+  "draft": false
+}

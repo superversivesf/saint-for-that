@@ -1,0 +1,29 @@
+{
+  "slug": "kyros-of-constantinople",
+  "name": "St. Kyros of Constantinople",
+  "feastDay": "01-08",
+  "bio": "Kyros of Constantinople served as Ecumenical Patriarch of Constantinople from 705 to 711. He was placed on the patriarchal throne in 705 by Emperor Justinian II, replacing the deposed Patriarch Callinicus I. Kyros' tenure coincided with a turbulent chapter in the Byzantine Church, as theological disputes over the nature of Christ continued to divide emperors and patriarchs. Soon after Justinian II's decline and fall in December 711, Kyros was replaced by Emperor Philippicus with Patriarch John VI, who shared the emperor's Monothelite sympathies. Despite the brevity and political complexity of his reign, Kyros is regarded as a saint in both the Eastern Orthodox and Catholic Churches, with his Catholic feast kept on 7 January and the Orthodox commemoration on 8 January.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Kyros on the patriarchal throne of Constantinople amid the storms of imperial politics and theological strife, grant through his intercession that bishops may confess the truth of Your Son with courage and that Your Church may be preserved in unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyros_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

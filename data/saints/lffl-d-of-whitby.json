@@ -1,0 +1,29 @@
+{
+  "slug": "lffl-d-of-whitby",
+  "name": "St. Ælfflæd of Whitby",
+  "feastDay": "02-08",
+  "bio": "Ælfflæd was born in 654, the daughter of King Oswiu of Northumbria and his queen Eanflæd. Dedicated to God from childhood, she was placed under the care of her kinswoman St. Hilda at Whitby Abbey. When Hilda died in 680, Ælfflæd succeeded her as abbess, first jointly with her mother Eanflæd and then alone, governing the great double monastery with wisdom and holiness for more than thirty years.\n\nThe nuns of Whitby were renowned for their skill in medicine, and Ælfflæd was particularly celebrated for her knowledge of surgery and her personal attention to the sick who came to the abbey seeking relief. Like Hilda before her, she was known for the personalized care she gave to each patient, tending bodies and souls alike with the compassion of Christ.\n\nÆlfflæd was also a trusted counselor to bishops and kings, and she played a quiet but significant role in the ecclesiastical life of Northumbria. She died in 714, having governed Whitby with grace, and was venerated as a saint whose memory was cherished especially by those who practice the healing arts.",
+  "patronages": [
+    {
+      "need": "physicians",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Ælfflæd with skill in healing and a compassionate heart for the sick, grant through her intercession that those who minister to the suffering may serve with the same selfless love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lffl%C3%A6d_of_Whitby"
+  ],
+  "featured": false,
+  "draft": false
+}

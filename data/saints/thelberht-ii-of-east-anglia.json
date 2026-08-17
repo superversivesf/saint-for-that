@@ -1,0 +1,25 @@
+{
+  "slug": "thelberht-ii-of-east-anglia",
+  "name": "St. Æthelberht II of East Anglia",
+  "feastDay": "05-20",
+  "bio": "Æthelberht, called Saint Ethelbert the King, was an eighth-century king of East Anglia, the Anglo-Saxon kingdom that embraced the modern counties of Norfolk and Suffolk. Little is known of his reign, which later sources suggest may have begun around 779, and only a very few of the coins he issued have come down to us.\n\nWhat is remembered is his end. According to the Anglo-Saxon Chronicle, Æthelberht was killed in 794 on the orders of Offa, the powerful king of Mercia. Whether the young king came seeking marriage, alliance, or some other embassy, he met betrayal and death at the hands of his host, and was honored after death as a martyr.\n\nVeneration of Æthelberht spread quickly, especially at Hereford, where his shrine became a place of pilgrimage. He was invoked as a patron of Hereford and of England, remembered as a king whose innocence and faithfulness won him the crown of martyrdom. His feast is kept on May 20.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Æthelberht with the palm of martyrdom, grant through his intercession that kings and rulers may govern with integrity and that the innocent may find in You their refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelberht_II_of_East_Anglia"
+  ],
+  "featured": false,
+  "draft": false
+}

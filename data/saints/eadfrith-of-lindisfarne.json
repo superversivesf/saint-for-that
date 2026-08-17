@@ -1,0 +1,29 @@
+{
+  "slug": "eadfrith-of-lindisfarne",
+  "name": "St. Eadfrith of Lindisfarne",
+  "feastDay": "06-04",
+  "bio": "Saint Eadfrith of Lindisfarne served as Bishop of Lindisfarne, probably from 698 onwards, during one of the most luminous periods of the Northumbrian Church. Lindisfarne was among the chief religious sites of the kingdom of Northumbria, the resting place of Saints Aidan and Cuthbert, and Eadfrith's episcopate carried forward that great spiritual inheritance. By the twelfth century it was believed he succeeded Eadberht, and the surviving records do not contradict this. He is venerated as a saint in the Roman Catholic Church, the Eastern Orthodox Church, and the Anglican Communion, a rare three-fold recognition that reflects the breadth of his witness. His feast is kept on 4 June, and he is remembered among the bishops who tended the flame of Northumbrian Christianity on its holy island.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eadfrith a faithful bishop on the holy island of Lindisfarne, grant through his intercession that we may tend the inheritance of faith entrusted to us and pass it on undiminished to those who come after. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadfrith_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

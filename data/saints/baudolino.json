@@ -1,0 +1,25 @@
+{
+  "slug": "baudolino",
+  "name": "St. Baudolino",
+  "feastDay": "11-10",
+  "bio": "Saint Baudolino was a hermit who lived in the time of the Lombard king Liutprand at Forum Fulvii, a locality on the lower reaches of the river Tanaro in northwestern Italy. He was said to be the son of a noble family, but he gave all his wealth to the poor before retiring to a miserable hut near the river, where he lived in prayer and penance. His holiness became known to the people of the surrounding country, and after his death devotion to him grew among the faithful of the region. He is the patron saint of the nearby city of Alessandria, where his feast is celebrated on the Sunday following November 10. He is remembered as a model of evangelical poverty who traded noble birth for the kingdom of heaven.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Baudolino to leave wealth and rank for a hermit's hut beside the Tanaro, grant through his intercession that we may hold loosely the goods of this world and find our treasure in You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Baudolino"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-dailam",
+  "name": "St. John of Dailam",
+  "feastDay": "unknown",
+  "bio": "Saint John of Dailam was a 7th-century East Syriac Christian saint and monk who labored to spread the Gospel across Mesopotamia and Persia. Renowned for his ascetic discipline and zeal for the faith, he founded several monasteries that became centers of prayer, learning, and evangelization in regions where Christians often lived as a minority under non-Christian rule. Through his missionary journeys and the religious houses he established, John helped sustain and deepen the Christian presence in the East Syriac tradition, and his memory has been cherished by the churches of Mesopotamia and Persia for centuries. He is honored as a monastic founder and a faithful herald of Christ in demanding lands.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "retreats",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. John of Dailam to plant monasteries and sow the Gospel in the lands of Mesopotamia and Persia, grant through his intercession that missionaries may labor with the same zeal and that all who seek You in silence may find You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Dailam"
+  ],
+  "featured": false,
+  "draft": false
+}

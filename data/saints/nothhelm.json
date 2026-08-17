@@ -1,0 +1,25 @@
+{
+  "slug": "nothhelm",
+  "name": "St. Nothhelm",
+  "feastDay": "10-17",
+  "bio": "Nothhelm was an Anglo-Saxon Archbishop of Canterbury in the early eighth century, a learned and zealous pastor who served the English church during one of its most fruitful periods. Before his elevation to the archbishopric in 735, he was a priest devoted to preserving the history of the English church.\n\nNothhelm was a close friend and correspondent of both the Venerable Bede and Saint Boniface. It was Nothhelm who gathered materials from Canterbury that Bede used in his great Historia Ecclesiastica, playing a quiet but essential role in one of the most important works of medieval history.\n\nAs archbishop he held church councils and attended to the governance of the English church. After his death he was venerated as a saint. His feast is kept on 17 October.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Nothhelm to preserve the history of your Church and to govern the see of Canterbury with wisdom, grant through his intercession that we may treasure the memory of your saints and walk faithfully in their footsteps. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nothhelm"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "fillan",
+  "name": "St. Fillan",
+  "feastDay": "unknown",
+  "bio": "Fillan, also known as Faelan or Faolan, was an eighth-century monk from Munster in Ireland who pursued holiness through pilgrimage and solitude. Having studied at Taghmon Abbey under its renowned discipline, he felt drawn to leave his homeland and preach the Gospel across the sea. Traveling to Scotland, he settled in the glen that still bears his name, Strath Fillan, where he lived as a hermit-monk devoted to prayer and labor.\n\nThough the historical record is sparse, tradition credits him with miracles and a pastoral care of the people of the western Highlands. He embodies the great Celtic stream of sanctity: monks who journeyed wherever God led them, trusting Providence to provide a place and a people to serve. His memory endures in the churches, wells, and place-names dedicated to him.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Fillan to leave his homeland and build a life of prayer in a foreign land, grant through his intercession that we may journey faithfully wherever you lead and find in solitude a deeper communion with you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fillan"
+  ],
+  "featured": false,
+  "draft": false
+}

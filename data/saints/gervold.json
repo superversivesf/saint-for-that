@@ -1,0 +1,24 @@
+{
+  "slug": "gervold",
+  "name": "St. Gervold",
+  "feastDay": "unknown",
+  "bio": "Saint Gervold was a monk and abbot in the age of Charlemagne who served as both a bishop and a trusted diplomat of the Frankish court. Made bishop of Évreux around 785, he governed that see with pastoral care before being placed at the head of the great Benedictine abbey of Saint-Wandrille in 787, where he restored monastic life and shepherded his brethren through years of rebuilding and renewal. As an envoy of Charlemagne he carried the concerns of the Church into the halls of secular power, blending the life of a contemplative with the burdens of public service. He died in 806 or 807, remembered as a faithful pastor and a quiet builder of the monastic revival in Normandy.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gervold from the service of rulers to the governance of monks and the care of Your Church, grant through his intercession that those entrusted with authority may serve with humility and that all who labor for the renewal of monastic life may persevere in faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gervold"
+  ],
+  "featured": false
+}

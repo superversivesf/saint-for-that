@@ -1,0 +1,25 @@
+{
+  "slug": "bercthun",
+  "name": "St. Bercthun",
+  "feastDay": "unknown",
+  "bio": "Bercthun of Beverley, also known as Bertin, Britwin, Berhthu, and Beorhthun, was an eighth-century Anglo-Saxon saint. He was associated with the church of Beverley in Yorkshire, a foundation made illustrious by St. John of Beverley, and he belonged to the circle of clergy and monastics who carried forward the work of that great see. The variations of his name in the manuscripts testify to the spread of his cult across the Anglo-Saxon kingdoms, where different dialects rendered his memory in different forms. Though his feast day is not firmly recorded, he was honored locally as a holy man and servant of the Church. He is remembered as one of the many lesser-known saints whose devotion sustained the faith in early England.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Bercthun among the saints of Beverley, grant through his intercession that the faithful of every land may serve You in quiet holiness and build up Your Church in unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bercthun"
+  ],
+  "featured": false,
+  "draft": false
+}

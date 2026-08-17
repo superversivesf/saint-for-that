@@ -1,0 +1,29 @@
+{
+  "slug": "merolilan-of-rheims",
+  "name": "St. Merolilan of Rheims",
+  "feastDay": "unknown",
+  "bio": "Merolilan of Rheims was an Irish Christian martyr and saint who lived in the eighth century. Like many monks of early medieval Ireland, he left his homeland to pilgrim and preach on the continent, joining the long stream of Irish missionaries who carried the Gospel from their monastic schools to the peoples of Francia and beyond. He labored in the region of Rheims, where he bore witness to Christ and, according to the tradition that honors him as a martyr, surrendered his life for the faith. Though the details of his mission and death are sparse, his memory endured among the saints venerated in the sees of northern France, a testament to the far-reaching zeal of Irish monasticism and the cost at which the Gospel was planted in new lands.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Merolilan of Rheims with the palm of martyrdom as he bore witness to Christ far from his Irish homeland, grant through his intercession that missionaries may labor with courage and that all who suffer for the Gospel may share in the glory of Your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Merolilan_of_Rheims"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "guthlac-of-crowland",
+  "name": "St. Guthlac of Crowland",
+  "feastDay": "04-11",
+  "bio": "Guthlac of Crowland was an English hermit and saint of the early eighth century, one of the most revered solitary figures of Anglo-Saxon England. Born into a noble family, he spent part of his youth in the retinues of warring lords before the grace of God turned his heart toward the desert. About 701 he sought out the wild fens of Lincolnshire, making his hermitage at Crowland, a place so desolate that even the demons were said to flee the sign of his cross. There he lived in continual prayer, fasting, and combat with the powers of darkness, sustained by the psalms. Kings and common folk sought him for counsel, and his life was recorded by his disciple Felix. He died around 714, and Crowland Abbey rose over his cell, a beacon of prayer in the marshes.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Guthlac into the wilderness of the fens to do battle with the powers of darkness and to find You in solitude, grant through his intercession that we may resist the temptations that beset us and learn to seek Your face in the silence of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guthlac_of_Crowland"
+  ],
+  "featured": false
+}

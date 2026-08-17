@@ -1,0 +1,33 @@
+{
+  "slug": "donald-of-ogilvy",
+  "name": "St. Donald of Ogilvy",
+  "feastDay": "unknown",
+  "bio": "Saint Donald of Ogilvy, also known as Donivald or Domhnall, was an eighth-century Scottish saint who lived at Ogilvy in the former Forfarshire, in the region of Angus. He is remembered chiefly for the remarkable spiritual household he raised: after the death of his wife, Donald devoted himself to the formation of his nine daughters, all of whom embraced the religious life and became honored as the \"Nine Maidens.\" They entered a religious community at Abernethy, and their father's devotion and example are credited with nurturing the holiness that carried them into the cloister. Donald's own life of prayer and fatherly care made him, in effect, the founder of a holy lineage, and he is venerated as a patron of fathers and of families devoted to God.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "grandparents",
+      "category": "family"
+    },
+    {
+      "need": "parents",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Donald of Ogilvy the father of a holy household and the guide of his daughters into lives of consecration, grant through his intercession that families may be schools of sanctity and parents sowers of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donald_of_Ogilvy"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pope-gregory-iii",
+  "name": "St. Gregory III",
+  "feastDay": "12-10",
+  "bio": "Pope Gregory III, a Syrian by birth, governed the Church as bishop of Rome from February 731 until his death on November 28, 741. He inherited a pontificate beset by Byzantine iconoclasm and the Lombards' advance through Italy. With quiet courage he upheld the veneration of sacred images, condemned the iconoclasts in a Roman synod, and bore the grief of seeing East and West strained to the breaking point. When the Lombards threatened Rome he appealed to Charles Martel, seeking aid that never came in time. He was the last pope to seek the consent of the Byzantine exarch, the last of Syrian origin, and the last born outside Europe until Pope Francis in 2013. He is remembered as a gentle shepherd who held the barque of Peter steady while winds of empire and heresy howled.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gregory III a steadfast shepherd in days of division and danger, grant through his intercession that Your Church, though shaken by strife, may never lose her unity or her reverence for the holy things that point us to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_III"
+  ],
+  "featured": false
+}

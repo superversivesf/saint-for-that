@@ -1,0 +1,29 @@
+{
+  "slug": "caintigern",
+  "name": "St. Caintigern",
+  "feastDay": "01-07",
+  "bio": "Caintigern, also known as Saint Kentigerna, was a daughter of Cellach Cualann, King of Leinster, and thus of royal Irish blood. Rather than marry into the dynasties of her day, she embraced the religious life and is remembered as a holy woman and contemplative. Tradition places her as a hermit on the island of Inchcailloch in Loch Lomond, where she gave herself to prayer and solitude. Her feast is listed in the Aberdeen Breviary for January 7, and she is likewise honored on that day in the Eastern Orthodox Church. She stands among the many Irish saints whose royal birth was poured out in the service of Christ through hidden lives of contemplation.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Caintigern to leave royal splendor for a life of solitude and prayer, grant through her intercession that we may learn to seek You in stillness and to treasure the hidden life above the praise of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caintigern"
+  ],
+  "featured": false,
+  "draft": false
+}

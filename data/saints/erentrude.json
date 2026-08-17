@@ -1,0 +1,33 @@
+{
+  "slug": "erentrude",
+  "name": "St. Erentrude",
+  "feastDay": "06-30",
+  "bio": "Erentrude was a saint and abbess of the late seventh and early eighth centuries, born probably in present-day Germany or Austria into a Franconian-Merovingian royal house. She was the niece of Rupert of Salzburg, the apostle of Bavaria, and left her home country to assist him in establishing religious communities in Salzburg. Around the year 700, Rupert built a convent on the Nonnberg above the city and installed Erentrude as its first abbess. She and her nuns served the poor, the needy, and the ill, striking a balance between the cloistered life and works of charity. She died on 30 June 718, and her fame for healing miracles and intercession grew after her death, giving rise to many legends through the centuries. Her feast is celebrated on 30 June.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Erentrude to be the first abbess of Nonnberg and to serve the poor and the sick with her sisters, grant through her intercession that we may balance prayer and charity and be instruments of your healing in the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erentrude"
+  ],
+  "featured": false,
+  "draft": false
+}

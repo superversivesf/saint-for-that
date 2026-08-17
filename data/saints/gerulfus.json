@@ -1,0 +1,21 @@
+{
+  "slug": "gerulfus",
+  "name": "St. Gerulfus",
+  "feastDay": "unknown",
+  "bio": "Gerulfus is a Roman Catholic saint of Flanders whose relics are kept in Drongen, after they were removed from his grave in Merendree around 915 or 930, when the region was under the shadow of Viking raids. The translation of his relics speaks to the unsettled conditions of the Low Countries in the early tenth century, when Christians carried their saints' remains to safer ground.\n\nHe is honored as the patron saint of young people, a striking attribution that has endured across the centuries. The Church in Flanders has kept his memory alive, linking the youth of the region to a heavenly protector. His witness, though thinly documented, testifies to the way local sanctity weaves itself into the prayer and identity of a people.",
+  "patronages": [
+    {
+      "need": "youth",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Gerulfus as a patron to the young, grant through his intercession that the youth of every age may grow in wisdom and grace and find in your Church a home for their hopes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerulfus"
+  ],
+  "featured": false,
+  "draft": false
+}

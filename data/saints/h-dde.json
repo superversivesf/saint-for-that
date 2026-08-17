@@ -1,0 +1,24 @@
+{
+  "slug": "h-dde",
+  "name": "St. Hædde",
+  "feastDay": "07-07",
+  "bio": "Hædde was a medieval monk and bishop of Winchester in the early eighth century, raised to the see around 676 and governing it with quiet fidelity for more than thirty years. A man formed in the monastic schools of the Anglo-Saxon Church, he carried into the office of bishop the discipline and prayer of the cloister, shepherding the clergy and people of Wessex through a formative age of Christian settlement. He was held in high esteem by kings and brother bishops, and the Venerable Bede preserves his memory as a prelate of learning and piety. He died around 705 and was buried in the Old Minster at Winchester, where his shrine was venerated until the English Reformation scattered the relics of the Saxon saints. He is remembered as one of the quiet builders of the Church in England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Hædde a faithful shepherd of Your people at Winchester and a son of the monastic discipline of early England, grant through his intercession that those who govern Your Church may be formed in prayer and that the labors of Your hidden servants may bear fruit for generations to come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/H%C3%A6dde"
+  ],
+  "featured": false
+}

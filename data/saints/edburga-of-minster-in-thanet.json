@@ -1,0 +1,25 @@
+{
+  "slug": "edburga-of-minster-in-thanet",
+  "name": "St. Edburga of Minster-in-Thanet",
+  "feastDay": "11-19",
+  "bio": "Saint Edburga of Minster-in-Thanet was a princess of Wessex, the daughter of King Centwine, and became abbess of the great double monastery at Minster-in-Thanet in Kent. She lived in the eighth century and is remembered as a woman of royal birth who chose the cloister over the court, governing her community with wisdom and piety. Her monastery was one of the foremost religious houses of Anglo-Saxon England, a centre of learning and devotion in a land still young in the faith. She died around 751 and was buried in her abbey church, where her memory was long kept. She is regarded as a saint of the early English Church, one of the many royal women who shaped the Christian life of Saxon England.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Edburga from a royal court to the government of a holy monastery, grant through her intercession that those who serve you in the cloister may be faithful and that all single women may find their fulfilment in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edburga_of_Minster-in-Thanet"
+  ],
+  "featured": false,
+  "draft": false
+}

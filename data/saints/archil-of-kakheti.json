@@ -1,0 +1,29 @@
+{
+  "slug": "archil-of-kakheti",
+  "name": "St. Archil of Kakheti",
+  "feastDay": "unknown",
+  "bio": "Prince Archil the Martyr was an eighth-century Georgian Orthodox Christian royal prince of the eastern Georgian region of Kakheti. As a member of the ruling house, he governed his people during a period of intense pressure from the neighboring Islamic powers, and he refused to renounce the Christian faith despite the threats and violence brought against him. For his steadfastness he was put to death, and he has been venerated ever since as a martyr of the Georgian church.\n\nArchil's sacrifice stands as a witness to the long and costly fidelity of the Georgian people to the Gospel of Christ. As a royal prince who chose death rather than apostasy, he is honored among the martyrs of the Caucasus and remembered as a patron of those who suffer for the name of Christ in that ancient Christian land.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Archil of Kakheti the courage to lay down his life rather than deny the name of your Son, grant through his intercession that we may confess our faith with boldness and stand firm against every force that would turn us from you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Archil_of_Kakheti"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "andrew-of-crete-martyr",
+  "name": "St. Andrew of Crete",
+  "feastDay": "10-17",
+  "bio": "Andrew of Crete was a fervent iconophile who suffered martyrdom during the Byzantine Iconoclasm, executed in the Forum Bovis of Constantinople at the orders of Emperor Constantine V in 766 or 767. In an age when the veneration of sacred images was forbidden by imperial decree, Andrew boldly defended the holy icons as legitimate expressions of Christian faith, and he laid down his life rather than abandon this conviction.\n\nHe is regarded as a martyr in the Catholic and Eastern Orthodox churches. The monastery of St Andrew in Krisei in Constantinople, currently the Koca Mustafa Pasha Mosque in Istanbul, was dedicated to him. It should be noticed that according to modern sources, the figure of Andrew of Crete, like those of many iconophile saints who lived under the iconoclastic period, is unverified, yet his memory endures as a witness to the cost of fidelity to sacred tradition.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Andrew of Crete with the palm of martyrdom for his fearless defense of your holy icons, grant through his intercession that we may venerate the sacred mysteries with faithful hearts and bear witness to your truth whatever the cost. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_of_Crete_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

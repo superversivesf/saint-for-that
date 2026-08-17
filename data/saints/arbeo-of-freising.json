@@ -1,0 +1,29 @@
+{
+  "slug": "arbeo-of-freising",
+  "name": "St. Arbeo of Freising",
+  "feastDay": "unknown",
+  "bio": "Saint Arbeo of Freising was an early medieval author and the Bishop of Freising from 764, a see he governed during the formative decades of the Bavarian church. As a bishop he oversaw the consolidation of Christian life in his diocese and promoted the establishment of churches and monasteries, while as an author he composed works that recorded the deeds of the early saints of his region, notably the Life of St. Corbinian.\n\nArbeo was among the first writers of the Bavarian church, and his literary efforts helped to preserve the memory of the holy men and women who brought the Gospel to southern Germany. He served his see with care and died in office, honored by his clergy and people. He is remembered as a learned bishop and a faithful shepherd of an emerging Christian community.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Arbeo the gifts of learning and pastoral care and made him a faithful shepherd of your people in Freising, grant through his intercession that those who lead your Church may also preserve the memory of your saints and teach the faithful with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arbeo_of_Freising"
+  ],
+  "featured": false,
+  "draft": false
+}

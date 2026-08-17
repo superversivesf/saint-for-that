@@ -1,0 +1,29 @@
+{
+  "slug": "j-nberht",
+  "name": "St. Jænberht",
+  "feastDay": "08-12",
+  "bio": "Jænberht was a medieval monk of St Augustine's Abbey, Canterbury, who rose to become its abbot before being named Archbishop of Canterbury in 765. His tenure as archbishop was marked by a difficult relationship with King Offa of Mercia, who confiscated lands from the archbishopric and, by 787, transferred several bishoprics under Canterbury's supervision to the newly created Archbishopric of Lichfield. Though it is uncertain whether Jænberht ever recognised Lichfield's legitimacy, he continued to preside over church councils in England and shepherd his see through a period of political turbulence. He died in 792 and was venerated as a saint after his death, remembered for his steadfastness in defending the rights of the Church against royal encroachment.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Jænberht to defend the rights of Your Church amid the pressures of earthly power, grant through his intercession that bishops may stand firm in truth and pastors everywhere may be protected from injustice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/J%C3%A6nberht"
+  ],
+  "featured": false,
+  "draft": false
+}

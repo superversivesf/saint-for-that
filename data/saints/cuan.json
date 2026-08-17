@@ -1,0 +1,29 @@
+{
+  "slug": "cuan",
+  "name": "St. Cúan",
+  "feastDay": "unknown",
+  "bio": "Saint Cúan was an Irish abbot revered as the founder of many churches and monasteries across Ireland. He lived to nearly one hundred years, and though little is recorded of his personal story, his name endured for centuries in the Annals of Inisfallen, which recall him under the name Liath Mo-Chaemóc. A holy well near Ahascragh, known as St. Cuan's Well, is associated with him and remained a place of pilgrimage for the faithful who sought its waters. He is commemorated on 1 January by Western Rite Orthodox communities, and his long life of labor and prayer left a landscape of foundations that carried the faith into generations beyond his own.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Cúan long years to labor for the building of Your Church in Ireland, grant through his intercession that we may persevere in the work You set before us and leave behind a legacy of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/C%C3%BAan"
+  ],
+  "featured": false,
+  "draft": false
+}

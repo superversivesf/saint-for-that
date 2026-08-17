@@ -1,0 +1,29 @@
+{
+  "slug": "eurosia",
+  "name": "St. Eurosia",
+  "feastDay": "06-25",
+  "bio": "Eurosia, also known as Orosia, is the patron saint of Jaca, a city in the province of Huesca of northeastern Spain, set in the Pyrenees, which remains the centre of her cult. According to the tradition that grew up around her, she was a young Christian of noble birth who was promised in marriage to a Muslim prince and chose death rather than the denial of her faith or the loss of her virginity. She is said to have suffered martyrdom in the eighth century, and her relics were later brought to Jaca, where her shrine became one of the most visited in the medieval kingdom of Aragon. She is invoked against storms, demons, and the perils of the weather, and her feast is kept on 25 June.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "special"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your virgin and martyr Eurosia the grace to choose death rather than the denial of her faith, grant through her intercession that we may be kept safe from every storm and peril and that all who face violence for your name may be strengthened by your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eurosia"
+  ],
+  "featured": false,
+  "draft": false
+}

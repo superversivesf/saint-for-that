@@ -1,0 +1,33 @@
+{
+  "slug": "ceolfrith",
+  "name": "St. Ceolfrith",
+  "feastDay": "09-25",
+  "bio": "Saint Ceolfrith was an Anglo-Saxon abbot of the eighth century and one of the great figures of the golden age of Northumbrian monasticism. He served as Abbot of Monkwearmouth-Jarrow Abbey and was the warden of the young Bede from the age of seven until his own death in 716. Under his leadership the twin monasteries flourished as centers of learning and scriptural study. He was a major contributor to the project of producing the Codex Amiatinus, one of the most magnificent Bibles of the early Middle Ages. In old age he set out for Rome to deliver the codex to Pope Gregory II, but died in Burgundy on the journey. His feast is kept on September 25.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ceolfrith a father of monks and a lover of Your Holy Word, grant through his intercession that we may treasure the Scriptures and walk faithfully the pilgrimage of this life unto its end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceolfrith"
+  ],
+  "featured": false,
+  "draft": false
+}

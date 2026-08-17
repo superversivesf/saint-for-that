@@ -1,0 +1,32 @@
+{
+  "slug": "gummarus",
+  "name": "St. Gummarus",
+  "feastDay": "10-11",
+  "bio": "Saint Gummarus of Lier was a Belgian nobleman, the son of the Lord of Emblem, who served as an official at the court of his kinsman Pepin, mayor of the Frankish palace. After years of military service he withdrew from the world to live as a hermit, seeking God in solitude and penance. The town of Lier in Brabant grew up around his hermitage, and the faithful soon flocked to him for counsel and healing. Tradition holds that he was given a difficult and unhappy marriage, and that he bore its trials with extraordinary patience. He died around 774 and was buried at Lier, where a great church rose over his relics and became a place of pilgrimage for those bearing the burdens of married life, of bodily infirmity, and of lonely labor in field and forest.",
+  "patronages": [
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "divorced people",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "spiritual"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gummarus from the court of kings to the silence of the hermitage and gave him grace to bear the trials of an unhappy marriage with patience, grant through his intercession that couples estranged from one another may find healing, that laborers may know the dignity of their toil, and that all who suffer may find in You their refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gummarus"
+  ],
+  "featured": false
+}

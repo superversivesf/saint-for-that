@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-gothia",
+  "name": "St. John of Gothia",
+  "feastDay": "06-26",
+  "bio": "John of Gothia was a Crimean Gothic metropolitan bishop of Doros who became a rebel leader against Khazar rule. In 787 he led an uprising that overthrew and briefly expelled the Khazars from Gothia, defending his people and their Christian faith in the face of foreign domination. Though his revolt was ultimately short-lived, John's courage in rallying the Gothic community and his pastoral care as their bishop made him a revered figure among the Crimean Goths. He was canonized as an Eastern Orthodox saint, and his witness endures as a testament to the resilience of a small Christian people striving to preserve their faith and identity under occupation.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John of Gothia courage to defend his flock under foreign rule, grant through his intercession that all who suffer oppression may find deliverance and that shepherds of Your Church may stand firm for the freedom of Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Gothia"
+  ],
+  "featured": false,
+  "draft": false
+}

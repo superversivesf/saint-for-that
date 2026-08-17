@@ -1,0 +1,25 @@
+{
+  "slug": "mildburh",
+  "name": "St. Mildburh",
+  "feastDay": "02-23",
+  "bio": "Mildburh, venerated as a Benedictine abbess of Wenlock Priory in Shropshire, was a holy woman of the early Anglo-Saxon church. Tradition places her among the royal house of Mercia, devoted to God from her youth and called to the monastic life.\n\nAs abbess of Wenlock she governed her community with prayer, wisdom, and gentle discipline, guiding her sisters in the Benedictine way. Her sanctity was attested by the devotion of the faithful who honored her memory after her death.\n\nMedieval tradition associated Mildburh with a special love for the birds of the field and sky, which were said to grow tame in her presence, a sign of the peace that holiness brings to all creation. Her feast is kept on 23 February.",
+  "patronages": [
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Mildburh to serve you as abbess of Wenlock and filled her with love for your creation, grant through her intercession that we may live in harmony with all your creatures and devotedly serve you in the life you have given us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mildburh"
+  ],
+  "featured": false,
+  "draft": false
+}

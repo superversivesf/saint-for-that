@@ -1,0 +1,25 @@
+{
+  "slug": "ceolwulf-of-northumbria",
+  "name": "St. Ceolwulf of Northumbria",
+  "feastDay": "01-15",
+  "bio": "Ceolwulf was King of Northumbria from 729 until 737, a troubled reign in which he was briefly deposed and then restored to power. He was the \"most glorious king\" to whom Bede dedicated the Historia ecclesiastica gentis Anglorum, and under his patronage the great work of English church history was completed. In 737 he abdicated his throne and entered the monastery at Lindisfarne, exchanging the crown for the cowl. His abdication was a remarkable act of renunciation in an age of violent kingship. Venerated as a saint after his death, his feast is kept on January 15, and he is remembered as a king who chose the kingdom of heaven over the kingdoms of this world.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ceolwulf the grace to lay down his crown and take up the monk's cowl at Lindisfarne, grant through his intercession that we may renounce whatever holds us back from Your service and seek above all the kingdom of heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceolwulf_of_Northumbria"
+  ],
+  "featured": false,
+  "draft": false
+}

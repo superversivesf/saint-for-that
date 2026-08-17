@@ -1,0 +1,21 @@
+{
+  "slug": "thelwold-bishop-of-lindisfarne",
+  "name": "St. Æthelwold",
+  "feastDay": "02-12",
+  "bio": "Æthelwold served as Bishop of Lindisfarne from 721 until 740, inheriting the pastoral care of that sacred see which had been founded by St. Aidan and adorned by St. Cuthbert. He governed the church in a turbulent age, when Northumbria was beset by internal division and the monastic foundations of the north labored to keep alive the flame of faith kindled by the first missionaries from Iona.\n\nLittle detail of Æthelwold's episcopate survives, yet his memory was preserved among the saints of Lindisfarne, a community that treasured the succession of its bishops and honored those who served faithfully in that harsh and windswept land. He stands among the long line of bishops who, in obscurity and hardship, carried on the work of Aidan and Cuthbert.\n\nHis feast is kept on February 12, and he is honored as one of the holy pastors of the early English Church, a bishop who labored in the tradition of Lindisfarne for the people committed to his care.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Æthelwold to shepherd Your people from the holy see of Lindisfarne, grant through his intercession that all pastors may labor faithfully for the flock committed to their care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwold_(bishop_of_Lindisfarne)"
+  ],
+  "featured": false,
+  "draft": false
+}

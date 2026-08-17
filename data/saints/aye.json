@@ -1,0 +1,21 @@
+{
+  "slug": "aye",
+  "name": "St. Aye",
+  "feastDay": "04-18",
+  "bio": "Aye, also known as Aia, Aya, Agia, and Austregildis, was a Frankish Catholic saint of the early medieval period. She is honored in the tradition of the Frankish church, where her memory has been preserved under several related names. Her feast is kept on April 18. Though the historical details of her life are sparse, the persistence of her cult across the Frankish lands testifies to a holiness recognized by the faithful of her time. She has long been invoked in connection with lawsuits and legal disputes, a patronage that reflects the Christian hope for justice and right judgment.",
+  "patronages": [
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aye a place among the saints of the Frankish church, grant through her intercession that all who seek justice may act with integrity and find in Your law the measure of every cause. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Aye"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "billfrith",
+  "name": "St. Billfrith",
+  "feastDay": "03-06",
+  "bio": "Billfrith is an obscure but remarkable Northumbrian saint of the eighth century. His name, thought to mean \"peace of the two-edge sword,\" hints at a man of both contemplation and craft. He is credited with providing the jewel and metalwork encrusting the former treasure binding of the Lindisfarne Gospels, one of the great achievements of early medieval art. Though little else of his life is recorded, his hands adorned the Word of God with gold and gems, uniting artistic skill with devotion. His feast is kept on March 6, and he is honored among the hidden workers whose craft served the glory of the Scriptures.",
+  "patronages": [
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "goldsmiths",
+      "category": "jobs"
+    },
+    {
+      "need": "artists",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Billfrith to adorn the Gospels with gold and precious stones, grant through his intercession that all who work with their hands may offer their craft to Your glory and find in their labor a share in Your creative wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Billfrith"
+  ],
+  "featured": false,
+  "draft": false
+}

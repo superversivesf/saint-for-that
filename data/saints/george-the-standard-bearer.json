@@ -1,0 +1,29 @@
+{
+  "slug": "george-the-standard-bearer",
+  "name": "St. George the Standard-Bearer",
+  "feastDay": "04-07",
+  "bio": "Saint George the Standard-Bearer, also known as Saint George the Confessor, served as Archbishop of Mytilene from 804 until his deposition in 815. His deposition came during the second wave of the iconoclast controversy, when emperors hostile to the veneration of icons removed bishops who refused to comply.\n\nHis title \"Standard-Bearer\" points to his steadfastness in holding the banner of orthodox faith when imperial policy shifted against the Church's tradition. He is venerated as a saint in the Eastern Orthodox Church, with a feast day on April 7. As a confessor of the faith, he endured loss of office rather than betray his convictions, leaving a witness of episcopal courage.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop George the courage to lose his see rather than betray your truth, grant through his intercession that we may bear your standard faithfully and prefer your approval to every earthly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_the_Standard-Bearer"
+  ],
+  "featured": false,
+  "draft": false
+}

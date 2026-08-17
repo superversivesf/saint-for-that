@@ -1,0 +1,21 @@
+{
+  "slug": "natalis-bishop-of-milan",
+  "name": "St. Natalis",
+  "feastDay": "05-13",
+  "bio": "Saint Natalis served as Archbishop of Milan in the mid-eighth century, governing that ancient and illustrious see during a period of transition in the Lombard kingdom of northern Italy. Though few details of his life and episcopate have come down to us, he is remembered as a faithful pastor who upheld the orthodox faith and tended to the spiritual needs of the people of Milan.\n\nHe is venerated as a saint both in the Eastern Orthodox Church and in the Roman Catholic Church, a testimony to the unity of the early undivided church and to the respect in which his memory was held across traditions.\n\nAs archbishop of one of the greatest sees of western Christendom, Natalis labored to maintain the discipline and devotion of his clergy and people. His feast is kept on 13 May.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Natalis the grace to govern the see of Milan with faith and devotion, grant through his prayers that all pastors may be faithful stewards of the mysteries you have entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Natalis_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

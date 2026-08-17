@@ -1,0 +1,25 @@
+{
+  "slug": "alkelda",
+  "name": "St. Alkelda",
+  "feastDay": "03-28",
+  "bio": "Saint Alkelda, also spelled Alcelda or Alchhild, was an Anglo-Saxon princess of whom almost nothing is known and whose very existence has been questioned by some scholars. Yet her cult took root deep in the devotional life of northern England, where churches were dedicated to her and pilgrims invoked her name for generations.\n\nTradition holds that Alkelda was a royal princess who embraced the religious life and was later seized and put to death for her faith. Whether she was a martyr, an anchoress, or both, her memory endured chiefly in Yorkshire, where a church at Middleham bears her name and where a holy well was associated with her. The people of the dales honored her as a patroness, especially in sickness and in times of danger.\n\nThe uncertainty that surrounds her life, far from dimming devotion, made her cult all the more intimate, a saint belonging to a particular place and people. Her feast is kept on March 28, and she is remembered among the holy women of the early English Church.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Alkelda among the faithful of England, grant through her intercession that those who seek healing may find in You the fountain of life and health. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alkelda"
+  ],
+  "featured": false,
+  "draft": false
+}

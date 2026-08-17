@@ -1,0 +1,29 @@
+{
+  "slug": "engelmund-of-velsen",
+  "name": "St. Engelmund of Velsen",
+  "feastDay": "06-21",
+  "bio": "Saint Engelmund of Velsen was an English-born missionary to the Frisians in the late seventh and early eighth centuries. Educated in his native land, he entered the Benedictine Order, was ordained a priest, and later became an abbot. Leaving the security of his English monastery, he crossed the sea to bring the Gospel to the pagan peoples of the Low Countries, labouring among them in the footsteps of Willibrord and Boniface. He died around 714 and was buried at Velsen in North Holland, where his shrine became a place of pilgrimage. He is traditionally invoked against toothache, a curious patronage that arose from local devotion. His feast is kept on 21 June, and he is honoured as one of the apostles of the northern lands.",
+  "patronages": [
+    {
+      "need": "dentistry",
+      "category": "illness"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Engelmund across the sea to preach the Gospel to the Frisians and to heal the ills of body and soul, grant through his intercession that we may bear the good news to those who do not know you and find relief in all our infirmities. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Engelmund_of_Velsen"
+  ],
+  "featured": false,
+  "draft": false
+}

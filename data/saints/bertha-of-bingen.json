@@ -1,0 +1,25 @@
+{
+  "slug": "bertha-of-bingen",
+  "name": "St. Bertha of Bingen",
+  "feastDay": "05-15",
+  "bio": "Saint Bertha of Bingen was the mother of St. Rupert of Bingen, and she raised her son in the faith of the Church in the Rhineland of the early eighth century. Her biography was written by Hildegard of Bingen, the great twelfth-century mystic and polymath, who lived in the same region and popularized Bertha's cult some four hundred years after her death. Hildegard recognized in Bertha a model of Christian motherhood and noble holiness, and through Hildegard's witness devotion to Bertha spread through the communities of the Nahe valley. Bertha and Rupert share a feast day on May 15, mother and son united in the calendar of the saints. She is remembered as a mother whose faith shaped a saint and whose memory was treasured by one of the Church's greatest women.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Bertha of Bingen the grace to raise a saintly son and moved St. Hildegard to preserve her memory, grant through her intercession that Christian mothers may nurture the seeds of holiness in their children. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bertha_of_Bingen"
+  ],
+  "featured": false,
+  "draft": false
+}

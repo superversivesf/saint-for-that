@@ -1,0 +1,25 @@
+{
+  "slug": "anselm-duke-of-friuli",
+  "name": "St. Anselm, Duke of Friuli",
+  "feastDay": "unknown",
+  "bio": "Anselm was the Lombard duke of Friuli from 749 to 751, a nobleman of high rank who nevertheless turned from worldly ambition to the service of God. After his tenure as duke, he laid aside the sword and founded the monastery of Nonantula, of which he became the first abbot, dedicating his later years to prayer, the governance of a religious community, and the cultivation of monastic life in northern Italy.\n\nBy his example Anselm showed that the goods of this world may be surrendered for the greater good of the kingdom of God. As a nobleman who became a monk, he is honored as a saint whose life bridged the worlds of secular authority and religious devotion. His foundation at Nonantula endured as a center of prayer and learning for centuries.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anselm from the honors of the world to the service of your house, grant through his intercession that we may esteem nothing above the love of your kingdom and order our lives in humble obedience to your will. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anselm%2C_Duke_of_Friuli"
+  ],
+  "featured": false,
+  "draft": false
+}

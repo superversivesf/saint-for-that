@@ -1,0 +1,25 @@
+{
+  "slug": "basil-the-confessor",
+  "name": "St. Basil the Confessor",
+  "feastDay": "02-28",
+  "bio": "The name Basil the Confessor is borne by two closely linked figures honored in the early Church: one a monk who suffered for the orthodox faith, and the other Bishop of Parium, a see on the Hellespont in Asia Minor. Both lived in the era of the iconoclast controversy, when the veneration of holy images was attacked by emperors and court prelates. As confessors, they bore witness to the truth of the faith without shedding their blood, enduring exile, harassment, and deprivation rather than consent to the destruction of the Church's sacred tradition. Their feast is kept on February 28. They are remembered for their steadfast defense of the icons and the Incarnational theology that the icons express: that the Word became flesh and dwelt among us.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Basil the Confessor to bear witness to the truth of the Incarnation in the face of imperial error, grant through his intercession that we may venerate Your holy images with faith and confess Your truth without compromise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

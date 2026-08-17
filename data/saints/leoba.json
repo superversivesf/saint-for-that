@@ -1,0 +1,37 @@
+{
+  "slug": "leoba",
+  "name": "St. Leoba",
+  "feastDay": "09-28",
+  "bio": "Leoba, also known as Lioba of Tauberbischofsheim and Leofgyth, was born around 710 and became an Anglo-Saxon Benedictine nun of remarkable learning and holiness. In 746 she and her companions left Wimborne Minster in Dorset to join her kinsman St. Boniface in his mission to the German people. Leoba played a leading role in founding Benedictine nunneries at Kitzingen and Ochsenfurt and was acclaimed for many miracles worked through her prayer: she saved a village from fire, delivered a town from a storm, protected the reputation of the nuns in her convent, and restored a fellow nun who was gravely ill. Her first letter to Boniface contains the earliest poetry known to have been written by an English woman. She died on 28 September 782, leaving a legacy of learning and missionary zeal.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "storms",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Leoba from England to assist St. Boniface in evangelizing the German people and adorned her with the gifts of learning, miracles, and contemplative prayer, grant through her intercession that women religious may flourish in holiness and that all who write and teach may bless Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leoba"
+  ],
+  "featured": false,
+  "draft": false
+}

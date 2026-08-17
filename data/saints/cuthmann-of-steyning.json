@@ -1,0 +1,33 @@
+{
+  "slug": "cuthmann-of-steyning",
+  "name": "St. Cuthmann of Steyning",
+  "feastDay": "02-08",
+  "bio": "Saint Cuthmann of Steyning, also spelled Cuthman, was an Anglo-Saxon hermit and builder of churches in Sussex. The surviving medieval legend paints him as a shepherd who, caring for his aged mother and unable to leave her, carried her in a cart as he wandered; when the rope broke he read the sign as divine direction to stop and settle there. At Steyning he built a church and gathered a community, laboring with his own hands and living in simplicity. His feast is kept on 8 February. Honored as patron of shepherds and of Steyning in West Sussex, he is remembered as a man whose obedience to providence turned a wanderer's stopping place into a house of God and a light for the surrounding countryside.",
+  "patronages": [
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Cuthmann to stop where his rope broke and there to build a house for Your name, grant through his intercession that we may recognize Your providence in the ordinary events of our days and labor faithfully where You place us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cuthmann_of_Steyning"
+  ],
+  "featured": false,
+  "draft": false
+}

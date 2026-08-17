@@ -1,0 +1,28 @@
+{
+  "slug": "hildulf",
+  "name": "St. Hildulf",
+  "feastDay": "unknown",
+  "bio": "Hildulf was an abbot and reputed bishop of Trier in the seventh century, remembered as the founder of Moyenmoutier Abbey in the Vosges valley of Alsace. A nobleman turned monk, he withdrew from the world to seek God in the silence of the forested mountains, and around his cell gathered brethren who shared his life of prayer and labor. Under his rule Moyenmoutier grew into a house from which the faith of the region was nourished, and his holiness spread through the valleys of the Rhine. Later tradition added the title of bishop of Trier to his name. He died in the latter half of the seventh century and was venerated in both the Catholic and Orthodox traditions, his feast kept on July 11. He is honored as a patron of monks and of those who build houses of prayer far from the busy world.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hildulf from the nobility of the world to found a house of prayer in the Vosges and to gather brethren around the worship of Your name, grant through his intercession that we may build communities of faith in our own day and learn to seek You in the quiet places of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildulf"
+  ],
+  "featured": false
+}
