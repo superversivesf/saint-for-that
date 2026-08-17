@@ -1,0 +1,29 @@
+{
+  "slug": "anastasius-i-of-antioch",
+  "name": "St. Anastasius I of Antioch",
+  "feastDay": "unknown",
+  "bio": "Anastasius I of Antioch served twice as Patriarch of Antioch, one of the most ancient and prestigious sees of Christendom, during a period marked by theological controversy and political unrest. His first patriarchate was interrupted by deposition, yet he was later restored to his throne, governing the Church with patience and pastoral resolve through cycles of exile and return. Little biographical detail has survived beyond the fact of his dual tenure and the honor paid to his memory, but he is venerated as a saint in the Catholic Church. His life recalls the fragility of ecclesiastical office in times of upheaval and the perseverance required of those entrusted with the care of divided sees.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Anastasius grace to govern your Church in times of trial and to return to his see after exile, grant through his intercession that all who suffer for the faith may remain steadfast and that your Church may be gathered again into one. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasius_I_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

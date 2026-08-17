@@ -1,0 +1,29 @@
+{
+  "slug": "zoora",
+  "name": "St. Zoora",
+  "feastDay": "10-08",
+  "bio": "Zoora, also called Z'ura the Stylite, was a Syrian monk and stylite of the Eastern Roman Empire in the 530s who spent long years atop a pillar in prayer and fasting. A prominent Miaphysite theologian and a close associate of Severus of Antioch, he was highly venerated within the Syriac Orthodox Church tradition for his ascetic rigor, his counsel to pilgrims who came to the foot of his column, and his steadfast confession of the faith as he understood it. The pillar made him visible to the world while it freed him from it, and his witness drew many to seek his intercession and his wisdom. His feast is kept on October 8 in the ancient calendars of the East.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Zoora to stand upon a pillar and to lift his heart above the things of earth, grant through his intercession that we may persevere in prayer and hold fast to the truth of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zoora"
+  ],
+  "featured": false,
+  "draft": false
+}

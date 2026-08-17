@@ -1,0 +1,21 @@
+{
+  "slug": "thelwine-of-lindsey",
+  "name": "St. Æthelwine of Lindsey",
+  "feastDay": "05-03",
+  "bio": "Æthelwine served as the second bishop of Lindsey from around 680, shepherding a fledgling Anglo-Saxon diocese in the kingdom of Mercia. He inherited the see founded by the first bishop, Eadhaed, and carried on the work of planting Christianity in the Lincolnshire countryside during a time of fragile conversion and shifting royal allegiances.\n\nLittle detail survives about his episcopate, but his memory endured among the faithful of Lindsey, who honored him as a saint after his death. His feast on May 3 recalls a bishop who labored quietly to build up the Church in one of England's earliest missionary dioceses, trusting that the gospel would take root in soil still wet with pagan custom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Æthelwine to build up your Church in Lindsey as its second bishop, grant through his intercession that all who shepherd your people may labor with patient faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwine_of_Lindsey"
+  ],
+  "featured": false,
+  "draft": false
+}

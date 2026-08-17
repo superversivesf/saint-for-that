@@ -1,0 +1,21 @@
+{
+  "slug": "tysul",
+  "name": "St. Tysul",
+  "feastDay": "01-31",
+  "bio": "Saint Tysul was a 5th-century pre-canonical saint and the patron of the churches of Llandysul in Ceredigion and Llandyssil in Montgomeryshire, Powys. His full name was Tysul ap Corun ap Cunedda—son of Corun, son of Cunedda—linking him to the royal line that shaped early Welsh kingdoms. He belongs to that earliest stratum of Welsh Christianity, before formal canonization processes existed, when holy men and women were recognized by the devotion of the people they served. His feast day is kept on 31 January. He remains a patron of the communities that still bear his name in the Welsh landscape.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Tysul as a patron to the churches of Llandysul and Llandyssil, grant through his intercession that we may serve You with the devotion of the early saints of Wales. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tysul"
+  ],
+  "featured": false,
+  "draft": false
+}

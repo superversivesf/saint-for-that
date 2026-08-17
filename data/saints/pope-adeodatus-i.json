@@ -1,0 +1,25 @@
+{
+  "slug": "pope-adeodatus-i",
+  "name": "St. Adeodatus I",
+  "feastDay": "11-08",
+  "bio": "Pope Adeodatus I, also called Deodatus or Deusdedit, was bishop of Rome from the nineteenth of October 615 until his death on the eighth of November 618. He was the first priest to be elected pope since John II in 533, and his pontificate fell during a time of upheaval in Italy, as war, famine, and plague pressed upon the city and its people. Ancient accounts remember him as a pastor devoted to his clergy, a supporter of the poor in a season of great want, and a man of tender charity toward the suffering. The first use of lead seals, or bullae, on papal documents is attributed to him, a small but enduring mark of his care for the orderly governance of the Church. His feast is kept on the eighth of November, the day of his death, and he is venerated as a shepherd who served quietly and faithfully in a difficult hour.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Adeodatus I a shepherd's heart for his clergy and for the poor of Rome in a time of trial, grant through his intercession that all who govern Your Church may serve with charity and order. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Adeodatus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

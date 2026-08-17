@@ -1,0 +1,25 @@
+{
+  "slug": "tecwyn",
+  "name": "St. Tecwyn",
+  "feastDay": "09-14",
+  "bio": "Saint Tecwyn is the patron saint and founder of Llandecwyn in the Welsh county of Gwynedd, a parish church set among the hills above the Traeth Bach estuary in Eifionydd. He is counted among the early Celtic saints who brought the Christian faith to the wild and remote corners of north Wales, establishing churches and communities in places where the Gospel had scarcely reached. Though little is recorded of his life, his memory endured for centuries in the church and parish that bear his name. He is one of the saints associated with the age of missionary monks who traveled by coracle and on foot to plant the cross among the peoples of the Welsh kingdoms, and his feast is kept on September 14.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Tecwyn to carry the Gospel to the remote hills of Gwynedd and to plant a church in Your name, grant through his intercession that we may bring the light of Christ to every forgotten place. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Tecwyn"
+  ],
+  "featured": false,
+  "draft": false
+}

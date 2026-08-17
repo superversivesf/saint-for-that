@@ -1,0 +1,21 @@
+{
+  "slug": "thelwold-hermit",
+  "name": "St. Æthelwold",
+  "feastDay": "unknown",
+  "bio": "Saint Æthelwold of Farne was a late seventh-century hermit who made his home on Inner Farne, a rocky islet off the coast of Northumberland in the kingdom of Northumbria. He followed in the footsteps of Saint Cuthbert, who had earlier lived as a hermit on the same windswept island, and took up the austere life of prayer and fasting that the Farne tradition demanded.\n\nSurrounded by the cold waters of the North Sea and the cries of seabirds, Æthelwold sought God in solitude, continuing the hermit lineage of one of England's holiest places. Little else is recorded of his life, but his veneration as a saint honors a man who exchanged the company of men for the company of God on a wave-lashed rock.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Æthelwold to seek you on the lonely rock of Inner Farne, grant through his intercession that those who crave solitude may find you waiting in the silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwold_(hermit)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "stylianos-of-paphlagonia",
+  "name": "St. Stylianos of Paphlagonia",
+  "feastDay": "11-26",
+  "bio": "Stylianos of Paphlagonia, also called Stylian the Hermit, was a saint from Adrianopolis in the province of Paphlagonia, in what is now northern Turkey. Embracing the solitary life, he devoted himself to prayer and fasting in the wilderness, and tradition holds that God granted him a special love and care for children. He is invoked as a patron of children and of barren women who long for a child, and his feast is kept on the twenty-sixth of November. His name, derived from the Greek word for pillar, speaks of the steadfastness of his ascetic life, and his intercession is sought by families across the Orthodox and Catholic world.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "infertility",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Stylianos a special love for children and a care for barren women, grant through his intercession that all families may be blessed with the gift of new life and all children protected under your watchful eye. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stylianos_of_Paphlagonia"
+  ],
+  "featured": false,
+  "draft": false
+}

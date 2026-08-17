@@ -1,0 +1,25 @@
+{
+  "slug": "ternan",
+  "name": "St. Ternan",
+  "feastDay": "06-12",
+  "bio": "Saint Ternan is venerated as the Bishop of the Picts, one of the earliest heralds of the Christian faith among the ancient peoples of Scotland. Little is recorded of his life, and historians place him variously in the mid-fifth century, associated with Saint Palladius, or in the latter sixth century. He is said to have been a disciple of Palladius and to have labored among the Picts of the Mearns, planting the Gospel in soil long dark with paganism. His see and shrine were associated with the region of Aberdeenshire, where his memory was kept for centuries. He is honored as one of the apostles of Scottish Christianity, who carried the cross into the north when the faith was still young, and his feast is kept on June 12.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Ternan as a bishop to the Picts and made him an apostle of the Scottish lands, grant through his intercession that the light of the Gospel may reach every people and nation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ternan"
+  ],
+  "featured": false,
+  "draft": false
+}

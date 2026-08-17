@@ -1,0 +1,25 @@
+{
+  "slug": "trillo",
+  "name": "St. Trillo",
+  "feastDay": "06-15",
+  "bio": "Saint Trillo is the patron saint and founder of the churches at Llandrillo in Denbighshire and Llandrillo yn Rhos at Rhos-on-Sea in Conwy County Borough, Wales. A sixth-century Celtic saint, he was one of the missionary monks who brought the Christian faith to the peoples of north Wales, establishing churches and communities in places where the Gospel had not yet taken root. At Rhos-on-Sea a tiny medieval chapel on the shore is traditionally associated with him, one of the most ancient and solitary Christian sites in Wales. He is counted among the noble band of Welsh founding saints whose labor planted the cross in the landscape of the Welsh kingdoms, and his feast is kept on June 15.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Trillo to found churches along the Welsh shore and to gather Your people in Your name, grant through his intercession that we may build communities of faith that endure through the ages. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Trillo"
+  ],
+  "featured": false,
+  "draft": false
+}

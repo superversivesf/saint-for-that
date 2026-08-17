@@ -1,0 +1,37 @@
+{
+  "slug": "ursus-of-aosta",
+  "name": "St. Ursus of Aosta",
+  "feastDay": "02-01",
+  "bio": "St. Ursus of Aosta was a sixth-century Italian evangelist who labored to plant the Christian faith in the alpine valleys of northwestern Italy. Honored as the apostle of the Aosta Valley, he is remembered for his tireless preaching among the mountain folk and for his care of the poor and sick. His cult spread through the towns of Ivrea and Cogne, where churches were dedicated to his name. From early times the faithful invoked him in childbirth, for children who die before baptism, and against faintness, kidney disease, and rheumatism. His feast on February 1 is kept in the dioceses of Aosta and Ivrea, and his relics are venerated at the collegiate church of Sant'Orso in Aosta.",
+  "patronages": [
+    {
+      "need": "childbirth",
+      "category": "family"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "chronic pain",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Ursus to evangelize the alpine valleys and to comfort the suffering, grant through his intercession that mothers may be sustained in childbirth and all who are afflicted in body find healing in Your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursus_of_Aosta"
+  ],
+  "featured": false,
+  "draft": false
+}

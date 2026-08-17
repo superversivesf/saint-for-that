@@ -1,0 +1,29 @@
+{
+  "slug": "yared",
+  "name": "St. Yared",
+  "feastDay": "05-19",
+  "bio": "Saint Yared was an Aksumite composer, hymnwriter, and scholar of the sixth century, credited with inventing the traditional music of Ethiopia and developing the chant of the Ethiopian and Eritrean Orthodox Churches. He helped establish liturgical music in the Coptic and Syriac Orthodox Churches and created the Ethiopian musical notation system, composing the Zema, the chant tradition of the Ethiopian-Eritrean Orthodox Tewahedo Churches, which are still performed today. Tradition holds that as a struggling student he was inspired by the sight of a caterpillar persistently climbing a tree to persevere in his studies, and afterward rose to greatness as a master of sacred song. His melodies shaped the worship of millions and his hymns remain living voices of African Christianity.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed Saint Yared with the gift of sacred music and made his hymns a living voice of Your Church, grant through his intercession that our worship may rise before You with beauty and truth, and that all who study Your mysteries may persevere to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yared"
+  ],
+  "featured": false,
+  "draft": false
+}

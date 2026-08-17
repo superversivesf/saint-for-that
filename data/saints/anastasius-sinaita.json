@@ -1,0 +1,33 @@
+{
+  "slug": "anastasius-sinaita",
+  "name": "St. Anastasius Sinaita",
+  "feastDay": "04-21",
+  "bio": "Anastasius Sinaita, also called Anastasius of Sinai or Anastasius the Sinaite, was a Greek writer, priest, and abbot of Saint Catherine's Monastery on Mount Sinai. He defended the orthodox faith against the Monophysites, the Monothelites, and other theological movements that troubled the Church in the seventh century, composing treatises and homilies of enduring value. As abbot of one of the most ancient monasteries in Christendom, he cared for a community rooted at the foot of the mountain where Moses received the Law. He was widely read in the East for his scriptural exegesis and his collection of ascetic and moral teachings, the Hodegos or Guide, which instructed monks and priests in the discipline of the spiritual life.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Anastasius the Sinaite skill to defend the faith and to guide souls along the path of holiness, grant through his intercession that all who study your Word may be illumined by your Spirit and made worthy teachers of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasius_Sinaita"
+  ],
+  "featured": false,
+  "draft": false
+}

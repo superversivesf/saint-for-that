@@ -1,0 +1,25 @@
+{
+  "slug": "bbe-of-coldingham",
+  "name": "St. Æbbe of Coldingham",
+  "feastDay": "08-25",
+  "bio": "Æbbe, sometimes called Tabbs, was an Anglian abbess and noblewoman of the seventh century. She was the daughter of Æthelfrith, king of Bernicia from around 593 to 616. Devoting herself to God rather than to the privileges of her royal blood, she founded monasteries at Ebchester and at St Abb's Head near Coldingham in Scotland, gathering communities of women around her in prayer and religious life. Though her monastery later suffered a tragic fire, her own witness as a foundress and spiritual mother endured in the memory of the northern Church. The headland still bears her name, a lasting monument to a princess who chose the cloister over the court.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Æbbe from a royal court to found houses of prayer in the northern lands, grant through her intercession that, setting aside worldly honors, we may build up Your Church in holiness and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86bbe_of_Coldingham"
+  ],
+  "featured": false,
+  "draft": false
+}

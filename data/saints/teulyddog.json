@@ -1,0 +1,21 @@
+{
+  "slug": "teulyddog",
+  "name": "St. Teulyddog",
+  "feastDay": "unknown",
+  "bio": "Saint Teulyddog was a medieval Welsh saint associated with Carmarthen, one of the oldest towns in Wales. Though few details of his life survive, he is counted among the early Celtic saints whose memory endured for centuries in the churches and place-names of the Welsh landscape. His name links him to the Christian heritage of Carmarthenshire, where the faith was planted and nurtured by generations of missionary monks and hermits. Like many of the Welsh saints, he is honored less for recorded deeds than for the lasting fruit of his devotion, a quiet witness to the holiness that once flourished in the valleys and hills of early Christian Wales.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who planted St. Teulyddog among the saints of Carmarthen and made him a quiet witness to Your truth, grant through his intercession that we may serve You faithfully in the place where You have called us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teulyddog"
+  ],
+  "featured": false,
+  "draft": false
+}

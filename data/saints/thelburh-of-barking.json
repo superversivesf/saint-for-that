@@ -1,0 +1,25 @@
+{
+  "slug": "thelburh-of-barking",
+  "name": "St. Æthelburh of Barking",
+  "feastDay": "10-11",
+  "bio": "Saint Æthelburh, also known as Ethelburga, was the founder and first abbess of Barking Abbey, one of the most celebrated monasteries of Anglo-Saxon England. She was the sister of Saint Earconwald, Bishop of London, and together these two holy siblings did much to establish religious life in the kingdom. At Earconwald's prompting, Æthelburh gathered a community of women at Barking and ruled them as abbess with wisdom and devotion. Under her care the abbey became a house of prayer and learning, producing other saints and offering a refuge for those who sought God. Her feast on October 11 honors a foundress whose quiet labor built a spiritual home that would endure for centuries.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Æthelburh established Barking Abbey as a house of prayer and a school of holiness, grant through her intercession that our homes and communities may be places where You are served with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelburh_of_Barking"
+  ],
+  "featured": false,
+  "draft": false
+}

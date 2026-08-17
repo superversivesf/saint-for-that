@@ -1,0 +1,25 @@
+{
+  "slug": "vakhtang-i",
+  "name": "St. Vakhtang I",
+  "feastDay": "unknown",
+  "bio": "Vakhtang I Gorgasali, of the Chosroid dynasty, was king of Iberia (ancient Kartli, in present-day Georgia) in the second half of the fifth and early sixth century. Called Gorgasali, \"wolf-head,\" for the wolf image on his helmet, he was a warrior king who defended his realm against Persian and Byzantine pressures. A devout Christian, he founded the city of Tbilisi and built numerous churches, including the great cathedral of Svetitskhoveli at Mtskheta. He labored to strengthen the Georgian church and defend the faith against Zoroastrian Persian influence. Honored as a saint in the Georgian Orthodox tradition, he embodies the long Christian heritage of the Georgian people.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Vakhtang courage to defend his kingdom and faith against hostile powers, grant through his intercession that all who bear arms may be defended in body and soul, and that the churches he founded may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vakhtang_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "tydecho",
+  "name": "St. Tydecho",
+  "feastDay": "unknown",
+  "bio": "Saint Tydecho was a 6th-century saint of Wales, one of the many holy figures who belong to the great Age of the Saints that shaped early medieval Welsh Christianity. Though the historical record of his deeds is sparse, his name was preserved in local devotion and in the churches and places that bear his memory. The Welsh saints of this era were often monks, hermits, or missionary preachers who established Christian communities in the remote valleys and hills, living lives of prayer and labor. Tydecho's feast is kept in the Welsh calendar, and he is remembered as one of those quiet witnesses whose holiness took root in the land itself.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of Saint Tydecho among the holy ones of Wales, grant through his intercession that we may walk in the quiet holiness of the early saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tydecho"
+  ],
+  "featured": false,
+  "draft": false
+}

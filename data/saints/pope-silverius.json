@@ -1,0 +1,21 @@
+{
+  "slug": "pope-silverius",
+  "name": "St. Silverius",
+  "feastDay": "06-20",
+  "bio": "Pope Silverius, bishop of Rome from June 536 until his deposition the following year, was caught in the crossfire of empires during the turbulent Gothic War. Raised rapidly from deacon to pope under the influence of the Ostrogothic king Theodahad, he was soon deposed by the Byzantine general Belisarius, tried, and sent to exile on the desolate island of Palmarola. There, abandoned and starving, he died in 537, faithful to his office to the last. His feast is kept on the twentieth of June, and he is honored as a martyr of the papacy, who suffered for his defense of the truth.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Silverius the grace to remain faithful amid exile and persecution, grant through his intercession that we may stand firm in truth whatever the cost. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Silverius"
+  ],
+  "featured": false,
+  "draft": false
+}

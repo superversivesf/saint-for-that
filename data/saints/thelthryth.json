@@ -1,0 +1,25 @@
+{
+  "slug": "thelthryth",
+  "name": "St. Æthelthryth",
+  "feastDay": "06-23",
+  "bio": "Æthelthryth, also called Etheldreda or Audrey, was an East Anglian princess, a Northumbrian queen, and the founding abbess of Ely. A daughter of King Anna of East Anglia, she was sister to Wendreda and Seaxburh, who also founded abbeys. She was, in turns, princess, wife, queen, nun, and abbess, enjoying every position a woman could claim in early Anglo-Saxon England, yet she preserved through each the consecrated virginity to which she felt called. After two marriages she withdrew to religious life and established the monastery at Ely, ruling as abbess until her death. She is invoked for throat complaints, for the cancer that killed her first affected her throat, which she bore patiently, gladly welcoming the affliction because she had once loved necklaces of jewels.",
+  "patronages": [
+    {
+      "need": "throat ailments",
+      "category": "illness"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned Saint Æthelthryth with royal dignity and yet greater holiness of life, grant through her intercession that, setting aside all earthly ornament, we may serve You in purity and bear our sufferings with patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelthryth"
+  ],
+  "featured": false,
+  "draft": false
+}

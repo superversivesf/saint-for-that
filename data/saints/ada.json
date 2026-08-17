@@ -1,0 +1,25 @@
+{
+  "slug": "ada",
+  "name": "St. Ada",
+  "feastDay": "12-04",
+  "bio": "Saint Ada was an abbess of the early medieval Church, venerated especially in the region of Le Mans in what is now France. She is remembered as the niece or granddaughter of Saint Englebert, bishop of Le Mans, and grew up under the shelter of a household already consecrated to God. Called to the religious life, she gave herself to prayer and to the governance of a community of nuns, guiding her sisters in holiness and in the ordered discipline of the cloister. Her feast is kept on the fourth of December, and ancient devotion honored her as a model of virginal dedication and of wise spiritual leadership. Though the details of her life are few, her name endured in the liturgy of the Church as one of the holy women who served Christ in the monastery.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Ada to govern her sisters in holiness and to serve You in the quiet of the cloister, grant through her intercession that all women consecrated to You may grow in wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ada"
+  ],
+  "featured": false,
+  "draft": false
+}

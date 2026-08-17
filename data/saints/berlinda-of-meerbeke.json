@@ -1,0 +1,33 @@
+{
+  "slug": "berlinda-of-meerbeke",
+  "name": "St. Berlinda of Meerbeke",
+  "feastDay": "02-03",
+  "bio": "Berlinda of Meerbeke was a Benedictine nun of noble descent whose memory is preserved in the village of Meerbeke in Flanders. According to her medieval legend, she was a pious young woman who, rejected by her kin or disappointed in the world, retired to a life of religion and was granted a place where she could serve God in solitude and prayer. She is invoked as a protectress of trees and against diseases of cattle, a patronage that connects her to the rural Flemish communities who honored her at their local shrines. Her feast is kept on February 3. Though the historical details of her life are sparse, her cult endured among the farming people of the region, who saw in her a heavenly intercessor for their fields, their livestock, and the quiet life of the countryside.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "environment",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Berlinda of Meerbeke a protectress of trees and a guardian of the animals your hands have made, grant through her intercession that we may tend your creation with reverence and receive your blessing on the labor of our hands. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berlinda_of_Meerbeke"
+  ],
+  "featured": false,
+  "draft": false
+}

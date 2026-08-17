@@ -1,0 +1,25 @@
+{
+  "slug": "simeon-stylites-the-younger",
+  "name": "St. Simeon Stylites the Younger",
+  "feastDay": "unknown",
+  "bio": "Simeon Stylites the Younger, also known as Simeon of the Admirable Mountain, is honored as a saint in both the Catholic and Eastern Orthodox Churches. Taking up the way of life pioneered by his earlier namesake, he spent years atop a pillar in the mountains of Syria, exposed to wind and weather, devoting himself unceasingly to prayer. Pilgrims came from far and wide to seek his counsel and witness his ascetic endurance. His feast day is not fixed in the universal calendar, but he is remembered as one of the great stylites whose towering witness drew the eyes of the world heavenward.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Simeon to climb his pillar and lift his heart to you, grant through his intercession that we may rise above earthly cares and fix our gaze on heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_Stylites_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

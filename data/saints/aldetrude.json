@@ -1,0 +1,21 @@
+{
+  "slug": "aldetrude",
+  "name": "St. Aldetrude",
+  "feastDay": "02-25",
+  "bio": "Aldetrude, also known as Aldetrude de Maubeuge, Aldetrude of Maubod, Aldetrudis, and Adeltrude, was a Christian saint who served as abbess of Maubeuge Abbey in the County of Hainault, now in northern France, from the year 684. She governed a community of women religious in one of the early Merovingian foundations of the Low Countries.\n\nMaubeuge Abbey had been established by her relative St. Aldegund, and Aldetrude carried forward its monastic life as its second abbess. Under her leadership the sisters pursued prayer, hospitality, and the disciplines of the Rule in a region still mission territory. Honored on February 25, she is remembered among the consecrated women who shaped the Church of early medieval Gaul through quiet, faithful governance.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Aldetrude to lead the sisters of Maubeuge as their abbess, grant through her intercession that women consecrated to you may govern with wisdom and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aldetrude"
+  ],
+  "featured": false,
+  "draft": false
+}

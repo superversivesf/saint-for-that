@@ -1,0 +1,25 @@
+{
+  "slug": "theodosius-the-cenobiarch",
+  "name": "St. Theodosius the Cenobiarch",
+  "feastDay": "01-11",
+  "bio": "Theodosius the Cenobiarch, called the Great, was born in Cappadocia in the fifth century and became one of the founding figures of communal monasticism in the Holy Land. Drawn to the desert, he established the great laura in the Judaean wilderness and gathered around him hundreds of monks, organizing them into the cenobitic way of life in which all things were held in common under a rule. He fed the poor, cared for pilgrims, and endured exile and hardship for the faith during the upheavals of his age. So great was his reputation that he was known simply as the Cenobiarch, the father of monks. His feast on January 11 honors a man whose vision of life in common shaped the monastic tradition of the Christian East for centuries to come.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gathered around your servant Theodosius in the desert a great company of monks and taught them to hold all things in common, grant through his intercession that we may live as one family in Christ and seek You with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+  ],
+  "featured": false,
+  "draft": false
+}

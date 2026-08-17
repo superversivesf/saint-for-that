@@ -1,0 +1,29 @@
+{
+  "slug": "avitus-ii-of-clermont",
+  "name": "St. Avitus II of Clermont",
+  "feastDay": "02-21",
+  "bio": "Avitus II of Clermont served as Bishop of Clermont in Auvergne from 676 to 689, governing the see in the waning decades of Merovingian Gaul. He is described as one of the great bishops of his age, a pastor who upheld the discipline and learning of the Church through a period of political transition and frequent disorder among the Frankish realms. His memory endured long enough to be honored in both East and West; he is venerated as a saint in the Eastern Orthodox Church, with a feast day on February 21, and his name was kept in the calendars of the Auvergne. He stands among the bishops of southern Gaul whose quiet fidelity preserved the Christian inheritance of Roman Gaul through the early Middle Ages.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Avitus a great bishop of his age and a keeper of learning in troubled Gaul, grant through his intercession that all pastors may be filled with wisdom and that your Church may be served by faithful and learned heralds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Avitus_II_of_Clermont"
+  ],
+  "featured": false,
+  "draft": false
+}

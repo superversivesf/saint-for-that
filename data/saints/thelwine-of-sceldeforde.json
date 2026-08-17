@@ -1,0 +1,21 @@
+{
+  "slug": "thelwine-of-sceldeforde",
+  "name": "St. Æthelwine of Sceldeforde",
+  "feastDay": "unknown",
+  "bio": "Æthelwine of Sceldeforde was a seventh-century saint venerated in the Roman Catholic and Eastern Orthodox churches, who lived in Anglo-Saxon England. Like several saints of his era, he is known to history chiefly through the Secgan Manuscript, an Old English hagiographic record that preserved the memory of holy men and women honored in the early English Church.\n\nAfter his death he was venerated as a saint, though some later scholars have questioned his historical authenticity. Even where the documentary record is thin, the devotion of the faithful attests to a life remembered as pleasing to God, and his name survives among the cloud of witnesses from England's first Christian centuries.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Æthelwine of Sceldeforde among the saints of Anglo-Saxon England, grant through his intercession that we may honor the faith of those who went before us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwine_of_Sceldeforde"
+  ],
+  "featured": false,
+  "draft": false
+}

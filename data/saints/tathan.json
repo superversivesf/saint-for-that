@@ -1,0 +1,29 @@
+{
+  "slug": "tathan",
+  "name": "St. Tathan",
+  "feastDay": "unknown",
+  "bio": "Saint Tathan was a fifth- or sixth-century Celtic saint who traveled from Ireland to Wales, where he founded a Christian church and is reckoned an early abbot of Caerwent. Dedications in his honor survive at Llanvaches near Caerwent, also known as Llandathan, and at St Athan in the Vale of Glamorgan. Tradition holds that he was a teacher of the great Saint Cadoc and that he brought the light of the Gospel to heathen peoples, undoing the work of Satan. Like many of the early Welsh saints, he is honored more for the fruit of his missionary labors than for recorded biographical detail, and his memory endured for centuries in the place-names and parish churches of southeast Wales.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Tathan from Ireland to Wales to bring the light of Christ to those in darkness, grant through his intercession that we may be faithful teachers of the Gospel and bearers of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tathan"
+  ],
+  "featured": false,
+  "draft": false
+}

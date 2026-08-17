@@ -1,0 +1,25 @@
+{
+  "slug": "balda-of-jouarre",
+  "name": "St. Balda of Jouarre",
+  "feastDay": "12-09",
+  "bio": "Balda of Jouarre served as the third abbess of Jouarre Abbey in north-central France, a monastery founded in the seventh century that became one of the great nurseries of Merovingian sanctity. She lived for many years as a nun under her nieces Theodichildis and Agilberta, who governed the community as abbesses before her, and she succeeded them in that office. Her nephew Agilbert served as bishop of Paris, and she may have been related to Sadalberga, another revered Frankish abbess. Balda governed the sisterhood with humility and steadiness, preserving the rule of prayer and hospitality established by the founders. Her memory endured among the monastic families of Gaul as a model of patient obedience and faithful leadership in the cloister.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Balda of Jouarre to govern her sisterhood with humility and grace, grant through her intercession that all who serve in religious life may be steadfast in prayer and faithful in leadership. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balda_of_Jouarre"
+  ],
+  "featured": false,
+  "draft": false
+}

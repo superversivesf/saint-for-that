@@ -1,0 +1,21 @@
+{
+  "slug": "thelred-and-thelberht",
+  "name": "St. Æthelred and Æthelberht",
+  "feastDay": "10-17",
+  "bio": "Saints Æthelred and Æthelberht, according to the Kentish royal legend, were princes of the Kingdom of Kent who were murdered in around the year 669 and later commemorated as saints and martyrs. Their story forms an important element in the legend of Saint Mildrith, because the monastery of Minster in Thanet is said to have been founded in atonement for the crime that took their young lives. Honored at Ramsey Abbey in Huntingdonshire and at Canterbury, these royal brothers were remembered as innocent victims whose blood cried out for repentance and whose deaths became the seed of a holy foundation. Their feast on October 17 recalls the price paid by the innocent and the mercy that builds upon even the darkest sins.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the innocent princes Æthelred and Æthelberht with martyrdom and turned the sorrow of their death into the foundation of a holy house, grant through their intercession that the innocent who suffer violence may find refuge in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelred_and_%C3%86thelberht"
+  ],
+  "featured": false,
+  "draft": false
+}

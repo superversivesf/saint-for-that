@@ -1,0 +1,25 @@
+{
+  "slug": "theodora-wife-of-justinian-i",
+  "name": "St. Theodora",
+  "feastDay": "06-28",
+  "bio": "Theodora was one of the most remarkable women of the Byzantine world. Born into a humble family, she rose to become the wife and empress of Emperor Justinian I, reigning from 527 until her death. Far more than a consort, she was Justinian's chief political adviser and a forceful advocate for the poor and for women trapped in exploitation, pressing laws against trafficking that were ahead of her age. The Eastern and Oriental Orthodox Churches honor her as a saint, remembering her feast on November 14. Though her past and her politics have long been debated, the Church reveres her as a woman who used the heights of imperial power to shelter the vulnerable and to seek justice in a world that seldom granted it to women of her station.",
+  "patronages": [
+    {
+      "need": "trafficking victims",
+      "category": "special"
+    },
+    {
+      "need": "the oppressed",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your servant Theodora to the throne of empire and moved her to use her power for the poor and the exploited, grant through her intercession that those entrusted with authority may defend the vulnerable and seek justice for the oppressed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodora_(wife_of_Justinian_I)"
+  ],
+  "featured": false,
+  "draft": false
+}

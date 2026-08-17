@@ -1,0 +1,29 @@
+{
+  "slug": "alena",
+  "name": "St. Alena",
+  "feastDay": "06-16",
+  "bio": "Alena, also known as Alène or Alina, was a Christian virgin martyr who died around the year 640 in Forest, near Brussels, in present-day Belgium. She was born to pagan parents and secretly embraced the Christian faith. When her father discovered she had been attending church without his consent, she attempted to flee but was caught and killed by his servants, becoming one of the earliest martyrs venerated in the Low Countries. She is invoked against toothaches and afflictions of the eyes, and her memory is still honored at the church of Forest, one of the nineteen municipalities of Brussels that grew up around the site of her burial.",
+  "patronages": [
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    },
+    {
+      "need": "dentistry",
+      "category": "illness"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin Alena with the palm of martyrdom before she had reached the fullness of years, grant through her intercession that all who suffer in body or in mind may find healing and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Alena"
+  ],
+  "featured": false,
+  "draft": false
+}

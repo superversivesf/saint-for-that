@@ -1,0 +1,25 @@
+{
+  "slug": "wenna",
+  "name": "St. Wenna",
+  "feastDay": "10-18",
+  "bio": "St. Wenna was a medieval princess and Christian martyr who flourished in Wales and Cornwall. Born of royal lineage in the Celtic kingdoms, she embraced the faith with fervor and, according to tradition, suffered martyrdom for her devotion to Christ. Her cult spread across the West Country, and she is honored at multiple churches in Cornwall and Devon, where her name was long kept in local calendars. The hagiographies of the Welsh and Cornish saints remember her among the royal women who chose Christ over the ease and prestige of their birth. Her feast on October 18 is kept in the dioceses of Truro and elsewhere in the West Country.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Wenna with the palm of martyrdom and preserved her memory in the churches of Wales and Cornwall, grant through her intercession that we may choose Christ above every earthly honor and bear witness to Him with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Wenna"
+  ],
+  "featured": false,
+  "draft": false
+}

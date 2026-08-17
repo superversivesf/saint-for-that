@@ -1,0 +1,21 @@
+{
+  "slug": "begnet",
+  "name": "St. Begnet",
+  "feastDay": "11-12",
+  "bio": "St. Begnet, also rendered Begneta, Begnete, Begnait or Becnait, is the patron saint of Dalkey, a coastal village south of Dublin in Ireland. Ancient tradition remembers her as a virgin, not a martyr, and her feast is kept on November 12. Two ruined churches bear her name, one on Dalkey Island and another near the fourteenth-century stone townhouse now serving as Dalkey Castle and Heritage Centre, in the locality known as Kilbegnet. A holy well beside the island's martello tower is likewise associated with her. Even her historicity is uncertain, and the playwright Hugh Leonard once remarked that in Dalkey no one troubles over whether she was a man or a woman, for in matters of sainthood such questions hardly matter.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence have preserved the memory of St. Begnet among the people of Dalkey, grant through her intercession that we may honor the saints of our own places and find in them companions for our pilgrimage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Begnet"
+  ],
+  "featured": false,
+  "draft": false
+}

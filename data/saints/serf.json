@@ -1,0 +1,21 @@
+{
+  "slug": "serf",
+  "name": "St. Serf",
+  "feastDay": "07-01",
+  "bio": "Saint Serf, also known as Serbán or Servanus, was a saint of Scotland venerated especially in western Fife. Often called the apostle of Orkney, he labored to bring the Christian faith to the peoples of northern Britain, though the historical details of his life remain shadowy. Tradition links him to Saint Mungo's Church near Simonburn in Northumberland, and churches dedicated to his name stand yet in the east end of Glasgow. His feast is kept on the first of July, and he is remembered as one of the early missionaries who planted the Gospel in Scottish soil.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Serf to sow the seed of the Gospel among the peoples of northern Britain, grant through his intercession that we too may bear faithful witness to your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Serf"
+  ],
+  "featured": false,
+  "draft": false
+}

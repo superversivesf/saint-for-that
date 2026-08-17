@@ -1,0 +1,33 @@
+{
+  "slug": "alypius-the-stylite",
+  "name": "St. Alypius the Stylite",
+  "feastDay": "11-26",
+  "bio": "Alypius the Stylite was a seventh-century ascetic saint who lived near Adrianople in the East. After early years of discipleship in a monastery, he took up the extraordinary life of a stylite, standing for decades on a pillar as a witness of penance and unceasing prayer. Disciples gathered around his column and he became a monastic founder, guiding a community of men who sought his counsel. During his lifetime he was a much sought-after starets, an elder whose wisdom drew both laity and religious. He is revered as an intercessor for the infertile and for young children, and his long years of suffering and stillness made his pillar a beacon of holiness for generations of Eastern Christians.",
+  "patronages": [
+    {
+      "need": "infertility",
+      "category": "illness"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Alypius to stand for long years on his pillar in patient intercession, grant through his merits that all who long for the gift of children may be filled with hope, and that all who seek You in silence may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alypius_the_Stylite"
+  ],
+  "featured": false,
+  "draft": false
+}

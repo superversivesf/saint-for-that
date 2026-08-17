@@ -1,0 +1,25 @@
+{
+  "slug": "tewdrig",
+  "name": "St. Tewdrig",
+  "feastDay": "04-01",
+  "bio": "Tewdrig ap Teithfallt was a king of the post-Roman Kingdom of Glywysing in Wales. After a reign marked by Christian devotion, he abdicated his throne in favor of his son Meurig and withdrew to live as a hermit, seeking God in solitude and prayer. Yet when a Saxon force threatened his people, the old king answered his son's call and rode once more at the head of the army. He won a great victory but was mortally wounded in the fray. Carried from the field, Tewdrig died at peace, a ruler who had laid down his crown for the cloister and then laid down his life for his people. His shrine at Mathern in Monmouthshire was for centuries a place of pilgrimage.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Tewdrig from the solitude of the hermit's cell to defend his people in their hour of need, grant through his intercession that those who bear the burden of rule may learn to lay down their lives for those they govern. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tewdrig"
+  ],
+  "featured": false,
+  "draft": false
+}

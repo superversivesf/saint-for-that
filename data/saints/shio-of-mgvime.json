@@ -1,0 +1,25 @@
+{
+  "slug": "shio-of-mgvime",
+  "name": "St. Shio of Mgvime",
+  "feastDay": "05-22",
+  "bio": "Shio of Mgvime, sometimes called Simeon of Mgvime, was a sixth-century anchorite and desert father, counted among the thirteen Assyrian apostles who brought the Gospel to the Georgian kingdom of Iberia. He introduced the ideal of strict ascetic life to the Georgian Church, withdrawing to a cave in the wilderness where he devoted himself to prayer and solitude. Venerated throughout Georgia, his feast is kept on the twenty-second of May. He is remembered as a thaumaturgus and one of the founding fathers of Georgian monasticism, whose witness shaped the spiritual landscape of the Caucasus.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Shio to the solitude of the wilderness and made him a father of monastic life in Georgia, grant through his intercession that we may seek you in silence and find you in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shio_of_Mgvime"
+  ],
+  "featured": false,
+  "draft": false
+}

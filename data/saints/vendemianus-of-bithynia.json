@@ -1,0 +1,29 @@
+{
+  "slug": "vendemianus-of-bithynia",
+  "name": "St. Vendemianus of Bithynia",
+  "feastDay": "unknown",
+  "bio": "St. Vendemianus, called the Hermit of Bithynia, was a solitary monk of the early sixth century who embraced the austere life of prayer and penance in the rugged hills of Bithynia, in Asia Minor. The region was a heartland of early monasticism, and Vendemianus joined the company of holy solitaries who sought God alone, fasting, keeping vigil, and battling the demons in the wilderness. He is remembered as a disciple of the great ascetic tradition of the East, where monks withdrew from the world to find it more truly in Christ. Though little recorded, his life speaks across the centuries of single-hearted devotion to God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Vendemianus to seek You in the solitude of Bithynia, grant through his intercession that we may learn to withdraw from the noise of the world and find You in the silence of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vendemianus_of_Bithynia"
+  ],
+  "featured": false,
+  "draft": false
+}

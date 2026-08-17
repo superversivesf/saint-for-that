@@ -1,0 +1,25 @@
+{
+  "slug": "ampelius-bishop-of-milan",
+  "name": "St. Ampelius",
+  "feastDay": "07-07",
+  "bio": "Ampelius served as Archbishop of Milan from 671 to 676, governing that great see in the turbulent decades that followed the Lombard conquest of Italy. Little detail of his life has survived, but he is honored as a saint in the Catholic Church and remembered among the line of holy bishops of Milan who preserved the faith through a period of political upheaval and transition. His feast is kept on July 7. As a successor of the apostles in a city already sanctified by St. Ambrose and St. Galdinus, Ampelius stands as a witness to the quiet fidelity of pastors who carried the Church through uncertain times without fame or recorded miracle.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ampelius grace to govern the Church of Milan in troubled days, grant through his intercession that all pastors may remain steadfast in faith and that your people may be kept in unity and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ampelius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

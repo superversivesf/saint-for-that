@@ -1,0 +1,25 @@
+{
+  "slug": "pope-benedict-ii",
+  "name": "St. Benedict II",
+  "feastDay": "05-07",
+  "bio": "Pope Benedict II served as bishop of Rome from June 26, 684 until his death on May 8, 685. Elected after a vacancy of more than a year, he was known for his learning in Scripture, his chanting of the psalms, and his generosity to the poor and to pilgrims who came to Rome. His short pontificate is remembered chiefly for his success in persuading the emperor to abolish the imperial confirmation that had long delayed papal enthronement, so that the Church of Rome might more freely govern its own succession. He also received the acts of the Sixth Ecumenical Council and saw them promulgated in the West. Honored as a saint in the Roman tradition, he is counted among the early medieval popes who tended the see of Peter with learning and pastoral care.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Benedict II a faithful shepherd of your Church and a friend to the poor and the pilgrim, grant through his intercession that the see of Peter may ever be governed with wisdom and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Benedict_II"
+  ],
+  "featured": false,
+  "draft": false
+}

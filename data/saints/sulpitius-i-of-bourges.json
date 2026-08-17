@@ -1,0 +1,21 @@
+{
+  "slug": "sulpitius-i-of-bourges",
+  "name": "St. Sulpitius I of Bourges",
+  "feastDay": "unknown",
+  "bio": "Sulpitius I, Bishop of Bourges and often called Sulpitius Severus or the Severe, shepherded the church of Bourges in early medieval Gaul. He is sometimes confused with Sulpicius Severus, the historian of Saint Martin of Tours, though the two were distinct. His feast day is not fixed in the universal calendar. Honored as a holy bishop, he is remembered among the pastors of the early French Church who labored to establish the faith in a land still finding its Christian footing, and his name endured in the liturgy of Bourges long after the details of his life had faded from memory.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Sulpitius a faithful shepherd of your church at Bourges, grant through his intercession that all bishops may govern with wisdom and sanctity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sulpitius_I_of_Bourges"
+  ],
+  "featured": false,
+  "draft": false
+}

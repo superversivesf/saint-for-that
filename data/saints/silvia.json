@@ -1,0 +1,25 @@
+{
+  "slug": "silvia",
+  "name": "St. Silvia",
+  "feastDay": "11-03",
+  "bio": "Silvia, also called Sylvia, was the mother of Pope Gregory the Great, one of the most influential pontiffs in the Church's history. She and her husband Gordianus raised their children in holiness, and two of her daughters entered religious life. Venerated as a saint by both the Catholic and Eastern Orthodox Churches, she is named a patroness of pregnant women, who invoke her for a safe delivery. Her feast is kept on the third of November. Honored for the sanctity of her motherhood, she stands as a model of the quiet holiness that forms saints within the walls of a home.",
+  "patronages": [
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Silvia a model of holy motherhood and the mother of a great pontiff, grant through her intercession that all expectant mothers may bear their children in safety and raise them in your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Silvia"
+  ],
+  "featured": false,
+  "draft": false
+}

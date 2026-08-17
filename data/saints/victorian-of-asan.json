@@ -1,0 +1,29 @@
+{
+  "slug": "victorian-of-asan",
+  "name": "St. Victorian of Asan",
+  "feastDay": "01-12",
+  "bio": "St. Victorian of Asan was a native of Italy who, fired with love for Christ, left his homeland to found monasteries and hospices for travelers, the sick, and the poor. After laboring for a time in France, he crossed into Spain and settled in the valley of Asan, in the Pyrenees, where he established a monastery that became a beacon of faith and charity. His hospices sheltered pilgrims and the destitute who braved the mountain roads. Honored as a holy abbot, he governed his monks with wisdom and extended Christ's care to all who came to his doors. His feast is kept on January 12 in the dioceses of Barbastro and Lleida.",
+  "patronages": [
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Victorian to found monasteries and hospices for the relief of the poor and the shelter of pilgrims, grant through his intercession that we may welcome the stranger and serve Christ in the suffering. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victorian_of_Asan"
+  ],
+  "featured": false,
+  "draft": false
+}

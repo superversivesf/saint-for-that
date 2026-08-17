@@ -1,0 +1,21 @@
+{
+  "slug": "ailer-n",
+  "name": "St. Ailerán",
+  "feastDay": "12-29",
+  "bio": "Ailerán, also known as Ailerán Sapiens, \"the Wise,\" was an Irish scholar and saint who died on December 29, 664 or 665. He served as a lector and teacher at the famous school of Clonard, one of the great monastic centers of early Christian Ireland, where generations of scholars were formed in Scripture and the liberal arts.\n\nHis epithet Sapiens marks him as one of the learned men of the seventh-century Irish Church, a tradition that prized both sanctity and study. Though little of his writing survives, his reputation as a wise teacher endured among his students and in the memory of the monastic schools. His feast on December 29 honors a scholar saint who sought God through the disciplined love of learning.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ailerán the gift of wisdom and a love of sacred learning, grant through his intercession that scholars may seek truth with humble and devout hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ailer%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

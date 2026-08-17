@@ -1,0 +1,25 @@
+{
+  "slug": "ufelwy",
+  "name": "St. Ufelwy",
+  "feastDay": "unknown",
+  "bio": "Saint Ufelwy was a 6th-century Welsh saint, remembered as a grandson of the great Gildas, the monastic scholar and historian of early Britain. Ufelwy served as a priest, bishop, and confessor, devoting his life to the pastoral care of the faithful in the Age of the Saints. He was granted land by church officials, upon which he built a church, extending the worship of God into the Welsh countryside. His memory links him to one of the most learned families of the early Welsh Church. His feast is kept in local tradition, and he is honored as a bishop and confessor who labored to establish Christian community in Wales.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Ufelwy to serve as priest, bishop, and confessor among the Welsh, grant through his intercession that we may be faithful shepherds of the souls entrusted to our care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ufelwy"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "tudglyd",
+  "name": "St. Tudglyd",
+  "feastDay": "05-30",
+  "bio": "Saint Tudglyd was a 6th-century saint of North Wales, said to be one of the seven sons of King Seithenyn, whose legendary kingdom of Cantre'r Gwaelod in Cardigan Bay was swallowed by the sea. Through that loss he and his brothers—Gwynhoedl, Merin, Tudno, and Senewyr among them—became numbered among the Welsh saints. Tudglyd is associated with the town of Llandudno, and the church of St Tudglyd in Penmachno is dedicated to him. His feast is kept on 30 May. He belongs to that great Age of the Saints when Wales was seeded with Christian communities by holy men and women.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered Saint Tudglyd among the holy ones of Wales, grant through his intercession that we may stand firm in faith even when the world shifts around us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tudglyd"
+  ],
+  "featured": false,
+  "draft": false
+}

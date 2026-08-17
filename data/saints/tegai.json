@@ -1,0 +1,21 @@
+{
+  "slug": "tegai",
+  "name": "St. Tegai",
+  "feastDay": "unknown",
+  "bio": "Saint Tegai is the patron saint and founder of Llandygai in the Welsh county of Gwynedd, a village lying at the foot of Snowdonia near the old slate quarries of Bethesda. She is counted among the early Celtic saints of north Wales, and though little is recorded of her life, her memory endured for centuries in the church and parish that bear her name. Some traditions associate her with the wave of missionary saints who planted Christian communities across the Welsh kingdoms in the age after the Roman withdrawal. She is honored as one of the holy women of early British Christianity, whose quiet founding work helped root the faith in the landscape and lives of the Welsh people.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Tegai to plant a church at the foot of the Welsh mountains and to root Your faith among her people, grant through her intercession that we may build Your kingdom in quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Tegai"
+  ],
+  "featured": false,
+  "draft": false
+}

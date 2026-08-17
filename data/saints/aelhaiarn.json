@@ -1,0 +1,21 @@
+{
+  "slug": "aelhaiarn",
+  "name": "St. Aelhaiarn",
+  "feastDay": "11-02",
+  "bio": "Saint Aelhaiarn, also spelled Aelhaearn, was a Welsh confessor and saint of the early British Church. He was a disciple of the great Saint Beuno, and from that holy teacher he received both the faith and the pattern of a devout life. His feast day was usually observed on November 2, though it is sometimes recorded as the first of the month, and it is no longer observed by either the Anglican or the Catholic church in Wales. The places Guilsfield and Llanaelhaearn preserve his name, marking the lands where his memory was once cherished. He stands among that ancient company of Welsh saints whose witness kept the faith alive in the hills and valleys of Britain before the great dioceses were drawn.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Beuno formed Saint Aelhaiarn in the way of holiness, grant through his intercession that we may be faithful disciples of those You set over us, and keep alive the faith in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aelhaiarn"
+  ],
+  "featured": false,
+  "draft": false
+}

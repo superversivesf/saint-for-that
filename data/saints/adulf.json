@@ -1,0 +1,21 @@
+{
+  "slug": "adulf",
+  "name": "St. Adulf",
+  "feastDay": "06-17",
+  "bio": "Saint Adulf was an Anglo-Saxon saint of the early English Church. Though the historical record preserves little of his life, he is counted among the noble company of saints who labored to plant the Christian faith in England during its formative centuries. His memory was kept in local calendars, and his feast was traditionally observed on June 17. Like many saints of that age, Adulf's holiness was attested by the devotion of the faithful rather than by written chronicles, and his example recalls the countless hidden laborers whose witness built up the Church in Britain.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in hidden ways raised up Saint Adulf among the early saints of England, grant through his intercession that we may labor faithfully for the spread of Your kingdom, even when our work goes unrecorded. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adulf"
+  ],
+  "featured": false,
+  "draft": false
+}

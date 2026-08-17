@@ -1,0 +1,25 @@
+{
+  "slug": "tryphine",
+  "name": "St. Tryphine",
+  "feastDay": "07-21",
+  "bio": "Saint Tryphine is a semi-legendary Breton saint whose story is often considered the basis of the tale of Bluebeard. The legend likely derives from a historical woman who was the wife of Conomor, an early and ruthless Breton ruler. According to tradition, Tryphine suffered greatly at his hands yet remained faithful and God-fearing. In Brittany she is widely revered as a patron saint of sick children and of expectant mothers whose babies are overdue. Her feast is kept on 21 July, and she remains a tender intercessor for mothers and little ones across the Breton countryside.",
+  "patronages": [
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Tryphine in her suffering and made her a tender patron of mothers and sick children, grant through her intercession that all who call upon her may find comfort and healing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tryphine"
+  ],
+  "featured": false,
+  "draft": false
+}

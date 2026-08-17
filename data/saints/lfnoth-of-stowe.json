@@ -1,0 +1,25 @@
+{
+  "slug": "lfnoth-of-stowe",
+  "name": "St. Ælfnoth of Stowe",
+  "feastDay": "02-27",
+  "bio": "Ælfnoth, also called Alnoth, was an English hermit and martyr of the medieval period. Little is recorded of his life, though he is mentioned in Jocelyn's life of Saint Werburgh as a pious neatherd at Weedon, who bore with great patience the ill-treatment of the bailiff placed over him. Later he withdrew to become a hermit in a very lonely spot, devoting himself entirely to prayer. There he was eventually murdered by two robbers, and so obtained the crown of martyrdom. His shrine at Stowe Nine Churches in Northamptonshire was a place of pilgrimage, honoring a humble servant who endured injustice meekly in life and met death bravely in solitude.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted Saint Ælfnoth the grace to bear ill-treatment with patience and to lay down his life in solitude for Your sake, grant through his intercession that we may endure injustice meekly and remain steadfast in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfnoth_of_Stowe"
+  ],
+  "featured": false,
+  "draft": false
+}

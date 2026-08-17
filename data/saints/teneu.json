@@ -1,0 +1,25 @@
+{
+  "slug": "teneu",
+  "name": "St. Teneu",
+  "feastDay": "07-18",
+  "bio": "Teneu is a legendary Christian saint venerated in medieval Glasgow, Scotland. Traditionally a sixth-century Brittonic princess of the ancient kingdom of Gododdin, she endured great suffering after being violated and cast out, yet she bore her son Mungo, who became the apostle to the Britons of Strathclyde and the founder of the city of Glasgow. She and her son are regarded as the co-patrons of Glasgow, and the city's St Enoch Square is said to mark the site of a medieval chapel built on or near her grave. She is commemorated annually on July 18. Teneu is honored as a model of fortitude and motherhood, who out of disgrace and exile raised a son whose holiness would shape a nation.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Teneu the grace to bear suffering with dignity and to raise a son who founded Your Church in Glasgow, grant through her intercession that all who are cast down may find refuge in You and rise to holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teneu"
+  ],
+  "featured": false,
+  "draft": false
+}

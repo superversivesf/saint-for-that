@@ -1,0 +1,25 @@
+{
+  "slug": "theognius-of-bethany",
+  "name": "St. Theognius of Bethany",
+  "feastDay": "01-11",
+  "bio": "Saint Theognius of Bethany was a monk and hermit of late antiquity, venerated in the Holy Land as one of the desert's quiet servants. The records of his life are sparse, but the Church has not forgotten the holiness of those who withdrew into solitude to seek God alone. He is numbered among the ascetics of the region around Bethany, the village of Lazarus and his sisters, who devoted themselves to prayer and the labor of the desert. His memory has endured in the calendars of the Eastern Churches, where his feast is kept on January 11 alongside other fathers of the monastic age. Theognius stands as a witness to the hidden holiness that has flourished wherever Christians have sought God in the silence of the wilderness.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Theognius to seek You in the solitude of the desert, grant through his intercession that we too may turn from the noise of the world and find You in the silence of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theognius_of_Bethany"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "tyfaelog",
+  "name": "St. Tyfaelog",
+  "feastDay": "unknown",
+  "bio": "Saint Tyfaelog was a 6th-century saint of Wales, connected to a small area near Brecon in south Powys where two churches bear his name: Llandyfaelog Tre'r-graig and Llandyfaelog Fach. Like many Welsh saints of the Age of the Saints, he is remembered chiefly through the places of worship that grew up around his memory. These churches, modest in origin, were centers of Christian life for the surrounding communities. The saints of this era labored quietly, planting the faith in the valleys and hills of Wales. Tyfaelog's feast is kept in local tradition, and he remains a patron of the churches that carry his name.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Tyfaelog to establish churches in the valleys of Powys, grant through his intercession that communities of faith may flourish wherever Your name is invoked. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tyfaelog"
+  ],
+  "featured": false,
+  "draft": false
+}

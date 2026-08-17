@@ -1,0 +1,29 @@
+{
+  "slug": "aurea-of-paris",
+  "name": "St. Aurea of Paris",
+  "feastDay": "10-04",
+  "bio": "Aurea of Paris, venerated as Saint Aurea of Paris, served as abbess of the monastery of Saint Martial in Paris in the seventh century, during the reigns of Dagobert I and Clovis II. As a Benedictine nun entrusted with the governance of a community of women in the bustling capital of the Frankish realm, she lived a life of prayer and discipline at a time when monastic foundations were shaping the religious life of Gaul. Her feast before the Great East-West Schism of 1054 was universally kept on October 4, and it remains so in the Orthodox Church, which honors her among the saints of the undivided Church. The Catholic celebration of her feast was later transferred to October 5 following the veneration of St. Francis of Assisi, but her memory endures as a quiet patron of Parisian monasticism.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "homemakers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Aurea to govern a community of women in the heart of Paris, grant through her intercession that all who serve you in the cloister may be found faithful, and that your people may learn the wisdom of a life hidden with Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurea_of_Paris"
+  ],
+  "featured": false,
+  "draft": false
+}

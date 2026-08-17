@@ -1,0 +1,21 @@
+{
+  "slug": "theodore-the-sacristan",
+  "name": "St. Theodore the Sacristan",
+  "feastDay": "02-11",
+  "bio": "Theodore served as a sacristan in the sixth-century Church of Saint Peter in Rome, tending the sacred vessels, preparing the altar, and keeping the house of God in order with quiet faithfulness. Though he held no great office and preached no famous sermon, his holiness was hidden in the daily service of the sanctuary. Pope Saint Gregory the Great, who wrote within living memory of Theodore, mentions him and bears witness to the veneration he received. From this humble witness the Church has remembered Theodore across the centuries as an example of the sanctity that can be found in the ordinary work of those who serve at the altar without seeking any reward but the Lord's.",
+  "patronages": [
+    {
+      "need": "altar servers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the hidden service of your servant Theodore at the altar of Saint Peter with the glory of the saints, grant through his intercession that all who serve your sanctuary may find their joy in humble duty and their reward in You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_the_Sacristan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "begu-nun",
+  "name": "St. Begu",
+  "feastDay": "10-31",
+  "bio": "Saint Begu was a nun of the Anglo-Saxon age who served at the monastic cell in the nunnery of Hackness, near Scarborough in Yorkshire. The house had been founded by St. Hilda of Whitby shortly before that great abbess's death, and Begu belonged to its first community in the kingdom of Deira. The historian Bede recounts that on the night St. Hilda died at Whitby, Begu, though miles away at Hackness, was granted a vision: she saw the soul of her beloved mother in Christ carried up to heaven in the company of angels. Rising, she told the sisters, who turned to prayer and learned at dawn that Hilda had indeed departed at the very hour of the vision. Begu is remembered for her closeness to Hilda and for the grace of spiritual fellowship that bound the early English convents together.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who comforted St. Begu with a vision of angels bearing the soul of St. Hilda, grant through her intercession that the bonds of charity among your servants may be strengthened, and that we may rejoice in the communion of your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Begu_(nun)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pope-adeodatus-ii",
+  "name": "St. Adeodatus II",
+  "feastDay": "06-17",
+  "bio": "Pope Adeodatus II, sometimes called Deodatus, was bishop of Rome from 672 until his death on the seventeenth of June 676. A monk before his election to the See of Peter, he devoted much of his pontificate to the repair and adornment of churches and to the quiet strengthening of the Church's life after a period of turmoil. He worked against the heresy of monothelitism, which had troubled the unity of East and West, and corresponded with Saint Adrian, the abbot of a monastery near Naples, encouraging regular observance among the monks. Ancient tradition recalls him as gentle, generous to the poor, and devoted to sacred worship. His feast is kept on the seventeenth of June, the day of his death, and he is remembered as a monastic pope who served peaceably and well in a comparatively quiet pontificate.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Adeodatus II a gentle pastor and a friend of monks, grant through his intercession that Your Church may be renewed in worship and held fast in the unity of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Adeodatus_II"
+  ],
+  "featured": false,
+  "draft": false
+}

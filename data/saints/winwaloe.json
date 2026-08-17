@@ -1,0 +1,29 @@
+{
+  "slug": "winwaloe",
+  "name": "St. Winwaloe",
+  "feastDay": "03-03",
+  "bio": "Winwaloe, a sixth-century Breton saint, was the founder and first abbot of Landévennec Abbey, also called the Monastery of Winwaloe, located just south of Brest in Brittany, now part of France. The son of a noble Cornish or Breton family, he was educated by Saint Budoc on an island off the coast and grew to maturity under that rigorous monastic discipline. Drawn to the eremitical life, he gathered disciples around him on the rocky shores of the Atlantic and established a community governed by prayer, manual labor, and the chanting of the psalms. His abbey became a cradle of Breton monasticism, sending out monks who carried the faith throughout the region. Ancient devotion ascribed to him intercession for fertility and the fruitfulness of fields, families, and labor, and his memory endured long in the piety of the Breton people.",
+  "patronages": [
+    {
+      "need": "fertility",
+      "category": "family"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Winwaloe to gather disciples on the shores of Brittany and to make fruitful both the land and the hearts of his people, grant through his intercession that our labor may be blessed and our families flourish in Your sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Winwaloe"
+  ],
+  "featured": false,
+  "draft": false
+}

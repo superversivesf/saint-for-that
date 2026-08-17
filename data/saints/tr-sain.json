@@ -1,0 +1,21 @@
+{
+  "slug": "tr-sain",
+  "name": "St. Trésain",
+  "feastDay": "02-07",
+  "bio": "Saint Trésain was an Irish missionary who crossed the sea to bring the Gospel to the Frankish lands of what is now France. Like so many of his countrymen in the early medieval age, he left his homeland to preach Christ where his name was not yet known, joining the great Irish diaspora of faith that evangelized continental Europe. His memory endured in local devotion, and his feast day has been kept on 7 February. Though details of his life are sparse, he stands as a witness to the missionary zeal of the early Irish Church, which sent monks and preachers across Europe to plant the seeds of Christian civilization.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Trésain from Ireland to proclaim the Gospel in foreign lands, grant through his intercession that we too may carry the light of Christ wherever we are called. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tr%C3%A9sain"
+  ],
+  "featured": false,
+  "draft": false
+}

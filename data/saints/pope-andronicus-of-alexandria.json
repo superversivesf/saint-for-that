@@ -1,0 +1,25 @@
+{
+  "slug": "pope-andronicus-of-alexandria",
+  "name": "St. Andronicus of Alexandria",
+  "feastDay": "01-16",
+  "bio": "Pope Andronicus of Alexandria served as the 37th Pope of Alexandria and Patriarch of the See of St. Mark, succeeding St. Anastasius in that ancient and venerable see. He governed the Coptic Church in a period of continued theological refinement and pastoral responsibility following the labors of his predecessor toward church unity. Little biographical detail has survived beyond the record of his office and the honor paid to his memory, but he is venerated as a saint in the Catholic Church. His feast is kept on January 16. He stands as a quiet witness to the succession of pastors who carried the See of St. Mark through an era marked by both doctrinal labor and the patient work of governance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Andronicus to govern the See of St. Mark in the succession of the apostles, grant through his intercession that all who lead your people may serve with humility and that your Church may be built up in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Andronicus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

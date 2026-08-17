@@ -1,0 +1,29 @@
+{
+  "slug": "aidan-of-lindisfarne",
+  "name": "St. Aidan of Lindisfarne",
+  "feastDay": "08-31",
+  "bio": "Aidan of Lindisfarne was an Irish monk and missionary credited with converting the Anglo-Saxons to Christianity in the kingdom of Northumbria. Sent from Iona at the request of King Oswald, he founded a ministry cathedral on the island of Lindisfarne, later known as Lindisfarne Priory, and served as its first bishop.\n\nAidan travelled ceaselessly throughout the countryside, spreading the gospel to both the Anglo-Saxon nobility and the socially disenfranchised, walking on foot from village to village so that he could speak with all he met. He founded churches, established schools, and lived with an austerity that won the respect of rich and poor alike. His feast on August 31 honors a missionary bishop whose gentle labor made Northumbria one of the cradles of English Christianity.",
+  "patronages": [
+    {
+      "need": "firefighters",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Aidan from Iona to kindle the faith in Northumbria, grant through his intercession that missionaries may carry the gospel with gentle zeal to every people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aidan_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

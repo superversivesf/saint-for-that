@@ -1,0 +1,29 @@
+{
+  "slug": "teilo",
+  "name": "St. Teilo",
+  "feastDay": "02-09",
+  "bio": "Saint Teilo, also known as Eliud, was a sixth-century British Christian monk, bishop, and founder of monasteries and churches across south Wales. Born at Penalun, near Tenby in Pembrokeshire, he was formed in the Celtic monastic tradition and studied under Saints Dubricius and Paulinus alongside his famed companion David. He traveled widely through Wales, Cornwall, and Brittany, preaching the Gospel, healing the sick, and founding churches wherever he went. He became bishop of Llandaff, and his shrine there drew pilgrims for centuries. He is honored as one of the three greatest saints of medieval Wales alongside David and Padarn, and a patron of the city and diocese of Cardiff.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Teilo a bishop, a founder of churches, and a missionary across the Welsh and Breton lands, grant through his intercession that Your Church may be built up by faithful shepherds and holy laborers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Teilo"
+  ],
+  "featured": false,
+  "draft": false
+}

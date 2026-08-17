@@ -1,0 +1,25 @@
+{
+  "slug": "pope-symmachus",
+  "name": "St. Symmachus",
+  "feastDay": "07-19",
+  "bio": "Symmachus, born on the island of Sardinia, was elected Bishop of Rome on 22 November 498, receiving the support of a majority of the Roman clergy. His election was immediately contested by a rival faction, and a bitter schism divided the Church for years. Though he faced false accusations, political intrigue, and even a synod that sought to judge him, Symmachus held firm to the authority of the Apostolic See, maintaining that the pope could not be tried by any earthly tribunal. He was vindicated and continued to govern the Church until his death on 19 July 514. During his pontificate he built churches, aided the poor, and supported refugees arriving in Rome. He is remembered as a defender of papal authority and a charitable shepherd amid turbulent times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Symmachus amid the storms of schism and made him a steadfast defender of Your Church, grant through his intercession that Your people may remain united in faith and their shepherds firm in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Symmachus"
+  ],
+  "featured": false,
+  "draft": false
+}

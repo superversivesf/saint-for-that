@@ -1,0 +1,29 @@
+{
+  "slug": "pope-anastasius-of-alexandria",
+  "name": "St. Anastasius of Alexandria",
+  "feastDay": "12-18",
+  "bio": "Pope Anastasius of Alexandria served as the 36th Pope of Alexandria and Patriarch of the See of St. Mark, leading the Coptic Church in an age when the great sees of the East were laboring for unity. Though at one point barred from the city of Alexandria, he persisted in pastoral care and met with the Patriarch of Antioch, working to arrange the unification of their two churches. His efforts at reconciliation across theological and ecclesial divisions show a pastor more concerned with healing the body of Christ than with preserving party lines. He is venerated as a saint in the Catholic Church, remembered as a quiet laborer for church unity in a fractured East.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who moved St. Anastasius to seek reconciliation between divided sees, grant through his intercession that the longed-for unity of all Christians may be achieved in truth and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anastasius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

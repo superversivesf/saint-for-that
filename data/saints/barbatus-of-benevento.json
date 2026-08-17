@@ -1,0 +1,25 @@
+{
+  "slug": "barbatus-of-benevento",
+  "name": "St. Barbatus of Benevento",
+  "feastDay": "02-19",
+  "bio": "Barbatus of Benevento, known also as Barbas, was bishop of Benevento in southern Italy from 663 until his death in 682. He succeeded Ildebrand in that see and shepherded a flock long entangled in pagan survivals and Lombard court politics. A zealous pastor, he preached against the worship of a sacred tree and the veneration of a golden serpent, winning his people, and at length their duke, to a more wholehearted faith. He assisted at a Roman council convoked by Pope Agatho in 680 and in 681 attended the Third Council of Constantinople, which condemned the Monothelite heresy and confessed the two wills of Christ. He died in 682, honored as a defender of orthodox teaching and a reformer of his diocese.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Barbatus of Benevento to uproot idolatry and confess the truth of your Son's two wills, grant through his intercession that your bishops may be courageous in reform and steadfast in doctrine. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+  ],
+  "featured": false,
+  "draft": false
+}

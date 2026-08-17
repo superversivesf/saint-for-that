@@ -1,0 +1,25 @@
+{
+  "slug": "pope-agatho",
+  "name": "St. Agatho",
+  "feastDay": "01-10",
+  "bio": "Pope Agatho served as bishop of Rome from June 27, 678 until his death on January 10, 681. During his brief but consequential pontificate he heard the appeal of Wilfrid of York, who had been displaced from his see by Theodore of Canterbury's division of the archdiocese, and he worked to restore justice among the English bishops.\n\nAgatho's greatest act was convening the Sixth Ecumenical Council, which settled the controversy of monothelitism and affirmed that Christ possessed two wills, divine and human, in one person. He sent legates to Constantinople with a letter confessing the orthodox faith, and the council's decrees brought peace to a Church long divided. Venerated by both Catholics and Orthodox, he is said to have been the longest-lived pope in history.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope St. Agatho wisdom to guide your Church and zeal to confess the truth of your Son's two wills, grant through his intercession that your people may be one in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Agatho"
+  ],
+  "featured": false,
+  "draft": false
+}

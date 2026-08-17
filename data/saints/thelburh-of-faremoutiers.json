@@ -1,0 +1,25 @@
+{
+  "slug": "thelburh-of-faremoutiers",
+  "name": "St. Æthelburh of Faremoutiers",
+  "feastDay": "07-07",
+  "bio": "Æthelburh, known in Latin as Ethelburga, was an Anglo-Saxon princess who became an abbess and saint. Leaving behind the privileges of her noble birth, she crossed the sea to devote herself to God in the monastic life at Faremoutiers in the kingdom of the Franks. There she rose to govern the community as abbess, guiding her sisters in the discipline of prayer and the observance of the rule. Her life is one of many from the Anglo-Saxon age that show royal women choosing the cloister over the court, carrying the faith from England to the monasteries of the Continent. Her feast on July 7 honors a princess whose true royalty was found in the service of Christ.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Æthelburh from a royal house to the governance of a monastery, grant through her intercession that, setting aside worldly rank, we may serve You in humility and prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelburh_of_Faremoutiers"
+  ],
+  "featured": false,
+  "draft": false
+}

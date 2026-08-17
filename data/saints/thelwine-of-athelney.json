@@ -1,0 +1,21 @@
+{
+  "slug": "thelwine-of-athelney",
+  "name": "St. Æthelwine of Athelney",
+  "feastDay": "11-26",
+  "bio": "Æthelwine of Athelney was a seventh-century hermit who made his home on the small island of Athelney, deep in the marsh country of Somerset. Surrounded by water and reed beds, he chose a life of solitude and prayer in a landscape that King Alfred himself would later use as a refuge.\n\nHe is known to us chiefly through the Secgan Manuscript, an Old English hagiographic record that preserves the memory of saints venerated in Anglo-Saxon England. After his death, honored on November 26, the faithful remembered him as one who turned from the world to seek God alone in the wilderness, joining the long line of hermits who found heaven in desolate places.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who drew St. Æthelwine into the solitude of Athelney's marshes to seek you alone, grant through his intercession that those who withdraw from the noise of the world may find you in silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwine_of_Athelney"
+  ],
+  "featured": false,
+  "draft": false
+}

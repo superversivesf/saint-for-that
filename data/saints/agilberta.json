@@ -1,0 +1,21 @@
+{
+  "slug": "agilberta",
+  "name": "St. Agilberta",
+  "feastDay": "08-10",
+  "bio": "Agilberta, also known as Aguilberta of Jouarre and Gilberta of Jouarre, was a Benedictine saint of seventh-century France. She was a relative of Ebrigisil and Ado, who founded the monastery of Jouarre in the département of Seine-et-Marne around the year 660, and she entered its community as a nun.\n\nAgilberta rose to become the second abbess of Jouarre, governing the sisters with wisdom in the early decades of that influential foundation. Her brother Agilbert served as bishop of Paris, and her sister Balda succeeded her as the third abbess, making the family a dynasty of holiness woven through the Frankish Church. Honored on August 10, she is remembered among the consecrated women who built up monastic life in medieval Gaul.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Agilberta to govern the sisters of Jouarre as their second abbess, grant through her intercession that women consecrated to you may serve with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agilberta"
+  ],
+  "featured": false,
+  "draft": false
+}

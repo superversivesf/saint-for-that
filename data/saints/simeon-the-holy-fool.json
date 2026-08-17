@@ -1,0 +1,25 @@
+{
+  "slug": "simeon-the-holy-fool",
+  "name": "St. Simeon the Holy Fool",
+  "feastDay": "unknown",
+  "bio": "Simeon the Holy Fool was a Christian monk, hermit, and saint of Byzantine-Syrian origin who lived in the sixth century. Venerated by the Eastern Orthodox and Roman Catholic Churches as one of the first 'fools for Christ,' he simulated madness so that he would not be venerated for his good deeds. He was seen dragging a dead dog through the streets, throwing nuts at women, and acting the imbecile, yet beneath this disguise lay a profound holiness and a sharp prophetic critique of human vanity. His feast day is not universally fixed, but he is remembered as a patron of those who seek humility through the paradox of the cross.",
+  "patronages": [
+    {
+      "need": "humor",
+      "category": "everyday"
+    },
+    {
+      "need": "mental illness",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, whose servant Simeon chose the folly of the cross to confound the wisdom of the world, grant through his intercession that we may seek humility above praise and truth above appearances. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_the_Holy_Fool"
+  ],
+  "featured": false,
+  "draft": false
+}

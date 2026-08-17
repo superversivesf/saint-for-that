@@ -1,0 +1,25 @@
+{
+  "slug": "berhtwald",
+  "name": "St. Berhtwald",
+  "feastDay": "01-09",
+  "bio": "Berhtwald was the ninth Archbishop of Canterbury, succeeding Theodore of Tarsus in 692 and governing the English Church until his death in 731. He was abbot of Glastonbury before his elevation and was the first in a continuous series of native-born archbishops of Canterbury, marking a maturing of the English Church beyond its missionary dependence on continental clergy. He consecrated bishops, held synods, and maintained the structures of pastoral care that Theodore had established. Bede, who knew him, describes him as a man learned in Scripture and experienced in ecclesiastical affairs, though less distinguished than his predecessor. His long episcopate, spanning nearly forty years, gave stability to the Church in a period of political change among the Anglo-Saxon kingdoms.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Berhtwald a faithful archbishop and a steadying hand for your Church in England, grant through his intercession that those who govern your household may be learned in your word and wise in pastoral care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berhtwald"
+  ],
+  "featured": false,
+  "draft": false
+}

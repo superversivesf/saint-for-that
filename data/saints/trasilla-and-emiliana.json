@@ -1,0 +1,25 @@
+{
+  "slug": "trasilla-and-emiliana",
+  "name": "St. Trasilla and Emiliana",
+  "feastDay": "unknown",
+  "bio": "Trasilla and Emiliana were the aunts of Pope Saint Gregory the Great and are honored as virgin saints of the sixth century. Devoted to prayer and the life of the home, they lived in Rome as the old Empire was passing away, and their quiet holiness helped shape the great pope who would lead the Church into a new age. The Roman Martyrology remembers Trasilla on December 24 and Emiliana on January 5, at the very threshold of the Lord's Nativity, as though they had kept vigil for the coming of Christ throughout their lives. Gregory himself spoke of them with reverence, and the Church has treasured their memory as an example of the consecrated virginity and the hidden fidelity that have flourished in every age of Christian life.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to your servants Trasilla and Emiliana the grace of virginity and a life of prayerful watching for the coming of Christ, grant through their intercession that we may keep vigil for the Lord with pure hearts and be found ready when He comes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trasilla_and_Emiliana"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "twrog",
+  "name": "St. Twrog",
+  "feastDay": "06-26",
+  "bio": "Saint Twrog was a 6th-century Welsh saint who came to Wales early in the Age of the Saints and founded the church at Maentwrog in what is now Gwynedd. He is also remembered for refounding the chapel on St Twrog's Island, extending the work of Christian worship into remote places. His name endures in the landscape itself, a mark of how deeply the early saints shaped the land they evangelized. His feast day is traditionally kept on 26 June. He stands among the countless holy men and women who, in the centuries after Rome withdrew from Britain, planted the faith in the valleys and hills of Wales.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Twrog to build churches in the wild places of Wales, grant through his intercession that we may make room for Your worship in every corner of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Twrog"
+  ],
+  "featured": false,
+  "draft": false
+}

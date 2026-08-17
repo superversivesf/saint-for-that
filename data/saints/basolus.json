@@ -1,0 +1,25 @@
+{
+  "slug": "basolus",
+  "name": "St. Basolus",
+  "feastDay": "unknown",
+  "bio": "Basolus, also called Basle, was a French Benedictine and hermit who lived from about 555 to 620. Born near Limoges, he entered religious life as a monk near Verzy in the Champagne region. Drawn to solitude, he withdrew to a hill near Reims and there spent forty years as a hermit, given to fasting, prayer, and the counsel of those who sought him out. Such was his reputation for holiness that pilgrims journeyed to his retreat, and after his death his tomb became a place of devotion. He is remembered among the hermit saints of Merovingian Gaul who shaped the Church not through high office but through the silent witness of a life hidden with Christ.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Basolus to forty years of solitude and prayer upon a hill near Reims, grant through his intercession that we may learn the interior silence that opens the heart to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basolus"
+  ],
+  "featured": false,
+  "draft": false
+}

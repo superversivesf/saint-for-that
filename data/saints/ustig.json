@@ -1,0 +1,21 @@
+{
+  "slug": "ustig",
+  "name": "St. Ustig",
+  "feastDay": "unknown",
+  "bio": "St. Ustig is counted among the sixth-century pre-congregational saints of Wales, one of the many Celtic holy men and women whose names survive in local calendars and church dedications though the details of their lives have faded into legend. The Welsh saints of this era were often monks, hermits, or minor chieftains who founded small churches and lived rigorous lives of prayer and penance in the rugged landscape of early medieval Britain. Ustig's memory was preserved by the communities that honored his name, a testimony to the deep roots of Christianity among the Celtic peoples. Like so many of the Welsh saints, he stands as a quiet witness to the faith handed on in humble places.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Ustig among the saints of Wales, grant through his intercession that we may treasure the faith handed on in humble places and live it with quiet devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ustig"
+  ],
+  "featured": false,
+  "draft": false
+}

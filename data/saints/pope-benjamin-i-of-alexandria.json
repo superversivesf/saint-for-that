@@ -1,0 +1,25 @@
+{
+  "slug": "pope-benjamin-i-of-alexandria",
+  "name": "St. Benjamin I of Alexandria",
+  "feastDay": "01-16",
+  "bio": "Pope Benjamin I was the thirty-eighth Pope of Alexandria and Patriarch of the See of Saint Mark, revered as one of the greatest patriarchs of the Coptic Church. He shepherded the Coptic faithful through extraordinary turmoil, encompassing the fall of Egypt to the Sasanian Persians, the brief Byzantine reconquest, and finally the Arab Islamic conquest in 642. During much of this upheaval Benjamin lived in exile, hiding from imperial agents who sought to enforce Chalcedonian conformity upon the Copts. After the Arab conquest he returned to Alexandria and resumed the patriarchate, gathering his scattered flock and restoring churches and monasteries. He guided the Coptic Church with courage through one of the most decisive transitions in the history of the Christian East.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Benjamin I of Alexandria through years of exile and restored him to his patriarchal throne, grant through his intercession that your Church, though scattered and tried, may stand firm in faith and abound in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Benjamin_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "berchert",
+  "name": "St. Berchert",
+  "feastDay": "12-06",
+  "bio": "Saint Berchert was an early medieval English monk who is commemorated in several churches in Ireland. He likely came to Ireland as part of the wave of Northumbrian exiles led by Bishop Colman of Lindisfarne following the Synod of Whitby in 664, when those who wished to hold to the Celtic Paschal reckoning departed the kingdom rather than accept the Roman usage. Settling in the Irish midlands, Berchert and his companions established monastic foundations that kept alive the traditions of Iona and Lindisfarne. His feast is celebrated on December 6. He is remembered as a bridge between the Northumbrian and Irish Churches, one of those quiet monks whose exile preserved a tradition of worship and learning that might otherwise have been lost.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Berchert from Northumbria to Ireland that the traditions of his fathers might be preserved, grant through his intercession that all who leave homeland for conscience sake may find welcome and a place to serve you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berchert"
+  ],
+  "featured": false,
+  "draft": false
+}

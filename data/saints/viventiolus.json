@@ -1,0 +1,25 @@
+{
+  "slug": "viventiolus",
+  "name": "St. Viventiolus",
+  "feastDay": "07-12",
+  "bio": "St. Viventiolus served as Archbishop of Lyon from 514 to 523, governing the primatial see of Gaul in the unsettled years following the fall of the Roman West. He succeeded St. Rusticus and was himself succeeded by St. Lupus, standing in a line of holy bishops who shaped the church of Lyon. He presided over a council at Lyon and worked to strengthen the discipline and faith of the clergy under his care. Honored as a saint within the Catholic Church and recognized also by the Orthodox among the pre-Schism Western saints, his feast is kept on July 12. He reminds us that the great sees of Gaul were built by many hidden pastors.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Viventiolus to govern the see of Lyon with wisdom and to labor for the unity of Your Church, grant through his intercession that all pastors may be instruments of peace and faithful guardians of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Viventiolus"
+  ],
+  "featured": false,
+  "draft": false
+}

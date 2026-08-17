@@ -1,0 +1,29 @@
+{
+  "slug": "zosimas-of-palestine",
+  "name": "St. Zosimas of Palestine",
+  "feastDay": "04-04",
+  "bio": "Zosimas of Palestine is commemorated as a Palestinian saint of the late antique Church whose memory is kept on the fourth of April. Ancient tradition associates him with the company of monastic elders who prayed and labored in the desert wastes beyond the Jordan, those solitaries who sought God in silence and whose counsel drew pilgrims from far away. He is honored alongside the great figures of Palestinian monasticism, men and women who made the wilderness a garden of prayer and whose fasting and vigil became a silent sermon. The calendars of East and West have preserved his name as a witness to the persevering life of the desert and to the communion of saints who shine from that land made holy by the steps of Christ.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Zosimas to the desert of Palestine as a witness to prayer and to the silent praise of Your name, grant through his intercession that we may seek You with undivided hearts and rest in the contemplation of Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zosimas_of_Palestine"
+  ],
+  "featured": false,
+  "draft": false
+}

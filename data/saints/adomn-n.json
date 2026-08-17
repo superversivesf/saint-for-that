@@ -1,0 +1,37 @@
+{
+  "slug": "adomn-n",
+  "name": "St. Adomnán",
+  "feastDay": "09-23",
+  "bio": "Adomnán, also known as Adamnán of Iona or Eunan, was abbot of Iona Abbey from 679 until 704, and a hagiographer, statesman, canon jurist, and saint of the early medieval Gaelic Church. He was the author of the Life of Columba, probably written between 697 and 700, by far the most important surviving work from early medieval Scotland and a vital source for knowledge of the Picts and of life in Iona. Born of a noble Irish kindred, he traveled to the court of Northumbria and there engaged Saint Wilfrid's party in debate over the dating of Easter, striving to bring the Columban communities into the Roman observance. At the Synod of Birr in 697 he promoted the Law of the Innocents, one of the earliest known codes protecting non-combatants from the ravages of war. He died in 704 and is venerated as patron of the Diocese of Raphoe.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "canon lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Adomnán a scholar's pen, a jurist's justice, and an abbot's care, grant through his intercession that we may seek truth in Scripture, defend the innocent in law, and govern Your people with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adomn%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

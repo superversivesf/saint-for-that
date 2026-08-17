@@ -1,0 +1,25 @@
+{
+  "slug": "thelburh-of-kent",
+  "name": "St. Æthelburh of Kent",
+  "feastDay": "04-05",
+  "bio": "Æthelburh of Kent, born around 601 and also spelled Æthelburg, Ethelburga, or known as Tate or Tata, was an early Anglo-Saxon queen consort of Northumbria and the second wife of King Edwin. As a Christian princess from Kent, her marriage to the pagan Edwin was arranged on the condition that she might practice her faith, and it became the channel through which the initial phase of the conversion of the pagan north of England to Christianity was begun. She bore the gospel into a court that knew it not, and her patient witness, together with the preaching of Paulinus, helped lead Edwin himself to baptism. Her feast on April 5 honors a queen whose quiet fidelity opened a kingdom to the light of Christ.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Æthelburh of Kent carried the light of the gospel into the northern kingdom of England, grant through her intercession that by our patient witness those who do not yet know You may be drawn to the font of new life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelburh_of_Kent"
+  ],
+  "featured": false,
+  "draft": false
+}

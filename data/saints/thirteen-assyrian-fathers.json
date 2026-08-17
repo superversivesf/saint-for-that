@@ -1,0 +1,25 @@
+{
+  "slug": "thirteen-assyrian-fathers",
+  "name": "St. Thirteen Assyrian Fathers",
+  "feastDay": "unknown",
+  "bio": "The Thirteen Assyrian Fathers are honored in the tradition of the Georgian Church as a company of monastic missionaries who came from Mesopotamia to Georgia in the sixth century to strengthen the Christian faith in that land. They founded monasteries and hermitages, kindled the ascetic movement, and rooted the Gospel in the soil of the Caucasus. Georgian church historians credit them with the establishment of several of the most ancient houses of prayer in the country and with the deepening of the monastic life there. Their feast is kept among the saints of Georgia, where they are remembered as the fathers who brought the desert tradition from the East and planted it among a people who would carry it forward for generations.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the Thirteen Assyrian Fathers to plant the monastic life in the land of Georgia, grant through their intercession that the Gospel may take root in every nation and bear fruit in holiness of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thirteen_Assyrian_Fathers"
+  ],
+  "featured": false,
+  "draft": false
+}

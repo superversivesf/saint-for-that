@@ -1,0 +1,29 @@
+{
+  "slug": "tathyw",
+  "name": "St. Tathyw",
+  "feastDay": "unknown",
+  "bio": "Saint Tathyw was a fifth-century saint of south Wales and the founder of a monastic school at Caerwent, the old Roman market town of the Silures. There he instructed many of the leading figures of the early Welsh church, gathering disciples around him in the pattern of the Celtic monastic founders. Though few details of his life survive, his work as a teacher and spiritual father shaped a generation of saints and clergy who carried the faith through the Welsh kingdoms. He is counted among that noble band of early British saints whose monasteries became the seedbeds of Christian learning and missionary zeal in the age after Rome's legions departed from Britain.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Tathyw to found a school of holiness at Caerwent and to instruct the saints of early Wales, grant through his intercession that all who teach the faith may shape hearts for Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Tathyw"
+  ],
+  "featured": false,
+  "draft": false
+}

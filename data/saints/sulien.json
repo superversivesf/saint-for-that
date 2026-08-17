@@ -1,0 +1,21 @@
+{
+  "slug": "sulien",
+  "name": "St. Sulien",
+  "feastDay": "07-29",
+  "bio": "Saint Sulien, also called Sulian or Silin, was the reputed sixth-century founder and abbot of a monastery at Luxulyan in Cornwall. His feast is kept on the twenty-ninth of July. Scholars suggest he may be the same saint as Sulien of Cornouaille and Domnonée in Brittany, for the prefix 'lux' in his monastery's name corresponds to the Breton 'loc,' meaning a sacred place, and is uncommon in Cornwall, suggesting a Breton foundation. He is remembered among the early monastic founders of the Celtic lands who carried the faith across the sea, planting communities of prayer along the rugged Cornish coast.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Sulien to found a monastery of prayer in the Cornish wilderness, grant through his intercession that we may build our lives on the firm foundation of your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sulien"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ursicinus-bishop-of-ravenna",
+  "name": "St. Ursicinus",
+  "feastDay": "09-05",
+  "bio": "St. Ursicinus served as Bishop of Ravenna from 533 to 536, governing that great Italian see during a turbulent era of Gothic rule and doctrinal strife. Though few details of his life survive, he is counted among the early bishops who preserved the faith in Ravenna, a city renowned for its luminous mosaics and stately churches. He is not to be confused with the earlier Ursicinus of Ravenna, a first-century martyr. His brief episcopacy fell between the reigns of bishops Peter II and Victor, and his memory was preserved in the diocesan calendars of Ravenna. Honored as a faithful pastor, he reminds the Church that many saints governed quietly, handing on the faith without fame.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ursicinus to govern the see of Ravenna with quiet fidelity, grant through his intercession that all bishops may preserve the faith with courage and hand it on untarnished. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursicinus_(bishop_of_Ravenna)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ed-dub-mac-colm-in",
+  "name": "St. Áed Dub mac Colmáin",
+  "feastDay": "01-04",
+  "bio": "Áed Dub mac Colmáin, also known as Áed of Kildare, was a former King of Leinster in Ireland who is venerated as a saint. After his time as a secular ruler, he turned to the service of God, and his memory was commemorated by the hagiographer Colgan under the date of January 4. Much obscurity attaches to the details of his life and work, yet the very fact of his veneration testifies that the people of Ireland saw in this once-powerful king a soul reconciled to God. His feast recalls the Irish tradition of holy kings who exchanged thrones for the cross, and whose repentance became a light to later generations.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in Your mercy received Saint Áed Dub mac Colmáin when he turned from earthly rule to seek Your kingdom, grant through his intercession that all who have wandered from Your path may find the grace of true conversion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%81ed_Dub_mac_Colm%C3%A1in"
+  ],
+  "featured": false,
+  "draft": false
+}

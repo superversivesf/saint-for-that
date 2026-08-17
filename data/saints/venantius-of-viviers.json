@@ -1,0 +1,21 @@
+{
+  "slug": "venantius-of-viviers",
+  "name": "St. Venantius of Viviers",
+  "feastDay": "unknown",
+  "bio": "St. Venantius served as Bishop of Viviers in the Ardèche region of southern France during the early centuries of the Church. Little is recorded of his life, but he is numbered among the bishops who shepherded the young church of Gaul through an era of turmoil and consolidation. The see of Viviers, carved from the rugged landscape along the Rhône, counted many holy pastors in its early centuries, and Venantius is honored as one who governed with fidelity. His memory was preserved in the local calendars and liturgies of the diocese. He reminds us that countless bishops served the People of God in obscurity, their names kept only by the communities they guided.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Venantius to shepherd the church of Viviers with steadfast care, grant through his intercession that all pastors may serve their people with holiness and endure in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venantius_of_Viviers"
+  ],
+  "featured": false,
+  "draft": false
+}

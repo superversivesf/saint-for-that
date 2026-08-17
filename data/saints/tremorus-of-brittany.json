@@ -1,0 +1,25 @@
+{
+  "slug": "tremorus-of-brittany",
+  "name": "St. Tremorus of Brittany",
+  "feastDay": "11-07",
+  "bio": "Tremorus of Brittany, known also as Tremeur, Treveur, and Tromeur, was a child martyr of the sixth century, one of the most touching figures of the age of saints in Armorica. His mother, Saint Triphina, had him baptized in secret against the wishes of his stepfather, Count Conmore, and gave him the baptismal name Gildas, after the wise teacher of that name, with the title Trech-meur to set him apart. While the boy was being educated at a monastery in Carhaix, Conmore, who hated the Christian faith, murdered him. Triphina withdrew to a convent after her son's death, and the Church took up the memory of the child as that of a witness who died young rather than deny the faith his mother had given him. His feast is kept on November 7.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the child Tremorus with the palm of martyrdom rather than let him deny the faith, grant through his intercession that the young and the weak may be kept safe in Your love and that all who suffer for Your name may share in the glory of Your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tremorus_of_Brittany"
+  ],
+  "featured": false,
+  "draft": false
+}

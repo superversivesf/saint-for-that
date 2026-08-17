@@ -1,0 +1,29 @@
+{
+  "slug": "annemund",
+  "name": "St. Annemund",
+  "feastDay": "09-28",
+  "bio": "Saint Annemund, also known as Annemundus, Aunemundus, Ennemond, and Chamond, served as Archbishop of the Archdiocese of Lyon in the seventh century. He was a councillor of King Clovis II and a friend of the young Wilfrid of York, whom he encouraged and supported during the latter's early ecclesiastical career. He governed the Church of Lyon in the complex politics of Merovingian Gaul, when the great Frankish sees were drawn into the rivalry of courts and nobles. The year of his death is variously given as 657 or 658. He is venerated as a saint in the Catholic Church, remembered as a pastor who held office at the intersection of throne and altar and who showed kindness to a future saint.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "seminarians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Annemund grace to serve your Church at Lyon and to encourage a younger laborer in the gospel, grant through his intercession that all pastors may guide with wisdom and that those who are called to your service may find faithful mentors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Annemund"
+  ],
+  "featured": false,
+  "draft": false
+}

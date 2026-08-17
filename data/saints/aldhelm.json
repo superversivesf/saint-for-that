@@ -1,0 +1,29 @@
+{
+  "slug": "aldhelm",
+  "name": "St. Aldhelm",
+  "feastDay": "05-25",
+  "bio": "Aldhelm, Abbot of Malmesbury Abbey and later Bishop of Sherborne, was a writer and scholar of Latin poetry born before the middle of the seventh century. He was said to be the son of Kenten, of the royal house of Wessex, though his early biographer Faritius wrongly claimed him as brother of King Ine.\n\nAldhelm combined learning with holiness: he wrote treatises, poems, and letters in Latin, encouraged the study of Scripture, and was famed for his eloquence in both Latin and Old English. As abbot he built Malmesbury into a center of monastic and intellectual life, and as bishop he served the western portion of Wessex until his death. Venerated after his death, his feast on May 25 honors a scholar-saint who wedded the love of letters to the love of God.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aldhelm gifts of learning and eloquence to serve your Church as abbot and bishop, grant through his intercession that scholars and writers may use their talents for your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aldhelm"
+  ],
+  "featured": false,
+  "draft": false
+}

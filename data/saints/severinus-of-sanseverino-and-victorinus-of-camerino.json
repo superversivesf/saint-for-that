@@ -1,0 +1,25 @@
+{
+  "slug": "severinus-of-sanseverino-and-victorinus-of-camerino",
+  "name": "St. Severinus of Sanseverino and Victorinus of Camerino",
+  "feastDay": "06-08",
+  "bio": "Saints Severinus of Sanseverino and Victorinus of Camerino were brothers in sixth-century Italy who served as bishops and hermits. Renouncing the world, they embraced the solitary life even while bearing the pastoral burden of the episcopate, and their witness blended the zeal of shepherds with the silence of contemplatives. Honored together on the eighth of June, they are remembered in the towns of Pioraco and Camerino, where their memory endured among the faithful who cherished the example of brotherhood consecrated wholly to Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the brothers Severinus and Victorinus to serve you as bishops and hermits, grant through their intercession that we may balance active service with contemplative rest in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severinus_of_Sanseverino_and_Victorinus_of_Camerino"
+  ],
+  "featured": false,
+  "draft": false
+}

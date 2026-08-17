@@ -1,0 +1,29 @@
+{
+  "slug": "adalgis-of-thi-rache",
+  "name": "St. Adalgis of Thiérache",
+  "feastDay": "06-02",
+  "bio": "Adalgis of Thiérache, also known as Adelgis and in French as Algis, Algise, Adalgisius, Adalgisus, or Aldegisus, was a seventh-century Irish saint who lived as a monk, priest, and missionary in the Frankish lands. He was active in Arras and Laon, founding parishes in the Diocese of Laon in Picardy, and is traditionally believed to have been a follower of Saint Fursey, the great Irish missionary to the Continent. Like many of his compatriots, he left his homeland to preach the Gospel among the peoples of northern Gaul, establishing churches and gathering Christian communities around the sacraments. His feast is kept on the second of June, and his memory endured in the piety of the region he evangelized. He is a witness to that great Irish diaspora of faith that shaped the Church in early medieval Europe.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Adalgis from Ireland to proclaim Your Gospel in the lands of Arras and Laon, grant through his intercession that missionaries may bear Your word with courage and that the communities they found may flourish in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalgis_of_Thi%C3%A9rache"
+  ],
+  "featured": false,
+  "draft": false
+}

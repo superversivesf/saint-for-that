@@ -1,0 +1,29 @@
+{
+  "slug": "theophilus-of-adana",
+  "name": "St. Theophilus of Adana",
+  "feastDay": "02-04",
+  "bio": "Theophilus of Adana, also called the Penitent, was a sixth-century cleric in Cilicia whose story became one of the oldest popular tales of a pact with the Devil and an inspiration for the later Faust legend. According to the account of Eutychianus, who claimed to have witnessed the events, Theophilus was offered an ecclesiastical office and, in a moment of despair and ambition, signed a contract with the Evil One to secure his position. Repenting almost at once, he fasted and prayed for forty days until the Blessed Virgin Mary appeared and obtained the return of the damning document. Theophilus died in peace, a trophy of divine mercy and a proof that no sin is beyond repentance for those who turn again to God.",
+  "patronages": [
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    },
+    {
+      "need": "scruples",
+      "category": "spiritual"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the intercession of the Blessed Virgin Mary restored to your servant Theophilus the bond he had surrendered to the Evil One, grant that all who have fallen into sin may turn back to You with repentant hearts and find in Your mercy the pardon they despair of. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophilus_of_Adana"
+  ],
+  "featured": false,
+  "draft": false
+}

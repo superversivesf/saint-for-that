@@ -1,0 +1,21 @@
+{
+  "slug": "tudno",
+  "name": "St. Tudno",
+  "feastDay": "06-05",
+  "bio": "Saint Tudno is the patron saint of Llandudno and the founder of its original parish church, which stands on the Great Orme peninsula overlooking the sea. He lived in the Age of the Saints, that flowering of Christian witness in early medieval Wales, and his name is forever linked to the town that bears it. The church of St Tudno, perched above the waters, recalls the simplicity and devotion of the first Welsh Christian communities. His feast day is kept on 5 June. He remains a quiet patron for the place that still carries his name and for all who worship there.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Tudno to found a church upon the rocky headland of Llandudno, grant through his intercession that all who worship there and in every place may cling to Christ the Rock. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tudno"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "wilgyth",
+  "name": "St. Wilgyth",
+  "feastDay": "unknown",
+  "bio": "St. Wilgyth of Cholsey was a sixth-century female monastic saint from Anglo-Saxon England, venerated locally in Berkshire. She lived in the early generations of English Christianity, when monastic life was taking root among the newly converted Anglo-Saxon peoples. Honored as a holy woman given to prayer and the religious life, she is remembered in the local cults of the Thames valley. Her veneration is shared across the traditions of Orthodoxy, Roman Catholicism, and Anglicanism, a witness to the common inheritance of the early English saints. Though little is recorded of her deeds, her name endured among the faithful who honored her as a model of consecrated virginity.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wilgyth to a life of prayer and consecrated virginity in early England, grant through her intercession that all who seek You in the religious life may persevere with joyful fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wilgyth"
+  ],
+  "featured": false,
+  "draft": false
+}
