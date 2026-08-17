@@ -1,0 +1,29 @@
+{
+  "slug": "m-l-of-ardagh",
+  "name": "St. Mél of Ardagh",
+  "feastDay": "02-06",
+  "bio": "Mél of Ardagh, also written Mel or Moel, was a fifth-century Irish saint and a nephew of Saint Patrick, the great apostle of Ireland. He was the son of Conis and of Patrick's sister Darerca, a woman revered as the \"mother of saints\" because so many of her children entered religious life and were themselves later recognized as holy. Consecrated a bishop through Patrick's hands, Mél became the first bishop of Ardagh, founding his church in what is now County Longford and laboring among the Irish as they were gathered into the Christian fold. Tradition holds that he lived in great austerity, entrusted with the care of a people only newly awakened to the Gospel. The Diocese of Ardagh honors him as patron and founder, and his feast is kept on February 6.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "jobs"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Mél to labor alongside Saint Patrick for the planting of your Church in Ireland, grant through his intercession that we may be steadfast in the faith he preached and zealous in spreading the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A9l_of_Ardagh"
+  ],
+  "featured": false,
+  "draft": false
+}

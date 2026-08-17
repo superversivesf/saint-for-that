@@ -1,0 +1,25 @@
+{
+  "slug": "menefrida",
+  "name": "St. Menefrida",
+  "feastDay": "07-24",
+  "bio": "Menefrida is a fifth-century Cornish saint associated with the parish of St Minver, near the Camel estuary in Cornwall, England. Her name survives in many spellings, Menefreda, Menwreda, Menfre, Mynfreda, and Minefreda among them, and the parish was known in the time of King Henry VIII as St. Menifryde, a witness to the long memory of her veneration. Like many early Celtic saints of Britain, she belongs to that age of missionary monasticism when the faith was carried into the western reaches of the island. Little certain history remains of her life, yet the place that bears her name kept her feast and honored her as a holy woman. She is remembered on July 24 as one who planted the Gospel in the soil of Cornwall.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Menefrida to a life of holiness in the land of Cornwall and preserved her memory among its people, grant through her intercession that we may be faithful witnesses to your Gospel in the place where you have set us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menefrida"
+  ],
+  "featured": false,
+  "draft": false
+}

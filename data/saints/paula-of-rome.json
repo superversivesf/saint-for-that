@@ -1,0 +1,29 @@
+{
+  "slug": "paula-of-rome",
+  "name": "St. Paula of Rome",
+  "feastDay": "unknown",
+  "bio": "Paula of Rome was an ancient Roman Christian saint and early Desert Mother, born into one of the richest senatorial families, which claimed descent from Agamemnon. At sixteen she married the nobleman Toxotius and bore five children, among them Saints Blaesilla, Paulina, Eustochium, and Rufina. Widowed in 385, she became a devoted disciple of St. Jerome, abandoned her patrician life, and in 385 followed Jerome to the East. Settling finally in Bethlehem, she established a convent for women, supported Jerome's scriptural labors, and mastered Hebrew to read the Scriptures. She gave away her vast fortune to the poor and to monasteries, dying in 404. One of the first abbesses, she is a patron of widows and of the religious communities that follow the way of St. Jerome.",
+  "patronages": [
+    {
+      "need": "widowers",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Paula to leave behind her noble inheritance and follow Your servant Jerome to Bethlehem, grant through her intercession that widows and all the bereaved may find in You their true inheritance and in Scripture their daily bread. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paula_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

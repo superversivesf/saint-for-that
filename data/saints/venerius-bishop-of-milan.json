@@ -1,0 +1,21 @@
+{
+  "slug": "venerius-bishop-of-milan",
+  "name": "St. Venerius",
+  "feastDay": "05-06",
+  "bio": "Saint Venerius served as Archbishop of Milan from 400 to 408, succeeding Saint Simplicianus in one of the most important sees of the Western Church. He governed during a turbulent age when the Roman world reeled from invasions and the Church contended with heresies. Devoted to his flock and steadfast in orthodoxy, Venerius carried forward the pastoral legacy of Saint Ambrose, whose memory still shaped the Milanese church. He is honored as a saint in the Catholic Church, and his feast is celebrated on May 6. Though the details of his life are sparse, his faithful stewardship of the archdiocese during difficult years earned him a place among the saints of Milan.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted Saint Venerius grace to govern the Church of Milan with fidelity, grant through his intercession that all bishops may shepherd their people with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venerius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "volusian-of-tours",
+  "name": "St. Volusian of Tours",
+  "feastDay": "unknown",
+  "bio": "Saint Volusian of Tours was the seventh Bishop of Tours, serving from 491 to 498 in a see made illustrious by his great predecessor Saint Martin. He governed the diocese during the difficult decades when Frankish rule was replacing Roman authority in Gaul and the Church stood as the one stable institution in a shifting world. Volusian shepherded the people of Tours with fidelity, carrying forward the pastoral and spiritual legacy of Martin in a time of political uncertainty and social upheaval. Though the record of his life is brief, the Church has long honored him as a saint, recognizing the quiet constancy of a bishop who served a troubled age without wavering. He is venerated in the Catholic Church as a faithful successor of the apostles.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Volusian a faithful bishop of Tours in days of turmoil, grant through his intercession that your Church may always find shepherds who serve with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Volusian_of_Tours"
+  ],
+  "featured": false,
+  "draft": false
+}

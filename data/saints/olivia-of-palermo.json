@@ -1,0 +1,29 @@
+{
+  "slug": "olivia-of-palermo",
+  "name": "St. Olivia of Palermo",
+  "feastDay": "06-10",
+  "bio": "Saint Olivia of Palermo was a Christian virgin-martyr venerated since the Middle Ages as a patron saint of Palermo, Sicily. One tradition places her in the fifth century, martyred at Tunis on June 10, 463. Another places her in the late ninth century, during the Muslim rule of Sicily, as a Christian who refused to abandon her faith.\n\nOlivia was honored not only in Palermo but across the Sicilian towns of Monte San Giuliano, Termini Imerese, Alcamo, Pettineo, and Cefalù. Her story blends ancient and medieval, but her witness as a virgin consecrated to Christ and a martyr who died rather than deny him remains constant.\n\nShe is invoked as a patron of Sicily. Her feast on June 10 recalls a woman whose fidelity to Christ shone in a land that did not know him.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your virgin-martyr Olivia the grace to prefer your love above all earthly things, grant through her intercession that we may remain faithful to you in every trial of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olivia_of_Palermo"
+  ],
+  "featured": false,
+  "draft": false
+}

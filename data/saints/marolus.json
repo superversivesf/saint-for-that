@@ -1,0 +1,21 @@
+{
+  "slug": "marolus",
+  "name": "St. Marolus",
+  "feastDay": "04-23",
+  "bio": "Saint Marolus served as Archbishop of Milan from 408 until 423, guiding the great Italian see during a turbulent era as the Western Roman Empire faced mounting pressure from barbarian incursions. He succeeded St. Simplicianus in the episcopal chair once held by St. Ambrose and labored to preserve the faith and discipline of the Church in Milan through years of political upheaval. He is honored as a saint in the Catholic Church and his feast day is celebrated on 23 April, recalling a pastor who shepherded his flock with fidelity in uncertain times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Marolus to shepherd the Church of Milan in troubled days, grant through his intercession that all bishops may govern with wisdom and steadfast faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marolus"
+  ],
+  "featured": false,
+  "draft": false
+}

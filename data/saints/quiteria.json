@@ -1,0 +1,29 @@
+{
+  "slug": "quiteria",
+  "name": "St. Quiteria",
+  "feastDay": "05-22",
+  "bio": "Quiteria was a fifth-century virgin martyr whose cult spread widely across the Iberian Peninsula and southern Gaul, though the details of her life are veiled in legend. She is listed under May 22 in the Roman Martyrology, and her chief shrine was at Toledo in Spain, where she is one of the patron saints of the city. Tradition gives her a royal lineage and recounts her refusal of an arranged marriage, her flight into the mountains, and her eventual capture and execution by the sword. The accounts place her among a sisterhood of martyred virgins and describe her as a protector of the vulnerable and a fierce opponent of the Roman order. In the medieval imagination she became a figure of defiance against tyrants and a patron of those who flee forced unions.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Quiteria courage to refuse a marriage that would betray her vow and to lay down her life for Your sake, grant through her intercession that we may defend the freedom of the conscience and stand with all who are pressed by the powerful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quiteria"
+  ],
+  "featured": false,
+  "draft": false
+}

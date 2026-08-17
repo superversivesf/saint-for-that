@@ -1,0 +1,29 @@
+{
+  "slug": "prosper-of-aquitaine",
+  "name": "St. Prosper of Aquitaine",
+  "feastDay": "06-25",
+  "bio": "Prosper of Aquitaine, also called Prosper Tiro, was a Christian writer and lay theologian of the early fifth century, a devoted disciple of St. Augustine of Hippo and the first continuator of Jerome's Universal Chronicle. Born in Aquitaine in Gaul around 390, he threw himself into the great theological contests of his age. He is best remembered as the champion of Augustine's doctrine of grace against the Semi-Pelagians, who held that the first stirrings of faith could arise from unaided human effort. He carried Augustine's cause to Rome and drew from the Popes letters affirming the priority of divine grace. He is credited with the axiom lex orandi, lex credendi, lex vivendi: the law of prayer is the law of belief and the law of life. He died around 455, his feast kept on June 25.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Prosper to defend the priority of Your grace and to see Your law at work in the prayer of the Church, grant through his intercession that we may trust not in our own strength but in Your unmerited gift. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+  ],
+  "featured": false,
+  "draft": false
+}

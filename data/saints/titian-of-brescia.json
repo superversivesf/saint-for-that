@@ -1,0 +1,21 @@
+{
+  "slug": "titian-of-brescia",
+  "name": "St. Titian of Brescia",
+  "feastDay": "03-03",
+  "bio": "Saint Titian of Brescia was a fifth-century bishop of Brescia in northern Italy, counted the fifteenth in the succession of that see. He succeeded Vigilius and was followed by Paul II, and his episcopate likely fell near the end of the fifth century, as the Church in Italy consolidated its life amid the decline of imperial rule.\n\nAs bishop, Titian shepherded the Christian community of Brescia with diligence, maintaining the faith and liturgy of his diocese in uncertain times. His shrine was venerated in the Church of Saints Cosmas and Damian in Brescia. His feast is kept on 3 March, and he is honoured as a confessor who preserved the Church in northern Italy through the passage from the ancient world to the medieval.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Titian a faithful shepherd of Your Church in Brescia, grant through his intercession that all pastors may guide their people with wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Titian_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "rabbula",
+  "name": "St. Rabbula",
+  "feastDay": "unknown",
+  "bio": "Rabbula served as bishop of Edessa from 411/412 until his death in August 435/436. A fierce defender of orthodox Christology, he opposed the teachings of Theodore of Mopsuestia and Nestorius, insisting on the unity of Christ's person. His successor Ibas, who led the school of Edessa, reversed Rabbula's official stance. Rabbula is not to be confused with the sixth-century scribe of the famous Rabbula Gospels. Venerated as a saint by the Oriental Orthodox Church, he is also commemorated in some Eastern Orthodox traditions on December 20. His episcopate shaped the theological life of Syriac Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Rabbula zeal to defend the unity of your Son's person against false teaching, grant through his intercession that we may hold fast to the orthodox faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rabbula"
+  ],
+  "featured": false,
+  "draft": false
+}

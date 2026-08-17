@@ -1,0 +1,21 @@
+{
+  "slug": "martinianus-bishop-of-milan",
+  "name": "St. Martinianus",
+  "feastDay": "01-02",
+  "bio": "Saint Martinianus served as Archbishop of Milan from 423 to 435, continuing the legacy of pastoral leadership begun by St. Ambrose and carried forward by his predecessors in the great Lombard see. He governed the Church of Milan during the final decades of effective Western Roman authority, guiding the faithful through a period of transition and strain. He is honoured as a saint in both the Catholic and Eastern Orthodox Churches, and his feast day is kept on 2 January, recalling a bishop who maintained the unity and discipline of his flock in difficult years.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. Martinianus with the care of the Church of Milan in days of trial, grant through his intercession that all who lead Your people may preserve unity of faith and constancy of heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martinianus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

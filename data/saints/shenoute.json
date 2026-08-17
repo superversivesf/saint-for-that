@@ -1,0 +1,37 @@
+{
+  "slug": "shenoute",
+  "name": "St. Shenoute",
+  "feastDay": "unknown",
+  "bio": "Shenoute of Atripe, also called Shenoute the Great or Shenoute the Archimandrite, was an Egyptian saint and the abbot of the White Monastery in Upper Egypt. He is considered a saint by the Oriental Orthodox Churches and is one of the most renowned saints of the Coptic Orthodox Church, a towering figure of Coptic monasticism whose influence shaped Egyptian Christianity for centuries.\n\nAs abbot, Shenoute governed thousands of monks and nuns, organizing the White Monastery into a vast community of prayer, labor, and worship. He was a fierce defender of the poor and of the orthodox faith, accompanying his monks to the Council of Ephesus in 431 and speaking boldly against pagan survivals and injustice. He wrote extensively in Coptic, and his sermons, letters, and rules preserve some of the richest Christian literature of Egypt. He is honored as a patron of monks, abbots, and contemplatives.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your abbot Shenoute a shepherd of monks and a fearless voice for the poor, grant through his intercession that contemplatives may persevere in prayer and that your Church may be renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shenoute"
+  ],
+  "featured": false,
+  "draft": false
+}

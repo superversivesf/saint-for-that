@@ -1,0 +1,25 @@
+{
+  "slug": "theodorus-i-bishop-of-milan",
+  "name": "St. Theodorus I",
+  "feastDay": "07-27",
+  "bio": "Theodorus I served as Archbishop of Milan from 475 to 490, shepherding that great see during the turbulent end of the Western Roman Empire. He governed his flock with pastoral care, preserving the liturgical and doctrinal traditions of the Ambrosian Church shaped by his predecessor St. Ambrose.\n\nHonoured as a saint in both the Eastern Orthodox and Catholic Churches, his feast is kept on 27 July. He stands among the early archbishops of Milan who preserved the faith through political upheaval and the migrations that reshaped Europe, a faithful pastor who guided one of the Church's most venerable sees through difficult days.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Theodorus a faithful shepherd of the Church of Milan in days of turmoil, grant through his intercession that all bishops may govern Your people with wisdom and preserve the unity of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodorus_I_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

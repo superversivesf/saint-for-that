@@ -1,0 +1,29 @@
+{
+  "slug": "sisoes-the-great",
+  "name": "St. Sisoes the Great",
+  "feastDay": "07-06",
+  "bio": "Sisoes the Great was one of the most revered of the desert fathers, a solitary monk who pursued asceticism in the Egyptian desert in the cave once inhabited by St. Anthony the Great. Taking up the mantle of the father of monasticism, he gave himself to silence, fasting, and unceasing prayer, drawing disciples who sought his counsel.\n\nRevered as a wonderworker, Sisoes was known for tears and compunction, weeping as he remembered death and the judgment to come. His sayings were treasured in the Apophthegmata, brief words that cut to the heart of the spiritual life and taught monks the way of humility.\n\nHis feast is kept on July 6 in both the Eastern and Western traditions. He stands as a witness to the power of repentance and the treasure hidden in the solitude of the desert.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Sisoes to seek You in the silence of the desert and made him a light of repentance, grant through his intercession that we may learn the humility of heart that draws near to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sisoes_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

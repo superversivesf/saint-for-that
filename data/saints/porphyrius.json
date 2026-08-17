@@ -1,0 +1,29 @@
+{
+  "slug": "porphyrius",
+  "name": "St. Porphyrius",
+  "feastDay": "02-26",
+  "bio": "Porphyrius was bishop of Gaza from 395 until his death around 420, remembered for Christianizing a city that clung stubbornly to its pagan temples. Born in Thessalonica around 347, he spent five years as a monk in the desert of Scetes before being ordained priest and consecrated bishop of Gaza, a see then dominated by the worship of Marnas. His episcopate was a long struggle against paganism. The Life of Porphyrius, written by his deacon Mark, recounts the threats he endured and the imperial decree, obtained through Empress Eudoxia, that authorized the destruction of the temples. The great Marneion was razed and a church raised upon its site. He died around 420 and was buried in the church he had built. Venerated as a zealous bishop, his feast is kept on February 26.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Porphyrius a faithful bishop and a tireless laborer in the conversion of Gaza, grant through his intercession that the Church may stand firm against every idol and draw all peoples to the truth of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Porphyrius"
+  ],
+  "featured": false,
+  "draft": false
+}

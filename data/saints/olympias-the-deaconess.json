@@ -1,0 +1,29 @@
+{
+  "slug": "olympias-the-deaconess",
+  "name": "St. Olympias the Deaconess",
+  "feastDay": "07-25",
+  "bio": "Olympias was a Christian Roman noblewoman of Greek descent, born into the highest ranks of Constantinople's society in the mid-fourth century. Orphaned young and widowed after a brief marriage to the senator Nebridius, she refused all further offers of marriage and devoted her great fortune to the Church and the poor. Ordained a deaconess, she became a close friend and steadfast supporter of St. John Chrysostom, Patriarch of Constantinople, standing by him during his exile and trials. She founded a community of consecrated women near the Great Church, dedicating her life to prayer, charity, and the service of the sick. After Chrysostom's exile she too suffered confiscation and exile, dying around 408. Venerated as a model of generosity and fidelity, she is honored on July 25.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Olympias the grace to devote her wealth and her life to Your Church and to the poor, grant through her intercession that we may be generous stewards of what we have received and steadfast in fidelity to those who labor for the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+  ],
+  "featured": false,
+  "draft": false
+}

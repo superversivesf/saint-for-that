@@ -1,0 +1,29 @@
+{
+  "slug": "proterius-of-alexandria",
+  "name": "St. Proterius of Alexandria",
+  "feastDay": "02-28",
+  "bio": "Proterius was Patriarch of Alexandria from 451 to 457, appointed by the Council of Chalcedon to replace the deposed Dioscorus and to guide the Egyptian Church to accept the council's definition. His patriarchate was spent laboring for the faith amid a populace largely hostile to Chalcedon. He had opposed Eutyches as a priest under Dioscorus, earning imperial trust. His see was contested by rival claimants who rejected Chalcedon. On Holy Thursday 457 a mob stormed the baptistery where he had taken refuge and killed him. Regarded as a hieromartyr by the Eastern Orthodox and Catholic Churches, his feast is kept on February 28.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Proterius with martyrdom as he labored for the unity of Your Church, grant through his intercession that we may confess the truth of Your Son with courage and seek the unity of all believers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Proterius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

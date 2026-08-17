@@ -1,0 +1,33 @@
+{
+  "slug": "simeon-stylites-iii",
+  "name": "St. Simeon Stylites III",
+  "feastDay": "unknown",
+  "bio": "Simeon Stylites III was a pillar hermit who bore the same name as the more famous Simeon Stylites and Simeon Stylites the Younger. Like them, he embraced the austere life of standing atop a pillar, devoting himself to unceasing prayer and bearing witness before a watching world to the call of the Gospel.\n\nThe details of his life are few, yet he shares in the broader tradition of the stylites, solitaries who made a pillar their home and their pulpit, drawing pilgrims who sought their prayers and counsel. Standing above the earth, they reminded the faithful that the Christian life is one of watchfulness, penance, and ceaseless turning toward heaven. He is honored among the hermits and contemplatives of the Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Simeon to the narrow height of a pillar that he might lift his heart to you, grant through his intercession that we may learn to watch and pray and to set our minds on things above. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_Stylites_III"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pishoy",
+  "name": "St. Pishoy",
+  "feastDay": "07-20",
+  "bio": "Pishoy, called the Star of the Desert and the Beloved of our Good Savior in the Coptic Orthodox Church, was a fourth-century Desert Father of the Nitrian Desert in Egypt. Drawn from his youth to the ascetic life, he became a disciple of St. Macarius the Great at Scetes, living in a cell hewn from rock and giving himself to ceaseless prayer and the weaving of baskets for his bread. Tradition holds that Christ appeared to him, washed his feet, and called him the beloved. His humility drew many disciples, and the monastery bearing his name at Scetes became a great center of Coptic monasticism. His body is said to remain incorrupt there to the present day. Known in the East as Paisios, he is honored as a model of purity and union with Christ in the desert.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Pishoy to the solitude of the desert and made him the beloved of Your Son, grant through his intercession that we may seek You above all things and find You in the stillness of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pishoy"
+  ],
+  "featured": false,
+  "draft": false
+}

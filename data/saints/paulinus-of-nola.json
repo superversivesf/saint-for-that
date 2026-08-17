@@ -1,0 +1,29 @@
+{
+  "slug": "paulinus-of-nola",
+  "name": "St. Paulinus of Nola",
+  "feastDay": "unknown",
+  "bio": "Paulinus of Nola, born Pontius Meropius Anicius Paulinus, was a Roman poet, senator, and governor who abandoned a brilliant career for the Gospel. Born into a noble Aquitanian family around 353, he served as suffect consul and governor of Campania, but, moved by the counsel of his wife Therasia and shaken by the assassination of Emperor Gratian, he was baptized as a Christian. After the death of their only son, he and Therasia renounced the world, gave their wealth to the poor, and Paulinus was eventually ordained and became bishop of Nola. There he wrote poems honoring St. Felix, corresponded with the great bishops of his age, and helped settle the disputed election of Pope Boniface I. He is credited with introducing bells to Christian worship. He died around 431.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Paulinus of Nola to trade the honors of the world for the service of the poor and the praise of Your saints, grant through his intercession that we may count all things as loss for the sake of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+  ],
+  "featured": false,
+  "draft": false
+}

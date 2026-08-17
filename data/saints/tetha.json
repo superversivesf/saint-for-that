@@ -1,0 +1,25 @@
+{
+  "slug": "tetha",
+  "name": "St. Tetha",
+  "feastDay": "unknown",
+  "bio": "Tetha, also known as Teath, Tecla, and other names, was a fifth-century virgin and saint venerated in Wales and Cornwall. She is associated with the parish church of St Teath in Cornwall, one of the holy places that preserve the memory of the early Celtic saints who carried the faith across the western seas.\n\nBaring-Gould gives her feast day as October 27, though this has been called a mistaken conflation with Saint Ia. In 1878 the feast was held on Whit Tuesday, and other sources place it on May 1, September 6, or January 15. Such shifting dates speak to the fragile memory of a saint treasured by the people yet fading from the calendars.\n\nNo longer observed in Wales, at St Teath her name endures in stone, a witness to the consecrated women who planted the faith in Cornwall.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your handmaid Tetha to a life of virginity and devotion in the lands of Wales and Cornwall, grant through her intercession that we may keep faith with the saints who have gone before us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tetha"
+  ],
+  "featured": false,
+  "draft": false
+}

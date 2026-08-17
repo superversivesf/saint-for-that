@@ -1,0 +1,29 @@
+{
+  "slug": "palladius-bishop-of-ireland",
+  "name": "St. Palladius",
+  "feastDay": "unknown",
+  "bio": "Palladius was the first bishop sent to the Christians of Ireland, arriving before the more famous mission of St. Patrick. A deacon from one of the prominent families of Gaul, he was consecrated bishop by Pope Celestine I and dispatched to Ireland to minister to the Scotti who already believed in Christ. Little is known of his ministry, though tradition suggests he labored chiefly in Leinster before dying, possibly in Britain, around 431. Some elements of his story were later conflated with Patrick's in Irish tradition, so his work was long overshadowed. Yet he stands as the first recorded bishop to bring the Gospel to Irish soil and as a quiet forerunner of a great mission. He is venerated especially in Leinster and Kincardineshire.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Your servant Palladius as the first bishop to the peoples of Ireland, grant through his intercession that those who bring the Gospel to new lands may labor with courage and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+  ],
+  "featured": false,
+  "draft": false
+}

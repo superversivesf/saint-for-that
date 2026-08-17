@@ -1,0 +1,29 @@
+{
+  "slug": "mercurialis-of-forl",
+  "name": "St. Mercurialis of Forlì",
+  "feastDay": "unknown",
+  "bio": "Mercurialis was the Christian bishop of Forlì, in the Romagna region of Italy, and is honored as the first prelate and patron of that city. Though the historical record of his life is sparse, tradition places him in the early centuries of the Church, when the faith was first taking root along the Via Aemilia. His memory endured powerfully in Forlì, where he was venerated as the founder of the local Church and a confessor of the ancient faith. Later medieval piety enriched his story with legends of miracles and of his defense of the city, and the cathedral came to bear his name. As the first bishop of Forlì, Mercurialis stands among the early Italian prelates who laid the foundations of Christian life. He is invoked as the heavenly patron of his diocese.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Mercurialis the first shepherd of your Church in Forlì and the patron of its people, grant through his intercession that we may be kept safe under the guidance of your saints and grow in the faith they first proclaimed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mercurialis_of_Forl%C3%AC"
+  ],
+  "featured": false,
+  "draft": false
+}

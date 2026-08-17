@@ -1,0 +1,21 @@
+{
+  "slug": "senator-bishop-of-milan",
+  "name": "St. Senator",
+  "feastDay": "05-28",
+  "bio": "Senator of Milan, also called Senator of Settala, served as Bishop of Milan from 472 to 475, in the turbulent years when the Western Roman Empire was drawing to its close. He succeeded a line of holy bishops that included Ambrose, and he governed the see with fidelity during a time of political upheaval and barbarian pressure. Honored as a saint in both the Eastern Orthodox and Catholic Churches, his feast is kept on May 28. He represents the last generation of bishops who tended the faithful through the twilight of Roman Italy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Senator a faithful shepherd in the twilight of an empire, grant through his intercession that the Church may stand firm in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Senator_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

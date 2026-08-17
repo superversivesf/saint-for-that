@@ -1,0 +1,21 @@
+{
+  "slug": "mauritius-ii-of-trier",
+  "name": "St. Mauritius II of Trier",
+  "feastDay": "unknown",
+  "bio": "Saint Mauritius, also called Mauricius, served as bishop of Trier from 398 or 399 to at least 407 and possibly as late as 419. The see of Trier was one of the most ancient and prestigious in Gaul, and Mauritius governed it during a period when the Roman frontier along the Rhine was under severe pressure from migrating peoples. He labored to maintain the worship and discipline of the Church while the civil order around him was weakening. He is remembered as a steadfast bishop who held his post through years of crisis, and his feast day is kept by local tradition without a fixed universal date.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Mauritius a faithful bishop of Trier in days of upheaval, grant through his intercession that those who lead Your Church may stand firm in faith when the world around them trembles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mauritius_II_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

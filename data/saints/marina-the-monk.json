@@ -1,0 +1,33 @@
+{
+  "slug": "marina-the-monk",
+  "name": "St. Marina the Monk",
+  "feastDay": "unknown",
+  "bio": "Marina, distinguished as Marina the Monk and also known as Marina the Syrian and Mary of Alexandria, was a Christian saint from the region of Asian Byzantium, generally said to be present-day Lebanon. According to the ancient tale, Marina was the daughter of a devout widower who, wishing to enter a monastery and unable to leave his child behind, disguised her as a boy and brought her under the name Marinus. She grew up in strict asceticism and deep prayer, her true sex known to none. When falsely accused of fathering a child, she accepted the charge in silence rather than reveal her identity, taking in the child as her own. After her death her secret was disclosed, and the monks were overcome with awe at her holiness. She is venerated as a patron of pregnant women and of girls.",
+  "patronages": [
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Marina the Monk grace to bear false accusation in silence and to follow Christ in humility, grant through her intercession that we may be patient in suffering and steadfast in the truth, and that you will protect expectant mothers and all who are unjustly accused. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marina_the_Monk"
+  ],
+  "featured": false,
+  "draft": false
+}

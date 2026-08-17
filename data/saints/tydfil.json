@@ -1,0 +1,21 @@
+{
+  "slug": "tydfil",
+  "name": "St. Tydfil",
+  "feastDay": "08-23",
+  "bio": "Saint Tydfil is the legendary dedicatee of Merthyr Tydfil in Wales, whose name means \"martyr Tydfil.\" According to tradition, she was a Welsh saint of the early medieval period, a daughter of the Christian community that flourished in Britain after the Roman withdrawal. The old parish church of St Tydfil in Merthyr Tydfil is dedicated to her and is reputed to be the site of her death, where she was martyred for the faith.\n\nThough historical details are scant, her veneration endured for centuries among the Welsh. The word \"merthyr\" in Welsh signifies a martyr's shrine, so the town itself stands as a memorial. Her feast is 23 August, and she is remembered among the early saints of Wales.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Tydfil with the palm of martyrdom in the hills of Wales, grant through her intercession that we may remain steadfast in the faith and loyal to the Gospel of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tydfil"
+  ],
+  "featured": false,
+  "draft": false
+}

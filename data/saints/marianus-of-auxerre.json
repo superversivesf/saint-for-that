@@ -1,0 +1,21 @@
+{
+  "slug": "marianus-of-auxerre",
+  "name": "St. Marianus of Auxerre",
+  "feastDay": "04-20",
+  "bio": "Saint Marianus of Auxerre was a monk who lived in the city of Auxerre in the Yonne region of France during the early medieval period. Little is recorded of the details of his life, but he was revered by the local faithful for the evident sanctity of his conduct and the depth of his devotion to God. He is remembered as a protector and intercessor for animals, and his feast day is observed on 20 April. Down through the centuries, the people of the region have invoked his intercession for the welfare of their livestock and domestic creatures.",
+  "patronages": [
+    {
+      "need": "animals",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Marianus of Auxerre a life of holiness and made him a protector of the creatures of field and home, grant through his intercession that we may show care and compassion for all living things entrusted to our stewardship. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marianus_of_Auxerre"
+  ],
+  "featured": false,
+  "draft": false
+}

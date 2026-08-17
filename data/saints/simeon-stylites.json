@@ -1,0 +1,29 @@
+{
+  "slug": "simeon-stylites",
+  "name": "St. Simeon Stylites",
+  "feastDay": "unknown",
+  "bio": "Simeon Stylites was a Syrian Christian ascetic who became one of the most extraordinary figures of late antiquity by living thirty-six years atop a pillar near Aleppo. Born in the late fourth century, he sought from his youth a life of ever deeper renunciation, first in monasteries and then as a hermit, before ascending his first column to give himself wholly to prayer.\n\nFrom his high perch Simeon preached, counseled pilgrims, and interceded for all who came, drawing crowds from across the Roman and Persian worlds. His radical devotion inspired a movement of stylite ascetics who followed his model of unbroken prayer.\n\nVenerated in the Catholic, Oriental Orthodox, and Eastern Orthodox Churches, he is known as Simeon Stylites the Elder, a witness to the heart's longing to ascend toward God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Simeon to ascend a pillar and there to seek You without ceasing, grant through his intercession that we too may lift our hearts above earthly things and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_Stylites"
+  ],
+  "featured": false,
+  "draft": false
+}

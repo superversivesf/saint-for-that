@@ -1,0 +1,37 @@
+{
+  "slug": "severus-of-trier",
+  "name": "St. Severus of Trier",
+  "feastDay": "unknown",
+  "bio": "Severus of Trier governed the see of Trier from about 445 or 446, shepherding the ancient imperial city in a generation when Roman authority along the Rhine was passing away. He labored among the Germanic peoples living in the regions of the lower Moselle and the Middle Rhine, proselytizing them and contributing to their conversion to the Christian faith.\n\nHis work as a frontier bishop, carrying the Gospel into the settlements of peoples newly arrived within the former Roman provinces, made him a quiet apostle of the Rhineland. He is remembered as a faithful shepherd who brought his neighbors to baptism at a time when the old order was dissolving, and he is invoked as a patron of missionaries and of Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Severus to preach to the peoples of the Rhine and to lead them to the waters of baptism, grant through his intercession that missionaries may carry the Gospel with courage and that new converts may be made steadfast. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

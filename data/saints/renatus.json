@@ -1,0 +1,21 @@
+{
+  "slug": "renatus",
+  "name": "St. Renatus",
+  "feastDay": "10-06",
+  "bio": "Saint Renatus is the name shared by a French and an Italian saint later merged into a single figure. Saint Renatus of Sorrento was an Italian bishop, while Saint Renatus of Angers was a French missionary bishop martyred for the faith. Their stories, partly legend and partly history, were woven together by medieval devotion. Honored in both Italy and France, Renatus is invoked as a patron of the city of Sorrento, where a statue preserves his memory. His cult reminds the faithful of the early spread of Christianity across Gaul and the Italian peninsula.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who united in a single devotion the memory of your servants Renatus of Sorrento and Renatus of Angers, grant through their intercession that the Church may be strengthened in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Renatus"
+  ],
+  "featured": false,
+  "draft": false
+}

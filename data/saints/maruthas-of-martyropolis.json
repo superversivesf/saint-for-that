@@ -1,0 +1,25 @@
+{
+  "slug": "maruthas-of-martyropolis",
+  "name": "St. Maruthas of Martyropolis",
+  "feastDay": "12-04",
+  "bio": "Saint Maruthas, also known as Marutha of Martyropolis, was a Syriac monk who became bishop of Maypherkat in Mesopotamia, a see also called Meiafarakin. He served as bishop for a period beginning before 399 and lasting to around 410, and he is believed to have died before 420. He is venerated as a saint in the Catholic, Greek Orthodox, and Oriental Orthodox Churches, and his feast is kept on 4 December. He is remembered for his pastoral care of a frontier diocese and for the reverence in which he is held across the ancient Churches of the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Maruthas from the monastic life to shepherd Your people in Martyropolis, grant through his intercession that monks and bishops alike may serve You with humble devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maruthas_of_Martyropolis"
+  ],
+  "featured": false,
+  "draft": false
+}

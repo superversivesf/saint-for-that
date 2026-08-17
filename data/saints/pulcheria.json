@@ -1,0 +1,29 @@
+{
+  "slug": "pulcheria",
+  "name": "St. Pulcheria",
+  "feastDay": "11-10",
+  "bio": "Aelia Pulcheria was an empress of the Eastern Roman Empire, born in 399, whose piety shaped the courts of her brother Theodosius II and husband Marcian. Orphaned young, she was raised in the faith and at fifteen took a vow of perpetual virginity, drawing her sisters into the same resolve and turning the palace into a house of prayer. As Augusta she advised Theodosius and wielded great influence in the affairs of the Church. A patron of the cult of the Virgin Mary, she supported the Council of Ephesus in 431, where Theotokos was affirmed. At Chalcedon in 451 her advocacy was again decisive. She married Marcian in 450 on condition her vow be respected and died in 453. Venerated as a saint in East and West, her feast is kept on November 10.",
+  "patronages": [
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Pulcheria a daughter of wisdom and a patron of Your Virgin Mother's honor, grant through her intercession that we may use whatever power we hold to glorify You and build up Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pulcheria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "theophilus-i-of-alexandria",
+  "name": "St. Theophilus I of Alexandria",
+  "feastDay": "10-15",
+  "bio": "Theophilus of Alexandria was the twenty-third Pope of Alexandria and Patriarch of the See of Saint Mark from 385 to 412, leading the Church of Egypt in a decisive age. He is remembered for his assertive role in suppressing paganism and managing the ecclesiastical disputes that shaped the early Church's doctrinal course.\n\nUnder his leadership the ancient temples of Alexandria were closed and their idols overturned, marking the triumph of the Cross in that great city. He defended the orthodox faith against rival teachings and asserted the authority of the Alexandrian see. His feast is kept on 15 October, and he is honoured as a fierce defender of the Church in an age of transition.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Theophilus a zealous defender of Your Church in Alexandria, grant through his intercession that we may be steadfast in faith and bold in proclaiming the Gospel of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophilus_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "victorian-frumentius-and-companions",
+  "name": "St. Victorian, Frumentius and Companions",
+  "feastDay": "03-23",
+  "bio": "Saint Victorian, Frumentius, and their companions were Christian martyrs killed at Hadrumetum in 484 during the persecution of Catholic believers by the Arian Vandals. Huneric, King of the Vandals, began persecuting Catholic priests and consecrated virgins in 480, and by 484 turned his fury on ordinary believers. Victorian was a wealthy Catholic of Hadrumetum whom Huneric had appointed proconsul, and he served the king loyally until ordered to renounce the Catholic faith and embrace Arianism. Victorian refused, and for his fidelity he was tortured and put to death, joined by Frumentius and others who would not betray Christ. Venerated in both the Catholic and Orthodox Churches, they stand as witnesses to the cost of conscience and the triumph of faith over persecution.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saint Victorian and his companions with martyrdom for refusing to abandon the true faith, grant through their intercession that we may remain steadfast when called to confess your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victorian,_Frumentius_and_Companions"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "peter-the-iberian",
+  "name": "St. Peter the Iberian",
+  "feastDay": "11-27",
+  "bio": "Peter the Iberian was a Georgian royal prince, theologian, and philosopher who became one of the most prominent figures of early Christianity in the East. Born around 411 to the royal house of Iberia (modern Georgia), he was sent as a hostage to Constantinople but soon devoted himself to ascetic and theological pursuits. Ordained a priest, he traveled to Jerusalem and founded a monastery, becoming a leading figure among the anti-Chalcedonian Christians of the fifth century. He was one of the founders of Christian Neoplatonism, a current that sought to reconcile Christian doctrine with the inheritance of Plato. Some scholars have claimed he is the author known as Pseudo-Dionysius the Areopagite. He died around 491. His feast is kept on November 27.",
+  "patronages": [
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Peter the Iberian wisdom to seek You in both prayer and philosophy, grant through his intercession that scholars and contemplatives alike may find in You the source of all truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Iberian"
+  ],
+  "featured": false,
+  "draft": false
+}

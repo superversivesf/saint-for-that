@@ -1,0 +1,25 @@
+{
+  "slug": "abba-tsahma",
+  "name": "St. Abba Tsahma",
+  "feastDay": "01-24",
+  "bio": "Abba Tsahma, also known as Sähma, was one of the Nine Saints of Ethiopia, monks who in the late fifth century travelled from the Roman East to the Kingdom of Aksum and planted the monastic life that shaped Ethiopian Christianity. Known as a scholar, Tsahma brought a love of learning and Scripture that enriched the young Church of Ethiopia.\n\nThe Nine Saints, fleeing the Christological controversies of the Eastern Church, found refuge in Christian Aksum. They established monasteries, translated sacred texts into Ge'ez, and taught the faith with depth, laying the intellectual and spiritual foundations of the Ethiopian Church. His feast is 24 January, and he is remembered as a learned monk and missionary of the African highlands.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Abba Tsahma to sow the seeds of learning and faith in the highlands of Ethiopia, grant through his intercession that all who seek wisdom may find it in the knowledge of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Tsahma"
+  ],
+  "featured": false,
+  "draft": false
+}

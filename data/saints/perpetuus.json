@@ -1,0 +1,29 @@
+{
+  "slug": "perpetuus",
+  "name": "St. Perpetuus",
+  "feastDay": "04-08",
+  "bio": "Perpetuus was the sixth Bishop of Tours, serving from around 460 until his death in 490. Born into a noble Gallo-Roman family, he governed the see of Tours during the turbulent decades that followed the collapse of Roman authority in Gaul. He is best remembered for his deep veneration of St. Martin of Tours, the great soldier-bishop of the previous century, under whose tomb he built a magnificent basilica, transforming the humble shrine into one of the chief pilgrimage sites of medieval France. Perpetuus also promoted the cult of the saints, encouraged the liturgical life of his diocese, and worked to establish order in a time of political upheaval. He died around 490 and was honored as a faithful shepherd in a difficult age. His feast is kept on April 8.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Perpetuus grace to honor the saints of Tours and to build a house worthy of Your servant Martin, grant through his intercession that we may reverence the saints and labor faithfully for Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Perpetuus"
+  ],
+  "featured": false,
+  "draft": false
+}

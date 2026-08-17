@@ -1,0 +1,37 @@
+{
+  "slug": "melania-the-elder",
+  "name": "St. Melania the Elder",
+  "feastDay": "06-08",
+  "bio": "Melania the Elder, known in Latin as Melania Maior, was one of the most remarkable of the Desert Mothers, an influential figure in the ascetic movement that flourished after Constantine made Christianity legal in the Roman Empire. Born into a wealthy patrician family, she renounced her riches to seek Christ in poverty and prayer, becoming a friend of Abba Macarius and the Desert Fathers of Egypt, of Jerome, Augustine, and Paulinus of Nola. On the Mount of Olives she founded two religious communities, a convent for herself and a monastery for monks dedicated to her companion Rufinus of Aquileia, among the earliest Christian monastic foundations. Honored in both East and West, her feast is kept on June 8, and she is remembered as a mother of monasticism and a model of holy renunciation.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Melania the Elder to leave behind the wealth of this world and seek you in the desert, grant through her intercession that we may set our hearts on the things of heaven and live with the freedom of those who follow Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melania_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

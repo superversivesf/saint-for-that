@@ -1,0 +1,25 @@
+{
+  "slug": "olcan",
+  "name": "St. Olcán",
+  "feastDay": "06-29",
+  "bio": "Saint Olcán was an early Irish saint of the Dál Riata, the Gaelic kingdom that stretched across the sea lanes between Ireland and Scotland. He was a disciple of Saint Patrick, who entrusted to him the work of establishing the Church in the northeast of Ireland, and he is remembered as the founder and first bishop of the monastery at Armoy in County Antrim.\n\nOlcán's monastery at Armoy became a center of Christian learning and pastoral care in a region still close to its pagan roots. As a bishop he ordained priests, taught the faith, and gathered a community of monks, following the pattern Patrick had established across the island.\n\nHis feast on June 29 places him alongside the apostles Peter and Paul, an honor for one who carried their Gospel to the northern coast of Ireland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Olcán a faithful disciple of Patrick and a founder of the Church at Armoy, grant through his intercession that we may hand on the faith we have received with the same devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olc%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

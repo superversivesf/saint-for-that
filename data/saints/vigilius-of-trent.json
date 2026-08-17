@@ -1,0 +1,21 @@
+{
+  "slug": "vigilius-of-trent",
+  "name": "St. Vigilius of Trent",
+  "feastDay": "06-26",
+  "bio": "Saint Vigilius of Trent is venerated as the patron saint and bishop of Trent, a city nestled in the alpine valleys of northern Italy. According to tradition, Vigilius labored to establish and strengthen the Christian faith among the people of Trent and the surrounding mountains during a formative period for the Church in the region. He is remembered as a zealous evangelist who worked to uproot the lingering pagan practices of the alpine villages and plant the Gospel in their place. His devotion endured long after his death, and he became the beloved heavenly patron of the city, the region of Tyrol, the Diocese of Bolzano, and of miners and mines, whose dangerous work beneath the earth commended them to his intercession. His feast is celebrated on June 26.",
+  "patronages": [
+    {
+      "need": "miners",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Vigilius a faithful shepherd of Trent and a patron of those who labor in the mines, grant through his intercession that all who work in danger may be protected and sustained. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vigilius_of_Trent"
+  ],
+  "featured": false,
+  "draft": false
+}

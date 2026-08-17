@@ -1,0 +1,29 @@
+{
+  "slug": "nilus-of-sinai",
+  "name": "St. Nilus of Sinai",
+  "feastDay": "11-12",
+  "bio": "Saint Nilus of Sinai, also called Nilus the Elder, was one of the many disciples and defenders of St. John Chrysostom in the early fifth century. He spent long years as an ascetic and monk in the desert, seeking God in silence, fasting, and unceasing prayer.\n\nNilus was a prolific writer of spiritual treatises and ascetic instructions. His writings guided monks and laypeople alike in the path of contemplation, the struggle against vice, and the interior life. When Chrysostom was persecuted and exiled, Nilus defended him with pen and voice, and he himself was eventually driven into exile.\n\nIn his writings Nilus taught that the monk's cell is the workshop of the soul and that continual prayer is the path to union with God. He is remembered on November 12 as a father of the desert.",
+  "patronages": [
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught your servant Nilus to seek your face in the silence of the desert and to guide others through his writings, grant through his intercession that we may learn the art of interior prayer and remain steadfast in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nilus_of_Sinai"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nicasius-of-rheims",
+  "name": "St. Nicasius of Rheims",
+  "feastDay": "12-14",
+  "bio": "Saint Nicasius was Bishop of Reims in the early fifth century, when barbarian invasions threatened the Christian communities of Gaul. He founded the first cathedral at Reims, later replaced by the great Gothic cathedral where the kings of France were crowned, laying a cornerstone for one of the most venerable churches of Christendom.\n\nAccording to tradition, Nicasius was martyred as the Vandals swept through the region. He is said to have met his death at the threshold of his own church, offering himself so that his people might be spared. His fidelity made him one of the most beloved patrons of the city.\n\nFrom ancient times he has been invoked as the patron saint of smallpox victims, attributed to his intercession in times of plague. His feast is celebrated on December 14.",
+  "patronages": [
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your bishop and martyr Nicasius with the palm of victory, grant through his intercession that those who suffer from disease and pestilence may find healing and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+  ],
+  "featured": false,
+  "draft": false
+}

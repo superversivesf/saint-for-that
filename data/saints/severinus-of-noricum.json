@@ -1,0 +1,37 @@
+{
+  "slug": "severinus-of-noricum",
+  "name": "St. Severinus of Noricum",
+  "feastDay": "01-08",
+  "bio": "Severinus of Noricum, hailed as the \"Apostle to Noricum,\" appeared along the Danube after the death of Attila in 453, when the Roman frontier was collapsing. He refused to reveal anything of his personal history, but he spoke of his experiences with eastern desert monasticism, and his vita draws connections between him and Saint Anthony of Lérins. Coming perhaps from southern Italy or from the Roman province of Africa, this mysterious monk gave himself wholly to the peoples of Noricum, wandering the ruined outposts of the Danube to preach the Gospel, establish monasteries, and care for the poor and frightened.\n\nClothed in poor garments and living in strict asceticism, Severinus prophesied the course of battles, comforted the terrified, and ransomed captives from barbarian hands. He founded monasteries and urged their inmates to persevere in prayer, especially during vigils. He foretold his own death and was buried at Montecompatium. After his death around 482, his relics were eventually taken to Italy, where they rest at Naples. He is honored as the apostle of the upper Danube and patron of the Noricum region.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Severinus to wander a collapsing frontier armed only with prayer and charity, grant through his intercession that we may stand firm amid the troubles of our age and keep vigil with you through the night. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severinus_of_Noricum"
+  ],
+  "featured": false,
+  "draft": false
+}

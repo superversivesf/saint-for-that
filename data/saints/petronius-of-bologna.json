@@ -1,0 +1,29 @@
+{
+  "slug": "petronius-of-bologna",
+  "name": "St. Petronius of Bologna",
+  "feastDay": "10-04",
+  "bio": "Petronius was bishop of Bologna during the fifth century and is the patron saint of that city. Born of a noble Roman family, he was a convert to Christianity who, after embracing the faith, became a priest and was later chosen bishop of Bologna. As bishop, he devoted himself to the renewal of his see, most famously building the monumental complex of Santo Stefano, known as the \"Seven Churches,\" which became a major pilgrimage destination. Modeled on the holy places of Jerusalem, the complex was a bold undertaking designed to bring the sites of the Passion to the people of northern Italy. He governed his diocese with wisdom during the troubled years that followed the decline of Roman power and died around 450. His feast is kept on October 4 and he is honored as the chief patron of Bologna.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "architects",
+      "category": "jobs"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Petronius a wise bishop and a builder of holy places, grant through his intercession that those who labor for Your Church may build not with stones alone but with faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Petronius_of_Bologna"
+  ],
+  "featured": false,
+  "draft": false
+}

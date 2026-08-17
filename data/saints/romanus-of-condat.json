@@ -1,0 +1,25 @@
+{
+  "slug": "romanus-of-condat",
+  "name": "St. Romanus of Condat",
+  "feastDay": "02-28",
+  "bio": "Romanus of Condat was a fifth-century saint who, at the age of thirty-five, withdrew to live as a hermit in the wilderness of Condat in the Jura mountains. His younger brother Lupicinus followed him, and together they became leaders of a growing community of monks that included the young Eugendus. Romanus guided the brethren in prayer, manual labor, and the ascetic life, establishing one of the earliest monastic foundations of Gaul. He is invoked as a patron of those suffering from mental illness and of drowning victims, a tradition rooted in stories of his compassionate care for the troubled and the lost.",
+  "patronages": [
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Romanus to the solitude of the wilderness and made him a father of monks, grant through his intercession that the troubled and the lost may find peace in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+  ],
+  "featured": false,
+  "draft": false
+}

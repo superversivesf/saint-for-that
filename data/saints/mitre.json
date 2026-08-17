@@ -1,0 +1,25 @@
+{
+  "slug": "mitre",
+  "name": "St. Mitre",
+  "feastDay": "unknown",
+  "bio": "Mitre was a Catholic saint of the fifth century, born in Thessaloniki in Greece and dying in Aix-en-Provence in the year 466. Though the details of his life are few, his veneration took deep root in Provence, where he was honored among the early saints who brought and sustained the Christian faith in southern Gaul in the generations after Constantine. His presence among the saints of Aix links him to that flowering of early Gallic Christianity that also produced such figures as Maximus of Turin and Menelphalus. The movement of his life from the Greek East to the Latin West reflects the unity of the early Church across the Mediterranean world. Honored as a confessor of the ancient faith, St. Mitre is remembered in Aix as one who labored in the first centuries of the Gospel in Gaul.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "migrants",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mitre from the East to witness to your Son in the land of Provence, grant through his intercession that we may be faithful confessors of your name wherever you lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Mitre"
+  ],
+  "featured": false,
+  "draft": false
+}

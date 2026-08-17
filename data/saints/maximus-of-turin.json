@@ -1,0 +1,29 @@
+{
+  "slug": "maximus-of-turin",
+  "name": "St. Maximus of Turin",
+  "feastDay": "06-25",
+  "bio": "Maximus of Turin served as the first Bishop of Turin in the late fourth and early fifth centuries, shepherding a Christian community only recently emerged from paganism. A Roman prelate of learning and conviction, he made a great contribution to the spread and consolidation of Christianity throughout Northern Italy, preaching boldly when the faith was still putting down roots. His surviving sermons and theological writings reveal a pastor attentive to his flock, eager to form them in doctrine and steady them against heresy. Honored as a confessor of the faith and a father of the Church in Piedmont, Maximus guided his diocese through the turbulent years when the ancient world gave way to the Christian age. His feast is kept on June 25.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "preachers",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maximus a faithful shepherd of your Church in Turin and a steadfast preacher of your truth, grant through his intercession that we may be strengthened in the faith he proclaimed and built up in the knowledge of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_of_Turin"
+  ],
+  "featured": false,
+  "draft": false
+}

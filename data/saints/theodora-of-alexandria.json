@@ -1,0 +1,25 @@
+{
+  "slug": "theodora-of-alexandria",
+  "name": "St. Theodora of Alexandria",
+  "feastDay": "01-05",
+  "bio": "Theodora of Alexandria was a saint and martyr of the fifth century, living under Emperor Zeno. According to her hagiography, Theodora fell into sin but, seized by profound repentance, disguised herself as a man and entered a monastery to do penance. There she lived in extraordinary austerity and humility, enduring slander and false accusations with patience rather than reveal her identity.\n\nOnly after her death was her true sex discovered, vindicating her before the community. Though hagiographer Baring-Gould noted her story may share elements with Marina the Monk, it remains a witness to repentance and God's mercy. Her feast is 5 January.",
+  "patronages": [
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the tears and penance of St. Theodora of Alexandria and granted her the crown of perseverance, grant through her intercession that all who have fallen may find in Your mercy the courage to rise again. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodora_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

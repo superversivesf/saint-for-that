@@ -1,0 +1,25 @@
+{
+  "slug": "odran-disciple-of-saint-patrick",
+  "name": "St. Odran",
+  "feastDay": "02-19",
+  "bio": "Saint Odran, also called Odhran, was the charioteer and faithful companion of Saint Patrick in his missionary journeys across Ireland. He holds the singular distinction of being counted as the first Christian martyr in Irish history, a land whose conversion Patrick himself accomplished.\n\nAccording to the earliest traditions, Odran sacrificed his own life to save Patrick from an ambush, willingly taking the blow meant for his master. His death opened the way for the Gospel's triumph, and his memory became woven into the story of Ireland's coming to faith. He is a figure of self-giving loyalty, one who laid down his life for another.\n\nHis feast on February 19 honors a humble servant whose hidden courage made possible the great work of evangelization.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the sacrifice of your servant Odran, who gave his life to save his master and opened the way for the Gospel in Ireland, grant through his intercession that we may be ready to lay down our lives for those we serve. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odran_(disciple_of_Saint_Patrick)"
+  ],
+  "featured": false,
+  "draft": false
+}

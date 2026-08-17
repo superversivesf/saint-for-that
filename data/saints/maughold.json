@@ -1,0 +1,21 @@
+{
+  "slug": "maughold",
+  "name": "St. Maughold",
+  "feastDay": "04-25",
+  "bio": "Saint Maughold is venerated as the patron saint of the Isle of Man. Tradition states that he was an Irish prince and the captain of a band of freebooters who was converted to Christianity by Saint Patrick. His original name is unclear, but it was probably adapted from Bishop MacCaille of Croghan in County Offaly, who received Brigit of Kildare into religious life. After his conversion, Maughold embraced a life of faith and became the spiritual patron of the Manx people. His feast day is celebrated on 25 April, recalling a sinner transformed into a saint.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Maughold from a life of plunder to the freedom of Your grace, grant through his intercession that all who have wandered far from You may find in You the way of conversion and new life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maughold"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "valentine-of-passau",
+  "name": "St. Valentine of Passau",
+  "feastDay": "01-07",
+  "bio": "Saint Valentine of Passau was a bishop, abbot, monk, and hermit venerated in both Eastern Orthodoxy and Roman Catholicism. According to tradition, he ministered faithfully as bishop of Passau, laboring to strengthen the Christian faith in Bavaria and the surrounding regions. After his episcopal labors, he withdrew to the life of a hermit, embracing solitude, prayer, and ascetic discipline in his final years. He is remembered as a holy pastor who combined active ministry with contemplative withdrawal, and his intercession has long been sought by those suffering from convulsions, cramps, and epilepsy, conditions for which he became known as a heavenly patron.",
+  "patronages": [
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Valentine of Passau in the ministry of a bishop and the silence of a hermit, grant through his intercession that those afflicted with convulsions and epilepsy may find relief and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valentine_of_Passau"
+  ],
+  "featured": false,
+  "draft": false
+}

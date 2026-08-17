@@ -1,0 +1,29 @@
+{
+  "slug": "taurinus",
+  "name": "St. Taurinus",
+  "feastDay": "08-12",
+  "bio": "Taurinus of Évreux, also known as Taurin, is venerated as the founding bishop and patron of the ancient diocese of Évreux in Normandy. According to tradition he was sent in the early centuries of the Church to preach the Gospel in the region of the Eure, where he became the first bishop of the city and labored to bring its people to the faith.\n\nHis legend recounts that he evangelized the surrounding countryside, confronted pagan worship, and worked miracles that drew many to baptism. He died a martyr's death, sealing his witness with his blood, and his relics became the heart of the church that bore his name.\n\nHis feast is kept on August 12. He is remembered as a missionary bishop and martyr of Gaul, one of the long line of pastors who planted the Cross in the soil of northern France.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your bishop Taurinus a faithful evangelist and crowned his labors with martyrdom, grant through his intercession that the Church may never lack pastors after Your own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Taurinus"
+  ],
+  "featured": false,
+  "draft": false
+}

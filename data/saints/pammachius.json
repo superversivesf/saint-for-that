@@ -1,0 +1,29 @@
+{
+  "slug": "pammachius",
+  "name": "St. Pammachius",
+  "feastDay": "08-30",
+  "bio": "Pammachius was a Roman senator, a man of rank and learning, and a close friend of St. Jerome. He married Paulina, a daughter of St. Paula of Rome, but she died young, leaving him stricken with grief. Rather than seeking a second marriage, Pammachius gave himself entirely to works of charity and prayer. He used his great wealth to care for the poor and the sick, opening hospices for strangers and pilgrims in Rome. A man of letters, he corresponded with Jerome on matters of Scripture and doctrine and defended the faith against heresies of his day. Venerated as a saint in both the Eastern Orthodox and Roman Catholic Churches, he is remembered for turning loss into love and status into service. His feast is kept on August 30.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "widowers",
+      "category": "family"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who transformed the grief of St. Pammachius into works of charity and made him a friend of the poor and a lover of Your word, grant through his intercession that those who mourn may find in You the strength to serve. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pammachius"
+  ],
+  "featured": false,
+  "draft": false
+}

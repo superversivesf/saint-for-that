@@ -1,0 +1,25 @@
+{
+  "slug": "pope-sixtus-iii",
+  "name": "St. Sixtus III",
+  "feastDay": "03-28",
+  "bio": "Pope Sixtus III, also called Xystus III, served as bishop of Rome from July 31, 432 until his death on August 18, 440. His pontificate followed the Council of Ephesus, which had solemnly defined Mary as Theotokos, the Mother of God, and Sixtus labored to confirm that confession throughout the Church.\n\nHe is especially remembered for increased construction in Rome, restoring and embellishing the great basilicas. Most famously he enriched the Basilica of Santa Maria Maggiore, dedicating it to the Mother of God and adorning it with mosaics that still proclaim the mystery of the Incarnation.\n\nHis feast is celebrated on March 28 by both the Catholic and Eastern Orthodox Churches. He stands as a builder of sacred beauty, who let the stones of Rome give voice to the faith once delivered.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your servant Sixtus a builder of Your Church and a champion of the honor due to the Mother of Your Son, grant through his intercession that we may reverence the mysteries he enshrined. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Sixtus_III"
+  ],
+  "featured": false,
+  "draft": false
+}

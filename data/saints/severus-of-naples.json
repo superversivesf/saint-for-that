@@ -1,0 +1,29 @@
+{
+  "slug": "severus-of-naples",
+  "name": "St. Severus of Naples",
+  "feastDay": "04-29",
+  "bio": "Saint Severus served as bishop of Naples during the turbulent decades of the late fourth and early fifth centuries. Counted the eleventh legitimate Catholic bishop of Naples, and the twelfth overall, he succeeded Maximus and governed the see from February 363 until his death on April 29, 409, the traditional date still kept as his feast.\n\nBetween the episcopates of Maximus and Severus, an Arian named Zosimus had been set up as bishop, a man condemned as heretical by the Catholic Church. Severus thus inherited a divided flock, and his long episcopate was spent restoring unity, securing the orthodox faith, and guiding Naples through the uncertainty that came with the decline of imperial authority. He is honored as a faithful shepherd of his people, and the city of San Severo in Foggia and other churches keep his memory.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Severus grace to guide a divided flock back to the unity of faith, grant through his intercession that pastors may be true shepherds and your people one in heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severus_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

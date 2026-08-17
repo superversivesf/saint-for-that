@@ -1,0 +1,25 @@
+{
+  "slug": "pope-simplicius",
+  "name": "St. Simplicius",
+  "feastDay": "03-10",
+  "bio": "Pope Simplicius governed the Church as bishop of Rome from 468 until his death on March 10, 483, years that spanned the final collapse of the Western Roman Empire. When Odoacer deposed the last emperor in 476, Simplicius maintained the administration of the Church in Rome, proving the See of Peter could endure even as the imperial order crumbled.\n\nA vigorous defender of orthodoxy, he combated the Eutychian heresy and ended the practice of consecrating bishops only in December, allowing ordinations throughout the year. He labored to offset the disruptions of Germanic invasions, preserving the structures of worship and charity.\n\nHis pontificate stands as a bridge between ancient and medieval Christendom, reminding the Church that her foundations rest not on empires but on the rock of faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your servant Simplicius a steadfast shepherd of Your Church when the world's old order was passing away, grant through his intercession that amid every upheaval we may remain rooted in the faith of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Simplicius"
+  ],
+  "featured": false,
+  "draft": false
+}

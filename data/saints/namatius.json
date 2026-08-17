@@ -1,0 +1,21 @@
+{
+  "slug": "namatius",
+  "name": "St. Namatius",
+  "feastDay": "10-27",
+  "bio": "Saint Namatius is venerated in the Roman Catholic Church as a holy confessor of early Gaul. Though few details of his life have survived the centuries, his memory was preserved by the faithful who honored his steadfast devotion to Christ in a time of uncertainty and trial. His cult developed around the region of Clermont in the Auvergne, where local tradition held him in great esteem as a shepherd of souls.\n\nThe hagiographic tradition presents Namatius as a man of deep prayer and pastoral charity, one who labored quietly among his people to build up the Church in its earliest and most vulnerable days. He is counted among those missionary confessors whose hidden fidelity laid the foundations of Christian civilization in what is now France. His feast is observed on October 27.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of your servant Namatius through the devotion of the faithful, grant that we too may serve you with quiet fidelity in the hidden tasks of daily life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Namatius"
+  ],
+  "featured": false,
+  "draft": false
+}

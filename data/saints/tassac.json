@@ -1,0 +1,25 @@
+{
+  "slug": "tassac",
+  "name": "St. Tassac",
+  "feastDay": "04-14",
+  "bio": "Tassac was an Irish saint of the early fifth century, one of the company of missionary monks who carried the faith across Ireland in the age of St. Patrick. Born in the first decade of that century, he gave his life to the preaching of the Gospel and the service of the young Christian communities.\n\nThe ancient records remember him as a devoted laborer in the Lord's harvest, working alongside the apostle of Ireland to plant churches and instruct the newly baptized. He died around the year 497, having spent his long life building up the Church in a land only newly turned to Christ.\n\nHis feast is kept on April 14. He is honored as one of the quiet founders of Irish Christianity, whose witness helped root the faith so deeply that Ireland would in turn send missionaries across Europe.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Tassac to labor in the early harvest of Ireland, grant through his intercession that we may bear witness to the Gospel with the same steadfastness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tassac"
+  ],
+  "featured": false,
+  "draft": false
+}

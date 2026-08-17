@@ -1,0 +1,25 @@
+{
+  "slug": "veranus-of-vence",
+  "name": "St. Veranus of Vence",
+  "feastDay": "09-10",
+  "bio": "Saint Veranus of Vence was the fourth Bishop of Vence in Gaul, a small but ancient see nestled in the foothills of the Maritime Alps. Before his elevation to the episcopate, Veranus lived as a monk, formed in the disciplines of prayer, asceticism, and study that shaped the Gallic clergy of his age. As bishop he tended his diocese with the same monastic devotion, guiding his people through a period when the Roman order was fading and the Church was becoming the sure refuge of souls. His memory endured among the faithful of Provence, who honored him as a holy pastor and intercessor. His feast is celebrated on September 10.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Veranus from the monastic life to shepherd your people at Vence, grant through his intercession that we may serve you with the same prayerful devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Veranus_of_Vence"
+  ],
+  "featured": false,
+  "draft": false
+}

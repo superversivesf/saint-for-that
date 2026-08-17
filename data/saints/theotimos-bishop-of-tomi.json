@@ -1,0 +1,25 @@
+{
+  "slug": "theotimos-bishop-of-tomi",
+  "name": "St. Theotimos",
+  "feastDay": "unknown",
+  "bio": "Theotimus was bishop of the Scythian diocese of Tomi, near the Black Sea, serving from 392 to 403 on the far frontier of the Christian world. A writer and friend of St. John Chrysostom, he combined pastoral care with literary labour, composing brief epigrammatic treatises in dialogue form in an old and dignified style.\n\nHis see lay among peoples not yet evangelised, and Theotimus laboured to bring the Gospel to the Huns pressing upon the empire's borders. Chrysostom esteemed him as a man of learning and virtue. Though the date of his feast is not preserved, he is remembered as a scholar-bishop and missionary who served Christ on the edge of the known world.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Theotimus to preach the Gospel on the distant shores of the Black Sea, grant through his intercession that Your Church may never cease to carry the good news to every nation and tongue. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theotimos_(bishop_of_Tomi)"
+  ],
+  "featured": false,
+  "draft": false
+}

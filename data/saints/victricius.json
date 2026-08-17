@@ -1,0 +1,25 @@
+{
+  "slug": "victricius",
+  "name": "St. Victricius",
+  "feastDay": "08-07",
+  "bio": "Saint Victricius, also known as Victricius of Rouen, served as bishop of Rouen from about 393 to 407 and was a missionary and author of one of the earliest surviving Christian texts from Roman Gaul. A soldier in his youth, Victricius underwent a conversion, laid down his arms, and dedicated himself to preaching the Gospel among the still-pagan peoples of northern Gaul. As bishop he labored to root the faith in a diocese where Christianity was young, evangelizing rural regions and establishing churches where the old religions lingered. He maintained close ties with Saint Martin of Tours and Paulinus of Nola. His feast is celebrated on August 7, and he is remembered as a missionary bishop who helped plant Christianity in the northern reaches of the Roman world.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Victricius from the life of a soldier to become a missionary bishop, grant through his intercession that we may lay aside what is unworthy and proclaim your Gospel with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victricius"
+  ],
+  "featured": false,
+  "draft": false
+}

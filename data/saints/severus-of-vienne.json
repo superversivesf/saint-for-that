@@ -1,0 +1,37 @@
+{
+  "slug": "severus-of-vienne",
+  "name": "St. Severus of Vienne",
+  "feastDay": "08-08",
+  "bio": "Severus of Vienne was a priest who evangelized the city of Vienne in France and is venerated as a saint in the Catholic Church and in other Christian denominations. The Roman Martyrology preserves his memory: \"At Vienne, in France, St. Severus, priest and confessor, who undertook a painful journey from India in order to preach the Gospel in that city, and converted a great number of Pagans to the faith of Christ by his labors and miracles.\"\n\nReportedly Indian by birth and from a wealthy family, Severus left everything behind to bring the Gospel to Gaul. His long and painful journey from the East to Vienne became the first of his sacrifices, and once arrived he labored without rest, preaching, healing, and converting the pagans of the region. His feast is kept on August 8. He is invoked as a patron of missionaries and of priests, and of those who travel great distances for the sake of the Gospel.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your priest Severus the courage to leave home and kindred and to preach the Gospel in a foreign land, grant through his intercession that missionaries may be steadfast and that those who travel for your name may arrive in safety. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severus_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

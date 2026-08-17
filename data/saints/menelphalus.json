@@ -1,0 +1,25 @@
+{
+  "slug": "menelphalus",
+  "name": "St. Menelphalus",
+  "feastDay": "04-22",
+  "bio": "Menelphalus was a fifth-century metropolitan archbishop of Aix-en-Provence, serving the see in its early and formative years. He appears to have followed Maximus, the bishop who in 419 was ordered by Pope Boniface to investigate the bishop of Valence on charges of Manichean heresy; this places Menelphalus' ministry likely in the 420s. The necropolis from which his relics were later moved appears to date from Late Antiquity, and since the see of Aix was only established in the fifth century, he likely served before the accession of St. Basilius, who built the Cathedral of Aix around 500. Buried in the Old Chapel of St. Lawrence rather than the new cathedral, he is honored on April 22 as one of the earliest shepherds of that ancient diocese.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Menelphalus a faithful shepherd of the ancient see of Aix, grant through his intercession that the Church may be guided by pastors after your own heart, firm in faith and gentle in care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menelphalus"
+  ],
+  "featured": false,
+  "draft": false
+}

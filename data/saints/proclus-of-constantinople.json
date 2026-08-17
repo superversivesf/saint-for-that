@@ -1,0 +1,33 @@
+{
+  "slug": "proclus-of-constantinople",
+  "name": "St. Proclus of Constantinople",
+  "feastDay": "11-20",
+  "bio": "Proclus was Archbishop of Constantinople from 434 until his death in 446, a preacher of singular eloquence in the fifth-century Christological controversies. A disciple of St. John Chrysostom, he rose to the see once held by his master. He is remembered for his homily at the church of the Virgin Mary, proclaiming the title Theotokos, Mother of God, against the Nestorian teaching. His preaching prepared the way for the Council of Ephesus in 431 and made him a foremost early Marian theologian. He labored also for the martyrs and the poor. Venerated in the Catholic and Orthodox Churches, his feast is kept on November 20.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Proclus a steadfast preacher of Your Son's incarnation and a devoted servant of the Virgin Mary, grant through his intercession that we may confess the mystery of Christ with fidelity and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Proclus_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

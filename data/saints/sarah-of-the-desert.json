@@ -1,0 +1,25 @@
+{
+  "slug": "sarah-of-the-desert",
+  "name": "St. Sarah of the Desert",
+  "feastDay": "01-05",
+  "bio": "Amma Sarah of the Desert was one of the early Desert Mothers, known to us through the collected Sayings of the Desert Fathers and the Holy Women Ascetics. She lived as a hermit in the Egyptian desert, devoting herself to strict asceticism for some sixty years. The sayings attributed to her reveal a woman of fierce spiritual resolve, who struggled against fear, temptation, and pride with single-minded love of God. She stands alongside the Desert Fathers as a teacher of the interior life, and is honored as a patron of nuns and hermits who follow her path of contemplation.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Sarah to sixty years of prayer in the desert, grant through her intercession that we may conquer fear and pride by love of you alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sarah_of_the_Desert"
+  ],
+  "featured": false,
+  "draft": false
+}

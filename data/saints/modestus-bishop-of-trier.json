@@ -1,0 +1,25 @@
+{
+  "slug": "modestus-bishop-of-trier",
+  "name": "St. Modestus",
+  "feastDay": "02-24",
+  "bio": "Modestus served as bishop of Trier in the turbulent years when the Franks gained control over the ancient Roman city, and he is honored as a pre-congregational saint of that see. Trier, one of the great sees of early Gaul and a city that had been the residence of emperors, had known bishops of towering stature; Modestus inherited this lineage in a time of upheaval, as Roman authority gave way to the new Frankish order. He governed the Church of Trier through the uncertainties of that transition, preserving the faith amid the collapse of the old imperial structures and the rise of a new Christian Germanic kingdom. His feast is kept on February 24, and his relics rest in the Church of St. Matthias in Trier, burial place of so many of the city's early bishops.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Modestus a steadfast shepherd of your Church in Trier through the storms of his age, grant through his intercession that we may be faithful amid change and firm in the faith handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Modestus_(bishop_of_Trier)"
+  ],
+  "featured": false,
+  "draft": false
+}

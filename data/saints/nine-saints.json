@@ -1,0 +1,29 @@
+{
+  "slug": "nine-saints",
+  "name": "St. Nine Saints",
+  "feastDay": "unknown",
+  "bio": "The Nine Saints were missionary monks who played a decisive role in spreading Christianity across Ethiopia in the late fifth century. Coming from the eastern Roman world, some from Syria, they arrived in the Aksumite kingdom and established monasteries in the highlands, bringing the ascetic fervor of the desert fathers.\n\nTheir names are preserved through Ethiopian tradition: Abba Aftse, Abba Alef, Abba Aragawi, Abba Garima, Abba Guba, Abba Liqanos, Abba Pantelewon, Abba Tsahma, and Abba Yem'ata. Each founded a community that became a center of prayer and evangelization, translating Scripture and forming a native clergy.\n\nThrough their labors the faith took root in Ethiopia, giving rise to one of the most ancient Christian civilizations. They are honored as fathers of the Ethiopian Church.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the Nine Saints to plant the Gospel in the highlands of Ethiopia, grant through their intercession that the Church in every land may be renewed by the zeal of those who leave all to follow Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nine_Saints"
+  ],
+  "featured": false,
+  "draft": false
+}

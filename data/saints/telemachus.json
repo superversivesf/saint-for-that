@@ -1,0 +1,29 @@
+{
+  "slug": "telemachus",
+  "name": "St. Telemachus",
+  "feastDay": "01-01",
+  "bio": "Saint Telemachus was a monk who, according to the Church historian Theodoret, entered a Roman amphitheatre to stop a gladiatorial fight and was stoned to death by the crowd. Little else is known of his life, yet his single act of courage echoed through the centuries and changed an empire.\n\nThe Christian Emperor Honorius, moved by the monk's martyrdom, was spurred to issue a historic ban on the gladiatorial games that had long stained Rome. In one moment of faithful witness, Telemachus accomplished what moralists and laws had not, bringing an end to a spectacle of death.\n\nHolweck gives the year of his death as 391. His feast is kept on January 1. He is remembered as a patron of those who stand alone against cruelty, trusting that one voice for life can turn the hearts of rulers.",
+  "patronages": [
+    {
+      "need": "peace",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your martyr Telemachus the courage to stand alone against the cruelty of the games and so turned the heart of an emperor, grant through his intercession that we may defend the dignity of every life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Telemachus"
+  ],
+  "featured": false,
+  "draft": false
+}

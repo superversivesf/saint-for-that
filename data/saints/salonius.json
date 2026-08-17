@@ -1,0 +1,21 @@
+{
+  "slug": "salonius",
+  "name": "St. Salonius",
+  "feastDay": "09-28",
+  "bio": "Salonius, also called Salonius of Geneva, was a fifth-century confessor and bishop. The son of Eucherius of Lyon and Galla, he was educated at Lérins Abbey under Hilary of Arles, Salvianus, and Vincent of Lérins. In 440 he was elected bishop of Geneva and took part in the Synod of Orange (441), the Synod of Vaison (442), and the Synod of Arles (451). An accomplished Latin ecclesiastical writer, he composed mystical and allegorical interpretations of Proverbs and Ecclesiastes. His feast is kept on September 28. He is honored as a patron of the city of Lyon, with which his family was closely associated.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed your bishop Salonius with wisdom to interpret the Scriptures, grant through his intercession that we may behold your truth hidden in your holy word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salonius"
+  ],
+  "featured": false,
+  "draft": false
+}

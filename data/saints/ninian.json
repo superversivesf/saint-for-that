@@ -1,0 +1,25 @@
+{
+  "slug": "ninian",
+  "name": "St. Ninian",
+  "feastDay": "09-16",
+  "bio": "Saint Ninian is the first known Christian missionary among the Pictish peoples of what is now Scotland, honored as the Apostle to the Southern Picts. He is first mentioned in the eighth century by Bede, who records that Ninian had been trained in Rome and returned to preach the Gospel to the Picts, building a stone church at Whithorn known as Candida Casa, the White House, the cradle of Scottish Christianity.\n\nNumerous dedications to Ninian survive across Scotland and northern England. He is known as Ringan in Scotland and Trynnian in the north of England, names that testify to the devotion he inspired.\n\nWhithorn Priory became a great medieval pilgrimage site of Scotland. His feast on September 16 recalls a missionary bishop who established the Church in lands that had never heard Christ.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Ninian to preach the Gospel to the Picts and to build a house of prayer at Whithorn, grant through his intercession that we may carry the light of Christ to those who still wait in darkness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ninian"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "martha-french",
+  "name": "St. Amator of Auxerre",
+  "feastDay": "05-01",
+  "bio": "Saint Amator, known in French as Amadour or Amatre, served as bishop of Auxerre from 388 until his death on 1 May 418. He was among the early pastors of Gaul who labored to establish the Christian faith in a region still shaped by Roman custom and lingering pagan practice. Venerated as a saint in the Catholic Church, he is remembered for his faithful shepherding of the diocese across three decades. His feast day is celebrated on 1 May, honoring a bishop who gave his life to the building up of the Church in Burgundy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Amator of Auxerre a faithful shepherd of Your people in the early days of Gaul, grant through his intercession that all pastors may labor with the same devotion for the building up of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amator"
+  ],
+  "featured": false,
+  "draft": false
+}

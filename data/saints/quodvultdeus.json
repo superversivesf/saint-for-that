@@ -1,0 +1,21 @@
+{
+  "slug": "quodvultdeus",
+  "name": "St. Quodvultdeus",
+  "feastDay": "01-08",
+  "bio": "Quodvultdeus was a fifth-century Church Father and Bishop of Carthage who corresponded with Augustine of Hippo, his spiritual teacher. He was living in Carthage around 407 and became a deacon in 421. Augustine dedicated several writings to him. As bishop, Quodvultdeus shepherded the Church in North Africa during a turbulent era of Vandal invasion. When the Arian Vandal king Huneric persecuted orthodox Catholics, Quodvultdeus was seized and exiled to Naples, where he continued to minister among the faithful. He died in exile around 454, remembered as a confessor of the faith and a faithful son of the Church of Carthage.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your bishop Quodvultdeus to confess your truth in exile, grant through his intercession that we may remain steadfast in faith amid every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quodvultdeus"
+  ],
+  "featured": false,
+  "draft": false
+}

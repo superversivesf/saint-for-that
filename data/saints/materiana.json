@@ -1,0 +1,21 @@
+{
+  "slug": "materiana",
+  "name": "St. Materiana",
+  "feastDay": "04-09",
+  "bio": "Saint Materiana is a Welsh saint venerated as the patron of two churches in Cornwall and one in Wales. Her cult centers on the ancient churches of Minster in Cornwall, Tintagel in Cornwall, and Trawsfynydd in Wales, linking the Celtic Christian traditions of the two lands across the sea. Little certain detail survives of her life, but devotion to her endured among the faithful of these communities for many centuries. Her feast day is observed on 9 April, and she remains a quiet witness to the deep roots of the faith among the Celtic peoples.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Materiana among the churches of Cornwall and Wales, grant through her intercession that the peoples of those lands may hold fast to the faith of their forebears. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Materiana"
+  ],
+  "featured": false,
+  "draft": false
+}

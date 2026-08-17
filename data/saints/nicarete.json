@@ -1,0 +1,33 @@
+{
+  "slug": "nicarete",
+  "name": "St. Nicarete",
+  "feastDay": "unknown",
+  "bio": "Saint Nicarete was a woman of Nicomedia who left her home to devote herself to God in Constantinople. Drawn by the preaching of St. John Chrysostom, she became one of his most faithful disciples, studying theology as the living bread of her soul and giving herself to the care of the poor.\n\nSkilled in medicine, Nicarete served as a physician and healer to the poor, who had no one else to tend their wounds. Her gifts were so renowned that she once cured John Chrysostom himself of a painful stomach ailment, earning his lasting gratitude.\n\nWhen Chrysostom was unjustly exiled, Nicarete refused to abandon him and followed her spiritual father into banishment, sharing his suffering. She stands as a model of loyal discipleship and of those who care for the poor and the sick.",
+  "patronages": [
+    {
+      "need": "physicians",
+      "category": "jobs"
+    },
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "stomach ailments",
+      "category": "illness"
+    },
+    {
+      "need": "nursing",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Nicarete the gift of healing and the courage to follow her spiritual father into exile, grant through her intercession that we may serve the poor with compassionate hands and remain faithful to the truth in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicarete"
+  ],
+  "featured": false,
+  "draft": false
+}

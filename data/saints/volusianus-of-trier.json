@@ -1,0 +1,21 @@
+{
+  "slug": "volusianus-of-trier",
+  "name": "St. Volusianus of Trier",
+  "feastDay": "unknown",
+  "bio": "Saint Volusianus served as bishop of Trier at the end of the fifth century, governing one of the oldest and most venerable sees in Christendom. Trier, a city on the Moselle that had been an imperial capital in the late Roman world, had become a stronghold of Gallic Christianity, home to a line of bishops who kept the faith alive as Roman authority receded. Volusianus continued that sacred tradition, tending his diocese with the pastoral care that the times demanded, as Frankish power rose and the old imperial order faded. Though the details of his episcopate are few, the Church has honored him as a saint, remembering him among the faithful bishops of Trier who preserved the light of the Gospel through the transition from antiquity to the early medieval world.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted Saint Volusianus with the ancient see of Trier at the close of the Roman age, grant through his intercession that your Church may endure every change of times with unfailing faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Volusianus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

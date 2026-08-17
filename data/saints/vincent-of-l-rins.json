@@ -1,0 +1,25 @@
+{
+  "slug": "vincent-of-l-rins",
+  "name": "St. Vincent of Lérins",
+  "feastDay": "05-24",
+  "bio": "Saint Vincent of Lérins was a Gallic monk and author of some of the most influential early Christian writings on orthodoxy and tradition. Around 434 he composed the Commonitorium, a guide for discerning the Catholic faith, in which he formulated the famous principle that true doctrine is that which has been believed everywhere, always, and by all. A monk of the monastery of Lérins off the coast of Provence, Vincent combined contemplative life with rigorous theological reflection. He was suspected of semi-Pelagianism for resisting the Augustinian model of grace. His feast is celebrated on May 24, and he is honored as a monk and theologian whose writings helped the Church articulate how it preserves the apostolic faith.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Vincent of Lérins wisdom to discern and defend the faith handed down from the apostles, grant through his intercession that we may hold fast to what has been believed everywhere, always, and by all. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vincent_of_L%C3%A9rins"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "victor-of-turin",
+  "name": "St. Victor of Turin",
+  "feastDay": "unknown",
+  "bio": "Saint Victor of Turin succeeded Maximus as bishop of Turin in the year 465, governing a see that had already produced notable pastors in the waning years of the Western Roman Empire. The Church of Turin, planted in the plains of Piedmont, relied on bishops of deep faith to sustain the Christian people amid political upheaval and the migrations that reshaped Italy. Victor carried on the episcopal ministry with fidelity, continuing the line of holy shepherds who had established the faith in that region. Though few details of his life survive, the Church has long venerated him as a saint, honoring the quiet constancy with which he served the people entrusted to his care.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Saint Victor of Turin in the ministry of a bishop through turbulent times, grant through his intercession that your Church may always find steadfast shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victor_of_Turin"
+  ],
+  "featured": false,
+  "draft": false
+}

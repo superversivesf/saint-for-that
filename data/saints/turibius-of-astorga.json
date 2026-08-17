@@ -1,0 +1,25 @@
+{
+  "slug": "turibius-of-astorga",
+  "name": "St. Turibius of Astorga",
+  "feastDay": "04-16",
+  "bio": "Saint Turibius of Astorga served as archdeacon of Tui before becoming Bishop of Astorga in the early Spanish Church. A zealous maintainer of ecclesiastical discipline, he upheld clerical standards and the purity of the faith in a region troubled by Priscillianism, a heresy that had drawn many from orthodox teaching.\n\nTuribius defended the Nicene faith with courage, and his fidelity was recognised by Pope Leo the Great, who sent him a supportive letter that still survives. This correspondence testifies to the communion between the bishops of Spain and the See of Rome. His shrine was venerated in the Cathedral of Astorga, and his feast is kept on 16 April.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Turibius zeal for the discipline of Your Church and courage to defend the orthodox faith, grant through his intercession that we may hold fast to the truth handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Turibius_of_Astorga"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tallanus",
+  "name": "St. Tallanus",
+  "feastDay": "unknown",
+  "bio": "Tallanus is thought to have been a Cornish saint of the fifth century, venerated as a hermit who dwelt at Talland between Polperro and Looe on the south coast of Cornwall. The parish church of Talland, believed to rest on a fifth-century foundation, is the only church in Britain under his name.\n\nOne tradition holds that the place took its name from the saint, so closely was his memory bound to the land. He lived among the early Celtic missionaries who brought the faith to western Britain, praying in solitude and serving the folk of the coast.\n\nHis name first appears in the fifteenth century, and some have suggested he was a later invention, yet devotion at Talland endured. He is remembered among the holy figures of early Cornwall whose witness planted the faith in distant places.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in every age have raised up hermits and solitaries to sanctify the places where they dwell, grant through the intercession of St. Tallanus that the remote corners of our lives may become places of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tallanus"
+  ],
+  "featured": false,
+  "draft": false
+}

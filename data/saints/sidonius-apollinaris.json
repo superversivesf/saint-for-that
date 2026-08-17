@@ -1,0 +1,37 @@
+{
+  "slug": "sidonius-apollinaris",
+  "name": "St. Sidonius Apollinaris",
+  "feastDay": "08-21",
+  "bio": "Gaius Sollius Modestus Apollinaris Sidonius, better known as Sidonius Apollinaris, was a poet, diplomat, and bishop of the fifth century. Born into the Gallo-Roman aristocracy, he was the son-in-law of Emperor Avitus and was appointed Urban prefect of Rome by Emperor Anthemius in 468. In 469 he was appointed Bishop of Clermont, and from 473 to 475 he led the defense of that city against the armies of Euric, King of the Visigoths.\n\nAfter the city's conquest, he regained his position as bishop and retained it until his death in the 480s. He is venerated as a saint in the Catholic Church, the Orthodox Church, and the True Orthodox Church, with his feast kept on 21 August. His letters and poems are among the most important surviving witnesses of late antique Gaul, and he is invoked as a patron of writers, diplomats, and those who lead in times of collapse.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Sidonius eloquence to praise you in verse and courage to defend his flock in time of war, grant through his intercession that writers may use their gifts for truth and that pastors may stand firm in peril. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sidonius_Apollinaris"
+  ],
+  "featured": false,
+  "draft": false
+}

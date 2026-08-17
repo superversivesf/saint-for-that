@@ -1,0 +1,37 @@
+{
+  "slug": "severus-of-antioch",
+  "name": "St. Severus of Antioch",
+  "feastDay": "02-08",
+  "bio": "Severus of Antioch, called the Crown of Syrians and also known as Severus of Gaza, served as Patriarch of Antioch and head of the Syriac Orthodox Church from 512 until his death in 538. Born in Sozopolis in Pisidia and educated in Alexandria, he turned from a promising career in rhetoric to the monastic life, and his eloquence and theological zeal drew him to the attention of the emperor Anastasius, who promoted him to the see of Antioch.\n\nAs patriarch, Severus preached and wrote extensively in defense of Miaphysite Christology, and his letters, hymns, and homilies form a cornerstone of Syriac patristic literature. Driven from his see under Justin I, he spent his last years in exile in Egypt, continuing to guide his followers through correspondence. He is venerated as a saint by the Oriental Orthodox Church; the Syriac Orthodox celebrate his feast on 29 September, while the Coptic Orthodox keep it on 8 February. He is honored as a champion of orthodox confession and a patron of theologians.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Severus a keen mind and an unyielding confession of your Son's truth, grant through his intercession that theologians and pastors may speak with clarity and bear witness with charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severus_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

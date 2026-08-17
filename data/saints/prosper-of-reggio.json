@@ -1,0 +1,29 @@
+{
+  "slug": "prosper-of-reggio",
+  "name": "St. Prosper of Reggio",
+  "feastDay": "06-25",
+  "bio": "Prosper of Reggio is an Italian saint of the fifth century, traditionally venerated as a bishop of Reggio Emilia in northern Italy. According to the local tradition, he governed that see for twenty-two years, shepherding his people through the decades that followed the collapse of Roman power in the West. Ancient documents attest that he was indeed bishop of Reggio Emilia in the fifth century, and his cult is attested from an early date in the churches of the Emilia region. Later medieval accounts describe him as a confessor of the faith, a builder of churches, and a protector of his people against barbarian violence. His relics were honored in the cathedral of Reggio. He is honored as the chief patron of Reggio Emilia and its diocese, his feast kept on June 25.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Prosper a faithful shepherd of the Church of Reggio in a time of upheaval, grant through his intercession that we may stand firm in the faith and care for those entrusted to our charge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prosper_of_Reggio"
+  ],
+  "featured": false,
+  "draft": false
+}

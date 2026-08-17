@@ -1,0 +1,25 @@
+{
+  "slug": "maurilius-of-angers",
+  "name": "St. Maurilius of Angers",
+  "feastDay": "unknown",
+  "bio": "Saint Maurilius, known in French as Maurille, was born around 336 and died in 453, living a long and fruitful life in service of the Church. A priest originally from Milan, he became bishop of Angers between 423 and 453, playing an early role in the Christianization of Gaul. Laboring in the west of France during the final decades of Roman authority and the first stirrings of the barbarian kingdoms, he established the foundations of Christian life in a region where the faith was still young. His feast day is kept by local devotion, though the universal calendar does not record a fixed date.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Maurilius from Milan to plant the faith in the region of Angers, grant through his intercession that the seeds of the Gospel sown by his labor may bear fruit in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maurilius_of_Angers"
+  ],
+  "featured": false,
+  "draft": false
+}

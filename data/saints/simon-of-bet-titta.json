@@ -1,0 +1,29 @@
+{
+  "slug": "simon-of-bet-titta",
+  "name": "St. Simon of Bet-Titta",
+  "feastDay": "unknown",
+  "bio": "Simon of Bet-Titta was a Christian martyr at Bet-Titta, near Karka in Mesopotamia. Few details of his life have come down to us, but his name is preserved among those who confessed Christ in a region where the Church was tested by long and repeated persecution.\n\nLike the early martyrs of Mesopotamia and Persia, Simon suffered death rather than deny the faith, joining the great company of those who bore witness to Christ by their blood in the lands between the Tigris and Euphrates. He is invoked as a patron of persecuted Christians and of those who are called to confess Christ before hostile powers.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your martyr Simon grace to confess your Son unto death, grant through his intercession that all who suffer for the faith may stand firm, and that your Church in every land may be steadfast in confession. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simon_of_Bet-Titta"
+  ],
+  "featured": false,
+  "draft": false
+}

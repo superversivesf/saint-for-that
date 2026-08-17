@@ -1,0 +1,33 @@
+{
+  "slug": "poemen",
+  "name": "St. Poemen",
+  "feastDay": "08-27",
+  "bio": "Poemen was a Christian monk and Desert Father, born in Egypt around 340. He is the most quoted Abba in the Apophthegmata Patrum, the Sayings of the Desert Fathers, prized not for asceticism but for his gift of spiritual direction. His name, Poimen, means \"shepherd,\" and he shepherded souls through repentance, temptation, and prayer. When barbarians raided the desert he led his community to safer regions. His sayings, treasured by generations of monastics, turn on humility, silence, discernment, and the guarding of the heart. He taught that the monk who stays in his cell and watches over himself has begun to conquer the world. He died around 450, his feast kept on August 27 in the Julian calendar.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    },
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Poemen the gift of shepherding souls through the wisdom of the desert, grant through his intercession that we may guard our hearts in silence and discern Your will in all things. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Poemen"
+  ],
+  "featured": false,
+  "draft": false
+}

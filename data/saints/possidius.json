@@ -1,0 +1,29 @@
+{
+  "slug": "possidius",
+  "name": "St. Possidius",
+  "feastDay": "05-16",
+  "bio": "Possidius was bishop of Calama in Numidia and a friend and biographer of St. Augustine of Hippo. Born in the mid-fourth century, he came to know Augustine as a fellow bishop in North Africa, and their friendship endured through the age of the Fathers. He stood with Augustine against the Donatists and Pelagians. He is best remembered for his Life of Augustine, written shortly after the saint's death in 430, an indispensable source for Augustine's later years and the fall of Roman order in North Africa. He also compiled an indiculus, a list of Augustine's writings. When the Vandals swept through Numidia he was driven into exile and died around 437, stripped of his see but faithful. He is honored as a bishop and a patron of those who preserve the memory of the saints.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Possidius grace to serve his see and to preserve the memory of your servant Augustine, grant through his intercession that we may cherish the witness of the saints and walk in their footsteps. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Possidius"
+  ],
+  "featured": false,
+  "draft": false
+}

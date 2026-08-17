@@ -1,0 +1,25 @@
+{
+  "slug": "tathana",
+  "name": "St. Tathana",
+  "feastDay": "unknown",
+  "bio": "Saint Tathana was a fifth-century holy woman of South Wales, one of the Celtic saints whose quiet lives of devotion shaped the early Church in Britain. Born around 465, she was the granddaughter of Meuric ap Tewdric of Trebeferad, of noble lineage yet drawn to a life of lowly service.\n\nShe lived as a virgin and hermit in a humble mud hut on the banks of the River Thaw, choosing poverty and solitude over the comfort her birth might have afforded. She was associated with the monastic school of Llantwit Major, that great center of learning and piety in early Wales, and there she was buried.\n\nLittle else is known of her life, yet her memory endured among the faithful of the Welsh valleys. She is remembered as a model of consecrated virginity, one who sought God in stillness.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your handmaid Tathana to a life of solitude and prayer along the quiet waters of the Thaw, grant through her intercession that we may seek You in the stillness of our own hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tathana"
+  ],
+  "featured": false,
+  "draft": false
+}

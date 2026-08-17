@@ -1,0 +1,25 @@
+{
+  "slug": "thalassius-and-limneus",
+  "name": "St. Thalassius and Limneus",
+  "feastDay": "02-22",
+  "bio": "Saints Thalassius and Limneus were Syrian hermits of the early Church, devoting themselves to prayer and contemplation in the wilderness. Thalassius, revered as a spiritual father, dwelt in a modest cell and drew disciples by his holiness. Among them was Limneus, who trained under his guidance and later established his own hermitage nearby to continue a life of silence and penance.\n\nTogether they exemplified the Syrian monastic tradition that flourished when men fled the cities to seek God in the desert. Their feast is kept on 22 February. Though little detail survives, their witness endures among the hermits who shaped the Church's contemplative heritage.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Thalassius and Limneus to seek You in the silence of the wilderness, grant through their intercession that we may learn to detach our hearts from worldly distractions and fix our gaze upon You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thalassius_and_Limneus"
+  ],
+  "featured": false,
+  "draft": false
+}

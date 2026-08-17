@@ -1,0 +1,37 @@
+{
+  "slug": "moses-the-black",
+  "name": "St. Moses the Black",
+  "feastDay": "07-01",
+  "bio": "Moses the Black, also known as Moses the Strong, Moses the Robber, and Moses the Nubian, was a Nubian ascetic hieromonk in fourth-century Egypt and one of the most striking figures among the Desert Fathers. Before his conversion he lived a life of violence and crime, said to have been a servant dismissed for theft who became the leader of a band of robbers, feared throughout the region. Moved by the witness of the desert monks, he sought them out, repented, and was baptized, taking up the ascetic life with a ferocity once given to sin now turned wholly toward God. When barbarians attacked his cell, he refused to resist, recalling the Lord's command to turn the other cheek, and he was killed. He is venerated in the Eastern and Oriental Orthodox Churches as a patron of converts and of peace.",
+  "patronages": [
+    {
+      "need": "racial justice",
+      "category": "special"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the robber Moses as a penitent and made him a father of the desert and a martyr of nonviolence, grant through his intercession that we may turn from every sin to the freedom of your children, and learn to meet violence with the peace of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moses_the_Black"
+  ],
+  "featured": false,
+  "draft": false
+}

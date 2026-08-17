@@ -1,0 +1,25 @@
+{
+  "slug": "salomon-of-cornwall",
+  "name": "St. Salomon of Cornwall",
+  "feastDay": "10-18",
+  "bio": "Salomon was a late fifth-century Cornish warrior prince, possibly a king of Cornwall, remembered in the medieval calendars of Brittany and Wales. He was the father of the Cornish bishop Saint Cybi, who carried the faith across the sea to Anglesey. Though details of his life are sparse, Salomon is honored as a Christian ruler in the age of the Celtic saints, when the Gospel was taking root among the peoples of Britain's western shores. His feast is kept on October 18. He stands as a patron of fathers and of soldiers, a warrior-prince who raised a bishop son.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Salomon grace to rule a kingdom and raise a bishop son, grant through his intercession that fathers may lead their families in the fear of the Lord. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salomon_of_Cornwall"
+  ],
+  "featured": false,
+  "draft": false
+}

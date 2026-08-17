@@ -1,0 +1,25 @@
+{
+  "slug": "secundinus",
+  "name": "St. Secundinus",
+  "feastDay": "11-27",
+  "bio": "Secundinus, known in Irish as Sechnall, was the founder and patron saint of Domhnach Sechnaill in County Meath. Medieval tradition remembers him as a disciple of Saint Patrick and one of the first bishops of Armagh, though historians suggest the connection to Patrick may be a later invention and that Secundinus was likely a separate missionary, perhaps a companion of Palladius. He worked among the Irish in the earliest days of their evangelization, establishing churches and shepherding new converts. His feast is kept on November 27, and he is honored as one of the first bishops of Ireland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Secundinus to plant the faith in Ireland, grant through his intercession that the Gospel may bear fruit in every heart that receives it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Secundinus"
+  ],
+  "featured": false,
+  "draft": false
+}

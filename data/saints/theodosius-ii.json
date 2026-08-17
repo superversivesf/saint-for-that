@@ -1,0 +1,25 @@
+{
+  "slug": "theodosius-ii",
+  "name": "St. Theodosius II",
+  "feastDay": "07-29",
+  "bio": "Theodosius II, called \"the Calligrapher,\" was Roman emperor from 402 to 450, proclaimed Augustus as an infant and raised to rule the Eastern Empire. After his father Arcadius died in 408, he governed as sole emperor of the East for over four decades.\n\nHis reign produced the Theodosian law code, codifying the statutes of Christian Rome, and the mighty Theodosian walls of Constantinople. Devout and studious, he presided over the Church with earnest concern, though his reign also saw the Christological controversies of Nestorianism and Eutychianism. Honoured as a saint in the Eastern tradition, his feast is 29 July, and he is remembered as a pious ruler who governed a Christian empire.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Theodosius wisdom to govern Your people and zeal for the order of Your Church, grant through his intercession that those entrusted with authority may seek above all the things that belong to Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodosius_II"
+  ],
+  "featured": false,
+  "draft": false
+}

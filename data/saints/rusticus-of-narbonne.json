@@ -1,0 +1,21 @@
+{
+  "slug": "rusticus-of-narbonne",
+  "name": "St. Rusticus of Narbonne",
+  "feastDay": "unknown",
+  "bio": "Rusticus of Narbonne was a monk of the renowned Lérins Abbey before being consecrated bishop of Narbonne in southern Gaul. He shepherded the Church in a region where Roman authority was weakening and the Church was still establishing its footing. As a monk-bishop, he carried the contemplative discipline of Lérins into the active ministry of the episcopate. Honored as a saint of Gaul, Rusticus represents the generation of fifth-century bishops who consolidated the faith in the provinces of the collapsing Western Empire. His memory endures among the saints of southern France.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your bishop Rusticus to shepherd the Church of Narbonne, grant through his intercession that pastors may unite contemplation with ministry. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rusticus_of_Narbonne"
+  ],
+  "featured": false,
+  "draft": false
+}

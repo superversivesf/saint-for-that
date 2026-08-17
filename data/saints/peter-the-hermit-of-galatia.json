@@ -1,0 +1,29 @@
+{
+  "slug": "peter-the-hermit-of-galatia",
+  "name": "St. Peter the Hermit of Galatia",
+  "feastDay": "unknown",
+  "bio": "Peter the Hermit of Galatia was a Christian ascetic who lived near Antioch in Byzantine Syria in the early fifth century. Drawn to the solitude of the wilderness, he withdrew from the cities and the noise of the world to give himself wholly to prayer, fasting, and contemplation of the mysteries of God. Little detail of his life has survived, but he is remembered among the hermits of the eastern deserts who sought God in silence and gave their days to unceasing prayer. In an age of theological controversy and political upheaval, such hermits kept alive the radical call to holiness through a life hidden with Christ. He is honored as one of those desert witnesses whose austerity and devotion formed the backbone of early monastic spirituality in the Syriac and Greek traditions.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Peter the Hermit to seek You in the silence of the Galatian wilderness, grant through his intercession that we may learn to withdraw from the noise of the world and to find You in the secret places of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Hermit_of_Galatia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "shushanik",
+  "name": "St. Shushanik",
+  "feastDay": "09-20",
+  "bio": "Shushanik, also called Shushanika or Vardandukht, was a Christian Armenian noblewoman who suffered martyrdom at the town of Tsurtavi in Georgia. Married to the Georgian prince Varsken, she endured years of imprisonment, isolation, torture, and cruelty after her husband apostatized and tried to force her to renounce Christ. She died defending her right to profess the Christian faith, and is regarded as a martyr.\n\nHer martyrdom is described in the hagiographic work of her confessor Jacob, the oldest extant writing in the Georgian language, which details her long and resolute resistance. Bound, beaten, starved, and finally slain around the year 475, Shushanik remained steadfast to the end. She is invoked as a patron of persecuted Christians, of prisoners, and of women suffering in difficult marriages, and is honored as the first known female martyr of Georgia.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your martyr Shushanik constancy to endure chains and blows rather than deny your Son, grant through her intercession that all who suffer for the faith may be strengthened, and that those bound in cruel marriages may find refuge in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shushanik"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "peter-chrysologus",
+  "name": "St. Peter Chrysologus",
+  "feastDay": "07-30",
+  "bio": "Peter Chrysologus was an Italian Christian prelate who served as Bishop of Ravenna from about 433 until his death around 450. Born in Imola, he was appointed to the see of Ravenna through the influence of the Empress Galla Placidia, who, according to tradition, was guided by a vision of St. Apollinaris. He earned the title Chrysologus, Greek for \"golden-worded,\" and is known as the \"Doctor of Homilies\" for the concise but theologically rich reflections he delivered during his years as bishop. Over one hundred and seventy of his sermons survive, marked by clarity, devotion, and a warm pastoral concern for his people. He defended the orthodox faith against heresies and corresponded humbly with Pope Leo the Great. He was declared a Doctor of the Church in 1729. His feast is kept on July 30.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Peter Chrysologus a golden-voiced herald of Your word and a faithful shepherd of Your people, grant through his intercession that preachers may speak with clarity and that all Your faithful may hear Your voice with joy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Chrysologus"
+  ],
+  "featured": false,
+  "draft": false
+}
