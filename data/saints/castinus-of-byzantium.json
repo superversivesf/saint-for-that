@@ -1,0 +1,21 @@
+{
+  "slug": "castinus-of-byzantium",
+  "name": "St. Castinus of Byzantium",
+  "feastDay": "unknown",
+  "bio": "Saint Castinus of Byzantium is remembered as a third-century bishop who shepherded the young Christian community on the shores of the Bosphorus, in the city that would one day be called Constantinople. In some ancient catalogues his name appears as Constantine or Kastinos, a sign of the uncertainty that surrounds the earliest years of that great see.\n\nReputedly serving as bishop between the years 230 and 237, Castinus labored in a time when the Church still lived under the shadow of imperial suspicion, decades before the peace of Constantine. Little else has come down to us of his life, yet the memory of his episcopate endured among the faithful of Byzantium, who honored him as a saint and counted him among the early witnesses of the faith in the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Castinus to shepherd your people at Byzantium in the early days of the Church, grant through his intercession that all pastors may guard their flocks with faith and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castinus_of_Byzantium"
+  ],
+  "featured": false,
+  "draft": false
+}

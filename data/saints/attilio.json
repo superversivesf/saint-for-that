@@ -1,0 +1,25 @@
+{
+  "slug": "attilio",
+  "name": "St. Attilio",
+  "feastDay": "06-28",
+  "bio": "Attilio is venerated as one of the legendary martyrs of the Theban Legion, that great company of Christian soldiers said to have been put to death for refusing to sacrifice to the Roman gods. His cult has long flourished around Trino Vercellese in Piedmont, where he is commemorated on 28 June.\n\nThough his veneration is no longer officially recognized in the current Roman Martyrology, the piety of the local people has kept his memory alive for centuries. He stands among those soldier-martyrs whose witness testifies to the cost of faithfulness even under military discipline.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Attilio and his companions courage to prefer death rather than betray your worship, grant through their intercession that all who serve under arms may keep faith with conscience and with You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Attilio"
+  ],
+  "featured": false,
+  "draft": false
+}

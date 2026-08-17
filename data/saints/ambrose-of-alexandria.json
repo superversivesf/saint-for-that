@@ -1,0 +1,25 @@
+{
+  "slug": "ambrose-of-alexandria",
+  "name": "St. Ambrose of Alexandria",
+  "feastDay": "03-17",
+  "bio": "Saint Ambrose of Alexandria was a Christian of the third century who is remembered chiefly as a devoted friend and patron of the great theologian Origen. He shared Origen's life of study and prayer, and by his wealth supported the production of the scholar's vast biblical and theological works.\n\nDuring the persecution under Maximin, Ambrose confessed his faith and suffered for it, winning the title of confessor. He remained a faithful companion of Origen to the end, and is honored as a lay patron of learning and a steadfast witness who used his resources for the spread of Christian teaching.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Ambrose of Alexandria a generous heart to support the study of Scripture and courage to confess Your name, grant through his intercession that all who serve the truth may labor in freedom and in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ambrose_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

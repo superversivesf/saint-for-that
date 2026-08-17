@@ -1,0 +1,25 @@
+{
+  "slug": "martyrdom-of-pionius",
+  "name": "St. Pionius",
+  "feastDay": "02-01",
+  "bio": "Pionius was a Christian presbyter of Smyrna who was martyred, most likely in 250 AD, during the persecution ordered by the Roman Emperor Decius. He is known to us through an ancient account titled The Martyrdom of Pionius, also called The Acts of Pionius or, in Latin, the Martyrium Pionii or Passio Pionii, dating from roughly 250 to 300 AD.\n\nThe account records that Pionius and his companions were arrested as they prepared to celebrate the anniversary of the martyrdom of St. Polycarp. Brought before the proconsul, Pionius defended the Christian faith with learning and eloquence, refusing to offer sacrifice to the gods or to deny Christ. After repeated interrogations and tortures, he and those who suffered with him were condemned and executed, sealing their confession with their blood.\n\nThe feast of Saint Pionius is kept on 11 March in the Eastern Orthodox churches and on 1 February in Roman Catholicism. He is remembered as a learned pastor who loved his flock unto death, and as a faithful heir of the martyrs of Smyrna.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your presbyter Pionius the courage to confess your Son before the proconsul and to lay down his life with his companions, grant through his intercession that we may love your truth above every fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyrdom_of_Pionius"
+  ],
+  "featured": false,
+  "draft": false
+}

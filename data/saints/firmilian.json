@@ -1,0 +1,25 @@
+{
+  "slug": "firmilian",
+  "name": "St. Firmilian",
+  "feastDay": "10-28",
+  "bio": "Firmilian was Bishop of Caesarea Mazaca in Cappadocia from about 232, a disciple of the great Origen whose school shaped much of third-century theology. His forty years of influential episcopate placed him among the most conspicuous figures of his age, comparable to Dionysius of Alexandria and Cyprian of Carthage. A friend and correspondent of Origen and Dionysius, he was appealed to by Cyprian himself in the controversies over rebaptising heretics and readmitting Christians who had lapsed during the persecutions of Decius. His position on these questions brought him into conflict with Pope Stephen I, who excommunicated him for refusing to accept Roman discipline. A single letter of Firmilian to Cyprian survives among Cyprian's correspondence, a witness to a bishop of formidable learning and conviction.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Firmilian a long and faithful ministry of teaching and pastoral care in Caesarea, grant through his intercession that bishops and theologians may serve your Church with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Firmilian"
+  ],
+  "featured": false,
+  "draft": false
+}

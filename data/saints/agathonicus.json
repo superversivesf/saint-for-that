@@ -1,0 +1,25 @@
+{
+  "slug": "agathonicus",
+  "name": "St. Agathonicus",
+  "feastDay": "unknown",
+  "bio": "Saint Agathonicus was a third-century citizen of Nicomedia who, while living in Greece, taught the Greeks about Christ. When the imperial governor began persecuting Christians on the orders of Emperor Maximian, Agathonicus and his companions were seized.\n\nHis companion Zoticus was taken at Carpe, and the followers with him were crucified. Agathonicus was sent to Nicomedia, where he and his companions Princeps, Theoprepius, Acyndinus, Severian, and Zeno were taken toward Byzantium. Many died of exhaustion and abuse on the journey, and others were killed at Chalcedon. The survivors were brought to Selymbria in Thrace, where, after torture before the emperor, they were beheaded.\n\nHe is honored as a zealous preacher and a steadfast martyr.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Agathonicus a bold preacher of the Gospel to the Greeks and a faithful martyr, grant through his intercession that missionaries may proclaim Christ with courage and persevere in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agathonicus"
+  ],
+  "featured": false,
+  "draft": false
+}

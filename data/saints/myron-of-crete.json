@@ -1,0 +1,29 @@
+{
+  "slug": "myron-of-crete",
+  "name": "St. Myron of Crete",
+  "feastDay": "08-08",
+  "bio": "Saint Myron the Wonder-Worker was born at Aurakia, near Knossos on the island of Crete, and labored as a farmer before he was raised up to be a bishop. Known for his great charity to the poor, he gave freely of what his land produced and won the love of the people long before he wore the mitre.\n\nChosen archbishop of Crete, he served the Church through the storms of the Decian persecution and was granted the grace of working wonders, yet the ancient accounts say he died a natural and quiet death in the year 350, at the age of one hundred. His long life of labor and mercy made him one of the most beloved saints of the Greek Church, and his feast is kept on 8 August.",
+  "patronages": [
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your bishop Myron from the plow to the altar and made him a shepherd rich in wonders and in charity, grant through his intercession that farmers may bless you for the harvest and that the poor may never cry out in vain. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Myron_of_Crete"
+  ],
+  "featured": false,
+  "draft": false
+}

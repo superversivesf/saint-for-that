@@ -1,0 +1,21 @@
+{
+  "slug": "fabrician-and-philibert",
+  "name": "St. Fabrician and Philibert",
+  "feastDay": "08-22",
+  "bio": "Saints Fabrician and Philibert were Christian martyrs of the third century who suffered for their faith in Toledo, Spain. Little historical detail about them survives beyond their witness to Christ. Venerated in both the Eastern Orthodox and Roman Catholic Churches, they are commemorated on August 22. Their memory stands as a testimony to the early Church's martyrs in Hispania, who confessed Christ amid the persecutions that swept the Roman world before Constantine's peace. They stand among the countless witnesses of the early centuries whose names are preserved by the Church's devotion even where the record of their deeds has faded.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saints Fabrician and Philibert with the glory of martyrdom in the city of Toledo, grant through their intercession that we may confess the name of Christ with steadfast courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fabrician_and_Philibert"
+  ],
+  "featured": false,
+  "draft": false
+}

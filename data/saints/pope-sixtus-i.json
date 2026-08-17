@@ -1,0 +1,21 @@
+{
+  "slug": "pope-sixtus-i",
+  "name": "St. Sixtus I",
+  "feastDay": "04-06",
+  "bio": "Pope Sixtus I, also known as Xystus, was a Roman of Greek descent who served as Bishop of Rome from about 117 to 126. He succeeded Alexander I and was followed by Telesphorus, shepherding the Church during the reigns of Emperors Hadrian and Antoninus Pius. Though few details of his life survive, he is counted among the early popes who consolidated the Roman Church's liturgical and pastoral life in the generations after the apostles. His feast is celebrated on April 6, and he is honored as a faithful shepherd of the primitive Church.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who built your Church upon the rock of Peter and raised up Pope Sixtus I to shepherd your flock in the apostolic age, grant through his intercession that we may remain faithful to the teaching of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Sixtus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "conon-of-perga",
+  "name": "St. Conon of Perga",
+  "feastDay": "unknown",
+  "bio": "Saint Conon of Perga is honored as a martyr saint of the Roman Empire, one of the many confessors of the early Church whose blood watered the seed of the Gospel. The city of Perga in Pamphylia, a region of Asia Minor, was home to a Christian community that suffered during the periodic persecutions that swept the Empire before the peace of Constantine.\n\nAlthough the details of Conon's passion have largely been lost to history, his name was preserved in the ancient martyrologies as a witness who would not deny his Lord. The Church has long honored him among the ranks of the holy martyrs, and his memory endures as a reminder that the faith was upheld in every age by those whose stories are known to God alone.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Conon of Perga grace to confess your name in the hour of trial, grant through his intercession that we too may be found faithful when our faith is tested. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Conon_of_Perga"
+  ],
+  "featured": false,
+  "draft": false
+}

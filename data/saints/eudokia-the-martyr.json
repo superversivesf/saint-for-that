@@ -1,0 +1,29 @@
+{
+  "slug": "eudokia-the-martyr",
+  "name": "St. Eudokia the Martyr",
+  "feastDay": "08-04",
+  "bio": "Saint Eudokia was a Christian martyr of the third century who suffered under the persecution of the Persian king Shapur I, who deported thousands of Christians from their homes in the Roman East. Carried off into a foreign land, Eudokia did not despair but strengthened her fellow captives in the faith, urging them to remain steadfast before their tormentors.\n\nShe is remembered for converting Persian women to the Gospel, and for this she was tortured in many ways and imprisoned more than once. At last she was executed by beheading, sealing her witness with her blood. She is venerated in the Eastern Orthodox Church on August 4, though some modern hagiographers have questioned her historicity.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Eudokia courage to confess your Son in a foreign land and to win Persian hearts to the Gospel, grant through her intercession that all who are carried far from home may remain steadfast in faith and that the witness of martyrs may draw unbelievers to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eudokia_the_Martyr"
+  ],
+  "featured": false,
+  "draft": false
+}

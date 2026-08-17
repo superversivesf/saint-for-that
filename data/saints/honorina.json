@@ -1,0 +1,25 @@
+{
+  "slug": "honorina",
+  "name": "St. Honorina",
+  "feastDay": "02-27",
+  "bio": "Saint Honorina was a third-century virgin martyr of Gallo-Roman northern France, venerated as a saint in the Catholic and Eastern Orthodox Churches. Believed to have been killed in the first years of the fourth century during the persecutions of Diocletian, very little is known of her life apart from her reputed martyrdom for maintaining her Christian faith. Her cult took deep root in the region of the Seine, where the commune of Conflans-Sainte-Honorine preserves her name to this day. From an early date she was invoked as a patron of boatmen and sailors who passed along the river, and of prisoners and captives, a reflection of the tradition that she herself endured chains before her death. Her feast on February 27 has been kept by river communities for centuries.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Honorina the crown of virginity and martyrdom, grant through her intercession that all who journey by water and all who languish in captivity may find protection and deliverance. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honorina"
+  ],
+  "featured": false,
+  "draft": false
+}

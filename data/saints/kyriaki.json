@@ -1,0 +1,25 @@
+{
+  "slug": "kyriaki",
+  "name": "St. Kyriaki",
+  "feastDay": "07-07",
+  "bio": "Saint Kyriaki, also called Kyriaki the Great Martyr, was a Christian virgin who suffered martyrdom under the Roman emperor Diocletian. Her name, meaning \"Sunday\" or \"of the Lord,\" reflects the joy of the Lord's Day, and in the Catholic tradition she is rendered as Saint Dominica.\n\nRaised in a devout Christian family, Kyriaki dedicated herself to Christ from her youth and refused the marriage arranged for her by her parents, choosing instead a life of virginity and prayer. When the persecution of Diocletian swept through the eastern provinces, she was denounced as a Christian and brought before the imperial authorities. Despite threats and tortures, she remained steadfast, declaring that she belonged to Christ alone.\n\nAfter repeated trials, Kyriaki was finally executed, gaining the crown of martyrdom. She is honored as a patron of Servia in Greece, and her feast is kept on 7 July. Down the centuries the faithful have sought her intercession as a model of chastity, courage, and unshakable fidelity to the Gospel.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your virgin martyr Kyriaki with the palm of victory, grant through her intercession that we may keep ourselves pure in heart and steadfast in the confession of your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kyriaki"
+  ],
+  "featured": false,
+  "draft": false
+}

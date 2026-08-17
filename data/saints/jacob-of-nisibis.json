@@ -1,0 +1,25 @@
+{
+  "slug": "jacob-of-nisibis",
+  "name": "St. Jacob of Nisibis",
+  "feastDay": "unknown",
+  "bio": "Jacob of Nisibis, also called Jacob of Mygdonia, Jacob the Great, and James of Nisibis, was a hermit and bishop of Nisibis in Mesopotamia until his death. Renowned for his severe asceticism, he lived for years as a \"grazer,\" subsisting on wild plants and sleeping in the open like the beasts of the field, before he was raised to the episcopal see of Nisibis.\n\nAs bishop, Jacob shepherded his flock through the turbulent years of the Persian wars and the Arian controversy. He is credited with guiding the faithful at Nisibis through repeated sieges by the Sassanid Persians, and tradition holds that his prayers aided the city's defense. He was a father in the faith to one of the most ancient Christian communities east of the Roman frontier.\n\nJacob died around 338, shortly before Nisibis was ceded to Persia. Honored as a confessor of the faith and a model of the solitary life embraced for Christ, he is remembered among the great ascetic bishops who shaped the Church of the East.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Jacob to seek you in solitude and then to shepherd your people at Nisibis, grant through his intercession that we may learn the stillness of prayer and the courage of faithful witness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jacob_of_Nisibis"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "austromoine",
+  "name": "St. Austromoine",
+  "feastDay": "11-01",
+  "bio": "Saint Austromoine, known also as Stremonius or Stramonius, is honored as the \"apostle of Auvergne\" and the first bishop of Clermont in the Auvergne region of Gaul. Sent in the early centuries of the Church to evangelize the tribes of central Gaul, he planted the faith among a people still largely given to old Celtic ways.\n\nHis labors laid the foundations of the church of Clermont, which would later produce bishops and scholars of great note. Venerated from ancient times, his feast on 1 November is kept in the region he evangelized. He remains a patron of the Auvergne and a witness to the first preaching of the Gospel in the heart of Gaul.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Austromoine to be the first shepherd of Auvergne and to lead its people from old shadows to the light of Christ, grant through his intercession that new lands may always find preachers of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austromoine"
+  ],
+  "featured": false,
+  "draft": false
+}

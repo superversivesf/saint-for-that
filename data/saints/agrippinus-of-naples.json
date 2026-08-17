@@ -1,0 +1,25 @@
+{
+  "slug": "agrippinus-of-naples",
+  "name": "St. Agrippinus of Naples",
+  "feastDay": "11-09",
+  "bio": "Saint Agrippinus, also called Arpinus, was the sixth bishop of Naples, living at the close of the third century. Honored from earliest times as a heavenly patron of the city, he shepherded the faithful through the uncertain decades before the peace of Constantine.\n\nThough tradition records that he was not a martyr, the people of Naples venerated him with great devotion, and his relics were later enshrined in the city that still claims him as a co-patron. His memory stands as a witness to the quiet, faithful pastoral care of the early Italian bishops.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Agrippinus grace to shepherd the church of Naples in peace and in trial, grant through his intercession that all who serve as pastors may lead their people with quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agrippinus_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

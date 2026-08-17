@@ -1,0 +1,29 @@
+{
+  "slug": "euthalia-of-sicily",
+  "name": "St. Euthalia of Sicily",
+  "feastDay": "03-02",
+  "bio": "Saint Euthalia was a virgin and martyr of the third century from Leontini in Sicily. According to the ancient accounts, she was the daughter of a pagan mother who opposed her faith, yet Euthalia remained firm in her confession of Christ even when threatened with death.\n\nShe was condemned and executed for her refusal to sacrifice, and her blood bore witness to the Gospel in the island of Sicily, where the Church had been planted since the apostolic age. She is commemorated in the Eastern Orthodox and Byzantine Catholic Churches on March 2 and in the Roman Catholic Church on August 27, invoked as a virgin-martyr who held fast against the opposition of her own household.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Euthalia strength to confess your Son even against the will of her own mother, grant through her intercession that young women may hold fast to the faith they have received and that families divided by the Gospel may be reconciled in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euthalia_of_Sicily"
+  ],
+  "featured": false,
+  "draft": false
+}

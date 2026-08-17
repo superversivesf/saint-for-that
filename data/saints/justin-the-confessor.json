@@ -1,0 +1,25 @@
+{
+  "slug": "justin-the-confessor",
+  "name": "St. Justin the Confessor",
+  "feastDay": "08-04",
+  "bio": "Justin the Confessor was a Christian martyr of the Roman Empire, honored as a saint by both the Roman Catholic and Eastern Orthodox Churches. His title \"the Confessor\" marks him as one who suffered for the faith without undergoing a death immediately at the hands of persecutors, though tradition links him to the age of imperial oppression that produced many martyrs.\n\nJustin bore witness to Christ in a time when confession of the Gospel could cost a person freedom, home, or life. The details of his suffering have been largely obscured by the centuries, but the Church has preserved his name among those who refused to deny their Lord when the Caesars demanded worship be offered to the old gods.\n\nHis feast is kept on 4 August. He is remembered as a quiet witness of the early Church, whose courage reminds the faithful that confessing Christ has always required a willing heart, whatever the cost.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Justin the courage to confess the name of Christ before the powers of this world, grant through his intercession that we may never be ashamed to profess our faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justin_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

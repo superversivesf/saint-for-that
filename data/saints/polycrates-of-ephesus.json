@@ -1,0 +1,25 @@
+{
+  "slug": "polycrates-of-ephesus",
+  "name": "St. Polycrates of Ephesus",
+  "feastDay": "unknown",
+  "bio": "Polycrates of Ephesus was an early Christian bishop who governed the church of Ephesus in the late second century. He is best remembered for convening a synod of Asian bishops to defend the Quartodeciman practice of observing Easter on the fourteenth of Nisan, in keeping with the ancient tradition received from the Apostles John and Philip. Around AD 190 he wrote a firm yet respectful letter to Pope Victor of Rome, defending this ancestral custom and listing the luminaries of Asia who had kept it. Though the Roman date ultimately prevailed elsewhere, Polycrates stands as a witness to apostolic tradition and the dignity of local churches. His feast day is not widely recorded.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Polycrates courage to defend the traditions handed down by the apostles, grant through his intercession that your Church may hold fast to truth and remain one in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polycrates_of_Ephesus"
+  ],
+  "featured": false,
+  "draft": false
+}

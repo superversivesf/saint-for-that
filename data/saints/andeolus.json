@@ -1,0 +1,25 @@
+{
+  "slug": "andeolus",
+  "name": "St. Andeolus",
+  "feastDay": "05-01",
+  "bio": "Saint Andeolus, or Andeol, was a Christian missionary sent to preach the Gospel in Gaul, and is honored as a martyr of the early Church in southern France. According to tradition he was a disciple sent forth to bring the faith to the peoples of the Rhone valley, where he labored and finally gave his life.\n\nHis relics were long venerated at Bourg-Saint-Andeol, the town that bears his name. He is commemorated on May 1, and is remembered as one of the early heralds of the Gospel who planted the faith in Roman Gaul.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Andeolus to sow the seed of the Gospel in Gaul and crowned his labor with martyrdom, grant through his intercession that missionaries may proclaim Christ with courage unto the ends of the earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andeolus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "narcissus-of-jerusalem",
+  "name": "St. Narcissus of Jerusalem",
+  "feastDay": "08-07",
+  "bio": "Narcissus of Jerusalem was an early patriarch of the Holy City, counted among the great bishops who shepherded the mother Church of Christendom in the age immediately after the apostles. Consecrated bishop of Jerusalem near the close of the second century, he governed that see with a holiness that astonished even his enemies.\n\nAncient accounts tell of miracles attributed to his prayers, including Easter lamps filled with water that burned as oil when he blessed them. Venerated by both the Western and the Eastern Churches, he is honored in Rome on 29 October and in the East on 7 August. His long and faithful episcopate helped secure the see of Jerusalem as a living witness to the Resurrection for pilgrims from every land.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Narcissus a faithful steward of the holy city where your Son rose from the dead, grant through his intercession that pastors may shine with holiness and that pilgrims may walk in the light of the Resurrection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

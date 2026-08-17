@@ -1,0 +1,25 @@
+{
+  "slug": "maximilian-of-lorch",
+  "name": "St. Maximilian of Lorch",
+  "feastDay": "10-12",
+  "bio": "Saint Maximilian of Lorch, also called Maximilian of Celeia, was a bishop and missionary in the Roman province of Noricum, in what is now Austria. Ordained to carry the Gospel into the frontier lands north of the Alps, he labored among pagan peoples and built up the first Christian communities along the Danube.\n\nFaithful to his charge even when persecution flared under the Emperor Diocletian, Maximilian refused to sacrifice to the Roman gods and was put to death for Christ in the year 288. His witness seeded the Church in Noricum, and the see of Lorch honored him as its founder and patron. His feast is kept on 12 October.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your bishop Maximilian to preach the Gospel in hostile lands and to lay down his life rather than deny you, grant through his intercession that missionaries may bear witness with courage and that your Church may never fail in persecution. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximilian_of_Lorch"
+  ],
+  "featured": false,
+  "draft": false
+}

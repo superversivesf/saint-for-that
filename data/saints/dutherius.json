@@ -1,0 +1,25 @@
+{
+  "slug": "dutherius",
+  "name": "St. Dutherius",
+  "feastDay": "unknown",
+  "bio": "Saint Dutherius was a bishop and martyr of the third century, counted among the early witnesses of the Church at Nice, in what is now the south of France. He belonged to that first generation of shepherds who guided newly planted churches through the uncertainties of an age that had not yet learned to tolerate the name of Christian.\n\nLittle has come down to us of his life beyond the ancient memory that he served as bishop and that he shed his blood for the faith. He is honored as a pre-congregational saint, venerated from the earliest centuries, and his witness stands as a reminder that the Church at Nice was built upon the sacrifice of those first pastors.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Dutherius grace to lay down his life for the flock entrusted to his care, grant through his intercession that bishops may shepherd your people with courage and that all who suffer for the Gospel may find their reward in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dutherius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "publius",
+  "name": "St. Publius",
+  "feastDay": "01-22",
+  "bio": "Saint Publius, honored as Publius of Malta and Publius of Athens, was an early Christian bishop and martyr. According to tradition, he was the chief man of Malta who received the Apostle Paul after his shipwreck and offered him hospitality; when Publius's father lay sick of fever and dysentery, Paul visited him and prayed, and he was healed. Converted by this miracle, Publius became the first Bishop of Malta and labored to plant the faith on the island. He was later sent to Athens, where he served as one of its earliest bishops and was martyred for his preaching. His feast is kept on January 22.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your bishop Publius through the ministry of the Apostle Paul and made him a healer of body and soul, grant through his intercession that travelers may find safe harbor and the sick may be restored. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Publius"
+  ],
+  "featured": false,
+  "draft": false
+}

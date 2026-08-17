@@ -1,0 +1,21 @@
+{
+  "slug": "agathodorus",
+  "name": "St. Agathodorus",
+  "feastDay": "04-13",
+  "bio": "Saint Agathodorus was an early Christian martyr who suffered at Pergamon, in Asia Minor, during one of the imperial persecutions of the Church. Beyond the bare fact of his martyrdom, little has come down to us about his life.\n\nPergamon was one of the great cities of the Roman province of Asia and an early center of Christianity, mentioned in the Book of Revelation as a place where the faithful held fast to the name of Christ. Agathodorus was among those who bore witness to the Gospel there in the earliest generations of the Church.\n\nHe is remembered as one of the anonymous multitude of martyrs whose names are preserved in the martyrologies, witnesses to a faith that the empire could not extinguish.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Agathodorus grace to witness to Christ at Pergamon even unto death, grant through his intercession that we may hold fast to Your name in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agathodorus"
+  ],
+  "featured": false,
+  "draft": false
+}

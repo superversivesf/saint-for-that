@@ -1,0 +1,21 @@
+{
+  "slug": "acathius-i-of-melitene",
+  "name": "St. Acathius I of Melitene",
+  "feastDay": "03-31",
+  "bio": "Saint Acathius was bishop of Melitene, the capital of the Roman province of Second Armenia, in the third century, though some ancient sources give him as bishop of Antioch. He shepherded the Christian community of Armenia during a time of consolidation and growth, when the Church was still emerging from the shadow of persecution.\n\nLittle detail of his life survives, but his memory was preserved among the bishops of the East as a faithful pastor who guided his flock through uncertain times. The see of Melitene was an important center of Armenian Christianity, and Acathius is counted among its early hierarchs.\n\nHe is remembered as one of the pioneer bishops who helped establish the Church in the lands beyond the imperial frontier.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Acathius a faithful bishop of Melitene and a shepherd of Your people in the early centuries of the Church, grant through his intercession that bishops may guide their flocks in unity and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acathius_I_of_Melitene"
+  ],
+  "featured": false,
+  "draft": false
+}

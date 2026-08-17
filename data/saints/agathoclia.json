@@ -1,0 +1,21 @@
+{
+  "slug": "agathoclia",
+  "name": "St. Agathoclia",
+  "feastDay": "09-17",
+  "bio": "Saint Agathoclia is venerated as a patron saint of Mequinenza, in Aragón, Spain, where her feast is kept on 17 September. She is honored as a martyr of the early Church, though the details of her passion have been largely lost to history.\n\nDevotion to her took root in the towns along the Ebro, where the faithful kept her memory alive through centuries of local piety. Her name appears in the martyrologies among the witnesses of the early centuries of Christianity.\n\nShe is remembered as one of the many martyrs whose witness outlasted the empire that sought to erase them, and she remains the heavenly patron of the community that still honors her.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Agathoclia in martyrdom and preserved her memory among the faithful of Aragón, grant through her intercession that those who suffer for their faith may find strength in Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agathoclia"
+  ],
+  "featured": false,
+  "draft": false
+}

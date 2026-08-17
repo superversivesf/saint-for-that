@@ -1,0 +1,25 @@
+{
+  "slug": "bienheur",
+  "name": "St. Bienheuré",
+  "feastDay": "05-09",
+  "bio": "Saint Bienheuré is a semi-legendary hermit of Vendôme in the Loire valley, venerated from early medieval times. Tradition holds that he lived in a cave near the town, devoting himself to prayer and fasting in solitude long before the great monastic foundations of the West.\n\nHis legend, like that of many hermits of the early Middle Ages, tells that he fought and overcame a dragon that ravaged the countryside, a sign of the triumph of the Gospel over the powers of the old paganism. His cult was later blended with that of Beatus of Lungern, the dragon-slaying hermit of Switzerland. He is invoked as a patron of hermits and of those who seek God in silence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Bienheuré into the silence of the cave and gave him strength to overcome the dragon that threatened the land, grant through his intercession that those who seek you in solitude may find you, and that the powers of evil may be put to flight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bienheur%C3%A9"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "castritian",
+  "name": "St. Castritian",
+  "feastDay": "12-01",
+  "bio": "Saint Castritian served as Bishop of Milan in the middle of the third century, guiding the church of that great Italian see through a troubled and formative age. He stands among the early line of Milanese bishops who laid the foundations upon which later shepherds, including the great Saint Ambrose, would build.\n\nFew details of his life have survived the centuries, yet his memory was preserved by the devotion of the faithful, who honored him as a saint and kept his feast on the first day of December. In an era when the Church was still gathering strength amid periodic persecution, Castritian's quiet fidelity to his episcopal office was itself a confession of faith, and the church of Milan has long treasured his name among its earliest confessors.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Castritian grace to govern the church of Milan in days of trial, grant through his intercession that all who bear the burden of pastoral office may be found faithful in your sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castritian"
+  ],
+  "featured": false,
+  "draft": false
+}

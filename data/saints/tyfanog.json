@@ -1,0 +1,25 @@
+{
+  "slug": "tyfanog",
+  "name": "St. Tyfanog",
+  "feastDay": "unknown",
+  "bio": "Tyfanog, also known as Tauannauc, is a pre-congregational saint of Wales, honored among the early British missionaries who carried the Gospel to the western reaches of the Roman world. Tradition holds that he arrived in Britain around 186 and established a community on Ramsey Island, off the coast of Pembrokeshire, during the Roman era. He is said to have been murdered by the island's inhabitants and to have ended his days in witness to the faith. A legend recounts that his body miraculously swam across the waters to the site where a chapel was later built in his honor. His feast is associated with November 25, and he is venerated as a preacher and martyr of Wales.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Tyfanog the courage to preach your Gospel to the people of Wales and crowned his witness with martyrdom, grant through his intercession that we may proclaim your name with boldness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tyfanog"
+  ],
+  "featured": false,
+  "draft": false
+}

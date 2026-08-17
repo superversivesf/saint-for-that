@@ -1,0 +1,25 @@
+{
+  "slug": "bassus-of-nice",
+  "name": "St. Bassus of Nice",
+  "feastDay": "unknown",
+  "bio": "Saint Bassus of Nice is remembered as a third-century martyr and the earliest named bishop of the city of Nice in Gaul. In those early decades, the small Christian communities of the Roman coastlands were often exposed to arrest and death, and Bassus is numbered among the shepherds who gave their lives for the flock entrusted to them.\n\nAncient tradition places his martyrdom during the persecutions that troubled the Church before the peace of Constantine. Though the details of his confession have been lost to time, his name endured in the memory of the church of Nice, which honors him as the first in the long line of its bishops to witness, even to blood, the faith they professed.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Bassus, first bishop of Nice, the grace to lay down his life for the flock he shepherded, grant through his intercession that all pastors may be faithful even unto death. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bassus_of_Nice"
+  ],
+  "featured": false,
+  "draft": false
+}

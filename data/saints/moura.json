@@ -1,0 +1,25 @@
+{
+  "slug": "moura",
+  "name": "St. Moura",
+  "feastDay": "05-03",
+  "bio": "Saint Moura, also called Mart Moura, is a Christian martyr of the third century, honored across Egypt and the Christian East. Her feast is kept on 3 May and again on 25 September, and in the Coptic calendar on the fifth of Hathor and the eighth of Pashons, a sign of how widely she was loved.\n\nSeveral churches are dedicated to her in northern Lebanon, and a monastery at Ehden preserves her memory among the mountain Christians who have invoked her for centuries. Though the details of her passion are veiled in the mists of the ancient persecutions, the faithful have never doubted her courage, and pilgrims still climb to her shrines asking the intercession of one who confessed Christ when confession meant death.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your handmaid Moura with the palm of martyrdom and made her name a light for the churches of Lebanon and Egypt, grant through her intercession that those who suffer for your name may stand firm and that the oppressed may be delivered. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Moura"
+  ],
+  "featured": false,
+  "draft": false
+}

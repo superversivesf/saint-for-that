@@ -1,0 +1,25 @@
+{
+  "slug": "agrippinus-of-carthage",
+  "name": "St. Agrippinus of Carthage",
+  "feastDay": "unknown",
+  "bio": "Agrippinus was one of the earliest known bishops of Carthage, serving in the 230s. During his episcopacy the Church faced the question of how to receive Christians who had been baptized in schism or heresy. Agrippinus called a synod of the bishops of Numidia and Africa, probably around 230 to 235, which decided that such converts should be fully baptized.\n\nHis decision, made in the early centuries before the Church's practice was fully settled, was later the subject of theological dispute. St. Cyprian, his successor at Carthage, defended the same position, while later tradition, as reported by St. Vincent of Lérins, judged it contrary to the universal rule.\n\nAgrippinus is remembered as one of the first African bishops whose deliberations shaped the Church's pastoral practice.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Agrippinus wisdom to gather the bishops of Africa and seek the right pastoral care of converts, grant through his intercession that all who come to the Church may be received in truth and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agrippinus_of_Carthage"
+  ],
+  "featured": false,
+  "draft": false
+}

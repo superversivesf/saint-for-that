@@ -1,0 +1,41 @@
+{
+  "slug": "anthony-the-great",
+  "name": "St. Anthony the Great",
+  "feastDay": "01-17",
+  "bio": "Saint Anthony the Great, called the Father of All Monks, was an Egyptian Christian who lived in the third and fourth centuries and is revered as the founder of Christian monasticism. Born around 251 of prosperous peasant parents, he gave away his inheritance after hearing the Gospel call to sell all and follow Christ, and withdrew into the desert to live in solitude and prayer.\n\nHe endured long years of ascetic struggle and spiritual combat, and his example drew disciples who formed the first communities of monks. He supported the Church during the Arian controversy, boldly confessing the divinity of Christ. He died around 356, and is invoked as a patron of animals, farmers, hermits, and monks, and of the poor whom he loved.",
+  "patronages": [
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "butchers",
+      "category": "jobs"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Anthony into the desert to combat the powers of evil and to seek You in solitude, grant through his intercession that we may overcome the temptations of this world and love You above all. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "abdon-and-sennen",
+  "name": "St. Abdon and Sennen",
+  "feastDay": "07-30",
+  "bio": "Abdon and Sennen, whose names appear in early calendars and martyrologies in various forms, were Christian martyrs honored by both the Catholic and Eastern Orthodox Churches with a feast on 30 July. Tradition holds that they were Persians of noble rank who came to Rome and there suffered martyrdom for their faith during one of the imperial persecutions.\n\nTheir relics were later venerated in several places, and they became patrons of a number of towns in Spain and Italy. They were invoked for good harvests and for the protection of children, and they came to be associated with the reverent burial of the dead and with the craft of coopers.\n\nTheir cult spread through devotion rather than detailed written accounts, and they stand as quiet witnesses of the early martyrs.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "souls in purgatory",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who honored Abdon and Sennen with the crown of martyrdom and made them protectors of children and intercessors for the harvest, grant through their prayers that we may serve You in faithfulness and reverence for the dead. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abdon_and_Sennen"
+  ],
+  "featured": false,
+  "draft": false
+}

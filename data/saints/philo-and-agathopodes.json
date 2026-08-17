@@ -1,0 +1,25 @@
+{
+  "slug": "philo-and-agathopodes",
+  "name": "St. Philo and Agathopodes",
+  "feastDay": "04-25",
+  "bio": "Saints Philo and Agathopodes were deacons of the early Church who served alongside St. Ignatius of Antioch, the great bishop and martyr. Their ministry was one of devoted assistance to Ignatius during the perilous days of Roman persecution, when confessing Christ could cost a man his life. After Ignatius was condemned and martyred in the arena at Rome, it was Philo and Agathopodes who reverently gathered his sacred relics and carried them home to Antioch, that the faithful might honor them. In this final act of love they gave the Church a treasured inheritance: the mortal remains of one of her greatest fathers. Their feast is kept on April 25.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to your servants Philo and Agathopodes the grace to stand by your martyr Ignatius and to bear his relics home with honor, grant through their intercession that we may be faithful in service and steadfast in trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philo_and_Agathopodes"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "divitianus",
+  "name": "St. Divitianus",
+  "feastDay": "unknown",
+  "bio": "Saint Divitianus was a bishop of the early fourth century who served the Church of Soissons in northern France from about 310 to 320, a quiet builder in the years when the Church was emerging from the long shadow of persecution into the peace that followed Constantine's edict. He was the grandson of Saint Sinicus, himself a bishop, and so belonged to one of those early Christian families in which the faith was handed on from one generation to the next.\n\nHe died in the first quarter of the fourth century and was buried in the Basilica of the Abbey of Saint-Crespin-le-Grand at Soissons. Honored as a pre-congregational saint of France, he is remembered among the faithful shepherds of Gaul.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Divitianus handed on the faith from one generation to the next in the Church of Soissons, grant through his intercession that families may treasure the gift of faith and pass it on to those who come after them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Divitianus"
+  ],
+  "featured": false,
+  "draft": false
+}

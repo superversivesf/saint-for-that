@@ -1,0 +1,29 @@
+{
+  "slug": "pope-dionysius",
+  "name": "Pope St. Dionysius",
+  "feastDay": "12-26",
+  "bio": "Pope Dionysius served as Bishop of Rome from July 259 until his death on December 26, 268, guiding the Church through the painful transition from the persecution of Valerian to the toleration granted by the emperor Gallienus in 260. With peace restored to the churches, he set about rebuilding the life of the Christian community that persecution had scattered.\n\nHe reorganized the Church of Rome, assigning presbyters to care for individual parishes and restoring the cemeteries and churches that had suffered under imperial fury. He also provided generously for the faithful in distant provinces, especially in Cappadocia, which had been ravaged. His feast is kept on December 26.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Pope Dionysius to rebuild your Church after the storm of persecution, grant through his intercession that pastors may gather the scattered faithful and restore what has been broken, that your people may worship you in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Dionysius"
+  ],
+  "featured": false,
+  "draft": false
+}

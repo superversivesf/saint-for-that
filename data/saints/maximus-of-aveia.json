@@ -1,0 +1,25 @@
+{
+  "slug": "maximus-of-aveia",
+  "name": "St. Maximus of Aveia",
+  "feastDay": "06-10",
+  "bio": "Saint Maximus of Aveia is honored as one of the patron saints of L'Aquila, the mountain city of the Abruzzo. Devotion to him reaches back into the early centuries of Italian Christianity, when the Gospel was first planted among the rugged valleys of the central Apennines by missionaries and martyrs whose names the people have never forgotten.\n\nVenerated at Aveia in the territory of Forcona, Maximus was counted among the heavenly protectors invoked when the city trembled under earthquakes or war. The people of L'Aquila have long borne their hardships under his patronage, carrying his image in procession through streets rebuilt again and again after disaster. His feast is kept on 10 June.",
+  "patronages": [
+    {
+      "need": "earthquakes",
+      "category": "nature"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Maximus as a protector to the city of L'Aquila and to all who dwell in perilous places, grant through his intercession that when the earth shakes your people may find shelter in you and rise again in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_of_Aveia"
+  ],
+  "featured": false,
+  "draft": false
+}

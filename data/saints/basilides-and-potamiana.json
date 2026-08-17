@@ -1,0 +1,29 @@
+{
+  "slug": "basilides-and-potamiana",
+  "name": "St. Basilides and Potamiana",
+  "feastDay": "unknown",
+  "bio": "Basilides and Potamiaena were Christian martyrs of Alexandria who suffered under the persecution of Septimius Severus at the turn of the third century. Potamiana, a slave maiden of remarkable beauty and virtue, was threatened with dishonor and then condemned to death by slow torture for refusing to renounce her faith. She chose to suffer rather than betray Christ.\n\nAmong those who watched her die was Basilides, a Roman soldier. When friends mocked him for his sympathy, he confessed that he too was a Christian and was led off to martyrdom. Eusebius preserves the account of how Potamiana appeared to Basilides in a vision before his death, promising him a rich reward. She is invoked for those who have suffered violation, and he for those who guard prisoners.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Potamiana in her trial and gave Basilides the courage to confess your name, grant through their intercession that those who suffer violation and those who guard the imprisoned may be kept in your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basilides_and_Potamiana"
+  ],
+  "featured": false,
+  "draft": false
+}

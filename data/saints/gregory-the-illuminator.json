@@ -1,0 +1,25 @@
+{
+  "slug": "gregory-the-illuminator",
+  "name": "St. Gregory the Illuminator",
+  "feastDay": "02-20",
+  "bio": "Saint Gregory the Illuminator was the founder and first official head of the Armenian Apostolic Church, the apostle who converted Armenia from Zoroastrianism to Christianity in the early fourth century. Through his preaching and the baptism of King Tiridates III, Armenia became the first state in history to adopt Christianity as its official religion, an event that shaped the identity of a people ever after. Gregory's mission was born of suffering: according to tradition he was imprisoned for years in a deep pit before emerging to preach the Gospel that would transform his nation. Venerated as a saint in the Armenian Apostolic Church and in the Catholic and Orthodox communions, he is honored as the patron of Armenia and of the Italian town of Nardò, where relics of his cult are preserved.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Gregory the Illuminator to bring the light of the Gospel to the Armenian people, grant through his intercession that nations and hearts still walking in darkness may turn to the truth of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_the_Illuminator"
+  ],
+  "featured": false,
+  "draft": false
+}

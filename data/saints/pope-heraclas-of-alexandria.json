@@ -1,0 +1,21 @@
+{
+  "slug": "pope-heraclas-of-alexandria",
+  "name": "St. Heraclas of Alexandria",
+  "feastDay": "12-17",
+  "bio": "Saint Heraclas was the thirteenth Pope and Patriarch of Alexandria, reigning from 232 to 248, in the decades when the great catechetical school of Alexandria was shaping the theology of the early Church. A successor in the see founded, according to tradition, by Saint Mark the Evangelist, Heraclas shepherded the Christians of Egypt during a period of growth and gathering trial, when the Church was still largely an underground community awaiting the peace of Constantine. His long episcopate bridged the era of Origen's teaching and the persecutions of Decius, and he is remembered in the Coptic and Greek traditions as one of the early patriarchs who held the see of Saint Mark before the great councils defined the faith for the ages. His feast on December 17 is kept in the ancient Alexandrian calendar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Heraclas a faithful ministry as patriarch of Alexandria in the early days of your Church, grant through his intercession that the shepherds of your people may preserve the unity and purity of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Heraclas_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

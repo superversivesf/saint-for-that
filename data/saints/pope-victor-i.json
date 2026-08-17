@@ -1,0 +1,25 @@
+{
+  "slug": "pope-victor-i",
+  "name": "St. Victor I",
+  "feastDay": "01-11",
+  "bio": "Pope Victor I, a Roman African of Berber origin, served as Bishop of Rome at the close of the second century, around 189 to 199. Born in the Roman province of Africa, he was the first pope from that region and brought to the see of Peter the theological vigor of the North African Church. He is remembered for his efforts to settle the Quartodeciman controversy, seeking to unify the Church's celebration of Easter across East and West. His feast is kept on January 11, and he is honored as a shepherd who labored for the unity of the Church and the dignity of her worship.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Pope Victor I called your Church to unity in the celebration of the paschal mystery, grant through his intercession that your people may be one in faith and worship. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Victor_I"
+  ],
+  "featured": false,
+  "draft": false
+}

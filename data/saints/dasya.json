@@ -1,0 +1,25 @@
+{
+  "slug": "dasya",
+  "name": "St. Dasya",
+  "feastDay": "unknown",
+  "bio": "Saint Dasya, also called Daysa the Egyptian, was a Christian of the third century born at Tanda in Egypt who served as a soldier in the Roman army. When the governor Arianus of Ansena demanded that Christians deny their faith, Dasya refused to sacrifice to the gods of Rome.\n\nFor his steadfast confession he was subjected to savage tortures, yet he would not renounce Christ. At last Arianus ordered that he be beheaded, and Dasya went to his death as a soldier of a greater King. He is venerated as a martyr-soldier who exchanged the sword of the empire for the crown of the saints, and his witness strengthened the Church in Upper Egypt.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the soldier Dasya courage to lay down his life rather than deny your Son, grant through his intercession that all who serve under arms may honor conscience above fear and bear witness to Christ in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dasya"
+  ],
+  "featured": false,
+  "draft": false
+}

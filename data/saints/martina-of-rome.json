@@ -1,0 +1,29 @@
+{
+  "slug": "martina-of-rome",
+  "name": "St. Martina of Rome",
+  "feastDay": "01-30",
+  "bio": "Martina of Rome was a Christian virgin who suffered martyrdom in the early third century, traditionally dated to 226 under the pontificate of Pope Urban I. Born to a noble Roman family, she is said to have been orphaned young and to have given her inheritance to the poor, consecrating herself wholly to Christ in a life of prayer and chastity.\n\nWhen the imperial authorities turned against the Christians of Rome, Martina was arrested and brought before the prefect. Refusing to sacrifice to the pagan gods, she endured a series of tortures with unflinching courage, and tradition relates that her wounds were miraculously healed and that visions accompanied her suffering. After many trials she was finally executed, gaining the crown of martyrdom and the veneration of the faithful of Rome.\n\nMartina is honored as one of the patron saints of Rome, and she is invoked as a patron of nursing mothers. Her feast is kept on 30 January, and down the centuries she has been remembered as a model of virginal dedication and steadfast confession of the faith.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "illness"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your virgin martyr Martina with the palm of victory and made her a patron of Rome, grant through her intercession that nursing mothers may find comfort and that all who suffer for your name may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martina_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

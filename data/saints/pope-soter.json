@@ -1,0 +1,25 @@
+{
+  "slug": "pope-soter",
+  "name": "St. Soter",
+  "feastDay": "04-22",
+  "bio": "Pope Soter, born in Fundi in the Lazio region of Italy, served as Bishop of Rome from about 167 to 174. His name, drawn from the Greek for 'savior,' reflects the era before the custom of adopting papal names. Soter is remembered for two decisive acts: he declared that marriage was valid only as a sacrament blessed by a priest, and he formally inaugurated the annual celebration of Easter in Rome. Through these teachings he shaped the Church's understanding of matrimony and the liturgical year. His feast is kept on April 22, and he is honored as a shepherd who defended the sanctity of Christian marriage.",
+  "patronages": [
+    {
+      "need": "engaged couples",
+      "category": "family"
+    },
+    {
+      "need": "brides",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Pope Soter confirmed the dignity of Christian marriage and the joy of Easter, grant through his intercession that families may be rooted in your sacramental love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Soter"
+  ],
+  "featured": false,
+  "draft": false
+}

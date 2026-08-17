@@ -1,0 +1,33 @@
+{
+  "slug": "clement-of-alexandria",
+  "name": "St. Clement of Alexandria",
+  "feastDay": "12-04",
+  "bio": "Titus Flavius Clemens, known to history as Clement of Alexandria, was a Christian theologian and philosopher who taught at the famous Catechetical School of Alexandria in the late second and early third centuries. A convert to Christianity, he was an educated man deeply read in classical Greek philosophy and literature, and among his pupils were Origen and Alexander of Jerusalem.\n\nClement was influenced by Hellenistic philosophy to a greater extent than any other Christian thinker of his time, drawing in particular on Plato and the Stoics to illuminate the faith. His three major works, the Exhortation, the Tutor, and the Stromata, form a kind of progressive introduction to the Christian life. His fragments suggest familiarity with pre-Christian Jewish esotericism and Gnosticism as well. He argued that Greek philosophy had its origin among non-Greeks, tracing Plato and Pythagoras back to Egyptian scholars. He is honored as a pioneer of Christian learning and is kept on December 4.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Clement of Alexandria wisdom to wed the truth of the Gospel with the insights of philosophy, grant through his intercession that all who seek you with the mind may find you in your Son, Jesus Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clement_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

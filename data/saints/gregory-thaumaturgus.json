@@ -1,0 +1,29 @@
+{
+  "slug": "gregory-thaumaturgus",
+  "name": "St. Gregory Thaumaturgus",
+  "feastDay": "11-17",
+  "bio": "Saint Gregory Thaumaturgus, also known as Gregory the Wonder-Worker or Gregory of Neocaesarea, was a Christian bishop of the third century whose miracles earned him his enduring epithet. A disciple of Origen at the famous school of Caesarea, Gregory was trained in philosophy and Scripture before being consecrated bishop of Neocaesarea in Pontus, where he found only seventeen Christians and left, by tradition, only seventeen pagans. His ministry was marked by extraordinary signs: earthquakes, floods, and apparitions attended his prayers, and he was credited with moving a mountain to make room for a new church. Canonized as a saint in both the Catholic and Orthodox Churches, he has long been invoked as a patron of impossible and desperate causes, against earthquakes, and in floods and natural disasters.",
+  "patronages": [
+    {
+      "need": "impossible causes",
+      "category": "everyday"
+    },
+    {
+      "need": "earthquakes",
+      "category": "nature"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted to Saint Gregory Thaumaturgus the power of wonders and the boldness to ask what seemed impossible, grant through his intercession that we may trust your mercy in our most desperate causes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+  ],
+  "featured": false,
+  "draft": false
+}

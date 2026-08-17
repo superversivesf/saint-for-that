@@ -1,0 +1,25 @@
+{
+  "slug": "macra-of-reims",
+  "name": "St. Macra of Reims",
+  "feastDay": "01-06",
+  "bio": "Macra of Reims was an ancient Christian woman from the Gallo-Roman city of Reims who, according to tradition, was martyred around the year 287. When the emperors Diocletian and Maximian ordered the governor Rictius Varus to root out Christianity from Gaul, Macra was among those singled out for trial.\n\nWhen bidden to renounce her faith, she answered the tyrant, \"Know, tyrant and child of the devil, it is not in the power of man to shake my faith.\" Varus removed her clothing, tied her to a stake, and ordered her burned; yet seeing her unafraid, he instead had her breasts severed and sent her back to prison. There her wounds were miraculously healed overnight, and when Varus demanded to know the source of her recovery she told him she had been healed by Jesus Christ. Still refusing to deny her Lord, she was made to roll upon broken earthenware and hot coals, yet, tradition says, she felt no pain by the intervention of God, and she died at last while at prayer.\n\nMacra is commemorated on 6 January in the Eastern Orthodox calendar. She is invoked as a patron of those who suffer persecution and of women facing cruelty or violation, her courage an emblem of the Church's unbroken confession.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your virgin martyr Macra the courage to declare that no power of man could shake her faith, grant through her intercession that we may stand firm in every trial and trust wholly in your healing mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macra_of_Reims"
+  ],
+  "featured": false,
+  "draft": false
+}

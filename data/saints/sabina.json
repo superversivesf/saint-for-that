@@ -1,0 +1,29 @@
+{
+  "slug": "sabina",
+  "name": "St. Sabina",
+  "feastDay": "08-29",
+  "bio": "Saint Sabina of Rome, also called Sabina the Roman, was a Christian matron of noble birth who was martyred for her faith in the early centuries of the Church. Converted through the witness of her servant Serapia, a devout Christian who ministered to the poor and prayed with great devotion, Sabina embraced the Gospel and gave herself to works of charity. When Serapia was arrested and executed, Sabina reverently buried her remains and continued in the faith with equal courage. She too was arrested, refused to sacrifice to the pagan gods, and was put to death for Christ. The ancient Basilica of Santa Sabina on the Aventine Hill preserves her memory. Her feast is kept on August 29.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your martyr Sabina grace to confess your name even unto death, grant through her intercession that we may bear witness to the Gospel with courage and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sabina"
+  ],
+  "featured": false,
+  "draft": false
+}

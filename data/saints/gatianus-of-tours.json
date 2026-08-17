@@ -1,0 +1,25 @@
+{
+  "slug": "gatianus-of-tours",
+  "name": "St. Gatianus of Tours",
+  "feastDay": "12-18",
+  "bio": "Saint Gatianus was the founding bishop of the see of Tours in the third century, one of the seven apostles of Gaul commissioned by Pope Fabian to evangelize the Gallic provinces. Sent forth from Rome during a time when Christianity was still a precarious and persecuted faith, Gatianus labored for decades to plant the Gospel in a land long given to Roman and Celtic gods. Tradition holds that he shepherded the Church of Tours for nearly fifty years, building up a Christian community that would in later centuries produce figures of such stature as Saint Martin. He died around the year 301, on the eve of the peace that Constantine would bring to the Church, and was buried in the city he had evangelized.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Gatianus to sow the seeds of faith in the land of Gaul, grant through his intercession that missionaries may labor with the same patience and bear lasting fruit for your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+  ],
+  "featured": false,
+  "draft": false
+}

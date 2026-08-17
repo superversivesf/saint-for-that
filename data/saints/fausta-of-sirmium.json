@@ -1,0 +1,25 @@
+{
+  "slug": "fausta-of-sirmium",
+  "name": "St. Fausta of Sirmium",
+  "feastDay": "12-19",
+  "bio": "Saint Fausta was the mother of Saint Anastasia of Sirmium, the martyr venerated at the ancient city of Sirmium in Pannonia, one of the four capitals of the late Roman Empire. Though the records of her life are brief, the Church has honored Fausta as a model mother, praised for the virtue with which she raised a saintly daughter. In an age when Christians faced periodic persecution under emperors before the peace of Constantine, Fausta's household nurtured a child whose name would echo through centuries of devotion. Her feast on December 19 stands as a quiet witness to the hidden holiness of Christian parenthood and the fruit borne by faithful families.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed Saint Fausta with the grace of raising a daughter worthy of martyrdom, grant through her intercession that Christian parents may form their children in virtue and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fausta_of_Sirmium"
+  ],
+  "featured": false,
+  "draft": false
+}

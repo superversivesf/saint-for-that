@@ -1,0 +1,25 @@
+{
+  "slug": "athenogenes-of-pedachto",
+  "name": "St. Athenogenes of Pedachtoë",
+  "feastDay": "unknown",
+  "bio": "Saint Athenogenes of Pedachtoë was a priest and chorepiskopos, a country bishop serving the Christian community of Pedachtoë in the late third or early fourth century. As a leader of the faithful in a remote region, he carried the sacraments and the Gospel to villages far from the metropolitan sees.\n\nHe suffered martyrdom in the persecutions that troubled the Church before the peace of Constantine, sealing his witness with his blood. Ancient martyrologies remember him as a steadfast shepherd who did not abandon his flock when the storm of persecution broke over them.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Athenogenes of Pedachtoë with the glory of martyrdom as he shepherded his scattered flock, grant through his intercession that all who minister in hidden places may stand firm in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athenogenes_of_Pedachto%C3%AB"
+  ],
+  "featured": false,
+  "draft": false
+}

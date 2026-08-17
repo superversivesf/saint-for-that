@@ -1,0 +1,29 @@
+{
+  "slug": "quadratus-of-athens",
+  "name": "St. Quadratus of Athens",
+  "feastDay": "09-21",
+  "bio": "Saint Quadratus of Athens was an early Christian apologist, traditionally regarded as a disciple of the Apostles and numbered among the Seventy whom the Lord sent forth. He became Bishop of Athens and, around AD 124–125, presented a learned defense of the Christian faith to the Emperor Hadrian during his visit to the city. In this apology, now lost save for a fragment, Quadratus argued that the works of Christ were no empty tale, for many of those whom Jesus had healed or raised still lived to testify in his own day. He is honored as one of the first Christian writers to make a reasoned case for the faith before the powers of Rome. His feast is kept on September 21.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Quadratus wisdom to defend the Gospel before the rulers of this world, grant through his intercession that those who explain and defend the faith may speak with truth and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quadratus_of_Athens"
+  ],
+  "featured": false,
+  "draft": false
+}

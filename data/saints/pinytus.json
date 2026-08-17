@@ -1,0 +1,25 @@
+{
+  "slug": "pinytus",
+  "name": "St. Pinytus",
+  "feastDay": "10-10",
+  "bio": "Saint Pinytus, a Greek by birth, served as Bishop of Knossos on the island of Crete in the late second century. He was a learned and gentle pastor who corresponded with St. Irenaeus of Lyon, that great champion of orthodox faith against heresy. In one letter, Irenaeus urged Pinytus not to lay too heavy a yoke of austerity upon his people, but to lead them gently according to their strength. Pinytus replied with characteristic humility, inviting Irenaeus to send his flock stronger nourishment of teaching so they might bear more. He was revered as a wise and zealous shepherd of the early Cretan church, and his feast is kept on October 10.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Pinytus a wise and gentle shepherd of your flock in Crete, grant through his intercession that those who lead your people may balance zeal with compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pinytus"
+  ],
+  "featured": false,
+  "draft": false
+}

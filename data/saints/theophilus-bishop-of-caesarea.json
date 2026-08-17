@@ -1,0 +1,25 @@
+{
+  "slug": "theophilus-bishop-of-caesarea",
+  "name": "St. Theophilus, bishop of Caesarea",
+  "feastDay": "unknown",
+  "bio": "Saint Theophilus was a bishop of Caesarea Maritima, one of the earliest and most important sees of the Holy Land. Eusebius, the father of Church history, records that Theophilus was well known for his learning and holiness. He is remembered as a teacher of Clement of Alexandria, one of the greatest minds of the early Church, which places him among the formative figures who handed on the faith from the apostolic age to the great Christian scholars of the third century. As a bishop in the land where Christ himself walked, Theophilus shepherded a community rooted in the very soil of the Gospel.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "everyday"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Theophilus a wise bishop and teacher in the land of your Son's earthly life, grant through his intercession that we may hand on the faith we have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophilus%2C_bishop_of_Caesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

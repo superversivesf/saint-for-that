@@ -1,0 +1,33 @@
+{
+  "slug": "pope-cornelius",
+  "name": "Pope St. Cornelius",
+  "feastDay": "09-16",
+  "bio": "Pope Cornelius served as bishop of Rome from March of 251 until his death in June 253, guiding the Church through one of the most painful crises of the third century. His election came in the wake of the Decian persecution, a time when many Christians had lapsed under fear of torture and death, and the Church was torn over whether such sinners could ever be readmitted to communion.\n\nCornelius, supported by Saint Cyprian of Carthage, upheld the pastoral practice of the Church: that those who had fallen could be reconciled after a suitable penance. Against the rigorist party of Novatian, who held that the Church had no power to forgive such sins, he defended the mercy of Christ and the authority of the bishop of Rome to bind and loose. Exiled by the emperor Gallus, he died in hardship and is venerated as a martyr. His feast is kept on September 16, and he is honored as a patron of those who labor for the unity of the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Cornelius courage to defend the mercy of your Church against the rigor of the proud, grant through his intercession that your people may be one and that sinners may never despair of your forgiveness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Cornelius"
+  ],
+  "featured": false,
+  "draft": false
+}

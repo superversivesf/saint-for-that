@@ -1,0 +1,21 @@
+{
+  "slug": "gavinus",
+  "name": "St. Gavinus",
+  "feastDay": "unknown",
+  "bio": "Saint Gavinus is a Christian martyr greatly celebrated in Sardinia, Italy, where he is honored as one of the Martyrs of Torres. Together with his companions Protus, a bishop, and Januarius, a deacon, Gavinus suffered martyrdom for the Christian faith in the early centuries of the Church, when the island's converts faced the hostility of Roman authorities before the peace of Constantine. The devotion to these martyrs runs deep in Sardinian tradition, and their cult has endured for centuries in the churches and processions of the north of the island. Though the date of their feast is uncertain, their memory is preserved by the piety of the people who have invoked them as intercessors and patrons.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gavinus and his companions the grace to shed their blood for the name of Christ in Sardinia, grant through their intercession that we may bear witness to the faith with courage and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gavinus"
+  ],
+  "featured": false,
+  "draft": false
+}

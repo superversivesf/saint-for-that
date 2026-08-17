@@ -1,0 +1,25 @@
+{
+  "slug": "nestor-of-magydos",
+  "name": "St. Nestor of Magydos",
+  "feastDay": "02-25",
+  "bio": "Saint Nestor, also called Nestor of Perge or the Hieromartyr Nestor of Magydos, was bishop of Magydos in Pamphylia, in what is now southern Turkey. He shepherded a young Christian community in a province where the faith had only recently been planted and where Roman suspicion of the new religion ran deep.\n\nWhen the persecution broke out, Nestor did not flee his see but stood before the magistrates and confessed Christ, and so he won the crown of a hieromartyr, a shepherd who offered his own life for the sheep. The Church of Pamphylia honored him as one of its earliest and most steadfast witnesses, and his feast is kept on 25 February. His courage strengthened the faithful of Asia Minor for the trials that were still to come.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Nestor the courage to confess your name before the magistrates and to lay down his life for his flock, grant through his intercession that priests may be steadfast in trial and that your Church may never want for martyrs. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nestor_of_Magydos"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "simplicius-constantius-and-victorinus",
+  "name": "St. Simplicius, Constantius and Victorinus",
+  "feastDay": "08-26",
+  "bio": "Simplicius, Constantius, and Victorinus are honored as Christian martyrs of the second century, put to death during the reign of Emperor Marcus Aurelius. According to tradition, Simplicius was a Christian of the Abruzzi region who was executed together with his two sons, Constantius and Victorinus, at Marsica. Their ancient Passio recounts their witness with all the tropes of the martyr genre. Scholars believe the martyrdoms are genuine, though the three may not have been blood relatives but fellow Christians executed together. Venerated for centuries at Celano, they are patrons of that city and a testament to the courage of the early Church under Roman persecution.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the martyrdom of Saints Simplicius, Constantius, and Victorinus with the palm of victory, grant through their intercession that we may stand firm in faith before every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simplicius%2C_Constantius_and_Victorinus"
+  ],
+  "featured": false,
+  "draft": false
+}

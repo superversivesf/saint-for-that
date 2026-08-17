@@ -1,0 +1,25 @@
+{
+  "slug": "pope-maximus-of-alexandria",
+  "name": "St. Maximus of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Maximus of Alexandria served as the fifteenth Pope and Patriarch of Alexandria, shepherding the Church of Egypt in the turbulent decades that followed the first great persecutions. Raised up after the martyrdom of his predecessor, he guided the faithful through a time when the Church of Alexandria was still bleeding from imperial violence and internal strife.\n\nCommemorated in the Coptic Synaxarion on the fourteenth day of Baramudah and honored by Rome on 27 December, Maximus is remembered as a pastor who held his people together when confession of Christ could cost a bishop his life. His quiet, steadfast rule helped preserve the see of St. Mark for the generations who would carry the faith forward after the Peace of the Church.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Maximus a faithful shepherd of Alexandria in a time of persecution, grant through his intercession that pastors may guard your people with courage and that the oppressed may find in you their defender. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Maximus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

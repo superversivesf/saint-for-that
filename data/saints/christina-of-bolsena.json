@@ -1,0 +1,29 @@
+{
+  "slug": "christina-of-bolsena",
+  "name": "St. Christina of Bolsena",
+  "feastDay": "07-24",
+  "bio": "Saint Christina of Bolsena, also known as Christina of Tyre and honored in the Eastern Church as Christina the Great Martyr, is venerated as a virgin martyr of the third century. Archaeological excavations of an underground cemetery constructed over her tomb have shown that she was already venerated at Tyre by the fourth century, a remarkable witness to the antiquity of her cult.\n\nAccording to the later passio, Christina was born to a pagan father of wealth and rank who, unable to turn her from Christ, subjected her to cruel torments. She endured them with unshakable courage, and after many trials was finally put to death by the sword. Her relics were later brought to Bolsena in Italy, where the Basilica of Santa Cristina preserves her memory and draws pilgrims to this day. She is invoked as a patron of those who must hold firm against pressure and unbelief.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin martyr Christina strength to endure every torment rather than deny your name, grant through her intercession that we may stand firm in faith against all the pressures of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Christina_of_Bolsena"
+  ],
+  "featured": false,
+  "draft": false
+}

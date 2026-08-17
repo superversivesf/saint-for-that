@@ -1,0 +1,25 @@
+{
+  "slug": "pope-anterus",
+  "name": "St. Anterus",
+  "feastDay": "01-03",
+  "bio": "Pope Saint Anterus served as bishop of Rome for a brief period, from November 21, 235 until his death on January 3, 236. He succeeded Pontian in the chair of Peter during a time of tension and uncertainty for the Church.\n\nAnterus is said to have been a Greek by birth, and tradition holds that he was martyred for his faith, though the details of his death are obscure. He was buried in the papal crypt in the Catacomb of Callixtus. His short pontificate, lasting only about forty days, is remembered for its fidelity in a difficult age.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Anterus grace to confess Your name in a brief and faithful pontificate, grant through his intercession that Your Church may be served by shepherds who are steadfast in every season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anterus"
+  ],
+  "featured": false,
+  "draft": false
+}

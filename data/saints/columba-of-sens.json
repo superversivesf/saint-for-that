@@ -1,0 +1,29 @@
+{
+  "slug": "columba-of-sens",
+  "name": "St. Columba of Sens",
+  "feastDay": "12-31",
+  "bio": "Saint Columba of Sens was a virgin and nun born to a noble pagan family in the northwest of the Iberian Peninsula. While still a child, she left Gallaecia for Gaul to avoid being denounced as a Christian, and upon baptism she received the name Columba, meaning \"dove,\" a sign of the purity and peace she was to keep all her days.\n\nShe settled in Sens, France, where her beauty caught the eye of the emperor Aurelian, who tried to force her to marry his son. When she refused, he cast her into prison. Tradition relates that she was protected from being burned alive by a female bear and a miraculous rain shower, but in the end she was beheaded, winning the palm of martyrdom. Columba was venerated throughout France; a chapel was built over her relics, and the Abbey of Sens once drew pilgrims in her honor.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin martyr Columba courage to refuse an earthly crown and grace to endure the flames unharmed, grant through her intercession that all who are pressed to deny you may stand firm and win the crown of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columba_of_Sens"
+  ],
+  "featured": false,
+  "draft": false
+}

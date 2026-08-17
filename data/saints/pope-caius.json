@@ -1,0 +1,29 @@
+{
+  "slug": "pope-caius",
+  "name": "Pope St. Caius",
+  "feastDay": "04-22",
+  "bio": "Pope Caius, also called Gaius, served as bishop of Rome from 17 December 283 until his death in 296, shepherding the Church through the last years before the great persecution of Diocletian. The Liber Pontificalis preserves the little that is known of him, and much of that is bound up with the legend of Saint Susanna of Rome.\n\nAccording to tradition, Caius baptized the men and women converted through the witness of Tiburtius and Castulus, and in time of danger he took refuge in the catacombs beneath the city. There, the legend says, he suffered martyrdom, sealing his ministry with his blood. He is honored as a patron of those who minister in times of peril and of the confessors of the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Caius grace to minister in days of peril and to witness to your name even in the catacombs, grant through his intercession that those who lead your Church may never fear the cost of faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Caius"
+  ],
+  "featured": false,
+  "draft": false
+}

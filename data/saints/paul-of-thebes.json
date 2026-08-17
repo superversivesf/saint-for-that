@@ -1,0 +1,29 @@
+{
+  "slug": "paul-of-thebes",
+  "name": "St. Paul of Thebes",
+  "feastDay": "unknown",
+  "bio": "Paul of Thebes, called Paul the First Hermit or Paul the Anchorite, was an Egyptian saint revered as the first Christian hermit, who lived alone in the desert of Thebes in Roman Egypt from the age of sixteen to the age of one hundred and thirteen. He withdrew to the wilderness during the persecutions and remained there for the rest of his long life, fed, the ancient accounts say, by a raven that brought him bread.\n\nSaint Anthony the Great is said to have sought Paul out and found him still alive in his cave, and to have buried him with the help of two lions when at last he fell asleep in the Lord. Venerated by the Catholic, Eastern Orthodox, and Oriental Orthodox Churches, Paul is honored as the pioneer of the eremitic life that would shape Christian monasticism for centuries.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Paul into the solitude of the Theban desert and sustained him there for a hundred years by your providence, grant through his intercession that those who seek you in silence may find you, and that all who long for contemplation may be fed by your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+  ],
+  "featured": false,
+  "draft": false
+}

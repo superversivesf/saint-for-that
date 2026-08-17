@@ -1,0 +1,25 @@
+{
+  "slug": "ahrakas-and-augani",
+  "name": "St. Ahrakas and Augani",
+  "feastDay": "unknown",
+  "bio": "In the Coptic Christian tradition of Egypt, Saints Ahrakas and Augani are remembered as the companions and bodyguards of Saint Mercurius, the soldier-martyr. Ancient iconography and hagiography portray them in the striking, symbolic imagery of the Coptic imagination as cenocephalic, that is, with the heads of dogs.\n\nThis imagery, drawn from the visual language of late antiquity, expressed the otherness and ferocity of these warrior-attendants who guarded the saint. Venerated alongside Mercurius, they stand as witnesses to the rich symbolic world of Egyptian Christianity and to the honor given to those who kept company with the martyrs.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Ahrakas and Augani grace to stand as faithful companions of the martyr Mercurius, grant through their intercession that all who guard and defend others may be steadfast in courage and in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ahrakas_and_Augani"
+  ],
+  "featured": false,
+  "draft": false
+}

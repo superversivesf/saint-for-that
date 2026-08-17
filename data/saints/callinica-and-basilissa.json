@@ -1,0 +1,29 @@
+{
+  "slug": "callinica-and-basilissa",
+  "name": "Sts. Callinica and Basilissa",
+  "feastDay": "03-22",
+  "bio": "Saints Callinica and Basilissa were two wealthy matrons of the early Church who devoted themselves to the service of Christ's suffering members. Basilissa, a rich lady of Galatia in Asia Minor, was distinguished for her charitable zeal, and Callinica was her faithful helper in every good work. Together they brought food, money, and comfort to Christians languishing in Roman prisons for the faith.\n\nTheir generosity did not escape the notice of their persecutors. Callinica was arrested first, and her steadfast confession led in turn to the seizure of Basilissa. Brought before the tribunal in Rome in the year 252, during the persecution under Emperor Decius, both women avowed their belief in Christ and steadfastly refused to sacrifice to the idols. They were tortured and beheaded by the sword, winning the crown of martyrdom. Their feast is kept on March 22.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the holy matrons Callinica and Basilissa to serve your imprisoned servants and to confess your name even unto death, grant through their intercession that we may be generous in charity and steadfast in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callinica_and_Basilissa"
+  ],
+  "featured": false,
+  "draft": false
+}

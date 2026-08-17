@@ -1,0 +1,25 @@
+{
+  "slug": "liberato",
+  "name": "St. Liberato",
+  "feastDay": "12-20",
+  "bio": "San Liberato, also known as San Liberale, was a Christian martyr from Italy whose annual feast is kept on 20 December. Honored in the Italian peninsula from ancient times, he is counted among the early confessors whose blood watered the Church in the days of imperial persecution.\n\nThe details of Liberato's life and passion have been largely veiled by the centuries, but his cult flourished in Italy, where local churches preserved his memory and invoked his intercession. He is remembered as a faithful witness who chose death rather than deny Christ, and his name—\"the freed one\"—has been read by the devout as a sign of the liberty won by the martyrs through their sacrifice.\n\nLiberato is commemorated each year on 20 December, near the threshold of Christmas, when the Church's joy at the coming of the Lord is deepened by the remembrance of those who gave their lives for the Gospel. He remains a quiet patron of the Italian faithful and of all who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your martyr Liberato the grace to lay down his life rather than deny your Son, grant through his intercession that we may be freed from every bondage of sin and fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liberato"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pope-telesphorus",
+  "name": "St. Telesphorus",
+  "feastDay": "unknown",
+  "bio": "Pope Telesphorus served as Bishop of Rome from about 126 to 137, during the reigns of Emperors Hadrian and Antoninus Pius. Tradition ascribes to him several liturgical developments, including the singing of the Gloria at Mass and the establishment of a special Christmas liturgy. He is venerated as a patron of the Carmelite Order, which honors him among its spiritual ancestors. Though the details of his life are sparse, his pontificate spans a formative period when the Roman Church was shaping its public worship. He is remembered as a faithful shepherd who nurtured the prayer life of the early Church.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Pope Telesphorus nurtured the prayer and worship of your Church, grant through his intercession that we may worship you in spirit and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Telesphorus"
+  ],
+  "featured": false,
+  "draft": false
+}

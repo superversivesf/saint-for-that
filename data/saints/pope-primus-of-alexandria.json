@@ -1,0 +1,25 @@
+{
+  "slug": "pope-primus-of-alexandria",
+  "name": "St. Primus of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Primus, also called Aprimos, was the fifth Pope and Patriarch of Alexandria, shepherding the great Egyptian church in the apostolic age. He succeeded St. Cerdon and held the see during a period of quiet growth and consolidation after the evangelization of Egypt by St. Mark. As patriarch he guided the catechetical life and worship of the Alexandrian church, preserving the faith handed down from the apostles in a city renowned for learning. Little detail of his life survives, but he is honored in both Coptic and Greek traditions as a faithful shepherd of the early church. His feast day is not widely recorded.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Primus a faithful shepherd of the church of Alexandria, grant through his intercession that those who lead your people may preserve the apostolic faith with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Primus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "caius-bishop-of-milan",
+  "name": "St. Caius of Milan",
+  "feastDay": "09-27",
+  "bio": "Saint Caius, sometimes called Gaius, was bishop of Milan in the early years of the third century, when the Church of northern Italy was still young and growing under the shelter of relative peace. He is honored in both the Eastern Orthodox and Roman Catholic traditions as a faithful shepherd of that great see.\n\nSome accounts, leaning on older tradition, place him even earlier and regard him as the first bishop of Milan in the apostolic age. Whatever the exact date, his memory was kept alive by the church he served, and his feast on 27 September marks the long line of holy bishops of Milan that would later include Ambrose himself. He is a patron of pastors and of the faithful of northern Italy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Caius grace to shepherd the young church of Milan in its early days, grant through his intercession that all pastors may build well on the foundations laid by the saints before them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

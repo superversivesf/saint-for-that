@@ -1,0 +1,29 @@
+{
+  "slug": "eucharius",
+  "name": "St. Eucharius",
+  "feastDay": "12-08",
+  "bio": "Saint Eucharius is venerated as the first bishop of Trier, the great ancient see on the Moselle that became one of the oldest centers of Christianity north of the Alps. He lived in the second half of the third century, in the generation when the faith was first taking root among the peoples of the Rhineland.\n\nTradition holds that he was sent to preach the Gospel in those distant provinces and that he shepherded the young church of Trier with care, laying the foundations upon which later bishops would build. He is honored among the earliest missionary bishops who carried the Gospel beyond the Mediterranean and into the Germanic lands. His feast is kept on December 8.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Eucharius to plant the Gospel beside the Moselle and to shepherd the young Church of Trier, grant through his intercession that missionaries may carry your word to every land and that pastors may build upon the foundations laid by those who went before. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eucharius"
+  ],
+  "featured": false,
+  "draft": false
+}

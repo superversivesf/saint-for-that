@@ -1,0 +1,29 @@
+{
+  "slug": "agrippina-of-mineo",
+  "name": "St. Agrippina of Mineo",
+  "feastDay": "06-23",
+  "bio": "Saint Agrippina of Mineo, also known simply as Saint Agrippina, is venerated as a virgin martyr by both the Catholic and Orthodox Churches. Her feast is kept on 23 June. According to tradition, she was a young Christian of noble birth who suffered martyrdom for her faith, and her relics were later brought from Rome to Mineo in Sicily, where her cult flourished.\n\nDevotion to Agrippina spread through Sicily and southern Italy, and she was invoked by the faithful against evil spirits, leprosy, thunderstorms, and infectious diseases. Her shrine at Mineo became a center of pilgrimage.\n\nShe is remembered as one of the virgin martyrs of the early Church whose intercession was sought in every kind of bodily and spiritual affliction.",
+  "patronages": [
+    {
+      "need": "leprosy",
+      "category": "illness"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the virgin Agrippina to suffer martyrdom for Your name and made her an intercessor against disease and storm, grant through her prayers protection from every evil of body and spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agrippina_of_Mineo"
+  ],
+  "featured": false,
+  "draft": false
+}

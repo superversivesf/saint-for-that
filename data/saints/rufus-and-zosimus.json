@@ -1,0 +1,29 @@
+{
+  "slug": "rufus-and-zosimus",
+  "name": "St. Rufus and Zosimus",
+  "feastDay": "12-18",
+  "bio": "Saints Rufus and Zosimus were second-century Christian martyrs venerated by both the Roman Catholic and Eastern Orthodox churches. They lived in Antioch and were companions of the great bishop Ignatius, sharing his journey to Rome under sentence of death during the persecution under Emperor Trajan. Two days before Ignatius himself was given to the beasts, Rufus and Zosimus were cast into the arena and killed by wild animals, sealing their testimony in blood. Their steadfast witness beside their beloved master has been remembered since the earliest centuries, and their feast is kept on December 18, a double harvest of martyrdom gathered in from the sands of Rome.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your servants Rufus and Zosimus with martyrdom beside your bishop Ignatius, grant through their intercession that we may face every trial with courage and confess your name without fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rufus_and_Zosimus"
+  ],
+  "featured": false,
+  "draft": false
+}

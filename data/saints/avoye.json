@@ -1,0 +1,25 @@
+{
+  "slug": "avoye",
+  "name": "St. Avoye",
+  "feastDay": "05-06",
+  "bio": "Saint Avoye of Sicily, also known as Saint Auré or Saint Ewe, was a Christian maiden of the third century who came from Sicily and found her death in Boulogne-sur-Mer in Gaul around the year 234. Tradition holds that she was martyred for her faith during the persecutions that troubled the Church under Roman rule.\n\nHer relics were venerated at Boulogne, where her cult took root among the people of that coast. Though the details of her life are scant, the memory of a young Sicilian woman who died for Christ in a foreign land has endured in the devotion of northern France. She is invoked by those who bear her name and by those who seek the courage of the early virgin-martyrs.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Avoye grace to lay down her life rather than deny her faith, grant through her intercession that those who are far from home and beset by trial may find courage in your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Avoye"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "palmatius",
+  "name": "St. Palmatius",
+  "feastDay": "05-10",
+  "bio": "Palmatius was a Christian saint who suffered martyrdom at Trier in Gaul around the year 287, together with eleven companions whose names the ancient calendars have preserved. They were among the many put to death under the Emperor Maximian by Rictius Varus, the vicarius of Roman Gaul, whose persecution left the young churches of the Rhineland stained with blood.\n\nThe memory of Palmatius and his fellow martyrs endured at Trier, one of the oldest sees north of the Alps, where the faithful gathered at their relics and invoked them as heavenly protectors. Their witness rooted the Church of Gaul in the conviction that no imperial power could extinguish the Gospel once sealed by blood. The feast of Palmatius and his companions is kept on 10 May.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Palmatius and his companions at Trier with the palm of martyrdom, grant through their intercession that those who suffer for justice may be strengthened and that your Church may stand firm against every persecutor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palmatius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pope-eutychian",
+  "name": "Pope St. Eutychian",
+  "feastDay": "12-08",
+  "bio": "Pope Eutychian, also called Eutychianus, served as Bishop of Rome from January 275 until his death in December 283, shepherding the Church of Rome through the relatively quiet years that preceded the great persecution of Diocletian. He belonged to that succession of third-century popes who governed the Church in a time when the Empire, though not yet turned wholly against the Christians, kept the faithful in uncertainty.\n\nThe ancient records tell us little of his pontificate beyond his careful oversight of the Church of Rome. He is venerated as a pre-congregational saint, honored among the early bishops of the apostolic see, and his feast is kept on December 8.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Eutychian a faithful steward of the apostolic see in years of quiet before the storm, grant through his intercession that the pastors of your Church may watch over their flocks with care and that your people may stand ready for whatever trial may come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Eutychian"
+  ],
+  "featured": false,
+  "draft": false
+}

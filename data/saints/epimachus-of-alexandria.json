@@ -1,0 +1,25 @@
+{
+  "slug": "epimachus-of-alexandria",
+  "name": "St. Epimachus of Alexandria",
+  "feastDay": "12-12",
+  "bio": "Saint Epimachus was a Roman Christian who suffered martyrdom at Alexandria in the year 250, during the fierce persecution ordered by the emperor Decius. When the storm broke upon the Church in Egypt, Epimachus was seized together with a great company of believers—Alexander, Ammonarion, Mercuria, Dionysia, and many other women and men—who all confessed Christ before their judges.\n\nThey were condemned and beheaded at Alexandria, and their blood watered the Church in that ancient city. The ancient martyrologies remember them together on December 12, a single company of witnesses who would not offer the sacrifice the emperor demanded.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saint Epimachus and his companions with a martyr's death at Alexandria, grant through their intercession that your people may confess the name of Christ with one heart and never fear the threats of those who oppose the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epimachus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

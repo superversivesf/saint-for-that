@@ -1,0 +1,25 @@
+{
+  "slug": "alberta-of-agen",
+  "name": "St. Alberta of Agen",
+  "feastDay": "03-11",
+  "bio": "Saint Alberta of Agen was a Roman virgin martyred in southern France during the persecutions of the emperor Diocletian. According to tradition she was one of the first victims of that persecution, tortured together with Saint Faith and Saint Caprasius at Agen.\n\nThe account tells that some spectators, moved to protest the cruelty inflicted on the martyrs, were themselves beheaded for their faith. Alberta is commemorated on March 11, and she is honored with her companions as a witness of courage in the first great wave of Diocletian's persecution.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Alberta strength to face torture and death rather than deny Your name, grant through her intercession that all who suffer for justice may be upheld by the hope of eternal life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alberta_of_Agen"
+  ],
+  "featured": false,
+  "draft": false
+}

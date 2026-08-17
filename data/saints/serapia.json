@@ -1,0 +1,29 @@
+{
+  "slug": "serapia",
+  "name": "St. Serapia",
+  "feastDay": "07-29",
+  "bio": "Saint Serapia, also called Seraphia or Seraphima of Syria, was a Roman saint of the early centuries who lived as a slave and won the crown of martyrdom for her faith in Christ. Born in Syria, she was taken to Rome and sold into servitude, yet she bore her lowly state with patience and devoted herself to prayer, fasting, and works of mercy. Her quiet devotion moved her mistress Sabina, a noble Roman matron, to embrace the Gospel. When Serapia was arrested for refusing to sacrifice to the gods, she confessed Christ with unwavering courage and was executed, a slave in the world but a queen in the Church. Her feast is kept on July 29.",
+  "patronages": [
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your handmaid Serapia grace to serve you in lowliness and to confess your name in death, grant through her intercession that all who labor in bondage may find freedom in Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Serapia"
+  ],
+  "featured": false,
+  "draft": false
+}

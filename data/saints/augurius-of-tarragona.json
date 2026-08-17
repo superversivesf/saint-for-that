@@ -1,0 +1,25 @@
+{
+  "slug": "augurius-of-tarragona",
+  "name": "St. Augurius of Tarragona",
+  "feastDay": "01-21",
+  "bio": "Saint Augurius, sometimes called Augurinus, was a deacon of the church of Tarraco in Hispania who served under Bishop Fructuosus during the persecution decreed by the emperors Valerian and Gallienus. Together with Fructuosus and the deacon Eulogius he was seized and condemned.\n\nOn 21 January 259 the three were burned alive in the amphitheater of Tarraco, having refused to renounce Christ. Their passio is among the earliest documented martyrdoms in the history of Christianity in Spain, and the ancient account preserves the very words of the martyrs as they went to the flames. Augurius thus stands as one of the first recorded witnesses of the Spanish Church.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Augurius and his companions grace to confess your name even in the fire, grant through his intercession that we may burn with the same love that no trial can quench. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Augurius_of_Tarragona"
+  ],
+  "featured": false,
+  "draft": false
+}

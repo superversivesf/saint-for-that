@@ -1,0 +1,25 @@
+{
+  "slug": "theophilus-of-antioch",
+  "name": "St. Theophilus of Antioch",
+  "feastDay": "10-13",
+  "bio": "Theophilus of Antioch served as Patriarch of Antioch from about 169 to 183, one of the most ancient sees of Christendom. He is remembered as an apologist and a teacher, succeeding Eros of Antioch and followed by Maximus I. As bishop of a great city that stretched across the Roman East, Theophilus guided a diverse and often embattled Christian community. He is venerated as a patron of Antioch and of several cities that claim his intercession, including Belgrade, Arequipa, Managua, and Tegucigalpa. His feast is kept on October 13, and he is honored as a steadfast defender of the faith in the early centuries of the Church.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Theophilus a steadfast bishop and defender of the faith at Antioch, grant through his intercession that your Church may be built up in truth and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophilus_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

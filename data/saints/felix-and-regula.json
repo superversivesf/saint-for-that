@@ -1,0 +1,25 @@
+{
+  "slug": "felix-and-regula",
+  "name": "St. Felix and Regula",
+  "feastDay": "09-11",
+  "bio": "Saints Felix and Regula are the patron saints of Zürich, venerated in both the Coptic Orthodox and Roman Catholic Churches. According to tradition, they were members of the Theban Legion, the legendary Roman army unit martyred for refusing to sacrifice to pagan gods. Felix and Regula, with their companion Exuperantius, fled to the region of Turicum, where they were discovered and executed for their faith. The site of their martyrdom became the foundation of the Grossmünster, the great church that dominates Zürich. Their cult shaped the spiritual identity of the city for centuries, and their feast on September 11 has been kept since the early Middle Ages.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saints Felix and Regula to lay down their lives rather than deny the true faith, grant through their intercession that all who face persecution may stand firm in confessing your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_and_Regula"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "julian-of-le-mans",
+  "name": "St. Julian of Le Mans",
+  "feastDay": "01-27",
+  "bio": "Julian of Le Mans is honored as the first bishop of Le Mans in Gaul, sent to preach the Gospel to the pagans of the region during the early centuries of the Church. Venerated by both the Roman Catholic and Eastern Orthodox Churches, he is counted among the missionary bishops who carried the faith into the western provinces of the Roman Empire.\n\nAccording to tradition, Julian labored for many years among the peoples of the Loire valley, founding churches, ordaining clergy, and gathering the first Christian communities of Le Mans. His ministry laid the groundwork for one of the oldest dioceses in France, and he was remembered as a tireless pastor who tended his flock with gentleness and resolve.\n\nJulian's feast is kept on 27 January, and the translation of his relics is celebrated on 25 July. Down the centuries the faithful of Le Mans have honored him as their father in the faith, a sower of the Gospel whose labors bore fruit long after his death.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Julian to proclaim the Gospel to the people of Le Mans and to build up your Church in Gaul, grant through his intercession that we may be faithful witnesses to your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julian_of_Le_Mans"
+  ],
+  "featured": false,
+  "draft": false
+}

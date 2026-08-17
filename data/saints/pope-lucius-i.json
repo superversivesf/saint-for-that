@@ -1,0 +1,25 @@
+{
+  "slug": "pope-lucius-i",
+  "name": "St. Lucius I",
+  "feastDay": "03-05",
+  "bio": "Pope Lucius I served as bishop of Rome from 25 June 253 until his death on 5 March 254. He was banished soon after his consecration during the uneasy relations between the Church and the imperial court, but he soon obtained permission to return to his see and resume his ministry among the faithful of Rome.\n\nAlthough later tradition mistakenly classified him as a martyr under Emperor Valerian, the persecution associated with Valerian did not begin until after Lucius had already died. He was instead a confessor, one who suffered exile and hardship for the faith without undergoing a violent death. His brief pontificate fell in a fragile interval of relative peace, and he used those months to shepherd a Church still nursing the wounds of earlier trials.\n\nLucius died on 5 March 254 and was buried in the catacombs of Callixtus. His feast is kept on that day, and he is remembered as a gentle pastor who guided the Church of Rome through a perilous season with patience and quiet courage.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained your servant Lucius in the see of Peter through exile and anxious days, grant through his intercession that your Church may be guided always by faithful and patient pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Lucius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

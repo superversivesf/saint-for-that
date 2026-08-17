@@ -1,0 +1,29 @@
+{
+  "slug": "dionysius-of-alexandria",
+  "name": "St. Dionysius of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Dionysius the Great served as the fourteenth Pope and Patriarch of Alexandria from December 248 until his death in March 264, shepherding the great Egyptian see through a time of fierce trial. His pontificate spanned the Decian persecution, in which he himself was hunted, exiled, and barely escaped death, and the plague that afterward devastated the city he loved.\n\nA theologian of wide learning, he corresponded with bishops across the Christian world, and though only one of his letters survives complete, Eusebius preserves many fragments that show a pastor of deep charity and clear doctrine. He defended the divinity of the Word against heresy and guided the Church of Alexandria with wisdom.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Dionysius the Great a faithful shepherd of Alexandria in days of persecution and plague, grant through his intercession that theologians may teach with clarity and that pastors may guide your people through every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dionysius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

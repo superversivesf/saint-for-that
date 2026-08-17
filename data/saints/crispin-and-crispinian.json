@@ -1,0 +1,37 @@
+{
+  "slug": "crispin-and-crispinian",
+  "name": "Sts. Crispin and Crispinian",
+  "feastDay": "10-25",
+  "bio": "Saints Crispin and Crispinian are the Christian patron saints of cobblers, curriers, tanners, and leather workers. According to tradition, they were brothers of noble Roman birth who, fleeing persecution, traveled to Soissons in Gaul to preach the Gospel. There they supported themselves by their trade, working by night at the bench and spending their days in evangelization and service to the poor.\n\nTheir patient labor won many converts, but it also drew the attention of the imperial authorities. Arrested during the reign of Diocletian, they refused to sacrifice to the gods and endured terrible tortures with unshakable courage. The date of their execution is given as 25 October 285 or 286, and they were beheaded, winning the crown of martyrdom. Their feast on October 25 is still kept wherever leather is cut and stitched, and the shoemaker's craft is placed under their patronage.",
+  "patronages": [
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    },
+    {
+      "need": "tanners",
+      "category": "jobs"
+    },
+    {
+      "need": "weavers",
+      "category": "jobs"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the holy martyrs Crispin and Crispinian grace to work with their hands by night and to preach your Gospel by day, grant through their intercession that all who labor may find dignity in their toil and courage in your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crispin_and_Crispinian"
+  ],
+  "featured": false,
+  "draft": false
+}

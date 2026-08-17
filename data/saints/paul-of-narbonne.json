@@ -1,0 +1,25 @@
+{
+  "slug": "paul-of-narbonne",
+  "name": "St. Paul of Narbonne",
+  "feastDay": "03-22",
+  "bio": "Paul of Narbonne was one of the seven bishops sent out from Rome to Christianise Gaul in the third century, the group known as the apostles to the Gauls. Dispatched during the consulate of Decius and Gratus, their mission was to rebuild and spread the faith after the persecutions under Emperor Decius had scattered the small Christian communities of the province.\n\nAccording to the ancient hagiographies, Pope Fabian sent seven bishops from Rome to preach the Gospel: Paul to Narbonne, Gatien to Tours, Trophimus to Arles, Saturnin to Toulouse, Denis to Paris, Austromoine to Clermont, and Martial to Limoges. Paul founded the see of Narbonne and made it a mother church of southern Gaul. His feast is kept on 22 March, and the Basilica of Saint-Paul at Narbonne long preserved his memory.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Paul from Rome to sow the Gospel in Narbonne and to gather a people for your name, grant through his intercession that missionaries may labor with fruit and that preachers may speak your word with power. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_of_Narbonne"
+  ],
+  "featured": false,
+  "draft": false
+}

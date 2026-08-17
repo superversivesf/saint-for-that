@@ -1,0 +1,29 @@
+{
+  "slug": "martial",
+  "name": "St. Martial",
+  "feastDay": "06-30",
+  "bio": "Martial of Limoges, whose name is also rendered Marcial, Martialis, and Marcialis, is called \"the Apostle of the Gauls\" or \"the Apostle of Aquitaine.\" Venerated as the first bishop of Limoges, he is counted among the missionary bishops who carried the Gospel into Gaul in the earliest age of the Church, and he was canonized Pre-Congregation.\n\nTradition holds that Martial was sent from Rome or from the apostolic circle to preach in the region of Limoges, where he founded churches, ordained clergy, and gathered the first Christian communities of Aquitaine. His labors made Limoges one of the cradles of French Christianity, and his see became a great center of faith and learning in later centuries.\n\nMartial is invoked as a patron of prisoners and of the cities of Limoges, Avignon, and Cahors, and he has long been sought in prayer against epidemics and against ergotism, the feared \"holy fire\" that struck the countryside in medieval times. His feast is kept on 30 June.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Martial to sow the Gospel in Aquitaine and to gather a people for your name, grant through his intercession that prisoners may be set free, that epidemics may cease, and that your Church may stand firm in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Martial"
+  ],
+  "featured": false,
+  "draft": false
+}

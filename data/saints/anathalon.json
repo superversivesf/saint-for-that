@@ -1,0 +1,21 @@
+{
+  "slug": "anathalon",
+  "name": "St. Anathalon",
+  "feastDay": "09-24",
+  "bio": "Saint Anathalon was the first recorded bishop of Milan, living at the end of the second or the beginning of the third century. He is honored as the founder of the church of Milan, one of the great sees of Italy, and a later tradition also named him the first bishop of Brescia.\n\nHe is venerated as a saint in both the Catholic and the Eastern Orthodox Churches. His feast is kept on September 24, though in Milan itself it is commemorated on September 25. He stands at the head of the long line of bishops who made Milan a center of Christian life and teaching.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established Your church at Milan through the first labors of Anathalon, grant through his intercession that the shepherds of Your people may build up the faith in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anathalon"
+  ],
+  "featured": false,
+  "draft": false
+}

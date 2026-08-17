@@ -1,0 +1,29 @@
+{
+  "slug": "chrysanthus-and-daria",
+  "name": "Sts. Chrysanthus and Daria",
+  "feastDay": "03-19",
+  "bio": "Saints Chrysanthus and Daria are honored among the martyrs of the early Christian centuries. Their names appear in the Martyrologium Hieronymianum, one of the oldest lists of the Roman martyrs, and a church was built over their reputed grave in Rome, a sign of the deep devotion they inspired in the ancient Church.\n\nAccording to the later tradition, Chrysanthus was of Egyptian origin, born to a noble pagan family, who was converted to the faith by his study of the Gospel. His father, hoping to draw him back, arranged a marriage with Daria, a learned and virtuous Vestal Virgin; but Daria too was won to Christ. Together they lived in virginity and devoted themselves to prayer and the conversion of others. Arrested during the persecution, they refused to sacrifice and won the crown of martyrdom. Their feast is kept on March 19.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who joined the holy martyrs Chrysanthus and Daria in the bond of faith and crowned them together in glory, grant through their intercession that Christian families may be united in your love and steadfast in your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chrysanthus_and_Daria"
+  ],
+  "featured": false,
+  "draft": false
+}

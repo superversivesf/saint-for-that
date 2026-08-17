@@ -1,0 +1,29 @@
+{
+  "slug": "archelais-and-companions",
+  "name": "St. Archelais and Companions",
+  "feastDay": "unknown",
+  "bio": "Saints Archelais, Thecla, and Susanna were Christian virgins of the Romagna region of northern Italy. During the persecution under Diocletian in the third century, they disguised themselves as men, cut their hair, and fled to a remote part of Campagna in southern Italy.\n\nThere they lived as ascetics, devoted to fasting and prayer, and God granted them a gift of healing by which they treated the local inhabitants and converted many pagans. When the governor heard of their works, he arrested them and brought them to Salerno. He threatened Archelais with torture if she would not sacrifice to the idols; she refused, and the lions set upon her meekly lay at her feet. Imprisoned and condemned, they are honored as martyrs.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgins Archelais, Thecla, and Susanna grace to heal bodies and souls and courage to face the lions for Your name, grant through their intercession that all who suffer may find healing and hope in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Archelais_and_Companions"
+  ],
+  "featured": false,
+  "draft": false
+}

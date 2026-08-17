@@ -1,0 +1,29 @@
+{
+  "slug": "praxedes",
+  "name": "St. Praxedes",
+  "feastDay": "07-21",
+  "bio": "Saint Praxedes, called a Roman maiden, was a virgin of the second century who devoted her life and wealth to the service of Christ and his suffering members. Together with her sister Pudentiana, she sheltered persecuted Christians in Rome, tended the martyrs in prison, and gave honorable burial to those who died for the faith. Her family home, built near the baths of Titus, became a refuge for the hard-pressed community and eventually gave rise to the great Basilica of Santa Prassede. Venerated since the fourth century, she is honored on July 21 as a model of practical charity and quiet heroism in the Church's earliest and most dangerous days.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Praxedes a heart of compassion for your persecuted people, grant through her intercession that we may shelter the afflicted and serve Christ in the least of his brothers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Praxedes"
+  ],
+  "featured": false,
+  "draft": false
+}

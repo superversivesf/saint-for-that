@@ -1,0 +1,25 @@
+{
+  "slug": "alexander-of-comana",
+  "name": "St. Alexander of Comana",
+  "feastDay": "02-12",
+  "bio": "Saint Alexander, called the Charcoal Burner, was bishop of Comana in Pontus, in Asia Minor, and suffered martyrdom around the year 251. Out of deep humility he chose to support himself by burning charcoal, a dirty and lowly trade, so as to escape the worldly honors that might come to a bishop.\n\nHe was noted for being exceptionally dirty in consequence, and when he was once judged by his appearance, his holiness was revealed by the discernment of a fellow saint. He is remembered as a model of humility, who hid his episcopal dignity beneath the ashes of his labor.",
+  "patronages": [
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Alexander the bishop to seek humility among the ashes of the charcoal burner, grant through his intercession that we may value the lowliest work done for You above every worldly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_of_Comana"
+  ],
+  "featured": false,
+  "draft": false
+}
