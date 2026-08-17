@@ -8,7 +8,7 @@
   "packageManager": "pnpm@9.15.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "pnpm run validate && astro check && astro build && pagefind --site dist",
+    "build": "pnpm run validate && tsx ../scripts/check-synonyms.ts && astro check && astro build && pagefind --site dist",
     "preview": "astro preview",
     "validate": "tsx ../scripts/validate-saints.ts",
     "import": "tsx ../scripts/import.ts",
