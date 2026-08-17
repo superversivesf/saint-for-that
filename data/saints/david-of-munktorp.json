@@ -1,0 +1,25 @@
+{
+  "slug": "david-of-munktorp",
+  "name": "St. David of Munktorp",
+  "feastDay": "06-25",
+  "bio": "Saint David of Munktorp was an Anglo-Saxon Cluniac monk of the eleventh century, associated with the Christian mission to Sweden. Little of his early life survives, but he labored among the people of Västmanland as a missionary companion.\n\nDavid preached the Gospel, baptized converts, and helped plant the seeds of Christian community in a land still new to the faith. He worked alongside his fellow missionaries to establish the Church in the region of Munktorp.\n\nHis feast is celebrated on June 25, and he is honored in the Swedish tradition as one of the early bearers of Christianity to the north. His monastic witness reflects the Cluniac ideal of prayer and pastoral service offered for the salvation of souls.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. David of Munktorp to bring the light of the Gospel to the northern lands, grant through his intercession that missionaries may labor faithfully and that the seeds of faith may bear abundant fruit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_of_Munktorp"
+  ],
+  "featured": false,
+  "draft": false
+}

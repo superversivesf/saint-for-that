@@ -1,0 +1,29 @@
+{
+  "slug": "igo-of-o-a",
+  "name": "St. Íñigo of Oña",
+  "feastDay": "06-01",
+  "bio": "Íñigo of Oña was a Benedictine monk who became abbot of San Salvador at Oña in Castile. Renowned for his holiness and prudent governance, he guided his community through a period of reform and renewal, and his reputation for wisdom drew both nobles and peasants to seek his counsel.\n\nHe was canonized in 1259 by Pope Alexander IV, and his cult spread through northern Spain. He is the patron of Calatayud, his birthplace, and centuries later Ignatius of Loyola was named in his honor. His feast is kept on 1 June in both the Roman and Eastern calendars, a rare bridge between the two traditions.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Íñigo of Oña a faithful abbot and a guide for those who sought his counsel, grant through his intercession that religious communities may be renewed in holiness and that all who bear his name may imitate his zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%8D%C3%B1igo_of_O%C3%B1a"
+  ],
+  "featured": false,
+  "draft": false
+}

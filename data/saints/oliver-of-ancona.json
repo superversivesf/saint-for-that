@@ -1,0 +1,21 @@
+{
+  "slug": "oliver-of-ancona",
+  "name": "St. Oliver of Ancona",
+  "feastDay": "unknown",
+  "bio": "Saint Oliver of Ancona, also known as Oliver of Portonuovo, Oliverius, or Liberius, is honored as a saint of both the Catholic and Orthodox Christian churches. Though the details of his life have been largely obscured by the passage of centuries, his memory has endured in the devotion of the faithful of the Italian Adriatic coast, who have invoked his intercession from ancient times.\n\nThe people of the region around Ancona and Portonuovo preserved his cult with simple piety, recalling him as a holy servant of God whose prayers were found efficacious in their needs. His feast is kept on the third of February in the local calendars that record his veneration.\n\nThough few written records of his deeds survive, the Church honors Oliver as one of that great company of early saints whose sanctity was attested by the people of God rather than by formal biography, and whose witness reminds us that holiness is written first in the hearts of the faithful.",
+  "patronages": [
+    {
+      "need": "italy",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence have raised up holy men and women in every age to be intercessors for your people, grant through the prayers of St. Oliver of Ancona that we may walk in the company of the saints and merit to share their heavenly reward. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oliver_of_Ancona"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bonfilius",
+  "name": "St. Bonfilius",
+  "feastDay": "09-27",
+  "bio": "Bonfilius was an Italian saint, monk, and bishop of the early medieval Church. His vocation spanned both the cloister and the cathedral, first as a monk given to prayer and the disciplines of religious life, and later as a bishop charged with the care of souls. He is honored at Foligno in Umbria, where his memory has been kept among the saints of the Italian heartland. He stands as one of the many pastor-monks of medieval Italy who carried the fervor of the monastery into the governance of the Church, knitting together contemplation and pastoral care in a single life of service.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bonfilius a monk and bishop, grafting prayer into pastoral care, grant through his intercession that we may serve your people with the heart of a contemplative. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bonfilius"
+  ],
+  "featured": false,
+  "draft": false
+}

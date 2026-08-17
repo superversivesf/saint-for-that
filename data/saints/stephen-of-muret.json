@@ -1,0 +1,25 @@
+{
+  "slug": "stephen-of-muret",
+  "name": "St. Stephen of Muret",
+  "feastDay": "02-08",
+  "bio": "Stephen of Muret was the founder of the Order of Grandmont and its motherhouse of Grandmont Abbey, one of the austere reformed monastic congregations of the Middle Ages. Born around 1049, he was drawn to the eremitical life from his youth and sought solitude in the forests of the Limousin, in central France, where Muret offered a fitting retreat for one who desired nothing but God. Disciples came to share his life of poverty, prayer, and manual labor, and from this community grew the Order of Grandmont, approved by Pope Innocent III shortly after his death in 1124. The Grandmontine way was marked by strict observance of the Rule of Saint Benedict and a deep love of poverty. His teaching was simple: seek God alone, flee honors, find in the cross the path to glory. His feast is February 8.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the blessed Stephen to seek You in the solitude of Muret and to gather disciples in the spirit of holy poverty, grant through his intercession that we may detach our hearts from earthly honors and find our treasure in You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_of_Muret"
+  ],
+  "featured": false,
+  "draft": false
+}

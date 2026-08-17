@@ -1,0 +1,21 @@
+{
+  "slug": "erlembald",
+  "name": "St. Erlembald",
+  "feastDay": "unknown",
+  "bio": "Saint Erlembald was a nobleman of Milan who placed his sword and political influence at the service of Christ and His Church. As the lay leader of the pataria, a reforming movement within the Ambrosian diocese, he labored to purify the clergy and restore discipline among the priests and people of the city. He endured calumny, violence, and exile for the sake of righteousness, standing firm against simony and moral corruption. He was slain in 1075 by opponents of reform and was venerated as a martyr for justice. His witness reminds the faithful that the defense of truth is a sacred charge laid upon every Christian conscience.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Erlembald to defend the purity of Your Church against corruption and violence, grant through his intercession that we may have the courage to stand for truth and justice in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erlembald"
+  ],
+  "featured": false,
+  "draft": false
+}

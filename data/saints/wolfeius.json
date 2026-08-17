@@ -1,0 +1,21 @@
+{
+  "slug": "wolfeius",
+  "name": "St. Wolfeius",
+  "feastDay": "unknown",
+  "bio": "Wolfeius is remembered as a hermit of St Benet Hulme in Norfolk, England, one of the solitary souls who sought God in the silence of the marshes and waterways of early medieval East Anglia. Little is recorded of his life beyond the place of his enclosure, yet the survival of his name testifies to the reverence in which he was held by the local faithful.\n\nThe hermits of the early English Church followed Christ into wild and abandoned places, making of solitude a school of prayer. Wolfeius belongs to that hidden company whose fasts and vigils are known to God alone, and whose quiet intercession was believed to bless the land around them. His feast, if once kept, has long been lost; yet at St Benet Hulme his memory endured for centuries among the monks who later made that house their own.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wolfeius to seek You in the solitude of the Norfolk marshes, grant through his intercession that we may find in silence a place to meet You, and in stillness the strength to serve. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wolfeius"
+  ],
+  "featured": false,
+  "draft": false
+}

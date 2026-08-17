@@ -1,0 +1,25 @@
+{
+  "slug": "alypius-of-the-caves",
+  "name": "St. Alypius of the Caves",
+  "feastDay": "08-17",
+  "bio": "Alypius of the Caves, also called Alipy, was an eleventh-century monk of the Kiev Pechersk Lavra, the famous cave monastery of Kievan Rus. As a young man he entered the Lavra and was placed under Greek icon painters who had come from Constantinople to adorn the churches of the newly Christianized land. Alypius mastered their art and is revered as the first native icon painter of Kievan Rus, dedicating his gifts to the service of God and the Church. He painted holy images for the Lavra and the faithful, taking no payment for his labor. He was known for his ascetic life, his humility, and his devotion to the Incarnation made visible in the icons. He died around 1114, and his feast is kept on August 17. He is remembered as a monk-artist whose brushes proclaimed the Word made flesh.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "artists",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Alypius of the Caves the gift of painting holy icons to reveal the face of Your Son, grant through his intercession that all artists may use their talents for Your glory and that the faithful may behold in sacred art the beauty of salvation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alypius_of_the_Caves"
+  ],
+  "featured": false,
+  "draft": false
+}

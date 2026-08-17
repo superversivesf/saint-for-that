@@ -1,0 +1,29 @@
+{
+  "slug": "pope-leo-ix",
+  "name": "St. Leo IX",
+  "feastDay": "04-19",
+  "bio": "Pope Leo IX, born Bruno of Egisheim-Dagsburg in Alsace, was Bishop of Rome and ruler of the Papal States from 12 February 1049 until his death in 1054. A reformer of great energy, he traveled widely to enforce clerical celibacy, to combat simony, and to lift the standards of the clergy, working closely with Hildebrand, the future Gregory VII.\n\nHe is counted among the most significant popes of the Middle Ages. His legates and the Patriarch of Constantinople exchanged excommunications in 1054, the event known as the Great Schism, which formally divided the Catholic and Eastern Orthodox Churches. He died shortly afterward and was venerated as a saint, his feast kept on 19 April.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Leo IX to reform the clergy and to labor for the unity of Your Church, grant through his intercession that pastors may be holy and that the wounds of division may be healed by the grace of Your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_IX"
+  ],
+  "featured": false,
+  "draft": false
+}

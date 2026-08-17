@@ -1,0 +1,21 @@
+{
+  "slug": "filarete-of-calabria",
+  "name": "St. Filarete of Calabria",
+  "feastDay": "04-08",
+  "bio": "Saint Filarete of Calabria was born in Palermo in 1020, into a family of Calabrian origin that had been carried into Sicilian captivity by the Saracens and later released. Returning to Calabria around 1040, he settled first in Reggio Calabria and then withdrew to the monastery of Saint Elias on Mount Aulinas near Palmi, seeking a life of prayer. He later sojourned in Sinopoli before returning to Monte Aulinas under the guidance of a master named Orestes, where he spent the final twenty-five years of his life in monastic quiet. Honored on April 8, he is remembered as a patient servant of God who turned captivity into contemplation.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the captivity of Saint Filarete into a life of contemplation upon Monte Aulinas, grant through his intercession that every trial may lead us closer to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Filarete_of_Calabria"
+  ],
+  "featured": false,
+  "draft": false
+}

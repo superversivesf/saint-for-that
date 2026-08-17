@@ -1,0 +1,33 @@
+{
+  "slug": "john-gualbert",
+  "name": "St. John Gualbert",
+  "feastDay": "07-12",
+  "bio": "Saint John Gualbert, born Giovanni Gualberto, was an Italian nobleman of Florence who founded the Vallumbrosan Order. In his youth he was vain and pleasure-seeking, but when his brother Ugo was murdered he set out to avenge the death. On Good Friday he encountered the killer, who begged for mercy; moved by the memory of Christ's Passion, Gualbert spared him and embraced him as a brother. That act of forgiveness changed his life. He became a Benedictine monk and founded the monastery of Vallombrosa, gathering a congregation dedicated to poverty, simplicity, and reform. He condemned simony and nepotism and was held in esteem by popes. His feast is kept on July 12, and he is honored as a patron of foresters and of those who seek the grace to forgive.",
+  "patronages": [
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    },
+    {
+      "need": "environment",
+      "category": "nature"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Saint John Gualbert to lay down vengeance and take up mercy on the day of your Son's Passion, grant through his intercession that we may forgive those who wrong us, and that all who tend the forests of the earth may serve you in your creation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Gualbert"
+  ],
+  "featured": false,
+  "draft": false
+}

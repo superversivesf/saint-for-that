@@ -1,0 +1,37 @@
+{
+  "slug": "guy-of-anderlecht",
+  "name": "St. Guy of Anderlecht",
+  "feastDay": "09-12",
+  "bio": "Guy of Anderlecht, the Poor Man of Anderlecht, was born near Brussels in the late tenth century to a humble peasant family. He embraced poverty and labor, working first as a farmhand and later as a sacristan, finding joy in sweeping, tending lamps, and ringing bells. Restless for pilgrimage, he journeyed to Rome and Jerusalem, returning home worn and ill, only to die in Anderlecht around 1012.\n\nHis tomb became a place of healing, and over the centuries he was invoked by labourers, sacristans, and those who work with horses and horned animals. Pilgrims sought his intercession against rabies and mad dogs, and bachelors and epileptics came to venerate him. His feast is 12 September, and he remains a patron of working people and of those who serve unseen in the Lord's house.",
+  "patronages": [
+    {
+      "need": "bachelors",
+      "category": "family"
+    },
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "day-laborers",
+      "category": "jobs"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Guy from lowly labor to pilgrim holiness, grant through his intercession that we may find You in humble work and steadfast service, and that all who labor may know their dignity in Your sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+  ],
+  "featured": false,
+  "draft": false
+}

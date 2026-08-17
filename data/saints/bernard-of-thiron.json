@@ -1,0 +1,25 @@
+{
+  "slug": "bernard-of-thiron",
+  "name": "St. Bernard of Thiron",
+  "feastDay": "04-27",
+  "bio": "Bernard of Thiron, also known as Bernard of Ponthieu and Bernard of Abbeville, was the founder of the Tiron Abbey and the Tironensian Order. A Benedictine monk of reforming spirit, he sought to restore strict observance and simplicity to monastic life in twelfth-century France. After years of pilgrimage and trial, he gathered disciples in the forest of Thiron, where the abbey rose as a center of fervent religious life, manual labor, and learning. The Tironensian Order spread its houses across France and the British Isles, bearing witness to the renewal Bernard championed. He is honored as a founder and reformer, an abbot of austere and generous heart.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bernard of Thiron into the solitude of the forest to found a house of fervent prayer and labor, grant through his intercession that we may seek you with undivided hearts and serve you in simplicity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Thiron"
+  ],
+  "featured": false,
+  "draft": false
+}

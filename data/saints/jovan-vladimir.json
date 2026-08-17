@@ -1,0 +1,33 @@
+{
+  "slug": "jovan-vladimir",
+  "name": "St. Jovan Vladimir",
+  "feastDay": "05-22",
+  "bio": "Jovan Vladimir, or John Vladimir, ruled the Serbian principality of Duklja from about 1000 to 1016, during the long war between the Byzantine and Bulgarian empires. Contemporaries acknowledged him as a pious, just, and peaceful ruler in an age of violence, and he sought the welfare of his people rather than the expansion of his realm.\n\nHe was treacherously murdered after being taken captive, and was revered as a martyr, his innocence and forbearance recalling the sufferings of the just. His feast is kept on 22 May, and he is honored among the Serbian and Orthodox peoples as a model of righteous kingship and patient endurance.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Jovan Vladimir with martyrdom though he was a prince of peace, grant through his intercession that rulers may seek justice above power and that all who suffer treachery may find in You their vindication. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jovan_Vladimir"
+  ],
+  "featured": false,
+  "draft": false
+}

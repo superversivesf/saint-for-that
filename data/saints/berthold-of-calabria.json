@@ -1,0 +1,25 @@
+{
+  "slug": "berthold-of-calabria",
+  "name": "St. Berthold of Calabria",
+  "feastDay": "03-29",
+  "bio": "Berthold of Calabria was a crusader and saint who, around 1185, established a hermit colony on Mount Carmel in the Holy Land. There, amid the caves and rocky slopes where the prophet Elijah had once stood, he gathered men devoted to prayer, solitude, and the defense of the Christian presence in the land of Christ. From this hermit colony grew the seed of what would become the Carmelite Order. Introduced into Carmelite literature around the fifteenth century as Saint Berthold of Mount Carmel, he is said to have been a general of the Order before Brocard. He is honored as a founding figure of Carmel, a soldier-saint turned hermit.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Berthold of Calabria from the sword to the solitude of Mount Carmel, grant through his intercession that we may turn from violence to prayer and seek your face in stillness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berthold_of_Calabria"
+  ],
+  "featured": false,
+  "draft": false
+}

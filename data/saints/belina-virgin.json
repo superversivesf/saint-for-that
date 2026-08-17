@@ -1,0 +1,25 @@
+{
+  "slug": "belina-virgin",
+  "name": "St. Belina",
+  "feastDay": "02-19",
+  "bio": "Belina was a medieval virgin and martyr of the Catholic Church, honored especially in the region of Champagne in northeastern France. Her birth date is unknown, but she was born to pious parents who were serfs of John Paterne, the Lord of Pradines and of D'Arcy. She was killed at Landreville, a village near Troyes, and because of her death she is known both as Belina of Troyes and Belina of Landreville. The details of her passion have largely passed into legend, but the Church has long honored her among the company of virgin martyrs who gave their lives rather than betray their consecration to Christ. Her feast is kept on February 19.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Belina the grace to lay down her life in virginity and witness, grant through her intercession that we may keep our hearts pure and our courage steady in the face of trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belina_(virgin)"
+  ],
+  "featured": false,
+  "draft": false
+}

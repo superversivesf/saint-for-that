@@ -1,0 +1,29 @@
+{
+  "slug": "edward-the-confessor",
+  "name": "St. Edward the Confessor",
+  "feastDay": "01-05",
+  "bio": "Edward the Confessor was King of the English from 1042 until his death in 1066, the last monarch of the House of Wessex. Born around 1003 to Æthelred the Unready and Emma of Normandy, Edward spent much of his youth in exile in Normandy following the Danish conquest, returning to claim the throne in adulthood.\n\nHis reign brought relative peace after years of conflict, and Edward earned a reputation for personal piety, chastity, and generosity to the Church. He founded Westminster Abbey, which became the burial place of English kings, and was known for his devotion to prayer and care for the poor.\n\nEdward died on January 5, 1066, and was canonized by Pope Alexander III in 1161. Venerated as a patron of England and of difficult marriages, his feast is January 5.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Edward the Confessor to rule with justice and to build up Your Church in England, grant through his intercession that rulers may seek Your wisdom and that those in difficult marriages may find peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

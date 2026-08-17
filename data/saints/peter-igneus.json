@@ -1,0 +1,33 @@
+{
+  "slug": "peter-igneus",
+  "name": "St. Peter Igneus",
+  "feastDay": "02-08",
+  "bio": "Pietro Igneo, known as Peter Igneus, was an Italian Benedictine monk of the Vallombrosan congregation in the eleventh century, drawn to the reforming zeal of St. John Gualbert in the hills above Florence. The Vallombrosans waged a fierce campaign against simony, the buying and selling of ecclesiastical offices, and Peter became their most dramatic witness when he submitted to an ordeal by fire.\n\nIn 1068, before a vast crowd at Settimo, he walked unharmed between two blazing pyres to prove the truth of the accusation against the simoniacal bishop of Florence, Peter Mezzabarba. The miracle forced the bishop's removal. Peter founded the Abbey of Santa Maria in Montepiano in Tuscany and was raised to Cardinal-Bishop of Albano by Pope Gregory VII.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "spiritual"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved St. Peter Igneus unharmed through the ordeal of fire and made him a champion against simony, grant through his intercession that we may have the courage to oppose corruption and the purity to serve Your Church without price. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Igneus"
+  ],
+  "featured": false,
+  "draft": false
+}

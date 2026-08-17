@@ -1,0 +1,21 @@
+{
+  "slug": "simeon-of-mantua",
+  "name": "St. Simeon of Mantua",
+  "feastDay": "07-26",
+  "bio": "Simeon of Mantua, who lived from the late tenth century until 1016, was a Benedictine monk of Armenian origin who spent his monastic life in Italy. Born in a land where the Christian faith was ancient and the monastic tradition deep, he journeyed westward and embraced the Rule of Saint Benedict in the monastery at Mantua. There he devoted himself to prayer, the liturgy, and the quiet labor of the cloister, exemplifying the Benedictine ideal of seeking God in community. After his death in 1016 he was venerated as a saint, and his cult was formally recognized when he was canonized in the late eleventh century. He is remembered as a bridge between the Eastern and Western Christian traditions, an Armenian who found his home among the Benedictines of Italy. His feast is kept on July 26.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the holy Simeon from his Armenian homeland to serve You among the Benedictines of Mantua, grant through his intercession that we may seek Your face in prayer and find our home wherever You lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simeon_of_Mantua"
+  ],
+  "featured": false,
+  "draft": false
+}

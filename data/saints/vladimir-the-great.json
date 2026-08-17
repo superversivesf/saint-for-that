@@ -1,0 +1,33 @@
+{
+  "slug": "vladimir-the-great",
+  "name": "St. Vladimir the Great",
+  "feastDay": "07-15",
+  "bio": "Vladimir I Sviatoslavich, called the Great, was born around 958, a pagan prince who ruled Novgorod from 970 and became Grand Prince of Kiev in 978. In his early years he was a warrior, yet he sought the truth among the faiths surrounding his people and sent envoys to inquire of the Bulgars, the Germans, and the Greeks.\n\nThe splendor of the Liturgy at Constantinople moved his envoys to report that they did not know whether they were in heaven or on earth. Vladimir was baptized in 988 and led his people into the Christian faith, ordering the old gods' worship to cease and the Dnieper to receive Kiev's people in Baptism. He ruled thenceforth as a Christian prince, founding churches and caring for the poor. He died in 1015 and is venerated as the baptizer of Kievan Rus'.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "russia",
+      "category": "nature"
+    },
+    {
+      "need": "ukraine",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Vladimir from the darkness of idols to the light of the Gospel and made him the father of a Christian people, grant through his intercession that all who seek You may find the way to the waters of Baptism. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vladimir_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

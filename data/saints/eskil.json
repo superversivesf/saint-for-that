@@ -1,0 +1,21 @@
+{
+  "slug": "eskil",
+  "name": "St. Eskil",
+  "feastDay": "06-12",
+  "bio": "Saint Eskil was an Anglo-Saxon monk who journeyed to the wilds of Sweden at the close of the eleventh century to preach the Gospel among the Norse. He settled in the province of Södermanland, where he founded the first Christian community on the shores of Lake Mälaren, the seed of what would become the Diocese of Strängnäs. He endured the hostility of pagan holdouts and labored patiently to plant the faith in rocky northern soil. Honored as the patron saint of Södermanland and of the Diocese of Strängnäs, he is remembered as a missionary monk and a pillar of the Church in Scandinavia. His feast is kept on June 12.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Eskil to sow the seed of the Gospel in the northern lands, grant through his intercession that the faith may ever take root and flourish among all peoples. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eskil"
+  ],
+  "featured": false,
+  "draft": false
+}

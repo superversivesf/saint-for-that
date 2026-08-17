@@ -1,0 +1,33 @@
+{
+  "slug": "hemma-of-gurk",
+  "name": "St. Hemma of Gurk",
+  "feastDay": "06-27",
+  "bio": "Hemma of Gurk, also called Emma, was a noblewoman of eleventh-century Carinthia who became Fürstin through her marriage to Count Wilhelm of Friesach. After bearing two sons, she endured the deaths of both husband and children, tragedies that turned her heart toward almsgiving and the foundation of churches. Using her wealth, she established religious houses at Gurk and Admont, endowing a Benedictine monastery that became a center of learning.\n\nShe lived her final years as a simple laywoman near Gurk, distributing her goods to the poor until her death around 1045. Buried in Gurk Cathedral, her tomb drew pilgrims seeking healing, and she was beatified in 1287 and canonized on 5 January 1938 by Pope Pius XI.",
+  "patronages": [
+    {
+      "need": "childbirth",
+      "category": "illness"
+    },
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who transformed the sorrows of St. Hemma into works of mercy and made her a mother of churches in Carinthia, grant through her intercession that we may use our goods for the poor and find in our losses the seed of new life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hemma_of_Gurk"
+  ],
+  "featured": false,
+  "draft": false
+}

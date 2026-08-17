@@ -1,0 +1,21 @@
+{
+  "slug": "blida",
+  "name": "St. Blida",
+  "feastDay": "unknown",
+  "bio": "Blida was an Anglo-Saxon princess venerated in medieval Norfolk, where she is remembered chiefly as the mother of Saint Walstan, the beloved patron of farm workers. Though few details of her life survive, her memory was kept alive through the cult that grew around her son, whose miracles drew pilgrims to the church at Bawburgh. Blida is associated with the Norfolk village of Martham, where local tradition holds she was buried and where a chapel once stood in her honor. Her quiet sanctity rests in her role as a mother who gave the Church a saint, and she represents the countless holy women of the early medieval world whose names endured through the fruits of their motherhood and the faith of the communities that cherished them.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the blessed mother Blida gave to Your Church the holy Walstan, grant through her intercession that parents may nurture their children in holiness and see them grow to serve You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Blida"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "lietbertus",
+  "name": "St. Lietbertus",
+  "feastDay": "09-28",
+  "bio": "Saint Lietbertus of Brakel was born to the Brabantian nobility at Opbrakel and served as archdeacon and provost of the cathedral of Cambrai before his election as bishop. He was consecrated bishop of Cambrai on 31 March 1051 and governed the see until his death on 28 September 1076.\n\nAs bishop he was remembered for his pastoral care and for the reform of the clergy in his diocese, carrying forward the work of the eleventh-century reform that sought to free the Church from simony and corruption. He labored among both nobles and townsfolk, and his cult endured in the Low Countries. His feast is kept on 28 September.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Lietbertus a faithful bishop and a reformer of his clergy, grant through his intercession that pastors may serve with integrity and that the Church may be ever renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lietbertus"
+  ],
+  "featured": false,
+  "draft": false
+}

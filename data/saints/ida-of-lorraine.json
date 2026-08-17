@@ -1,0 +1,29 @@
+{
+  "slug": "ida-of-lorraine",
+  "name": "St. Ida of Lorraine",
+  "feastDay": "unknown",
+  "bio": "Ida of Lorraine was a saint and noblewoman of the eleventh century, daughter of Duke Frederick II of Lorraine. She married Count Eustace II of Boulogne and became the mother of Godfrey of Bouillon, first Crusader ruler of Jerusalem, and of Baldwin I, king of the Latin Kingdom. Though her sons attained earthly glory, Ida's heart was turned toward prayer, almsgiving, and the founding of religious houses that served the poor.\n\nAfter her husband's death she devoted herself to works of piety, supporting monasteries across Lorraine and Boulogne and making pilgrimage to distant shrines. Chroniclers praised her as a woman of singular devotion whose prayers shaped the souls of her famous sons more than martial training.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Ida among the nobility of Lorraine to be a mother of saints and a patron of the poor, grant through her intercession that mothers may form their children in faith and that we may use whatever wealth we have for Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ida_of_Lorraine"
+  ],
+  "featured": false,
+  "draft": false
+}

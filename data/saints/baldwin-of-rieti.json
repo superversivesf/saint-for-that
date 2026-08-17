@@ -1,0 +1,29 @@
+{
+  "slug": "baldwin-of-rieti",
+  "name": "St. Baldwin of Rieti",
+  "feastDay": "07-24",
+  "bio": "Baldwin of Rieti was a twelfth-century Italian Benedictine abbot and a faithful follower of St. Bernard of Clairvaux. Born in Italy, he journeyed to France to enter the great Cistercian house at Clairvaux, drawn by the reforming fervor and holiness of Bernard's monastic family. There Baldwin was formed in the discipline of the Rule and in the spiritual life of the Cistercians. In time he was sent back to Italy as abbot of San Pastore, near Rieti, where he governed his monks with wisdom until his death around 1140. He is honored as a patron of Rieti, remembered for his obedience, humility, and the quiet strength of his monastic leadership.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Baldwin a faithful abbot and a true son of St. Bernard, grant through his intercession that those entrusted with leadership in Your Church may govern with humility and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baldwin_of_Rieti"
+  ],
+  "featured": false,
+  "draft": false
+}

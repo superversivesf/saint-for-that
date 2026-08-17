@@ -1,0 +1,29 @@
+{
+  "slug": "euthymius-the-athonite",
+  "name": "St. Euthymius the Athonite",
+  "feastDay": "05-13",
+  "bio": "Saint Euthymius the Athonite was a Georgian monk, philosopher, and scholar who flourished in the tenth century. Born in Georgia, he journeyed to Mount Athos, the garden of the Theotokos, where he embraced the ascetic life at the Iviron Monastery. Renowned for his learning and holiness, he translated the Scriptures and the Fathers into his native tongue, bringing the light of Orthodoxy to the Georgian people. He was a friend and collaborator of Saint John the Georgian, and together they raised up a great flowering of monastic and literary culture. Venerated by both the Georgian and the Athonite faithful, he is honored on May 13.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who enlightened Saint Euthymius with the wisdom of the Fathers and the zeal of the monk, grant through his intercession that we may seek You in prayer and in the study of holy things. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euthymius_the_Athonite"
+  ],
+  "featured": false,
+  "draft": false
+}

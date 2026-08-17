@@ -1,0 +1,29 @@
+{
+  "slug": "moses-the-hungarian",
+  "name": "St. Moses the Hungarian",
+  "feastDay": "07-26",
+  "bio": "Moses the Hungarian was a Kievan Russian monk of Hungarian origin who lived in the eleventh century and is venerated as a saint by the Eastern Orthodox Church, his feast kept on July 26. Born in Hungary, he traveled east and entered monastic life in the caves of Kiev, joining the Kiev Pechersk Lavra. According to the Kiev Caves Patericon, Moses was captured and held in bondage for years, enduring terrible trials for his refusal to compromise his vow of chastity and faith. Freed through the intercession of St. Anthony of the Caves, he returned to the monastery and gave himself wholly to prayer, fasting, and the eremitical life. He died in the first half of the eleventh century, remembered as a confessor who bore suffering with patience and kept his purity intact through the grace of God.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Moses the Hungarian grace to preserve his purity and faith through years of captivity, grant through his intercession that all who suffer bonds may remain steadfast in You and find freedom in Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moses_the_Hungarian"
+  ],
+  "featured": false,
+  "draft": false
+}

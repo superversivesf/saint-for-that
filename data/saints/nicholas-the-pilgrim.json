@@ -1,0 +1,25 @@
+{
+  "slug": "nicholas-the-pilgrim",
+  "name": "St. Nicholas the Pilgrim",
+  "feastDay": "06-02",
+  "bio": "Nicholas the Pilgrim, sometimes called Nicholas of Trani, was a young Greek saint venerated by both the Catholic Church and the Eastern Orthodox Church in the early eleventh century. Born in Greece, he set out as a pilgrim, traveling westward through southern Italy when that region was a meeting place of Latin, Greek, and Byzantine traditions. He arrived in the Apulian city of Trani, where he lived as a wandering holy man, calling the people to repentance with the words \"Kyrie eleison\" constantly on his lips. He died there around 1094, still a youth, and was buried in the cathedral of Trani. Miracles were reported at his tomb, and his cult spread quickly through the region. He is invoked as a patron of youth and pilgrims, a young stranger who became beloved in the city that received him.",
+  "patronages": [
+    {
+      "need": "youth",
+      "category": "everyday"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nicholas the Pilgrim to walk as a stranger in a foreign city and made him a voice of repentance to its people, grant through his intercession that the young may find in You their true home and that pilgrims may travel under Your protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicholas_the_Pilgrim"
+  ],
+  "featured": false,
+  "draft": false
+}

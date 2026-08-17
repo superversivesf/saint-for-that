@@ -1,0 +1,33 @@
+{
+  "slug": "himerius-of-bosto",
+  "name": "St. Himerius of Bosto",
+  "feastDay": "02-04",
+  "bio": "Himerius of Bosto is venerated as a pilgrim and martyr of the early medieval period, honored in the province of Varese in northern Italy together with his companion Gemolus, with whom he was martyred. Little is recorded of his origins or the circumstances of his death, but the ancient cult around his tomb speaks of a traveler for Christ who bore the Gospel along unfamiliar roads and paid for his witness with his life.\n\nLocal tradition places his martyrdom near Bosto, and pilgrims long visited the shrine where he and Gemolus were buried, seeking intercession for safe travel and courage in confessing the faith.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "italy",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Himerius with martyrdom as he pilgrimaged for Your name, grant through his intercession that all who travel may be kept safe from harm and that we may walk the road of Your commandments with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Himerius_of_Bosto"
+  ],
+  "featured": false,
+  "draft": false
+}

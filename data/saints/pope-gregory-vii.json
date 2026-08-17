@@ -1,0 +1,25 @@
+{
+  "slug": "pope-gregory-vii",
+  "name": "St. Gregory VII",
+  "feastDay": "05-25",
+  "bio": "Saint Gregory VII, born Hildebrand of Sovana in Tuscany, was head of the Catholic Church and ruler of the Papal States from 1073 until his death in 1085. From his youth he was formed in the school of Roman reform, serving under several popes before his own election. He made the reform of the Church the work of his pontificate, striving to free the clergy from simony, enforce clerical celibacy, and vindicate the spiritual authority of the See of Peter against the claims of emperors. His contest with the Emperor Henry IV over the investiture of bishops became the defining struggle of his age. Driven from Rome in his final years, he died in exile at Salerno, his last words reportedly a verse of the Psalm: \"I have loved righteousness and hated iniquity.\" His feast is kept on May 25.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gregory VII a champion of the freedom of your Church, grant through his intercession that shepherds may govern with integrity and that the faithful may never grow weary of laboring for her renewal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+  ],
+  "featured": false,
+  "draft": false
+}

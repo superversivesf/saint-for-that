@@ -1,0 +1,29 @@
+{
+  "slug": "symeon-of-trier",
+  "name": "St. Symeon of Trier",
+  "feastDay": "unknown",
+  "bio": "Saint Simeon of Trier, also written as Symeon, was a monk and recluse who died in Germany in 1035 after a life given wholly to prayer and penance. Of Eastern origin, he journeyed as a pilgrim to the holy places of the Christian East, visiting Jerusalem and the monasteries of the Levant, before making his way to the West. Settling at Trier, he embraced the eremitical life in a cell attached to the great church, where he devoted himself to ceaseless intercession and the contemplation of the divine mysteries. After his death he was venerated as a saint in both the Eastern Orthodox Church, which keeps his feast on May 1, and in the Catholic Church, particularly in Germany. He is remembered as a bridge between the Christian East and West, a recluse whose cell became a place of pilgrimage.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the blessed Symeon from the pilgrim roads of the East to the silence of a cell at Trier, grant through his intercession that we may find in prayer the communion of Your love and in solitude the strength to serve You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symeon_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

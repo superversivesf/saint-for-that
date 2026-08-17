@@ -1,0 +1,29 @@
+{
+  "slug": "maurus-of-p-cs",
+  "name": "St. Maurus of Pécs",
+  "feastDay": "10-25",
+  "bio": "Maurus of Pécs, known in Hungarian as Mór, was the first known prelate born in the Kingdom of Hungary. He entered religious life at the Benedictine Abbey of Pannonhalma, the cradle of Hungarian monasticism, and served as its abbot from about 1029 to 1036. In that year he was consecrated bishop of Pécs, a see he governed with pastoral zeal until his death around 1075. As bishop he shepherded a young Christian community in a newly evangelized land, and he preserved the memory of earlier saints by writing the Legend of Saints Benedict of Szkalka and Andrew Zorard, two hermits of the region of Nitra in modern Slovakia. His cult was confirmed by Pope Pius IX in 1848. He is honored as a pillar of the early Hungarian Church and a patron of the diocese he served for nearly four decades.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hungary",
+      "category": "everyday"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maurus of Pécs a faithful shepherd of Your people in a young and growing Church, grant through his intercession that we may preserve the heritage of faith handed down to us and hand it on to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maurus_of_P%C3%A9cs"
+  ],
+  "featured": false,
+  "draft": false
+}

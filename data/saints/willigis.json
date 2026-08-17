@@ -1,0 +1,25 @@
+{
+  "slug": "willigis",
+  "name": "St. Willigis",
+  "feastDay": "02-23",
+  "bio": "Willigis was born in the tenth century at Schladen, of a noble Saxon family, and rose to become one of the most influential churchmen of his age. In 975 he was appointed Archbishop of Mainz, the primatial see of Germany, and served until his death in 1011. He was also archchancellor of the Holy Roman Empire, a trusted counselor to emperors Otto II and Otto III.\n\nDespite the high affairs surrounding him, Willigis remained a builder and a pastor at heart. He raised the great cathedral of Mainz, established churches and schools, and labored to bring the Gospel to the Slavic peoples at the empire's edges. He presided over synods and worked to maintain the Church's unity in a turbulent time. He is venerated as a patron of wheelwrights and of those who build the Church in stone and in souls.",
+  "patronages": [
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Willigis a wise shepherd of Your Church and a builder of her houses, grant through his intercession that those who labor with their hands and those who govern Your people may both serve You faithfully. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Willigis"
+  ],
+  "featured": false,
+  "draft": false
+}

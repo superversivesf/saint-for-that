@@ -1,0 +1,33 @@
+{
+  "slug": "george-the-hagiorite",
+  "name": "St. George the Hagiorite",
+  "feastDay": "unknown",
+  "bio": "Saint George the Hagiorite, called Mt'ats'mindeli and Athoneli, was a Georgian monk, calligrapher, religious writer, theologian, and translator of the eleventh century. He spearheaded the activities of Georgian monastic communities across the Byzantine Empire and served as hegumen of the Iviron Monastery on Mount Athos. With patient hand he copied the Scriptures and the Fathers, and with careful mind he rendered Greek theology into Georgian, building a bridge between the learning of Byzantium and the faith of his homeland. He labored to preserve and enrich the Georgian liturgical and literary tradition. Honored as a saint, he is remembered among the great monastic scholars of the Christian East.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint George the Hagiorite to translate the treasures of the Faith for his people, grant through his intercession that writers and translators may labor for the glory of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_the_Hagiorite"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "berthold-of-parma",
+  "name": "St. Berthold of Parma",
+  "feastDay": "10-21",
+  "bio": "Berthold was a Benedictine lay brother, an oblate who lived out his vocation in humble obedience within the monastic community at Parma. Though the historical record preserves little detail of his deeds, his memory endured among the brothers and the faithful of northern Italy as one who exemplified the Benedictine ideal of prayer and work. Lay brothers of his era carried the heavy manual labors of the abbey, baking, farming, and building, while joining the choir monks in the liturgy of the hours. Berthold stands for that vast company of hidden servants whose holiness was lived in quiet fidelity rather than public fame.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Berthold of Parma a model of humble service within his monastery, grant through his intercession that we may find you in the ordinary work of each day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berthold_of_Parma"
+  ],
+  "featured": false,
+  "draft": false
+}

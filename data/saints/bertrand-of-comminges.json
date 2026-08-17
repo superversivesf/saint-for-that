@@ -1,0 +1,21 @@
+{
+  "slug": "bertrand-of-comminges",
+  "name": "St. Bertrand of Comminges",
+  "feastDay": "10-16",
+  "bio": "Bertrand of Comminges served as Bishop of Comminges, in the diocese of Toulouse in southern France. As a medieval bishop he shepherded his mountain diocese with pastoral care, building up the Church in a region where the see had endured long upheaval. The commune of Saint-Bertrand-de-Comminges, one of the most picturesque and ancient hill-towns of the Pyrenean foothills, takes its name from him. His cult centered on the cathedral that rises above the ruins of the old Roman city, drawing pilgrims for centuries. He is honored as a pastor of southern France and a quiet builder of the Church in a rugged land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bertrand of Comminges a faithful bishop in the mountains of southern France, grant through his intercession that we may build up your Church wherever we are planted. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bertrand_of_Comminges"
+  ],
+  "featured": false,
+  "draft": false
+}

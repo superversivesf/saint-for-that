@@ -1,0 +1,29 @@
+{
+  "slug": "ephrem-mtsire",
+  "name": "St. Ephrem Mtsire",
+  "feastDay": "unknown",
+  "bio": "Ephrem Mtsire, also called Ephraim the Lesser, was an eleventh-century Georgian monk, theologian, and translator who labored at the Monastery of the Cross near Antioch, a great center of Georgian monastic life in the Holy Land. Skilled in Greek and Georgian, he devoted himself to rendering the writings of the Greek Fathers into Georgian, making patristic theology accessible to the Christians of his homeland. His most significant contribution was his translation of the works of St. Ephrem the Syrian, whose spiritual writings he carried across linguistic frontiers with care. He also composed original theological works and helped shape the doctrinal foundations of the Georgian Church. Venerated as a saint, he is remembered as a scholar whose translation nourished the faith of his people.",
+  "patronages": [
+    {
+      "need": "translators",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ephrem Mtsire a love of Your truth and the skill to carry the writings of the Fathers across the boundaries of language, grant through his intercession that we may hand on the faith we have received without loss or distortion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ephrem_Mtsire"
+  ],
+  "featured": false,
+  "draft": false
+}

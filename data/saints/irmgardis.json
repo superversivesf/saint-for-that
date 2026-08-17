@@ -1,0 +1,29 @@
+{
+  "slug": "irmgardis",
+  "name": "St. Irmgardis",
+  "feastDay": "09-04",
+  "bio": "Saint Irmgardis, also called Irmgard of Süchteln, was a sovereign Countess of Aspel in the Rhineland who lived from about 1013 to 1085. Born to the German nobility, she used her wealth and authority to found churches and to care for the poor, choosing a life of piety and charity rather than worldly ambition.\n\nHer relics were preserved in a sarcophagus in the altar of Cologne Cathedral, where her memory was long honored. She is remembered as a noblewoman who placed her power at the service of the Gospel, an example of sanctity exercised within the responsibilities of worldly rank.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Irmgardis with worldly rank and taught her to lay it at the feet of Christ, grant through her intercession that all who hold authority may use it for the relief of the poor and the building up of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Irmgardis"
+  ],
+  "featured": false,
+  "draft": false
+}

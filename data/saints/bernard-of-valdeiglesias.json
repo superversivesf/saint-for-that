@@ -1,0 +1,21 @@
+{
+  "slug": "bernard-of-valdeiglesias",
+  "name": "St. Bernard of Valdeiglesias",
+  "feastDay": "08-20",
+  "bio": "Bernard of Valdeiglesias was a Benedictine Cistercian monk at the monastery of Valdeiglesias, in the province of Avila, Spain. Like many monks of the Cistercian reform, he embraced a life of prayer, manual labor, and silence within the walls of his abbey, seeking God in the simplicity that Saint Benedict and Saint Bernard had taught. He is honored at Candeleda and the surrounding Spanish countryside, where his memory has long been cherished among the rural faithful. He represents the great company of hidden Cistercian monks whose quiet sanctity shaped the religious life of medieval Spain, and whose intercession is still sought by the people of Avila.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bernard of Valdeiglesias to seek you in the quiet of the cloister, grant through his intercession that we too may find you in prayer and silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Valdeiglesias"
+  ],
+  "featured": false,
+  "draft": false
+}

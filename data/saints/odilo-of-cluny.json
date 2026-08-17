@@ -1,0 +1,33 @@
+{
+  "slug": "odilo-of-cluny",
+  "name": "St. Odilo of Cluny",
+  "feastDay": "01-19",
+  "bio": "Odilo of Cluny served as the fifth Benedictine Abbot of Cluny, succeeding Mayeul and governing the great monastery for some fifty-four years. Under his leadership Cluny became the most influential monastery in western Europe, and Odilo worked tirelessly to reform monastic practice not only at Cluny but throughout the network of Benedictine houses that looked to it for guidance.\n\nA man of deep pastoral concern, Odilo promoted the Truce of God, seeking to suspend military hostilities at sacred times, and encouraged the formal practice of personal consecration to the Blessed Virgin Mary. His most enduring legacy was the establishment of All Souls' Day at Cluny as an annual commemoration to pray for all the faithful departed, a devotion soon embraced by the entire Western Church.\n\nVenerated as a model of monastic reform and tender solicitude for the dead, Odilo died in 1049 and was honored as a saint whose charity reached beyond the grave to the souls in purgatory.",
+  "patronages": [
+    {
+      "need": "souls in purgatory",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Odilo of Cluny inspired the Church to remember and pray for the faithful departed, grant through his intercession that we may show tender charity toward the souls in purgatory and strive for the reform of our own lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

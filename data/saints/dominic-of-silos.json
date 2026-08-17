@@ -1,0 +1,33 @@
+{
+  "slug": "dominic-of-silos",
+  "name": "St. Dominic of Silos",
+  "feastDay": "12-20",
+  "bio": "Dominic of Silos was a Spanish monk and abbot of the eleventh century, born in Cañas in La Rioja. As a youth he tended flocks among the hills, learning the solitude that marked his later spiritual life. Drawn to the monastic vocation, he entered the Benedictine monastery of San Millán de la Cogolla and was ordained priest.\n\nAs abbot of the declining monastery of Santo Domingo de Silos, Dominic restored it to vigor through reform and personal example. The house became a center of holiness, and miracles were attributed to his prayers, especially healings of those afflicted with rabies.\n\nDominic died around 1073. His intercession was sought for captives, shepherds recalling his youth, and pregnant women. His feast is December 20.",
+  "patronages": [
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "captives",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Dominic of Silos a faithful shepherd of souls and a helper of those in captivity, grant through his intercession that the imprisoned may be set free, that expectant mothers may be blessed, and that all who labor may find You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominic_of_Silos"
+  ],
+  "featured": false,
+  "draft": false
+}

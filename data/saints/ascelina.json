@@ -1,0 +1,29 @@
+{
+  "slug": "ascelina",
+  "name": "St. Ascelina",
+  "feastDay": "08-23",
+  "bio": "Ascelina, born in 1121, was a French Cistercian nun and mystic of the twelfth century. Little is recorded of her early life, but she entered the Cistercian cloister when the young Order founded at Cîteaux was drawing fervent souls into its observance of prayer, manual labor, and silence. As a nun she gave herself wholly to contemplation and the hidden discipline of the enclosure, seeking God in the depths of the heart. Her contemporaries testified to the graces of prayer and the mystical favors granted to her, and she became known as a soul of remarkable intimacy with God. She died on August 23, 1195, and her memory was preserved by the nuns who succeeded her. Her feast is kept on that day. She is remembered as a contemplative whose life of union with God shone quietly in her monastery.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ascelina to seek You in the silence of the cloister and to drink deeply of the mysteries of contemplation, grant through her intercession that we may learn to commune with You in the depths of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ascelina"
+  ],
+  "featured": false,
+  "draft": false
+}

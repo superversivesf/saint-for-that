@@ -1,0 +1,29 @@
+{
+  "slug": "marianus-scotus-of-regensburg",
+  "name": "St. Marianus Scotus of Regensburg",
+  "feastDay": "unknown",
+  "bio": "Marianus Scotus of Regensburg, born Muiredach mac Robartaig in Ireland in the eleventh century, was an Irish abbot and scribe who became one of the most learned missionary monks of his generation. Leaving his homeland as a pilgrim for Christ, he settled in Regensburg, where he entered the Benedictine monastery of St. James. There, with companions from Ireland, he devoted himself to copying sacred Scripture and patristic texts by hand, preserving the learning of the Church for future generations. His reputation for holiness and scholarship drew other Irish monks to join him, and he founded a community that carried on the tradition of Irish missionary monasticism in Bavaria. He died in Regensburg around 1088, venerated for his humility and his labor of copying the word of God.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Marianus Scotus from Ireland to labor as a pilgrim and scribe in a foreign land, grant through his intercession that we may treasure Your Holy Word and carry it faithfully to every nation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marianus_Scotus_of_Regensburg"
+  ],
+  "featured": false,
+  "draft": false
+}

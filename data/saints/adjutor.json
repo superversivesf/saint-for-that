@@ -1,0 +1,33 @@
+{
+  "slug": "adjutor",
+  "name": "St. Adjutor",
+  "feastDay": "04-30",
+  "bio": "Adjutor was born at Vernon in Normandy on July 24, 1073, and was made a knight in the First Crusade. According to the tradition that preserves his memory, he was captured by Muslim forces during the campaign, and when his captors sought to make him renounce the Christian faith, he refused. By one account he then escaped his captors by swimming, and so made his way back across the sea to France. After his return he entered the Abbey of Trion and there became a recluse, giving the rest of his days to penance and prayer. The circumstances of his escape gave rise to his patronage of those who go down to the water, and he is invoked as the patron saint of swimmers, of boaters and sailors, and of those in danger of drowning, as well as of his native town of Vernon.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who delivered St. Adjutor from captivity and brought him safe through the waters to a life of prayer, grant through his intercession that all who travel upon the sea may be kept from harm, and that we may confess Your name before all who oppose it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adjutor"
+  ],
+  "featured": false,
+  "draft": false
+}

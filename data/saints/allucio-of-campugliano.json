@@ -1,0 +1,33 @@
+{
+  "slug": "allucio-of-campugliano",
+  "name": "St. Allucio of Campugliano",
+  "feastDay": "10-23",
+  "bio": "Allucio of Campugliano, born around 1070, was a Tuscan holy man who spent his long life serving pilgrims, the poor, and the cause of peace. Living as a layman near Pescia, he devoted himself to sheltering travelers and feeding the hungry, building a hospice for those who passed through the mountain roads of his native land. His reputation for holiness spread widely, and he was called upon as a peacemaker to reconcile feuding factions and settle disputes among neighbors. He worked to free captives held in the wars of his day and labored for reconciliation where violence had taken hold. He died in 1134, and his memory was kept by the people of Tuscany. His feast is celebrated on October 23. He is remembered as a man of practical charity who made the Gospel visible in care for the stranger.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "captives",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Allucio of Campugliano to welcome the stranger, feed the hungry, and labor for peace among warring peoples, grant through his intercession that we may be instruments of Your reconciliation and servants of those in need. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Allucio_of_Campugliano"
+  ],
+  "featured": false,
+  "draft": false
+}

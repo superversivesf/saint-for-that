@@ -1,0 +1,29 @@
+{
+  "slug": "prochorus-the-iberian",
+  "name": "St. Prochorus the Iberian",
+  "feastDay": "02-12",
+  "bio": "Prochorus the Iberian was a Georgian monk of the early medieval period, venerated as a founder of one of the most sacred sites in the Holy Land. Little is recorded of his youth, but his name links him to the Iberian kingdom, the medieval Georgian realm that produced so many monastic founders and ascetics.\n\nLed by faith and a longing to honor the places sanctified by Christ's passion, Prochorus journeyed to Jerusalem and there founded the Monastery of the Cross, a house that would become a enduring center of Georgian monastic presence in the Holy City. The monastery was associated with the tradition that the wood of the True Cross grew from a tree planted on the spot, and Prochorus's foundation made that site a place of pilgrimage for the faithful of the Caucasus and beyond.\n\nHe is commemorated on February 12 and is honored as a patron of Georgian Christians and of all who labor to establish the worship of God in lands far from their home.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired your servant Prochorus to found a house of prayer in the holy city of Jerusalem and to labor for the unity of your faithful in every land, grant through his intercession that we may reverence the cross of your Son and work for the unity of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prochorus_the_Iberian"
+  ],
+  "featured": false,
+  "draft": false
+}

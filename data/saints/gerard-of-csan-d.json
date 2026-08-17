@@ -1,0 +1,33 @@
+{
+  "slug": "gerard-of-csan-d",
+  "name": "St. Gerard of Csanád",
+  "feastDay": "09-24",
+  "bio": "Saint Gerard of Csanád, born Gerard Sagredo, was a Venetian nobleman who became the first bishop of Csanád in the Kingdom of Hungary around 1030 and served there until his death. At age five he survived a grave illness and was entrusted to the Benedictine monastery of San Giorgio in Venice, where he received an education in grammar, music, philosophy, and law. Drawn to missionary life, he journeyed to Hungary and was befriended by King Stephen I, who entrusted him with the see of Csanád. He labored to plant the faith among the Magyar people, founded schools, and guided his flock through the troubled years following Stephen's death. He was martyred in 1046 during a pagan reaction. His feast is kept on September 24, and he is venerated as a patron of Hungary and of bishops.",
+  "patronages": [
+    {
+      "need": "hungary",
+      "category": "everyday"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Gerard of Csanád from Venice to sow the Gospel in the fields of Hungary, grant through his intercession that missionaries may labor with the same zeal, and that the Church in every land may stand firm in the hour of trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerard_of_Csan%C3%A1d"
+  ],
+  "featured": false,
+  "draft": false
+}

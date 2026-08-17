@@ -1,0 +1,33 @@
+{
+  "slug": "ladislaus-i-of-hungary",
+  "name": "St. Ladislaus I of Hungary",
+  "feastDay": "06-27",
+  "bio": "Ladislaus I, called Saint Ladislas, was King of Hungary from 1077 and King of Croatia from 1091, the second son of King Béla I and Richeza of Poland. After his father's death he and his brother Géza acknowledged their cousin Solomon as king in exchange for their father's duchy, and for a decade the cousins cooperated, until rivalry drove them to rebellion and Géza took the throne in 1074.\n\nAs king, Ladislaus passed laws protecting the Church and the poor, founded sees and monasteries, and was revered as a chivalrous and just ruler. His most famous legend tells of his combat with a Cuman who had abducted a Hungarian girl, an image of knightly defense of the helpless. He is the patron of Hungary and of the Székelys, and a protector against pestilence.",
+  "patronages": [
+    {
+      "need": "hungary",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ladislaus a defender of his people and a shield against pestilence, grant through his intercession that those who bear arms may use them only to protect the helpless, and that sickness may flee before the prayers of the faithful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dominic-loricatus",
+  "name": "St. Dominic Loricatus",
+  "feastDay": "10-14",
+  "bio": "Dominic Loricatus was an Italian Benedictine monk of the Camaldolese observance, renowned in the eleventh century for his extraordinary life of penance. His surname \"Loricatus\" refers to the iron breastplate he wore next to his skin as a constant instrument of bodily mortification. He spent forty years in the monastery of Fonte Avellana under the direction of St. Dominic of Sora, devoting himself to prolonged fasts, vigils, and the recitation of the Psalms while weighted down by his chains. So great was his discipline that he recited the entire Psalter twice each week. He died around 1061, having exhausted his body in reparation for sin and in imitation of the suffering Christ, and is remembered as a striking example of the heroic penitential spirit of medieval Italian monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scruples",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Dominic Loricatus grace to embrace a life of heroic penance, grant through his intercession that we may discipline our bodies and turn our hearts wholly toward You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominic_Loricatus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "procopius-of-s-zava",
+  "name": "St. Procopius of Sázava",
+  "feastDay": "07-14",
+  "bio": "Saint Procopius of Sázava was a Czech Christian who served as a canon before withdrawing to the life of a hermit on the banks of the Sázava River in Bohemia. His holiness soon drew disciples, and from his solitary cell there grew a monastery that became one of the great centers of Slavic Orthodox monasticism in the Czech lands.\n\nProcopius was venerated as a holy ascetic and a father of monks, and his foundation preserved the Slavonic liturgy in a region increasingly dominated by Latin practice. He was honored in both the Eastern Orthodox and Roman Catholic churches as a saint whose life bridged the traditions of East and West, and whose prayers were sought by the people of Bohemia.\n\nHe died in the first half of the eleventh century and is commemorated on July 14. Venerated as a patron of Bohemia and of hermits, Procopius is remembered as one who sought God in solitude and found in that solitude a fountain of life for a whole people.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "slovakia",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Procopius from the life of a canon to the solitude of the hermitage and made him a father of monks in the Czech lands, grant through his intercession that we may seek you in silence and find in prayer the strength to build up your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Procopius_of_S%C3%A1zava"
+  ],
+  "featured": false,
+  "draft": false
+}

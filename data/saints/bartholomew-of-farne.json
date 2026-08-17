@@ -1,0 +1,29 @@
+{
+  "slug": "bartholomew-of-farne",
+  "name": "St. Bartholomew of Farne",
+  "feastDay": "06-24",
+  "bio": "Bartholomew of Farne was a twelfth-century Benedictine hermit who lived and died on the lonely Farne Islands off the coast of Northumberland, England. He began his religious life as a monk at Durham, formed in the rhythms of common prayer and obedience of the Benedictine Rule. But his heart was drawn to deeper solitude, and he relocated to the rugged and wind-swept Farne Islands, where a small community of hermits had lived since the days of St. Cuthbert. There Bartholomew embraced a life of prayer, fasting, and penance amid the cold North Sea. He is remembered as a quiet heir of the great northern English hermit tradition, and a patron of those who seek God in silence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Bartholomew from the choir of Durham to the lonely rocks of Farne, grant through his intercession that we may find You in silence and serve You in solitude. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bartholomew_of_Farne"
+  ],
+  "featured": false,
+  "draft": false
+}

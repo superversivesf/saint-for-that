@@ -1,0 +1,29 @@
+{
+  "slug": "hallvard-vebj-rnsson",
+  "name": "St. Hallvard Vebjørnsson",
+  "feastDay": "05-15",
+  "bio": "Hallvard Vebjørnsson was a young Norwegian nobleman of the eleventh century, born into a prominent family near Oslo. His life ended in martyrdom around 1043 when he defended a pregnant thrall woman who had taken refuge with him, fleeing men who accused her of theft. Hallvard refused to surrender her, believing her innocent, and was slain with an arrow; the woman was killed alongside him.\n\nAccording to tradition, his body was placed in a boat with a stone and set adrift, yet the vessel floated miraculously upstream, revealing his innocence. From that miracle he became patron saint of Oslo, honored as a defender of the innocent and a champion of justice for the weak.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Hallvard with martyrdom for defending the innocent, grant through his intercession that we may be courageous in protecting the weak and steadfast in the cause of justice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hallvard_Vebj%C3%B8rnsson"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "fantinus",
+  "name": "St. Fantinus",
+  "feastDay": "08-30",
+  "bio": "Saint Fantinus, called the Younger to distinguish him from an earlier Calabrian wonderworker of the same name, was an Italian saint of the tenth century. He embraced the eremitical life in the rugged hill country of Calabria, seeking God in silence, fasting, and unceasing prayer. He wandered from place to place, a pilgrim of the Spirit, and was known for the austerity of his life and the gifts of God that rested upon him. He drew disciples who sought his counsel, yet he remained a stranger to the world, a soul hidden in Christ. Honored on August 30, he is remembered among the holy hermits of southern Italy.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Fantinus to seek You in the silence of the wilderness, grant through his intercession that we may learn to withdraw from the noise of the world and rest in Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fantinus"
+  ],
+  "featured": false,
+  "draft": false
+}

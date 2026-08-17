@@ -1,0 +1,29 @@
+{
+  "slug": "bellinus-of-padua",
+  "name": "St. Bellinus of Padua",
+  "feastDay": "11-26",
+  "bio": "Bellino Bertaldo, known as St. Bellinus of Padua, was a twelfth-century Italian Roman Catholic prelate who served as Bishop of Padua from 1128 until his murder. He governed his diocese with care and zeal, tending to clergy and people during a turbulent era of Italian civic life. The chronicles record that he met a violent death at the hands of an assailant, and he was soon venerated as a martyr-bishop by the faithful of Padua. In time Pope Eugene IV formally canonized Bellino as a saint. He is honored as patron of the city of Adria and its diocese, and is invoked against dog bites and rabies, a patronage rooted in local devotion.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bellinus a faithful shepherd of Padua and a martyr for his flock, grant through his intercession that those who lead Your people may be brave in danger and gentle in care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bellinus_of_Padua"
+  ],
+  "featured": false,
+  "draft": false
+}

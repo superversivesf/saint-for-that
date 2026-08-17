@@ -1,0 +1,29 @@
+{
+  "slug": "ulrich-of-zell",
+  "name": "St. Ulrich of Zell",
+  "feastDay": "07-14",
+  "bio": "Ulrich of Zell, also known as Wulderic, was born in the eleventh century and entered religious life at an early age. Drawn to the great reforming current of his time, he made his way to the Abbey of Cluny, where the monastic life under St. Hugh's guidance shaped his vocation. He became a chief channel through which the Cluniac spirit of devout worship and ordered discipline flowed into Germany.\n\nSent back across the Rhine, Ulrich served as prior and then abbot of Zell in the Black Forest, reforming the community and founding other houses on the Cluniac model. He was known as a wise superior, a patient teacher of monks, and a faithful preacher of reform to the churches of his day. He died in 1093 and is venerated as a patron of abbots and of those who labor for the renewal of the Church.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred up St. Ulrich to renew the monastic life in Germany, grant through his intercession that Your Church may be constantly refreshed in holiness and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulrich_of_Zell"
+  ],
+  "featured": false,
+  "draft": false
+}

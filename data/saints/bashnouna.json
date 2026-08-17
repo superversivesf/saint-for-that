@@ -1,0 +1,21 @@
+{
+  "slug": "bashnouna",
+  "name": "St. Bashnouna",
+  "feastDay": "05-19",
+  "bio": "St. Bashnouna was a Coptic Orthodox saint and martyr of the early medieval era. Few details of his life survive, but the Coptic Church honors him among those who bore witness to Christ by shedding their blood for the faith. Like many Coptic martyrs, he is remembered as one of the company of those who refused to deny the Lord, even when threatened with death. His feast is kept on May 19, the day of his passion. In a tradition marked by centuries of suffering and steadfast faith, Bashnouna stands as a witness to the cost of discipleship and the victory of the cross.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Bashnouna with the martyr's palm, grant through his intercession that we may be steadfast in confessing Your name before all the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bashnouna"
+  ],
+  "featured": false,
+  "draft": false
+}

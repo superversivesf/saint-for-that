@@ -1,0 +1,25 @@
+{
+  "slug": "david-i-of-scotland",
+  "name": "St. David I of Scotland",
+  "feastDay": "unknown",
+  "bio": "David I was a twelfth-century king of Scotland, the youngest son of King Malcolm III and Queen Margaret, herself a saint. Born around 1085, he was exiled to England in 1093 and grew to maturity at the court of Henry I, absorbing the reforming religious ideals then current in England.\n\nAscending the throne in 1124, David embarked on a program of ecclesiastical reform that reshaped Scottish religious life. He founded monasteries, bishoprics, and churches, bringing Augustinian, Cistercian, and Cluniac houses to Scotland. His patronage earned him a reputation for piety.\n\nDavid died in 1153 and was honored as a saintly king whose devotion to the Church transformed his kingdom. His legacy as a just ruler and patron of monasticism endured long after his death.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. David of Scotland to reform and renew the Church in his land, grant through his intercession that rulers may govern with justice and that the Church may be ever renewed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_I_of_Scotland"
+  ],
+  "featured": false,
+  "draft": false
+}

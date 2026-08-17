@@ -1,0 +1,29 @@
+{
+  "slug": "anthony-of-rome",
+  "name": "St. Anthony of Rome",
+  "feastDay": "01-17",
+  "bio": "Anthony of Rome, also called Anthony the Roman, was a twelfth-century monk who founded the Antoniev Monastery in Novgorod, Russia. Born in Rome, he entered a monastery there, but when the Latin Church turned to customs his conscience could not accept, he fled. A storm at sea carried him miraculously, in a single day, from Rome to the shores of the Great Novgorod, a journey that should have taken weeks. Settling as a hermit near the city, he gathered disciples. He founded the monastery dedicated to the Nativity of the Theotokos, and the house bore his name, Antoniev. He governed his monks with gentleness and was revered for his holiness. He died around 1147. His feast is kept on January 17. He is remembered as a wanderer for the truth who found his home where God's providence brought him.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by a marvelous providence brought St. Anthony of Rome across the sea to a new home and a new work for Your Church, grant through his intercession that those who wander in search of truth may find their rest in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

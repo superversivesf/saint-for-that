@@ -1,0 +1,25 @@
+{
+  "slug": "luka-zhidiata",
+  "name": "St. Luka Zhidiata",
+  "feastDay": "unknown",
+  "bio": "Luka Zhidiata, known in Slavonic as Luke Zhidiata, was the second bishop of Novgorod and one of the earliest hierarchs of the Russian Orthodox Church. He succeeded the era of Joachim of Korsun, the first bishop of that great northern see, and took up the work of ordering a young Church still finding its footing in a land only lately baptized. According to the chronicles, Luka was consecrated after Efrem, who had administered the eparchy without full consecration following Joachim's death. Luka thus became the first properly consecrated bishop to sit at Novgorod after its founder, and governed that see during the formative decades when Christianity was sinking its roots deep into the Russian north.",
+  "patronages": [
+    {
+      "need": "russia",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Luka to shepherd the young Church of Novgorod, grant through his intercession that the pastors of Your people may build wisely upon the foundations laid before them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luka_Zhidiata"
+  ],
+  "featured": false,
+  "draft": false
+}

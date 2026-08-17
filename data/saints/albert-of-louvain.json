@@ -1,0 +1,29 @@
+{
+  "slug": "albert-of-louvain",
+  "name": "St. Albert of Louvain",
+  "feastDay": "11-24",
+  "bio": "Albert of Louvain was a twelfth-century cardinal of the Catholic Church and Prince-Bishop of Liège, born into the noble house of the dukes of Brabant. Chosen young for high ecclesiastical office, he defended the rights of the Church amid the violent politics of the Holy Roman Empire and the rival claims of emperors and anti-popes. His brief and troubled episcopate was marked by controversy, exile, and the effort to govern his diocese faithfully in a world of warring powers. He met a violent death, and his memory was cherished by the people of Liège, who venerated him as a martyr for the liberty of the Church. Canonized on August 9, 1613, his feast is kept on November 24, the date of his death. He is remembered as a bishop who prized the freedom of God's Church above his own safety.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Albert of Louvain the courage to defend the liberty of Your Church amid the storms of his age, grant through his intercession that we may never fail to uphold what is right and to entrust our cause to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Albert_of_Louvain"
+  ],
+  "featured": false,
+  "draft": false
+}

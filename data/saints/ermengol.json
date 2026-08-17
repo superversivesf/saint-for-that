@@ -1,0 +1,21 @@
+{
+  "slug": "ermengol",
+  "name": "St. Ermengol",
+  "feastDay": "11-03",
+  "bio": "Saint Ermengol, also called Hermengaudius, was consecrated Bishop of Urgell in 1010 and shepherded that Pyrenean diocese for twenty-five years until his death in 1035. He labored among the mountain peoples of Catalonia, building churches, caring for the poor, and guiding his flock through a turbulent age of frontier warfare and political change. Devoted to the sacramental life and to the unity of the Church, he was a faithful pastor in difficult times. His memory endured among the people of Urgell, who honored him as a holy bishop and a trusted intercessor before the throne of God. His feast is kept on November 3.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Ermengol to shepherd Your people in the mountains of Urgell with faithful love, grant through his intercession that all bishops may be true pastors of souls. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ermengol"
+  ],
+  "featured": false,
+  "draft": false
+}

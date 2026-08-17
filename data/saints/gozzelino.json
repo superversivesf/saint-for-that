@@ -1,0 +1,29 @@
+{
+  "slug": "gozzelino",
+  "name": "St. Gozzelino",
+  "feastDay": "02-12",
+  "bio": "Saint Gozzelino was an abbot of the monastery of San Solutore near Turin in northern Italy. Born into the nobility, he renounced his rank to become a monk at San Solutore in the year 1006, giving himself to prayer and the discipline of the cloister. His holiness of life commended him to his brethren, and he was chosen to govern them as abbot, guiding the community in the way of Saint Benedict. Little else of his story has survived, but he is remembered as a nobleman who exchanged the honors of the world for the lowliness of the monastery. His feast is kept on February 12, and he is honored as a patron of abbots and of those who discern a monastic vocation.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Gozzelino to leave the nobility of the world for the service of your house, grant through his intercession that all who discern their vocation may hear your voice with courage, and that abbots may govern their monks with holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gozzelino"
+  ],
+  "featured": false,
+  "draft": false
+}

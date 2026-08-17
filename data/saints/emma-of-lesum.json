@@ -1,0 +1,29 @@
+{
+  "slug": "emma-of-lesum",
+  "name": "St. Emma of Lesum",
+  "feastDay": "04-19",
+  "bio": "Emma of Lesum, also known as Emma of Stiepel, was a Saxon countess of the early eleventh century, venerated as a saint for her good works and generosity. Married to Liudger, a Saxon nobleman, she devoted herself after his death fully to works of charity and the support of the Church.\n\nEmma used her wealth to relieve the poor, to endow churches, and to care for the sick. She is remembered as the first female inhabitant of Bremen known by name, a distinction pointing to her prominence in the growing Christian community of northern Germany.\n\nShe died around 1038 and was venerated as a saint, with her relics honored at Werden Abbey and Bremen Cathedral. Her feast is April 19, and she is invoked as a patron of widows and of those who use their resources for the service of others.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Emma of Lesum a model of widows and a generous servant of the poor, grant through her intercession that those who mourn may find consolation and that we may use our blessings for the service of others. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emma_of_Lesum"
+  ],
+  "featured": false,
+  "draft": false
+}

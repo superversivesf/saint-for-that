@@ -1,0 +1,33 @@
+{
+  "slug": "stephen-i-of-hungary",
+  "name": "St. Stephen I of Hungary",
+  "feastDay": "05-30",
+  "bio": "Stephen I, also known as King Saint Stephen, was the last grand prince of the Hungarians and the first king of Hungary, reigning from 1000 or 1001 until his death in 1038. Born in or after 975 at Esztergom, he was given the pagan name Vajk at birth. He was the only son of Grand Prince Géza and his wife Sarolt, and although both of his parents were baptized, Stephen was the first of his family to become a devout Christian. He married Gisela of Bavaria, a scion of the Ottonian dynasty, and through this union Hungary was drawn into Christian Europe. Crowned with a crown sent by Pope Sylvester II, he organized the Church in Hungary, established bishoprics, founded monasteries, and commanded every tenth town build a church. He is patron of Hungary, kings, and masons. His feast is May 30.",
+  "patronages": [
+    {
+      "need": "hungary",
+      "category": "everyday"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "children",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up the blessed Stephen to establish Your Church among the Hungarian people and to rule them with justice, grant through his intercession that Christian rulers may govern with wisdom and that all builders of churches and homes may labor for Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+  ],
+  "featured": false,
+  "draft": false
+}

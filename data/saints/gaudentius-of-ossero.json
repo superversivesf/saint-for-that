@@ -1,0 +1,21 @@
+{
+  "slug": "gaudentius-of-ossero",
+  "name": "St. Gaudentius of Ossero",
+  "feastDay": "06-01",
+  "bio": "Saint Gaudentius of Ossero served as Bishop of Ossero, on the island of Lussino in the Istrian March, from 1030 to 1042. He shepherded his Adriatic flock through a time of political turmoil and pastoral challenge, holding fast to the faith amid the pressures of a frontier Church. Venerated after his death as a heavenly patron of the city of Ancona, he was remembered for his zeal, his care for the poor, and his steadfast defense of the Gospel. His feast is kept on June 1. He stands among the quiet company of bishops who labored without fame yet built up the Church in lands where the Gospel was still taking root.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gaudentius to shepherd Your people along the Adriatic shore, grant through his intercession that bishops may be steadfast in faith and tender in care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudentius_of_Ossero"
+  ],
+  "featured": false,
+  "draft": false
+}

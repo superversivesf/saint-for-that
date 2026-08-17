@@ -1,0 +1,29 @@
+{
+  "slug": "atto-of-pistoia",
+  "name": "St. Atto of Pistoia",
+  "feastDay": "05-20",
+  "bio": "Atto of Pistoia, known simply as Saint Atto, was a Catholic bishop and professed member of the Vallumbrosan Order, the Benedictine congregation founded by St. John Gualbert for the reform of monastic life in eleventh-century Tuscany. Chosen from the Order to govern the diocese of Pistoia, he brought to the episcopal office the zeal for reform and the discipline of the cloister. As bishop he worked to renew the clergy, defend the rights of the Church, and care for his people. He was also a historiographer, preserving the memory of his Order and the saints of his region through careful writing. He governed with wisdom during a turbulent time of conflict between pope and emperor. He died around 1153. His feast is May 20. He is remembered as a bishop-scholar whose learning served the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Atto of Pistoia the zeal to reform Your Church and the mind of a scholar to preserve the memory of the saints, grant through his intercession that we may serve You in holiness of life and in fidelity to the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atto_of_Pistoia"
+  ],
+  "featured": false,
+  "draft": false
+}

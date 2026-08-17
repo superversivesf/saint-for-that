@@ -1,0 +1,33 @@
+{
+  "slug": "theodosius-of-kiev",
+  "name": "St. Theodosius of Kiev",
+  "feastDay": "05-03",
+  "bio": "Theodosius of Kiev, also called Theodosius of the Caves, was born in the eleventh century into a noble family of Kievan Rus'. As a young man he rejected the privileges of his birth and sought the monastic life, drawn to prayer, fasting, and labor. He became a disciple of St. Anthony of Kiev, who had established a solitary hermitage in the caves above the Dnieper River.\n\nAs abbot he transformed that small brotherhood into a thriving cenobitic community, introducing a common rule, shared work, and ordered worship. Together with Anthony he founded the Kiev Caves Lavra, the cradle of Russian and Ukrainian monasticism. He died in 1074, his life recorded by the chronicler Nestor. He is venerated as a father of monks and a patron of the churches of Kiev and all Rus'.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "ukraine",
+      "category": "nature"
+    },
+    {
+      "need": "russia",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Theodosius established the monastic life in the land of Rus', grant through his intercession that those who seek You in community and prayer may persevere in their calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodosius_of_Kiev"
+  ],
+  "featured": false,
+  "draft": false
+}

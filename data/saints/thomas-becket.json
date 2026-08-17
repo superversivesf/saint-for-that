@@ -1,0 +1,33 @@
+{
+  "slug": "thomas-becket",
+  "name": "St. Thomas Becket",
+  "feastDay": "12-29",
+  "bio": "Thomas Becket, also called St. Thomas of Canterbury, was born around 1119 in London and rose to become one of the most famous martyrs of the English Church. He studied in Paris, served as a clerk, and was made Lord Chancellor by King Henry II in 1155. In 1162 he was appointed Archbishop of Canterbury. To the king's surprise, Thomas took his office with total seriousness, defending the rights of the Church against royal power. The conflict became bitter. After years of exile, Thomas returned to Canterbury, and on December 29, 1170, four of the king's knights murdered him in his own cathedral near the altar. His death shocked Europe. He was canonized in 1173, and his shrine became one of the great pilgrimage sites of the Middle Ages.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Thomas Becket the courage to lay down his life for the rights of Your Church, grant through his intercession that all who minister at Your altar may be faithful even unto death. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Becket"
+  ],
+  "featured": false,
+  "draft": false
+}

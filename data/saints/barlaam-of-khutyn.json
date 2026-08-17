@@ -1,0 +1,25 @@
+{
+  "slug": "barlaam-of-khutyn",
+  "name": "St. Barlaam of Khutyn",
+  "feastDay": "11-06",
+  "bio": "Barlaam of Khutyn, also spelled Varlaam, was a twelfth-century Russian Orthodox hegumen and the founder of the Khutyn Monastery of the Transfiguration near Novgorod. Born Aleksa or Aleksy, he came from a noble family of Novgorod. Drawn to the life of prayer, he left the world as a young man and settled in a remote spot on the Khutyn or \"muddy\" field, living in solitude, fasting, and labor. His reputation for holiness gathered disciples, and in time a monastery arose. Miracles are said to have multiplied through his prayer, and even the chronicles record accounts of healing and deliverance. Barlaam was a friend of Prince Mstislav, and reposed around 1193. He is honored as a patron of Novgorod.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "russia",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Barlaam from noble rank to the muddy field of Khutyn and made him a father of monks, grant through his intercession that we may seek You above all worldly honors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barlaam_of_Khutyn"
+  ],
+  "featured": false,
+  "draft": false
+}

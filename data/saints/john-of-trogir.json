@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-trogir",
+  "name": "St. John of Trogir",
+  "feastDay": "unknown",
+  "bio": "John of Trogir was the bishop of Trogir, a Dalmatian city on the Adriatic coast, in the eleventh century. Little is recorded of his early life, but as bishop he was remembered for his pastoral care, his defense of his people in times of political turmoil, and the holiness of his life.\n\nHe guided the Church of Trogir through an age of shifting powers between Byzantium, Venice, and the Croatian kingdoms, and his cult endured among the people he had served. He is honored as a faithful shepherd who held his see with gentleness and courage.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. John of Trogir a gentle shepherd of his people in days of trouble, grant through his intercession that bishops may defend their flocks with courage and that all who are caught between greater powers may find in You their refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Trogir"
+  ],
+  "featured": false,
+  "draft": false
+}

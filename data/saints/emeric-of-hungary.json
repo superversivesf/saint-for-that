@@ -1,0 +1,25 @@
+{
+  "slug": "emeric-of-hungary",
+  "name": "St. Emeric of Hungary",
+  "feastDay": "09-04",
+  "bio": "Emeric, also Emericus or Emery, was a prince of Hungary and son of King Stephen I, the first Christian king of Hungary, and Giselle of Bavaria. Born around 1007, he was prepared by his father to inherit the crown and the mission of consolidating Christianity in the young kingdom.\n\nAccording to tradition, Emeric took a vow of chastity and lived a life of remarkable piety and humility despite his royal station. He was devoted to prayer and care for the poor. His father wrote a book of admonitions urging him to govern with justice and faith.\n\nEmeric died young around 1031, before succeeding to the throne. His cult was confirmed in 1083 when his relics were elevated alongside those of his father. He is honored as patron of youth and of Hungarian Americans, with his feast on September 4.",
+  "patronages": [
+    {
+      "need": "youth",
+      "category": "everyday"
+    },
+    {
+      "need": "hungary",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Emeric of Hungary a model of purity and piety in his youth, grant through his intercession that young people may seek holiness above worldly ambition and that the Church in Hungary may flourish. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Emeric_of_Hungary"
+  ],
+  "featured": false,
+  "draft": false
+}

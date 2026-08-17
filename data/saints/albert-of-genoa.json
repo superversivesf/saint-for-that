@@ -1,0 +1,29 @@
+{
+  "slug": "albert-of-genoa",
+  "name": "St. Albert of Genoa",
+  "feastDay": "07-08",
+  "bio": "Albert of Genoa, also known as Lambert of Genoa, was a Cistercian hermit of twelfth-century Italy. Born in the great maritime city of Genoa, he heard the call of Christ early and entered the nearby Cistercian abbey, where he remained for the rest of his life as a lay brother and hermit. In the silence of the cloister and the solitude of his cell, Albert gave himself wholly to prayer, manual labor, and the hidden life of the Gospel. He sought no renown and performed no heroic deeds that history records, yet his sanctity was recognized and venerated after his death. His feast is kept on July 8. He stands as a quiet witness that the path to God often lies through humility, obscurity, and faithful perseverance in the place where the Lord has planted us.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Albert to seek You in the silence of the cloister and the hidden life of a hermit, grant through his intercession that we may learn to find You in stillness and to serve You in the ordinary duties of each day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Albert_of_Genoa"
+  ],
+  "featured": false,
+  "draft": false
+}

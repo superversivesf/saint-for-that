@@ -1,0 +1,29 @@
+{
+  "slug": "heimerad",
+  "name": "St. Heimerad",
+  "feastDay": "06-28",
+  "bio": "Heimerad was a German priest and travelling preacher of the eleventh century, born in Swabia, who chose a life of radical wandering and voluntary poverty. After brief service as a parish priest, he gave away his goods and set out on the roads, preaching repentance to villages and castles, often abused, mocked, and stoned for his strange appearance and forthright words. He bore these indignities with joy, earning the title of Fool for Christ.\n\nHe settled as a hermit near Ravensburg and later at Haslach, living in a cramped cell and receiving the few pilgrims who sought his counsel. Miracles were reported at his tomb after his death around 1019.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Heimerad a fool for Christ and a wandering preacher of repentance, grant through his intercession that we may proclaim Your truth without fear of reproach and embrace poverty of spirit as our true treasure. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heimerad"
+  ],
+  "featured": false,
+  "draft": false
+}

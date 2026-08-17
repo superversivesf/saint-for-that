@@ -1,0 +1,29 @@
+{
+  "slug": "walter-of-pontoise",
+  "name": "St. Walter of Pontoise",
+  "feastDay": "03-23",
+  "bio": "Walter of Pontoise was born in the eleventh century in France and became a professor and a priest, noted for learning and piety. Reluctant to accept high office, he was nonetheless made abbot of Saint-Martin at Pontoise, a charge he bore with humility and constant labor. He several times tried to flee the burden of abbacy, seeking a hermit's solitude, yet was always called back to serve his brothers and the poor who came to the gate.\n\nHe worked to reform discipline among his monks and defended the rights of the Church against powerful lay patrons, suffering imprisonment for his stand. Tradition honors him as the last saint canonized by an authority other than the pope. He died around 1099 and is venerated as a patron of prisoners and of those who bear the strain of difficult work.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "anxiety",
+      "category": "illness"
+    },
+    {
+      "need": "workers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Walter the grace to bear heavy burdens with humility and to defend Your Church in suffering, grant through his intercession that those who are confined or weighed down by their labor may find relief and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Walter_of_Pontoise"
+  ],
+  "featured": false,
+  "draft": false
+}

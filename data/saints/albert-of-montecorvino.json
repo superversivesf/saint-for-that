@@ -1,0 +1,29 @@
+{
+  "slug": "albert-of-montecorvino",
+  "name": "St. Albert of Montecorvino",
+  "feastDay": "04-05",
+  "bio": "Albert of Montecorvino was born in Normandy but taken as a child to Motta Montecorvino in Apulia, southern Italy, where his life unfolded under the sun of that ancient land. Called to the ministry of the altar, he rose to become Bishop of Montecorvino and governed his flock with pastoral care. In later years he was struck blind, yet the loss of outward sight seemed only to open the eyes of his soul. He became known for visions and for the gift of miracles, drawing the sick and the troubled who sought his prayers. Though darkness covered his eyes, his words brought light to those who came to him, and his intercession was credited with healings. His feast is kept on April 5. He is remembered as a bishop whose weakness became a channel of grace.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in St. Albert of Montecorvino made the darkness of blindness a doorway to vision and to miracles of healing, grant through his intercession that those who suffer loss of sight may find in You the light that never fails. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Albert_of_Montecorvino"
+  ],
+  "featured": false,
+  "draft": false
+}

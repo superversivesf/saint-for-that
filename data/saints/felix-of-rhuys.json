@@ -1,0 +1,25 @@
+{
+  "slug": "felix-of-rhuys",
+  "name": "St. Felix of Rhuys",
+  "feastDay": "03-04",
+  "bio": "Saint Felix of Rhuys was a Breton Benedictine hermit and abbot who lived in the early medieval age. Drawn to the solitary pursuit of God, he embraced the eremitical life along the rugged coast of Brittany. In time he was called to rebuild and govern Saint-Gildas-de-Rhuys Abbey, which he re-founded as a house of monastic discipline and prayer. As abbot he guided his monks in the way of Benedict, balancing ora et labora, and shepherded the community through years of labor and grace. Honored on March 4, he is remembered as a faithful monk, a wise abbot, and a lover of the contemplative life.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Felix of Rhuys as a hermit and abbot in the Breton land, grant through his intercession that we may balance prayer and labor in the way of Saint Benedict. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Rhuys"
+  ],
+  "featured": false,
+  "draft": false
+}

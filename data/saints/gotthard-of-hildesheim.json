@@ -1,0 +1,41 @@
+{
+  "slug": "gotthard-of-hildesheim",
+  "name": "St. Gotthard of Hildesheim",
+  "feastDay": "05-05",
+  "bio": "Saint Gotthard of Hildesheim, also known as Gothard or Godehard, was a German bishop of the eleventh century renowned for his learning and reforming zeal. Born in Reichersdorf in Bavaria, he studied at the cathedral school of Hildesheim and became its director before entering monastic life. He served as abbot of Niederaltaich and, from 1022, as bishop of Hildesheim, where he founded schools, restored churches, and promoted the observance of discipline among clergy and monks. His cult spread widely across Germany, and he was invoked by merchants and travelers, by sailors in peril of the sea, and by mothers in childbirth and parents of sick children. His feast is kept on May 5, and he is honored as a patron of Germany and of those who journey.",
+  "patronages": [
+    {
+      "need": "merchants",
+      "category": "everyday"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "childbirth",
+      "category": "illness"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gotthard of Hildesheim a shepherd of his people and a refuge for the traveler, grant through his intercession that merchants may deal honestly, that sailors may reach safe harbor, and that parents may see their children grow in health. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gotthard_of_Hildesheim"
+  ],
+  "featured": false,
+  "draft": false
+}

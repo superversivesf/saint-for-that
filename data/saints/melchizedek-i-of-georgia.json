@@ -1,0 +1,25 @@
+{
+  "slug": "melchizedek-i-of-georgia",
+  "name": "St. Melchizedek I of Georgia",
+  "feastDay": "10-01",
+  "bio": "Melchizedek I was the first Catholicos-Patriarch of All Georgia, serving from about 1010 to 1033 and based in the ancient city of Ani. He guided the Georgian Orthodox Church during a pivotal period, when the unification of Georgia under Bagrat III created new possibilities for both state and Church. Before his tenure the heads of the Georgian Church had borne the lesser title of Catholicos of Kartli; it was Melchizedek who adopted the combined title of Catholicos-Patriarch, reflecting the new ecclesial dignity of a united Georgian people. He labored to strengthen the Church's structures and its ties with the wider Christian world. Venerated as a saint by the Eastern Orthodox Church, he is remembered as a wise hierarch who shaped the identity of Georgian Christianity for centuries.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Melchizedek I a wise shepherd of Your Church in Georgia, grant through his intercession that Your people may ever remain united in faith and strengthened in the witness of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melchizedek_I_of_Georgia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "wulfstan-died-1095",
+  "name": "St. Wulfstan",
+  "feastDay": "01-19",
+  "bio": "Wulfstan, born in Warwickshire around 1008, became a Benedictine of Worcester and in 1062 its bishop. He was the last English bishop to survive the Norman Conquest, keeping alive the old English tongue and piety in a Church increasingly ruled by foreign prelates.\n\nA fearless preacher against the slave trade at Bristol, he labored to free captives and defend the poor. He was devoted to St. Oswald, whose relics he enshrined, and kept the ancient fasts when they were falling out of use. He died on January 19, 1095, after more than thirty years as bishop, and was buried in his cathedral. Venerated by Catholics and Anglicans alike, he is invoked as a patron of peasants and of those who fast, and as a defender of the Church's care for the poor.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Wulfstan to keep the faith of old England alive when all around him was changing, grant through his intercession that we may hold fast to what is good and never cease to defend the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wulfstan_(died_1095)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ephraim-of-pereyaslavl",
+  "name": "St. Ephraim of Pereyaslavl",
+  "feastDay": "01-28",
+  "bio": "Ephraim II of Pereyaslav, also called Ephraim of the Caves, was a bishop of Pereyaslavl in Kievan Rus' and a monk of the Kiev Pechersk Lavra, the great monastery of the caves. He belonged to the flowering of Eastern Christian monasticism in the medieval Russian church.\n\nEphraim embraced the ascetic life of the Lavra, devoting himself to prayer, fasting, and the discipline of the cloister. Called to pastoral service, he was consecrated bishop of Pereyaslavl, where he labored to instruct the faithful and uphold the faith in a frontier see subject to nomadic raids and political upheaval.\n\nVenerated as a saint in the Eastern Orthodox Church, his memory is honored among the holy bishops and monks of the Kiev Pechersk Lavra. His feast is January 28.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "ukraine",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ephraim of Pereyaslavl from the silence of the caves to shepherd Your people, grant through his intercession that bishops may be faithful pastors and that monks may persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ephraim_of_Pereyaslavl"
+  ],
+  "featured": false,
+  "draft": false
+}

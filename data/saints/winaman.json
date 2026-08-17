@@ -1,0 +1,29 @@
+{
+  "slug": "winaman",
+  "name": "St. Winaman",
+  "feastDay": "unknown",
+  "bio": "Winaman was a nephew of St. Sigfrid, the apostle of Sweden, and followed his uncle into the missionary enterprise that carried the Gospel into the lands of the North. In the eleventh century Sigfrid traveled to preach Christ among the Scandinavian peoples, and Winaman and other kinsmen joined him as companions in a hard and often dangerous work.\n\nTheir mission brought them into regions where the old paganism still held sway, and the new faith met with resistance that could turn violent. Winaman and his companions were attacked and killed by pagan raiders, dying as martyrs for the Gospel. Their deaths, recorded in the chronicles of the northern missions, were received as a seed of the Church in Scandinavia. He is venerated as a patron of missionaries who face persecution for the name.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Winaman with martyrdom as he labored to bring the Gospel to the peoples of the north, grant through his intercession that those who preach Your name in hostile places may be faithful unto death and receive the crown of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Winaman"
+  ],
+  "featured": false,
+  "draft": false
+}

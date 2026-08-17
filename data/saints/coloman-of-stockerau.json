@@ -1,0 +1,29 @@
+{
+  "slug": "coloman-of-stockerau",
+  "name": "St. Coloman of Stockerau",
+  "feastDay": "10-13",
+  "bio": "Coloman of Stockerau was an Irish pilgrim saint of the early eleventh century. Setting out for the Holy Land, he traveled through Austria, where his foreign dress and speech aroused suspicion. Accused of being a spy, he was seized and hanged from a tree near Vienna.\n\nThough no evidence of espionage was produced, Coloman bore his suffering with patience and prayer, and his death was regarded as a martyrdom. Miracles were reported at the site of his execution, and his relics were enshrined at Melk, which became a center of his cult.\n\nVenerated as patron of Austria, he was invoked for those unjustly condemned and for protection against plague. His feast is October 13.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Coloman in his unjust passion and crowned him with martyrdom, grant through his intercession that those falsely accused may find justice and that those suffering plague may be healed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coloman_of_Stockerau"
+  ],
+  "featured": false,
+  "draft": false
+}

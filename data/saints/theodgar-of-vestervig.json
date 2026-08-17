@@ -1,0 +1,21 @@
+{
+  "slug": "theodgar-of-vestervig",
+  "name": "St. Theodgar of Vestervig",
+  "feastDay": "unknown",
+  "bio": "Theodgar was born in Thuringia, in what is now Germany, and felt the call to preach the Gospel in lands still touched by paganism. He traveled north as a missionary into Jutland, the western peninsula of Denmark, where he labored among the people with quiet perseverance, celebrating the sacraments, teaching the faith, and gathering a Christian community in a harsh and often hostile country.\n\nHe spent most of his priestly life in Denmark and died there, venerated by the people he had served. His memory endured around Vestervig, where a church and later a great Augustinian abbey rose near his grave, drawing pilgrims for centuries. He is honored as one of the early apostles of Scandinavia and a patron of missionaries who carry the Gospel into difficult places.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Theodgar to sow the Gospel in the lands of the north, grant through his intercession that those who preach Your name in difficult places may not lose heart, and that the seeds they plant may bear fruit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodgar_of_Vestervig"
+  ],
+  "featured": false,
+  "draft": false
+}

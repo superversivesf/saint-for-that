@@ -1,0 +1,25 @@
+{
+  "slug": "duthac",
+  "name": "St. Duthac",
+  "feastDay": "unknown",
+  "bio": "Saint Duthac was a Scottish prelate of the early medieval period who served as Bishop of Ross in the Highlands. Though few details of his life are recorded with certainty, his cult centered on the town of Tain in Easter Ross, which became one of the chief pilgrimage sites of medieval Scotland.\n\nDuthac was revered as a holy bishop and shepherd of his people, and his shrine at Tain drew pilgrims from across Scotland, including King James IV, who made repeated journeys to honor the saint. The town's status as a sanctuary of refuge owed much to his patronage.\n\nHe is honored as patron saint of Tain, with his feast traditionally observed on March 8. His memory as a pastor of souls and protector of his region endured through centuries of Scottish devotion.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Duthac a faithful shepherd of Your people in Ross, grant through his intercession that bishops may govern with holiness and that pilgrims may find their way to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Duthac"
+  ],
+  "featured": false,
+  "draft": false
+}

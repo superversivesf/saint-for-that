@@ -1,0 +1,29 @@
+{
+  "slug": "aibert",
+  "name": "St. Aibert",
+  "feastDay": "04-07",
+  "bio": "Aibert of Crespin was a Benedictine monk and hermit of the twelfth century, revered in the region of Hainaut for his intense life of prayer, asceticism, and devotion to the Blessed Virgin Mary. His biography was written by a contemporary, Robert, Archdeacon of Oostrevand, who preserved the memory of a man whose whole life seemed to be offered in silence and penance. Aibert embraced the eremitical discipline within the framework of the Benedictine life, joining the stability of the cloister to the solitude of the hermit. He was given to long fasts and vigils, and was remembered as a man of tears, who wept for his own sins and for the sins of the world, and who found in Mary a mother and a refuge. He died on April 7, and his feast is kept on that day.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aibert to seek You in fasting and in tears beneath the mantle of the Blessed Virgin, grant through his intercession that we may learn the prayer of the heart and find in Mary a mother's care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aibert"
+  ],
+  "featured": false,
+  "draft": false
+}

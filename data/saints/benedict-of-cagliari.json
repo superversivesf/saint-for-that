@@ -1,0 +1,25 @@
+{
+  "slug": "benedict-of-cagliari",
+  "name": "St. Benedict of Cagliari",
+  "feastDay": "02-17",
+  "bio": "Benedict of Cagliari was a twelfth-century Benedictine bishop of Dolia, in Sardinia. He began his religious life as a monk at the abbey of St. Saturninus in that city, living under the Rule and formed by its discipline of prayer and work. In 1107 he was made bishop of Dolia, and he served the diocese with care for five years. After his years of episcopal service, Benedict chose to set down his office and retire to the basilica abbey, returning to the monastic life of prayer that had first formed him. He is remembered as a model of the monk-bishop, a pastor who kept the heart of a monk, and a witness to the humility that ought to adorn every episcopal ministry.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Benedict from the abbey choir to the bishop's throne and back again to the silence of prayer, grant through his intercession that all who serve Your Church may keep the heart of a contemplative. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_of_Cagliari"
+  ],
+  "featured": false,
+  "draft": false
+}

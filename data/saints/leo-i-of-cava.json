@@ -1,0 +1,29 @@
+{
+  "slug": "leo-i-of-cava",
+  "name": "St. Leo I of Cava",
+  "feastDay": "07-12",
+  "bio": "Leo I of Cava was an Italian Benedictine who served as the second abbot of the Abbey of La Trinità della Cava, near Cava de' Tirreni in Campania. He followed the founding abbot Alferius in guiding a community that would become one of the most influential monastic centers of southern Italy, sending out monks to found daughter houses and to serve the surrounding Church.\n\nUnder his care the abbey grew in holiness and numbers, and he was venerated after his death as a saint in the Roman Catholic Church. His feast is kept on 12 July, and he is remembered as a faithful shepherd of monks and a builder of monastic life in the Italian south.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Leo I of Cava a faithful abbot and a father of monks, grant through his intercession that religious communities may flourish in holiness and that those who lead them may serve with the gentleness of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leo_I_of_Cava"
+  ],
+  "featured": false,
+  "draft": false
+}

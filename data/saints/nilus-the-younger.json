@@ -1,0 +1,29 @@
+{
+  "slug": "nilus-the-younger",
+  "name": "St. Nilus the Younger",
+  "feastDay": "09-26",
+  "bio": "Nilus the Younger, also called Neilos of Rossano, was a Griko monk and abbot born around 910 in Rossano, Calabria, in southern Italy. He grew up where the Greek-speaking Christian tradition had long flourished, and from his youth was drawn to the ascetic life. After a brief marriage and the birth of a daughter, he received his wife's consent to enter religious life and became a monk, gathering disciples. He traveled widely through southern Italy, founding monasteries and defending the Italo-Byzantine monastic tradition he did more than anyone to establish. In 1004 he founded the Abbey of Grottaferrata, which remains a living center of the Byzantine-Italian monastic tradition. He died later that year, venerated in both the Eastern Orthodox and Catholic churches, his feast on September 26.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nilus the Younger to found a monastic house that still praises You after a thousand years, grant through his intercession that we may build up Your Church in ways that endure from generation to generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nilus_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

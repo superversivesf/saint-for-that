@@ -1,0 +1,29 @@
+{
+  "slug": "symeon-the-new-theologian",
+  "name": "St. Symeon the New Theologian",
+  "feastDay": "03-12",
+  "bio": "Saint Symeon the New Theologian was an Eastern Orthodox monk and poet, one of only three saints given the title \"Theologian\" by the Eastern Orthodox Church. The title recognized one who spoke from personal experience of the vision of God. Born in 949 in Paphlagonia, he was educated in Constantinople and entered the monastery of Studion, later becoming abbot of Saint Mamas. His principal teaching was that humans could and should experience theoria, the direct contemplation of the divine light, and he insisted the Holy Spirit is perceptible to those who seek with a pure heart. His mystical writings, especially his Hymns of Divine Love, are treasures of Christian spirituality. He died in exile in 1022, but his teaching endured. His feast is March 12. Patron of mystics and contemplatives.",
+  "patronages": [
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "poets",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted to the blessed Symeon the vision of Your divine light and the words to sing of Your love, grant through his intercession that we may seek You with pure hearts and contemplate Your glory in the depths of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symeon_the_New_Theologian"
+  ],
+  "featured": false,
+  "draft": false
+}

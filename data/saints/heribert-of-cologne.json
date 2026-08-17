@@ -1,0 +1,29 @@
+{
+  "slug": "heribert-of-cologne",
+  "name": "St. Heribert of Cologne",
+  "feastDay": "unknown",
+  "bio": "Heribert of Cologne was a German prelate of the late tenth century, born into a noble Rhenish family and educated at the cathedral school of Worms. He rose through the imperial chancery to become chancellor of Italy for Emperor Otto III in 994 and chancellor of the Kingdom of Germany in 998. In 999 he was appointed Archbishop of Cologne, governing the see for more than two decades.\n\nHis relationship with the new emperor Henry II began poorly, marked by suspicion and imprisonment, yet the two reconciled and became trusted allies in reforming the Church. Heribert founded the Benedictine abbey of Deutz on the Rhine, endowing it generously while living simply himself. Renowned for his charity during a severe famine, he distributed grain from the cathedral stores to the starving.",
+  "patronages": [
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Heribert a faithful shepherd of Cologne and a generous provider for the poor in time of famine, grant through his intercession that we may serve the common good with integrity and open our stores to those in need. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heribert_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

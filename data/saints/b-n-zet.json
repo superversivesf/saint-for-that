@@ -1,0 +1,29 @@
+{
+  "slug": "b-n-zet",
+  "name": "St. Bénézet",
+  "feastDay": "04-14",
+  "bio": "St. Bénézet was a twelfth-century French shepherd boy who, according to tradition, was called by God to build a bridge across the Rhône at Avignon. He was born around 1165, a poor youth without schooling, and worked as a shepherd near Burzet in the Vivarais. The story goes that during an eclipse in 1177 he heard a voice urging him to build a bridge at Avignon. Despite mockery, he won the support of the bishop and the faithful, and construction began in 1177. Bénézet gathered funds and laborers, oversaw the work, and the famous Pont d'Avignon rose stone by stone. He died around 1184, before the bridge was complete. He is venerated as a patron of Avignon, of bachelors, and of bridge-builders. His relics rest at the bridge's chapel.",
+  "patronages": [
+    {
+      "need": "bachelors",
+      "category": "family"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the shepherd boy Bénézet to bridge the Rhône and unite a divided city, grant through his intercession that we may build what unites and serve what heals. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "walstan",
+  "name": "St. Walstan",
+  "feastDay": "05-30",
+  "bio": "Walstan was an Anglo-Saxon prince of royal blood who, according to the medieval legends of Norfolk, forsook his inheritance to live as a humble farm laborer. His life is recorded in two principal sources: the De Sancto Walstano Confessore in the Nova Legenda Angliæ, printed by Wynkyn de Worde in 1516, and a later Latin manuscript copied in 1658 from a now-lost medieval triptych in Lambeth Palace library. His shrine at the church of Bawburgh became a place of pilgrimage, where miracles were reported during his life and at his tomb after his death. He is honored as a patron of farms, farm animals, and agricultural workers, and his feast is kept on May 30. Through his labor and his miracles he sanctified the work of the fields and the dignity of those who till the earth.",
+  "patronages": [
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the holy Walstan to leave his royal birthright for the labor of the fields, grant through his intercession that all who work the land may find dignity in their toil and abundance in their harvest. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Walstan"
+  ],
+  "featured": false,
+  "draft": false
+}

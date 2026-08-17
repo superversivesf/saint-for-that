@@ -1,0 +1,25 @@
+{
+  "slug": "guido-of-acqui",
+  "name": "St. Guido of Acqui",
+  "feastDay": "unknown",
+  "bio": "Guido of Acqui served as Bishop of Acqui in north-west Italy from 1034 until his death, shepherding a small but ancient diocese nestled among the hills of Piedmont. Little survives in the historical record about his daily labors, yet the persistence of his cult across nearly a millennium testifies to a pastor beloved by his people. He is remembered as a wise and gentle prelate who cared for his clergy and flock during a turbulent era of reform and political upheaval in the eleventh-century Church. Local tradition holds that he governed his see with humility, visited his parishes on foot, and tended the poor with particular devotion. The Church of Acqui honored him as a model of episcopal simplicity and fatherly care.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Guido to shepherd Your people at Acqui with humility and fatherly care, grant through his intercession that our pastors may serve with gentle wisdom and that we may follow them as faithful disciples. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guido_of_Acqui"
+  ],
+  "featured": false,
+  "draft": false
+}

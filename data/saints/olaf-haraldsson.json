@@ -1,0 +1,29 @@
+{
+  "slug": "olaf-haraldsson",
+  "name": "St. Olaf Haraldsson",
+  "feastDay": "07-29",
+  "bio": "Olaf Haraldsson, called Saint Olaf, Olaf the Holy, and Olaf the Stout, was King of Norway from 1015 to 1028. The son of Harald Grenske, a petty king in Vestfold, he spent his youth in Viking raids before returning to claim his kingdom and to labor for the conversion of the Norse peoples to the Christian faith.\n\nOlaf worked with fierce determination to establish Christianity throughout Norway, founding churches and challenging the old pagan order. Driven from his kingdom by rebellious nobles allied with Cnut of Denmark, he returned in 1030 to reclaim his throne and fell in the Battle of Stiklestad on July 29. Local tradition holds that he died with sword in hand and prayer on his lips, and his body was soon venerated as that of a martyr for the faith.\n\nCanonized barely a year after his death by Bishop Grimketel at Nidaros and given the title Rex Perpetuus Norvegiae, Norway's Eternal King, Olaf became the patron of his nation and a powerful symbol of the Christianization of Scandinavia. His shrine at Nidaros Cathedral drew pilgrims for centuries.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "Almighty and everlasting God, who called your servant Olaf from a life of warfare to be both king and apostle of his people, grant through his intercession that the nations may turn to the light of the Gospel and that those who bear arms may seek the path of justice and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Olaf_Haraldsson"
+  ],
+  "featured": false,
+  "draft": false
+}

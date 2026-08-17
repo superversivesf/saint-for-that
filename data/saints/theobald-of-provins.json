@@ -1,0 +1,37 @@
+{
+  "slug": "theobald-of-provins",
+  "name": "St. Theobald of Provins",
+  "feastDay": "06-30",
+  "bio": "Theobald was born at Provins in Champagne, France, around 1033, the son of noble parents who hoped he would marry well and continue their line. Drawn instead to a life of penance, he left home with a companion and lived for years as a hermit in the forests, supporting himself by manual labor and enduring cold, hunger, and solitude for the love of Christ.\n\nHis reputation for holiness spread, and pilgrims sought him out for counsel and healing, though he fled renown whenever it came. He died in 1066, still young, and his tomb at Provins became a place of devotion. Venerated as a patron of bachelors and of those who work the land, he is invoked by farmers and winegrowers, and by those who suffer from fever or ailments of the eyes.",
+  "patronages": [
+    {
+      "need": "farmers",
+      "category": "everyday"
+    },
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    },
+    {
+      "need": "bachelors",
+      "category": "family"
+    },
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    },
+    {
+      "need": "infertility",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Theobald to leave behind the comforts of home and seek You in solitude, grant through his intercession that we may treasure nothing above Your love and bear our trials with patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theobald_of_Provins"
+  ],
+  "featured": false,
+  "draft": false
+}

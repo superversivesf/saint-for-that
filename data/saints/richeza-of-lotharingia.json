@@ -1,0 +1,33 @@
+{
+  "slug": "richeza-of-lotharingia",
+  "name": "St. Richeza of Lotharingia",
+  "feastDay": "unknown",
+  "bio": "Richeza of Lotharingia was a noblewoman of the Ezzonen dynasty who became queen of Poland as the wife of King Mieszko II Lambert. Her marriage was arranged to strengthen the ties between her family and the imperial court of her uncle, Emperor Otto III, and for a time she shared the Polish throne in a kingdom that stood at the meeting of Western Christendom and the Slavic East.\n\nFollowing the deposition of her husband in 1031, Richeza returned to Germany, either divorcing or separating from Mieszko. Her later years were marked by sorrow and by the extinction of the male line of her house, and she responded to these trials by embracing the religious life. She became a nun, labored to preserve the heritage of her family, and generously funded the restoration of the Abbey of Brauweiler, which her parents had founded.\n\nRicheza has been beatified and is venerated as a model of those who, after the losses and upheavals of married life, find in the cloister a new vocation of prayer and service. She is invoked by widows, divorced persons, and those whose family life has been marked by hardship.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "divorced people",
+      "category": "family"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Richeza from the throne of a kingdom to the humility of the cloister and taught her to rebuild your house in the hour of her sorrow, grant through her intercession that those whose marriages and families have known hardship may find in you a refuge and a new beginning. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Richeza_of_Lotharingia"
+  ],
+  "featured": false,
+  "draft": false
+}

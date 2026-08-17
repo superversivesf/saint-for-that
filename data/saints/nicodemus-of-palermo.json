@@ -1,0 +1,25 @@
+{
+  "slug": "nicodemus-of-palermo",
+  "name": "St. Nicodemus of Palermo",
+  "feastDay": "unknown",
+  "bio": "St. Nicodemus of Palermo was a Sicilian bishop of the Eastern Orthodox tradition who served his flock during the difficult centuries when Sicily lay under Muslim rule. Leading a Christian community in a land governed by a non-Christian power, he labored to preserve the faith, the sacraments, and the continuity of the Church under pressure and restriction. Little detail of his life has survived, but his memory endured among the Orthodox faithful of Sicily as a faithful shepherd who did not abandon his see in a time of trial. He is honored as a witness to the perseverance of the Sicilian Church when the public exercise of the Christian religion was precarious. His cult reflects the layered Christian heritage of Sicily, where Latin, Greek, and Byzantine traditions intertwined.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Nicodemus of Palermo to shepherd Your people under the shadow of foreign rule, grant through his intercession that all who suffer for the faith may stand firm and that Your Church may never lack faithful pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicodemus_of_Palermo"
+  ],
+  "featured": false,
+  "draft": false
+}

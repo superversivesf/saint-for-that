@@ -1,0 +1,29 @@
+{
+  "slug": "godelieve",
+  "name": "St. Godelieve",
+  "feastDay": "07-06",
+  "bio": "Saint Godelieve was a Flemish noblewoman of the eleventh century venerated at Gistel in present-day Belgium. Born into a pious family, she was given in marriage to Bertulf, a nobleman who proved cruel and unfaithful. He abandoned her, and upon her return had her strangled, making her a martyr of a violent and loveless union. Tradition holds that after her death a spring of fresh water flowed from her grave, drawing pilgrims who sought healing. Because of the manner of her death she came to be invoked against diseases of the throat, and because of her sorrows in marriage she is sought by those whose unions are troubled. Her feast is kept on July 6, and she is honored as a patron of difficult marriages and of those who suffer injustice within the home.",
+  "patronages": [
+    {
+      "need": "throat ailments",
+      "category": "illness"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Godelieve grace to bear injustice with patience, grant through her intercession that those who suffer in troubled marriages may find peace, and that all who are afflicted in body may find healing in your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Godelieve"
+  ],
+  "featured": false,
+  "draft": false
+}

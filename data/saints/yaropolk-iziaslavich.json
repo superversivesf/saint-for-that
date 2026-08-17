@@ -1,0 +1,29 @@
+{
+  "slug": "yaropolk-iziaslavich",
+  "name": "St. Yaropolk Iziaslavich",
+  "feastDay": "11-22",
+  "bio": "Yaropolk Iziaslavich was a prince of Kievan Rus, the son of Grand Prince Iziaslav I and Gertruda of Poland. He ruled as Prince of Turov and, from 1078, as Prince of Volhynia, holding lands on the western marches of the Rus' realm in what is now Ukraine. His life was passed in the violent politics of a divided inheritance, caught between his father's rivals and the quarrels of his kin.\n\nAncient chronicles remember Yaropolk as a man of peace and piety amid that violence, a prince who favored the Church and was generous to monasteries. He was murdered in 1086, struck down while traveling, and was venerated after death as a passion-bearer, one who suffered death innocently and was counted among the saints of Kievan Rus.",
+  "patronages": [
+    {
+      "need": "ukraine",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the innocent suffering of St. Yaropolk as a sacrifice of praise, grant through his intercession that those who rule may seek peace, and that the persecuted may find in You their refuge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yaropolk_Iziaslavich"
+  ],
+  "featured": false,
+  "draft": false
+}

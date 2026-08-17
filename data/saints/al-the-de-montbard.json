@@ -1,0 +1,33 @@
+{
+  "slug": "al-the-de-montbard",
+  "name": "St. Alèthe de Montbard",
+  "feastDay": "04-04",
+  "bio": "Alèthe de Montbard, also called Aleth, Alette, Alix, or Alice, was born around 1070 into the noble family of the lords of Montbard in Burgundy. She married Tescelin le Roux, lord of Fontaines, and raised seven children, the most famous of whom was Bernard, the great Cistercian abbot and Doctor of the Church. Alèthe formed her children in piety through her example and prayers, teaching them to love the poor and seek God above all. Widowed while her sons were still young, she devoted her remaining years to prayer, almsgiving, and her household. She died around 1107, and her son Bernard credited her holy example for planting the seed of his vocation. Her feast is kept on April 4. She is remembered as a mother whose quiet sanctity shaped one of the greatest figures of the medieval Church.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "widowers",
+      "category": "family"
+    },
+    {
+      "need": "parents",
+      "category": "family"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the holy example and prayers of St. Alèthe de Montbard planted the seed of vocation in her son Bernard, grant through her intercession that parents may form their children in the love of Christ and in the way of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Al%C3%A8the_de_Montbard"
+  ],
+  "featured": false,
+  "draft": false
+}

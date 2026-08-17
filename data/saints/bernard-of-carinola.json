@@ -1,0 +1,25 @@
+{
+  "slug": "bernard-of-carinola",
+  "name": "St. Bernard of Carinola",
+  "feastDay": "03-12",
+  "bio": "Bernard of Carinola, also known as Bernard of Capua, served as confessor to Duke Richard II of Capua in eleventh-century southern Italy. His wisdom and holiness so impressed Pope Victor III that he was appointed Bishop of Forum Claudii in 1087, and later transferred to the see of Carinola in 1100. As bishop he shepherded his flock with pastoral care and prayer, dying in extreme old age in 1109. Venerated as the principal patron of Carinola in Campania, his long life of service bridges the worlds of court and cloister, confessor and pastor. He is remembered as a gentle, persevering shepherd of an Italian hill-town diocese.",
+  "patronages": [
+    {
+      "need": "italy",
+      "category": "everyday"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Bernard of Carinola long years of faithful service as confessor and bishop, grant through his intercession that we may serve you with steadfast love to the end of our days. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bernard_of_Carinola"
+  ],
+  "featured": false,
+  "draft": false
+}

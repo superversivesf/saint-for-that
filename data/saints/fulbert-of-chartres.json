@@ -1,0 +1,29 @@
+{
+  "slug": "fulbert-of-chartres",
+  "name": "St. Fulbert of Chartres",
+  "feastDay": "04-10",
+  "bio": "Saint Fulbert of Chartres was Bishop of Chartres from 1006 until his death in 1028 and one of the most celebrated teachers of his age. He likely studied under Gerbert of Aurillac, the future Pope Sylvester II, and he made the cathedral school of Chartres a center of learning and piety. He promoted the feast of the Nativity of the Blessed Virgin on September 8 and oversaw one of the reconstructions of Chartres Cathedral after fire gutted the earlier church. His surviving letters reveal a pastor both learned and tender, guiding clergy and laity alike. Honored on April 10, he is remembered as a wise bishop and a father of scholars.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Fulbert a wise bishop and a father of scholars at Chartres, grant through his intercession that teachers and students may seek both truth and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fulbert_of_Chartres"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "osmund",
+  "name": "St. Osmund",
+  "feastDay": "07-16",
+  "bio": "Osmund, Count of Sées, was a Norman noble and clergyman who played a significant role in the Church of England following the Norman Conquest. He served as Lord Chancellor under King William the Conqueror and was appointed the second bishop of Salisbury, or Old Sarum, where he oversaw the completion of the cathedral and the establishment of its renowned liturgical use.\n\nAs bishop, Osmund was known for his piety, his care for the clergy, and his promotion of learning. He compiled the Sarum Use, a variant of the Roman Rite that became one of the most influential liturgical forms in medieval England and shaped the worship of the English Church for centuries. His work as chancellor and bishop alike was marked by a desire to order the Church's life with dignity and devotion.\n\nOsmund died in 1099 and was honored as a saint, his cult confirmed in 1457 by Pope Callistus III. He is venerated as a patron of those who serve the Church through administration, liturgy, and the quiet ordering of divine worship.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your bishop Osmund to order the worship of your Church and to serve your people with quiet devotion, grant through his intercession that we may offer you fitting praise and live in harmony with your holy will. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Osmund"
+  ],
+  "featured": false,
+  "draft": false
+}

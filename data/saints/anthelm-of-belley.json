@@ -1,0 +1,29 @@
+{
+  "slug": "anthelm-of-belley",
+  "name": "St. Anthelm of Belley",
+  "feastDay": "06-26",
+  "bio": "Anthelm of Belley, born in 1107 into a noble family of the Château district of Faucigny in Savoy, was destined from youth for an ecclesiastical career. As a young priest he held a lucrative provostship and lived comfortably until a conversation with his uncle, a Carthusian prior, stirred him to seek a life of penance. He entered the Grande Chartreuse, motherhouse of the Carthusian Order, and so distinguished himself by wisdom and discipline that within a few years he was elected prior of the whole Order. He restored the spiritual fervor of the houses and governed with firmness and charity. Later called to become Bishop of Belley, he devoted himself to reforming clergy and flock. He died June 26, 1178. He is remembered as a monk-bishop who brought cloister discipline to Church governance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anthelm from the ease of the world to the discipline of the hermitage and then to the pastoral care of a diocese, grant through his intercession that those who govern Your Church may serve with humility and zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthelm_of_Belley"
+  ],
+  "featured": false,
+  "draft": false
+}

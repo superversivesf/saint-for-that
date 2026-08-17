@@ -1,0 +1,25 @@
+{
+  "slug": "aventinus-of-tours",
+  "name": "St. Aventinus of Tours",
+  "feastDay": "05-05",
+  "bio": "Aventinus of Tours was a twelfth-century French hermit and a devoted friend of St. Thomas Becket. He lived a life of solitude and prayer in Tours, France, embracing the austerity of the hermit's vocation. His holiness drew the attention of Thomas Becket, then Archbishop of Canterbury, who ordained Aventinus a deacon. The two shared a bond of spiritual friendship and fidelity to the Church. In 1163 Aventinus accompanied Becket to the Synod of Tours, standing beside him during the troubled days of Becket's conflict with the crown. Aventinus is remembered as a quiet witness to friendship, obedience, and the hermit's path of contemplation in a time of upheaval.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Aventinus to seek You in solitude and to serve Your Church as a faithful deacon, grant through his intercession that we may be true friends to those who suffer for the truth and find You in quiet prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aventinus_of_Tours"
+  ],
+  "featured": false,
+  "draft": false
+}

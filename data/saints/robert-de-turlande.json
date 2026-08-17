@@ -1,0 +1,29 @@
+{
+  "slug": "robert-de-turlande",
+  "name": "St. Robert de Turlande",
+  "feastDay": "04-17",
+  "bio": "Robert de Turlande was born in the early eleventh century in the Auvergne of France, of noble stock and kin to St. Gerald of Aurillac. Ordained a priest, he entered the Order of Saint Benedict and devoted himself to prayer, poverty, and the service of those the world overlooks. Distressed by the hardship of the rural poor, he resolved to found a house where they would find shelter and the Gospel's consolation.\n\nOn a remote plateau of Haute-Loire he founded La Chaise-Dieu, the House of God, which grew into a great abbey renowned for learning and charity. Robert served as its abbot and gathered brothers devoted to liturgy and works of mercy. He died in 1067, having given away even his last garment, and is venerated as a patron of abbots and hermits and a friend of the poor.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who filled St. Robert with love for the poor and led him to found a house of mercy on a lonely mountain, grant through his intercession that we may serve Christ in the least of His brethren. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Robert_de_Turlande"
+  ],
+  "featured": false,
+  "draft": false
+}

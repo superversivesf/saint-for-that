@@ -1,0 +1,33 @@
+{
+  "slug": "ingegerd-olofsdotter",
+  "name": "St. Ingegerd Olofsdotter",
+  "feastDay": "unknown",
+  "bio": "Ingegerd Olofsdotter, also called Irene or Anna, was a Swedish princess, the daughter of King Olof Skötkonung of Sweden and Estrid of the Obotrites. In 1019 she married Yaroslav the Wise, Grand Prince of Kiev, and as grand princess she helped bind together the young Christian kingdoms of the North and the East.\n\nIn Kiev she founded monasteries and churches and was remembered for her piety and her care for the Christian mission among the Slavic peoples. She bore Yaroslav several children who married into the royal houses of Europe, making her a mother of kings and queens. Venerated as a saint in the Eastern Orthodox Church, she is honored as a noble patroness and intercessor for the lands she helped to shape.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "ukraine",
+      "category": "spiritual"
+    },
+    {
+      "need": "russia",
+      "category": "spiritual"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ingegerd from a Swedish throne to be a mother of nations and a patroness of the Church in Kiev, grant through her intercession that rulers may use their authority to build up Your people and that families may be bound together in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ingegerd_Olofsdotter"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "poppo-of-stavelot",
+  "name": "St. Poppo of Stavelot",
+  "feastDay": "01-25",
+  "bio": "Saint Poppo was a knight of noble descent in the Low Countries who, after experiencing a profound spiritual conversion, turned from the life of arms to embrace the monastic way. He renounced the world and entered the Benedictine abbey of Stavelot, where his humility and discipline soon marked him out for positions of responsibility.\n\nPoppo became one of the best known abbots of Stavelot, governing the house with wisdom and promoting reform among the monasteries entrusted to his care. His zeal for the Holy Land led him to become one of the first recorded Flemish pilgrims to journey to Jerusalem, and his pilgrimage was remembered as an act of devotion that gave flesh to the faith he professed in choir.\n\nHe died in 1048 and was liturgically commemorated on January 25. Venerated as a patron of knights turned monks and of pilgrims who journey in faith, Poppo stands as a witness to the possibility of conversion even in the later hour of life.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Poppo from the bearing of arms to the service of your house and led him as a pilgrim to the holy places of your Son's passion, grant through his intercession that we may turn from every worldly attachment and journey with steadfast faith toward our heavenly home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Poppo_of_Stavelot"
+  ],
+  "featured": false,
+  "draft": false
+}

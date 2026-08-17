@@ -1,0 +1,25 @@
+{
+  "slug": "da-a",
+  "name": "St. Daïa",
+  "feastDay": "unknown",
+  "bio": "Daïa is a Berber saint venerated by the Mozabite community of the M'zab region in Algeria. According to local tradition, she lived as a recluse in a cave near Wadi Mzab, dedicating herself to prayer and ascetic life in the desert.\n\nHer example of solitary devotion became foundational to the spiritual identity of the region. In later centuries, Kharijite Muslims fleeing persecution from the Fatimids settled in the valley and built the town of Ghardaïa, drawn in part by the sacred heritage of her dwelling place.\n\nThough few written records survive, her memory endures in the oral traditions and devotional life of the M'zab communities. She is honored as a model of contemplative solitude and fidelity to God in a remote land.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Daïa to a life of prayerful solitude in the desert, grant through her intercession that we may learn to seek You in stillness and to find You in the silence of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Da%C3%AFa"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gerald-of-sauve-majeure",
+  "name": "St. Gerald of Sauve-Majeure",
+  "feastDay": "04-05",
+  "bio": "Saint Gerald of Sauve-Majeure, also known as Gerald of Corbie, was a Benedictine monk and abbot in medieval France. He entered religious life at the Abbey of Sauve-Majeure, near Bordeaux, where his piety and learning led to his election as abbot. He governed his community with wisdom, fostering the observance of the Rule of Saint Benedict and the spiritual formation of his monks. Little detail of his life survives beyond the tradition that he was a devoted shepherd of his monastery, given to prayer and the care of souls. His feast is kept on April 5, and he is honored among the abbots of the Benedictine tradition as a man of quiet fidelity and monastic discipline.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Gerald of Sauve-Majeure to govern his monks with wisdom and fidelity, grant through his intercession that all who bear authority in your Church may serve with humility and that all who seek you in the cloister may persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerald_of_Sauve-Majeure"
+  ],
+  "featured": false,
+  "draft": false
+}

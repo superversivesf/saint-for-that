@@ -1,0 +1,21 @@
+{
+  "slug": "berardo",
+  "name": "St. Berardo",
+  "feastDay": "12-19",
+  "bio": "Berardo is honored as the patron saint of the ancient city and diocese of Teramo in the Abruzzo region of Italy. Little certain detail survives of his life beyond the enduring devotion of the people of Teramo, who from early centuries have invoked him as their heavenly protector and intercessor. His cult has shaped the liturgical and civic identity of the city, where his memory is celebrated at the cathedral dedicated in his honor. He stands as one of the many early Italian pastor-saints whose names became inseparable from the places they served, a quiet witness to the deep roots of the faith in the Italian countryside.",
+  "patronages": [
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Berardo the heavenly patron of Teramo and the companion of its people, grant through his intercession that we may be steadfast in faith and devoted to the communities entrusted to our care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Berardo"
+  ],
+  "featured": false,
+  "draft": false
+}

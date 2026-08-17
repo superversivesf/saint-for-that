@@ -1,0 +1,33 @@
+{
+  "slug": "gottschalk-obotrite-prince",
+  "name": "St. Gottschalk",
+  "feastDay": "06-07",
+  "bio": "Saint Gottschalk, also rendered Godescalc, was a prince of the Obotrite confederacy of the Polabian Slavs who ruled along the Elbe in the mid-eleventh century. Born into a pagan royal family, he was converted to Christianity and made it the work of his life to gather the scattered Slavic tribes into one Christian kingdom. He founded churches and monasteries, promoted the Slavic tongue and the labor of translation, and strove to lead his people to the faith. His efforts were cut short in 1066, when a pagan uprising swept the region and he was killed. Because of his zeal for the tongues of his people he is invoked by linguists and translators, and as a Slavic prince he is honored among the nobility. His feast is kept on June 7.",
+  "patronages": [
+    {
+      "need": "linguists",
+      "category": "jobs"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gottschalk zeal to gather his people into the fold of Christ, grant through his intercession that translators and linguists may serve the unity of nations, and that all peoples may hear your Word in their own tongue. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gottschalk_(Obotrite_prince)"
+  ],
+  "featured": false,
+  "draft": false
+}

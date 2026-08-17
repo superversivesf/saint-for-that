@@ -1,0 +1,25 @@
+{
+  "slug": "sigfrid-of-sweden",
+  "name": "St. Sigfrid of Sweden",
+  "feastDay": "02-15",
+  "bio": "Saint Sigfrid of Sweden was a missionary-bishop in Scandinavia during the first half of the eleventh century. Originally from England, he is credited in late medieval king-lists and hagiography with performing the baptism of Olof Skötkonung, the first steadfastly Christian monarch of Sweden. He most likely arrived in Sweden soon after the year 1000 and conducted extensive missions throughout Götaland and Svealand, planting the seeds of the Christian faith in a land still largely pagan. For some years after 1014, following his return to England, Sigfrid was based in Trondheim, Norway, until his position became untenable after the defeat of Olaf Haraldsson. Through his journeys and tireless preaching he helped lay the foundations of the Church in the North. His feast is February 15.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the holy Sigfrid to preach the Gospel to the peoples of the North and to baptize their king, grant through his intercession that the nations may ever remain faithful to the truth he proclaimed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sigfrid_of_Sweden"
+  ],
+  "featured": false,
+  "draft": false
+}

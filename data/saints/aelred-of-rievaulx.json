@@ -1,0 +1,33 @@
+{
+  "slug": "aelred-of-rievaulx",
+  "name": "St. Aelred of Rievaulx",
+  "feastDay": "01-12",
+  "bio": "Aelred of Rievaulx, also known as Ailred, Ælred, or Æthelred, was born in Hexham in the north of England around 1110, the son of a priest of St. Cuthbert's community. He spent his early years at the court of King David of Scotland, where he was esteemed for his learning and counsel, but in 1134 he left the court to enter the Cistercian monastery of Rievaulx in Yorkshire, then newly founded from Clairvaux. He rose to become abbot of Rievaulx in 1147 and governed that large community until his death. He was a writer of remarkable depth and tenderness, the author of works on spiritual friendship, on the soul, and on the Rule of St. Benedict, and under his rule Rievaulx grew to a community of several hundred monks.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aelred to discern the love of Christ in the bond of spiritual friendship, grant through his intercession that we may love one another with a pure heart and find in our friends a path to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+  ],
+  "featured": false,
+  "draft": false
+}

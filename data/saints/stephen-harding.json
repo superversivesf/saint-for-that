@@ -1,0 +1,33 @@
+{
+  "slug": "stephen-harding",
+  "name": "St. Stephen Harding",
+  "feastDay": "01-26",
+  "bio": "Stephen Harding was born in England in the mid-eleventh century and entered monastic life at Sherborne Abbey before departing for the continent in search of stricter observance. After a pilgrimage to Rome and a period at Molesme, he joined St. Robert and St. Alberic in founding a new monastery at Cîteaux in 1098, a place of solitary woods dedicated to renewed fidelity to the Rule of St. Benedict.\n\nAs third abbot of Cîteaux, Stephen governed with wisdom, writing the Carta Caritatis, the charter binding the Cistercian houses in mutual love rather than legal coercion. He welcomed the young Bernard of Clairvaux and his companions in 1113, ensuring the Order's remarkable expansion.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Stephen Harding to renew the monastic life at Cîteaux and bind Your servants in bonds of charity, grant through his intercession that we may seek reform with gentle hearts and pursue holiness in faithful community. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_Harding"
+  ],
+  "featured": false,
+  "draft": false
+}

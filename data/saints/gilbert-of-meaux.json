@@ -1,0 +1,21 @@
+{
+  "slug": "gilbert-of-meaux",
+  "name": "St. Gilbert of Meaux",
+  "feastDay": "02-13",
+  "bio": "Saint Gilbert of Meaux, later known as Saint Gilbert, was originally from Vermandois in northern France. He began his ecclesiastical career as the first canon of the church of Saint-Quentin, where his learning and devotion commended him to his brethren. He was subsequently raised to the see of Meaux, which he governed as bishop with pastoral zeal. Little detail of his episcopate has survived, but he is remembered as a faithful shepherd who tended his diocese in the unsettled centuries of the early Middle Ages. His feast is kept on February 13, and he is honored among the bishops of France for his quiet devotion to the Church and the care of souls.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gilbert of Meaux a faithful shepherd of your people, grant through his intercession that all bishops may govern with the same devotion, and that the Church may never lack pastors after your own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gilbert_of_Meaux"
+  ],
+  "featured": false,
+  "draft": false
+}

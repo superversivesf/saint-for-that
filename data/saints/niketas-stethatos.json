@@ -1,0 +1,29 @@
+{
+  "slug": "niketas-stethatos",
+  "name": "St. Niketas Stethatos",
+  "feastDay": "unknown",
+  "bio": "Niketas Stethatos was an eleventh-century Byzantine mystic, theologian, and monastic writer venerated as a saint by the Eastern Orthodox Church. He entered the monastery of the Studios in Constantinople and became a devoted disciple of St. Symeon the New Theologian, one of the greatest mystical writers of the Christian East. After Symeon's death, Niketas composed the Life of Symeon, the most complete portrait of the saint that survives, and edited and preserved Symeon's spiritual writings, ensuring their transmission to later generations. He wrote on mystical theology and contemplative prayer, and engaged in polemics against Latin practices before the East-West schism. He died in the first half of the eleventh century, remembered as a faithful disciple who made his master's wisdom known.",
+  "patronages": [
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Niketas Stethatos the grace to receive and preserve the mystical teaching of Your servant Symeon, grant through his intercession that we may contemplate Your divine light and hand on the wisdom of the saints to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Niketas_Stethatos"
+  ],
+  "featured": false,
+  "draft": false
+}

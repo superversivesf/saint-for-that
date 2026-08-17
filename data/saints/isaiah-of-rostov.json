@@ -1,0 +1,29 @@
+{
+  "slug": "isaiah-of-rostov",
+  "name": "St. Isaiah of Rostov",
+  "feastDay": "05-15",
+  "bio": "Isaiah of Rostov was a Russian Christian missionary and bishop who labored in the eleventh century to plant the faith among the peoples of the north. Consecrated bishop of Rostov, he followed in the line of earlier evangelists who had carried the Gospel from Kiev into the forests and rivers of the Rus.\n\nHe is remembered for his tireless preaching and for the consolidation of Christian life in a region still marked by pagan custom. His feast is kept on 15 May in the Russian Orthodox Church, where he is honored as a pastor who gave himself wholly to the flock entrusted to him.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "russia",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Isaiah of Rostov to preach the Gospel in the northern lands and to gather a people for Your name, grant through his intercession that missionaries may persevere in hardship and that the Church may ever find new laborers for the harvest. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isaiah_of_Rostov"
+  ],
+  "featured": false,
+  "draft": false
+}

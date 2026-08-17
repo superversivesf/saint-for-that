@@ -1,0 +1,33 @@
+{
+  "slug": "paraskeva-of-the-balkans",
+  "name": "St. Paraskeva of the Balkans",
+  "feastDay": "10-14",
+  "bio": "Paraskeva of the Balkans, also called Petka, was an ascetic female saint of the eleventh century. Born in Epivates, near Constantinople, she was drawn to the life of prayer from her youth and was granted visions of the Virgin Mary, who comforted and guided her in the way of holiness.\n\nAfter living as an ascetic in Chalcedon and Heraclea Pontica, Paraskeva settled in a convent in the desert near the Jordan River, devoting herself entirely to prayer and penance. An angel of the Lord appeared and told her to return to her homeland, and two years later she died at the age of twenty-seven, having fulfilled the divine command.\n\nHer veneration spread from Bulgaria into the Danubian Principalities of Wallachia and Moldavia from the fourteenth century onward. Because her Greek name Paraskeuḗ means \"Friday,\" she was often identified in Slavic and Romanian tradition with \"Saint Friday\" and invoked as a patroness of women's work, particularly of needleworkers, spinners, weavers, and embroiderers. Her feast is kept on October 14 in the Eastern Orthodox Church.",
+  "patronages": [
+    {
+      "need": "weavers",
+      "category": "jobs"
+    },
+    {
+      "need": "tailors",
+      "category": "jobs"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Paraskeva to a life of prayerful asceticism and tender devotion to your holy Mother, grant through her intercession that those who labor with their hands and those who seek you in silence may find their work and their prayer united in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paraskeva_of_the_Balkans"
+  ],
+  "featured": false,
+  "draft": false
+}

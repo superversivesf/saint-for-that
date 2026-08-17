@@ -1,0 +1,29 @@
+{
+  "slug": "benno-of-meissen",
+  "name": "St. Benno of Meissen",
+  "feastDay": "06-16",
+  "bio": "Benno was named Bishop of Meissen in 1066, during a turbulent era for the Church in Saxony. He labored for his diocese with the zeal of the Hildebrandine reformers, strengthening ecclesiastical discipline while also advancing the material well-being of his people. Amid political conflict between emperor and pope, he remained loyal to the reforming papacy and at one point was driven from his see, bearing exile with patience. Venerated in his native Saxony throughout the Late Middle Ages, he was canonized in 1523, his cult confirmed across the region. He is remembered as a model pastor and reformer, honored by fishermen and weavers alike, and invoked as a protector of the cities and trades of central Germany.",
+  "patronages": [
+    {
+      "need": "fishermen",
+      "category": "everyday"
+    },
+    {
+      "need": "bakers",
+      "category": "jobs"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Benno as a faithful shepherd of your Church in Meissen, grant through his intercession that we may labor with equal zeal for the reform of your Church and the good of our neighbors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benno_of_Meissen"
+  ],
+  "featured": false,
+  "draft": false
+}

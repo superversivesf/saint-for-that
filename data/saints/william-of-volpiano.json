@@ -1,0 +1,29 @@
+{
+  "slug": "william-of-volpiano",
+  "name": "St. William of Volpiano",
+  "feastDay": "01-01",
+  "bio": "William of Volpiano was born in 962 in the foothills of the Alps of northern Italy, the son of a noble family. A fall as an infant left him with a damaged arm, yet he grew to be a man of great energy and devotion. He entered the monastery of Locedia and then passed to Cluny, where the fervent Cluniac reform shaped his soul. He became a trusted disciple of St. Mayeul and was charged with carrying the reform into new lands.\n\nAs abbot he founded or restored numerous monasteries across Burgundy, Italy, and Normandy, including the great abbey of F\u00e9camp. He was also a composer and a careful teacher of the liturgy, shaping the chant and worship of his houses. He died on January 1, 1031, and is venerated as a patron of monks and of those who labor for the renewal of the Church's worship.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "jobs"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. William a father of monks and a master of Your Church's song, grant through his intercession that our worship may be pleasing to You and our communities steadfast in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/William_of_Volpiano"
+  ],
+  "featured": false,
+  "draft": false
+}

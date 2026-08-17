@@ -1,0 +1,25 @@
+{
+  "slug": "botvid",
+  "name": "St. Botvid",
+  "feastDay": "07-28",
+  "bio": "Saint Botvid was a Christian missionary in Sweden during the eleventh century, one of the early heralds of the faith in the Nordic lands. He labored to plant the Gospel among the people of the Malar Valley, preaching Christ in a region still marked by the older Norse religion. His witness was sealed by martyrdom, and he was venerated as one of the saints who brought the light of faith to Sweden. He is remembered as a missionary and martyr of the Scandinavian north, his cult enduring among the early saints of the Swedish Church. He represents that generation of evangelists who crossed forests and waters to make Christ known.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Botvid as a missionary and martyr of Sweden, grant through his intercession that the Gospel may take root in every land and that we may bear witness to your Son with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Botvid"
+  ],
+  "featured": false,
+  "draft": false
+}

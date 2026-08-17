@@ -1,0 +1,29 @@
+{
+  "slug": "sebaldus",
+  "name": "St. Sebaldus",
+  "feastDay": "08-19",
+  "bio": "Sebaldus was an Anglo-Saxon missionary who journeyed to Germany in the ninth or tenth century to preach the Gospel among the pagan peoples of Franconia. Leaving behind his homeland, he settled as a hermit in the Reichswald, the great forest near Nuremberg, where he lived a life of prayer, penance, and solitary devotion. From his hermitage he labored to bring the Christian faith to the surrounding region, and his holiness drew disciples to him. In time the city of Nuremberg embraced him as its patron saint, and the church of St. Sebaldus at its heart bears his name to this day. He is invoked against cold and cold weather, a fitting patronage for one who spent his years in the damp chill of the northern forests. His feast is kept on August 19.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "everyday"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the holy Sebaldus as a hermit and missionary to the forests of Germany, grant through his intercession that we may endure the cold trials of life with steadfast faith and bring the warmth of Your Gospel to those who dwell in darkness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sebaldus"
+  ],
+  "featured": false,
+  "draft": false
+}

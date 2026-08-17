@@ -1,0 +1,29 @@
+{
+  "slug": "stanislaus-of-szczepan-w",
+  "name": "St. Stanislaus of Szczepanów",
+  "feastDay": "04-11",
+  "bio": "Stanislaus of Szczepanów was a Polish Catholic prelate who served as Bishop of Kraków in the eleventh century and was martyred for his defense of the faith and the moral order. Born at Szczepanów around 1030, he was educated in the cathedral schools of Kraków and later pursued theological studies at Paris, returning to Poland to be ordained and eventually consecrated bishop in 1072. As bishop he rebuked the cruelty and tyranny of King Bolesław II the Bold, excommunicating the king and releasing his subjects from their oath. In 1079, while celebrating Mass, Stanislaus was slain by the king himself, who struck him down at the altar. His martyrdom shook the kingdom and helped bring about the king's downfall. Canonized in 1253, he is the principal patron of Poland. His feast is April 11.",
+  "patronages": [
+    {
+      "need": "poland",
+      "category": "everyday"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the blessed bishop Stanislaus with martyrdom for defending the moral order and the rights of Your Church, grant through his intercession that we may never falter in the defense of truth and justice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "reginbald-ii-bishop-of-speyer",
+  "name": "St. Reginbald II",
+  "feastDay": "unknown",
+  "bio": "Reginbald, also rendered Regimbald, was a Benedictine abbot and bishop of Speyer in the eleventh century. He first served as abbot of Lorsch Abbey, one of the great monastic foundations of the Frankish realm, where he governed the brothers with diligence and promoted the monastic discipline that was being renewed in his day.\n\nBefore his election to Lorsch, Reginbald had been a monk at the abbey of Saints Ulrich and Afra in Augsburg and at Ebersberg Abbey, houses associated with the reforming currents of the imperial Church. In 1032 he was appointed bishop of Speyer, a see closely tied to the Salian emperors and their cathedral, and there he served until his death.\n\nThough the chronicle of his deeds is brief, Reginbald is honored as one of that line of Benedictine bishops who brought the spirit of the cloister into the governance of the Church, and his memory has been preserved among the saints of the diocese of Speyer.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Reginbald from the government of monks to the care of the diocese of Speyer, grant through his intercession that those who lead your Church may be guided by the wisdom and discipline of the cloister. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reginbald_II_(bishop_of_Speyer)"
+  ],
+  "featured": false,
+  "draft": false
+}

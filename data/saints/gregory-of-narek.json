@@ -1,0 +1,37 @@
+{
+  "slug": "gregory-of-narek",
+  "name": "St. Gregory of Narek",
+  "feastDay": "unknown",
+  "bio": "Saint Gregory of Narek, born Grigor Narekatsi around 950, was an Armenian mystical and lyrical poet, monk, and theologian who lived in the monastery of Narek on the shores of Lake Van. He devoted himself to contemplation and the writing of verse, prayer, and mystical theology, and is revered as one of the greatest figures of Armenian letters. His masterpiece, the Book of Lamentations, known in Armenian as Matean Oghbergut'yan, is a long prayer of repentance and longing for God that has been read and cherished for a thousand years. Venerated from antiquity as a saint in the Armenian Apostolic and Catholic Churches, he was declared a Doctor of the Church by Pope Francis in 2015. He is honored as a patron of poets, mystics, and theologians.",
+  "patronages": [
+    {
+      "need": "poets",
+      "category": "everyday"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gregory of Narek the tongue of a poet and the heart of a contemplative, grant through his intercession that all who seek you may find you in the depths of prayer, and that the Church may ever sing your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+  ],
+  "featured": false,
+  "draft": false
+}
