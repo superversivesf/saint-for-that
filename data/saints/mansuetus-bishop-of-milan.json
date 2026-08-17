@@ -1,0 +1,21 @@
+{
+  "slug": "mansuetus-bishop-of-milan",
+  "name": "St. Mansuetus",
+  "feastDay": "02-19",
+  "bio": "Saint Mansuetus served as Archbishop of Milan from 676 to 685, shepherding the Church in that great see during a turbulent age of Lombard rule and doctrinal controversy. Though the records of his life are sparse, his name is honored in the ambrosian tradition as a faithful successor to St. Ambrose and a guardian of the faith in northern Italy. He governed his flock with gentleness—his very name, Mansuetus, means mild or meek—and labored to preserve the unity of the Church amid the pressures of his time. He is remembered as one of the holy bishops of Milan who kept the lamp of faith burning through the early medieval centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Mansuetus a gentle shepherd of Your Church in Milan, grant through his intercession that those who govern Your people may do so with meekness and wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mansuetus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

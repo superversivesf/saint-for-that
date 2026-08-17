@@ -1,0 +1,29 @@
+{
+  "slug": "james-the-deacon",
+  "name": "St. James the Deacon",
+  "feastDay": "08-17",
+  "bio": "Saint James the Deacon was a Roman deacon who accompanied Paulinus of York on the Gregorian mission sent by Pope Gregory the Great to Christianize the Anglo-Saxons. The exact year of his arrival in England is unknown, but he labored faithfully alongside Paulinus in the great work of preaching the Gospel in Northumbria.\n\nWhen Paulinus departed Northumbria after the death of King Edwin, James remained behind, settling near Lincoln and continuing his missionary efforts among the people. According to the medieval chronicler Bede, he carried on this work with patient devotion, dying sometime after the year 671.\n\nJames is remembered as a faithful witness to the first planting of the Christian faith in the north of England, a deacon who stayed at his post when others withdrew, and whose quiet labors bore fruit in generations yet to come.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your deacon James to sow the seed of the Gospel in the land of the English and to stay at his post when others withdrew, grant through his intercession that all who serve at your altar may be faithful in season and out of season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/James_the_Deacon"
+  ],
+  "featured": false,
+  "draft": false
+}

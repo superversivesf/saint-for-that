@@ -1,0 +1,21 @@
+{
+  "slug": "titian-of-oderzo",
+  "name": "St. Titian of Oderzo",
+  "feastDay": "01-16",
+  "bio": "Saint Titian of Oderzo was a seventh-century bishop of Opitergium, the ancient name for Oderzo in the Province of Treviso, in northeastern Italy. Entrusted with the care of a diocese in turbulent times, he governed his flock with the gentleness of a true pastor and the firmness of an apostolic successor. Tradition associates him with the city of Ceneda as well as Oderzo, and the faithful of both places have treasured his memory across the centuries. Though the historical record is sparse, his veneration endured through the migrations and upheavals that reshaped the Veneto, a testimony to the deep roots a holy bishop can put down in the soil of a people's devotion. He remains a patron and intercessor for the churches he once served.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Titian a faithful shepherd of Oderzo and Ceneda, grant through his intercession that pastors may guide their people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Titian_of_Oderzo"
+  ],
+  "featured": false,
+  "draft": false
+}

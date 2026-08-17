@@ -1,0 +1,25 @@
+{
+  "slug": "vitalis-of-gaza",
+  "name": "St. Vitalis of Gaza",
+  "feastDay": "unknown",
+  "bio": "Saint Vitalis of Gaza was a hermit venerated in both the Eastern Orthodox and Catholic Churches. According to his hagiography, he spent his early monastic years in the desert, but late in life he moved to Alexandria, where he undertook an extraordinary ministry of compassion. Learning the names and addresses of the city's prostitutes, he would labor as a day-worker, earn a small wage, and bring it to the women so that they might be freed from the necessity of selling themselves. His charity was at first misunderstood; when he was seen entering brothels he was accused of vice, but a miraculous vision vindicated his purity. He is remembered as the patron saint of prostitutes and day-laborers, a man who sought out the most despised of society and offered them the hand of Christ.",
+  "patronages": [
+    {
+      "need": "prostitutes",
+      "category": "everyday"
+    },
+    {
+      "need": "day-laborers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Vitalis of Gaza to seek out the lost and the despised and bring them your mercy, grant through his intercession that all who are trapped in exploitation may find freedom and dignity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vitalis_of_Gaza"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "kevin-of-glendalough",
+  "name": "St. Kevin of Glendalough",
+  "feastDay": "06-03",
+  "bio": "Kevin, born of royal Irish blood in the sixth century, forsook the world to seek God in the wild valley of Glendalough in County Wicklow. He lived as a hermit in a narrow cave above the lake, praying through long nights, clothed in skins, nourished by little. Disciples gathered around the holy man, and he became founder and first abbot of the monastery of Glendalough, which grew into a great center of learning and piety. Legends tell of his gentleness with beasts: a blackbird once nested in his outstretched hand, and he remained motionless until the eggs hatched. He died in 618, remembered as one of Ireland's most beloved monastic saints.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "ecology",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Kevin to seek you in the solitude of Glendalough, grant through his intercession that we may learn stillness of heart and gentleness toward all your creatures. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kevin_of_Glendalough"
+  ],
+  "featured": false,
+  "draft": false
+}

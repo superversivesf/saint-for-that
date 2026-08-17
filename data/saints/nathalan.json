@@ -1,0 +1,25 @@
+{
+  "slug": "nathalan",
+  "name": "St. Nathalan",
+  "feastDay": "unknown",
+  "bio": "Saint Nathalan, also called Nachlan, was a Christian priest and later bishop who labored in the district now known as Aberdeenshire in Scotland. Honored in both the Catholic and Eastern Orthodox Churches, he served a people still emerging from older beliefs and worked to plant the Gospel firmly in the northeast of Scotland. Little detail of his life survives beyond the memory of his pastoral zeal and his episcopal care for the scattered faithful of the region. His cult endured in the parishes and dedications of Aberdeenshire, where generations recalled him as a shepherd of souls and a builder of the Church in a rugged land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "farmers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Nathalan to shepherd your people in Aberdeenshire, grant through his intercession that pastors after his heart may serve the faithful with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nathalan"
+  ],
+  "featured": false,
+  "draft": false
+}

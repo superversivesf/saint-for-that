@@ -1,0 +1,25 @@
+{
+  "slug": "pope-isaac-of-alexandria",
+  "name": "St. Isaac of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Saint Isaac of Alexandria served as the forty-first Pope of Alexandria and Patriarch of the See of Saint Mark, one of the most ancient and honored patriarchates of the Christian East. Founded, according to tradition, by the Evangelist Mark himself, the See of Alexandria stood as a pillar of apostolic faith and theological learning, and those who occupied its throne inherited the heavy responsibility of shepherding the Church of Egypt through times of great difficulty.\n\nLittle certain detail has survived about the particular labors of Pope Isaac, but his place in the unbroken line of Alexandrian patriarchs witnesses to the continuity of apostolic succession in the Coptic tradition. He is remembered among the holy fathers who preserved the faith of the desert and the Nile, and whose prayers and intercession remain with the Church of Alexandria to this day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Isaac to stand in the apostolic succession of the See of Saint Mark, grant through his intercession that bishops may be faithful shepherds and that all your people may walk in the ancient paths of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Isaac_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

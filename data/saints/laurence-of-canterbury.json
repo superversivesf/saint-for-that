@@ -1,0 +1,33 @@
+{
+  "slug": "laurence-of-canterbury",
+  "name": "St. Laurence of Canterbury",
+  "feastDay": "02-03",
+  "bio": "Laurence was among the missionaries sent by Pope Gregory the Great from Rome to England to draw the Anglo-Saxons to Christ. Consecrated by Augustine of Canterbury himself to ensure continuity, Laurence became the second Archbishop of Canterbury around 604. He labored to reconcile the Roman missionaries with the native British bishops, corresponding with them on matters of dispute. When King Aethelberht died and his successor abandoned the Christian faith, Laurence prepared to flee, but a vision of Peter rebuked him; the next morning he showed the marks to the king, who was moved to conversion. Laurence shepherded the English church until his death around 619.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Laurence zeal for the conversion of the English and steadfastness in times of trial, grant through his intercession that the Church may persevere in faith and be restored when she wavers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laurence_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

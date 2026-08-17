@@ -1,0 +1,25 @@
+{
+  "slug": "pamphilus-of-sulmona",
+  "name": "St. Pamphilus of Sulmona",
+  "feastDay": "04-28",
+  "bio": "Pamphilus of Sulmona was bishop of Sulmona and Corfinio, in the Valva region of Italy, during the late seventh century. Revered as a saint by both the Catholic and the Eastern Orthodox Churches, he shepherded a diocese in the mountainous Abruzzo at a time when the Church in Italy was navigating the upheavals that followed the decline of the older imperial order. The towns of Sulmona, Spoltore, Scerni, and Ocre kept his memory alive across the centuries, honoring him as their heavenly patron and intercessor. His feast on the twenty-eighth of April recalls a bishop who served a quiet see with faithfulness and left a legacy of devotion that endured long after his passing.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Pamphilus to shepherd your people in the valleys of Abruzzo, grant through his intercession that pastors may serve their flocks with faithful love and that the towns that honor him may remain steadfast in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pamphilus_of_Sulmona"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "suitbert-the-younger",
+  "name": "St. Suitbert the Younger",
+  "feastDay": "04-30",
+  "bio": "Saint Suitbert the Younger, also known as Suidbert, Suitbertus, or Swithbert, was an abbot venerated in the Roman Catholic and Eastern Orthodox Churches. He lived in a monastery near the River Dacre in Cumberland, England, leading a community of monks in one of the remote Christian outposts of Anglo-Saxon Britain. He is mentioned by the Venerable Bede, whose testimony attests to his holiness and the regard in which he was held. His liturgical feast is kept on April 30. As an abbot in the wild north of England, he represents the monastic movement that carried the faith into the remoter regions of the island, anchoring the Church far from the great sees. He is honored as a model of monastic leadership and pastoral care in a demanding landscape.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Suitbert the Younger to guide a community of monks in the wilds of Cumberland, grant through his intercession that all who seek You in silence and prayer may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suitbert_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

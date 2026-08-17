@@ -1,0 +1,25 @@
+{
+  "slug": "oudoceus",
+  "name": "St. Oudoceus",
+  "feastDay": "07-02",
+  "bio": "Saint Oudoceus, known in Welsh as Euddogwy, is generally reckoned the third Bishop of Llandaff in South Wales, though scholars now place his episcopal activity more likely at Llandeilo Fawr in the seventh century. His reign, estimated between roughly 650 and 700, fell in that formative age when the Welsh churches were ordering themselves under bishops and abbots who carried forward the legacy of the Celtic missionaries. The traditions that come down through the medieval lives of the saints of Llandaff remember him as a pastor and a builder of the Church in a land of kings and monasteries, and his feast on the second of July honors one of the early bishops of the Welsh Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Oudoceus to shepherd your people in the valleys of Wales, grant through his intercession that the bishops of your Church may preserve unity and preach your truth with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oudoceus"
+  ],
+  "featured": false,
+  "draft": false
+}

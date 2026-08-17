@@ -1,0 +1,29 @@
+{
+  "slug": "modwenna",
+  "name": "St. Modwenna",
+  "feastDay": "unknown",
+  "bio": "Modwenna, also called Modwen, was a seventh-century English nun and saint who founded Burton Abbey in Staffordshire. According to tradition, she lived as a hermit on an island in the Trent and was sought out for her counsel and healing. Drawn by her holiness, disciples gathered around her, and with the patronage of the king she established a monastery on the banks of the Trent that would grow into one of the great abbeys of the Midlands. Legends of her power over nature and her care for the sick spread widely, and her cult endured at Burton long after the abbey itself became a house of Augustinian canons. She is remembered as a mother of monastic life in England and a model of solitary devotion turned to community.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Modwenna from solitude to gather a community of prayer, grant through her intercession that we may seek You in stillness and serve You in the company of the faithful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Modwenna"
+  ],
+  "featured": false,
+  "draft": false
+}

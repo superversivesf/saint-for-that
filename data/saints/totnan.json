@@ -1,0 +1,29 @@
+{
+  "slug": "totnan",
+  "name": "St. Totnan",
+  "feastDay": "unknown",
+  "bio": "Saint Totnan was an Irish Franconian apostle who left his homeland to carry the Gospel to the pagan lands of Franconia. Born in Ireland, he journeyed with Saints Kilian and Colman to the region of Würzburg, where they preached Christ crucified to a people who did not yet know his name. In the year 689 their witness was sealed with blood: Totnan and his companions were martyred at Würzburg, their lives offered as a sacrifice for the conversion of Germany. Their relics were later enshrined and venerated, and the Diocese of Würzburg grew from the seed of their fidelity. Totnan stands among the great Irish missionary-martyrs whose courage planted the faith deep in the heart of Europe.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Totnan with the palm of martyrdom as he labored to bring the Gospel to Franconia, grant through his intercession that we may bear witness to Christ with courage and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Totnan"
+  ],
+  "featured": false,
+  "draft": false
+}

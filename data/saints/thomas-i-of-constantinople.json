@@ -1,0 +1,25 @@
+{
+  "slug": "thomas-i-of-constantinople",
+  "name": "St. Thomas I of Constantinople",
+  "feastDay": "03-21",
+  "bio": "Thomas I served as Ecumenical Patriarch of Constantinople from 607 to 610, shepherding the Church through a brief but weighty patriarchate at the turn of the seventh century. Though few details of his life survive, he is honored among the saints of the Eastern Orthodox Church, his memory preserved by the fidelity of the faithful who kept his feast. His commemoration on 21 March by the Julian calendar—falling on 3 April in the Gregorian—places his remembrance in the radiant season of the Lenten spring, when the Church contemplates the mystery of death and resurrection. He stands as a quiet witness to the apostolic continuity of the See of Constantinople and to the communion of East and West.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Thomas I to shepherd the See of Constantinople in a season of trial, grant through his intercession that your bishops may govern with wisdom and that your Church may grow in unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

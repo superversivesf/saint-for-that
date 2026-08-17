@@ -1,0 +1,25 @@
+{
+  "slug": "modestus-of-jerusalem",
+  "name": "St. Modestus of Jerusalem",
+  "feastDay": "12-17",
+  "bio": "Saint Modestus of Jerusalem served as Patriarch of Jerusalem from 632 to 634, guiding the ancient see in a time of great upheaval. He assumed office in the wake of the Persian invasion that had carried off the True Cross and scattered the faithful, and much of his brief patriarchate was devoted to the restoration of the holy places and the rebuilding of the Church in the city of Christ's passion. Though his tenure was short, he stood as a faithful guardian of the see of Jerusalem at a moment when it stood nearly alone. He is remembered as a confessor of the faith and a steward of the holy sites venerable to all Christians.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. Modestus with the care of Your holy city in a time of desolation, grant through his intercession that we may be faithful stewards of the treasures entrusted to us, and rebuild what has been broken. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Modestus_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

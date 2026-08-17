@@ -1,0 +1,29 @@
+{
+  "slug": "mirax-of-egypt",
+  "name": "St. Mirax of Egypt",
+  "feastDay": "12-11",
+  "bio": "The martyr Mirax was raised by Christian parents in the city of Tanis, Egypt. In youth he renounced his faith to enter the service of an emir, to the great grief of his family. His parents, unwilling to surrender their son to unbelief, resorted to prayer with great devotion, pleading for his return to Christ. Touched by grace, Mirax came back to his family and, after much counsel, resolved to declare his return to the Christian faith openly. For this confession he was tortured, beheaded, and his body cast into the sea. The Church honors him as a martyr who, having fallen, rose again through the prayers of his family and sealed his renewed faith with his blood.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who heard the prayers of Mirax's parents and drew him back to the faith of his youth, grant through his intercession that those who have wandered from You may find their way home, and that we may never tire of praying for those we love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mirax_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nem-moccu-birn",
+  "name": "St. Nem Moccu Birn",
+  "feastDay": "06-14",
+  "bio": "Nem Moccu Birn was abbot of Aran, the holy island in Galway Bay that became one of the most celebrated monastic centers of early Christian Ireland. In the centuries after Patrick, the Irish Church was shaped by monks and abbots who governed their communities as fathers and teachers, and Aran stood among the foremost of these foundations, drawing ascetics and scholars to its windswept shores. Nem's feast on the fourteenth of June was kept among the faithful who honored the memory of the abbots who kept the faith alive through seasons of prayer and discipline. He is remembered as one of the line of holy abbots who made Aran a wellspring of sanctity for the Irish Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nem Moccu Birn to lead the monastic family of Aran in prayer and discipline, grant through his intercession that we may seek you with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nem_Moccu_Birn"
+  ],
+  "featured": false,
+  "draft": false
+}

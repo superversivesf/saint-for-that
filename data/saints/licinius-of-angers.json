@@ -1,0 +1,25 @@
+{
+  "slug": "licinius-of-angers",
+  "name": "St. Licinius of Angers",
+  "feastDay": "02-13",
+  "bio": "Licinius, born of Frankish nobility around the year 540, was raised in a Christian household and drawn to the service of the Church. Consecrated bishop of Angers, he governed his diocese with wisdom and care for nearly half a century. He was known for his generosity to the poor, his defense of the faith, and his efforts to foster monastic life in his region. He took part in the councils of the Frankish church and corresponded with the great bishops of his day. Licinius died around 610 and was buried in the church of Saint-Maurice at Angers. His feast is kept on February 13, and he is venerated as a faithful shepherd of the people of the Loire valley.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Licinius a faithful shepherd of the people of Angers, grant through his intercession that those who guide your Church may be generous to the poor and firm in the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Licinius_of_Angers"
+  ],
+  "featured": false,
+  "draft": false
+}

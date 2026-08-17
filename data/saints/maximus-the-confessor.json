@@ -1,0 +1,25 @@
+{
+  "slug": "maximus-the-confessor",
+  "name": "St. Maximus the Confessor",
+  "feastDay": "01-21",
+  "bio": "Saint Maximus the Confessor, also spelled Maximos and known as Maximus the Theologian and Maximus of Constantinople, was a Christian monk, theologian, and scholar of the seventh century. Born into a noble family of Constantinople, he served as chief secretary to the emperor before renouncing the world to embrace the monastic life. He became the great champion of orthodox Christology, defending the doctrine that Christ possesses two wills, divine and human, against the Monothelite heresy. For his fearless witness he was arrested, tortured—his tongue and right hand were cut off to silence him—and exiled to Lazica on the Black Sea, where he died in 662. His writings on the spiritual life, asceticism, and the mystery of Christ remain among the treasures of Christian theology.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Maximus the Confessor grace to defend the mystery of Your Son's two wills even under torture and exile, grant through his intercession that we may hold fast to the truth and contemplate the depths of Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximus_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "adeloga-of-kitzingen",
+  "name": "St. Adeloga of Kitzingen",
+  "feastDay": "02-02",
+  "bio": "Adeloga of Kitzingen, also known as Hadeloga or Adela, was a Frankish princess, the daughter of Charles Martel, the powerful mayor of the palace. She was said to be of singular beauty and was sought after in marriage, but she refused, longing to give herself wholly to God. Her father answered with studied brutality and public insult; when she turned to his chaplain, her spiritual director, for counsel, Martel expelled them both from the palace. They journeyed to Kitzingen, then a wild and desert place in modern Bavaria, and there built a convent. Adeloga became its first abbess, gathering virgins under the Rules of St. Benedict and St. Scholastica. In time her father repented, visited her, and donated lands to her convent.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Adeloga the strength to endure cruelty for Your sake and to build a house of prayer in the wilderness, grant through her intercession that we may remain steadfast when trials come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adeloga_of_Kitzingen"
+  ],
+  "featured": false,
+  "draft": false
+}

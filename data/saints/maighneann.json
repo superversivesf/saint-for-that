@@ -1,0 +1,21 @@
+{
+  "slug": "maighneann",
+  "name": "St. Maighneann",
+  "feastDay": "unknown",
+  "bio": "Saint Maighneann was a Christian abbot of the seventh century who lived in what is now Kilmainham, near Dublin, Ireland. Little is known of his life beyond his reputation for holiness and his role as a spiritual father to the monastic community in that place. A fifteenth-century manuscript titled A Life of St Maighneann preserved some of his teachings, testifying to the enduring memory of his wisdom among the Irish faithful. The district of Kilmainham itself takes its name from his church, Cill Mhaighneann, the church of Maighneann. He is remembered as one of the many monastic saints of early Christian Ireland who planted the faith in her soil.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Maighneann through centuries of tradition, grant through his intercession that we may be faithful stewards of the wisdom of the saints and build up Your Church in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Maighneann"
+  ],
+  "featured": false,
+  "draft": false
+}

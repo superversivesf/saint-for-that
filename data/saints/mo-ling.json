@@ -1,0 +1,25 @@
+{
+  "slug": "mo-ling",
+  "name": "St. Mo Ling",
+  "feastDay": "06-17",
+  "bio": "Saint Mo Ling (614–697), also named Moling Luachra, was the second Bishop of Ferns in Ireland and was counted among the four great prophets of Erin. He founded a monastery at St Mullin's in County Carlow, and in the seventh century is said to have had a church built at Mullennakill in County Kilkenny. His feast day is kept on 17 June. His Life, preserved in two manuscripts, the Birth and Life of St. Moling and the Borama, recounts how he labored to end a cattle tribute imposed by the kings of Tara upon the kings of Leighin, a burden that had festered since the son of the king of Leighin went on a cattle raid to Clonfert, killing several princesses. He is remembered as a prophet, a friend of the poor, and a liberator of the oppressed.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "special"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Mo Ling the courage to lift unjust burdens from those who bore them, grant through his intercession that we may be voices for the oppressed and prophets of Your justice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mo_Ling"
+  ],
+  "featured": false,
+  "draft": false
+}

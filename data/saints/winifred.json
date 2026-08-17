@@ -1,0 +1,25 @@
+{
+  "slug": "winifred",
+  "name": "St. Winifred",
+  "feastDay": "11-03",
+  "bio": "Saint Winifred was a Welsh virgin martyr of the seventh century. Her story was celebrated as early as the eighth century, and became popular in England in the twelfth, when her hagiography was first written down. According to the legend, she was pursued by a local chieftain who, enraged by her refusal, struck off her head; a spring of water miraculously gushed forth where it fell, and she was restored to life by the prayers of her uncle, St. Beuno. She lived as a nun and abbess, and the spring at Holywell in Flintshire became one of the most famous healing shrines of medieval Britain, drawing pilgrims for centuries. She is invoked against unwanted advances and as a patron of the Diocese of Shrewsbury. Her feast is kept on November 3.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved St. Winifred in virginity and healed her wounds by your power, grant through her intercession that all who face violence may be defended and that all who seek healing at her spring may find it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Winifred"
+  ],
+  "featured": false,
+  "draft": false
+}

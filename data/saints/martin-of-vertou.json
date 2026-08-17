@@ -1,0 +1,25 @@
+{
+  "slug": "martin-of-vertou",
+  "name": "St. Martin of Vertou",
+  "feastDay": "unknown",
+  "bio": "Saint Martin of Vertou, who lived from about 527 to 601, was a hermit, abbot, and the founder of Vertou Abbey near Nantes in Francia. He is sometimes called the Apostle of the Herbauges for his labors in evangelizing the region around the Loire estuary, and in some traditions he is known as Mark of Vertou. Leaving the solitude of the hermit's cell, he preached the Gospel to the still-pagan peoples of the pays de la Loire and gathered disciples into monastic communities that became centers of Christian life. He is remembered as one of the missionary abbots of sixth-century Gaul who carried the faith from the cloister into the countryside and won souls for Christ through patient labor.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Martin of Vertou from his hermitage to win a region for Your Gospel, grant through his intercession that we may carry the light of Christ from our prayer into the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_of_Vertou"
+  ],
+  "featured": false,
+  "draft": false
+}

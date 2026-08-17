@@ -1,0 +1,29 @@
+{
+  "slug": "mellitus",
+  "name": "St. Mellitus",
+  "feastDay": "04-24",
+  "bio": "Saint Mellitus was the first bishop of London in the Saxon period, the third archbishop of Canterbury, and a leading member of the Gregorian mission sent from Rome to convert the Anglo-Saxons. He arrived in England in 601 with clergy sent to augment the work of St. Augustine, and was consecrated Bishop of London in 604. He received a famous letter from Pope Gregory I counseling that the conversion of the English be undertaken gradually, sanctifying pagan customs where possible. After exile during a pagan reaction he returned as archbishop of Canterbury, guiding the young English Church through uncertain years. He died in 624 and is remembered as a founder of English Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Mellitus to plant the Gospel among the English people, grant through his intercession that we may build wisely upon the foundations of faith we have received and be patient in bringing others to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mellitus"
+  ],
+  "featured": false,
+  "draft": false
+}

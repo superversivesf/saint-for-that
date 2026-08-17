@@ -1,0 +1,29 @@
+{
+  "slug": "adrian-of-canterbury",
+  "name": "St. Adrian of Canterbury",
+  "feastDay": "01-09",
+  "bio": "Adrian, also spelled Hadrian, was a Berber scholar in Anglo-Saxon England who served as abbot of the monastery of Saints Peter and Paul at Canterbury. Born in North Africa around 630, he was, in Bede's words, \"by nation an African,\" and had been abbot of a monastery near Naples. Sent to England by Pope Vitalian to support the mission of Theodore of Tarsus, Adrian became one of the most learned teachers of his age, a renowned commentator on the Bible, and a builder of the Church in England. Under his leadership the school at Canterbury flourished, producing a generation of learned clergy. He died around 709 and is venerated as a patron of scholars and teachers.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Adrian, a Berber scholar, to teach Your Church in England, grant through his intercession that we may grow in the knowledge of Your Word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adrian_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

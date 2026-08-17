@@ -1,0 +1,33 @@
+{
+  "slug": "sigeberht-of-east-anglia",
+  "name": "St. Sigeberht of East Anglia",
+  "feastDay": "unknown",
+  "bio": "Sigeberht of East Anglia was a king of the Anglo-Saxon kingdom of East Anglia, the region that today includes Norfolk and Suffolk. He was the first English king to receive Christian baptism and education before his succession, and after a pious reign he became the first English king to abdicate to enter the monastic life, laying aside his crown for the cowl in a monastery he had founded.\n\nBede's Ecclesiastical History, completed in the 730s, presents him as a model of royal devotion. According to Bede, Sigeberht later emerged from his monastery to lead his people against the pagan Mercian king Penda when no other leader could be found, and was slain, bearing witness as a martyred king. He is remembered as a royal patron of monasticism and a pioneer of Christian kingship among the English.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Sigeberht from a throne to a monastery and finally to a martyr's crown, grant through his intercession that we may value the things of heaven above the glory of this world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sigeberht_of_East_Anglia"
+  ],
+  "featured": false,
+  "draft": false
+}

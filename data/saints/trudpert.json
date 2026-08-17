@@ -1,0 +1,29 @@
+{
+  "slug": "trudpert",
+  "name": "St. Trudpert",
+  "feastDay": "04-26",
+  "bio": "Saint Trudpert was a seventh-century missionary to the lands that would become Germany, generally described as a Celtic monk from Ireland, though some traditions hold him to be of German birth. Coming as a stranger to the Black Forest valleys, he preached the Gospel and gathered a community of disciples around the site that still bears his name. According to tradition he suffered a violent death at the hands of a local leader, and his tomb became a place of pilgrimage and healing. The monastery of St. Trudpert grew from his witness, carrying his memory across the centuries. He is remembered as one of the Irish monks whose missionary labor brought the light of Christ to the German peoples, planting the faith in soil that would yield a rich harvest.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Trudpert to sow the seed of the Gospel in the forests of Germany, grant through his intercession that we may labor faithfully for the spread of your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trudpert"
+  ],
+  "featured": false,
+  "draft": false
+}

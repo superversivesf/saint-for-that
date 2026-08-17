@@ -1,0 +1,25 @@
+{
+  "slug": "abo-of-tiflis",
+  "name": "St. Abo of Tiflis",
+  "feastDay": "01-08",
+  "bio": "Abo of Tiflis was a Christian martyr of Arab origin who came to practice his faith in what is now Tbilisi, the capital of present-day Georgia. Born a Muslim, he encountered Christianity during his travels in Georgia and was drawn to the Gospel. He lived as a Christian, growing in devotion and prayer, but the political climate turned hostile. When Arab rule tightened, Abo openly professed his faith and was arrested. He refused to deny Christ and was executed, sealing his witness with his blood. His passion was recorded by his contemporary, the Georgian hagiographer John Sabanisdze, and he is honored as a patron of Tbilisi.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Abo the courage to confess Your name even to death, grant through his intercession that we may stand firm in faith when faced with hostility. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abo_of_Tiflis"
+  ],
+  "featured": false,
+  "draft": false
+}

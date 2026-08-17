@@ -1,0 +1,21 @@
+{
+  "slug": "m-ed-c-of-ferns",
+  "name": "St. Máedóc of Ferns",
+  "feastDay": "01-31",
+  "bio": "Saint Máedóc of Ferns, also known as Saint Aidan, Saint Madoc, or Saint Mogue, was an Irish saint of the sixth century who became the first Bishop of Ferns in County Wexford. Renowned for his missionary zeal and monastic foundations, he is credited with founding thirty churches across Ireland and Wales, including the great monastery at Ferns which became a center of learning and piety. Born in Connacht, he studied under St. David in Wales before returning to Ireland to preach the Gospel. Many miracles were attributed to him, and his cult spread widely through the monastic houses he established. He is remembered as a pillar of the early Irish Church and a tireless builder of Christian community.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Máedóc to build up Your Church in Ireland through thirty foundations of faith, grant through his intercession that we may labor with equal zeal for the spread of Your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A1ed%C3%B3c_of_Ferns"
+  ],
+  "featured": false,
+  "draft": false
+}

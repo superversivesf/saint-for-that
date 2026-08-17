@@ -1,0 +1,29 @@
+{
+  "slug": "patriarch-peter-iv-of-alexandria",
+  "name": "St. Patriarch Peter IV of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Peter IV served as the Greek Patriarch of Alexandria from 642 to 651, shepherding the church of Egypt during one of the most turbulent periods in its long history. His tenure as patriarch began just as the Muslim conquest of Egypt was underway, bringing immense upheaval to the ancient Christian communities of the Nile. As the Arab armies swept through the region, the Christian population faced political displacement, religious uncertainty, and the dissolution of the Byzantine authority that had long governed the see of Alexandria.\n\nUnable to remain safely in his see, Peter sought refuge in Constantinople, following the path of many Christian leaders who were displaced by the conquest. Despite the loss of his patriarchal seat, he continued to be recognized as the legitimate patriarch, holding the office until his death around 651. His witness as a bishop enduring exile and displacement for the sake of his flock remains an enduring example of pastoral fidelity in the face of political catastrophe.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "migrants",
+      "category": "travel"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Peter IV in exile as he faithfully shepherded the church of Alexandria through times of upheaval, grant through his intercession that all who are driven from their homes may find refuge in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patriarch_Peter_IV_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

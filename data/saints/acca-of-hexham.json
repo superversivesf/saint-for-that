@@ -1,0 +1,21 @@
+{
+  "slug": "acca-of-hexham",
+  "name": "St. Acca of Hexham",
+  "feastDay": "10-20",
+  "bio": "Acca of Hexham was an early medieval Northumbrian prelate who served as bishop of Hexham from 709 until 732. A companion and successor of St. Wilfrid, Acca was known for his learning, his love of sacred music, and his care for the liturgy of his diocese. He adorned his cathedral with rich furnishings and gathered scholars and musicians around him, making Hexham a center of Christian culture in the north of England. His tenure as bishop ended in 732, and he was subsequently commemorated as a saint. His feast is kept on October 20, and his relics were long honored at Hexham.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned Your Church through the worship and learning of St. Acca, grant through his intercession that we may honor You with reverent liturgy and fruitful study. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acca_of_Hexham"
+  ],
+  "featured": false,
+  "draft": false
+}

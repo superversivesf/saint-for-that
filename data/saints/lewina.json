@@ -1,0 +1,29 @@
+{
+  "slug": "lewina",
+  "name": "St. Lewina",
+  "feastDay": "07-24",
+  "bio": "Lewina was a British virgin and martyr of the early days of the English conquest. Living among the native Christian Britons, she consecrated herself wholly to Christ. When Saxon invaders swept through her homeland, she refused to abandon her faith or her resolve, and was put to death by the pagan conquerors. Her name, preserved in ancient calendars, testifies to the blood shed for Christ on British soil. She is honored on July 24 as one of the maiden martyrs of the early Church in Britain, a witness to the cost of discipleship in a time of violence and upheaval.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin Lewina with martyrdom at the hands of the invaders, grant through her intercession that we may remain steadfast in faith when we are beset by every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lewina"
+  ],
+  "featured": false,
+  "draft": false
+}

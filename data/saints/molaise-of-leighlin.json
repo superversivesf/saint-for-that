@@ -1,0 +1,25 @@
+{
+  "slug": "molaise-of-leighlin",
+  "name": "St. Molaise of Leighlin",
+  "feastDay": "04-18",
+  "bio": "Saint Molaise of Leighlin, also called Laisrén or Laserian, was an early Irish saint and abbot of Lethglenn, now Old Leighlin in County Carlow, who lived in the sixth and seventh centuries. In Scotland he is known as Molaise, while in Ireland he is revered as Laserian. He governed a monastery that became one of the notable houses of the Irish Church and was remembered for his wisdom in settling disputes, including the celebrated Paschal controversy over the date of Easter. Tradition holds that he was a friend of pilgrims and of those who sought counsel, and that his monastery drew scholars and penitents alike. He is honored as a peacemaker and father of Irish monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Molaise the grace to be a peacemaker among divided brethren, grant through his intercession that we may seek unity with humility and offer wise counsel to those who come to us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Molaise_of_Leighlin"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "randoald-of-grandval",
+  "name": "St. Randoald of Grandval",
+  "feastDay": "02-21",
+  "bio": "Saint Randoald was a seventh-century Benedictine monk who served as prior of Moutier-Grandval Abbey under the abbot Germanus of Granfelden. The abbey, located in the Jura region of what is now Switzerland, was a center of monastic life and learning in the early medieval period. As prior, Randoald was second in authority to the abbot and bore responsibility for the daily life and discipline of the community, ensuring that the monks under his care lived according to the Rule of St. Benedict.\n\nRandoald is venerated as a saint in both the Eastern Orthodox Church and the Roman Catholic Church, a witness to the wide reach of his cult across the Christian world. His feast is kept on February 21, the day on which the community of Grandval remembered his faithful service and the holiness of his life. Though historical details are limited, the enduring veneration of a prior who served his abbot and brothers faithfully testifies to the Benedictine ideal of obedience, stability, and prayer at the heart of the monastic tradition.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Randoald to serve as prior of the monks of Grandval, grant through his intercession that all who bear responsibility in religious communities may lead with humility and faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Randoald_of_Grandval"
+  ],
+  "featured": false,
+  "draft": false
+}

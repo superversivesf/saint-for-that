@@ -1,0 +1,29 @@
+{
+  "slug": "kyneburga-kyneswide-and-tibba",
+  "name": "St. Kyneburga, Kyneswide and Tibba",
+  "feastDay": "03-06",
+  "bio": "Kyneburga, Kyneswide, and Tibba were royal women of the kingdom of Mercia in seventh-century England, daughters and kinswomen of pagan kings who embraced the Christian faith. Kyneburga forsook marriage to found and rule an abbey at Castor, dedicating her life to prayer and the care of souls. Her sister Kyneswide and their kinswoman Tibba likewise lived in virginity and devotion. They were buried together and venerated at their shrine, where the faithful sought their intercession. These holy women stand as witnesses to the early flowering of the faith among the English peoples, choosing Christ over the privileges of their royal birth.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the royal maidens Kyneburga, Kyneswide, and Tibba to forsake the glory of earthly courts for the service of your Church, grant through their intercession that we may choose Christ above every honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyneburga%2C_Kyneswide_and_Tibba"
+  ],
+  "featured": false,
+  "draft": false
+}

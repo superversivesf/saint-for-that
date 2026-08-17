@@ -1,0 +1,29 @@
+{
+  "slug": "isaac-the-syrian",
+  "name": "St. Isaac the Syrian",
+  "feastDay": "01-28",
+  "bio": "Saint Isaac the Syrian, also called Isaac of Nineveh or Isaac of Qatar, was a seventh-century Syriac Christian bishop and one of the most profound mystical writers of the Christian East. Consecrated bishop of Nineveh by the Catholicos of the Church of the East, he held the see only briefly before withdrawing into a life of solitude, seeking God in the silence of the desert.\n\nHis writings on Christian asceticism, gathered in treatises copied and treasured for centuries, speak of the purification of the heart, the mystery of tears, and the overwhelming mercy of God toward all creation. Translated into Greek, Latin, Arabic, and many other languages, his words have nourished monks, contemplatives, and seekers across every Christian tradition.\n\nHonored as a saint in the Church of the East, the Roman Catholic, the Eastern Orthodox, and the Syriac Orthodox churches, his feast is kept on January 28 together with Saint Ephrem the Syrian.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Saint Isaac the Syrian to seek you in the silence of the desert and to write of the boundless mercy that conquers the human heart, grant through his intercession that we may be purified by tears, stilled by prayer, and kindled with love for all creation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isaac_the_Syrian"
+  ],
+  "featured": false,
+  "draft": false
+}

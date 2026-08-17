@@ -1,0 +1,25 @@
+{
+  "slug": "severus-ii-bar-masqeh",
+  "name": "St. Severus II bar Masqeh",
+  "feastDay": "unknown",
+  "bio": "Severus II bar Masqeh served as Patriarch of Antioch and head of the Syriac Orthodox Church from 667 or 668 until his death in 684, guiding his flock through a formative era of the non-Chalcedonian tradition. Bearing the name of Saint Severus of Antioch, he shepherded the faithful during the decades following the Arab conquests, preserving the ancient liturgical and theological heritage of the Patriarchate of Antioch. He is commemorated as a saint by the Syriac Orthodox Church, honored for his faithful stewardship of one of the most ancient sees of Christendom. His patriarchate represented continuity of apostolic faith endured through political upheaval and the Christological divisions that had long shaped the churches of the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Severus II bar Masqeh to shepherd the ancient see of Antioch amid turmoil and division, grant through his intercession that Your Church may be preserved in unity and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Severus_II_bar_Masqeh"
+  ],
+  "featured": false,
+  "draft": false
+}

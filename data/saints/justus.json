@@ -1,0 +1,33 @@
+{
+  "slug": "justus",
+  "name": "St. Justus",
+  "feastDay": "unknown",
+  "bio": "Sent by Pope Gregory the Great from Italy to England in 601, Justus labored among the Anglo-Saxons to plant the Gospel in pagan soil. He became the first bishop of Rochester in 604, shepherding a fledgling flock with patience and courage. He signed the letter to the Irish bishops urging the Celtic church to unity with Rome in the celebration of Easter, and attended the council of Paris in 614. After the death of Augustine, Justus rose to become the fourth archbishop of Canterbury, guiding the English church through uncertain years. His life was one of faithful labor for the unity and growth of the Church in a foreign land.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Justus from the halls of Rome to the pagan fields of England, grant through his intercession that missionaries may labor faithfully for the unity and growth of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justus"
+  ],
+  "featured": false,
+  "draft": false
+}

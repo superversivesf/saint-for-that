@@ -1,0 +1,21 @@
+{
+  "slug": "tanca",
+  "name": "St. Tanca",
+  "feastDay": "unknown",
+  "bio": "Saint Tanca is the name of a sixth-century French Roman Catholic saint venerated in the early medieval tradition of Gaul. Little detailed information about her life has survived the centuries, yet her memory was preserved in local devotion, marking her as one of the many holy figures of the Merovingian era whose names the Church has honored from antiquity. The fragmentary nature of her record places her among the countless saints of early medieval France whose witness, though dimly recorded, was sufficiently radiant to earn enduring veneration. She represents the great cloud of hidden witnesses, those whose lives of holiness were known to their contemporaries and remembered in local tradition even when fuller accounts were lost to time.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Tanca among the faithful of early Gaul, grant through her intercession that the hidden holiness of Your servants may never be forgotten before You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tanca"
+  ],
+  "featured": false,
+  "draft": false
+}

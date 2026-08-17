@@ -1,0 +1,21 @@
+{
+  "slug": "adalbert-of-egmond",
+  "name": "St. Adalbert of Egmond",
+  "feastDay": "06-25",
+  "bio": "Adalbert of Egmond was a Northumbrian Anglo-Saxon missionary who joined St. Willibrord in the great mission to preach the Gospel to the pagan peoples of Holland and Frisia. Leaving his homeland, he crossed the sea to bring the light of Christ to the lands along the North Sea coast. He labored among the Frisians and in the region of Egmond, where he was remembered as a faithful preacher and pastor. His feast is kept on June 25. He stands among the host of Anglo-Saxon missionaries who, fired by the faith they had received, carried it back across the sea to the Germanic peoples of the continent.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Adalbert across the sea to preach the Gospel to the peoples of Frisia, grant through his intercession that the hearts of all nations may be opened to Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalbert_of_Egmond"
+  ],
+  "featured": false,
+  "draft": false
+}

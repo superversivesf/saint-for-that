@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-beverley",
+  "name": "St. John of Beverley",
+  "feastDay": "05-07",
+  "bio": "Saint John of Beverley was an English bishop of the kingdom of Northumbria in the early eighth century. He served first as bishop of Hexham and then as bishop of York, the most important religious see in the north of England, exercising his office with quiet fidelity in an age of upheaval and conversion.\n\nIt was John who founded the town of Beverley by building the first religious house there, a monastery that would grow around his tomb into one of the great pilgrimage shrines of medieval England. Beverley Minster, raised in his honor, drew countless pilgrims through the centuries and became a place of healing and refuge.\n\nJohn was associated with miracles during his life and after his death, and was formally canonized by the Catholic Church in 1037. Because his canonization preceded the Great Schism of 1054, he is also honored as a saint by the Eastern Orthodox Church. His feast is kept on May 7.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint John of Beverley a faithful bishop of York and a teacher of the English Church, grant through his intercession that those who teach the faith may speak with learning and love, and that all who seek you at his shrine may find healing and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Beverley"
+  ],
+  "featured": false,
+  "draft": false
+}

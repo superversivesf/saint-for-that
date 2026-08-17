@@ -1,0 +1,29 @@
+{
+  "slug": "samuel-the-confessor",
+  "name": "St. Samuel the Confessor",
+  "feastDay": "unknown",
+  "bio": "Samuel the Confessor, also known as Samuel of Kalamoun or Samuel of Qalamun, was an Egyptian Coptic Orthodox saint who lived from 597 to 695, a remarkable span of nearly a century. He was venerated in all the Oriental Orthodox Churches as a model of steadfast faith and endurance. His life spanned one of the most turbulent eras in the history of the church of Egypt, encompassing both the Christological controversies that divided the Chalcedonian and non-Chalcedonian churches and the Arab conquest of Egypt.\n\nSamuel is most famous for his suffering at the hands of the Chalcedonian Byzantines, who tortured him for his refusal to accept the Council of Chalcedon. He carries the title \"confessor\" because he endured torture for the Christian faith without being put to death, distinguishing him from the martyrs. Later in life, he witnessed the Arab invasion of Egypt, living through the upheaval that transformed the Christian heartland of Egypt under new rulers.\n\nHe built the monastery that bears his name in Mount Qalamoun, which became a center of Coptic monastic life and learning. His long life of prayer, asceticism, and faithful witness under persecution made him one of the most revered figures of the Coptic tradition.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Samuel the Confessor to endure torture for the faith and to build a house of prayer in the desert, grant through his intercession that all who suffer for Your name may remain steadfast in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Samuel_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

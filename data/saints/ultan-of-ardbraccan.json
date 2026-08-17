@@ -1,0 +1,29 @@
+{
+  "slug": "ultan-of-ardbraccan",
+  "name": "St. Ultan of Ardbraccan",
+  "feastDay": "09-04",
+  "bio": "Ultan of Ardbraccan, known as Ultan the Scribe, was an Irish monk and abbot-bishop of Ardbraccan in the seventh century. Renowned for his learning and his tireless care for the suffering, he devoted himself especially to the welfare of children and to those afflicted with disease. Tradition holds that he composed writings in their honor and tended the sick with a father's tenderness. As a scribe he treasured the Word of God and copied the Scriptures with reverence, and as a bishop he governed his monastery and diocese with wisdom. His feast on 4 September has been kept by the faithful of Ireland for centuries. He is invoked as a patron of children and of pediatricians, a shepherd who saw in the smallest and most vulnerable the face of Christ.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "physicians",
+      "category": "illness"
+    },
+    {
+      "need": "sick children",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who filled St. Ultan with compassion for children and the sick, grant through his intercession that the young may be protected and that those who care for them may serve with love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ultan_of_Ardbraccan"
+  ],
+  "featured": false,
+  "draft": false
+}

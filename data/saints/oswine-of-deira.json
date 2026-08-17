@@ -1,0 +1,29 @@
+{
+  "slug": "oswine-of-deira",
+  "name": "St. Oswine of Deira",
+  "feastDay": "08-20",
+  "bio": "Oswine, also called Oswin or Osuine, was a King of Deira in northern England in the middle of the seventh century. He ruled a kingdom caught between rival powers and competing claims, and the ancient histories remember him as a man of gentleness and humility, beloved by his people for his courtesy and his care for the poor. His reign ended in violence when he was betrayed and killed by a rival king, and his death was received by the Church as that of a martyr. His remains were honored at Tynemouth, where a shrine drew pilgrims for centuries, and his feast on the twentieth of August recalls a ruler who chose peace and met the sword.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Oswine with the palm of martyrdom though he was a king of gentle heart, grant through his intercession that rulers may govern with humility and that the poor may find in you their defender. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oswine_of_Deira"
+  ],
+  "featured": false,
+  "draft": false
+}

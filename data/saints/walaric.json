@@ -1,0 +1,21 @@
+{
+  "slug": "walaric",
+  "name": "St. Walaric",
+  "feastDay": "unknown",
+  "bio": "Saint Walaric, known in modern French as Valery, was born around 565 and became one of the great monastic founders of Merovingian Gaul. He was a follower of the Irish missionary Columbanus, whose influence spread monastic communities across continental Europe during the seventh century. Walaric received the monastic habit and devoted himself to the ascetic and missionary labors of the Columbanian movement. He founded the monastery of Leuconay on the Somme, a house that would bear his name in later centuries as Saint-Valery-sur-Somme. He gathered disciples and formed them in the ways of prayer and penance, and his community became one of the channels through which Irish spirituality was woven into the fabric of Frankish Christianity. Honored as a holy abbot and patron of the region, he represents the rich cross-pollination between Celtic and continental monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred up St. Walaric to follow the monastic way and to found a community at Leuconay, grant through his intercession that all who seek you in community may persevere in prayer and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Walaric"
+  ],
+  "featured": false,
+  "draft": false
+}

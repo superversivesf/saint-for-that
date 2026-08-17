@@ -1,0 +1,25 @@
+{
+  "slug": "john-iii-of-the-sedre",
+  "name": "St. John III of the Sedre",
+  "feastDay": "12-14",
+  "bio": "Saint John III of the Sedre served as Patriarch of Antioch and head of the Syriac Orthodox Church from 631 until his death in 648. He shepherded his flock during a troubled age, when the rise of Islam reshaped the world in which the ancient Churches of the East had stood for centuries, and when doctrinal strife continued to divide the Christian communities of Syria.\n\nThe title by which he is remembered, \"of the Sedre,\" refers to the order of prayer he composed, a distinctive Syriac liturgical form that remains a treasure of the tradition. As patriarch he gave himself to the care of his people, to the preservation of right teaching, and to the dignity of the Antiochene see founded, according to tradition, by the Apostle Peter.\n\nHe is commemorated as a saint by the Syriac Orthodox Church, and his feast is kept on December 14.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint John of the Sedre to compose prayers that still rise before you and to guide the ancient see of Antioch in a time of shaking, grant through his intercession that the divided Churches may find again the unity of faith, and that the prayers of your people may be ordered to your praise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_III_of_the_Sedre"
+  ],
+  "featured": false,
+  "draft": false
+}

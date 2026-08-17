@@ -1,0 +1,25 @@
+{
+  "slug": "mildgyth",
+  "name": "St. Mildgyth",
+  "feastDay": "01-17",
+  "bio": "Saint Mildgyth was the youngest daughter of Merewalh, king of the Mercians, and Saint Eormenburh. Born into one of the most venerated families of Anglo-Saxon England, she was the youngest sister of Saint Mildburh of Wenlock and Saint Mildrith of Thanet. Devout tradition has likened the three sisters to the three theological virtues: Mildburh to faith, Mildgyth to hope, and Mildrith to charity. Mildgyth entered religious life and, like her sisters, devoted herself to prayer and the service of the Church in a land still young in the faith. Her memory endured through the cults of her family, and she was honored as an abbess and a model of hope and steadfastness in God.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Mildgyth with the virtue of hope amidst a holy family of saints, grant through her intercession that we may place all our trust in Your promises and persevere in the life of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mildgyth"
+  ],
+  "featured": false,
+  "draft": false
+}

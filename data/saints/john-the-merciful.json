@@ -1,0 +1,25 @@
+{
+  "slug": "john-the-merciful",
+  "name": "St. John the Merciful",
+  "feastDay": "unknown",
+  "bio": "Saint John the Merciful, also called John the Almsgiver, John the Almoner, or John the Compassionate, served as Chalcedonian Patriarch of Alexandria from 606 to 616. Born at Amathus on the island of Cyprus around 560, he was appointed to the patriarchal throne by the Emperor Heraclius and gave himself wholly to the relief of the poor.\n\nHis reign as patriarch was marked by extraordinary generosity. He reorganized the charitable works of the Church of Alexandria, founded hospitals and shelters, and became so identified with almsgiving that he was given the name by which he is still remembered. He sold the treasures of his own church rather than allow the suffering of the people to go unrelieved.\n\nAt the end of his life, as Persians overran Egypt, John was obliged to flee back to Cyprus, where he died around 620. He is invoked as a patron of the poor and of all who give themselves to works of mercy.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint John the Merciful a patriarch who sold the treasures of his church to feed the poor, grant through his intercession that we may open our hands to the suffering and find in mercy the path to your heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Merciful"
+  ],
+  "featured": false,
+  "draft": false
+}

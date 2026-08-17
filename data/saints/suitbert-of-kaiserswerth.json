@@ -1,0 +1,33 @@
+{
+  "slug": "suitbert-of-kaiserswerth",
+  "name": "St. Suitbert of Kaiserswerth",
+  "feastDay": "03-01",
+  "bio": "Saint Suitbert, also known as Suidbert, Suitbertus, Swithbert, or Swidbert, was born in Northumbria in the seventh century. He accompanied the missionary Willibrord on the Anglo-Saxon mission to the continent, carrying the Gospel from Christianized Britain to the still-pagan peoples of the Rhineland. After laboring among the Frisians and the tribes along the Rhine, Suitbert was consecrated a missionary bishop to preach to the peoples of the lower Rhine, establishing the faith in a region that became a heartland of medieval Christianity.\n\nHe founded a monastery on the island of Kaiserswerth, near Düsseldorf, a center of prayer and evangelization. Venerated as a patron of Germany, he is honored for his tireless preaching and his role in converting the Germanic peoples. His feast is March 1.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "missions",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Suitbert from Northumbria to preach the Gospel to the peoples of the Rhineland, grant through his intercession that the message of salvation may reach every nation and tongue. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suitbert_of_Kaiserswerth"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "warinus",
+  "name": "St. Warinus",
+  "feastDay": "08-25",
+  "bio": "Saint Warinus of Poitiers was a Franco-Burgundian nobleman who served as Count of Poitiers and later Count of Paris in the tumultuous seventh century. Born into the high aristocracy of the Frankish kingdoms, he wielded secular power in an age when political loyalty was fragile and feuds between noble houses were settled by violence. His life came to its culmination in martyrdom at Arras in the year 677, and the Church of his day venerated him among those who confessed Christ by shedding their blood. His cult endured in the regions associated with his offices, where the faithful remembered a powerful man who chose fidelity over safety. The combination of high secular rank and a martyr's death made him an unusual and compelling figure in the hagiography of the Merovingian period.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Warinus the grace to lay down his life rather than deny the faith, grant through his intercession that all who face persecution for righteousness' sake may stand firm and win the crown of glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Warinus"
+  ],
+  "featured": false,
+  "draft": false
+}

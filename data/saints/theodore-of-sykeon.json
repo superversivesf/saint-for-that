@@ -1,0 +1,29 @@
+{
+  "slug": "theodore-of-sykeon",
+  "name": "St. Theodore of Sykeon",
+  "feastDay": "04-22",
+  "bio": "Saint Theodore of Sykeon, also known as Theodore the Sykeote, was a revered Byzantine ascetic who lived from the first half of the sixth century into the thirteenth year of the Emperor Heraclius' rule in the early seventh century. Born in the village of Sykeon in Galatia, he embraced an extreme life of penance from his youth, spending long years in a tiny cell practicing fasting, vigils, and bodily mortification that astonished even his monastic contemporaries. His reputation drew pilgrims and emperors to his monastery.\n\nTheodore founded a monastery dedicated to Saint George at Sykeon, a great spiritual center, and was ordained a bishop though he yearned for solitude. He is credited with numerous miracles of healing, exorcism, and prophecy. His feast is April 22.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Theodore of Sykeon to a life of fierce asceticism and filled him with the gifts of healing and prophecy, grant through his intercession that we may deny ourselves and follow Christ with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_Sykeon"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "john-moschus",
+  "name": "St. John Moschus",
+  "feastDay": "unknown",
+  "bio": "John Moschus, surnamed Eucrates, was a Byzantine monk and ascetical writer of Georgian origin who lived in the late sixth and early seventh centuries. Drawn to the monastic life from his youth, he traveled widely through the monasteries of Palestine, Egypt, and the Sinai, gathering the sayings and deeds of holy fathers and mothers he encountered along the way. The fruit of these journeys became the Spiritual Meadow, one of the most cherished collections of monastic wisdom in the Christian East, preserved alongside the Bibliotheca of Photios as the chief witness to his life. John's writings opened a window onto the desert and the cloister for generations of readers who never saw them, and he is honored as a teacher of the contemplative life and a faithful son of the Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. John Moschus to gather the wisdom of the desert fathers and preserve it for the Church, grant through his intercession that we may walk in the way of the contemplatives who went before us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Moschus"
+  ],
+  "featured": false,
+  "draft": false
+}

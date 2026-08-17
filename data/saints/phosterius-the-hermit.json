@@ -1,0 +1,25 @@
+{
+  "slug": "phosterius-the-hermit",
+  "name": "St. Phosterius the Hermit",
+  "feastDay": "01-05",
+  "bio": "Saint Phosterius the Hermit was a seventh-century Anatolian Christian ascetic who devoted his life to prayer, solitude, and the pursuit of holiness in the wilderness. Living in the rugged interior of Asia Minor, in what is now modern Turkey, he embraced the eremitical life that had flourished in the region since the early days of Christian monasticism. The hermits of Anatolia sought to imitate the desert fathers, withdrawing from the world to battle the passions and draw near to God through constant prayer, fasting, and manual labor.\n\nPhosterius is commemorated on January 5 in the Eastern Orthodox and Byzantine Catholic Churches, which preserve the memory of the great cloud of Anatolian ascetics who sanctified the region before the later upheavals of conquest. Though few details of his life survive, the very existence of his commemoration in the liturgical tradition testifies to the esteem in which he was held as a holy man of God. His life of quiet contemplation remains a witness to the enduring call to prayer and solitude at the heart of the Christian tradition.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Phosterius to the quiet of the wilderness and the depth of unceasing prayer, grant through his intercession that we may find moments of holy solitude amid the noise of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phosterius_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

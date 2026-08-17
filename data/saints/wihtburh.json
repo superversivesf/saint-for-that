@@ -1,0 +1,21 @@
+{
+  "slug": "wihtburh",
+  "name": "St. Wihtburh",
+  "feastDay": "03-17",
+  "bio": "Saint Wihtburh was an East Anglian saint and abbess, renowned for founding and governing a convent at Dereham in Norfolk. She is counted among the holy royal women of seventh-century East Anglia, a kingdom remarkable for the number of saints it produced from its ruling house. Though the details of her life are sparse, the tradition holds that she lived in holiness, gathering a community of women around her prayer and drawing the faithful to the quiet life of the convent. After her death, her relics drew pilgrims, and her shrine was long associated with Ely Cathedral and with St Etheldreda's Church in London. The Dereham convent itself no longer stands except for St Nicholas Church. Her feast on March 17 keeps her memory alive as a foundress and mother of religious women.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wihtburh to found a convent and to guide women in the way of holiness, grant through her intercession that all who seek you in community may persevere in prayer and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wihtburh"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "seaxburh-of-ely",
+  "name": "St. Seaxburh of Ely",
+  "feastDay": "07-06",
+  "bio": "Seaxburh, also known as Saint Sexburga of Ely, was an Anglo-Saxon queen and abbess venerated as a saint of the Christian Church. She was married to King Eorcenberht of Kent, a devout Christian ruler who oversaw the further establishment of the faith in his kingdom. As queen, Seaxburh would have played a role in the religious and civic life of Kent, supporting the work of the church and the monastic foundations that were spreading across Anglo-Saxon England.\n\nAfter the death of her husband, Seaxburh turned to the religious life, becoming an abbess and devoting her later years to prayer and the governance of a community of women. She was connected to the great monastic foundation at Ely, which became one of the most important centers of Anglo-Saxon spirituality. Her family produced several saints, and she stands among the royal women of the seventh century who exchanged the privileges of the throne for the discipline of the cloister.\n\nHer feast is kept on July 6, the day on which the church remembers her witness as a queen who sought holiness above worldly honor. She remains a model of the royal abbesses who shaped the early English church.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Seaxburh from the throne of Kent to the quiet of the abbey, grant through her intercession that all who mourn the loss of loved ones may find new life in Your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seaxburh_of_Ely"
+  ],
+  "featured": false,
+  "draft": false
+}

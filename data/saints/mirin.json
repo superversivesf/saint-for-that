@@ -1,0 +1,25 @@
+{
+  "slug": "mirin",
+  "name": "St. Mirin",
+  "feastDay": "09-15",
+  "bio": "Saint Mirin, also known as Mirren of Benchor, Merinus, Merryn, and Meadhrán, is the patron saint of Paisley in Renfrewshire, Scotland, and of the Roman Catholic diocese of Paisley. An early Celtic missionary, he founded a religious community which in time grew to become Paisley Abbey, one of the great medieval houses of Scotland. The shrine of the saint within the abbey became a centre of pilgrimage, drawing the faithful who sought his intercession. His cult spread across Scotland and Ireland under his various names, and he is remembered as a father of Scottish monasticism and a patron of the place where his work took root.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mirin to found a community of prayer in Scotland and to be a father to its people, grant through his intercession that we may build houses of faith in our own day and become pilgrims of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Mirin"
+  ],
+  "featured": false,
+  "draft": false
+}

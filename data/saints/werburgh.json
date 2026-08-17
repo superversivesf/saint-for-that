@@ -1,0 +1,25 @@
+{
+  "slug": "werburgh",
+  "name": "St. Werburgh",
+  "feastDay": "02-03",
+  "bio": "Saint Werburgh was an Anglo-Saxon princess who became the patron saint of the city of Chester in Cheshire. She was a daughter of Wulfhere, king of Mercia, and of Ermenhild, herself a saintly queen. Though born to royalty, Werburgh chose the religious life and became an abbess, leading convents with wisdom and holiness. After her death, her relics were translated to Chester, where her shrine became one of the great centers of medieval pilgrimage in the north of England. Devotion to her spread through the city and region, and her feast is kept on February 3. She is remembered as a model of royal virginity, as a wise ruler of religious women, and as the heavenly protector of Chester, whose people invoked her for centuries.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Werburgh a wise abbess and the patron of Chester, grant through her intercession that all who govern may do so with holiness and that your people may be kept under her protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Werburgh"
+  ],
+  "featured": false,
+  "draft": false
+}

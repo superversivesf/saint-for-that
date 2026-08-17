@@ -1,0 +1,21 @@
+{
+  "slug": "vitalian-of-capua",
+  "name": "St. Vitalian of Capua",
+  "feastDay": "07-16",
+  "bio": "Saint Vitalian (Vitalianus) of Capua served as bishop of that ancient Italian city in the seventh century. Though the documentary record of his life is sparse, the Church of Capua honored him as a faithful pastor who guided his flock through the unsettled decades that followed the Lombard wars. His name appears in the oldest local martyrologies, and his cult was firmly established by the Middle Ages, when the people of Capua and surrounding towns invoked him as their heavenly protector. The tradition of his feast on July 16 has been preserved in the liturgical calendars of the region down to modern times. He remains a quiet witness to the steady, unremarked ministry of the bishops who kept the faith alive in southern Italy after the upheavals of late antiquity, and he is still honored as a patron of the city and diocese he once served.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Vitalian a faithful shepherd of your Church at Capua, grant through his intercession that bishops everywhere may lead their people with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vitalian_of_Capua"
+  ],
+  "featured": false,
+  "draft": false
+}

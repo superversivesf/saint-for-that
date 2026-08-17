@@ -1,0 +1,29 @@
+{
+  "slug": "pope-leo-ii",
+  "name": "St. Leo II",
+  "feastDay": "06-28",
+  "bio": "Pope Leo II, Bishop of Rome from August 682 until June 683, shepherded the Church during the turbulent years of the Byzantine Papacy. A contemporary biographer describes him as both just and learned, a man who combined pastoral care with theological depth. He confirmed the acts of the Sixth Ecumenical Council, upholding the orthodox faith concerning the two wills of Christ, and labored to maintain communion between Rome and the East. He was known for his generosity to the poor and his care for the liturgy. Commemorated as a saint in the Roman Martyrology, Leo II is remembered as a gentle and wise pontiff who served the Church in a difficult age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Leo II a shepherd both just and learned, grant through his intercession that your Church may be guarded in truth and served with compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_II"
+  ],
+  "featured": false,
+  "draft": false
+}

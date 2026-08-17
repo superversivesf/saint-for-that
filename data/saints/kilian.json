@@ -1,0 +1,37 @@
+{
+  "slug": "kilian",
+  "name": "St. Kilian",
+  "feastDay": "07-08",
+  "bio": "Kilian, an Irishman of the seventh century, was consecrated bishop and set out as a missionary to the continent. He reached Franconia, in what is now Germany, and preached the Gospel with apostolic zeal in Wurzburg, winning converts among the Frankish people. He explained the Christian faith to Gosbert, the local ruler, and boldly told him that his marriage to his brother's widow was unlawful. For this defense of the law of Christ, Kilian, together with his companions Colman and Totnan, was beheaded around 689. He is honored as the Apostle of Franconia, and his relics are venerated at Wurzburg. His feast is kept on July 8.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "chronic pain",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your bishop Kilian to preach the Gospel in Franconia and to lay down his life for the truth, grant through his intercession that we may bear witness to Christ with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kilian"
+  ],
+  "featured": false,
+  "draft": false
+}

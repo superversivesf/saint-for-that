@@ -1,0 +1,25 @@
+{
+  "slug": "pope-martin-i",
+  "name": "St. Martin I",
+  "feastDay": "unknown",
+  "bio": "Pope Martin I, also known as Martin the Confessor, was bishop of Rome from July 649 until 653 or 654. He had previously served as Pope Theodore I's ambassador to Constantinople, and upon his election he was the only pope during the period of Byzantine control of the papacy whose election did not await imperial mandate. For his resolute opposition to Monothelitism, the doctrine that Christ possessed only a single will, he was arrested by Emperor Constans II, carried off to Constantinople, and ultimately banished to Cherson in the Crimea, where he died of privation. He is honored as the last pope recognized as a martyr, a confessor of the full truth of Christ's two wills, divine and human.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Martin I the courage to confess the truth of Your Son even unto exile and death, grant through his intercession that we may never compromise the faith for the favor of any earthly power. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Martin_I"
+  ],
+  "featured": false,
+  "draft": false
+}

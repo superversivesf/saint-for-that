@@ -1,0 +1,29 @@
+{
+  "slug": "sigrada",
+  "name": "St. Sigrada",
+  "feastDay": "08-08",
+  "bio": "Sigrada of Alsace was a Franco-Burgundian countess renowned for her piety and the holy lineage she raised. As the mother of Saints Warin and Leodegar, and grandmother of Saint Leudwinus, she stands as a matriarch of a family that produced multiple saints, shaping the Christian life of Francia through her sons' episcopal and abbatial ministries. She lived during the seventh century, a time when noble families often served as the backbone of the Church's expansion in the Frankish kingdoms. Honored as a model of motherhood and family sanctity, Sigrada is commemorated on August 8. Her legacy endured through the faithful formation of her children, several of whom suffered or labored for the Church amid the political turbulence of the Merovingian era.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "grandparents",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed St. Sigrada to raise a family of saints, grant through her intercession that Christian parents may form their children in faith and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sigrada"
+  ],
+  "featured": false,
+  "draft": false
+}

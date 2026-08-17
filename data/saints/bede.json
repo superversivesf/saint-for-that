@@ -1,0 +1,29 @@
+{
+  "slug": "bede",
+  "name": "St. Bede",
+  "feastDay": "05-25",
+  "bio": "Bede, known as the Venerable Bede, was an English monk, author, and scholar of the Early Middle Ages, widely regarded as the greatest scholar of his age. Given to the monastery of St. Peter at Wearmouth as a child, he spent his whole life at Wearmouth-Jarrow in Northumbria, devoted to prayer, teaching, and the study of Scripture. His masterpiece, the Ecclesiastical History of the English People, earned him the title \"Father of English History.\" He wrote commentaries on the Bible, works on chronology, and helped popularize the system of dating years from Christ's birth. He died in 735, surrounded by his brethren, and was declared a Doctor of the Church in 1899.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who enlightened Your Church through the learning and devotion of St. Bede, grant through his intercession that we may love the study of Scripture and find in it the wisdom that leads to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bede"
+  ],
+  "featured": false,
+  "draft": false
+}

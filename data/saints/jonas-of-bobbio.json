@@ -1,0 +1,29 @@
+{
+  "slug": "jonas-of-bobbio",
+  "name": "St. Jonas of Bobbio",
+  "feastDay": "05-28",
+  "bio": "Saint Jonas of Bobbio was a monk of the Columbanian tradition and one of the major Latin monastic authors of the early Middle Ages. He entered the monastic life under the influence of Saint Columbanus and the foundations that Irish monks had established on the continent, carrying forward their austere and learned way of seeking God.\n\nJonas is best remembered as a hagiographer. His Life of Saint Columbanus, written with care and drawing on the testimony of those who had known the great Irish missionary, is regarded as one of the most influential works of early medieval hagiography. Through it, the memory of Columbanus and the spirit of the Columbanian foundations were preserved for the Church.\n\nHe also wrote lives of other holy figures of his age, leaving a body of work that has shaped our understanding of seventh-century monasticism. His feast is kept on May 28.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Jonas of Bobbio the gift of setting down the lives of your holy ones for the building up of your Church, grant through his intercession that writers may labor in fidelity to truth and that all who read may be drawn to the example of the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jonas_of_Bobbio"
+  ],
+  "featured": false,
+  "draft": false
+}

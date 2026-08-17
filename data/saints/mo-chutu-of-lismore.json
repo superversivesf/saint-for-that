@@ -1,0 +1,25 @@
+{
+  "slug": "mo-chutu-of-lismore",
+  "name": "St. Mo Chutu of Lismore",
+  "feastDay": "05-14",
+  "bio": "Mo Chutu mac Fínaill, also known as Mochuda, Carthach, or Carthach the Younger, was an Irish abbot and monastic founder of the early medieval Church. He served as abbot of Rahan in County Offaly, guiding a flourishing community there until political and ecclesiastical pressures drove him from his see. Undaunted, he traveled south and founded the great monastery of Lismore in County Waterford, which became one of the most renowned schools and centres of piety in Ireland. His Life survives in several Irish and Latin recensions, all deriving from a Latin original written in the eleventh or twelfth century, attesting to the enduring veneration in which he was held.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Mo Chutu the grace to begin again when his first foundation was taken from him, grant through his intercession that we may never despair in exile, but build anew wherever You lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mo_Chutu_of_Lismore"
+  ],
+  "featured": false,
+  "draft": false
+}

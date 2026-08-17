@@ -1,0 +1,29 @@
+{
+  "slug": "ursicinus-of-saint-ursanne",
+  "name": "St. Ursicinus of Saint-Ursanne",
+  "feastDay": "12-20",
+  "bio": "Saint Ursicinus was an Irish missionary and hermit who crossed the sea to bring the Gospel to the pagan lands of the Jura, in what is now Switzerland. Settling in the wild valleys along the river Birs, he lived as a solitary, his cell a place of prayer and encounter with God in the silence of the forest. Disciples gathered around him, and the town of Saint-Ursanne grew from his hermitage, taking its name from the saint whose bones it treasures. He is invoked against ailments of the neck, a tradition rooted in the devotion of centuries. His feast on 20 December is kept in the region that still bears his name. He stands among the Irish hermit-missionaries whose hidden labors planted the faith in the remote corners of the continent.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "back pain",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ursicinus to a life of prayer in the solitude of the Jura, grant through his intercession that we may find you in silence and be healed of our infirmities. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursicinus_of_Saint-Ursanne"
+  ],
+  "featured": false,
+  "draft": false
+}

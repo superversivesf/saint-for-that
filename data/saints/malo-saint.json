@@ -1,0 +1,25 @@
+{
+  "slug": "malo-saint",
+  "name": "St. Malo",
+  "feastDay": "11-15",
+  "bio": "Saint Malo, known in Latin as Maclovius or Machutus, was a Welsh monk of the mid-sixth century who became the founder of the city and diocese of Saint-Malo in Brittany, France. He was one of the seven founding saints of Brittany, that band of holy men who crossed from Wales and Cornwall to plant the monastic faith among the Armorican Britons. Ordained bishop, he shepherded the Christian community he gathered around his monastery and became known for his pastoral care and miracles. He is invoked as a patron of pig-keepers and of those who have lost things, and his name lives on in the great Breton city that bears it. He died in peace around the year 621.",
+  "patronages": [
+    {
+      "need": "lost items",
+      "category": "everyday"
+    },
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Malo across the sea to establish a see of faith in Brittany, grant through his intercession that what we have lost may be restored and that we may tend with care the charges You entrust to us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malo_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

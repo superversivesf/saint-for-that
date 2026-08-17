@@ -1,0 +1,29 @@
+{
+  "slug": "sophronius-of-jerusalem",
+  "name": "St. Sophronius of Jerusalem",
+  "feastDay": "unknown",
+  "bio": "Sophronius, called Sophronius the Sophist, served as Greek Patriarch of Aelia Capitolina, then Jerusalem, from 634 until his death. Before his elevation he was a monk and theologian, the chief defender of orthodox teaching on Christ's two wills, divine and human, against the Monothelite heresy. He is venerated as a saint in the Eastern Orthodox and Catholic Churches.\n\nSophronius is renowned for negotiating the surrender of Jerusalem to the Rashidun caliph Umar in 637 or 638, sparing the holy city from destruction and allowing Christian worship to continue. His patriarchate spanned the transition from Byzantine to Islamic rule. A writer of poetry and treatises, he is remembered as a defender of Christology and a wise pastor who guided the Church of Jerusalem through turbulent hours.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Sophronius to defend the truth of Your Son's divine and human wills and to shepherd the holy city of Jerusalem through days of conquest, grant through his intercession that we may hold fast to the orthodox faith and labor for the unity of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sophronius_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

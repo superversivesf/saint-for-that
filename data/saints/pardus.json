@@ -1,0 +1,25 @@
+{
+  "slug": "pardus",
+  "name": "St. Pardus",
+  "feastDay": "unknown",
+  "bio": "Saint Pardus is a Roman Catholic saint associated with Larino in the Molise region of Italy, where the cathedral itself is dedicated to him. The exact outlines of his life have faded into the long memory of the Church, but his cult endured among the people of Larino, who honored him as their heavenly protector and the patron of their principal church. In the towns and dioceses of southern Italy, saints such as Pardus were woven into the fabric of civic and religious life, their feasts marking the seasons and their shrines drawing the faithful in times of need. He is remembered as one of the saints who watched over a quiet Italian see and interceded for those who prayed at his altar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Pardus as a protector to the people of Larino and to all who pray at his shrine, grant through his intercession that we may be kept safe from every harm and steadfast in your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pardus"
+  ],
+  "featured": false,
+  "draft": false
+}

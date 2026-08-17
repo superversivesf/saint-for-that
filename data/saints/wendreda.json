@@ -1,0 +1,21 @@
+{
+  "slug": "wendreda",
+  "name": "St. Wendreda",
+  "feastDay": "01-22",
+  "bio": "Saint Wendreda, also known as Wendreth, was an Anglo-Saxon nun and healer, perhaps of the seventh century. According to uncertain tradition, she was a daughter of King Anna of East Anglia, a Christian monarch whose family produced an extraordinary flowering of holy women: her sisters included Etheldreda, abbess of Ely, Sexburgha, abbess of Minster-in-Sheppey, and Ethelburga, abbess of Faremoutiers, all better-known saints, and her half-sister Saethryth was also an abbess of Faremoutiers. In this remarkable lineage of royal nuns, Wendreda devoted herself to prayer and to the care of the sick. Her memory endured especially in March, Cambridgeshire, where she is honored as patron. The details of her life are sparse, but the Church has kept her feast on January 22 and remembers her as a healer of bodies and souls.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Wendreda the gift of healing and a heart for the sick, grant through her intercession that all who suffer in body or mind may find relief and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wendreda"
+  ],
+  "featured": false,
+  "draft": false
+}

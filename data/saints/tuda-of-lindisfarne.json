@@ -1,0 +1,25 @@
+{
+  "slug": "tuda-of-lindisfarne",
+  "name": "St. Tuda of Lindisfarne",
+  "feastDay": "10-21",
+  "bio": "Saint Tuda of Lindisfarne was appointed to succeed Colman as Bishop of Lindisfarne in the aftermath of the Synod of Whitby, when the English Church stood at the crossroads between Celtic and Roman traditions. Though raised and formed in Ireland, Tuda was a staunch advocate of Roman practices: he wore the Roman tonsure and celebrated Easter according to the Roman computation. Yet he traveled to Ireland for his episcopal consecration, a sign of the deep bonds that joined the Irish and English churches even in disagreement. His pontificate lasted less than a year before plague carried him off, but in that brief time he labored to reconcile divided loyalties and shepherd his flock toward unity. He is remembered as a bridge between traditions and a pastor who sought communion above faction.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Tuda a heart for unity in a time of division, grant through his intercession that your Church may be one and that her shepherds may lead with wisdom and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tuda_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

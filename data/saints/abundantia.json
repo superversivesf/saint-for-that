@@ -1,0 +1,21 @@
+{
+  "slug": "abundantia",
+  "name": "St. Abundantia",
+  "feastDay": "01-19",
+  "bio": "Saint Abundantia, who lived from 783 to 804, was a Christian saint venerated in the early medieval Church. Though few details of her life have survived, her very name, meaning \"abundance,\" points to the fullness of grace she was believed to have received. She is counted among the holy ones of her age, a young woman whose brief life was offered to God. Her feast is kept on January 19, when the faithful remember her quiet witness among the saints of the early Carolingian era, an age rich in monastic and missionary holiness.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in Your saints show the abundance of Your grace, grant through the intercession of St. Abundantia that we may live with the fullness of love and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Abundantia"
+  ],
+  "featured": false,
+  "draft": false
+}

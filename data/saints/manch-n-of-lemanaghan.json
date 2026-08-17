@@ -1,0 +1,21 @@
+{
+  "slug": "manch-n-of-lemanaghan",
+  "name": "St. Manchán of Lemanaghan",
+  "feastDay": "unknown",
+  "bio": "Saint Manchán mac Silláin, known as Manchianus in Latin sources, was an early Irish saint and the patron of Liath Mancháin, now Lemanaghan, in County Offaly. The most reliable genealogy traces his descent from Rudraige Mór of Ulster through his father Sillán, and names his mother as Mella. He is not to be confused with the scholar Manchán, abbot of Min Droichit, though the two have often been conflated by later tradition. The monastery at Lemanaghan grew around his memory and became a place of pilgrimage and prayer in the Irish midlands. He is remembered as one of the many monastic founders of early Christian Ireland who sanctified the land through prayer and labor.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established St. Manchán as a father of prayer in the heart of Ireland, grant through his intercession that we may build in our own day communities rooted in faith and sustained by Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manch%C3%A1n_of_Lemanaghan"
+  ],
+  "featured": false,
+  "draft": false
+}

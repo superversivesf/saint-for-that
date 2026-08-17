@@ -1,0 +1,21 @@
+{
+  "slug": "abel-of-reims",
+  "name": "St. Abel of Reims",
+  "feastDay": "08-05",
+  "bio": "Abel served as Bishop of Reims in Francia, in what is now modern-day France, during the early medieval period. Though details of his life are sparse, he is remembered as a faithful pastor who governed the see of Reims with devotion. He has been venerated as a saint in the Catholic Church, particularly through the scholarly work of the Bollandists, who preserved the memory of many lesser-known saints of the early Middle Ages. His cult is modest but enduring, a witness to the many bishops of the early Church whose quiet fidelity has been all but forgotten by history.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Abel to shepherd Your people at Reims, grant through his intercession that bishops may govern with holiness and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abel_of_Reims"
+  ],
+  "featured": false,
+  "draft": false
+}

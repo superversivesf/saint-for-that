@@ -1,0 +1,25 @@
+{
+  "slug": "wendelin-of-trier",
+  "name": "St. Wendelin of Trier",
+  "feastDay": "10-22",
+  "bio": "Saint Wendelin of Trier was a hermit and abbot whose cult spread widely across the German-speaking lands. According to tradition, he was born of noble Scottish or Irish lineage and traveled as a pilgrim to Rome before settling in the region of Trier. There he lived as a solitary, drawing disciples who gathered around his holiness, and eventually he was made abbot of a community. His hagiography emphasizes his care for animals and fields, and for centuries he has been invoked as a patron of country folk and herdsmen. Honored on October 22, he became one of the best-loved rural saints of the Rhineland and the German countryside. Devotion to him spread through the farms and villages of central Europe, where his intercession was sought for the flocks and the harvest.",
+  "patronages": [
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Wendelin a gentle shepherd of flocks and a gatherer of souls, grant through his intercession that all who labor in field and pasture may see their work blessed and their families provided for. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wendelin_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

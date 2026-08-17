@@ -1,0 +1,25 @@
+{
+  "slug": "judicael",
+  "name": "St. Judicael",
+  "feastDay": "12-16",
+  "bio": "Saint Judicael, also spelled Judhael, was King of Domnonee, a realm of Brittany, in the mid-seventh century. Born to royal blood in a Christian land, he ruled with justice and was remembered by his people as a wise and peaceable prince.\n\nYet the call of another kingdom pressed upon him. Judicael renounced his throne and withdrew to a monastery, exchanging the crown of an earthly kingdom for the lowly habit of a monk. He gave himself to prayer and penance in the Breton monasteries that were the glory of his age, seeking the face of God in silence.\n\nHe is revered as a saint in the Roman Catholic tradition, his major shrine at Gael in Brittany, and his feast is kept on December 16. He is remembered as a king who understood that the riches of this world are as nothing beside the treasure of heaven.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Judicael to lay down his crown and take up the habit of a monk, grant through his intercession that we may set the treasure of heaven above every prize of this world and seek your face in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Judicael"
+  ],
+  "featured": false,
+  "draft": false
+}

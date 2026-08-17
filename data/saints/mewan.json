@@ -1,0 +1,25 @@
+{
+  "slug": "mewan",
+  "name": "St. Mewan",
+  "feastDay": "06-21",
+  "bio": "Mewan, known in Breton as Meven, was a Celtic saint of the early medieval age whose missionary zeal carried him across Wales, Cornwall, and Brittany. Most of what is known of his life comes from the Breton Vita Meveni, traditionally attributed to the writer Ingamar around 1084. Like many Celtic saints of his era, Mewan traveled and preached among pagan peoples, founding churches and monastic settlements that preserved the faith in uncertain times. His cult flourished especially in Brittany, where parishes and place-names still bear witness to his memory, and he is honored as one of the missionary saints who carried Christianity across the seas.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Mewan across the seas to preach the Gospel among the Celtic peoples, grant through his intercession that we may carry the light of faith wherever we go. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mewan"
+  ],
+  "featured": false,
+  "draft": false
+}

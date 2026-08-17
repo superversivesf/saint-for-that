@@ -1,0 +1,25 @@
+{
+  "slug": "maxellende-of-caudry",
+  "name": "St. Maxellende of Caudry",
+  "feastDay": "unknown",
+  "bio": "Saint Maxellende was a thaumaturgist saint and martyr of Caudry, in the diocese of Cambrai in northern France. According to tradition she was a young Christian noblewoman who refused an arranged marriage to a pagan suitor and was slain for her faith and her chastity, joining the ranks of the virgin martyrs of the early medieval Church. She has been invoked for centuries for relief from diseases of the eyes, and pilgrims came to her shrine seeking the restoration of sight both bodily and spiritual. She is remembered as a youthful confessor of Christ who chose death rather than betray her vow, and as a heavenly patron of those who suffer affliction of the eyes.",
+  "patronages": [
+    {
+      "need": "eye diseases",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Maxellende with the palm of martyrdom and made her an instrument of healing for the afflicted, grant through her intercession that our eyes may be opened to Your truth and our hearts kept pure. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maxellende_of_Caudry"
+  ],
+  "featured": false,
+  "draft": false
+}

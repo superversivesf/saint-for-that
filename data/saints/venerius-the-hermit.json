@@ -1,0 +1,25 @@
+{
+  "slug": "venerius-the-hermit",
+  "name": "St. Venerius the Hermit",
+  "feastDay": "09-13",
+  "bio": "Saint Venerius was a monk and hermit of the Italian coast, venerated by the Catholic Church as a man of deep prayer and quiet fidelity. The traditions concerning his life are uncertain, yet his memory endured along the shores of the Gulf of La Spezia, where he is honored as the patron of those waters. In 1961 his patronage was extended to lighthouse keepers, a fitting tribute to a saint whose intercession is sought by those who watch and pray in the darkness. His hermitage, associated with the island of Tino at the mouth of the gulf, became a place of pilgrimage. He is remembered as a guardian of sailors and coastal folk, a contemplative whose solitude was offered for the safety of those who go down to the sea in ships.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Venerius a watcher in the darkness and a patron of those who go down to the sea, grant through his intercession that we may be kept safe in every storm and guided to the harbor of your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venerius_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pelinus",
+  "name": "St. Pelinus",
+  "feastDay": "12-05",
+  "bio": "Saint Pelinus of Brindisi was a Basilian monk in southern Italy who was later consecrated bishop of Brindisi. He lived during the turbulent seventh century, when the Byzantine provinces of Italy were under constant threat from invasion and internal strife. As a Basilian, he embraced a life of prayer, fasting, and liturgical worship according to the Eastern rite then prevalent in the region. As bishop, he shepherded his flock with diligence, defending the faith and tending to the spiritual and material needs of his people during a time of great uncertainty.\n\nAccording to tradition, Pelinus was martyred at Corfinio, in the Vestine region, likely during a period of anti-Christian hostility or political upheaval. His relics were venerated by the faithful, and he was formally recognized as a saint in the year 668. His feast is kept on December 5. Though historical details are sparse, his witness as a monk-bishop who gave his life for the faith has endured in the liturgical memory of the Church in southern Italy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Pelinus with the glory of martyrdom as he faithfully shepherded the church of Brindisi, grant through his intercession that all bishops may be courageous witnesses to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelinus"
+  ],
+  "featured": false,
+  "draft": false
+}

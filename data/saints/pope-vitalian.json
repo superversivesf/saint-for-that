@@ -1,0 +1,25 @@
+{
+  "slug": "pope-vitalian",
+  "name": "St. Vitalian",
+  "feastDay": "01-27",
+  "bio": "Pope Vitalian governed the Church of Rome from 30 July 657 until his death in 672, a pontificate marked by the long dispute over Monothelitism—the teaching that Christ possessed only a single will. Rome condemned the error, and Vitalian labored to resolve the conflict with the imperial court in Constantinople, seeking both fidelity to doctrine and peace within the Church. His conciliatory relationship with Emperor Constans II, who visited Rome and bestowed gifts upon him, was a rare warmth in a strained era. His reign also saw the secession of the Archbishopric of Ravenna from papal authority, a wound he endured with patience. He is remembered as a pope who sought unity in a divided age, holding fast to the faith while reaching across the divisions that scarred the body of Christ.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Vitalian the grace to seek unity in a time of strife, grant through his intercession that your Church may be one and that her shepherds may hold fast to the truth in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Vitalian"
+  ],
+  "featured": false,
+  "draft": false
+}

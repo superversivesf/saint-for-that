@@ -1,0 +1,25 @@
+{
+  "slug": "patricia-of-naples",
+  "name": "St. Patricia of Naples",
+  "feastDay": "08-25",
+  "bio": "Patricia of Naples is an Italian virgin and saint whose memory is bound to the city that bears her name. Tradition holds that she was of noble birth, and some sources trace her lineage to the imperial family, even suggesting descent from Constantine the Great. Fleeing the world to consecrate herself to Christ, she became one of the beloved patrons of Naples, where her shrine was honored by generations of the faithful. The particulars that come down through tradition are in places unreliable and even contradictory, yet her cult endured, and the people of Naples turned to her in times of plague and peril, confident in the prayers of a virgin who chose heaven over the splendor of her house.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Patricia to forsake the nobility of earth for the higher nobility of consecrated virginity, grant through her intercession that all who seek you with an undivided heart may find in you their joy and their shield. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patricia_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

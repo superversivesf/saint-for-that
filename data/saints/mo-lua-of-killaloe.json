@@ -1,0 +1,25 @@
+{
+  "slug": "mo-lua-of-killaloe",
+  "name": "St. Mo Lua of Killaloe",
+  "feastDay": "08-04",
+  "bio": "Saint Molua, also called Mo Lua, was an Irish saint and Christian abbot of the early Middle Ages. He founded a monastery at Killaloe in County Clare on the banks of the Shannon, a house that would give its name to the diocese and that became a centre of learning and prayer in the Irish Church. Tradition tells of his deep humility and his gift for attracting disciples who sought a life of austerity and devotion. His feast day is kept on 4 August, and he is venerated both in the Catholic Church and the Eastern Orthodox Church, a sign of the wide reach of the Irish monastic tradition. He is remembered as a father of monks and a patron of those who seek God in simplicity.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mo Lua to found a house of prayer on the Shannon and to gather disciples in simplicity, grant through his intercession that we may seek You with humble hearts and build communities of learning and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mo_Lua_of_Killaloe"
+  ],
+  "featured": false,
+  "draft": false
+}

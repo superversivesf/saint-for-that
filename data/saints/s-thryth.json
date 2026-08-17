@@ -1,0 +1,25 @@
+{
+  "slug": "s-thryth",
+  "name": "St. Sæthryth",
+  "feastDay": "unknown",
+  "bio": "Sæthryth, also known as Sedrido, Sethrida, or Saethrid, was an Anglo-Saxon saint of the seventh century, remembered as the stepdaughter of King Anna of East Anglia. King Anna was a devout Christian ruler whose family produced several saints, and his household was a center of faith and learning in the early English church. Sæthryth grew up in this pious environment, surrounded by women who devoted themselves to God and to the monastic life that was beginning to flourish in the Anglo-Saxon kingdoms.\n\nAccording to tradition, Sæthryth embraced the religious life and entered a monastery, where she lived in prayer and service. The women of Anna's family were among the earliest English saints to be venerated for their holiness, and Sæthryth's place among them testifies to the importance of royal women in the foundation of the English church. Though few details of her life survive, her name has been preserved in the calendars and martyrologies that record the saints of Anglo-Saxon England. Her witness as a woman who chose the cloister over the court remains a quiet testimony to the spiritual ferment of the early English church.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Sæthryth from a royal household to the quiet of the cloister, grant through her intercession that all women who seek You in religious life may find joy in their vocation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/S%C3%A6thryth"
+  ],
+  "featured": false,
+  "draft": false
+}

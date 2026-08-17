@@ -1,0 +1,29 @@
+{
+  "slug": "judoc",
+  "name": "St. Judoc",
+  "feastDay": "01-09",
+  "bio": "Saint Judoc, known also as Jodoc, Joyce, or Josse, was a seventh-century Breton noble, a son of Juthael, King of Brittany. Born to wealth and high station, he heard the Gospel's call to renounce all and follow Christ, and he answered it.\n\nJudoc gave up his inheritance and his place at court, was ordained to the priesthood, and withdrew to live alone for the rest of his life in a coastal forest near the mouth of the River Canche. There, in solitude and prayer, he sought God far from the honors of the world he had left behind.\n\nHis hermitage drew pilgrims even in his lifetime, and after his death the place became a famous shrine. He is invoked by those who seek to renounce worldly ambition and by pilgrims on the road. His feast is kept on January 9.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Judoc to leave behind the court of his fathers and to seek you alone in the forest by the sea, grant through his intercession that we may renounce what hinders us from following Christ and find in prayer the home we long for. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Judoc"
+  ],
+  "featured": false,
+  "draft": false
+}

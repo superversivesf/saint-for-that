@@ -1,0 +1,25 @@
+{
+  "slug": "vulgan",
+  "name": "St. Vulgan",
+  "feastDay": "11-02",
+  "bio": "Saint Vulgan, also known as Wulgan, was an English evangelizer and hermit of the seventh century. Very little is known of his life, and some scholars have even questioned whether he existed as a historical figure; what survives is the memory of a man who brought the Christian faith to the folk of the wilder parts of the island and then withdrew to a life of solitary prayer. His name is preserved in the traditions of the regions where he preached, and his feast is kept on November 2. He stands among that great company of early medieval hermits whose quiet holiness shaped the Church in Britain, even when the written record could not keep up with their sanctity. Venerated by both Catholics and Orthodox, he reminds us that the truest evangelization is often hidden and poor.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Vulgan from the solitude of hermitage to preach the Gospel to the unreached and then drew him back to silent prayer, grant through his intercession that we may be zealous in sharing the faith and constant in communion with you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vulgan"
+  ],
+  "featured": false,
+  "draft": false
+}

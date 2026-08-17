@@ -1,0 +1,25 @@
+{
+  "slug": "adela-of-pfalzel",
+  "name": "St. Adela of Pfalzel",
+  "feastDay": "01-03",
+  "bio": "Adela of Pfalzel, also called Adula or Adolana, was a Frankish noblewoman, abbess, and Catholic saint. She was the daughter of King Dagobert II and sister of Saint Irmina of Oeren. She married a nobleman named Alberic, but after his death she turned her heart to God and entered the Benedictine monastery of Pfalzel, near Trier. She may have been the monastery's founder and first abbess, guiding a community of women in prayer and the Rule of St. Benedict. She died in Pfalzel in 735. Her feast is kept on January 3 in the Catholic Church, and on December 24 in the Orthodox tradition.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Adela from a noble house to serve You in the cloister, grant through her intercession that we may place You above all earthly ties. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adela_of_Pfalzel"
+  ],
+  "featured": false,
+  "draft": false
+}

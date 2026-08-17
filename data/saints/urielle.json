@@ -1,0 +1,21 @@
+{
+  "slug": "urielle",
+  "name": "St. Urielle",
+  "feastDay": "10-01",
+  "bio": "Saint Urielle—also called Eurielle, Curielle, or Arielle—is venerated as a saint of Armorica in the Celtic region of Brittany, where her memory is woven into the tapestry of Breton holiness. The traditions concerning her are ancient and veiled in legend, placing her among the wave of Celtic saints who crossed from Britain to the Armorican peninsula in the early medieval period. Little can be established with historical certainty, yet the devotion of the Breton people has kept her name alive in chapels, springs, and local piety across the centuries. She stands among the shadowed company of saints whose lives are known more by the faith they inspired than by the records they left, a reminder that holiness is sometimes preserved in the heart of a people rather than in a chronicle's pages.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Urielle among the faithful of Brittany, grant through her intercession that those who walk in simplicity may find their way to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Urielle"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "theodard-of-maastricht",
+  "name": "St. Theodard of Maastricht",
+  "feastDay": "09-10",
+  "bio": "Theodard of Maastricht, also known as Theodard of Tongeren, was a seventh-century bishop of Maastricht in the Low Countries who shepherded the Church in a frontier region between the Frankish kingdoms and the pagan peoples to the north. He was murdered while on his way to protest the plundering of his diocese by Frankish nobles, a death that earned him the crown of martyrdom and made him one of the earliest martyr-bishops of the Low Countries. His feast day is September 10.\n\nTheodard was the uncle of his successor, Saint Lambert of Maastricht, and brother or brother-in-law to Robert II, Lord Chancellor of France. He has long been invoked as a patron of drovers and cattle dealers, the rural laborers of the Low Countries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Theodard the courage to defend his flock even unto death, grant through his intercession that all who labor honestly may be protected from injustice and that Your Church may be served by faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodard_of_Maastricht"
+  ],
+  "featured": false,
+  "draft": false
+}

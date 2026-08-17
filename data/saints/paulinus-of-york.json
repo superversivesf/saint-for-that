@@ -1,0 +1,29 @@
+{
+  "slug": "paulinus-of-york",
+  "name": "St. Paulinus of York",
+  "feastDay": "10-10",
+  "bio": "Paulinus was a Roman missionary and the first Bishop of York, sent as a member of the Gregorian mission dispatched in 601 by Pope Gregory I to Christianize the Anglo-Saxons from their native paganism. He arrived in England by 604 with the second missionary group, and little is recorded of his activities in the following two decades. His ministry came to prominence when he accompanied the Christian princess Ethelburga north to the kingdom of Northumbria, where his preaching won the baptism of King Edwin and many of his people. After Edwin's death in battle, Paulinus returned south, serving out his days as Bishop of Rochester. His feast on the tenth of October honors one of the pioneers who brought the Gospel to the English.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Paulinus from Rome to the far north of England to preach the Gospel to the Anglo-Saxons, grant through his intercession that missionaries may carry your word to every people and nation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paulinus_of_York"
+  ],
+  "featured": false,
+  "draft": false
+}

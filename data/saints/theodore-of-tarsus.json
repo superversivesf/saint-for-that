@@ -1,0 +1,37 @@
+{
+  "slug": "theodore-of-tarsus",
+  "name": "St. Theodore of Tarsus",
+  "feastDay": "09-19",
+  "bio": "Theodore of Tarsus served as Archbishop of Canterbury from 668 to 690, becoming one of the most consequential figures in shaping the early English Church. He grew up in Tarsus, the city of Saint Paul, but fled to Constantinople after the Persians conquered Tarsus and other cities of the eastern Roman world. He later relocated to Rome, where Pope Vitalian consecrated him at sixty-six and sent him to Kent.\n\nTheodore is best known for his reform of the English Church and for establishing a school at Canterbury that became a center of learning, producing scholars versed in Scripture, Greek, and Latin. He traveled through England, consecrating bishops and organizing the diocesan structure with a thoroughness that endured for centuries. He died in 690. His feast is September 19.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Theodore of Tarsus from the city of Saint Paul to renew the Church of England and establish a school of sacred learning, grant through his intercession that Your Church may be ever reformed, educated, and united. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_Tarsus"
+  ],
+  "featured": false,
+  "draft": false
+}

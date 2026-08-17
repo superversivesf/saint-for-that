@@ -1,0 +1,25 @@
+{
+  "slug": "s-bbi-of-essex",
+  "name": "St. Sæbbi of Essex",
+  "feastDay": "unknown",
+  "bio": "Sæbbi was a seventh-century king of Essex, the son of Sexred, who ruled jointly with his cousin Sighere from 664 until approximately 683. After Sighere's death, Sæbbi became the sole ruler of Essex, governing the Anglo-Saxon kingdom until his abdication in 694. His long reign spanned a formative period in the Christianization of the English kingdoms, when the faith established by Augustine of Canterbury was taking root among the peoples of Britain.\n\nAccording to tradition, Sæbbi was a pious and just ruler, known for his devotion to God even while wielding royal power. After decades of governance, he chose to lay aside his crown and retire to a monastery, embracing the religious life he had long desired. He abdicated in 694 and entered a monastery, where he devoted his remaining days to prayer and penance as a monk. His son succeeded him on the throne, but it was the father's renunciation of worldly power for the sake of the kingdom of heaven that earned him a place among the saints.\n\nHis witness as a king who sought holiness above power has been remembered by the Church, and he is venerated as a model of humble rulership.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Sæbbi to lay aside the crown of Essex for the habit of a monk, grant through his intercession that all who hold worldly power may seek first the kingdom of heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/S%C3%A6bbi_of_Essex"
+  ],
+  "featured": false,
+  "draft": false
+}

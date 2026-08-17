@@ -1,0 +1,21 @@
+{
+  "slug": "john-the-good-bishop-of-milan",
+  "name": "St. John the Good",
+  "feastDay": "01-02",
+  "bio": "Saint John the Good, also known as John Camillus, served as Archbishop of Milan from about 641 until his death in 669. He presided over the great Ambrosian see in a difficult century for northern Italy, when Lombard rule, war, and plague pressed heavily upon the Church and its people.\n\nLittle detail has survived of his particular labors, but his title, \"the Good,\" speaks of the reputation he earned among the faithful of Milan: a bishop remembered for the integrity of his life and for the care he gave to his flock. He followed in the long line of holy archbishops of Milan that includes Saint Ambrose himself.\n\nHe is honored as a saint both in the Eastern Orthodox Church and in the Roman Catholic Church, and his feast is kept on January 2.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint John the Good to the see of Milan as a bishop of integrity and care, grant through his intercession that those who govern your Church may follow the example of the shepherds who went before them in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Good_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

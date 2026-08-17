@@ -1,0 +1,25 @@
+{
+  "slug": "rabban-hormizd",
+  "name": "St. Rabban Hormizd",
+  "feastDay": "unknown",
+  "bio": "Rabban Mar Hormizd was a seventh-century monk who lived in the rugged hills of northern Iraq, in the region of Alqosh. The title \"Rabban,\" the Syriac and Aramaic word for monk and teacher, reflects his role as a spiritual master in the Church of the East, the ancient Christian community of Mesopotamia. He devoted himself to the ascetic life, withdrawing to the mountainous wilderness to pray, fast, and seek God in solitude.\n\nRabban Hormizd founded the monastery that bears his name, the Rabban Hormizd Monastery in Alqosh, carved into the side of a mountain and still standing as one of the most significant monuments of Syriac Christian heritage. The monastery served for a time as the patriarchal seat of the Church of the East, and its monks preserved the liturgical, theological, and literary traditions of the Syriac-speaking church through centuries of hardship.\n\nHis foundation became a beacon of monastic life and learning in the region, drawing monks and pilgrims who sought to live according to his example of prayer and discipline. His enduring legacy is the survival of the monastery itself, which continues to witness to the faith of its founder.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Rabban Hormizd to the life of a monk and teacher in the wilderness of Mesopotamia, grant through his intercession that all who seek You in prayer and silence may find the fullness of Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rabban_Hormizd"
+  ],
+  "featured": false,
+  "draft": false
+}

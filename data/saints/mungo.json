@@ -1,0 +1,29 @@
+{
+  "slug": "mungo",
+  "name": "St. Mungo",
+  "feastDay": "01-13",
+  "bio": "Kentigern, known affectionately as Mungo, meaning \"dear one,\" was a missionary in the Brittonic Kingdom of Strathclyde in the late sixth century and the founder and patron saint of the city of Glasgow. Tradition holds that he was of royal lineage and was raised under the care of a holy bishop before undertaking his own ministry among the peoples of southern Scotland. He established a church and monastic community on the Clyde, around which the city of Glasgow would grow, and preached the Gospel in a land still marked by older pagan ways. Honored across Scotland and especially at Penicuik, his memory endured through the salmon, the bell, the tree, and the bird that became his symbols, and he is invoked by those who suffer injustice and false accusation.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "impossible causes",
+      "category": "everyday"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mungo to found your Church beside the Clyde and to shepherd the people of Strathclyde, grant through his intercession that all who suffer false accusation or injustice may find in you their defender. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Mungo"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rumbold-of-buckingham",
+  "name": "St. Rumbold of Buckingham",
+  "feastDay": "11-03",
+  "bio": "Rumbold, or Rumwold, was a medieval infant saint of England whose remarkable legend has captured the imagination of the faithful for centuries. According to tradition, he lived for only three days in the year 662, yet in that brief span he displayed a piety far beyond his years. The legends relate that he was able to speak from the moment of his birth, professing the Christian faith, requesting baptism, and even delivering a sermon before his death. Such tales, though clearly hagiographic, point to the deep Christian conviction that God can work through the most unlikely vessels and that holiness is not bound by age or human expectation.\n\nSeveral churches were dedicated to Rumbold in medieval England, of which at least four survive, including one at Pentridge in Dorset. The very existence of these dedications attests to the spread of his cult and the devotion he inspired among the common people. His feast is kept on November 3.\n\nRumbold stands as a witness to the sanctity of innocence and to the belief that the smallest and most vulnerable among us can be vessels of God's grace.",
+  "patronages": [
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "children",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the infant St. Rumbold gave a sign of the holiness that surpasses understanding, grant through his intercession that the youngest and most vulnerable among us may be kept safe in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rumbold_of_Buckingham"
+  ],
+  "featured": false,
+  "draft": false
+}
