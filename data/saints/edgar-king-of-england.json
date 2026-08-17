@@ -1,0 +1,33 @@
+{
+  "slug": "edgar-king-of-england",
+  "name": "St. Edgar, King of England",
+  "feastDay": "unknown",
+  "bio": "Edgar, also known as Edgar the Peaceful, the Peacemaker, and the Peaceable, was King of the English from 959 until his death in 975. The younger son of King Edmund I, he became king of all England on the death of his brother Eadwig and ruled during a period of consolidation and monastic renewal. He was a great patron of the monastic reform led by St. Dunstan, St. Æthelwold, and St. Oswald, founding and endowing monasteries and restoring ecclesiastical discipline after years of decline. A detailed account of his reign is not possible, because only a few events were recorded by chroniclers, who were more interested in recording the activities of the leaders of the Church. He was honored for the peace and unity he brought to the realm and for his support of the Church in England.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Edgar the wisdom to govern his realm in peace and to nurture the reform of Your Church, grant through his intercession that rulers may seek justice and the flourishing of holy religion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edgar%2C_King_of_England"
+  ],
+  "featured": false,
+  "draft": false
+}

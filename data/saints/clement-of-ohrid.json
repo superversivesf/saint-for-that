@@ -1,0 +1,33 @@
+{
+  "slug": "clement-of-ohrid",
+  "name": "St. Clement of Ohrid",
+  "feastDay": "07-27",
+  "bio": "Saint Clement of Ohrid was one of the first medieval Bulgarian saints and a scholar, writer, and apostle to the Slavs. A disciple of Saints Cyril and Methodius, he followed them on their mission to the Slavic peoples and carried forward their work of translating Scripture and the liturgy into the language of the people. He is closely associated with the creation and spread of the Glagolitic and Cyrillic scripts among the Christianized Slavs.\n\nClement founded the Ohrid Literary School, which became a great center of learning and Christian formation. He was consecrated the first bishop of the Bulgarian Orthodox Church and is numbered among the Seven Apostles of Bulgaria. His teaching and his work of translation transformed the Slavs of the region and helped shape the Christian identity of the Bulgarian and Macedonian peoples.\n\nHe died around 916 and is venerated as the patron saint of Ohrid, of North Macedonia, and of the Macedonian Orthodox Church. His feast is kept on July 27.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Clement of Ohrid to teach the Slavic peoples in their own tongue and to make known to them the wisdom of Your word, grant through his intercession that all teachers and translators may labor faithfully for the spread of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clement_of_Ohrid"
+  ],
+  "featured": false,
+  "draft": false
+}

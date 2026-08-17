@@ -1,0 +1,29 @@
+{
+  "slug": "gobron",
+  "name": "St. Gobron",
+  "feastDay": "11-17",
+  "bio": "Saint Gobron, also known as Mikel-Gobron, was a Georgian Christian military commander who led the defense of the fortress of Q'ueli against the forces of the Sajid emir of Azerbaijan. After a twenty-eight-day siege the fortress fell, and Gobron was captured. He was repeatedly urged to renounce Christ and embrace Islam, but he refused every demand with steadfast courage. For his fidelity he was beheaded, and his martyrdom became the subject of a celebrated hagiographical work by Bishop Stephen of T'beti. Canonized by the Georgian Orthodox Church, he is commemorated on November 17 and is also mentioned in medieval Georgian and Armenian chronicles. He stands as a witness to the faith of those who choose death over apostasy.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gobron strength to choose death rather than deny the faith, grant through his intercession that all who face persecution may stand firm in Christ and that the Church may never cease to witness to your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gobron"
+  ],
+  "featured": false,
+  "draft": false
+}

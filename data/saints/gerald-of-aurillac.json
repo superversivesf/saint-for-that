@@ -1,0 +1,29 @@
+{
+  "slug": "gerald-of-aurillac",
+  "name": "St. Gerald of Aurillac",
+  "feastDay": "10-13",
+  "bio": "Saint Gerald of Aurillac was a French nobleman of the early Middle Ages honored as a beloved saint of the Auvergne region. Born into the aristocracy, Gerald chose a life of unusual piety and charity, devoting his wealth to the poor and the Church. Though a layman of noble rank, he embraced humility and simplicity, and tradition holds that he preserved his purity and lived as a bachelor despite the expectations of his station. His compassion extended especially to those suffering bodily afflictions, and he became known as a protector of the disabled and the marginalized. Recognized by the Roman Catholic Church and other Christian denominations, his feast is kept on October 13. He remains a patron of bachelors, nobles, and those living with disabilities.",
+  "patronages": [
+    {
+      "need": "bachelors",
+      "category": "everyday"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "disabled people",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Gerald of Aurillac grace to live in nobility with humility and to serve the poor and the afflicted, grant through his intercession that those who bear disabilities may find dignity in your sight and that all may use their gifts for the good of others. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerald_of_Aurillac"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gebhard-of-constance",
+  "name": "St. Gebhard of Constance",
+  "feastDay": "08-27",
+  "bio": "Saint Gebhard served as Bishop of Constance from 979 until 995, leading one of the largest and most influential dioceses in the German-speaking world during the Ottonian era. In 983 he founded the Benedictine abbey of Petershausen, a house of prayer and monastic life that became a center of learning and devotion on the shores of Lake Constance. Gebhard governed his see with wisdom, promoting the reform of ecclesiastical life and fostering the monastic renewal that would shape the Church in southern Germany. His feast day is observed on August 27. He is honored as a patron of the regions of Constance and Vorarlberg, and as a model of the bishop who builds up the Church through prayer, foundation, and pastoral care.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Gebhard to found the abbey of Petershausen and to govern the see of Constance with wisdom, grant through his intercession that the monastic life may flourish and that bishops may build up your Church through prayer and pastoral care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gebhard_of_Constance"
+  ],
+  "featured": false,
+  "draft": false
+}

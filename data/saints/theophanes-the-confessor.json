@@ -1,0 +1,29 @@
+{
+  "slug": "theophanes-the-confessor",
+  "name": "St. Theophanes the Confessor",
+  "feastDay": "03-12",
+  "bio": "Theophanes the Confessor, also called Theophanes of the Great Field, was born into the Byzantine aristocracy and served in the court of Emperor Leo IV the Khazar. Drawn to the religious life, he left the court and became a monk and chronicler, devoting himself to prayer and learning.\n\nTheophanes attended the Second Council of Nicaea in 787, which affirmed the veneration of icons. When Emperor Leo V the Armenian revived iconoclasm, Theophanes boldly resisted and refused to renounce the holy images. For his fidelity he was imprisoned and endured harsh treatment. He died shortly after his release, faithful to the end.\n\nVenerated as a confessor of the faith, he is remembered for his courage in defending sacred tradition and for his Chronographia, a chronicle of world history from 284 to 813.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Theophanes the Confessor to defend the holy icons and endure imprisonment for the truth, grant through his intercession that we may hold fast to sacred tradition and never be ashamed to confess Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophanes_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

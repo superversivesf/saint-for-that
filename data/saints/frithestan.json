@@ -1,0 +1,29 @@
+{
+  "slug": "frithestan",
+  "name": "St. Frithestan",
+  "feastDay": "unknown",
+  "bio": "Frithestan was the Anglo-Saxon Bishop of Winchester from 909 until his resignation in 931. Consecrated during the great age of monastic reform in England, he served as a successor to St. Swithun and worked alongside St. Grimbald and other reforming churchmen in the Diocese of Winchester. He was remembered for his care of the poor, his generosity to religious houses, and his faithful administration of the see. After more than two decades as bishop he resigned his office in 931, retiring to live as a monk until his death. He was buried at Winchester, and his feast has long been kept locally on September 10. He is honored as a patient and humble pastor among the early bishops of the English Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Frithestan a faithful bishop and a humble monk in the Church of Winchester, grant through his intercession that those who hold office may serve with patience and resign with peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frithestan"
+  ],
+  "featured": false,
+  "draft": false
+}

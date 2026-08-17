@@ -1,0 +1,29 @@
+{
+  "slug": "nunilo-and-alodia",
+  "name": "St. Nunilo and Alodia",
+  "feastDay": "10-22",
+  "bio": "Nunilo and Alodia were sisters and child martyrs of Huesca in north-eastern Spain, born of a religiously mixed family in the early Islamic period. Raised as Christians by their mother in the faith, they refused to abandon Christ and, around the year 851, laid down their lives for him. Their witness was recorded by St. Eulogius of Córdoba in the Memoriale Sanctorum, who tells how mixed families lived and suffered in those difficult times. Though later scholars have questioned details of their story, the sisters were added to the Roman Martyrology and are honored in the Mozarabic rite. They are remembered as youthful witnesses who chose Christ above all.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the child saints Nunilo and Alodia courage to confess Your name even unto death, grant through their intercession that all who are young in years may be strong in faith, and that those who suffer for the Gospel may be sustained by Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nunilo_and_Alodia"
+  ],
+  "featured": false,
+  "draft": false
+}

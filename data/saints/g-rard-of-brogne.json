@@ -1,0 +1,25 @@
+{
+  "slug": "g-rard-of-brogne",
+  "name": "St. Gérard of Brogne",
+  "feastDay": "10-03",
+  "bio": "Saint Gérard of Brogne was a Benedictine monk and abbot of the tenth century whose reforming zeal reshaped monastic life in the Low Countries. After founding Brogne Abbey in what is now Belgium, he went on to reform eighteen other monasteries according to the Rule of Saint Benedict, bringing discipline, prayer, and fidelity to communities that had grown lax. His work placed him among the great monastic reformers of his era, restoring the centrality of the liturgy, stability, and communal life to houses that had lost their fervor. Gérard's influence extended across the region of Namur, where he is still honored as a patron. His feast day is celebrated on October 3, and he is remembered as a model of the abbot who renews the Church by renewing the monastery.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who renewed the monastic life of the Low Countries through Saint Gérard of Brogne, grant through his intercession that religious houses may flourish in fidelity to their Rule and that all who seek reform may find courage in your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/G%C3%A9rard_of_Brogne"
+  ],
+  "featured": false,
+  "draft": false
+}

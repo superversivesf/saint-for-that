@@ -1,0 +1,29 @@
+{
+  "slug": "stephen-the-sabaite",
+  "name": "St. Stephen the Sabaite",
+  "feastDay": "unknown",
+  "bio": "Saint Stephen the Sabaite, also known as Stephen the Hymnographer, was a Christian monk of the eighth century born at Julis near Gaza. A nephew of Saint John of Damascus, he entered the great lavra of Mar Saba in the Judean wilderness and there spent a half-century in prayer, labor, and sacred learning. He is credited with composing hymns and canons that enriched the Byzantine liturgical tradition, reflecting the theological depth and poetic beauty of the Jerusalem rite. Venerated in the Eastern Orthodox Church as a holy monk and hymnographer, he is remembered as one who wedded contemplation to sacred art, giving the Church songs of praise still sung in monasteries today.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "poets",
+      "category": "everyday"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Stephen the Sabaite to hymn Your praise in the wilderness, grant through his intercession that our hearts may be lifted to You in song and our lives conformed to Your holy will. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_the_Sabaite"
+  ],
+  "featured": false,
+  "draft": false
+}

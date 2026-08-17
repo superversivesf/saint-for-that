@@ -1,0 +1,21 @@
+{
+  "slug": "riagail-of-bangor",
+  "name": "St. Riagail of Bangor",
+  "feastDay": "unknown",
+  "bio": "Riagail of Bangor, also known as Reghuil, served as abbot of the great monastery of Bangor in the ninth century. The Bangor community, founded in the sixth century, was one of the most renowned monastic houses of early medieval Ireland, a center of prayer, learning, and missionary zeal that sent monks across Ireland and to the continent.\n\nAs abbot, Riagail guided this venerable community through the uncertainties of an age of Viking raids and political upheaval. Little detail of his life survives, yet his memory was preserved among the monastic annals of Ireland as a faithful successor to a long line of holy abbots.\n\nHe died in the year 881, and is venerated as a guardian who sustained the spiritual and intellectual life of the Irish Church through centuries of trial.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Riagail to guide the monks of Bangor in an age of trial, grant through his intercession that all who lead communities of prayer may persevere in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Riagail_of_Bangor"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pope-leo-iv",
+  "name": "St. Leo IV",
+  "feastDay": "unknown",
+  "bio": "Pope Leo IV, a Roman by birth, governed the Church as bishop of Rome and leader of the Papal States from 10 April 847 until his death in 855. He came to the throne of Peter in an age of fear, when Saracen raiders had sacked the outskirts of Rome and desecrated the churches of Saints Peter and Paul. With unflagging zeal he repaired the damaged basilicas and raised the great Leonine Wall around Vatican Hill, fortifying the sacred precincts and sheltering the faithful who fled there. He gathered a league of Italian maritime cities and, through the celebrated sea Battle of Ostia, turned back the Saracen fleet and won deliverance for the city. remembered as a shepherd who defended his people in body as in soul, Leo IV died in 855 and was honored from antiquity as a saint.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Leo IV a defender of Your holy Church and an instrument of deliverance against those who would destroy her, grant through his intercession that all who labor on the sea and all who guard Your people from harm may be kept safe under Your protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_IV"
+  ],
+  "featured": false,
+  "draft": false
+}

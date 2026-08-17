@@ -1,0 +1,29 @@
+{
+  "slug": "william-of-gellone",
+  "name": "St. William of Gellone",
+  "feastDay": "05-28",
+  "bio": "William of Gellone, also known as William of Orange, was the second Duke of Toulouse from 790 until 811. A noble warrior and cousin of Charlemagne, he served with distinction in the Carolingian campaigns before turning his heart toward God.\n\nIn 804, William founded the abbey of Gellone, later known as Saint-Guilhem-le-Désert, in the valley of the Hérault. After retiring from public life, he embraced the monastic habit and spent his final years in prayer and penance within the community he had established.\n\nHe was canonized a saint in 1066 by Pope Alexander II. Venerated as a soldier who became a monk, he is remembered for his valor in battle and his humility in retirement.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. William of Gellone from the battlefield to the cloister, grant through his intercession that we may serve You with courage in this world and find peace in the life to come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/William_of_Gellone"
+  ],
+  "featured": false,
+  "draft": false
+}

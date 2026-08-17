@@ -1,0 +1,21 @@
+{
+  "slug": "fulcran",
+  "name": "St. Fulcran",
+  "feastDay": "02-13",
+  "bio": "Saint Fulcran served as bishop of Lodève in the Languedoc region of southern France, shepherding his diocese with pastoral devotion during the early medieval period. As a successor of the apostles, he governed the Church of Lodève with care, proclaiming the Gospel and ministering to the souls entrusted to his charge. Though the historical record preserves only brief details of his life, his memory endured for centuries among the faithful of the diocese, who venerated him as a holy pastor and faithful intercessor before God. His feast day is celebrated on February 13, when the local Church honors his episcopal stewardship and asks his prayers for the bishops and people of the region.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Fulcran to shepherd the diocese of Lodève with pastoral care, grant through his intercession that bishops may govern their flocks with holiness and that all the faithful may find in them true shepherds after the heart of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fulcran"
+  ],
+  "featured": false,
+  "draft": false
+}

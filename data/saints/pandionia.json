@@ -1,0 +1,29 @@
+{
+  "slug": "pandionia",
+  "name": "St. Pandionia",
+  "feastDay": "08-26",
+  "bio": "Pandionia was an Anglo-Saxon nun and Christian saint of the early medieval period. Little certain detail of her life has come down to us, but she is remembered as a virgin, possibly a martyr, who consecrated herself wholly to Christ in an age when the monastic life was a beacon of prayer and learning in England. Her feast is kept on 26 August. The ancient calendars honor her among the holy women who served God in the cloister, and her name was preserved in the litanies of the faithful. She is invoked as a patron of nuns and of those who seek to live a life of purity and prayer.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Pandionia to the consecrated life and to the witness of a holy virgin, grant through her intercession that all who serve You in the cloister may persevere in prayer, and that all who seek purity of heart may find their joy in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pandionia"
+  ],
+  "featured": false,
+  "draft": false
+}

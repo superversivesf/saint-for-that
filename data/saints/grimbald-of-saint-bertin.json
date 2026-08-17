@@ -1,0 +1,21 @@
+{
+  "slug": "grimbald-of-saint-bertin",
+  "name": "St. Grimbald of Saint-Bertin",
+  "feastDay": "07-08",
+  "bio": "Saint Grimbald was a ninth-century Benedictine monk of the Abbey of Saint-Bertin near Saint-Omer in northern France, a house renowned for its learning and sanctity during the Carolingian era. As a monk he devoted himself to the Opus Dei, the prayerful chant of the hours, and to the quiet labor of the cloister, embodying the Benedictine ideals of stability, obedience, and conversion of life. The Abbey of Saint-Bertin was one of the great monastic foundations of Flanders, and Grimbald's presence there contributed to its reputation as a center of devotion and learning. His feast day is celebrated on July 8, and he is remembered as a model of the Benedictine monk whose hidden life of prayer sanctifies the Church from within.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Grimbald to serve you in the Benedictine life of Saint-Bertin, grant through his intercession that monks and all who live by the Rule may persevere in prayer, obedience, and the quiet labor of the cloister. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grimbald_of_Saint-Bertin"
+  ],
+  "featured": false,
+  "draft": false
+}

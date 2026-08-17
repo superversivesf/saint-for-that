@@ -1,0 +1,25 @@
+{
+  "slug": "berno-of-cluny",
+  "name": "St. Berno of Cluny",
+  "feastDay": "01-13",
+  "bio": "Saint Berno of Cluny, also known as Berno of Baume, was the first abbot of the monastery of Cluny from its founding in 909 until his death in 927. A monk of noble birth, Berno had already governed the abbey of Baume-les-Messieurs when Duke William of Aquitaine placed the new foundation of Cluny under his care.\n\nBerno established the principles that would define the Cluniac reform: independence from lay control, strict adherence to the Rule of St. Benedict, and a rich liturgical life centered on prayer. Under his guidance Cluny became a model of monastic observance, and the reforms he began would be carried by his successors across Europe in the following centuries.\n\nHe is remembered as the father of a movement that reshaped Western monasticism, restoring discipline and devotion to houses that had grown lax.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Berno to found the monastery of Cluny and to renew monastic discipline, grant through his intercession that those who serve You in religious life may be faithful to their calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berno_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

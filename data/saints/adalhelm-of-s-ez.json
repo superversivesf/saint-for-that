@@ -1,0 +1,25 @@
+{
+  "slug": "adalhelm-of-s-ez",
+  "name": "St. Adalhelm of Séez",
+  "feastDay": "11-10",
+  "bio": "Adalhelm governed the diocese of Séez as its bishop for twenty-six years, beginning around 884, in a troubled age when the Church in Francia had to be rebuilt from the ruins of the Viking inroads. Before his elevation to the episcopate he had been a Benedictine monk and abbot at the abbey of Anisole, and he carried the monastic discipline of his cloister into the care of his diocese. Shepherding his clergy and people through decades of upheaval, he labored to keep the faith alive and the churches standing. His feast is kept on 10 November. He is remembered as a patient pastor who joined the virtues of a monk to the duties of a bishop, and who steadied the Church of Séez through a long and difficult episcopate.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who joined in St. Adalhelm the graces of a monk and the care of a bishop, grant through his intercession that pastors may govern Your people with the discipline of the cloister and the love of the Good Shepherd. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalhelm_of_S%C3%A9ez"
+  ],
+  "featured": false,
+  "draft": false
+}

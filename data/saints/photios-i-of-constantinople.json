@@ -1,0 +1,25 @@
+{
+  "slug": "photios-i-of-constantinople",
+  "name": "St. Photios I of Constantinople",
+  "feastDay": "02-06",
+  "bio": "Photios I of Constantinople served as Ecumenical Patriarch from 858 to 867 and again from 877 to 886, and is recognized in the Eastern Orthodox Church as Saint Photius the Great. Born into a distinguished Constantinopolitan family around 810, Photios received the finest education of his age and became one of the most learned men of the Byzantine world.\n\nDuring his patriarchate he was thrust into the conflicts between Constantinople and Rome, yet his greatest legacy is scholarly: his Bibliotheca preserved summaries of hundreds of ancient works otherwise lost, and his Mystagogy of the Holy Spirit remains a foundational text of Eastern theology.\n\nHonored on February 6, Photios is remembered as a teacher whose learning served the Church and helped define the tradition of the Christian East.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed Your bishop Photios with wisdom to teach and defend the faith, grant through his intercession that all who seek truth may find it in Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Photios_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

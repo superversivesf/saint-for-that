@@ -1,0 +1,25 @@
+{
+  "slug": "gunther-of-bohemia",
+  "name": "St. Gunther of Bohemia",
+  "feastDay": "unknown",
+  "bio": "Saint Gunther was a Bavarian Catholic hermit and diplomat whose life bridged the cloister and the courts of early medieval Europe. Though he withdrew from the world to live as a hermit, his wisdom and personal holiness earned him the trust of rulers, and he played a significant role in the early history of Hungary and especially Bohemia through his relationships with their kings and princes. His diplomatic gifts were placed at the service of the Church and of peace among the peoples of Central Europe. Venerated as a saint in Czech, German, and Hungarian traditions, he is remembered as a model of the hermit whose solitude does not isolate him from the needs of the Church and the world. His feast day is observed on October 9.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gunther a hermit in the world and a servant of peace among the rulers of Bohemia and Hungary, grant through his intercession that those who withdraw into prayer may still be instruments of your peace and reconciliation in the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gunther_of_Bohemia"
+  ],
+  "featured": false,
+  "draft": false
+}

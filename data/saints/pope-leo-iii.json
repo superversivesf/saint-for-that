@@ -1,0 +1,25 @@
+{
+  "slug": "pope-leo-iii",
+  "name": "St. Leo III",
+  "feastDay": "06-12",
+  "bio": "Pope Leo III governed the Church of Rome as bishop of the city and ruler of the Papal States from 26 December 795 until his death on 12 June 816. Chosen to succeed Adrian I, he shepherded the Roman flock through a turbulent age marked by political rivalries and threats to the unity of the Church. His pontificate is remembered above all for the coronation of Charlemagne as Emperor of the Romans on Christmas Day of the year 800, an act that renewed the ideal of Christian empire and bound the see of Peter to the emerging Christian order of the West. Leo endured violent assault from Roman conspirators who sought to disfigure and depose him, yet he returned under Frankish protection and governed the Church with resolve. Venerated from antiquity as a saint, his feast is kept on 12 June.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Leo III a steadfast shepherd of the Roman Church and called him to renew the Christian order of the West, grant through his intercession that all bishops may preside over their flock with wisdom and that the unity of Your Church may be preserved. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_III"
+  ],
+  "featured": false,
+  "draft": false
+}

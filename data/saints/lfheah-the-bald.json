@@ -1,0 +1,25 @@
+{
+  "slug": "lfheah-the-bald",
+  "name": "St. Ælfheah the Bald",
+  "feastDay": "03-12",
+  "bio": "Ælfheah the Bald is the name by which Ælfheah, the first English Bishop of Winchester of that name, is commonly known; he is sometimes also called Alphege, an older translation of his Old English name. He shepherded the see of Winchester in the Anglo-Saxon period, caring for the clergy and people of one of the chief dioceses of the English Church. Though the chronicles of his life are sparse, his memory was preserved among the saints of early England, and his feast is kept on 12 March. He is distinguished from a later martyr-bishop of the same name, and his nickname \"the Bald\" marks him out in the roll of the English saints. He is remembered as a faithful pastor of the Church in Winchester in the first generations of the English Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ælfheah the Bald to shepherd the Church of Winchester in the days of early England, grant through his intercession that bishops may guard the faith of their people and that the saints of every age may be remembered with gratitude. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfheah_the_Bald"
+  ],
+  "featured": false,
+  "draft": false
+}

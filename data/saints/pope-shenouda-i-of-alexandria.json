@@ -1,0 +1,29 @@
+{
+  "slug": "pope-shenouda-i-of-alexandria",
+  "name": "St. Shenouda I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Shenouda I of Alexandria was the 55th Coptic Pope and Patriarch of the See of Saint Mark, serving from 859 to 880. Before his election to the patriarchal throne, he served as oikonomos of the Monastery of Saint Macarius in the Wadi al-Natrun, where he learned the disciplines of monastic life and humble administration. One of his early acts as patriarch was to improve the freshwater supply to Alexandria, showing pastoral concern for the practical needs of his people. He was described as a model of monastic humility who prayed regularly for the forgiveness of his enemies. He is commemorated in the Coptic Synaxarion on the first day of Baramudah.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Shenouda a model of monastic humility and a faithful shepherd of Your Church in Alexandria, grant through his intercession that we may pray for our enemies and serve Your people with selfless love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Shenouda_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

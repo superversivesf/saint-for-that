@@ -1,0 +1,29 @@
+{
+  "slug": "nikephoros-i-of-constantinople",
+  "name": "St. Nikephoros I of Constantinople",
+  "feastDay": "03-13",
+  "bio": "Nikephoros I was a learned Byzantine writer and servant of the Church who, after a distinguished career as a lay official, was raised to the throne of the Ecumenical Patriarchate of Constantinople on 12 April 806. A resolute defender of the holy icons, he opposed the iconoclast policies of Emperor Leo V and, at a council held in the palace in 815, was deposed and exiled for his fidelity to the ancient faith. He spent his last days in a monastery, writing and bearing witness to the truth. He died in exile on 13 March 815 and is venerated in both East and West as a confessor of the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Nikephoros the courage to defend the holy icons and to suffer exile rather than betray the ancient faith, grant through his intercession that all who confess Your truth may stand firm, and that the unity of Your Church may be restored. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

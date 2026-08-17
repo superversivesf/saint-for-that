@@ -1,0 +1,21 @@
+{
+  "slug": "aymard-of-cluny",
+  "name": "St. Aymard of Cluny",
+  "feastDay": "10-05",
+  "bio": "Aymard of Cluny, also known as Aymardus, served as the third abbot of the great Benedictine monastery of Cluny in Burgundy. He succeeded the blessed Odo in that office and continued the Cluniac tradition of reform, which sought to restore the rigor and independence of monastic life across Europe. Under his leadership, Cluny remained a beacon of prayer, liturgy, and learning, drawing monks from many regions to its disciplined way of life.\n\nThough little detail of his governance survives, Aymard is remembered as a faithful steward of one of the most influential monastic houses of the Middle Ages. His care for his brethren and his devotion to the opus Dei helped preserve the spiritual vitality that his predecessors had established and that his successors would carry to even greater reaches.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Aymard to guide the monks of Cluny in lives of prayer and reform, grant through his intercession that all who seek You in community may persevere in faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aymard_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

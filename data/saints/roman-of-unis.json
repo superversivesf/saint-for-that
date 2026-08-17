@@ -1,0 +1,37 @@
+{
+  "slug": "roman-of-unis",
+  "name": "St. Roman of Đunis",
+  "feastDay": "08-29",
+  "bio": "Saint Roman of Đunis, known as Roman the Wonderworker, was a medieval enlightener and missionary to the Slavs who labored in the region of Niš in what is now Serbia. As a monk he devoted himself to spreading the Christian faith, fostering literacy, and introducing monastic life among the Serbian people.\n\nRenowned as a wonderworker, he was sought out by those suffering afflictions of body and mind. Tradition associates him with Prince Lazar and Princess Milica of Serbia, and he became deeply woven into the spiritual memory of the Serbian Orthodox Church and the Eparchy of Niš.\n\nVenerated on August 29, he is invoked for those with mental and physical illness, and for the orphaned and destitute, as a model of compassionate holiness and tireless service to the suffering.",
+  "patronages": [
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Roman a wonderworker and a friend of the sick and destitute, grant through his intercession healing to those who suffer in body or mind, and comfort to the orphaned and poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Roman_of_%C4%90unis"
+  ],
+  "featured": false,
+  "draft": false
+}

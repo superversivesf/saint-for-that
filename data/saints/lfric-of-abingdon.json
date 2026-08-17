@@ -1,0 +1,29 @@
+{
+  "slug": "lfric-of-abingdon",
+  "name": "St. Ælfric of Abingdon",
+  "feastDay": "11-16",
+  "bio": "Ælfric of Abingdon was a late tenth-century Archbishop of Canterbury who helped shape the English Church at the close of the Anglo-Saxon age. He first held the offices of abbot of St Albans Abbey and Bishop of Ramsbury, and was likely abbot of Abingdon Abbey before his election to Canterbury. After his elevation he continued to hold the bishopric of Ramsbury alongside the archbishopric until his death in 1005, governing two sees at once. He may have altered Canterbury's cathedral chapter by changing the clergy serving there from secular clergy to monks, strengthening the monastic presence in the English Church. In his will he left a ship to King Æthelred II and other ships to his legatees. He is remembered as a reforming hierarch who wove monastic life into the English Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Ælfric to unite the care of sees and the reform of monastic life, grant through his intercession that bishops may labor for the renewal of Your Church and that monks and secular clergy may serve together in one spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86lfric_of_Abingdon"
+  ],
+  "featured": false,
+  "draft": false
+}

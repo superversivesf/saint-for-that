@@ -1,0 +1,21 @@
+{
+  "slug": "gervadius",
+  "name": "St. Gervadius",
+  "feastDay": "11-08",
+  "bio": "Saint Gervadius was an Irish monk who left his homeland to embrace the solitary life of a hermit in Scotland, settling near Kenedor in the wild and rugged landscape of the north. Like many of the early Celtic saints, he sought God in the wilderness, away from the comforts and distractions of the world, dedicating himself to prayer, fasting, and contemplation. His life of penance and communion with God drew the reverence of the local people, who regarded him as a holy man and intercessor. The memory of his hermitage endured for generations among the faithful of the region. His feast day is celebrated on November 8, and he is remembered as a patron of hermits and all who seek God in silence and solitude.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led Saint Gervadius into the wilderness of Scotland to seek you in solitude, grant through his intercession that all who long for the eremitic life may find you in silence and prayer, and that the Church may always have hearts set apart for contemplation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gervadius"
+  ],
+  "featured": false,
+  "draft": false
+}

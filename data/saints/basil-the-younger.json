@@ -1,0 +1,25 @@
+{
+  "slug": "basil-the-younger",
+  "name": "St. Basil the Younger",
+  "feastDay": "unknown",
+  "bio": "Saint Basil the Younger was a Byzantine Greek holy man and visionary, revered in the Eastern Church as a confessor and wonderworker. His life is recorded in a Greek hagiography, the Vita sancti Basilii iunioris, composed by his disciple Gregory. According to this account, Basil endured imprisonment and torture during the persecutions under the Emperor Leo VI, yet remained steadfast in his confession of the faith.\n\nThe Vita describes visions granted to Basil and his pupil, including revelations of divine judgment and the mysteries of the age to come. He is said to have lived to a great age, dying in peace after a life of asceticism and prayer. While scholars have debated the historical identity of both Basil and his biographer, the saint has been venerated for centuries in the Byzantine tradition as a model of endurance and mystical insight.",
+  "patronages": [
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Basil the Younger in confessing Your name amid trial, grant through his intercession that we may remain steadfast in faith and attentive to the mysteries of Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rodulf-archbishop-of-bourges",
+  "name": "St. Rodulf",
+  "feastDay": "06-21",
+  "bio": "Rodulf served as archbishop of Bourges from 840 until his death, guiding one of the most important sees of Frankish Gaul through a turbulent age. He is remembered as a skillful diplomat and a resolute proponent of ecclesiastical reform, working to strengthen the discipline and spiritual vitality of the clergy.\n\nIn an era of political fragmentation and ecclesiastical decay, Rodulf labored to uphold the ideals of the Church, balancing temporal politics with the demands of the Gospel. His pastoral care extended to both the great and the lowly, and his reputation for holiness endured long after his death.\n\nAs a saint his feast has been celebrated on June 21. He is honored as a model bishop who shepherded his flock with wisdom and integrity, seeking the reform of the Church he loved.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided Bishop Rodulf to shepherd his flock with wisdom and reform, grant through his intercession that pastors may serve with integrity and the Church be renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rodulf_(archbishop_of_Bourges)"
+  ],
+  "featured": false,
+  "draft": false
+}

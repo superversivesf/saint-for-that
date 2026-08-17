@@ -1,0 +1,29 @@
+{
+  "slug": "edward-the-martyr",
+  "name": "St. Edward the Martyr",
+  "feastDay": "unknown",
+  "bio": "Edward the Martyr was King of the English from 975 until he was killed in 978. The eldest son of King Edgar, he succeeded his father amid a contested succession between his own supporters and those of his younger half-brother, the future King Æthelred the Unready. Since both were children, the dispute was likely between rival family alliances: Edward was backed by Dunstan, Archbishop of Canterbury, and Æthelwine, Ealdorman of East Anglia, while Æthelred was supported by Queen Ælfthryth and Bishop Æthelwold of Winchester. Edward was chosen as king and ruled briefly. In 978 he was murdered at Corfe Castle, reportedly by retainers of his stepmother, and was immediately venerated as a martyr. His cult spread rapidly, and his feast is traditionally kept on March 18.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Edward with the palm of martyrdom though he was but a youth and a king, grant through his intercession that we may bear injustice with patience and hold fast to the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edward_the_Martyr"
+  ],
+  "featured": false,
+  "draft": false
+}

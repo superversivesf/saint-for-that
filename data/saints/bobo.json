@@ -1,0 +1,29 @@
+{
+  "slug": "bobo",
+  "name": "St. Bobo",
+  "feastDay": "05-22",
+  "bio": "Saint Bobo of Provence was a Frankish warrior and pilgrim from the village of Noyers, known to us through the anonymous Vita sancti Bobonis. In an age when Muslim raiders held the fortress of Fraxinet in Provence, Bobo built a castle on a hill opposite their stronghold and led the Christians of the region to victory in battle against them.\n\nDuring the fighting he underwent a mystical experience and vowed that, if God granted him victory, he would lay down his arms and live as a pilgrim devoted to the care of orphans and widows. After the death of his brother, he fulfilled this vow, journeying to Rome as a penitent. He died at Voghera in Lombardy while on pilgrimage.\n\nVenerated in both the Eastern Orthodox and Roman Catholic churches, his feast is kept on May 22. He is invoked as a patron of cattle.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the heart of St. Bobo from the path of war to the care of widows and orphans, grant through his intercession that we may use our strength in service of the defenseless. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Bobo"
+  ],
+  "featured": false,
+  "draft": false
+}

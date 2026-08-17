@@ -1,0 +1,33 @@
+{
+  "slug": "tancred-torthred-and-tova",
+  "name": "St. Tancred, Torthred, and Tova",
+  "feastDay": "04-10",
+  "bio": "Saints Tancred, Torthred, and Tova were three Anglo-Saxon siblings of the ninth century who embraced the eremitic life and suffered martyrdom for their faith. Living in the marshlands of eastern England, they withdrew to pray, fast, and labor in solitude, bearing quiet witness to Christ when Danish raids pressed hard upon the Christian kingdoms of Britain.\n\nAll three were killed for their faith, remembered as martyrs whose blood sanctified the soil of England. Their feast was kept on 30 September at the monasteries of Thorney and Deeping. Their shrine at Thorney Abbey endured until the Dissolution of the Monasteries under Henry VIII. Their names lived on in the devotion of the English people, a reminder that the holiest lives are lived far from the centers of power.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the siblings Tancred, Torthred, and Tova with the palm of martyrdom, grant through their intercession that families may grow together in holiness and remain steadfast in the face of every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tancred%2C_Torthred%2C_and_Tova"
+  ],
+  "featured": false,
+  "draft": false
+}

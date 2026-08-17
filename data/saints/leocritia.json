@@ -1,0 +1,29 @@
+{
+  "slug": "leocritia",
+  "name": "St. Leocritia",
+  "feastDay": "unknown",
+  "bio": "Saint Leocritia, also called Lucretia, was a young Christian woman of ninth-century Córdoba, counted among the Martyrs of Córdoba, the forty-eight Christians who suffered death under the Muslim administration of al-Andalus between 850 and 859 for refusing to conceal their faith. Born of Muslim parents but secretly instructed in Christianity, she embraced Christ and fled her home rather than conform to the faith of her upbringing. Sheltered for a time by fellow believers, she was seized by the authorities, condemned for apostasy under Islamic law, and executed, enduring death with the courage of one who had found the pearl of great price. Her witness, recorded by Saint Eulogius of Córdoba, testifies to the cost of discipleship in a land where the cross was unwelcome.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Leocritia the grace to embrace Christ at the cost of her home and her life, grant through her intercession that all who are called to conversion may find in You their true family and that those who suffer for the faith may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyrs_of_C%C3%B3rdoba"
+  ],
+  "featured": false,
+  "draft": false
+}

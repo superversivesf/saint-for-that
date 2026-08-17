@@ -1,0 +1,25 @@
+{
+  "slug": "peter-the-athonite",
+  "name": "St. Peter the Athonite",
+  "feastDay": "06-12",
+  "bio": "Peter the Athonite, also called Peter of Mount Athos, is revered as the first hermit to dwell on the Holy Mountain of Athos. According to tradition, he was captured by Saracens and held in slavery before being miraculously freed and transported to Mount Athos through the intervention of St. Nicholas. There he lived alone as a hermit, devoting himself to prayer, fasting, and contemplation.\n\nFor more than fifty years Peter endured the rigors of solitude, sustained by the Eucharist and heavenly visions. He is counted among the great pioneers of Athonite monasticism, whose example drew monks to the Holy Mountain.\n\nVenerated by the Eastern Orthodox, Eastern Catholic, and Roman Catholic Churches, Peter is honored on June 12 as a model of the eremitic life and trust in providence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Peter to seek You alone in the solitude of Mount Athos, grant through his intercession that we too may find time for silent prayer and learn to rest in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Athonite"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nicetas-of-medikion",
+  "name": "St. Nicetas of Medikion",
+  "feastDay": "04-03",
+  "bio": "Saint Nicetas of Medikion, called Nicetas the Confessor, was a monk of the Medikion monastery in Bithynia who suffered for his defense of the holy icons during the Byzantine Iconoclast controversy. He embraced the monastic life with ardor, giving himself to prayer, fasting, and the discipline of the cell, and was regarded by his brethren as a man of deep contemplation and fidelity to the tradition of the Church. When the iconoclast emperors sought to suppress the veneration of sacred images, Nicetas refused and was subjected to prison and exile for the faith he confessed. He endured these trials with patience, and after the restoration of the icons returned to his monastery, ending his days in peace. Commemorated on 3 April as a confessor, he bore witness without shedding his blood.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Nicetas of Medikion a steadfast confessor of the holy icons and a faithful monk in days of trial, grant through his intercession that all who are pressed to deny the faith may stand firm and that those who seek You in silence may be confirmed in Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicetas_of_Medikion"
+  ],
+  "featured": false,
+  "draft": false
+}

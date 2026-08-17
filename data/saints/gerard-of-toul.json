@@ -1,0 +1,25 @@
+{
+  "slug": "gerard-of-toul",
+  "name": "St. Gerard of Toul",
+  "feastDay": "04-23",
+  "bio": "Saint Gerard served as Bishop of Toul from 963 until his death, a German prelate whose path to the priesthood was marked by a dramatic sign of divine Providence. When his mother was struck dead by lightning, Gerard interpreted the event as a call from God, entering the priesthood despite his personal reluctance. Known already for his piety, he accepted the burden of the Toul diocese and devoted his episcopate to restoring Church properties and ending secular interference in ecclesiastical affairs. His concern was to return the Church to its proper spiritual mission, free from the entanglements that had compromised its witness. His feast is kept on April 23, and he is honored as a patron of Toul and a model of the bishop who defends the Church's freedom and integrity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Gerard to the episcopate of Toul through a sign of your Providence and made him a defender of the Church's freedom, grant through his intercession that bishops may restore what is lost and guard the Church from every worldly entanglement. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerard_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

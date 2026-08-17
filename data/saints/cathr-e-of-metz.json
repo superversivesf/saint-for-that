@@ -1,0 +1,25 @@
+{
+  "slug": "cathr-e-of-metz",
+  "name": "St. Cathróe of Metz",
+  "feastDay": "03-06",
+  "bio": "Saint Cathróe was a monk and abbot of the early medieval Church, whose life is recorded in a hagiography written shortly after his death by a monk of the monastery of Saint Felix at Metz, where Cathróe himself served as abbot. The account tells of his origins among the peoples of Britain or Ireland and his journey to the Continent, where he devoted himself to the monastic life and eventually rose to lead a community.\n\nDuring his lifetime, miracles of healing were attributed to him, and after his death he was venerated as a saint by the faithful of Metz and the surrounding region. The details of his birth and early life are uncertain, but his reputation as a healer and holy abbot endured.\n\nHis feast is kept on March 6, and he is remembered as one of the many Celtic saints who brought their faith and learning to the monasteries of Francia.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Cathróe a holy abbot and a worker of healing, grant through his intercession that the sick may find relief and those who lead communities may guide them in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cathr%C3%B3e_of_Metz"
+  ],
+  "featured": false,
+  "draft": false
+}

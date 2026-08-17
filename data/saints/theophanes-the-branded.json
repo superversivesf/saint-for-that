@@ -1,0 +1,33 @@
+{
+  "slug": "theophanes-the-branded",
+  "name": "St. Theophanes the Branded",
+  "feastDay": "10-11",
+  "bio": "Saint Theophanes the Branded, also called the Graptus, is remembered with his brother Theodorus as one of two holy siblings who were bold proponents of the veneration of icons during the second Iconoclastic controversy, when the emperors of Byzantium forbade the honoring of sacred images. The brothers were natives of Jerusalem, educated in the holy city and trained in the monastic life before being called to Constantinople.\n\nFor refusing to accept the iconoclast decrees, both were imprisoned, exiled, and branded on the forehead with satirical verses by order of the Emperor Theophilos. Theophanes bore the brand with joy, and unlike his brother survived to see the restoration of icons in 843. He was later made bishop of Nicaea, governing the Church in peace after decades of suffering.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Theophanes the grace to bear the brand of confession for the sake of Your holy images, grant through his intercession that we may carry whatever marks our faithfulness requires, and find in them the seal of Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodorus_and_Theophanes"
+  ],
+  "featured": false,
+  "draft": false
+}

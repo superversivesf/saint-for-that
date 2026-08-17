@@ -1,0 +1,29 @@
+{
+  "slug": "adalbert-of-magdeburg",
+  "name": "St. Adalbert of Magdeburg",
+  "feastDay": "06-20",
+  "bio": "Adalbert of Magdeburg, sometimes shortened to Albert, is honored as the Apostle of the Slavs for his tireless missionary labors among the Polabian Slavs east of the German lands of his day. Consecrated the first Archbishop of Magdeburg, he labored to plant the Gospel among peoples still in darkness, governing his new see with wisdom and sending preachers into the surrounding regions. His work bore lasting fruit, and the Church later canonized him, assigning his liturgical feast to 20 June. He is remembered as a zealous pastor and a father of the Church among the Slavic nations, whose witness helped shape the Christian identity of Central Europe.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Adalbert as the Apostle of the Slavs to preach the Gospel among unfamiliar peoples, grant through his intercession that missionaries may proclaim Your name with courage and that all nations may be gathered into one flock. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalbert_of_Magdeburg"
+  ],
+  "featured": false,
+  "draft": false
+}

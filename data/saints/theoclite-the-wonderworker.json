@@ -1,0 +1,33 @@
+{
+  "slug": "theoclite-the-wonderworker",
+  "name": "St. Theoclite the Wonderworker",
+  "feastDay": "08-03",
+  "bio": "Saint Theoclite the Wonderworker was a Byzantine saint of the ninth century who lived under the iconoclastic Emperor Theophilos, when the veneration of icons was forbidden and those who preserved the ancient tradition of the Church faced exile, branding, and imprisonment. In that hostile atmosphere she distinguished herself by her numerous actions in favor of the poor and her unwavering Christian life.\n\nHer charity and contemplation won her the title of Wonderworker, and after her death her incorrupt relics were believed by the Eastern Orthodox to be the source of several miracles. She is commemorated on August 3 with the title of Venerable, honored as a model of steadfast holiness in a time of crisis, a quiet defender of the sacred images.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned Saint Theoclite with the gift of wonders and the love of the poor, grant through her intercession that we may serve You in our brothers and sisters and remain faithful when the world rejects Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theoclite_the_Wonderworker"
+  ],
+  "featured": false,
+  "draft": false
+}

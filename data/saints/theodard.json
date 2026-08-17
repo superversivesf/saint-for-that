@@ -1,0 +1,25 @@
+{
+  "slug": "theodard",
+  "name": "St. Theodard",
+  "feastDay": "unknown",
+  "bio": "Saint Theodard was an archbishop of Narbonne in the south of Gaul during the seventh century. He may have been born to the nobility and served as a subdeacon at a church council held at Toulouse before his elevation to the episcopate. As archbishop he governed the see of Narbonne with pastoral diligence during a period of political upheaval following the decline of Visigothic rule and the advance of Frankish authority. Though the historical record of his life is brief, he was venerated after his death as a faithful bishop who labored to maintain the discipline and unity of the Church in difficult times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Theodard a faithful shepherd of the Church of Narbonne, grant through his intercession that bishops may govern with wisdom and that Your people may dwell in unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodard"
+  ],
+  "featured": false,
+  "draft": false
+}

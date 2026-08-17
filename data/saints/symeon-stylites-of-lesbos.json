@@ -1,0 +1,29 @@
+{
+  "slug": "symeon-stylites-of-lesbos",
+  "name": "St. Symeon Stylites of Lesbos",
+  "feastDay": "02-01",
+  "bio": "Saint Symeon Stylites of Lesbos was born around 765 and became a monk of remarkable endurance during the second period of Byzantine Iconoclasm (814-842), when the veneration of sacred images was forbidden by imperial decree. He survived two attempts on his life, bearing witness to the faith at a time when fidelity to the icons demanded extraordinary courage.\n\nFollowing the example of the earlier Simeon Stylites, he ascended a pillar-like structure resembling a tower and there isolated himself from the world, fasting, praying, and studying without ceasing. He died in 844, just before the restoration of icons. The Eastern Orthodox Church venerates him together with his brothers, Saint George the Archbishop of Mytilene and Saint David the Monk, as a family of confession and witness.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Symeon to stand upon a pillar of solitude and prayer, grant through his intercession that we may remain steadfast in faith when the world denies You, and find in stillness the strength to confess Your holy image. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Symeon_Stylites_of_Lesbos"
+  ],
+  "featured": false,
+  "draft": false
+}

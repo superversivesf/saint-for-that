@@ -1,0 +1,29 @@
+{
+  "slug": "solange-of-bourges",
+  "name": "St. Solange of Bourges",
+  "feastDay": "05-10",
+  "bio": "Saint Solange was a Frankish shepherdess of the ninth century, born near Bourges in the traditional province of Berry. Keeping her flocks in the fields, she grew in holiness through prayer and simple labor. According to her legend, a young nobleman sought to carry her off, and when she resisted, he struck her down; she is counted among the cephalophores, the saints venerated for bearing their own severed head. Her cult arose quickly in Sainte-Solange in Cher, where pilgrims sought her intercession. She became the patron saint of the province of Berry and is invoked for rain, for shepherds, and for victims of violence. Her feast is kept on May 10.",
+  "patronages": [
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "prostitutes",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Solange from the quiet fields to the palm of martyrdom, grant through her intercession that we may labor faithfully in our calling and find strength in You when trials come upon us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solange_of_Bourges"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "maurinus-of-cologne",
+  "name": "St. Maurinus of Cologne",
+  "feastDay": "06-10",
+  "bio": "Saint Maurinus of Cologne was a ninth-century German abbot who is said to have suffered martyrdom for the faith. He governed a community of monks in the region of the Rhine during an age when the Church in Germany was still young and exposed to the perils of pagan resistance and political disorder. His witness as a shepherd who gave his life for his flock won him the veneration of the faithful, and his memory was cherished in both the Roman Catholic and the Eastern Orthodox traditions. In the twelfth century his relics were enshrined in Saint Pantaleon's Church in Cologne, where pilgrims came to honor the abbot who shed his blood for Christ. Churches were dedicated to his name, among them Saint Maurinus' Church at Lützenkirchen, and his feast is kept on 10 June.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maurinus of Cologne a faithful abbot and a martyr for Your name, grant through his intercession that those who lead communities of prayer may stand firm in trial and that the Church in every land may be strengthened by the witness of her saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maurinus_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

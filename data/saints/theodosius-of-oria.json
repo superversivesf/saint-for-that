@@ -1,0 +1,29 @@
+{
+  "slug": "theodosius-of-oria",
+  "name": "St. Theodosius of Oria",
+  "feastDay": "08-30",
+  "bio": "Saint Theodosius of Oria was a ninth-century bishop and papal legate, venerated as a saint by the Catholic Church on August 30. He served as bishop of the ancient Italian town of Oria in Apulia, a crossroads of Greek, Latin, and Lombard cultures in the heel of Italy. In that turbulent age of Saracen raids, he shepherded his flock with wisdom, preserving the faith in a frontier land.\n\nAs a papal legate he carried the authority of the Apostolic See into difficult negotiations, a sign of the trust placed in his fidelity to the Roman Church. His memory was kept in Oria for centuries, where he was honored as a father of the local Church and protector of the city. He is a patron of southern Italian Christianity, a reminder that in obscure sees a bishop's holiness can shape a people's faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "everyday"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Theodosius a faithful shepherd of Your people in Oria and a trusted legate of Your Church, grant through his intercession that bishops may govern with wisdom and that we may cling to the tradition of the apostles in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodosius_of_Oria"
+  ],
+  "featured": false,
+  "draft": false
+}

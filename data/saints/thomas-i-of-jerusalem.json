@@ -1,0 +1,29 @@
+{
+  "slug": "thomas-i-of-jerusalem",
+  "name": "St. Thomas I of Jerusalem",
+  "feastDay": "05-16",
+  "bio": "Thomas I of Jerusalem, also known by the Persian name Tamriq, served as Patriarch of Jerusalem of the Church of Jerusalem from 807 to 821. He shepherded the faithful in the holy city during a period of theological strife and political pressure, guiding his flock with wisdom and resolve.\n\nPatriarch Thomas held a firm Orthodox theological position, opposing both the iconoclasts who sought to destroy sacred images and the addition of the filioque to the creed. His defense of orthodox teaching made him a revered figure among the faithful of the East.\n\nCommemorated on May 16, he is remembered as a steadfast defender of the faith and a faithful shepherd of the Church of Jerusalem.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Thomas I of Jerusalem wisdom to defend the orthodox faith amid division, grant through his intercession that the Church may be preserved in unity and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_I_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "engus-of-tallaght",
+  "name": "St. Óengus of Tallaght",
+  "feastDay": "03-11",
+  "bio": "Óengus mac Óengobann, known as Saint Óengus of Tallaght or Óengus the Culdee, was an Irish bishop, reformer, and writer who flourished in the first quarter of the ninth century. Drawn to a life of austerity and learning, he embraced the discipline of the Culdees and labored to renew the monastic and liturgical life of the Irish Church. He is held to be the author of the Félire Óengusso, a celebrated metrical martyrology, and possibly the Martyrology of Tallaght, works that gathered up the memory of the saints for the devotion of the faithful. He died around the year 819 and is venerated in Ireland as a scholar of the saints.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Óengus of Tallaght a love of the saints and a scholar's care to gather their memory for the devotion of Your people, grant through his intercession that all who study the lives of Your holy ones may be drawn to imitate them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%93engus_of_Tallaght"
+  ],
+  "featured": false,
+  "draft": false
+}

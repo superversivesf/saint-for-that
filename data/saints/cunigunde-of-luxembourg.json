@@ -1,0 +1,33 @@
+{
+  "slug": "cunigunde-of-luxembourg",
+  "name": "St. Cunigunde of Luxembourg",
+  "feastDay": "03-03",
+  "bio": "Cunigunde of Luxembourg, OSB, also called Cunegundes, Cunegunda, and Cunegonda, and in Latin Cunegundis or Kinigundis, was Empress of the Holy Roman Empire by marriage to Holy Roman Emperor Henry II. After her spouse's death in 1024 she ruled as interim regent, then retired to the Benedictine convent she had founded at Kaufungen, where she lived as a nun until her death. She and Henry were celebrated for their vow of virginity and their generosity to the Church, founding bishoprics and monasteries across the empire. She is a saint and the patroness of Luxembourg and of the Archdiocese of Bamberg, Germany, and her feast is kept on March 3.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cunigunde from the imperial throne to the humility of the cloister, grant through her intercession that those who hold worldly power may use it for Your glory and the good of the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mengold-of-huy",
+  "name": "St. Mengold of Huy",
+  "feastDay": "unknown",
+  "bio": "Saint Mengold, also called Meingold, is venerated as a martyr of the Low Countries and is said to have been Count of Huy, a town in what is now Belgium. According to tradition, he was a Christian nobleman who governed his people with justice and was murdered by his opponents in the year 892, his blood shed in the tumult of a violent age when lord fought against lord and the weak cried out for a protector. Some later accounts suggest that the saintly Meingold may have been confused with a count of the same name who perished in that year, yet the devotion of the faithful has preserved his memory as a noble witness who suffered unjust death and was honored at Huy as a saint. His cult endures as a reminder that holiness has been found among those who wield power with conscience.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the witness of St. Mengold of Huy, a nobleman who suffered death at the hands of the violent, grant through his intercession that all who bear authority may seek justice before You and that those who suffer oppression may find in You their defender. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mengold_of_Huy"
+  ],
+  "featured": false,
+  "draft": false
+}

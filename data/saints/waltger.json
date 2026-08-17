@@ -1,0 +1,29 @@
+{
+  "slug": "waltger",
+  "name": "St. Waltger",
+  "feastDay": "unknown",
+  "bio": "Waltger was a Saxon nobleman who lived in the early ninth century. Renouncing the privileges of his birth, he devoted himself to the service of God and the founding of religious communities. In the 830s he established Herford Abbey, which became an important center of monastic life for women in Saxony.\n\nIn 838, Waltger gave the monastery to the Emperor Louis the Pious, who in turn placed it under the authority of the Benedictine nunnery of Notre-Dame de Soissons. Through this act of generosity, he secured the abbey's future and strengthened the foundations of Christian life in the region.\n\nVenerated as a founder and patron of monastic communities, Waltger is remembered for his piety and his contributions to the spread of the faith in medieval Saxony.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Waltger to leave behind the honors of nobility and found a house of prayer, grant through his intercession that we too may use our gifts for Your glory and the building up of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Waltger"
+  ],
+  "featured": false,
+  "draft": false
+}

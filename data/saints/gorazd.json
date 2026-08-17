@@ -1,0 +1,25 @@
+{
+  "slug": "gorazd",
+  "name": "St. Gorazd",
+  "feastDay": "unknown",
+  "bio": "Saint Gorazd was a ninth-century cleric of Great Moravia and one of the most prominent disciples of Saints Cyril and Methodius, the Apostles of the Slavs. Ordained to the priesthood in 867, he labored alongside the saintly brothers in their mission to bring the Christian faith and Slavonic liturgy to the Moravian people. So trusted was he that Archbishop Methodius designated Gorazd as his successor. After Methodius's death in 885, Gorazd sought to assume leadership of the Archbishopric of Moravia, but he was unable to secure the support of Prince Svatopluk I. Despite this reversal, Gorazd is honored as a faithful shepherd who carried forward the Slavic liturgical tradition and the legacy of the great missionary bishops.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Gorazd as a faithful disciple of Cyril and Methodius to serve Your Slavic people, grant through his intercession that we may preserve the faith handed down to us and labor for unity in Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Gorazd"
+  ],
+  "featured": false,
+  "draft": false
+}

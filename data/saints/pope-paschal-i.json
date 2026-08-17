@@ -1,0 +1,29 @@
+{
+  "slug": "pope-paschal-i",
+  "name": "St. Paschal I",
+  "feastDay": "02-11",
+  "bio": "Pope Paschal I, a Roman by birth, governed the Church as bishop of Rome and ruler of the Papal States from 25 January 817 until his death in 824. He was a great builder and restorer of churches, adorning the basilicas of Rome with mosaics and translating the relics of many martyrs from the forgotten catacombs into the churches of the living city. He labored to maintain the freedom of the Church amid the pressures of the Frankish emperors and held fast to the veneration of the holy images. He died in 824 and was honored from antiquity as a saint, remembered for his devotion to the martyrs and the beauty of God's house.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Paschal I a zealous builder of Your holy temples and a careful guardian of the relics of Your martyrs, grant through his intercession that Your Church may ever be adorned with holiness and kept safe from every harm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Paschal_I"
+  ],
+  "featured": false,
+  "draft": false
+}

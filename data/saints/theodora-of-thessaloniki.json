@@ -1,0 +1,29 @@
+{
+  "slug": "theodora-of-thessaloniki",
+  "name": "St. Theodora of Thessaloniki",
+  "feastDay": "08-29",
+  "bio": "Saint Theodora of Thessalonica was a Byzantine nun and saint from the island of Aegina. Her hagiography is the longest ever written about a holy woman in Byzantine history, a remarkable record of devotion that reveals the depth of her sanctity. After the death of her husband she embraced the monastic life, devoting herself to prayer, fasting, and the service of her sisters in the convent at Thessaloniki.\n\nHer life of obedience and humility drew the attention of the whole city, and after her death her tomb became a place of pilgrimage. Her relics were honored in Thessaloniki for centuries, and her memory is kept by the Eastern Orthodox Church on August 29. She is a model of widowhood consecrated to God, of holy nuns whose hidden lives of prayer sustain the faithful.",
+  "patronages": [
+    {
+      "need": "widowers",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Theodora from widowhood to the vowed life of a nun, grant through her intercession that those who mourn the loss of their beloved may find in Your service a new family and a deeper love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodora_of_Thessaloniki"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "stephen-i-of-constantinople",
+  "name": "St. Stephen I of Constantinople",
+  "feastDay": "unknown",
+  "bio": "Stephen I of Constantinople, called the Macedonian, served as Ecumenical Patriarch of Constantinople from 886 to 893. He was raised to the patriarchal throne during the reign of Emperor Leo VI the Wise, a period of revival and reform in the Byzantine Church. As patriarch Stephen oversaw the liturgical and administrative life of the great see, seeking to maintain order and orthodoxy amid the complexities of imperial politics. Though few details of his patriarchate survive, he is remembered in the Eastern tradition as a conscientious hierarch who guided the Church of Constantinople through a time of transition in the Macedonian renaissance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Stephen to shepherd the Church of Constantinople, grant through his intercession that all patriarchs and bishops may guide Your people in faithfulness and preserve the unity of Your holy Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

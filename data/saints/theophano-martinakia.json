@@ -1,0 +1,29 @@
+{
+  "slug": "theophano-martinakia",
+  "name": "St. Theophano Martinakia",
+  "feastDay": "unknown",
+  "bio": "Theophano Martinakia was a Byzantine empress, wife of Leo VI the Wise, venerated as a saint by the Eastern Orthodox Church. She came from the noble Martinakios family and entered the imperial palace through a marriage arranged at the heart of Constantinople's courtly life. Though raised to the highest dignity the empire could bestow upon a woman, she turned from the splendor of the court to a life of prayer, fasting, and humility, seeking the unseen kingdom. Her quiet devotion and patience amid the intrigues of the palace were noted by those around her, and after her death she was honored as a holy woman who had lived as a contemplative within the halls of power. The Eastern Church keeps her memory among the saints who show that sanctity flowers in every station.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Theophano Martinakia from the splendor of an earthly throne to the hidden life of prayer, grant through her intercession that all who are surrounded by worldly honors may seek the kingdom that does not pass away. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophano_Martinakia"
+  ],
+  "featured": false,
+  "draft": false
+}

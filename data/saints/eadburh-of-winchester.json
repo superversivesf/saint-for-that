@@ -1,0 +1,29 @@
+{
+  "slug": "eadburh-of-winchester",
+  "name": "St. Eadburh of Winchester",
+  "feastDay": "06-15",
+  "bio": "Eadburh was the daughter of King Edward the Elder of England and his third wife, Eadgifu of Kent. From her childhood she was given to the service of God, and she lived most of her life as a nun at the royal foundation of Nunnaminster in Winchester, where she was known above all for her singing of the divine office. Most of what we know of her comes from hagiographies written several centuries after her life, which describe her fervent prayer, her humility, and the miracles reported at her shrine. She was canonized twelve years after her death, and a small number of churches, mostly in the Worcestershire area, are dedicated to her. Her feast is kept on June 15.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Eadburh with the gift of sacred song and the grace of consecrated virginity, grant through her intercession that our praise may rise before You as a pleasing offering. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadburh_of_Winchester"
+  ],
+  "featured": false,
+  "draft": false
+}

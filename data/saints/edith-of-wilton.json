@@ -1,0 +1,29 @@
+{
+  "slug": "edith-of-wilton",
+  "name": "St. Edith of Wilton",
+  "feastDay": "09-16",
+  "bio": "Edith of Wilton was an English saint, nun, and member of the community at Wilton Abbey, and the daughter of Edgar, King of England, and Saint Wulfthryth. Her parents may have been married, and Edgar may have abducted Wulfthryth from Wilton Abbey, but when Edith was an infant, Wulfthryth returned with her to the abbey and the marriage was dissolved. Edith and her mother remained at Wilton for the rest of their lives, and Edith was raised and educated in the religious life from childhood. Though offered positions of honor, she chose the humility of the cloister and was known for her devotion, her generosity to the poor, and her love of the liturgy. She died young, around the year 984, and her feast is kept on September 16.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Edith of Wilton from a royal cradle to the lowliness of the cloister, grant through her intercession that we may prize the riches of heaven above the honors of earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edith_of_Wilton"
+  ],
+  "featured": false,
+  "draft": false
+}

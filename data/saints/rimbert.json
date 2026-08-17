@@ -1,0 +1,29 @@
+{
+  "slug": "rimbert",
+  "name": "St. Rimbert",
+  "feastDay": "06-11",
+  "bio": "Saint Rimbert served as archbishop of Hamburg-Bremen in the northern part of the Kingdom of East Francia from 865 until his death in 888. He inherited the missionary mandate of his predecessor St. Ansgar and continued the difficult work of preaching the Gospel to the peoples of Scandinavia and the Baltic.\n\nRimbert is best remembered for writing the Vita Ansgari, the life of St. Ansgar, which became one of the most popular and widely read hagiographies of the Middle Ages. Through this work he preserved the memory of the apostle to the North and inspired generations of missionaries to carry the faith to distant lands.\n\nVenerated on June 11, Rimbert is honored as a bishop, missionary, and writer who devoted his life to carrying the Gospel to the far reaches of Christendom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Rimbert to carry the Gospel to the peoples of the North and to preserve the memory of Your saints, grant through his intercession that the good news may reach every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rimbert"
+  ],
+  "featured": false,
+  "draft": false
+}

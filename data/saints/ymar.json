@@ -1,0 +1,25 @@
+{
+  "slug": "ymar",
+  "name": "St. Ymar",
+  "feastDay": "11-12",
+  "bio": "Ymar of Reculver is an Anglo-Saxon saint venerated in the early medieval Church of England. Though few details of his life survive, he is traditionally associated with the monastery at Reculver in Kent, a center of Christian life along the Saxon shore.\n\nHonored on November 12, Ymar is remembered among the faithful servants of God whose witness was preserved in local devotion rather than written record. The faithful of Kent kept his memory alive through centuries of prayer at his shrine.\n\nVenerated as a monk and confessor of the Anglo-Saxon age, Ymar stands among the many holy men and women who labored for the faith in early England.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Ymar through the devotion of the faithful, grant through his intercession that we too may serve You in quiet fidelity and leave behind a legacy of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ymar"
+  ],
+  "featured": false,
+  "draft": false
+}

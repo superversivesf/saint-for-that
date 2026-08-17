@@ -1,0 +1,29 @@
+{
+  "slug": "wigstan",
+  "name": "St. Wigstan",
+  "feastDay": "06-01",
+  "bio": "Wigstan, also known as Saint Wystan, was the son of Wigmund of Mercia and Ælfflæd, daughter of King Ceolwulf I of Mercia. Of royal Anglo-Saxon lineage, he was recognized as a saint following his death in the ninth century.\n\nThough historical details are sparse, tradition holds that Wigstan was murdered amid the dynastic struggles of Mercia and that his remains were venerated at Evesham Abbey, which became a major shrine and place of pilgrimage until its destruction during the Dissolution of the Monasteries.\n\nHonored as a martyr of the Anglo-Saxon Church, Wigstan is remembered for his royal blood and his witness amid the violence of his age.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Wigstan among the martyrs of Mercia, grant through his intercession that we may bear witness to Your truth with courage and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wigstan"
+  ],
+  "featured": false,
+  "draft": false
+}

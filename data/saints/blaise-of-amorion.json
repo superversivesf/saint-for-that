@@ -1,0 +1,29 @@
+{
+  "slug": "blaise-of-amorion",
+  "name": "St. Blaise of Amorion",
+  "feastDay": "unknown",
+  "bio": "Saint Blaise of Amorium was a Byzantine monk of the ninth century, born in the town of Amorion in the Anatolic Theme of the Empire. He studied in Constantinople and was ordained a deacon at the great church of Hagia Sophia. Setting out on a pilgrimage to Rome, he was betrayed by a traveling companion and sold into captivity among the Scythians, as the sources describe them.\n\nAccording to his Vita, Blaise's buyer, a Bulgar nobleman, was so struck by his holiness that he released him, hoping the saint would remain and teach the Christian way of life. Blaise continued to Rome, where he became a monk and spent eighteen years in prayer, becoming renowned for his piety. Fleeing the growing fame of his holiness, he returned to Constantinople and joined the Stoudios Monastery, then withdrew to Mount Athos. He died in 908 while visiting the imperial capital.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who delivered St. Blaise of Amorion from captivity and led him through pilgrimage to a life of prayer, grant through his intercession that all who are imprisoned or far from home may find their way to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blaise_of_Amorion"
+  ],
+  "featured": false,
+  "draft": false
+}

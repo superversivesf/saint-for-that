@@ -1,0 +1,21 @@
+{
+  "slug": "gauzelin-of-toul",
+  "name": "St. Gauzelin of Toul",
+  "feastDay": "09-07",
+  "bio": "Saint Gauzelin served as Bishop of Toul in Lorraine from 922 until his death, governing the diocese during a turbulent era of the early tenth century. A French Roman Catholic prelate of noble character, he was recognized for holiness of life and fidelity to the Church in a time when episcopal leadership was both a spiritual and political burden. The see of Toul, which would later produce other saintly bishops including Gerard, counted Gauzelin among its heavenly patrons. His feast is kept on September 7, and he is remembered as a faithful shepherd who guided his flock through uncertain times with steadfast devotion to Christ and his Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gauzelin a faithful bishop of Toul in troubled times, grant through his intercession that those entrusted with leadership in the Church may stand firm in faith and guide their people with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gauzelin_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

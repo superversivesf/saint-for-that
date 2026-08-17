@@ -1,0 +1,29 @@
+{
+  "slug": "thelwold-of-winchester",
+  "name": "St. Æthelwold of Winchester",
+  "feastDay": "05-19",
+  "bio": "Æthelwold of Winchester served as Bishop of Winchester from 963 to 984 and stands with St. Dunstan and St. Oswald as one of the leaders of the great tenth-century monastic reform movement in Anglo-Saxon England. A tireless builder and reformer, he restored the monastic life in his cathedral and in the houses under his care, replacing secular clergy with monks and endowing new foundations. His work renewed the English Church after the devastation of the Viking age and helped shape the Benedictine civilization that flourished in England until the Norman Conquest. Learned and severe, he was a patron of learning and of the liturgy, and his episcopate left an enduring mark on the Church of his nation. He is remembered as a father of English monasticism who rebuilt the house of God in his day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Æthelwold to rebuild the monastic life and renew Your Church in England, grant through his intercession that we may never grow weary of reforming what has fallen into ruin and that monks may show forth the praise of Your house. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86thelwold_of_Winchester"
+  ],
+  "featured": false,
+  "draft": false
+}

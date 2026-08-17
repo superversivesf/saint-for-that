@@ -1,0 +1,29 @@
+{
+  "slug": "pope-nicholas-i",
+  "name": "St. Nicholas I",
+  "feastDay": "11-13",
+  "bio": "Pope Nicholas I, called Nicholas the Great, governed the Church as bishop of Rome from 24 April 858 until his death on 13 November 867. He was a fearless champion of papal authority and moral discipline in an age of political ambition and disorder. When the archbishop Lothar II sought to cast off his wife Theutberga, Nicholas steadfastly refused to sanction the divorce, defending the sanctity of marriage against emperors and bishops alike. He upheld the rights of the enslaved Bulgarians, sustained the mission to the Bulgarian people, and labored to keep the Eastern and Western Churches in communion. The last of three popes to bear the title \"the Great,\" alongside Leo I and Gregory I, Nicholas died in 867 and was honored as a saint from antiquity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Nicholas the Great a steadfast shepherd of Your Church and a defender of the sanctity of marriage, grant through his intercession that all who bear authority in Your Church may govern with courage, and that all families may be held fast in Your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Nicholas_I"
+  ],
+  "featured": false,
+  "draft": false
+}

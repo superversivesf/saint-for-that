@@ -1,0 +1,29 @@
+{
+  "slug": "bruno-the-great",
+  "name": "St. Bruno the Great",
+  "feastDay": "10-11",
+  "bio": "Bruno the Great, archbishop of Cologne from 953 until his death and duke of Lotharingia after 954, was the youngest brother of Emperor Otto I. Born into the Saxon royal house, he received an exceptional education at the cathedral school of Utrecht and was destined from youth for both the Church and the affairs of state.\n\nAs archbishop, Bruno reformed the clergy of his diocese and promoted learning, founding the monastery of St. Pantaleon in Cologne and enriching its library and liturgy. As duke, he governed Lotharingia with a rare blend of ecclesiastical and secular authority, striving to keep the peace in a fractious realm. He was equally at home in the choir and the council chamber, and contemporaries regarded him as the model of a prince-bishop.\n\nBruno died in 965 and was soon venerated as a saint. His feast is kept on October 11.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bruno a faithful shepherd of Cologne and a wise ruler of Lotharingia, grant through his intercession that those entrusted with authority may govern with justice and serve Your Church with devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

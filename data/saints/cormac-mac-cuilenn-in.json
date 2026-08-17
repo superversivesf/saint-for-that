@@ -1,0 +1,25 @@
+{
+  "slug": "cormac-mac-cuilenn-in",
+  "name": "St. Cormac mac Cuilennáin",
+  "feastDay": "unknown",
+  "bio": "Cormac mac Cuilennáin was an Irish bishop and king of Munster from 902 until his death at the Battle of Bellaghmoon in 908. Unusually for his age, he was both a prelate and a secular ruler, and he was renowned for his learning, his piety, and his patronage of scholarship. He is credited with compiling the Psalter of Cashel, a collection of historical and genealogical lore, and with founding churches and schools throughout his kingdom. Though he fell in battle against the king of Leinster, the Church honored him as a saint, remembering a ruler who placed the things of God above the crown. He was killed in Leinster and venerated as a learned and holy bishop-king of early medieval Ireland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Cormac mac Cuilennáin the double crown of episcopal grace and royal dignity, grant through his intercession that those who govern may seek first the wisdom from above. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cormac_mac_Cuilenn%C3%A1in"
+  ],
+  "featured": false,
+  "draft": false
+}

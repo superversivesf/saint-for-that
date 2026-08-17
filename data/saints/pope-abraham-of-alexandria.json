@@ -1,0 +1,29 @@
+{
+  "slug": "pope-abraham-of-alexandria",
+  "name": "St. Abraham of Alexandria",
+  "feastDay": "12-03",
+  "bio": "Pope Abraham of Alexandria, also referred to as Efrem or Ephrem, was the 62nd Pope of Alexandria and Patriarch of the See of St. Mark. He shepherded the Coptic Orthodox Church during a period of trial and preserved the faith of his people amid political and religious pressures.\n\nAs Patriarch, Abraham was revered for his wisdom, humility, and pastoral care. He guided the faithful of Egypt with fatherly love and upheld the ancient traditions of the Church of Alexandria. His leadership strengthened the Coptic community during a difficult era.\n\nHe is considered a saint by the Coptic Orthodox Church and is commemorated on December 3, remembered as a faithful shepherd of the flock of St. Mark.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Abraham of Alexandria to shepherd Your people with wisdom and love, grant through his intercession that the Church may be guided by faithful pastors who preserve the truth of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Abraham_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

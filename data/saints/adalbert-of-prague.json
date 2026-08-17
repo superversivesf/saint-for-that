@@ -1,0 +1,29 @@
+{
+  "slug": "adalbert-of-prague",
+  "name": "St. Adalbert of Prague",
+  "feastDay": "04-23",
+  "bio": "Adalbert of Prague, known as Vojtěch among the Czechs, Poles, and Slovaks, served as Bishop of Prague and became one of the great missionary saints of Central Europe. Born to a noble Czech family, he was educated in Magdeburg and took his religious name from his mentor, St. Adalbert of Magdeburg. As bishop he sought to reform the clergy and evangelize the wilder regions beyond his see, laboring among the Hungarians, Poles, and Prussians. His final mission to the Baltic Prussians ended in martyrdom, as he was killed while pressing the Gospel upon a resistant people. Tradition credits him with composing the oldest Czech hymn, Hospodine, pomiluj ny, and the ancient Polish anthem Bogurodzica, though his authorship remains uncertain. He is a patron of Poland and Bohemia.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Adalbert of Prague with the palm of martyrdom as he carried the Gospel to the Prussians, grant through his intercession that we may bear witness to Christ with courage and that the Church may be blessed with shepherds after his own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalbert_of_Prague"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "swithun",
+  "name": "St. Swithun",
+  "feastDay": "07-02",
+  "bio": "Saint Swithun was a ninth-century Anglo-Saxon bishop of Winchester and the patron saint of Winchester Cathedral. He served as bishop from around 852 until his death, and his historical importance as a diligent prelate is overshadowed by his reputation for posthumous miracle-working. Swithun was known in life for his humility, his care for the poor, and his insistence on building churches rather than grand monuments. After his death on July 2, his relics were translated into Winchester Cathedral in 971 amid a great outpouring of devotion. A famous tradition holds that if it rains on his feast day, forty days of rain will follow. He is invoked as patron of Hampshire, Winchester, Southwark, and of the weather.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "Almighty and everlasting God, who made Saint Swithun a bishop renowned for humility and care for the poor, grant through his intercession that we may serve You in lowliness of heart and find in Your providence our daily bread. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swithun"
+  ],
+  "featured": false,
+  "draft": false
+}

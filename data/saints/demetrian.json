@@ -1,0 +1,29 @@
+{
+  "slug": "demetrian",
+  "name": "St. Demetrian",
+  "feastDay": "11-06",
+  "bio": "Demetrian is a saint from Cyprus who served the Christian Church in the ninth and tenth centuries as a monk, an abbot, and ultimately as bishop of the ancient city of Chytri. During a period of Saracen raids he was held in high esteem for his holiness, and when Christian Cypriots were carried off into slavery by the invaders, he is venerated for their apparently miraculous rescue. Tradition holds that he appeared to the captors or ransomed the captives through divine intervention, and many enslaved believers were restored to their homes. He is honored especially as a patron of prisoners and of those held in bondage, and his feast is kept on November 6.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Demetrian delivered Christian captives from the hands of their oppressors, grant through his intercession that all who are imprisoned or enslaved may know the freedom of Your children. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demetrian"
+  ],
+  "featured": false,
+  "draft": false
+}

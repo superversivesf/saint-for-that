@@ -1,0 +1,25 @@
+{
+  "slug": "peter-the-patrician-9th-century",
+  "name": "St. Peter the Patrician",
+  "feastDay": "07-01",
+  "bio": "Peter the Patrician was a senior Byzantine military commander at the turn of the ninth century, a man of rank and authority in the imperial court. Despite the honors of his office, he felt the pull of a higher calling and left behind the world of arms to embrace the monastic life.\n\nAs a monk, Peter dedicated himself to prayer, humility, and the disciplines of the cloister, finding in silence what the battlefield could never give. His conversion from commander to contemplative made him a living sign of the Gospel's power to transform even the most worldly of lives.\n\nVenerated on July 1, Peter stands as a witness that no rank places a soul beyond the reach of grace, and that the truest victory is won not by the sword but by surrender to God.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the heart of Peter the Patrician from the sword to the cloister, grant through his intercession that we may set aside the distractions of the world and pursue the one thing necessary. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Patrician_(9th_century)"
+  ],
+  "featured": false,
+  "draft": false
+}

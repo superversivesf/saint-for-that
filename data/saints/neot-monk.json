@@ -1,0 +1,29 @@
+{
+  "slug": "neot-monk",
+  "name": "St. Neot",
+  "feastDay": "07-31",
+  "bio": "Saint Neot was an English monk of the ninth century, formed in the monastic life at Glastonbury Abbey. He preferred to perform his devotions privately, seeking God in solitude rather than in the praise of men, and he later withdrew to live an isolated life of prayer in Cornwall, near the village that now bears his name, Saint Neot. His wisdom and religious dedication earned him the admiration of the brothers, who regarded him as a man of singular holiness, and he journeyed to Rome to visit the Pope, who instructed him to found a monastery in Cornwall, a center of prayer in that wild region. Legends gathered around his memory in later ages, associating him with wonders among the fishes, and he has been invoked as a patron of fish. His feast is kept on 31 July.",
+  "patronages": [
+    {
+      "need": "fishermen",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Neot from the life of the monastery to the solitude of Cornwall and made him a father of prayer in a wild land, grant through his intercession that all who seek You in quiet may find You near and that those who labor upon the waters may be kept under Your care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Neot_(monk)"
+  ],
+  "featured": false,
+  "draft": false
+}

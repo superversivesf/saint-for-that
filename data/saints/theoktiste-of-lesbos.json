@@ -1,0 +1,29 @@
+{
+  "slug": "theoktiste-of-lesbos",
+  "name": "St. Theoktiste of Lesbos",
+  "feastDay": "11-09",
+  "bio": "Saint Theoktiste of Lesbos is honored as a saint by both the Eastern Orthodox Church and the Catholic Church. Her name means \"the one established by God,\" and she is numbered among the holy women of the Byzantine world whose lives of prayer and asceticism adorned the island of Lesbos.\n\nHer memory is preserved in the liturgy of the East, where her feast is kept on November 9. Her veneration points to the deep tradition of female holiness in the Byzantine Church, where women as well as men answered the call to the eremitic and monastic life, fasting and praying on islands, in caves, and in the quiet cells of the great monastic houses. She is a companion of the many saints of Lesbos whose prayers sustained the faith of that island through centuries of peace and persecution.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Theoktiste to a life of prayer and solitude, grant through her intercession that we may turn from the noise of the world to the quiet of Your presence, and find in Your love the home our hearts desire. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theoktiste_of_Lesbos"
+  ],
+  "featured": false,
+  "draft": false
+}

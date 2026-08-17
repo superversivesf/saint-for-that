@@ -1,0 +1,29 @@
+{
+  "slug": "sisenandus-of-beja",
+  "name": "St. Sisenandus of Beja",
+  "feastDay": "10-24",
+  "bio": "Saint Sisenandus of Beja was a Christian deacon and martyr of ninth-century al-Andalus. Born in Beja in present-day Portugal, he lived under Muslim rule during the reign of Abd al-Rahman II, Emir of Córdoba. Convinced that public witness to the faith was more valuable than quiet safety, Sisenandus openly professed Christ before the Islamic authorities. For this bold confession he was arrested, condemned, and put to death, becoming one of the Martyrs of Córdoba. His feast is kept on October 24, and he is honored as a courageous witness who chose fidelity to Christ over earthly life. His example strengthened many Christians living under religious persecution.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Sisenandus to confess the name of Christ even unto death, grant through his intercession that we may bear witness to Your truth with courage and never fail in fidelity to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sisenandus_of_Beja"
+  ],
+  "featured": false,
+  "draft": false
+}

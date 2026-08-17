@@ -1,0 +1,25 @@
+{
+  "slug": "richardis",
+  "name": "St. Richardis",
+  "feastDay": "09-18",
+  "bio": "Saint Richardis, also known as Richgard or Richardis of Swabia, was empress of the Carolingian Empire as the wife of Charles the Fat. Born into nobility around 840, she was renowned from her youth for piety and charity. As empress she used her position to build churches and care for the poor, yet her marriage remained unconsummated, and Charles repudiated her, accusing her unjustly.\n\nCleared of the charges after a trial by ordeal, Richardis withdrew from court and devoted herself to God. She founded the abbey of Andlau in Alsace and became its first abbess, living in prayer and service to the poor until her death around 895.\n\nCanonized in 1049, she is venerated on September 18 and invoked for protection against fire, a patron of the innocent and of those who suffer injustice with grace.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Richardis in innocence and led her to a life of prayer and service, grant through her intercession protection from every danger of fire and grace to serve You in humility. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Richardis"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "perfectus",
+  "name": "St. Perfectus",
+  "feastDay": "04-18",
+  "bio": "Saint Perfectus, known in Spanish as Santo Perfecto, was a priest of Córdoba who laid down his life for Christ on 18 April 850. Living under Muslim rule in al-Andalus, he was challenged by fellow citizens to defend his faith and, after earnest deliberation, openly proclaimed the truth of Christ before them. For this witness he was seized and put to death, one of the first of the Martyrs of Córdoba whose sufferings were recorded by St. Eulogius in the Memoriale Sanctorum. His courage gave strength to many who came after him in those same persecutions. He is venerated as a martyr and a confessor who loved Christ more than life.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Perfectus the grace to confess Your name before those who opposed him and to lay down his life in witness to Your truth, grant through his intercession that all who suffer for the Gospel may be courageous, and that all priests may be faithful heralds of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perfectus"
+  ],
+  "featured": false,
+  "draft": false
+}

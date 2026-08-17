@@ -1,0 +1,29 @@
+{
+  "slug": "odulf",
+  "name": "St. Odulf",
+  "feastDay": "06-12",
+  "bio": "Odulf, also spelled Odwulf, was a ninth-century monk of Evesham in England who felt the call to carry the Gospel to peoples yet unacquainted with Christ. Sent as a missionary to the Frisians on the North Sea coast, he labored among them with patience and courage, preaching, baptizing, and founding churches in a land only recently touched by the Christian faith. He is remembered in the calendars of the medieval English Church as a saintly monk and missionary. His feast is kept on 12 June. Little certain detail of his life survives, but his witness as a monk who left his homeland for the sake of the Gospel endured among the faithful.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Odulf to preach the Gospel to the Frisians and to gather them into Your Church, grant through his intercession that all who labor in the missions may bear fruit in patience, and that all who have not yet heard Your name may receive the light of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Odulf"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rabanus-maurus",
+  "name": "St. Rabanus Maurus",
+  "feastDay": "02-04",
+  "bio": "Rabanus Maurus Magnentius, also known as Hrabanus or Rhabanus, was a Frankish Benedictine monk, theologian, poet, encyclopedist, and writer who became archbishop of Mainz. Educated at Fulda and at Tours under Alcuin, he absorbed the learning of the Carolingian Renaissance and became one of its leading lights, earning the title \"Praeceptor Germaniae,\" the teacher of Germany.\n\nHis encyclopaedia De rerum naturis synthesised ancient and Christian knowledge, and he wrote treatises on education and grammar, commentaries on Scripture, and works on military matters.\n\nIn the most recent edition of the Roman Martyrology his feast is given as February 4, and he is named a Saint. Rabanus is venerated as a model of Christian learning and pastoral zeal, a scholar whose mind served the Gospel.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "poets",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Rabanus Maurus a teacher of Germany and a light of learning in Your Church, grant through his intercession that all who teach may lead others to the wisdom of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rabanus_Maurus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "methodios-i-of-constantinople",
+  "name": "St. Methodios I of Constantinople",
+  "feastDay": "06-14",
+  "bio": "Saint Methodios I served as Ecumenical Patriarch of Constantinople from 11 March 843 until his death on 14 June 847, remembered as the bishop who restored the veneration of icons in the Byzantine Church, marking the triumph of orthodoxy and the end of the second period of Iconoclasm. In 843, after decades in which sacred images had been broken and their defenders persecuted, he presided over the restoration of the holy icons, a date kept in the Eastern Church as the Sunday of Orthodoxy. He had suffered under the iconoclast emperors, enduring prison for his defense of the images, and as patriarch governed the Church with gentleness. Venerated in both the Eastern Orthodox and Catholic Churches, his feast on 14 June witnesses to the unity of East and West in honoring the confessors of faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Methodios I a confessor of the holy icons and a restorer of right worship in Your Church, grant through his intercession that all who honor the sacred images may be strengthened in faith and that the unity of East and West may be renewed in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Methodios_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

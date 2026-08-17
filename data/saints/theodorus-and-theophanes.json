@@ -1,0 +1,29 @@
+{
+  "slug": "theodorus-and-theophanes",
+  "name": "St. Theodorus and Theophanes",
+  "feastDay": "10-11",
+  "bio": "Saints Theodorus and Theophanes, called the Grapti (\"the Branded\"), are remembered as bold proponents of the veneration of icons during the second Iconoclastic controversy, when the emperors of Byzantium forbade the honoring of sacred images. The brothers were natives of Jerusalem, educated in the holy city and trained in the monastic life before being called to Constantinople to defend the faith.\n\nFor their refusal to accept the iconoclast decrees they were imprisoned, exiled, and finally branded on the forehead with satirical verses by order of the Emperor Theophilos. Theodorus died in prison, while Theophanes survived to see the restoration of icons in 843 and was later made bishop of Nicaea. Their feast is kept on October 11, a witness to the triumph of the holy images.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained the brothers Theodorus and Theophanes in prison and exile for the sake of Your holy images, grant through their intercession that we may never be ashamed to confess the faith we have received, and bear with patience whatever marks our fidelity may require. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodorus_and_Theophanes"
+  ],
+  "featured": false,
+  "draft": false
+}

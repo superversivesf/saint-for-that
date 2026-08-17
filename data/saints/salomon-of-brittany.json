@@ -1,0 +1,25 @@
+{
+  "slug": "salomon-of-brittany",
+  "name": "St. Salomon of Brittany",
+  "feastDay": "06-25",
+  "bio": "Saint Salomon was a ninth-century ruler of Brittany who served as count of Rennes and Nantes from 852 and duke of Brittany from 857 until his death. A shrewd political leader, he secured the counties of Avranches and Coutances from the Frankish crown in 867 and used the title king of Brittany intermittently after 868. Despite the violent age in which he lived, Salomon was remembered for his generosity to the Church and his support of monastic foundations. His reign ended in assassination in 874, and he was venerated as a martyr and protector of the Breton people. His cult endured for centuries in the churches and monasteries he had patronized.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "Almighty God, who crowned Saint Salomon with the palm of martyrdom after a life of service to his people and Your Church, grant through his intercession that rulers may govern with justice and that the faithful may stand firm in adversity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Salomon_of_Brittany"
+  ],
+  "featured": false,
+  "draft": false
+}

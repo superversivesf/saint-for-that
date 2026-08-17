@@ -1,0 +1,33 @@
+{
+  "slug": "theodore-the-studite",
+  "name": "St. Theodore the Studite",
+  "feastDay": "11-11",
+  "bio": "Saint Theodore the Studite was a Byzantine Greek monk and the great abbot of the Stoudios Monastery in Constantinople. He played a major role in the revival both of Byzantine monasticism and of classical literary genres, restoring discipline to ancient foundations and shaping the liturgical life of the Eastern Church for centuries.\n\nHe is remembered as a zealous opponent of iconoclasm, a conflict that set him at odds with emperor and patriarch. For his defense of the holy images he suffered exile, prison, and flogging, yet never ceased to write and to encourage his monks. He corresponded with many figures of the Byzantine Empire, including the composer and nun Kassia. He died in 826, leaving letters, catecheses, and hymns that remain a treasure of Byzantine spirituality.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    },
+    {
+      "need": "poets",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Theodore the Studite the courage to defend Your holy images in the face of imperial power, grant through his intercession that monks and all the faithful may preserve the traditions of Your Church with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_the_Studite"
+  ],
+  "featured": false,
+  "draft": false
+}

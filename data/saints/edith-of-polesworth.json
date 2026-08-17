@@ -1,0 +1,29 @@
+{
+  "slug": "edith-of-polesworth",
+  "name": "St. Edith of Polesworth",
+  "feastDay": "07-15",
+  "bio": "Saint Edith of Polesworth was an Anglo-Saxon abbess venerated in the Kingdom of Mercia. She is traditionally associated with Polesworth Abbey in Warwickshire and with the royal centre of Tamworth in Staffordshire, where her major shrine was located. Though widely revered as a saint from early times, her historical identity and the period of her activity remain uncertain, and scholars have proposed several identifications, including that she was a daughter of King Edward the Elder. As abbess she governed a community of women religious with wisdom and holiness, and her cult flourished in the Midlands throughout the medieval period. Her feast is kept on July 15, and she is remembered as a patron of those who lead communities in the religious life.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Edith of Polesworth a wise and holy mother for the community entrusted to her care, grant through her intercession that all who lead in religious life may guide their sisters with charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edith_of_Polesworth"
+  ],
+  "featured": false,
+  "draft": false
+}

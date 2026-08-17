@@ -1,0 +1,25 @@
+{
+  "slug": "conrad-of-constance",
+  "name": "St. Conrad of Constance",
+  "feastDay": "11-26",
+  "bio": "Conrad of Constance was a German bishop and saint of the late tenth and early eleventh centuries. As bishop of Constance he shepherded his flock with wisdom during a turbulent age of imperial politics and monastic reform, and was remembered for his generosity to the poor and his devotion to the liturgy. He was a friend and benefactor of the great monastery of Reichenau and supported the renewal of ecclesiastical discipline in Swabia. After a long and fruitful episcopate he died on November 26, and his cult was confirmed by popular veneration. He is honored as a model of pastoral zeal among the bishops of medieval Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Conrad of Constance a faithful shepherd of Your people and a patron of the Church in Germany, grant through his intercession that all bishops may govern with wisdom and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Conrad_of_Constance"
+  ],
+  "featured": false,
+  "draft": false
+}

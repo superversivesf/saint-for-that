@@ -1,0 +1,25 @@
+{
+  "slug": "beornstan-of-winchester",
+  "name": "St. Beornstan of Winchester",
+  "feastDay": "11-04",
+  "bio": "Beornstan was an English bishop of Winchester in the early tenth century, consecrated to that see in May of 931. He governed the diocese during a period of rebuilding and reform in the English Church, following the devastations of Viking raids and the renewal promoted by King Athelstan and the monastic revival then underway.\n\nHe died on November 1, 934, the feast of All Saints, and was soon honored as a saint by the clergy and people of Winchester. Though the written record of his episcopate is brief, the reverence shown to his memory after death testifies to a life of piety and pastoral care that left a lasting impression on his diocese.\n\nHis feast is traditionally kept on November 4, the day of his burial, and he is numbered among the saints of pre-Conquest England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who glorified Your servant Beornstan as a faithful bishop of Winchester, grant through his intercession that the shepherds of Your Church may guide their people with holiness and care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beornstan_of_Winchester"
+  ],
+  "featured": false,
+  "draft": false
+}

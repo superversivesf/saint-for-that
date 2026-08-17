@@ -1,0 +1,29 @@
+{
+  "slug": "lazarus-zographos",
+  "name": "St. Lazarus Zographos",
+  "feastDay": "02-23",
+  "bio": "Lazarus, surnamed Zographos, was a ninth-century Byzantine saint also known as Lazarus the Painter and Lazarus the Iconographer. Born in Armenia on November 17, 810, he lived during the second period of Byzantine Iconoclasm, when the veneration of sacred images was fiercely persecuted.\n\nDespite the dangers, Lazarus devoted his life to painting holy icons, bearing witness that the invisible God is made visible in Christ. He suffered for his fidelity to the holy images and continued his sacred work amid hostility from iconoclast emperors.\n\nLazarus was the first saint canonized specifically as an iconographer, later followed by Saint Catherine of Bologna. He is remembered as a defender of sacred art and a model of perseverance amid persecution.",
+  "patronages": [
+    {
+      "need": "artists",
+      "category": "everyday"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gifted St. Lazarus Zographos with the brush of faith to paint Your holy images amid persecution, grant through his intercession that artists may find in their work a path to You and that Your Church may ever treasure the icons that lift our hearts to heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lazarus_Zographos"
+  ],
+  "featured": false,
+  "draft": false
+}

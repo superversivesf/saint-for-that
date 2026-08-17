@@ -1,0 +1,29 @@
+{
+  "slug": "theophylact-of-nicomedia",
+  "name": "St. Theophylact of Nicomedia",
+  "feastDay": "unknown",
+  "bio": "Theophylact, also known as Theophylaktos, became bishop of Nicomedia in Asia Minor during the turbulent Iconoclastic Controversy of the eighth century. As a steadfast defender of the orthodox faith, he upheld the veneration of sacred images against the iconoclast emperors and their supporters.\n\nThough details of his early life are scarce, tradition holds that he shepherded his flock with courage during a time of imperial persecution, enduring hostility from those who sought to strip the churches of their holy icons. He remained faithful to the teaching of the Church and guided his people through a period of confusion and division.\n\nVenerated as a confessor and bishop, Theophylact is remembered for his unwavering witness to the truth in an age of conflict.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Theophylact of Nicomedia courage to defend the holy icons amid persecution, grant through his intercession that bishops and all the faithful may stand firm in the truth and preserve the unity of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theophylact_of_Nicomedia"
+  ],
+  "featured": false,
+  "draft": false
+}

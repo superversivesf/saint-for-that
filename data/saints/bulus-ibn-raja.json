@@ -1,0 +1,29 @@
+{
+  "slug": "bulus-ibn-raja",
+  "name": "St. Bulus ibn Raja'",
+  "feastDay": "unknown",
+  "bio": "Bulus ibn Raja, known by the nickname al-Wadih, was an Egyptian Coptic Christian monk, priest, and apologist who lived under the Fatimid Caliphate. Born a Muslim, he converted to Christianity as a young man and embraced the monastic life, eventually being ordained a priest. He wrote in Arabic, the common tongue of his land, and devoted himself to defending the Christian faith in a predominantly Islamic society.\n\nHis writings and his witness made him a notable figure among the Copts of his generation. As a convert who had crossed the boundary between faiths, he understood both traditions and sought to explain the truth of Christ with clarity and charity.\n\nThe details of his later life and death are obscure, but he is remembered in the Coptic tradition as a confessor and defender of the faith.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bulus ibn Raja from Islam to the fullness of faith in Christ, grant through his intercession that all who seek the truth may find it and that Your Church may be strengthened by the witness of converts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bulus_ibn_Raja%27"
+  ],
+  "featured": false,
+  "draft": false
+}

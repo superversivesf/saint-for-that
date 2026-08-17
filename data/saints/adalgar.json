@@ -1,0 +1,25 @@
+{
+  "slug": "adalgar",
+  "name": "St. Adalgar",
+  "feastDay": "04-29",
+  "bio": "Adalgar, reverenced as a saint in both the Roman Catholic and Eastern Orthodox Churches, served as the third Archbishop of Bremen from 888 until his death. Leading one of the great missionary sees of northern Europe, he governed at a time when the work of planting the faith among the Scandinavian and Slavic peoples was still young. Though the chronicles preserve few details of his labors, his long episcopate helped maintain the see of Bremen as a center from which the Gospel radiated into the northern lands. His feast is kept on 29 April. He is remembered as a faithful hierarch who steadied the Church in a frontier age and handed on the mission to those who came after him.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Adalgar to govern the see of Bremen in a frontier age, grant through his intercession that bishops may govern Your Church with steadfast love and that the faith may spread to every land still in shadow. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adalgar"
+  ],
+  "featured": false,
+  "draft": false
+}

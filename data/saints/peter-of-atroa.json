@@ -1,0 +1,29 @@
+{
+  "slug": "peter-of-atroa",
+  "name": "St. Peter of Atroa",
+  "feastDay": "01-03",
+  "bio": "Peter of Atroa, born in 773, was a monk and abbot of the monastery at Atroa in Bithynia during the age of the iconoclast troubles. He withdrew from his monastery during the first wave of persecution against the holy icons and wandered as a pilgrim and hermit, bearing witness by his patience to the ancient faith. When peace was restored to the Church, he returned to guide his community and was renowned as a worker of miracles and a father of monks. He died in peace in 837 and was honored as a saint. He is remembered as a shepherd of monks and a helper of those who seek healing of body and soul.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Peter of Atroa a father of monks and a worker of wonders in the days of the iconoclast strife, grant through his intercession that all who seek healing of body or soul may find refreshment in You, and that all who wander for Your name may arrive at the home of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_of_Atroa"
+  ],
+  "featured": false,
+  "draft": false
+}

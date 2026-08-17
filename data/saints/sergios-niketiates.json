@@ -1,0 +1,25 @@
+{
+  "slug": "sergios-niketiates",
+  "name": "St. Sergios Niketiates",
+  "feastDay": "unknown",
+  "bio": "Sergios Niketiates was a senior Byzantine official of the Amorian dynasty who served the empire in high office yet is remembered chiefly for his part in the restoration of the veneration of holy icons. After generations of iconoclast strife had torn the Church, Sergios labored alongside the confessors of the faith to bring back the sacred images to the houses of God. The Eastern Orthodox Church celebrates his memory on 28 June, honoring him as a holy layman who served the truth in public life. The precise year of his death is uncertain, but his witness to the faith endured among the faithful of Constantinople.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Sergios Niketiates to labor for the restoration of holy worship amid the disorders of his age, grant through his intercession that all who serve You in public life may be found faithful, and that the veneration of Your holy ones may flourish again. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sergios_Niketiates"
+  ],
+  "featured": false,
+  "draft": false
+}

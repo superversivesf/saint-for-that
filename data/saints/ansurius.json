@@ -1,0 +1,29 @@
+{
+  "slug": "ansurius",
+  "name": "St. Ansurius",
+  "feastDay": "01-26",
+  "bio": "Ansurius was a Galician bishop who shepherded the diocese of Orense in the northwest of the Iberian Peninsula, becoming its bishop in 915. After years of governing his see, he gave up his post in 922 to embrace the monastic life at the monastery of Ribas de Sil, which he himself had helped to found. In laying down the cares of the episcopate for the silence of the cloister, he followed the ancient ideal of a bishop who ends his days as a monk. He is venerated as a saint in both the Eastern Orthodox and Roman Catholic Churches, and his feast is kept on 26 January. He is remembered as a pastor who chose the monastery over the palace and who rounded out his episcopal labors with the pursuit of contemplation.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Ansurius from the chair of a bishop to the silence of a monastery, grant through his intercession that pastors may long for the contemplation of Your face and that monks may show forth the peace of the world to come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ansurius"
+  ],
+  "featured": false,
+  "draft": false
+}

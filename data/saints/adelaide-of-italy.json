@@ -1,0 +1,29 @@
+{
+  "slug": "adelaide-of-italy",
+  "name": "St. Adelaide of Italy",
+  "feastDay": "12-16",
+  "bio": "Adelaide of Italy, also called Adelaide of Burgundy, was Holy Roman Empress by her marriage to Emperor Otto the Great, crowned with him by Pope John XII in Rome on 2 February 962. She was the first German queen to be consistently styled consors regni, a co-bearer of royalty who shared power with her husband, and she set the pattern for the consorts who followed her. Widowed, she served as regent of the Holy Roman Empire from 991 to 995, guarding the throne for her grandson Otto III. Deeply pious, she lavished her patronage on churches and monasteries and cared for the poor, earning a reputation for sanctity even amid court life. She died in 999 and was canonized, and her feast is kept on 16 December. She is a model of Christian nobility and of widows.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Adelaide to be an empress of mercy and a mother to the poor, grant through her intercession that those entrusted with worldly power may use it for the service of others and that widows may find in You their unfailing portion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adelaide_of_Italy"
+  ],
+  "featured": false,
+  "draft": false
+}

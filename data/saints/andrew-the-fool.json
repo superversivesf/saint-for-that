@@ -1,0 +1,25 @@
+{
+  "slug": "andrew-the-fool",
+  "name": "St. Andrew the Fool",
+  "feastDay": "10-02",
+  "bio": "Andrew of Constantinople is honored as a saint by the Eastern Orthodox Church and is revered as one of the famous fools for Christ, those holy men and women who took on the appearance of madness for the sake of the Gospel and so emptied themselves of worldly honor. Tradition holds that he wandered the streets of Constantinople bearing the mockery and contempt of the crowds while hidden from most eyes in divine wisdom, and that he was granted visions of the heavenly courts. By embracing folly for Christ's sake he followed the pattern of the Apostle who proclaimed the wisdom of the Cross as foolishness to the world. His feast is kept on 2 October. He is remembered as a fool-for-Christ, a mystic, and a living sign that the wisdom of God confounds the wisdom of this age.",
+  "patronages": [
+    {
+      "need": "humor",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Andrew the Fool a living sign that the wisdom of the Cross is foolishness to the world, grant through his intercession that we may be freed from the love of human praise and may seek only the approval of Your eyes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_the_Fool"
+  ],
+  "featured": false,
+  "draft": false
+}

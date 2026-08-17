@@ -1,0 +1,25 @@
+{
+  "slug": "plato-of-sakkoudion",
+  "name": "St. Plato of Sakkoudion",
+  "feastDay": "04-04",
+  "bio": "Plato the Studite, also known as Plato of Sakkoudion, was a Byzantine official who forsook his career to become a monk in 759. After refusing the metropolitan see of Nicomedia, in 783 he founded the monastery of Sakkoudion on Mount Olympus in Bithynia and became its first abbot.\n\nHe is remembered for his courageous defense of sacred images during the Iconoclast controversy and his participation in the Second Council of Nicaea in 787. He also firmly opposed the second marriage of Emperor Constantine VI to his niece Theodote, for which he suffered imprisonment and exile.\n\nTogether with his nephew Theodore the Studite, Plato helped shape the reforming monastic tradition of Byzantium. Venerated on April 4, he is honored as a champion of conscience who would not bend even to emperors.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your servant Plato courage to defend the holy images and to oppose the powerful for the sake of conscience, grant through his intercession that we may never sacrifice truth for favor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plato_of_Sakkoudion"
+  ],
+  "featured": false,
+  "draft": false
+}

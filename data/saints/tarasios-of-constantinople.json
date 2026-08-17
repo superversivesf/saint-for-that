@@ -1,0 +1,29 @@
+{
+  "slug": "tarasios-of-constantinople",
+  "name": "St. Tarasios of Constantinople",
+  "feastDay": "02-18",
+  "bio": "Saint Tarasios was born in Constantinople into a noble Byzantine family and served as a senior imperial official before his elevation to Ecumenical Patriarch on 25 December 784. A layman of great learning, he accepted only on condition that the veneration of icons, suppressed by iconoclast emperors, would be restored. Under his persuasion, Empress Irene convened the Second Council of Nicaea in 787, which affirmed the veneration of sacred images and condemned iconoclasm.\n\nHe governed the Church of Constantinople for over two decades with wisdom, sustaining peace amid imperial turbulence. He was a patron of monasteries, a builder of hospitals, and a man of deep prayer who lived ascetically though he held the highest see in the East. He died on 25 February 806.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "everyday"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Tarasios to heal the divisions of Your Church and restore the veneration of Your holy images, grant through his intercession that we may honor Your mysteries with reverence and confess Your truth with charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tarasios_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}
