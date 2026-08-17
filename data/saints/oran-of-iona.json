@@ -1,0 +1,21 @@
+{
+  "slug": "oran-of-iona",
+  "name": "St. Oran of Iona",
+  "feastDay": "10-27",
+  "bio": "Saint Oran, or Odran, was by tradition a descendant of the Irish hero Conall Gulban and a companion of Saint Columba on his journey to Iona. There, among the first acts of the new monastic settlement, Oran became the first Christian to be buried on the island, his grave consecrating the ground on which Columba would build his famous monastery. The tradition of his burial gave rise to one of the most haunting stories of Iona, in which Oran's burial, whether voluntary or not, made possible the founding of the community. His feast is kept on 27 October. Down the centuries folk devotion in Ireland has named him in unexpected places, from Waterford to the Silvermines parish of County Tipperary, where his memory lingered among the people.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Oran the first to be laid to rest on holy Iona, consecrating the ground for Columba's monastery, grant through his intercession that we may rest in your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oran_of_Iona"
+  ],
+  "featured": false,
+  "draft": false
+}

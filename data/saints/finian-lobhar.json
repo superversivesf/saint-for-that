@@ -1,0 +1,29 @@
+{
+  "slug": "finian-lobhar",
+  "name": "St. Finian Lobhar",
+  "feastDay": "03-16",
+  "bio": "Saint Finian the Leper was an early Irish saint credited by some sources with founding a church and monastery at Innisfallen on the lakes of Killarney. His surname Lobhar, meaning 'the Leper,' marks him as one who bore the affliction of that dread disease with patience and offered his suffering to God. In the tradition of the Irish monastic saints, he gathered disciples around him on the island of Innisfallen, which became a house of prayer and learning in the wild beauty of Kerry. His feast is kept on March 16. He is remembered among the holy monks of early Ireland who built their monasteries in quiet places and there served God in poverty, vigil, and praise. Through his intercession the afflicted have sought comfort, and the Church of Ireland has honored him among its earliest fathers.",
+  "patronages": [
+    {
+      "need": "lepers",
+      "category": "illness"
+    },
+    {
+      "need": "leprosy",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Finian the Leper grace to bear his affliction with patience and to found a house of prayer at Innisfallen, grant through his intercession that the sick may find comfort in their suffering and that we may serve you in poverty and praise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finian_Lobhar"
+  ],
+  "featured": false,
+  "draft": false
+}

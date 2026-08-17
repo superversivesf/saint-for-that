@@ -1,0 +1,25 @@
+{
+  "slug": "john-the-prophet",
+  "name": "St. John the Prophet",
+  "feastDay": "02-06",
+  "bio": "John the Prophet, known also as Venerable John, was an Eastern Christian hermit of the Monastery of Seridus in sixth-century Palestine and the revered teacher of Dorotheus of Gaza. Living in the ascetic tradition of the Desert Fathers, he was sought out by monks and pilgrims for his gift of spiritual discernment. Dorotheus, who would himself be remembered as a master of the spiritual life, received his formation under John's guidance and preserved his teachings in his own writings. John was accounted a prophet not for foretelling the future but for seeing into the depths of the human heart, and he guided many souls along the narrow path of holiness. Venerated in both the Roman Catholic and Eastern Orthodox churches, his feast is kept on February 6.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. John the Prophet with the gift of discerning hearts and made him a guide of souls in the desert, grant through his intercession that we may be attentive to the movements of Your Spirit and walk faithfully in the way of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Prophet"
+  ],
+  "featured": false,
+  "draft": false
+}

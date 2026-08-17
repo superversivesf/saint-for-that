@@ -1,0 +1,25 @@
+{
+  "slug": "paul-aurelian",
+  "name": "St. Paul Aurelian",
+  "feastDay": "03-12",
+  "bio": "Saint Paul Aurelian was a sixth-century Welshman who crossed the sea to Brittany and became the first bishop of the See of Léon, one of the seven founder saints who planted the faith in the Armorican peninsula. Tradition held that he lived to the remarkable age of 140 and died in 575, assisted in his labors by three successive coadjutors, a detail that led scholars to suspect that several bishops named Paul may have been conflated into one hagiographical figure. Gilbert Hunter Doble even suggested he may be identical with Saint Paulinus of Wales. Whatever the exact history, Paul's cult was strong in Brittany, and his shrine at Fleury drew pilgrims for centuries. He is remembered as one of the founding fathers of the Breton Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Paul Aurelian across the sea to be the first bishop of Léon, grant through his intercession that the Church may ever find faithful pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paul_Aurelian"
+  ],
+  "featured": false,
+  "draft": false
+}

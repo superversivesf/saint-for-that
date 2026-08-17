@@ -1,0 +1,33 @@
+{
+  "slug": "maurus",
+  "name": "St. Maurus",
+  "feastDay": "01-15",
+  "bio": "Saint Maurus (512-584) was a Benedictine monk celebrated as the first and model disciple of Saint Benedict of Nursia. According to Saint Gregory the Great, Maurus was the first oblate, offered to the monastery by his noble Roman parents as a boy to be raised in the monastic life. So complete was his obedience that, on one famous occasion, he ran across the surface of a lake to save a drowning boy, so absorbed in prayer that he did not notice the miracle. Sent to Gaul, he founded the abbey of Glanfeuil and spread the Rule of Saint Benedict across the Frankish lands. He is invoked against rheumatism, epilepsy, gout, hoarseness, and cold.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    },
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maurus the first oblate of Benedict and a model of obedience, grant through his intercession that we may serve you with the same fidelity, and obtain healing for all who suffer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Maurus"
+  ],
+  "featured": false,
+  "draft": false
+}

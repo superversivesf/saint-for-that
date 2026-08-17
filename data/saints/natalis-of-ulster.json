@@ -1,0 +1,21 @@
+{
+  "slug": "natalis-of-ulster",
+  "name": "St. Natalis of Ulster",
+  "feastDay": "unknown",
+  "bio": "Saint Natalis was a sixth-century Irish monk and saint of Ulster. Little has come down to us about the details of his life, yet he is remembered among the host of holy monks who gave Ireland its reputation as the \"land of saints and scholars\" during the early medieval flowering of Irish Christianity. He embraced the monastic discipline of his age, devoting himself to prayer, learning, and the service of the community. His name is recorded in the early martyrologies, where his feast was kept by the faithful. His feast day is not recorded in the surviving sources. He is honored as one of the hidden founders of Irish monastic sanctity.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Natalis to seek You in the monastic life of early Ireland, grant through his intercession that we may value prayer and learning as pathways to Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Natalis_of_Ulster"
+  ],
+  "featured": false,
+  "draft": false
+}

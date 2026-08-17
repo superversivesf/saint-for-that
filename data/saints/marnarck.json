@@ -1,0 +1,21 @@
+{
+  "slug": "marnarck",
+  "name": "St. Marnarck",
+  "feastDay": "08-03",
+  "bio": "St. Marnarck, also known as Manaccus, was a bishop revered in early medieval Cornwall and Wales. According to the antiquary William Worcester, his body rested in the church of Lanreath, where he was honored as the patron saint of the parish. His memory endured through generations of local devotion, and he is commemorated in one of the stained glass windows of St Neot parish church. Though few details of his life survive, his episcopal care and the persistence of his cult mark him as a shepherd of souls in a remote and faithful corner of Britain. His feast is observed on the third of August.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Marnarck to guide your faithful as bishop of Lanreath, grant through his intercession that we may walk as faithful shepherds of one another in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marnarck"
+  ],
+  "featured": false,
+  "draft": false
+}

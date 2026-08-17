@@ -1,0 +1,21 @@
+{
+  "slug": "sacerdos-of-saguntum",
+  "name": "St. Sacerdos of Saguntum",
+  "feastDay": "unknown",
+  "bio": "Saint Sacerdos of Saguntum is a Spanish saint venerated as a bishop of Saguntum, the ancient town on the eastern coast of Hispania. He is honored as the patron saint of that town, where the faithful have long invoked his intercession. He is said to have died of natural causes, and his memory has been preserved in the devotion of the local church through the centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Sacerdos a faithful shepherd of Saguntum and patron of its people, grant through his intercession that the towns and cities of the world may be blessed with pastors after your own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sacerdos_of_Saguntum"
+  ],
+  "featured": false,
+  "draft": false
+}

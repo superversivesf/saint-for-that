@@ -1,0 +1,21 @@
+{
+  "slug": "nidan",
+  "name": "St. Nidan",
+  "feastDay": "unknown",
+  "bio": "Nidan was a Welsh priest and, according to some sources, a bishop of the sixth and seventh centuries. He served as confessor for the monastery on Anglesey led by Saint Seiriol at Penmon, and he established a church at the place now known as Llanidan, both sites on the Welsh island of Anglesey. Two churches there bear his name: the nineteenth-century St Nidan's Church, Llanidan, and its medieval predecessor, the Old Church of St Nidan. Midmar Old Kirk in Aberdeenshire, Scotland, is also dedicated to him, for Nidan is said to have traveled north as a companion of Saint Kentigern to help establish Christianity in that region. A reliquary at Llanidan, dating from the fourteenth or sixteenth century, is said to house his relics, a quiet witness to the devotion he once inspired.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Nidan established churches in Wales and Scotland and made him a wise confessor of monks, grant through his intercession that we may confess your name faithfully. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nidan"
+  ],
+  "featured": false,
+  "draft": false
+}

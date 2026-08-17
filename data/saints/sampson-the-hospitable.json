@@ -1,0 +1,29 @@
+{
+  "slug": "sampson-the-hospitable",
+  "name": "St. Sampson the Hospitable",
+  "feastDay": "06-27",
+  "bio": "Sampson the Hospitable was a citizen of Constantinople who devoted his life and wealth to serving the poor and the sick of the imperial capital. A trained physician, he used his skills to heal both body and soul, receiving the destitute into his home and caring for them without charge. According to tradition, he once healed the emperor himself and refused any reward, asking only that he be allowed to continue his service. Sampson's home became a hospital in all but name, and he is remembered as one of the great Christian models of hospitality and charity. His feast is celebrated on June 27.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "physicians",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who filled St. Sampson with love for the poor and skill for the sick, grant through his intercession that we may see Your face in those who suffer and serve them with generous hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sampson_the_Hospitable"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pyr",
+  "name": "St. Pyr",
+  "feastDay": "unknown",
+  "bio": "Saint Pyr was a Welsh abbot of the sixth century, revered in the early Celtic Church of Britain. Most of what is known of him comes through the First Life of Saint Samson, a foundational hagiographic text of the Welsh and Breton tradition, in which Pyr appears as part of the monastic landscape that shaped Samson's vocation.\n\nAs an abbot, Pyr governed a community of monks committed to prayer, study, and the disciplines of the Celtic rule, in which austerity and penance were joined to a deep love of the Psalms. The monasteries of sixth-century Wales were beacons of learning and holiness in a land still finding its Christian footing.\n\nThough later tradition was divided on the degree of his cult, Pyr's place in the story of Saint Samson secures his memory among the fathers of the Welsh Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Pyr to govern a house of monks in the early days of Welsh Christianity, grant through his intercession that we may be faithful guides to those who seek You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Pyr"
+  ],
+  "featured": false,
+  "draft": false
+}

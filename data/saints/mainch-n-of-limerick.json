@@ -1,0 +1,21 @@
+{
+  "slug": "mainch-n-of-limerick",
+  "name": "St. Mainchín of Limerick",
+  "feastDay": "01-02",
+  "bio": "Saint Mainchín mac Setnai, anglicized as Munchin, is venerated as the founder of the church of Limerick and its patron saint. His origins and the date of his connection to Limerick are debated by historians, but tradition places him among the early Irish saints who established the Christian faith along the Shannon.\n\nAs founder of the church of Luimneach, Mainchín is remembered as the father of the faith in the Limerick region, laying the spiritual foundations upon which later generations would build. His memory was cherished by the citizens of Limerick, who invoked him as their heavenly patron.\n\nHonored on January 2, he stands among the foundational figures of the early Irish church who brought the Gospel to the clans and settlements of the west.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who founded Your church in Limerick through the labors of St. Mainchín, grant through his intercession that the people of that city and all who honor him may remain steadfast in the faith he planted. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mainch%C3%ADn_of_Limerick"
+  ],
+  "featured": false,
+  "draft": false
+}

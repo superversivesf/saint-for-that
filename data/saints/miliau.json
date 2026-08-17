@@ -1,0 +1,25 @@
+{
+  "slug": "miliau",
+  "name": "St. Miliau",
+  "feastDay": "07-24",
+  "bio": "St. Miliau, also called Miliav, is a Breton saint and the eponym of the village of Guimiliau in Brittany, where he is particularly venerated. He is said to be a good saint to invoke in cases of rheumatism, and popular devotion in Brittany has long turned to him for relief from that ailment. St. Miliau is a figure of some importance in Breton cult and legend, and he is sometimes represented as a cephalophore, that is, holding his own severed head, an iconography shared with several martyr saints of the region. The legends tell that he was a prince who was murdered, and the head-carrying image marks him as a martyr of the early Breton church. It is hard to be sure what historical core lies beneath the legends, but his cult endures. His feast is kept on the twenty-fourth of July.",
+  "patronages": [
+    {
+      "need": "chronic pain",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Miliau a martyr's crown and a place in the hearts of the Breton faithful, grant through his intercession relief to all who suffer chronic pain, and courage to all who bear witness to your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miliau"
+  ],
+  "featured": false,
+  "draft": false
+}

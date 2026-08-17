@@ -1,0 +1,29 @@
+{
+  "slug": "samson-of-dol",
+  "name": "St. Samson of Dol",
+  "feastDay": "07-28",
+  "bio": "Samson of Dol was a Welsh saint born in southern Wales who became one of the greatest missionary bishops of early medieval Brittany. Ordained in Wales, he traveled to Cornwall and Ireland before crossing to Armorica, where he founded the monastery and see of Dol-de-Bretagne. He is counted among the seven founder saints of Brittany, alongside Pol Aurelian, Tugdual, Brieuc, Malo, Patern, and Corentin. His labors helped establish the Church among the Breton people, and he died at Dol in northern Brittany. He was the nephew of Athrwys ap Meurig. His feast is celebrated on July 28.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Samson from Wales to Brittany to preach the Gospel and found Your Church there, grant through his intercession that the faith may be ever renewed among the nations. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Samson_of_Dol"
+  ],
+  "featured": false,
+  "draft": false
+}

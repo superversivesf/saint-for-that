@@ -1,0 +1,29 @@
+{
+  "slug": "romanus-of-subiaco",
+  "name": "St. Romanus of Subiaco",
+  "feastDay": "05-22",
+  "bio": "Saint Romanus of Subiaco was a hermit in the area around Subiaco, Italy, living in the rugged hills east of Rome in the early centuries of monastic witness. He is remembered especially in connection with the young Benedict of Nursia, to whom he gave the monastic habit and who spent three years in a cave at Subiaco under his guidance. Romanus provided food and encouragement to Benedict during his years of solitude, serving as a quiet instrument of providence in the formation of one of the Church's greatest saints.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided your servant Benedict through the faithful care of the hermit Romanus, grant through his intercession that we may be instruments of your providence for those who seek you in solitude. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romanus_of_Subiaco"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "maximianus-of-ravenna",
+  "name": "St. Maximianus of Ravenna",
+  "feastDay": "02-21",
+  "bio": "Maximianus of Ravenna, also called Maximian, was bishop of Ravenna in the sixth century, when that city stood as the capital of the Byzantine Empire's territories in Italy. Consecrated bishop around 546, he shepherded his see through a turbulent age of Gothic wars and imperial politics, his role extending even to secular affairs of state. A close collaborator of Emperor Justinian, he commissioned some of the finest surviving monuments of early Christian art, including the mosaics of San Vitale, and was the first Latin bishop to be depicted in imperial regalia. He labored to maintain the faith amid the tensions of East and West, and died around 556, revered as a pastor and patron of sacred art.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "artists",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Maximianus a bishop of your Church and a patron of sacred beauty, grant through his intercession that we may adorn our faith with works worthy of your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximianus_of_Ravenna"
+  ],
+  "featured": false,
+  "draft": false
+}

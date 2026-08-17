@@ -1,0 +1,21 @@
+{
+  "slug": "monulph",
+  "name": "St. Monulph",
+  "feastDay": "unknown",
+  "bio": "Monulph was a sixth-century bishop who shepherded the Church in the diocese of Tongeren and later Maastricht, in what is now Belgium. He labored to strengthen the Christian communities along the Meuse that had been planted by earlier evangelists, consolidating the see and nurturing the faithful under his care. He is revered as a Roman Catholic saint and counted among the early bishops of the Low Countries who helped establish the Church in northern Europe. His feast day is not recorded in the sources. He is remembered as a pastor and builder of the Church in uncertain times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Monulph to guide Your people at Tongeren and Maastricht, grant through his intercession that our pastors may be steadfast in faith and fervent in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monulph"
+  ],
+  "featured": false,
+  "draft": false
+}

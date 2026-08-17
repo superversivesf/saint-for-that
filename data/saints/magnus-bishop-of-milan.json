@@ -1,0 +1,21 @@
+{
+  "slug": "magnus-bishop-of-milan",
+  "name": "St. Magnus",
+  "feastDay": "11-01",
+  "bio": "Saint Magnus served as Archbishop of Milan in the early sixth century, governing the see from about 518 until around 530. He succeeded Eustorgius II during a period when the church of Milan was recovering from the Gothic wars and the tensions between Catholic and Arian rulers.\n\nAs archbishop, Magnus labored to preserve the faith and unity of the Milanese church, holding fast to orthodox teaching while navigating the pressures of the Lombard and Gothic presence in northern Italy. He is honored among the early metropolitans of Milan who carried the legacy of St. Ambrose into the early medieval age.\n\nVenerated in both the Catholic and Orthodox churches, his feast is kept on November 1. He is remembered as a faithful pastor of one of the great sees of western Christendom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Magnus to shepherd the church of Milan through days of turmoil and division, grant through his intercession that Your church may ever be preserved in faith and unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Magnus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

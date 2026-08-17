@@ -1,0 +1,25 @@
+{
+  "slug": "matrona-of-perge",
+  "name": "St. Matrona of Perge",
+  "feastDay": "11-09",
+  "bio": "Matrona of Perge was a Byzantine saint of the sixth century who, seized by the desire to live wholly for God, left her husband and took up the monastic life. To escape detection she dressed as a man and took the name Babylos, living in a monastery of brothers who long knew nothing of her sex. She acted on the counsel of Saint Paul: \"those who have wives must live as though they had none.\" After her disguise was revealed by a miracle, she retired to a women's monastery in Constantinople, where she became abbess and guided many souls in the way of perfection. Her feast is kept on the ninth of November.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Matrona of Perge grace to forsake all for the cloister, grant through her prayers that we may prize the life to come above every worldly attachment. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matrona_of_Perge"
+  ],
+  "featured": false,
+  "draft": false
+}

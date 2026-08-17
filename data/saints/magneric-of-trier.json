@@ -1,0 +1,25 @@
+{
+  "slug": "magneric-of-trier",
+  "name": "St. Magneric of Trier",
+  "feastDay": "07-25",
+  "bio": "Saint Magneric of Trier was a Frankish bishop of the late sixth century, one of the first prelates to bear a Germanic name, and a revered figure in the church of the Rhineland. A friend and admirer of St. Gregory of Tours, he appears in the History of the Franks as a man of virtue and charity, described by the poet Venantius Fortunatus as an \"ornament of bishops.\"\n\nMagneric guided the see of Trier through turbulent years of royal rivalry and political upheaval, serving as a steady shepherd to his people. He ordained his disciple St. Géry, who became bishop of Cambrai-Arras under King Childebert II, extending his influence across the Frankish church.\n\nHonored with a feast on July 25, he is remembered as a model of episcopal charity and a father of the church in Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Magneric with the virtues of a true bishop and made him an ornament of Your church in Trier, grant through his intercession that all pastors may be known by their charity and steadfastness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Magneric_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

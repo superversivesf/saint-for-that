@@ -1,0 +1,25 @@
+{
+  "slug": "monan-saint",
+  "name": "St. Monan",
+  "feastDay": "unknown",
+  "bio": "Saint Monan was a Christian missionary in Fife, Scotland, probably a Gael by origin. Little is recorded of his life, yet his memory took deep root along the Fife coast. Monan is believed to have lived as a monk at the monastery of Pittenweem before withdrawing to a small cave near the site of the present St Monans Church, where he gave himself to prayer and penance. After his death the fishing village of St Monans grew up around his shrine and took his name. He is remembered as one of the quiet holy ones of early Scottish Christianity, whose obscurity on earth is crowned with honor in heaven. His feast day is not recorded.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "fishermen",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Monan to seek You in the solitude of a seaside cave, grant through his intercession that we may learn the value of quiet prayer and steadfast faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monan_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

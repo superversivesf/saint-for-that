@@ -1,0 +1,21 @@
+{
+  "slug": "machar",
+  "name": "St. Machar",
+  "feastDay": "11-12",
+  "bio": "Saint Machar was a sixth-century Irish saint who traveled north to bring the Gospel to the Picts of Scotland. Tradition holds that he was consecrated bishop and labored among the peoples of what is now Aberdeenshire, founding a church on the site that bears his name.\n\nMachar is closely associated with the city of Aberdeen, where the cathedral and its surrounding traditions preserve his memory. Medieval accounts connect him with St. Columba's mission from Iona, suggesting he was among the brave missionaries who carried Christianity across the Irish Sea into the wilds of Pictland.\n\nHonored on November 12, he is remembered as one of the apostles of northern Scotland, a witness to the courage and devotion of the early Celtic missionaries who shaped the faith of a nation.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Machar to proclaim the Gospel among the Picts and to build up Your church in northern Scotland, grant through his intercession that we may carry the faith with courage to the ends of the earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Machar"
+  ],
+  "featured": false,
+  "draft": false
+}

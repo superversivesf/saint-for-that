@@ -1,0 +1,25 @@
+{
+  "slug": "kea",
+  "name": "St. Kea",
+  "feastDay": "11-05",
+  "bio": "Kea was a late fifth-century British saint from the Hen Ogledd, the Brythonic-speaking parts of what is now southern Scotland and northern England. According to tradition he was chiefly active in Cornwall, Devon, and Brittany, and his cult was popular in those regions as well as throughout Wales and the West Country. He traveled as a pilgrim and missionary across the Celtic world, founding churches and bringing the faith to remote communities. Fili or Filius, to whom the parish church of Philleigh is dedicated, probably came from Wales and is said to have been a companion of Kea. His major shrine was at Cleder in Brittany, and his feast is kept on November 5. He is remembered as one of the wandering saints of the Celtic age who carried the Gospel across seas and mountains.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Kea as a pilgrim of the Gospel across the Celtic lands to found churches and gather Your people, grant through his intercession that we may journey faithfully in the way of Christ and make of our lives an offering of praise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kea"
+  ],
+  "featured": false,
+  "draft": false
+}

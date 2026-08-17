@@ -1,0 +1,25 @@
+{
+  "slug": "placidus-abbot",
+  "name": "St. Placidus",
+  "feastDay": "10-05",
+  "bio": "Saint Placidus was a Christian monk and martyr of the sixth century, remembered as one of the first disciples of Saint Benedict of Nursia. As a boy he was entrusted by his noble Roman father, the senator Tertullus, to Benedict's monastery at Subiaco, where he grew in holiness under the care of the great legislator of Western monasticism.\n\nThe Dialogues of Saint Gregory the Great recount how Placidus, sent to draw water from the lake, fell in and was carried off by the current, only to be rescued at Benedict's prayer, an image of the bond between master and disciple. Later tradition holds that he traveled to Sicily and there met martyrdom at the hands of invaders.\n\nVenerated as co-patron of Messina, Placidus is a witness to the monastic ideal: obedience, humility, and suffering for Christ.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "youth",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the boy Placidus into the school of Saint Benedict and crowned him with the palm of martyrdom, grant through his intercession that we may learn the obedience of Christ and bear witness to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Placidus_(abbot)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "nicetius",
+  "name": "St. Nicetius",
+  "feastDay": "10-01",
+  "bio": "Saint Nicetius served as bishop of Trier in the late sixth century, shepherding his flock during a turbulent era of Frankish rule and ecclesiastical rebuilding. Though the exact date of his birth is lost to history, tradition recounts that he was a man of deep conviction and pastoral zeal, striving to uphold the faith in a see that had known both glory and devastation. He governed the church of Trier with firmness and care, defending the rights of the Church amid the rivalries of kings and nobles. Nicetius died in 563 or, more probably, 566, leaving behind the memory of a prelate who labored faithfully for the flock entrusted to him and the renewal of the Church in troubled times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Nicetius a faithful shepherd of your Church at Trier in days of turmoil, grant through his intercession that bishops may govern with courage and care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicetius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sabbas-the-sanctified",
+  "name": "St. Sabbas the Sanctified",
+  "feastDay": "12-05",
+  "bio": "Sabas, known in Church parlance as Saint Sabbas the Sanctified, was a Cappadocian Greek monk, priest, and saint born in 439 in Cappadocia who lived mainly in Palaestina Prima. Drawn to the ascetic life from his youth, he became one of the great founders of monasticism in the Holy Land, establishing several convents, most notably the great lavra known as Mar Saba in the Kidron Valley east of Bethlehem. There monks gathered under his rule, and the monastery endured for centuries as a beacon of Palestinian monasticism. His name is derived from the Aramaic word for \"old man,\" a fitting title for one who grew old in the service of God. He died in 532, revered throughout the Christian East.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Sabbas to found monasteries in the Holy Land and to grow old in your service, grant through his intercession that we may persevere in prayer and in the pursuit of holiness all the days of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sabbas_the_Sanctified"
+  ],
+  "featured": false,
+  "draft": false
+}

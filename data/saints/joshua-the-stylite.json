@@ -1,0 +1,25 @@
+{
+  "slug": "joshua-the-stylite",
+  "name": "St. Joshua the Stylite",
+  "feastDay": "unknown",
+  "bio": "Joshua the Stylite is the attributed author of a chronicle that narrates the history of the war between the Byzantine Empire and the Persians between 502 and 506. His account is generally considered to be one of the earliest and most reliable historical documents preserved in Syriac, and it offers a vivid witness to the sufferings of the Christian communities of Mesopotamia caught between warring empires. Writing as a contemporary of the events he describes, Joshua recorded not only battles and sieges but the prayers, fasts, and hopes of a people who trusted in God amid devastation. He is remembered as a chronicler of the Eastern churches and a witness to the faith of those who endured persecution and displacement in the lands between the great rivers.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Joshua the Stylite to record the trials and the faith of Your people in a time of war, grant through his intercession that those who write and study may bear truthful witness to Your providence and preserve the memory of the suffering Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joshua_the_Stylite"
+  ],
+  "featured": false,
+  "draft": false
+}

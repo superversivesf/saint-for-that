@@ -1,0 +1,21 @@
+{
+  "slug": "noyale",
+  "name": "St. Noyale",
+  "feastDay": "09-11",
+  "bio": "Noyale, also known as Noaluen, was a semi-legendary fifth-century Celtic saint and virgin martyr. She is venerated in both Brittany and Cornwall, where she is memorialized at Newlyn East. According to the legend preserved there, a fig tree growing from the south wall of the church sprang from Noyale's staff, and a holy well nearby marks the site of her martyrdom. She was one of the many Celtic settlers who journeyed across the sea to Brittany during the Anglo-Saxon invasions of England, carrying the faith with her. Though the historical details of her life are lost in the mists of early medieval tradition, her cult endured for centuries among the fishing villages and farms of the Breton and Cornish coasts, a quiet patron of those who leave their homeland for the sake of Christ.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin martyr Noyale with the palm of suffering, grant through her intercession that we may remain steadfast in faith though we journey far from home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Noyale"
+  ],
+  "featured": false,
+  "draft": false
+}

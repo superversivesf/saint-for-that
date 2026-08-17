@@ -1,0 +1,25 @@
+{
+  "slug": "kessog",
+  "name": "St. Kessog",
+  "feastDay": "03-10",
+  "bio": "Saint Kessog was an Irish missionary of the mid-sixth century, born a son of the king of Cashel in Ireland. Even as a child he was said to work miracles, marking him for a life consecrated to God. Leaving his royal inheritance behind, he crossed the sea to Scotland as a missionary bishop, making Monks' Island in Loch Lomond his headquarters. From that quiet retreat he evangelized the Lennox area and southern Perthshire, preaching the Gospel to the Picts and Britons of the region. After years of faithful labor he was martyred at Bandry, where a heap of stones was long known as St Kessog's Cairn. He was killed around 520 AD, and his memory endured among the people of Lennox and Scotland, who honored him as their patron and intercessor before God.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Kessog to leave his royal inheritance and preach the Gospel to the peoples of Scotland, grant through his intercession that we may bear witness to Christ with courage and fidelity, even unto the shedding of our blood. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kessog"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "maelog",
+  "name": "St. Maelog",
+  "feastDay": "unknown",
+  "bio": "Saint Maelog was a sixth-century pre-congregational saint of Wales, remembered as a child of King Caw of Strathclyde. Born into a royal family of the Britons, he was numbered among the many holy men and women of the Celtic west who renounced earthly crowns for the kingdom of heaven.\n\nMaelog is associated with the churches and settlements of early medieval Wales, where his memory was preserved in local devotion and place-names. Like his siblings, several of whom are also venerated as saints, he embodied the piety of the age that turned noble families into seeds of the church.\n\nThough the record of his deeds is brief, he stands as a witness to the sanctity of the early Welsh church and the way the faith took root among the ruling houses of Britain, producing fruit that endured for centuries.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Maelog among the noble houses of Britain to be a seed of Your church in Wales, grant through his intercession that all who inherit earthly honors may seek first the kingdom of heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maelog"
+  ],
+  "featured": false,
+  "draft": false
+}

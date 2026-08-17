@@ -1,0 +1,21 @@
+{
+  "slug": "rumon-of-tavistock",
+  "name": "St. Rumon of Tavistock",
+  "feastDay": "01-05",
+  "bio": "Rumon of Tavistock is a saint venerated in the traditions of the Catholic, Anglican Communion, and Orthodox churches, a holy figure whose memory endured among the faithful of Devon and the West Country of England. He is associated with Tavistock and with Romansleigh, places that preserve his name in their dedication. He belongs to the ancient company of British saints whose holiness was proclaimed by the devotion of the people before formal canonization processes arose.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Rumon a light of faith among the peoples of Devon, grant through his intercession that the faithful of that land may persevere in your love and bear witness to your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rumon_of_Tavistock"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "rhwydrys",
+  "name": "St. Rhwydrys",
+  "feastDay": "11-01",
+  "bio": "Rhwydrys is a sixth-century Irish pre-Congregational saint of Wales, one of the many holy men and women who traveled from Ireland to bring the Christian faith to the Welsh peoples. Little is recorded of his life beyond his enduring presence in the devotional memory of the Welsh church, where his feast day is observed on 1 November. He belongs to that ancient company of Celtic saints whose sanctity was recognized by the popular devotion of the faithful before formal processes of canonization existed.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Rhwydrys from Ireland to bear witness to your Gospel among the peoples of Wales, grant through his intercession that we may be faithful witnesses to your love wherever you lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhwydrys"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "marnock",
+  "name": "St. Marnock",
+  "feastDay": "10-25",
+  "bio": "Marnock, also known as Marnocus, Marnan of Narnach, Marnanus, or originally Ernin, was a Scottish monk and bishop honored as the patron of Kilmarnock. Embracing the monastic life of early medieval Scotland, he devoted himself to prayer, the conversion of the Picts and Scots, and the governance of a see rooted in the rugged landscape of the southwest. His cult spread through several foundations bearing his name, attesting to the deep veneration in which the faithful held him. He is remembered as a tireless pastor whose holiness shaped the Christian identity of his region.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Marnock from the cloister to the episcopal see, grant through his prayers that we may serve you with the devotion of monks and the care of shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marnock"
+  ],
+  "featured": false,
+  "draft": false
+}

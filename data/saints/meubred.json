@@ -1,0 +1,25 @@
+{
+  "slug": "meubred",
+  "name": "St. Meubred",
+  "feastDay": "unknown",
+  "bio": "St. Meubred, also rendered Mybbard, was one of two Cornish saints of the 6th century, the other being Mancus. Little certain detail of his life survives, but the traditions of Cornwall remember him as a holy hermit and missionary who labored to plant the Christian faith in the rugged west of Britain during the age of the Celtic church. The paired memory of Mybbard and Mancus endures in local place-names and parish dedications, marking the paths where these early evangelists walked. Devotion to Meubred persisted among the faithful of Cornwall long after written records had faded, testimony to the deep roots of the faith in that land. He is honored as one of the cloud of witnesses who brought Christ to the westernmost shores of Britain.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Meubred to sow the seeds of faith in the far west of Britain, grant through his intercession that we may tend the faith he planted and bear fruit in perseverance. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mybbard_and_Mancus"
+  ],
+  "featured": false,
+  "draft": false
+}

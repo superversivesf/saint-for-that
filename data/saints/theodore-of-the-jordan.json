@@ -1,0 +1,25 @@
+{
+  "slug": "theodore-of-the-jordan",
+  "name": "St. Theodore of the Jordan",
+  "feastDay": "unknown",
+  "bio": "St. Theodore of the Jordan was an Orthodox saint who lived in the sixth century, dwelling as a hermit near the banks of the Jordan River. Little is recorded of his life, but the memory of his holiness endured among the monastic communities of the Holy Land, where the desert and the river had been the cradle of eremitical life since the days of St. John the Baptist. Theodore belongs to that great cloud of witnesses who abandoned the world to seek God in silence and poverty, and whose names are preserved not by historians but by the devotion of the churches that honored them. He is venerated in the Eastern Orthodox tradition as one of the holy fathers of the Jordanian desert, a man who made the wilderness a temple of prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Theodore to the banks of the Jordan to seek You in the wilderness, grant through his intercession that we may withdraw from the noise of the world and make our hearts a desert of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_the_Jordan"
+  ],
+  "featured": false,
+  "draft": false
+}

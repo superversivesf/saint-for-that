@@ -1,0 +1,25 @@
+{
+  "slug": "julian-of-vienne",
+  "name": "St. Julian of Vienne",
+  "feastDay": "unknown",
+  "bio": "Julian of Vienne was a bishop of Vienne in Gaul during the first half of the sixth century, serving approximately between 520 and 530. He attended a number of early church synods, where the bishops of Gaul labored to defend the orthodox faith and to govern the life of the churches in a land still marked by the legacy of the Roman Empire and the inroads of new peoples. As a pastor he guided his flock through uncertain times, and as a hierarch he took part in the conciliar life of the Gallican church. Venerated as a saint of the Catholic Church, he is remembered among the line of holy bishops who shepherded the see of Vienne in its early centuries and whose intercession was trusted by the people of the Rhône valley.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Julian a faithful bishop of Vienne and a father in the councils of Your Church, grant through his intercession that Your shepherds may be united in faith and zealous in the care of the souls entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julian_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

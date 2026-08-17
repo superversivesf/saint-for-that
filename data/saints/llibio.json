@@ -1,0 +1,21 @@
+{
+  "slug": "llibio",
+  "name": "St. Llibio",
+  "feastDay": "unknown",
+  "bio": "Saint Llibio was a sixth-century saint of North Wales, honored as patron of Llanllibio, the parish that bears his name. He belongs to that golden age of Celtic Christianity when holy men and women established churches and hermitages across the western Britons, sanctifying the land by their prayers and labor. Though the details of his life are lost to history, his memory was preserved in the place named for him, where the faithful gathered for centuries around the church built in his honor. He stands among the pre-congregational saints of Wales whose holiness was recognized by the devotion of the people rather than by formal process. His cult endures as a reminder of the deep roots of the Christian faith among the Welsh and of the quiet saints who planted it there.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the name of St. Llibio in the parish that bears his name, grant through his intercession that we may build our lives as churches dedicated to your praise and rest in the communion of your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Llibio"
+  ],
+  "featured": false,
+  "draft": false
+}

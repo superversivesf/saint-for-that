@@ -1,0 +1,25 @@
+{
+  "slug": "laurence-of-siponto",
+  "name": "St. Laurence of Siponto",
+  "feastDay": "unknown",
+  "bio": "Laurence of Siponto, also known as Laurence Maioranus, is an Italian saint honored as patron of the city of Manfredonia and the Archdiocese of Manfredonia-Vieste-San Giovanni Rotondo. Manfredonia Cathedral is dedicated to his name. He is credited with founding the ancient shrine to Saint Michael the Archangel on Mount Gargano, one of the earliest and most venerable angelic sanctuaries of southern Italy. From that holy mountain the faithful have for centuries sought the protection of the Archangel and, through Laurence's intercession, the mercy of God. Though the details of his life are obscure, his cult endures among the people of Puglia, who treasure him as a father in faith and a guardian of their churches.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Laurence of Siponto established a shrine to your holy Archangel on Mount Gargano, grant through his intercession that pilgrims may find their way to your holy places and there obtain the help they seek. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laurence_of_Siponto"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "nectarius-of-autun",
+  "name": "St. Nectarius of Autun",
+  "feastDay": "09-13",
+  "bio": "Saint Nectarius of Autun was a sixth-century bishop of Autun in Burgundy and a saint of the Roman Catholic Church. He governed the see during the turbulent generations that followed the fall of the Roman Empire in Gaul, when the Church stood as a steadying force amid political upheaval. As bishop he labored to preserve the faith, govern the clergy, and care for the people entrusted to him. His memory endured among the saints of Burgundy, and his feast is kept on September 13. He is remembered as one of the early bishops who helped the Church in Gaul weather the passage from antiquity to the early Middle Ages.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Nectarius a faithful bishop of Autun in unsettled times, grant through his intercession that Your Church may stand firm in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nectarius_of_Autun"
+  ],
+  "featured": false,
+  "draft": false
+}

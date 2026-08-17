@@ -1,0 +1,25 @@
+{
+  "slug": "pausicacus-of-synada",
+  "name": "St. Pausicacus of Synada",
+  "feastDay": "05-26",
+  "bio": "Saint Pausicacus of Synada was a Christian monk, ascetic, and bishop of Synada, a city of Phrygia in Asia Minor. His name, in Greek Παυσίκακος, derives from παῦσις, cessation, and κακία, evil, so that his very name means 'one who stops evil.' He lived in the later centuries of the Eastern Roman Empire, when the cities of Asia Minor were still adorned with churches and monasteries, and he gave himself to the ascetic life before being raised to the episcopate. As bishop he governed the flock of Synada with the same discipline he had learned as a monk, laboring to turn hearts away from wickedness and toward the Gospel. His feast on 26 May keeps alive the memory of a pastor whose name and life alike proclaimed the victory of grace over evil.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Pausicacus a bishop whose very name proclaimed the cessation of evil, grant through his intercession that we may turn from wickedness and walk in your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pausicacus_of_Synada"
+  ],
+  "featured": false,
+  "draft": false
+}

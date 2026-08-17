@@ -1,0 +1,25 @@
+{
+  "slug": "meriasek",
+  "name": "St. Meriasek",
+  "feastDay": "unknown",
+  "bio": "St. Meriasek was a 6th-century Cornish and Breton saint whose life is known chiefly through Beunans Meriasek, a Cornish-language play preserved in a single manuscript copy dated 1504, together with a few scattered sources. According to the legend, Meriasek was of noble Breton birth and traveled to Cornwall, where he preached and established a hermitage at Camborne, founding the church there. He is honored as the patron saint of Camborne, and the people of the parish kept his memory alive through centuries of local devotion. In his legendary will his feast day was set as the first Friday in June, a movable observance. The play recounts miracles of healing and protection attributed to him, and his cult endured strongly in west Cornwall.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Meriasek from Brittany to bring the Gospel to the people of Camborne, grant through his intercession that we may carry the faith across every boundary and find in you our true home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Meriasek"
+  ],
+  "featured": false,
+  "draft": false
+}

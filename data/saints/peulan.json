@@ -1,0 +1,25 @@
+{
+  "slug": "peulan",
+  "name": "St. Peulan",
+  "feastDay": "unknown",
+  "bio": "Saint Peulan was a Welsh holy man of the early sixth century, the son of Paulinus, a saint from south Wales who taught Saint David himself. Born into a family shaped by holiness and learning, Peulan inherited the devout heritage of the Welsh church and carried it northward.\n\nHe became a follower of Saint Cybi, the saint associated with the island of Anglesey, and joined the missionary work that planted Christian communities across north Wales. Peulan is commemorated in the dedication of the church he reportedly founded, St Peulan's Church, Llanbeulan, on Anglesey, which stood for centuries as a witness to his labors.\n\nLike many of his contemporaries, Peulan worked in obscurity, building up the Church one congregation at a time in the rugged country of early medieval Wales.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Your servant Peulan to proclaim the Gospel among the people of Anglesey, grant through his intercession that we may hand on the faith we have received with joyful fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peulan"
+  ],
+  "featured": false,
+  "draft": false
+}

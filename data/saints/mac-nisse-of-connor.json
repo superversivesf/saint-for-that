@@ -1,0 +1,21 @@
+{
+  "slug": "mac-nisse-of-connor",
+  "name": "St. Mac Nisse of Connor",
+  "feastDay": "unknown",
+  "bio": "Saint Mac Nisse was an early Irish saint of the fifth or sixth century, venerated as the founder and first bishop-abbot of Connor in what is now County Antrim. Tradition holds that he was a disciple of St. Olcan, a follower of St. Patrick, and was consecrated bishop to guide the fledgling Christian community of the region.\n\nAs the first shepherd of Connor, Mac Nisse is remembered for establishing the church's presence in Ulster when the faith was still taking root among the Irish clans. His monastery became a center of learning and prayer, nurturing generations of monks and clergy.\n\nThough historical details are sparse, his legacy endured in the devotion of the people of Connor, who honored him as their father in the faith and patron of their diocese.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who founded Your church in Connor through the labors of St. Mac Nisse and made him a faithful shepherd of his people, grant through his intercession that all bishops may guide their flocks with wisdom and zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mac_Nisse_of_Connor"
+  ],
+  "featured": false,
+  "draft": false
+}

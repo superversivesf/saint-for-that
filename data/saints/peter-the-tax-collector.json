@@ -1,0 +1,25 @@
+{
+  "slug": "peter-the-tax-collector",
+  "name": "St. Peter the Tax-Collector",
+  "feastDay": "01-20",
+  "bio": "Saint Peter the Tax-Collector is venerated in the Eastern Orthodox tradition as a model of repentance and conversion. His feast is kept on January 20, and his story is preserved in the collections of holy lives that have nourished Eastern Christian devotion for centuries.\n\nAs a tax collector, Peter belonged to a class long regarded with suspicion, yet the example of the apostle Matthew and the call of Christ to sinners shows that no occupation places one beyond the reach of grace. His life testifies to the transforming power of repentance, as one who once served the demands of the state turned to serve the Gospel.\n\nThough the details of his conversion are sparse, his remembrance in the calendar of the Church proclaims that mercy is offered to all who turn to God with contrite hearts.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who welcomed the tax collector Peter among Your saints and showed through him that no sinner is beyond Your mercy, grant through his intercession that we may turn from our sins and embrace the way of Your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_the_Tax-Collector"
+  ],
+  "featured": false,
+  "draft": false
+}

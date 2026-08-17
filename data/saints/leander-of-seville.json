@@ -1,0 +1,25 @@
+{
+  "slug": "leander-of-seville",
+  "name": "St. Leander of Seville",
+  "feastDay": "unknown",
+  "bio": "Leander of Seville was a Hispano-Roman Catholic prelate who served as Bishop of Seville in the late sixth century, one of the most consequential sees of Visigothic Spain. He was instrumental in effecting the conversion of the Visigothic kings Hermenegild and Reccared from Arianism to the Catholic faith, a turning point that united the Spanish nation under one creed. Brother of the encyclopedist Isidore of Seville, he belonged to a family that gave the Church several saints and shaped the course of Hispanic Christianity for generations. He labored through controversy, exile, and court intrigue to bring the Gothic rulers to the fullness of the faith. Honored as a doctor of the Spanish Church, he is remembered for his zeal for orthodox teaching and for his role in the conversion of a kingdom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Leander of Seville brought the Visigothic kings to the fullness of the Catholic faith, grant through his intercession that all who seek you may find the truth and confess it with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leander_of_Seville"
+  ],
+  "featured": false,
+  "draft": false
+}

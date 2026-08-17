@@ -1,0 +1,25 @@
+{
+  "slug": "justinian-i",
+  "name": "St. Justinian I",
+  "feastDay": "11-14",
+  "bio": "Justinian I, known also as Justinian the Great, was Roman emperor from 527 to 565. His reign was marked by the ambitious but only partly realized renovatio imperii, the restoration of the territories of the defunct Western Roman Empire, and by a profound investment in the life of the Church. He codified Roman law in the Corpus Juris Civilis, commissioned the rebuilding of the Hagia Sophia as one of the great churches of Christendom, and convoked the Fifth Ecumenical Council. Though a sovereign and not a monk, he was accounted a saint in the Eastern tradition for his zeal for the faith and the churches he raised to the glory of God. His feast is kept on November 14, and he is remembered as one of the great Christian rulers of late antiquity.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Justinian the wisdom to order law and empire for the good of Your Church and the glory of Your name, grant through his intercession that those who bear authority may use it to build up justice and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justinian_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "luchtigern",
+  "name": "St. Luchtigern",
+  "feastDay": "unknown",
+  "bio": "Luchtigern was an early Christian leader active in Ireland in the sixth century, the great age of the Irish saints, and has been recognized as a saint by the Catholic Church. Little certain detail of his life has come down to us, but he belongs to that company of holy men and women who, in the generations after Saint Patrick, planted the faith across the island and made Ireland a land of monks and scholars. The sixth century saw the rise of the great monasteries and the flowering of Irish missionary zeal that would later reach Scotland and the continent. Luchtigern is remembered among those early fathers whose names the Church has preserved even where the full record of their deeds has been lost. His cult testifies to the holiness of the Irish Church in its first spring.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the name of St. Luchtigern among the early fathers of the Irish Church, grant through his intercession that we may serve you with quiet fidelity and rest in the communion of your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luchtigern"
+  ],
+  "featured": false,
+  "draft": false
+}

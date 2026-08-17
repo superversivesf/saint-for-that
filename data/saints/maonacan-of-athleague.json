@@ -1,0 +1,21 @@
+{
+  "slug": "maonacan-of-athleague",
+  "name": "St. Maonacan of Athleague",
+  "feastDay": "02-18",
+  "bio": "Saint Maonacan, also known as Manchan of Athleague, was an early Irish Christian saint who founded a church at Athleague in County Roscommon. He labored among the peoples of the Irish midlands in the early medieval period, establishing a community of prayer and worship that endured long after his death.\n\nDevotion to Maonacan has long been associated with his intercession against plague, and he was invoked by the faithful in times of epidemic and disease. His feast on February 18 has been kept by Roman Catholics and Anglicans alike, a sign of the deep roots of his memory among the people of Roscommon.\n\nThe details of his life are obscured by the many Irish saints named Manchan, yet he is honored as a protector against pestilence and a witness to the sanctity of the early Irish church.",
+  "patronages": [
+    {
+      "need": "plague",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Maonacan to the people of Athleague as a protector in times of pestilence, grant through his intercession that all who suffer disease may find healing and that we may be delivered from sudden peril. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maonacan_of_Athleague"
+  ],
+  "featured": false,
+  "draft": false
+}

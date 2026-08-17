@@ -1,0 +1,25 @@
+{
+  "slug": "moluag",
+  "name": "St. Moluag",
+  "feastDay": "06-25",
+  "bio": "Saint Moluag was a Scottish missionary of the sixth century and a contemporary of Saint Columba who devoted his life to evangelizing the Picts of northern Britain. Born in Ireland, he crossed to the western coast of Scotland and worked among the Pictish peoples, founding churches and monastic settlements that became centers of Christian learning. A 1544 charter of the Earl of Argyll still records him as \"Saint Moloc, our patron,\" showing that his cult endured for centuries as the heavenly protector of Argyll. On the Isle of Lewis he was invoked against madness and mental affliction. His feast is kept on June 25, and he is remembered as one of the apostles of the Picts.",
+  "patronages": [
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Moluag to bring the light of the Gospel to the Picts of Scotland, grant through his intercession that those afflicted in mind may find peace and healing in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moluag"
+  ],
+  "featured": false,
+  "draft": false
+}

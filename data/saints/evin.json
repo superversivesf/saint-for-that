@@ -1,0 +1,25 @@
+{
+  "slug": "evin",
+  "name": "St. Evin",
+  "feastDay": "unknown",
+  "bio": "St. Evin, also known as Éimín, was an early Irish monk and founder of a monastery at what is now Monasterevin in County Kildare, Ireland. The town that grew around his foundation took his name, and it became a center of Christian life on the banks of the River Barrow. Though few details of his life survive, Evin is remembered as one of the many monastic founders who helped establish the Church in Ireland during the early medieval period. His monastery provided prayer, learning, and hospitality to travelers along the waterways. Devotion to him endured for centuries among the people of Kildare.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Evin to found a house of prayer upon the banks of the Barrow, grant through his intercession that we may build our lives upon the foundation of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monasterevin"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "modan",
+  "name": "St. Modan",
+  "feastDay": "unknown",
+  "bio": "St. Modan was the son of an Irish chieftain who forsook his noble inheritance to embrace the monastic life. He became a monk and traveled as a missionary to Scotland, where he built a chapel at Dryburgh in the year 522, using it as a base for several years of preaching and pastoral care among the people of the Borders. That site later became the foundation of Dryburgh Abbey, one of the great medieval monasteries of Scotland. Modan labored among the Picts and Britons of the region, planting the faith in country chapels and hermitages along the river valleys. Tradition holds that he eventually withdrew to a hermitage at Rosemarkie on the Black Isle, where he lived in prayer and solitude.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Modan from an Irish chieftain's house to preach your Gospel in Scotland, grant through his intercession that we may forsake every worldly claim to follow you, and make of our lives a house of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Modan"
+  ],
+  "featured": false,
+  "draft": false
+}

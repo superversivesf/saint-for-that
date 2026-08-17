@@ -1,0 +1,29 @@
+{
+  "slug": "saturius-of-soria",
+  "name": "St. Saturius of Soria",
+  "feastDay": "10-02",
+  "bio": "Saint Saturius of Soria, who lived from 493 to 568, was a hermit-saint of Spain. Born in Soria, he cared for his parents until their death, then gave away his inheritance to the poor and, at the age of forty, retired to a cave on the hill of Santa Ana. There he lived for the rest of his days in complete austerity, dedicated to prayer and the mortification of the flesh. He sought nothing but God, and his solitude became a silent testimony to the supremacy of the eternal over all earthly things. He is honored as a patron of the city of Soria. His feast is celebrated on October 2.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Saturius to the silence of a cave and the poverty of a hermit, grant through his intercession that we may find detachment from worldly things and seek You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saturius_of_Soria"
+  ],
+  "featured": false,
+  "draft": false
+}

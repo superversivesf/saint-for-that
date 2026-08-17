@@ -1,0 +1,21 @@
+{
+  "slug": "llechid",
+  "name": "St. Llechid",
+  "feastDay": "unknown",
+  "bio": "Llechid was a sixth-century pre-congregational saint of Wales, one of the early Christian witnesses of the Britons who carried the faith into the hills and valleys of the western lands before the age of formal canonization. Little certain history survives about his life, but his name was preserved in the devotion of the Welsh people, who honored him among the holy men and women of the Age of the Saints. The pre-congregational saints of Wales lived as hermits, monks, and missionaries, founding cells and churches in remote places and rooting the Gospel in the soil of the land. Llechid is remembered among them as a quiet servant of Christ whose cult, though modest, testifies to the deep Christian memory of the Welsh Church and the holiness of its early founders.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Llechid among the early saints of Wales, grant through his intercession that we may seek you in quietness and serve you in the hidden places of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Llechid"
+  ],
+  "featured": false,
+  "draft": false
+}

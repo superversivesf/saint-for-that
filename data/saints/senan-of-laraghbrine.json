@@ -1,0 +1,25 @@
+{
+  "slug": "senan-of-laraghbrine",
+  "name": "St. Senan of Laraghbrine",
+  "feastDay": "unknown",
+  "bio": "Saint Senan of Laraghbrine, County Kildare, was an Irish Christian monk who lived toward the end of the sixth century. He came of a noble line, being descended through his father Fintan, son of Strened, son of Glinder, son of Corc, son of Conned, son of Aengus, son of Fieg, son of Mail, son of Carthage of the race of Eochaidh. Like many Irish monks of his age, he sought to serve God through the discipline of monastic life in a land where the faith was still spreading. His name was preserved in the traditions of Kildare, and he is remembered among the monastic saints who labored quietly for the Kingdom.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Senan of Laraghbrine to the monastic life in the land of Kildare, grant through his intercession that we may serve You with quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Senan_of_Laraghbrine"
+  ],
+  "featured": false,
+  "draft": false
+}

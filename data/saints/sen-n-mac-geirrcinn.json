@@ -1,0 +1,29 @@
+{
+  "slug": "sen-n-mac-geirrcinn",
+  "name": "St. Senán mac Geirrcinn",
+  "feastDay": "03-08",
+  "bio": "Senán mac Geirrcinn was an Irish Christian minister and monastic founder of Munster. He founded the great monastery of Inis Cathaigh and served as patron of the Corco Baiscinn and the Uí Fhidgeinte. He is listed among the Twelve Apostles of Ireland, the renowned group of early Irish monastic founders trained under St. Finnián. Senán's monastery on Scattery Island in the Shannon estuary became one of the most important foundations of western Ireland. His feast is celebrated on March 8, and he is honored as one of the great architects of the Irish Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Senán a founder of churches and a father of monks upon Scattery Island, grant through his intercession that we may labor faithfully for Your Kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sen%C3%A1n_mac_Geirrcinn"
+  ],
+  "featured": false,
+  "draft": false
+}

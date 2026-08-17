@@ -1,0 +1,21 @@
+{
+  "slug": "mechell",
+  "name": "St. Mechell",
+  "feastDay": "11-15",
+  "bio": "Saint Mechell was the sixth-century founder and first abbot of the clas of Llanfechell, on Anglesey in north-west Wales. In the age of the Celtic saints, he established a Christian community in a landscape still marked by old traditions, gathering disciples around a life of prayer, learning, and pastoral care. The church of Llanfechell preserves his name to this day, and local tradition holds that he is buried there. His feast is kept on the fifteenth of November. Mechell belongs to that great company of Welsh founders whose monasteries became the seedbeds of faith in early medieval Britain, planting the Gospel in the soil of a people.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mechell to found a house of prayer on Anglesey, grant through his intercession that we may build up your Church in faith and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mechell"
+  ],
+  "featured": false,
+  "draft": false
+}

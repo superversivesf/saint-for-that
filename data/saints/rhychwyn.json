@@ -1,0 +1,21 @@
+{
+  "slug": "rhychwyn",
+  "name": "St. Rhychwyn",
+  "feastDay": "unknown",
+  "bio": "Rhychwyn was a sixth-century saint of North Wales and the patron saint of Llanrhychwyn, the village that bears his name. He belongs to the age of the Celtic saints, those holy men and women whose presence sanctified the landscape of early medieval Wales and around whose memory local communities gathered in faith. The church at Llanrhychwyn preserves his name and witness to this day, a testament to the enduring devotion of the Welsh people to their ancient Christian heritage.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established your servant Rhychwyn among the peoples of North Wales as a light of faith, grant through his intercession that the communities he served may remain steadfast in your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhychwyn"
+  ],
+  "featured": false,
+  "draft": false
+}

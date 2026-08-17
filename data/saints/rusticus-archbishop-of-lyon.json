@@ -1,0 +1,21 @@
+{
+  "slug": "rusticus-archbishop-of-lyon",
+  "name": "St. Rusticus",
+  "feastDay": "04-25",
+  "bio": "Saint Rusticus served as Archbishop of Lyon from 494 to April 501, succeeding Saint Lupicinus of Lyon. He shepherded the church of Lyon during the turbulent decades that followed the fall of the Western Roman Empire, holding fast to the faith amid political upheaval and the gathering of new peoples into the Christian fold. After his death he was canonized and venerated in the Catholic Church, with his feast observed on 25 April.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Rusticus to shepherd the church of Lyon in days of upheaval, grant through his intercession that our pastors may stand firm in faith and guide your people with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rusticus_(archbishop_of_Lyon)"
+  ],
+  "featured": false,
+  "draft": false
+}

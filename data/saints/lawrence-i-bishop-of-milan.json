@@ -1,0 +1,21 @@
+{
+  "slug": "lawrence-i-bishop-of-milan",
+  "name": "St. Lawrence I",
+  "feastDay": "07-25",
+  "bio": "Lawrence I served as Archbishop of Milan from about 490 to around 511, governing that great see in the turbulent decades after the fall of the Western Roman Empire. He is honored as a saint in the Catholic Church, and his feast is kept on July 25. Though the chronicles of his episcopacy are sparse, he shepherded the Church of Milan through a time of political upheaval, barbarian pressure, and the continuing consolidation of Catholic doctrine in northern Italy. He succeeded in preserving the faith and order of his diocese amid the collapse of Roman civic structures. Honored by clergy and people alike, he is remembered as a faithful pastor who held fast to his charge when the world around him was changing, and whose intercession is trusted by the Church of Milan to this day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Lawrence I a faithful shepherd of the Church of Milan in days of upheaval, grant through his intercession that our pastors may hold fast to the faith and guide your people through every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawrence_I_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

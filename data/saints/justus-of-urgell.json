@@ -1,0 +1,25 @@
+{
+  "slug": "justus-of-urgell",
+  "name": "St. Justus of Urgell",
+  "feastDay": "05-28",
+  "bio": "Justus of Urgell was a Spanish bishop and saint who served as the first recorded bishop of the see of Urgell in the Catalan Pyrenees. He was the brother of other notable churchmen of his age, and he took part in the councils that shaped the early church of Hispania. Justus was also a writer, producing a commentary on the Song of Songs that survives as one of the earliest Latin works on that text from the Iberian Peninsula. As a pastor he guided a frontier diocese in mountainous country, and as a scholar he labored to open the Scriptures for his clergy and people. His feast is kept on May 28, and he is remembered among the holy bishops who laid the foundations of the church in the lands that would become Catalonia.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Justus a faithful bishop of Urgell and a scholar of Your holy Word, grant through his intercession that those who teach and preach may open the Scriptures with reverence and feed Your people with the bread of truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justus_of_Urgell"
+  ],
+  "featured": false,
+  "draft": false
+}

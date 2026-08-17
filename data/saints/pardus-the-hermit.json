@@ -1,0 +1,25 @@
+{
+  "slug": "pardus-the-hermit",
+  "name": "St. Pardus the Hermit",
+  "feastDay": "12-15",
+  "bio": "Saint Pardus was a Roman who lived in Palestine during the early monastic age. In his youth he worked as a camel driver, guiding caravans across the desert roads. Once, traveling to Jericho, he witnessed a terrible accident when a boy was accidentally trampled to death beneath the legs of his own fleet of camels. Struck with grief and fear of retribution, Pardus fled into hiding and took monastic vows at Mount Arion, exchanging the noise of the trade routes for the silence of the hermitage. There he sought to do penance for a death that was no crime, offering his long years of solitude as reparation before God. The memory of Pardus, the camel-driver turned hermit, recalls how the Lord receives even those who come to him in fear.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received Saint Pardus when he fled to you in fear and made him a penitent hermit, grant through his intercession that we may cast our burdens upon your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pardus_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

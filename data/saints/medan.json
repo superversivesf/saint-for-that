@@ -1,0 +1,21 @@
+{
+  "slug": "medan",
+  "name": "St. Medan",
+  "feastDay": "unknown",
+  "bio": "Saint Medan is a shadowy figure of the early British or Irish Church, whose very existence is inferred from place names that preserve the memory of her cult. The church of Kirkmaiden in Wigtownshire bears her name, and she is also associated with sites in Angus and Aberdeenshire, suggesting a devotion that once stretched across Scotland. Like many saints of that missionary age, she left no written life, yet the persistence of her name in the landscape testifies to a holiness honored by generations of the faithful. She is counted among the early evangelists who carried the Gospel across the sea from Ireland to the western shores of Scotland.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, whose servant St. Medan is remembered in the holy places of Scotland, grant through her intercession that the Gospel may take root in every land and people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Medan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "llwydian",
+  "name": "St. Llwydian",
+  "feastDay": "unknown",
+  "bio": "St. Llwydian is a Welsh saint honored in Anglesey, Wales, where a church at Heneglwys bears her name. The present building dates from 1845, but it incorporates stones from an earlier church whose twelfth-century origins point to a long tradition of local veneration. A circular font as old as the twelfth century survives from the original foundation. Little is recorded of Llwydian's life, but she is remembered as one of the early Celtic holy ones who brought the faith to the people of north Wales. Her name and her church endured through the centuries as a sign of the deep roots of Christianity in rural Anglesey.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Llwydian through the stones of her church in Anglesey, grant through her intercession that the faith planted in Wales may flourish anew in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/St_Llwydian%27s_Church%2C_Heneglwys"
+  ],
+  "featured": false,
+  "draft": false
+}

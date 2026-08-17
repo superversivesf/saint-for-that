@@ -1,0 +1,25 @@
+{
+  "slug": "mochta",
+  "name": "St. Mochta",
+  "feastDay": "08-19",
+  "bio": "St. Mochta was the last surviving disciple of St. Patrick, a living link to the apostle of Ireland and to the first generation of Irish Christianity. According to tradition he was a Briton by birth and came to Ireland under Patrick's influence, eventually becoming bishop of Louth. He lived to a great age, and his long life spanned the formative decades of the Irish church, when the faith planted by Patrick was taking root in monasteries and kingdoms across the island. His reputation for holiness and his connection to Patrick made him a revered figure among the Irish saints, and traditions clustered around him as around one of the last who had known the apostle personally. He died in the first half of the sixth century.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved St. Mochta as a living witness to the faith planted by Patrick in Ireland, grant through his intercession that we may keep the faith we have received and hand it on unbroken to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mochta"
+  ],
+  "featured": false,
+  "draft": false
+}

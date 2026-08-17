@@ -1,0 +1,21 @@
+{
+  "slug": "maxentius",
+  "name": "St. Maxentius",
+  "feastDay": "06-26",
+  "bio": "Saint Maxentius was born in Agde, in the Languedoc region of France, and originally bore the name Adjutor. From his youth he was drawn to the life of prayer and renunciation, leaving behind the comforts of his native town to seek God in solitude. The early medieval records of his life are sparse, yet the memory of his holiness endured among the faithful of southern Gaul, who venerated him as a saint and kept his feast on the twenty-sixth of June. His witness belongs to that great company of hermits and monks who, in the centuries after the fall of Rome, preserved the faith in the countryside of Gaul.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Maxentius from his native Agde to a life of solitude and prayer, grant through his intercession that we may seek you above all things, whether in the cloister or in the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Maxentius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ours",
+  "name": "St. Ours",
+  "feastDay": "03-01",
+  "bio": "Saint Ursus of Toul, known in French as Saint Ours, was a fifth-century bishop of Toul in Lorraine, now part of France. He shepherded his diocese during the turbulent decades following the collapse of Roman authority in Gaul, when bishops often served as the sole stable authority in their cities. Honored for his pastoral care and steadfast faith, Ursus is remembered among the early bishops of the Church in Gaul who preserved Christianity through a period of great upheaval and uncertainty. His feast is celebrated locally on the first of March, and he remains a patron of the Church in Lorraine.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ursus a faithful shepherd of Toul in days of upheaval, grant through his intercession that Your Church may find stability in times of trouble. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ours"
+  ],
+  "featured": false,
+  "draft": false
+}

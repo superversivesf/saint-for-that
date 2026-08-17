@@ -1,0 +1,25 @@
+{
+  "slug": "nectan-of-hartland",
+  "name": "St. Nectan of Hartland",
+  "feastDay": "06-17",
+  "bio": "Saint Nectan, sometimes styled Saint Nectan of Hartland, was a fifth-century holy man who lived at Stoke in Hartland, in the then Brythonic-speaking county of Devon. He is counted among the early Celtic saints who carried the faith into the western parts of Britain. The prominent St Nectan's Church, Hartland, is dedicated to him and preserves the memory of his cult. Tradition holds that he lived as a hermit, devoting himself to prayer and solitude, and his shrine drew pilgrims for centuries. His feast is kept on June 17. He is remembered as one of the saints who planted Christianity in the West Country, bridging the Celtic and Anglo-Saxon ages of British faith.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Nectan to a life of prayer and solitude in the wilds of Devon, grant through his intercession that we may find You in stillness and carry the faith to those around us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nectan_of_Hartland"
+  ],
+  "featured": false,
+  "draft": false
+}

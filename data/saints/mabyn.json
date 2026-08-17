@@ -1,0 +1,21 @@
+{
+  "slug": "mabyn",
+  "name": "St. Mabyn",
+  "feastDay": "11-18",
+  "bio": "Mabyn, also known as Mabena or Mabon, was a medieval Cornish saint. According to local Cornish tradition she was one of the many children of Brychan, king of Brycheiniog in Wales in the fifth century, that prolific patriarch whose sons and daughters spread across the Celtic world as saints and missionaries. Mabyn journeyed to Cornwall, where the village and civil parish of St Mabyn is named for her, and the local St Mabyn Parish Church is dedicated to her honor. She belongs to that great family of Brychan that gave the Celtic Church so many of its early saints. Her feast is kept on November 18. She is remembered among the holy women of Cornwall who brought the faith to the far west of Britain and whose names endured in the parishes and wells that still bear them.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mabyn from the family of Brychan to bring the faith to the far west of Britain, grant through her intercession that single women may find their dignity in you and that your name may be praised in every parish. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mabyn"
+  ],
+  "featured": false,
+  "draft": false
+}

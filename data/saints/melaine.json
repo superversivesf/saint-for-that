@@ -1,0 +1,21 @@
+{
+  "slug": "melaine",
+  "name": "St. Melaine",
+  "feastDay": "unknown",
+  "bio": "St. Melaine was a 6th-century Bishop of Rennes in Brittany, raised in a Christian family and drawn from youth to the service of the Church. According to tradition he was consecrated bishop of Rennes around 511 and governed the diocese with care during a turbulent era of Frankish consolidation in Armorica. He attended the Council of Orléans in 511, where the Gallican church formally aligned with the newly Catholic Clovis. Melaine was known for his ascetic life, his defense of orthodoxy, and his pastoral solicitude for the faithful of Brittany. He died around 530 and was buried at Rennes, where his tomb became a place of pilgrimage. His memory shaped the early Breton church, and he is honored as a faithful shepherd of his people.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Melaine to guide your church in Rennes with wisdom and ascetic zeal, grant through his intercession that our pastors may defend the faith and serve your people with faithful love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melaine"
+  ],
+  "featured": false,
+  "draft": false
+}

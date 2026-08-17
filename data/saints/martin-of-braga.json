@@ -1,0 +1,33 @@
+{
+  "slug": "martin-of-braga",
+  "name": "St. Martin of Braga",
+  "feastDay": "03-20",
+  "bio": "Martin of Braga, also known as Martin of Dumio, was an archbishop of Bracara Augusta in Gallaecia, a missionary, a monastic founder, and an ecclesiastical author. According to his contemporary, the historian Gregory of Tours, Martin was plenus virtutibus, so steeped in letters that none of his time was held his equal. He labored tirelessly to convert the Suevi from Arianism to Chalcedonian Christianity, earning the cognomen \"Apostle to the Suevi.\" As bishop he founded monasteries, composed pastoral and ascetical works, and brought the faith to a people in transition. His feast is kept on the twentieth of March.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Martin of Braga as the Apostle to the Suevi, grant through his intercession that unbelievers may receive the light of the Gospel and that your Church may be renewed in zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_of_Braga"
+  ],
+  "featured": false,
+  "draft": false
+}

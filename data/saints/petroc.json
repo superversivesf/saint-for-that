@@ -1,0 +1,25 @@
+{
+  "slug": "petroc",
+  "name": "St. Petroc",
+  "feastDay": "06-04",
+  "bio": "Saint Petroc, also called Petrock, was a British prince of the sixth century who forsook royal life to become a Christian monk and missionary. Born into the ruling house of Wales, he crossed the sea to Cornwall, where he founded monasteries and became one of the most beloved saints of the West Country.\n\nPetroc studied in Ireland, then settled at Padstow, where his monastery drew pilgrims and seekers. He traveled to Rome and, by tradition, journeyed to Brittany, returning with relics and renewed zeal. His hermitage at Bodmin became a great centre of Christian life, and his name is woven into the landscape of Devon and Cornwall.\n\nHonored as patron of Cornwall and of Devon, Petroc died around 564 and was buried at Bodmin. He remains a symbol of the deep Christian roots of the Celtic west.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the prince Petroc from his royal heritage to the humble way of the monk, grant through his intercession that we may seek Your kingdom above every earthly crown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Petroc"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "modomnoc",
+  "name": "St. Modomnoc",
+  "feastDay": "02-13",
+  "bio": "Modomnóc of Ossory was an Irish saint and missionary in the kingdom of Osraige, counted among the early evangelists of Ireland. Tradition holds that he was a member of the Uí Néill royal family who forsook worldly rank to serve Christ. He traveled to Wales and became a devoted disciple of St. David at Menevia, sharing in the austere monastic life of that community before returning to Ireland. As a missionary monk he labored to plant the faith among the people of Osraige, helping to lay the foundations of Irish Christianity. His memory endured among the churches of Ossory, where his feast was kept on February 13. He is recalled as a link between the Celtic Christian traditions of Ireland and Wales.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Modomnóc from royal lineage to serve as a missionary monk and disciple of St. David, grant through his intercession that we may seek You above every earthly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Modomnoc"
+  ],
+  "featured": false,
+  "draft": false
+}

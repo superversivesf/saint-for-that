@@ -1,0 +1,29 @@
+{
+  "slug": "seiriol",
+  "name": "St. Seiriol",
+  "feastDay": "02-01",
+  "bio": "Seiriol was an early sixth-century Welsh saint who founded a cell at Penmon Priory on Anglesey, off the coast of north Wales. He later withdrew to the small island known as Ynys Seiriol, where he lived as a hermit. Together with St. Cybi, who founded a corresponding community on the other side of Anglesey, Seiriol is remembered as one of the twin pillars of early Anglesey Christianity. His monastery at Penmon endured for centuries as a house of prayer on the Welsh coast. His feast is celebrated on February 1, and he is honored among the early Celtic saints who shaped the faith in Wales.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Seiriol from community to solitude upon the waters of Anglesey, grant through his intercession that we may find You in both prayer and fellowship. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seiriol"
+  ],
+  "featured": false,
+  "draft": false
+}

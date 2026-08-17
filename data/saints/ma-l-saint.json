@@ -1,0 +1,21 @@
+{
+  "slug": "ma-l-saint",
+  "name": "St. Maël",
+  "feastDay": "05-13",
+  "bio": "Saint Maël was a fifth-century Breton saint who left his homeland to follow the way of the hermit in the wilds of Wales. A disciple of St. Cadfan, he journeyed from Brittany across the sea to Britain, joining a band of holy men who sought God in solitude and prayer.\n\nMaël ultimately followed Cadfan to the Isle of Bardsey, off the western coast of Wales, which became a renowned sanctuary of hermits and a burial place of countless saints. There, in wind and silence, he gave his life to contemplation and penance.\n\nHonored on May 13, Maël is remembered as one of the early Breton monks who carried the fervor of Celtic monasticism into Wales. His name is linked with Corwen and the landscape of devotion that shaped the early medieval church in Britain.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Maël across the sea to seek You in solitude on the Isle of Bardsey, grant through his intercession that we may find in silence and prayer the depth of Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ma%C3%ABl_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

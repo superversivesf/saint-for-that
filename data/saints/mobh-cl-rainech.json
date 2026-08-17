@@ -1,0 +1,25 @@
+{
+  "slug": "mobh-cl-rainech",
+  "name": "St. Mobhí Clárainech",
+  "feastDay": "10-12",
+  "bio": "St. Mobhí Clárainech was an Irish early monastic saint, counted among the Twelve Apostles of Ireland, that circle of disciples formed around St. Finnian of Clonard. He served as abbot of a monastery at Glasnevin, near present-day Dublin, where he became a teacher of some of the most celebrated saints of the Irish church, including Columba, Canice, Comgall, and Ciarán. His name Clárainech, meaning \"the plank-bearer,\" recalls a personal austerity, said to refer to the wooden board on which he slept. Under his guidance Glasnevin became a nursery of saints, sending out founders who established monasteries across Ireland and beyond. He died in the mid-sixth century, and his feast is kept on the twelfth of October. He is remembered as a wise teacher and a father of monks.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Mobhí Clárainech a teacher of saints and a father of monks at Glasnevin, grant through his intercession that those who teach may form hearts for your service, and those who learn may grow in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mobh%C3%AD_Cl%C3%A1rainech"
+  ],
+  "featured": false,
+  "draft": false
+}

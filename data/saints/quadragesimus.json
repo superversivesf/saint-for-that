@@ -1,0 +1,25 @@
+{
+  "slug": "quadragesimus",
+  "name": "St. Quadragesimus",
+  "feastDay": "10-26",
+  "bio": "Saint Quadragesimus was, according to tradition, a shepherd who lived at Policastro in Italy and served the Church as a subdeacon. Not much else is known of his life, and he is remembered almost solely for the miracle of raising a dead man to life, a sign that confirmed the holiness hidden in his humble vocation.\n\nHis story reminds us that sanctity is not the preserve of the famous. A shepherd and a minor cleric, he walked the ordinary paths of rural Italy, yet grace shone through him when he called a dead man back to life. His name, meaning \"fortieth,\" may recall some forgotten fast.\n\nHe was mentioned under October 26 in earlier editions of the Roman Martyrology, though he is no longer listed in the latest. His memory endures as a witness to the ways God works through the lowly.",
+  "patronages": [
+    {
+      "need": "shepherds",
+      "category": "everyday"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the lowly shepherd Quadragesimus worked the wonder of raising the dead, grant through his intercession that we may serve You in humility and trust in Your power over life and death. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Quadragesimus"
+  ],
+  "featured": false,
+  "draft": false
+}

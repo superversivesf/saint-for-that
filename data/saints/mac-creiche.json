@@ -1,0 +1,25 @@
+{
+  "slug": "mac-creiche",
+  "name": "St. Mac Creiche",
+  "feastDay": "unknown",
+  "bio": "Mac Creiche of Liscannor is venerated as an early Irish hermit of County Clare, whose medieval lives trace his story to the earliest centuries of Irish Christianity. He is remembered as a solitary who dwelt in the wild places of the west, confronting the monsters that haunted the pagan imagination and bringing the light of Christ into the dark corners of the land.\n\nThrough miracles and signs he persuaded local kings to submit to the faith, establishing churches and hermitages along the Atlantic coast. Like many figures of the early Irish church, his hagiography weaves together Christian memory and older Celtic legend, yet devotion to him endured for centuries among the people of Liscannor.\n\nHe stands as a witness to the hermit ideal and the sanctification of Ireland's wilderness.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mac Creiche to seek You in the wild places and to confront the darkness of the world with the light of Christ, grant through his intercession that we may be steadfast in prayer and confident in Your protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mac_Creiche"
+  ],
+  "featured": false,
+  "draft": false
+}

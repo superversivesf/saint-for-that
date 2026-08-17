@@ -1,0 +1,21 @@
+{
+  "slug": "muiredach-of-killala",
+  "name": "St. Muiredach of Killala",
+  "feastDay": "08-12",
+  "bio": "Saint Muiredach mac Echdach, also known as Murtagh, was the founding Bishop of Killala in the west of Ireland during the sixth century. As the first shepherd of that diocese he labored to organize the young Christian community along the shores of Mayo and Sligo, establishing churches and ordaining clergy to serve the faithful. His work belonged to that great generation of Irish bishops who transformed the monastic and tribal landscape of Ireland into a network of sees and foundations. His feast is kept on August 12. He is remembered as a father of the Church in Connacht and a pioneer of episcopal life in the west.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Muiredach the founding bishop of Killala and a father of Your Church in the west of Ireland, grant through his intercession that we may be firm in faith and generous in service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Muiredach_of_Killala"
+  ],
+  "featured": false,
+  "draft": false
+}

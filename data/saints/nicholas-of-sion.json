@@ -1,0 +1,25 @@
+{
+  "slug": "nicholas-of-sion",
+  "name": "St. Nicholas of Sion",
+  "feastDay": "unknown",
+  "bio": "Nicholas of Sion was a sixth-century Christian saint from Pharroa in Lycia, in Asia Minor, who served as abbot of the monastery of Holy Sion. Ordained bishop of Pinara near the end of his life, he died in Myra in 564, the same city that would give its name to the more famous Nicholas of Myra, whose cult eventually absorbed his own. During his lifetime Nicholas journeyed twice to Jerusalem as a pilgrim, and he was reputed to have performed healing miracles along the way. His vita, written by an unknown disciple perhaps in the sixth or seventh century, has a more accessible style than earlier Cappadocian writings and shows the influence of New Testament Greek. Set in the countryside of Lycia, it preserves the memory of a monk-bishop whose sanctity shone in pilgrimage and wonder-working.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Nicholas of Sion from his monastery to the pilgrim's road and the bishop's throne, grant through his intercession that we may journey toward you with steadfast faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicholas_of_Sion"
+  ],
+  "featured": false,
+  "draft": false
+}

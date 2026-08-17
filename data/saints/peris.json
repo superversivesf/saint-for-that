@@ -1,0 +1,25 @@
+{
+  "slug": "peris",
+  "name": "St. Peris",
+  "feastDay": "unknown",
+  "bio": "Saint Peris was a little-known Welsh saint of the early Christian period, possibly flourishing in the sixth century, when the Gospel was being planted among the peoples of western Britain. The fog of ages conceals the details of his life, but his name endured in the landscape of Wales.\n\nHe is associated with Llanberis in Caernarfonshire, where a church and a lake bear his name, suggesting a local cult of some antiquity. Like many Celtic saints, Peris was likely a monk or hermit who gave himself to prayer and the austere life of the Welsh countryside, drawing others to Christ by example rather than fame.\n\nThe faithful of Wales remembered him across the centuries, and his quiet witness remains part of the great cloud of Celtic saints who shaped the Christian heritage of Britain.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of Your servant Peris among the hills and waters of Wales, grant through his intercession that we may seek You in solitude and find You in the quiet places of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Peris"
+  ],
+  "featured": false,
+  "draft": false
+}

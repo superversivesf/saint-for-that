@@ -1,0 +1,29 @@
+{
+  "slug": "john-the-silent",
+  "name": "St. John the Silent",
+  "feastDay": "unknown",
+  "bio": "John the Silent, known also as John the Hesychast, was a Christian saint renowned for living alone for seventy-six years. Born into a noble family, he was made bishop of Colonia in Armenia but, longing for solitude, he secretly abandoned his see and journeyed to the monastery of St. Saba near Jerusalem, where he lived unknown for many years. He was given the surname \"the Silent\" because of his deep affinity for recollection and the interior life, keeping guard over his tongue and dwelling in the quiet of the heart. His feast is kept on May 13 in the General Roman Calendar and on December 3 in the Eastern Orthodox and Eastern Catholic Churches. He is remembered as one of the great witnesses to the hesychast tradition of silence and unceasing prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. John the Silent to lay down his bishop's staff for the solitude of the desert and to dwell in the quiet of Your presence, grant through his intercession that we may learn to still our hearts and find You in the depths of silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Silent"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "menas-of-constantinople",
+  "name": "St. Menas of Constantinople",
+  "feastDay": "08-25",
+  "bio": "St. Menas of Constantinople was born in Alexandria and rose to high ecclesiastical office as presbyter and director of the Hospital of Sampson in Constantinople, where tradition links him directly to St. Sampson the Hospitable. He is remembered for the healing of the Byzantine emperor Justinian I from the bubonic plague in 542, a grace attributed to his ministry among the sick. On 13 March 536 he was appointed Patriarch of Constantinople by Justinian, and Pope Agapetus I consecrated him to succeed Anthimus I, who had been condemned as a monophysite. This was the first time a Pope consecrated a Patriarch of Constantinople, a moment of lasting significance for church unity. Menas governed the see with steadiness through doctrinal storms, holding the Chalcedonian faith.",
+  "patronages": [
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Menas of Constantinople a healer of bodies and a steadfast defender of the faith, grant through his intercession that the sick may find comfort, and that your Church may be gathered into visible unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menas_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

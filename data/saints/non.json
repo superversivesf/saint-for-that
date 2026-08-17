@@ -1,0 +1,21 @@
+{
+  "slug": "non",
+  "name": "St. Non",
+  "feastDay": "03-05",
+  "bio": "Saint Non was, according to Christian tradition, the mother of Saint David, the patron saint of Wales. The circumstances of David's conception are recounted in later hagiography as a moment of violence, yet from that sorrowful beginning God brought forth the great apostle of the Welsh Church. Non raised her son in the Christian faith, and tradition holds that the very stones of the ground where she gave birth were split by lightning. A chapel and holy well at St Davids mark the place. Honored for her courage and her trust in divine providence, Non is venerated especially in Pelynt in Cornwall and in Wales, where the faithful remember her as a mother who bore a saint from suffering and entrusted her child to God.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your mysterious providence gave Saint Non to be the mother of the apostle of Wales, grant through her intercession that mothers may entrust their children to your care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Non"
+  ],
+  "featured": false,
+  "draft": false
+}

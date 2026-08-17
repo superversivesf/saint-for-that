@@ -1,0 +1,25 @@
+{
+  "slug": "piran",
+  "name": "St. Piran",
+  "feastDay": "03-05",
+  "bio": "Saint Piran, also called Pyran, was a fifth-century Cornish abbot and saint, likely of Irish origin, venerated as patron of tin-miners and of Cornwall itself. He died around the year 480, and his cult spread through the mining communities of the West Country.\n\nLegend says Piran was cast into the sea in Ireland with a millstone about his neck, yet floated safely to the Cornish coast at Perranzabuloe, where he established his hermitage and monastery. There he is said to have rediscovered smelting, and the white cross on black of his flag, the flag of Cornwall, recalls tin rising from his fire.\n\nPiran's feast on March 5 is still celebrated as Cornwall's national day. Though Saints Michael and Petroc also have some claim to the county, it is Piran whom the people claim as their own.",
+  "patronages": [
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "miners",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided Your servant Piran across the sea to bring the light of Christ to Cornwall, grant through his intercession that all who labor in the earth may find in You their strength and their reward. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Piran"
+  ],
+  "featured": false,
+  "draft": false
+}

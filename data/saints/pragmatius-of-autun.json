@@ -1,0 +1,25 @@
+{
+  "slug": "pragmatius-of-autun",
+  "name": "St. Pragmatius of Autun",
+  "feastDay": "11-22",
+  "bio": "Saint Pragmatius of Autun served as Bishop of Autun in sixth-century Gaul, a difficult age in which the Church labored to preserve the faith amid the upheavals that followed the collapse of Roman rule. He was a friend of Sidonius Apollinaris and of Avitus of Vienne, two of the great churchmen and letter-writers of his day, and his circle represented the learned clergy of Burgundy.\n\nAs bishop, Pragmatius participated in at least one of the councils of his time, joining his voice to the collective discernment of the Church in an era when conciliar cooperation was vital to maintaining order and doctrine.\n\nVenerated as a saint by the Roman Catholic Church, he is celebrated on November 22. His quiet episcopal labors helped the Church of Autun weather a turbulent age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to Your bishop Pragmatius wisdom to govern Your Church and friendship with the saints of his age, grant through his intercession that we may work for the unity and order of Your household. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pragmatius_of_Autun"
+  ],
+  "featured": false,
+  "draft": false
+}

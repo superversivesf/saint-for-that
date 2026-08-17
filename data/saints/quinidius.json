@@ -1,0 +1,29 @@
+{
+  "slug": "quinidius",
+  "name": "St. Quinidius",
+  "feastDay": "02-15",
+  "bio": "Quinidius was a hermit, deacon, and bishop of Vaison-la-Romaine in Provence, who acquired the reputation of being a saint. He lived an ascetic life withdrawn from the world, embracing solitude and prayer, before being drawn into pastoral service as a deacon and ultimately as bishop. His holiness of life and the reports of his virtues led the faithful to venerate him after his death, and his memory endured among the people of the region.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Quinidius from the solitude of the hermit's cell to serve your Church as deacon and bishop, grant through his intercession that we may seek you above all things in prayer and serve your people with humble hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quinidius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sanctan",
+  "name": "St. Sanctan",
+  "feastDay": "unknown",
+  "bio": "Sanctan, also called Sanctain, was a sixth-century bishop from northern Britain who is venerated as a saint in both the Catholic Church and the Church of England. Though few details of his life survive, he is remembered among the early bishops who labored to consolidate the faith among the peoples of Britain during the age of transition from Celtic to Roman practice. His name endured in local devotion, and he stands as a witness to the many lesser-known bishops who governed the Church in northern Britain during those formative centuries of English Christianity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Sanctan to shepherd Your people in northern Britain, grant through his intercession that Your Church may be united in faith and governed with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Sanctan"
+  ],
+  "featured": false,
+  "draft": false
+}

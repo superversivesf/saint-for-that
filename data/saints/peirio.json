@@ -1,0 +1,25 @@
+{
+  "slug": "peirio",
+  "name": "St. Peirio",
+  "feastDay": "unknown",
+  "bio": "Saint Peirio was a sixth-century pre-congregational saint of Wales, counted among the children of King Caw of Strathclyde, a noble house that produced several saints of the Welsh tradition. Raised in the turbulent years after the Roman withdrawal, Peirio embraced the Christian faith then taking root among the Celtic peoples.\n\nThough few details of his life survive, his memory was kept in the dedications of churches and the local devotions of the Welsh, who honored him as an early witness to the Gospel. The saints of this era were often monks and hermits, and Peirio likely followed the ascetic path common to his kin.\n\nHe stands among the quiet company of Celtic saints whose holiness was measured not in dramatic deeds but in faithful prayer and the cultivation of Christian community.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the age of the Celtic saints called Your servant Peirio to a life of quiet holiness among the people of Wales, grant through his intercession that we too may walk faithfully in the way of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peirio"
+  ],
+  "featured": false,
+  "draft": false
+}

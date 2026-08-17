@@ -1,0 +1,25 @@
+{
+  "slug": "mo-chua-of-balla",
+  "name": "St. Mo Chua of Balla",
+  "feastDay": "03-30",
+  "bio": "St. Mo Chua of Balla, also called Cronan mac Becain, and known by a host of other names including Claunus, Cuan, Mochua, Moncan, and Moncain, was a legendary Irish saint who founded the monastery at Balla in County Mayo. He belongs to that great flowering of Irish monasticism in the early medieval period, when hermits and abbots established houses of prayer across the island. The traditions that surround him are layered and at times uncertain, but they agree in portraying him as a man of deep prayer and ascetic discipline who drew disciples to the monastic life he founded. His monastery at Balla became a center of learning and devotion in the west of Ireland.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Mo Chua of Balla to found a house of prayer in the west of Ireland, grant through his intercession that we may seek you in silence and serve you in community. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mo_Chua_of_Balla"
+  ],
+  "featured": false,
+  "draft": false
+}

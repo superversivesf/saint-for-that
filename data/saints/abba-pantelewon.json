@@ -1,0 +1,25 @@
+{
+  "slug": "abba-pantelewon",
+  "name": "St. Abba Pantelewon",
+  "feastDay": "unknown",
+  "bio": "Abba Pantelewon was a Christian monk of Ethiopia, traditionally credited with founding the Pentalewon Monastery atop Mai Qoho Hill, northwest of the ancient city of Axum in Tigray. He was one of the Nine Saints, the band of holy ascetics who journeyed from the eastern Roman lands to Ethiopia in the late fifth century and became instruments of a great flowering of monasticism and Christian learning in the Aksumite kingdom. Upon his hilltop he lived a life of prayer and solitude, and the monastery that bears his name became a center of devotion for generations of Ethiopian monks. The Nine Saints translated Scripture, taught the faith, and planted the seeds of a Christian civilization, and Abba Pantelewon's quiet witness among them is still honored by the Church of Ethiopia.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Abba Pantelewon to plant monastic life upon the hills of Ethiopia, grant through his intercession that we may seek you in prayer and solitude. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Pantelewon"
+  ],
+  "featured": false,
+  "draft": false
+}

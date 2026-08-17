@@ -1,0 +1,25 @@
+{
+  "slug": "nebridius-bishop-of-egara",
+  "name": "St. Nebridius",
+  "feastDay": "unknown",
+  "bio": "Saint Nebridius was a sixth-century bishop of Egara, modern Terrassa in Catalonia, serving from 516 to 527, and later bishop of Barcelona from about 540 to 547. A native of Girona, he belonged to a remarkable family: tradition holds that three of his brothers were also venerated as saints—Saint Justus, bishop of Urgell; Saint Elpidius; and Saint Justinian. Nebridius was a learned man who wrote interpretations of the Scriptures and composed a work on the church chants titled In cantica canticorum. As a Benedictine bishop he governed his sees with care and fostered the liturgical life of the Church in Hispania. His feast falls on February 9. He is remembered as a scholar-bishop of early medieval Spain.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Nebridius a love of Scripture and the sacred chants, grant through his intercession that we may ponder Your Word and worship You with understanding hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nebridius_(bishop_of_Egara)"
+  ],
+  "featured": false,
+  "draft": false
+}

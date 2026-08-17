@@ -1,0 +1,25 @@
+{
+  "slug": "iarlaithe-mac-loga",
+  "name": "St. Iarlaithe mac Loga",
+  "feastDay": "06-06",
+  "bio": "Iarlaithe mac Loga, known as Jarlath, was an Irish priest and scholar from Connacht, remembered as the founder of the monastic School of Tuam and of the Archdiocese of Tuam, of which he is the patron saint. No medieval biography of Jarlath survives, but sources for his life and cult include genealogies, martyrologies, the Irish Lives of Saint Brendan of Clonfert, and a biography compiled by John Colgan in the seventeenth century. He was revered as a teacher and a wise director of souls, and among his pupils was said to be Brendan the Navigator himself. His feast is kept on June 6. He stands among the learned saints of early Ireland who wedded scholarship to holiness, building schools that became centers of faith and civilization.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Iarlaithe mac Loga a scholar and a father of the School of Tuam, grant through his intercession that those who seek wisdom may find it rooted in holiness, and that your Church may abound in learned and faithful pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iarlaithe_mac_Loga"
+  ],
+  "featured": false,
+  "draft": false
+}

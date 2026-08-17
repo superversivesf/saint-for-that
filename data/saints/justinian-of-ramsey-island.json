@@ -1,0 +1,25 @@
+{
+  "slug": "justinian-of-ramsey-island",
+  "name": "St. Justinian of Ramsey Island",
+  "feastDay": "12-05",
+  "bio": "Saint Justinian was a sixth-century hermit who lived on Ramsey Island, off the coast of Pembrokeshire in Wales, near the great monastery of St. David's. He was a contemporary and friend of St. David, the patron of Wales, and his hermitage on the windswept island became a place of pilgrimage and devotion. According to tradition he was a teacher and spiritual father to those who sought him out on his rock, and his memory was cherished in the Welsh church and beyond. His major shrine is at St. David's Cathedral, where his relics were honored alongside those of David himself. His feast is kept on December 5, and he is remembered as one of the holy hermits of the Celtic West who made the rugged coasts of Wales a school of sanctity.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Justinian to a hermitage upon the sea and made his island rock a place of pilgrimage, grant through his intercession that we may seek You in solitude and find in the journey of faith the company of Your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justinian_of_Ramsey_Island"
+  ],
+  "featured": false,
+  "draft": false
+}

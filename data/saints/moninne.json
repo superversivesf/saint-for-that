@@ -1,0 +1,25 @@
+{
+  "slug": "moninne",
+  "name": "St. Moninne",
+  "feastDay": "07-06",
+  "bio": "Saint Moninne, also called Modwenna of Killeavy, was one of Ireland's earliest female saints. After receiving instruction in the religious life she founded a community at Slieve Gullion in what became County Armagh, gathering eight virgins and a widow with her baby into a small sisterhood devoted to Christ. They lived an eremitical life modeled on the example of Elijah and Saint John the Baptist, embracing poverty, prayer, and solitude on the Irish mountain. Moninne died in 517, and her feast is kept on July 6. She is remembered as a pioneer of women's religious life in Ireland, who showed that the desert ideal could take root on Irish soil.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Moninne to gather a community of virgins on Slieve Gullion, grant through her intercession that those who seek You in solitude and prayer may find strength in holy company. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moninne"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "maches",
+  "name": "St. Maches",
+  "feastDay": "unknown",
+  "bio": "Saint Maches was a sixth-century princess venerated in Cornwall and Devon, remembered as the sister of the great Welsh saint Cadog. Born into a royal family of the Celtic west, she embraced the life of a consecrated virgin and dedicated herself to prayer and works of mercy.\n\nAccording to tradition, Maches ministered among the Christian communities taking shape along the rugged coasts of the southwest, where the faith was spreading through missionary monks and holy women. She is counted among the pre-congregational saints of Britain, honored from ancient times by the local people.\n\nThough few details of her life survive, her memory endures as a witness to the early sanctity of the Celtic church.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Maches to renounce the crowns of earth for the kingdom of heaven, grant through her intercession that all who serve You in singleness of heart may find their joy in You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maches"
+  ],
+  "featured": false,
+  "draft": false
+}

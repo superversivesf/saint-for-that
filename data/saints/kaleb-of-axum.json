@@ -1,0 +1,29 @@
+{
+  "slug": "kaleb-of-axum",
+  "name": "St. Kaleb of Axum",
+  "feastDay": "10-24",
+  "bio": "Kaleb, known also as Elesbaan, Ella Asbeha, or Hellestheaios, was King of Aksum, a great Christian kingdom situated in what is now Ethiopia and Eritrea. In the early sixth century he marched across the Red Sea to defend the Christians of Najran in Arabia, who had been persecuted and martyred by the Himyarite king Dhu Nuwas. His expedition was remembered as a crusade of mercy on behalf of oppressed co-religionists, and he sent a letter to the Patriarch of Alexandria recounting his campaigns. In later life Kaleb was said to have abdicated his throne, sent his crown to the church of the Holy Sepulchre in Jerusalem, and embraced the life of a monk. Venerated as a saint in the Ethiopian, Eritrean, and Roman Catholic traditions, his feast is kept on October 24.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred St. Kaleb to defend Your persecuted people and led him at last to lay his crown at the tomb of Your Son, grant through his intercession that we may be courageous in defending the oppressed and humble in laying our gifts at Your feet. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kaleb_of_Axum"
+  ],
+  "featured": false,
+  "draft": false
+}

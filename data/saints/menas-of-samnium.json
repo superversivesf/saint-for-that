@@ -1,0 +1,25 @@
+{
+  "slug": "menas-of-samnium",
+  "name": "St. Menas of Samnium",
+  "feastDay": "11-11",
+  "bio": "St. Menas of Samnium was a 6th-century hermit whose life is known chiefly through an account written by Pope Gregory the Great, preserved among his Dialogues. According to that narrative, Menas withdrew from the world to live in solitude and rigorous asceticism in the rugged hills of Samnium, in central Italy. Gregory recounts that Menas was granted unusual graces of contemplation and that his holiness became known to those who sought him out in the wilderness. He gathered a few disciples around his hermitage, forming a small community bound to prayer and manual labor. His reputation for sanctity drew both the simple faithful and visiting clerics who came to learn from his counsel.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Menas of Samnium to the silence of the wilderness and the depth of contemplation, grant through his intercession that we may find in prayer the peace the world cannot give. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Menas_of_Samnium"
+  ],
+  "featured": false,
+  "draft": false
+}
