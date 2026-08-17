@@ -1,0 +1,29 @@
+{
+  "slug": "goulven-of-l-on",
+  "name": "St. Goulven of Léon",
+  "feastDay": "07-01",
+  "bio": "Saint Goulven de Léon was a holy bishop of Brittany in the sixth and seventh centuries. The details of his life come down through a vita whose historical accuracy has been questioned, but its portrait is of a man aflame with the love of God. Before his elevation to the see of Saint-Pol-de-Léon, Goulven lived as an ascetic and anchorite, and his prayers and very presence were said to have cured the sick and to have aided in turning back a Viking invasion. When the people chose him as bishop, he fled toward Rome to escape the burden, but after the intervention of Pope Gregory the Great he returned and governed his diocese for more than a decade. He died in Rennes and was buried in its cathedral, and his cult flourished across the Pays de Léon, especially in the commune that bears his name.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Goulven from the solitude of the anchorite to the pastoral chair of Léon, grant through his intercession that we may seek you in stillness and serve you in our brothers and sisters. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goulven_of_L%C3%A9on"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "egwad",
+  "name": "St. Egwad",
+  "feastDay": "unknown",
+  "bio": "Saint Egwad was a seventh-century bishop and saint of Wales, one of the many holy pastors of the early Welsh Church whose names survive in local tradition though the written record of their deeds is lost. He labored in the age when the Celtic monastic Church of Wales still flourished, before the Normans reshaped its observance.\n\nThe Welsh saints of this era were often monks as well as bishops, living in small communities and serving the scattered peoples of the hills and valleys with simple apostolic zeal. Egwad is numbered among this cloud of witnesses, honored as a father of the faithful and a shepherd of souls.\n\nHis memory is a reminder of the deep roots of Christianity in Wales, nurtured by generations of hidden labourers. He is invoked as a patron of bishops and of England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Egwad as a bishop and shepherd among the ancient Welsh, grant through his intercession that all who serve Your Church in hiddenness may be remembered before You and bear fruit that lasts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Egwad"
+  ],
+  "featured": false,
+  "draft": false
+}

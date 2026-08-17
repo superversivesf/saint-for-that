@@ -1,0 +1,25 @@
+{
+  "slug": "bladulf",
+  "name": "St. Bladulf",
+  "feastDay": "unknown",
+  "bio": "Bladulf was a monk and priest of Bobbio Abbey in northern Italy, killed on the orders of the Lombard king Arioald, an Arian heretic, because Bladulf refused to salute him. His murder was the crime of a ruler enraged by a faithful monk's refusal to honor one who denied the divinity of Christ. It is said that Abbot Attala restored Bladulf to life and delivered Arioald from a diabolical possession, the punishment of his crime; and that this twofold miracle led to the king's conversion. Honored as a martyr of conscience, Bladulf stands among the monks of Bobbio who bore witness to the true faith against the errors of their age.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered St. Bladulf among your martyrs for his steadfast refusal to honor what was false, grant through his intercession that we may never salute evil but bear witness to the truth with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bladulf"
+  ],
+  "featured": false,
+  "draft": false
+}

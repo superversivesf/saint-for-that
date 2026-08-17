@@ -1,0 +1,25 @@
+{
+  "slug": "gregory-of-agrigento",
+  "name": "St. Gregory of Agrigento",
+  "feastDay": "unknown",
+  "bio": "Saint Gregory of Agrigento was a Sicilian Christian prelate who served as Bishop of Agrigento from the year 590 and into the early seventh century. He lived and ministered in a Sicily only recently freed from the old pagan order, shepherding his people in the faith while corresponding with Pope Gregory the Great. Two semi-legendary saint's lives recount his virtues and trials, and tradition also credits him with a commentary on the Book of Ecclesiastes, though scholars have debated both identifications. Whatever the precise boundaries of the historical record, the Church of Agrigento honored him as a holy pastor, a man of learning and prayer, whose labors strengthened the Christian roots of his native island.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gregory a wise and holy bishop of Agrigento, grant through his intercession that we may be rooted in your Word and grow in the knowledge of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Agrigento"
+  ],
+  "featured": false,
+  "draft": false
+}

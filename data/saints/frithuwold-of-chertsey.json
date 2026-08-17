@@ -1,0 +1,21 @@
+{
+  "slug": "frithuwold-of-chertsey",
+  "name": "St. Frithuwold of Chertsey",
+  "feastDay": "unknown",
+  "bio": "Frithuwold was a seventh-century Anglo-Saxon ruler in Surrey, and perhaps also in parts of modern Berkshire and Buckinghamshire, known from two surviving charters as a sub-king ruling under King Wulfhere of Mercia. Late hagiographical traditions hold that he was a brother-in-law of Wulfhere and a patron of the newly planted Church in his lands. The monks of Saint Peter's Minster at Chertsey revered Frithuwold as the founder of their monastery and honored him as a saint, preserving his memory among the early Christian kings and nobles of England whose patronage established the monasteries that became centers of faith and learning.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who moved St. Frithuwold to found a monastery at Chertsey and to shelter your Church in its early days, grant through his intercession that all who rule may use their authority to build up your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frithuwold_of_Chertsey"
+  ],
+  "featured": false,
+  "draft": false
+}

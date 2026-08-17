@@ -1,0 +1,21 @@
+{
+  "slug": "george-of-vienne",
+  "name": "St. George of Vienne",
+  "feastDay": "11-02",
+  "bio": "Saint George of Vienne served as bishop of Vienne in France during the seventh century, one of the most ancient and illustrious sees of Gaul. The Church of Vienne, founded in the early centuries of Christianity, had been home to many holy bishops, and George continued their legacy of pastoral care. He may have previously served as bishop of Agde before being translated to Vienne, a sign of the trust placed in him by the faithful of both dioceses. The exact year of his death is uncertain, with scholars suggesting dates around 670 or as late as 699, but his memory endured among the Christians of the Rhone valley.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. George with the care of Your Church at Vienne, grant through his intercession that all bishops may serve their people with the same devotion he showed along the banks of the Rhone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

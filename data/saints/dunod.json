@@ -1,0 +1,25 @@
+{
+  "slug": "dunod",
+  "name": "St. Dunod",
+  "feastDay": "unknown",
+  "bio": "Saint Dunod was the first Abbot of Bangor Iscoed, a great monastery in north-east Wales that numbered, by tradition, thousands of monks devoted to unceasing prayer. In the early medieval period, when the Welsh Church was a powerhouse of monastic life, Dunod led a community renowned for its rigor.\n\nThe monastery at Bangor Iscoed stood as a beacon of Celtic monasticism, and under his guidance its monks kept a round of continuous praise, day and night, in shifts that never let the divine office fall silent. He is counted among the founding fathers of Welsh monastic observance.\n\nThough the date of his feast is uncertain, Dunod's memory endures among the Welsh saints. He is invoked as a patron of abbots and of those whose prayer sustains the Church from the hidden depths of the cloister.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Dunod founded a house of unceasing prayer at Bangor, grant through his intercession that our hearts may never cease to praise You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Dunod"
+  ],
+  "featured": false,
+  "draft": false
+}

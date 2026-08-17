@@ -1,0 +1,25 @@
+{
+  "slug": "egwin-of-evesham",
+  "name": "St. Egwin of Evesham",
+  "feastDay": "12-30",
+  "bio": "Saint Egwin of Evesham was a Benedictine monk and the third Bishop of Worcester in England. he was chosen bishop around 693 and set about reforming the clergy of his diocese. His strictness stirred opposition, and he was twice accused before the Archbishop of Canterbury.\n\nOn each occasion he was vindicated by signs from heaven, most famously when, on a pilgrimage to Rome, he locked his staff to a coffin of a dead man and then loosed it, in token of God's own judgment. He was restored to his see with honor.\n\nEgwin is best remembered as founder of the abbey at Evesham, built after the Virgin Mary was seen in vision there by a swineherd named Eof. He died around 717 and is invoked as a patron of bishops and of monks.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Egwin a faithful bishop and the founder of a house dedicated to Your Mother, grant through his intercession that all who labor for the reform of Your Church may be sustained by Your justice and crowned by Your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Egwin_of_Evesham"
+  ],
+  "featured": false,
+  "draft": false
+}

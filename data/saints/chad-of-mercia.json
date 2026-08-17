@@ -1,0 +1,25 @@
+{
+  "slug": "chad-of-mercia",
+  "name": "St. Chad of Mercia",
+  "feastDay": "03-02",
+  "bio": "Chad was a prominent seventh-century Anglo-Saxon monk, raised in the monastic tradition of Lindisfarne under St. Aidan. He became abbot of Lastingham, the monastery founded by his brother Cedd, and was called to episcopal ministry among the Northumbrians. When a dispute arose over his consecration, Chad humbly stepped aside rather than cling to office—a gesture that so moved Archbishop Theodore that he completed Chad's consecration himself. Chad was then made Bishop of the Mercians and Lindsey, with his see at Lichfield, where he traveled on foot like the apostles, preaching and founding churches. He died in 672, and his shrine at Lichfield became one of the great pilgrimage sites of medieval England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made the bishop Chad a humble shepherd, walking among his people as the apostles did, grant through his intercession that we may seek not the honors of office but the service of love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chad_of_Mercia"
+  ],
+  "featured": false,
+  "draft": false
+}

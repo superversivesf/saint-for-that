@@ -1,0 +1,25 @@
+{
+  "slug": "eadberht-of-lindisfarne",
+  "name": "St. Eadberht of Lindisfarne",
+  "feastDay": "05-06",
+  "bio": "Saint Eadberht served as Bishop of Lindisfarne from 688 until his death on May 6, 698, leading that holy island community in one of its most luminous periods. Lindisfarne had already been sanctified by the labors of Saint Aidan and the hermit life of Saint Cuthbert, and Eadberht governed the see with the same spirit of prayer and ascetic devotion.\n\nHe was a close companion of Saint Cuthbert, and when the beloved hermit-bishop died, Eadberht oversaw his burial and the elevation of his relics. He was himself a man of deep contemplation, known for his learning and simplicity.\n\nEadberht died on the same feast day as Cuthbert, and the two were long honored together at Lindisfarne. His feast is kept on May 6, and he is invoked as a patron of bishops and of those who seek God in solitude.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Eadberht to govern the holy see of Lindisfarne in prayer and solitude, grant through his intercession that we may seek You above all things and find in You our rest. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadberht_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

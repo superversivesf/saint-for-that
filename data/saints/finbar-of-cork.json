@@ -1,0 +1,25 @@
+{
+  "slug": "finbar-of-cork",
+  "name": "St. Finbar of Cork",
+  "feastDay": "09-25",
+  "bio": "Saint Finbar, known in Irish as Fionnbharra and often called simply Barra, was bishop of Cork and abbot of a monastery around which the city of Cork grew in southern Ireland. Tradition holds that he founded his school and monastery at Gougane Barra before settling at the marshland site that became the city, drawing scholars and monks from across the region. He is the patron saint of the city and of the Diocese of Cork, and his feast on 25 September has been kept for centuries. A great tradition of pilgrimage grew up around his memory, and his school was counted among the famous seats of learning of early medieval Ireland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Finbar to be a bishop and to gather a community of learning at Cork, grant through his intercession that we may seek wisdom and serve you with faithful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+  ],
+  "featured": false,
+  "draft": false
+}

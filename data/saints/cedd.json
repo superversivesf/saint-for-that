@@ -1,0 +1,25 @@
+{
+  "slug": "cedd",
+  "name": "St. Cedd",
+  "feastDay": "01-07",
+  "bio": "Cedd was an Anglo-Saxon monk and bishop from the Kingdom of Northumbria in the seventh century. He was raised in the monastery of Lindisfarne and sent by King Oswiu to evangelize the Middle Angles, where he founded churches and established monastic life. He later became bishop to the East Saxons, with his see at London, and built the monastery at Lastingham in Yorkshire, where his brother Chad would succeed him. Cedd was a significant participant in the Synod of Whitby in 664, which resolved the differences between the Roman and Celtic traditions within the Church in England. He died shortly after at Lastingham, weakened by illness while tending those stricken by plague.",
+  "patronages": [
+    {
+      "need": "translators",
+      "category": "jobs"
+    },
+    {
+      "need": "linguists",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the bishop Cedd to proclaim the Gospel among the peoples of England and to reconcile differing traditions at the Synod of Whitby, grant through his intercession that we may be builders of unity and faithful heralds of Your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cedd"
+  ],
+  "featured": false,
+  "draft": false
+}

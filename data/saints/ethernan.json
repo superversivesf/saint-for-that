@@ -1,0 +1,25 @@
+{
+  "slug": "ethernan",
+  "name": "St. Ethernan",
+  "feastDay": "unknown",
+  "bio": "Saint Ethernan was a seventh-century Scottish martyr whose cultus centered on the Isle of May in the Firth of Forth. Living in the wild early days of Scottish Christianity, he embraced the life of a hermit and missionary, seeking to bring the Gospel to the peoples of the north. Tradition holds that he suffered martyrdom for the faith, sealing his witness with his blood on that windswept island that became a place of pilgrimage for centuries afterward. The Isle of May, with its rocky shores and crying seabirds, kept his memory alive through the Middle Ages, drawing the faithful to venerate a man who gave all for Christ. The Church honors Ethernan as a martyr of the northern lands, a witness to the faith planted in Scotland's rugged soil.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the martyr Ethernan courage to lay down his life on the windswept shores of Scotland, grant through his intercession that we may witness to your truth with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ethernan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "edwin-of-northumbria",
+  "name": "St. Edwin of Northumbria",
+  "feastDay": "10-12",
+  "bio": "Saint Edwin, also known as Eadwine, was King of Deira and Bernicia, which together became known as Northumbria, from around 616 until his death. He was the second monarch to rule both these northern English kingdoms and the first to convert to Christianity, baptized at York by Saint Paulinus on Easter Eve 627 after the witness of his Christian wife Aethelburg.\n\nHis reign was a brief golden age for the North. He established a peace so remarkable that, it was said, a woman with a newborn child might walk safely from sea to sea.\n\nHe fell at Hatfield Chase in 633, fighting the pagan Penda of Mercia, and was venerated as a saint and martyr-king. He is the patron of converts, of the poor and homeless, and of fathers of large families.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Edwin from the worship of false gods to the light of the Gospel and made him a father to his people, grant through his intercession that all rulers may govern with justice and that all families may find their peace in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edwin_of_Northumbria"
+  ],
+  "featured": false,
+  "draft": false
+}

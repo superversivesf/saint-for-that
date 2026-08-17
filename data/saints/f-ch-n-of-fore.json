@@ -1,0 +1,25 @@
+{
+  "slug": "f-ch-n-of-fore",
+  "name": "St. Féchín of Fore",
+  "feastDay": "01-20",
+  "bio": "Saint Féchín, also known as Mo-Ecca, was a seventh-century Irish monk and abbot, chiefly remembered as the founder of the monastery at Fore, County Westmeath. Born in Connacht, he was trained in the austere traditions of early Irish monasticism and went on to establish or influence several foundations, including communities associated with Cong Abbey, Omey Island, and Ardoilén. Renowned for his discipline and miracles, Féchín drew disciples who carried his observance across the west of Ireland. He died around 665, struck down by the yellow plague that swept the island, and was venerated as one of the great monastic founders of early Ireland.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Féchín to found monasteries and to draw souls into the discipline of prayer, grant through his intercession that all who seek you in silence may be filled with your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/F%C3%A9ch%C3%ADn_of_Fore"
+  ],
+  "featured": false,
+  "draft": false
+}

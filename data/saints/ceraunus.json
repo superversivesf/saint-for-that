@@ -1,0 +1,21 @@
+{
+  "slug": "ceraunus",
+  "name": "St. Ceraunus",
+  "feastDay": "unknown",
+  "bio": "Ceraunus, also known as Céran, was Bishop of Paris from about 606 to 614, shepherding the see during the tumultuous early decades of the seventh century. The Frankish kingdom of his day was marked by political unrest and shifting loyalties, yet Ceraunus labored to maintain the discipline and faith of his clergy. He is named in the ancient lists of the bishops of Paris, where his memory was preserved alongside the great pastors of that see. He died in peace around 614 and was venerated as a saint, his feast kept among the bishops who built up the Church in Gaul.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to the bishop Ceraunus a steadfast heart for the care of his clergy and his people, grant through his intercession that the pastors of Your Church may persevere in faith and lead their flock to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceraunus"
+  ],
+  "featured": false,
+  "draft": false
+}

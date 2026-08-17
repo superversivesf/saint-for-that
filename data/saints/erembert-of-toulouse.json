@@ -1,0 +1,21 @@
+{
+  "slug": "erembert-of-toulouse",
+  "name": "St. Erembert of Toulouse",
+  "feastDay": "unknown",
+  "bio": "Saint Érembert, born around 610 to a noble Merovingian family in the valley of Feuillancourt, answered the call to serve God as Bishop of Toulouse in the seventh century. Raised among the Frankish aristocracy, he forsook the privileges of his birth to shepherd the faithful of southern Gaul, continuing the apostolic line of Saint Saturnin, Toulouse's first bishop. He labored to strengthen the Church amid the turbulent politics of the Merovingian realm, governing his see with wisdom and care for nearly two decades before his death around 670. The Church honors Érembert as a faithful pastor who united nobility of birth with humility of spirit, and a defender of the faith in the lands once evangelized by the early martyrs.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Érembert to govern the ancient see of Toulouse with wisdom and care, grant through his intercession that your Church may be served by pastors after your own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erembert_of_Toulouse"
+  ],
+  "featured": false,
+  "draft": false
+}

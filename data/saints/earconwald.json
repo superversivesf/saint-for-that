@@ -1,0 +1,25 @@
+{
+  "slug": "earconwald",
+  "name": "St. Earconwald",
+  "feastDay": "04-24",
+  "bio": "Saint Earconwald, also spelled Erkenwald, died in 693 and was a Saxon prince who served as Bishop of London from 675 to 693, the first post-Roman Bishop of London to begin the unbroken succession in the restored Saxon See.\n\nRevered as a holy pastor, he was credited with miracles, and his shrine in old St. Paul's was for centuries a place of pilgrimage. He founded two monasteries in Surrey, at Chertsey for men and at Barking for women, entrusting the latter to his sister Saint Ethelburga. Tradition named him a patron against gout and protector of London.\n\nHe is the subject of the Middle English poem St. Erkenwald, one of the most important poems in the foundations of English literature. He is invoked as a patron of bishops and of England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Earconwald a faithful shepherd of London and a father of monasteries, grant through his intercession that all who are called to lead Your people may do so with holiness and wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Earconwald"
+  ],
+  "featured": false,
+  "draft": false
+}

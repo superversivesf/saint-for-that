@@ -1,0 +1,29 @@
+{
+  "slug": "hesychius-of-sinai",
+  "name": "St. Hesychius of Sinai",
+  "feastDay": "unknown",
+  "bio": "Saint Hesychius of Sinai was a hieromonk of the great monastery of Saint Catherine on Mount Sinai, living in the Byzantine period as an ascetic and a writer of the spiritual life. His name is bound up with the tradition of stillness and unceasing prayer, the heritage of the desert that the Christian East calls hesychasm. From his remote monastery at the foot of the mountain where Moses beheld God, Hesychius wrote of the way of inner silence, watchfulness over the heart, and the deep prayer that gathers the whole person before God. His writings passed quietly among monks and solitaries, feeding the contemplative tradition of the East for many centuries. He is remembered as one of those who taught that the deepest theology is born not of disputation but of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Saint Hesychius the way of inner stillness and unceasing prayer, grant through his intercession that we may quiet our hearts and dwell in your presence, now and for ever. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hesychius_of_Sinai"
+  ],
+  "featured": false,
+  "draft": false
+}

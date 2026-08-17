@@ -1,0 +1,21 @@
+{
+  "slug": "gwenllwyfo",
+  "name": "St. Gwenllwyfo",
+  "feastDay": "unknown",
+  "bio": "Saint Gwenllwyfo is a Welsh saint honored from ancient times in the island of Anglesey. Little more than her name and the devotion of her people have come down to us, yet that devotion itself is testimony enough: two churches near Dulas were dedicated to her, the medieval Old Church of St Gwenllwyfo at Llanwenllwyfo, now a ruin, and its successor which still stands. In early medieval Wales such a dedication was no small thing; it meant that a community had found in this holy woman a patron and an intercessor whose memory they wished to keep alive at the very heart of their worship. She is remembered as one of the countless faithful of the Celtic Church whose names the earth of Wales has kept while history forgot the rest.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of your handmaid Gwenllwyfo among the people of Anglesey, grant through her intercession that we may serve you in hidden holiness and be found worthy of your praise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwenllwyfo"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "bodfan",
+  "name": "St. Bodfan",
+  "feastDay": "06-02",
+  "bio": "Bodfan was a 7th-century Welsh saint venerated in the Catholic and Anglican churches, associated with the churches of Llanaber and Abergwyngregyn on the coast of north Wales. Little certain is recorded of his life, but the churches bearing his name testify to a devotion that endured for centuries among the people of Gwynedd. Like many of the early Welsh saints, he is remembered as a pastor and founder of Christian communities, a man whose holiness was measured not in writings but in the faith of the people he served and the sanctuaries that kept his memory.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who kept the memory of St. Bodfan alive in the churches and prayers of Wales, grant through his intercession that the faithful of every land may build communities rooted in your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bodfan"
+  ],
+  "featured": false,
+  "draft": false
+}

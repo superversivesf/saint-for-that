@@ -1,0 +1,25 @@
+{
+  "slug": "huna-of-thorney",
+  "name": "St. Huna of Thorney",
+  "feastDay": "02-13",
+  "bio": "Saint Huna of Thorney was a seventh-century priest and hermit whose quiet holiness shaped the early Church in Anglo-Saxon England. Though little is recorded of his life, tradition remembers him as a priest who withdrew to the solitary life, seeking God in prayer and penance on the Isle of Thorney in the Fenlands. His influence reached the Northumbrian and Anglian courts, where his counsel and example helped advance the conversion of the English kingdoms to the Christian faith. He died and was buried at Thorney, which became a place of devotion, and his feast is kept on February 13. He is remembered as one of the hidden saints of the English conversion, a hermit whose prayers and witness nourished a Church still young in the faith.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Huna to seek You in the solitude of Thorney and made his prayers a hidden strength for the conversion of England, grant through his intercession that we may find in silence the courage to serve Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Huna_of_Thorney"
+  ],
+  "featured": false,
+  "draft": false
+}

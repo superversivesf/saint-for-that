@@ -1,0 +1,25 @@
+{
+  "slug": "boisil",
+  "name": "St. Boisil",
+  "feastDay": "02-24",
+  "bio": "Boisil was a monk of Melrose Abbey, an offshoot of Lindisfarne, in the Anglo-Saxon Kingdom of Northumbria. He was among the first generation of monks at Melrose when the foundation was established in the late 640s, and he rose to become its prior. He was the spiritual master who formed the young St. Cuthbert, prophesying the boy's future greatness and guiding his early steps in the religious life. Bede records that Boisil was learned in the Scriptures and of great purity of life. Stricken by plague, he foretold his own death and commended Cuthbert to the care of the bishop. He died around 661 and was buried at Melrose.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Boisil grace to form the young Cuthbert in the way of holiness, grant through his intercession that all who guide souls in spiritual direction may discern and nurture your gifts in others. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boisil"
+  ],
+  "featured": false,
+  "draft": false
+}

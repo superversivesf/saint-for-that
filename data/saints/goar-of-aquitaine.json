@@ -1,0 +1,25 @@
+{
+  "slug": "goar-of-aquitaine",
+  "name": "St. Goar of Aquitaine",
+  "feastDay": "07-06",
+  "bio": "Saint Goar of Aquitaine was a French priest and hermit of the seventh century, renowned for his deep piety and the miracles attributed to him. As a hermit he lived a life of solitude and prayer along the Rhine near the town that now bears his name, Sankt Goar. When the bishopric of Trier was offered to him, Goar humbly prayed to be excused, preferring the quiet of his hermitage to the burdens of high office. His reputation for holiness spread widely, and he became known as a miracle-worker. He is honored as a patron saint of innkeepers, potters, and vine growers, and his feast is celebrated on July 6.",
+  "patronages": [
+    {
+      "need": "innkeepers",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Goar the grace to seek You in solitude and the humility to decline worldly honors, grant through his intercession that all who serve others with honest labor may find You in their daily work. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "drostan",
+  "name": "St. Drostan",
+  "feastDay": "07-11",
+  "bio": "Saint Drostan, also called Drustan, was the founder and abbot of the monastery of Old Deer in Aberdeenshire, Scotland. He belonged to that wave of Celtic monks who carried the Gospel through Pictland in the early medieval period, establishing communities of prayer and learning in a rugged land.\n\nUnder his leadership Old Deer became a center of monastic life, and his holiness drew disciples to follow the way of Christ in that remote corner of the northeast. After his death his relics were translated to the church at New Aberdour, and a holy well near that church long drew pilgrims seeking healing.\n\nHis feast is kept on July 11. Drostan is remembered as a patron of Aberdeenshire and of the monastic ideal lived out in simplicity and prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Drostan to found a house of prayer in the wilds of Pictland, grant through his intercession that we may seek You in simplicity of heart and find healing at the wellsprings of Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Drostan"
+  ],
+  "featured": false,
+  "draft": false
+}

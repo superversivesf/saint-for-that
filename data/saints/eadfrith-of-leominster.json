@@ -1,0 +1,25 @@
+{
+  "slug": "eadfrith-of-leominster",
+  "name": "St. Eadfrith of Leominster",
+  "feastDay": "unknown",
+  "bio": "Saint Eadfrith of Leominster, also called Eadridus, was a seventh-century saint of Anglo-Saxon England whose life is largely lost. Not in contemporary texts, stories suggest he was an important figure in the Christianisation of the Anglo-Saxon kingdoms, laboring in the Welsh Marches near what is now Herefordshire.\n\nTradition associates him with Leominster, whose name recalls the minster church that once stood there. He is counted among the early missionaries who planted the faith among a still half-pagan people, and his memory endured locally for centuries after the records failed.\n\nEadfrith is honored as one of the silent workers of the early English Church whose hidden labors laid the foundations of a Christian nation. He is invoked as a patron of England and of converts.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the age of the Anglo-Saxons raised up Saint Eadfrith of Leominster to labor for the spread of the Gospel, grant through his intercession that all who seek You in sincerity may find their home in Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadfrith_of_Leominster"
+  ],
+  "featured": false,
+  "draft": false
+}

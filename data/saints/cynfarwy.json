@@ -1,0 +1,21 @@
+{
+  "slug": "cynfarwy",
+  "name": "St. Cynfarwy",
+  "feastDay": "unknown",
+  "bio": "Saint Cynfarwy was a Christian of seventh-century Wales about whom little is recorded beyond the devotion he inspired. Though never formally canonized by Rome, the early Welsh Church honored him as a saint, and a church in Anglesey was dedicated to his memory.\n\nThe settlement surrounding that church, Llechgynfarwy, still bears his name, a quiet witness to the lasting imprint of his holiness upon the people of that region. His feast day falls in November, though the exact date varies among the sources that preserve his memory.\n\nCynfarwy stands among the many Celtic saints whose names have survived chiefly in place-names and local devotion rather than written lives. He is invoked as a patron of those quiet, faithful souls whose labors for the Gospel are known only to God.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in every age raise up hidden saints known only to You, grant through the intercession of Saint Cynfarwy that we may serve You faithfully in the ordinary duties of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cynfarwy"
+  ],
+  "featured": false,
+  "draft": false
+}

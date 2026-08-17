@@ -1,0 +1,25 @@
+{
+  "slug": "ghislain",
+  "name": "St. Ghislain",
+  "feastDay": "10-09",
+  "bio": "Saint Ghislain was a confessor and anchorite who lived in what is now Belgium, dedicating his life to prayer and solitude in the wilderness. As an anchorite, he withdrew from the world to seek God in silence and penance, and his holiness drew others to the area, so that a settlement grew up around his hermitage. The town that bears his name, Saint-Ghislain, testifies to the lasting memory of his presence among the people of Hainaut. He has long been invoked against convulsions in children, and parents through the centuries have sought his intercession for their little ones. His feast is kept on October 9.",
+  "patronages": [
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ghislain to a life of solitude and prayer and made him a refuge for the afflicted, grant through his intercession that children suffering from illness may be restored to health and that all who seek You in silence may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ghislain"
+  ],
+  "featured": false,
+  "draft": false
+}

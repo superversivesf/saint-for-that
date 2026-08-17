@@ -1,0 +1,25 @@
+{
+  "slug": "hieu-abbess",
+  "name": "St. Hieu",
+  "feastDay": "09-02",
+  "bio": "Saint Hieu, also called Hieu of Tadcaster, was a 7th-century Irish abbess who labored in Northumbria and is counted among the pioneering holy women of the Anglo-Saxon Church. Crossing the sea from Ireland, she gave herself to the service of Christ in a land still being evangelized, and became foundress of abbeys at Hartlepool and later at Healaugh in Yorkshire. She was the first of the saintly recluses of Northumbria and the first known woman to rule a double monastery, governing both monks and nuns with wisdom and humility. Her life of prayer and governance helped lay the foundations of monastic life in northern England, and her feast is kept on September 2. She is remembered as a model of spiritual leadership and of the consecrated life of women in the early English Church.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Hieu to found monasteries and to rule her sisters and brothers in holiness, grant through her intercession that all who serve You in the consecrated life may grow in wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hieu_(abbess)"
+  ],
+  "featured": false,
+  "draft": false
+}

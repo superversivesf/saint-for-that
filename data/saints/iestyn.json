@@ -1,0 +1,25 @@
+{
+  "slug": "iestyn",
+  "name": "St. Iestyn",
+  "feastDay": "unknown",
+  "bio": "Saint Iestyn was a Welsh hermit and confessor of the 6th or 7th century, one of the many holy figures who shaped the early Christian life of Wales. Little is recorded of his life beyond the churches he founded, one in Gwynedd and another in Anglesey, both in north Wales, which stood as enduring signs of his missionary labors among the people of the hills and coast. He lived as a hermit and confessor, seeking God in solitude while serving the faithful who gathered around him, and his example helped root the Gospel in the Welsh landscape. His feast day is not certainly known, but his memory endured in local devotion and in the place-names that bear his name. He is remembered as one of the quiet founding saints of Welsh Christianity.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Iestyn to seek You in the solitude of Wales and to found churches that would bear witness to Your name, grant through his intercession that the faith planted by the early saints may endure in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Iestyn"
+  ],
+  "featured": false,
+  "draft": false
+}

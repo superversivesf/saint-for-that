@@ -1,0 +1,25 @@
+{
+  "slug": "helladius-of-toledo",
+  "name": "St. Helladius of Toledo",
+  "feastDay": "02-18",
+  "bio": "Saint Helladius, known also as Eladio or Elladio, was Archbishop of Toledo in the early seventh century. Born into a noble Visigothic family of Spain, he spent his early years in the service of the court, where honors awaited him; yet his heart was drawn to the monastic life, and he left the world to take his vows at the monastery of Agali. So great was his holiness that his brethren chose him as their abbot, and in time the Church called him to be archbishop of Toledo. As a pastor he guided the Church in a Spain newly united in the Catholic faith. The Roman Martyrology preserves his feast on the eighteenth of February, honoring a nobleman who traded earthly rank for the service of God.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led Saint Helladius from the honors of the court to the service of your altar, grant through his intercession that we may set our hearts on you alone and find in you our true treasure. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helladius_of_Toledo"
+  ],
+  "featured": false,
+  "draft": false
+}

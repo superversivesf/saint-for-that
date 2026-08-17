@@ -1,0 +1,29 @@
+{
+  "slug": "hilda-of-whitby",
+  "name": "St. Hilda of Whitby",
+  "feastDay": "06-23",
+  "bio": "Saint Hilda of Whitby, known as Hild, was one of the great figures of the early Church in Britain, born into the Northumbrian royal family in 614. Baptized at thirteen, she planned to enter a convent in Gaul but was recalled by Aidan of Lindisfarne to serve the Church in her own land. She became abbess at Hartlepool and then founded the monastery at Streonshalh, afterwards called Whitby, a double house of monks and nuns that became a center of learning and holiness. In 664 the Synod of Whitby was held at her monastery, where the English Church resolved to follow Roman customs, and her counsel was sought by kings and common folk alike. She trained bishops and poets, including Caedmon, the first English poet, and died on November 17, 680. Her feast is kept on June 23.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed Saint Hilda of Whitby with the gift of wisdom, so that kings sought her counsel and her monastery became a school of saints, grant through her intercession that Your Church may be united in truth and governed by wise and holy pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hilda_of_Whitby"
+  ],
+  "featured": false,
+  "draft": false
+}

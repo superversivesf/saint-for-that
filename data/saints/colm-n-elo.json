@@ -1,0 +1,21 @@
+{
+  "slug": "colm-n-elo",
+  "name": "St. Colmán Elo",
+  "feastDay": "09-26",
+  "bio": "Colmán Elo, also called Elo Colman, was born in Glenelly in what is now County Tyrone, Ireland. His name distinguishes him from the many other Irish saints called Colmán. He is famed in Irish hagiography as a holy monk and abbot, though the precise details of his foundation are uncertain. The Irish Church honored a great many men named Colmán, and Colmán Elo is remembered among them for his sanctity and his life given wholly to God. He represents the flowering of Irish monasticism in the early medieval centuries, when monks and hermits sanctified the land through lives of prayer, penance, and learning.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Colmán Elo a light of holiness among the monks of Ireland, grant through his intercession that we may seek You with the same undivided heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_Elo"
+  ],
+  "featured": false,
+  "draft": false
+}

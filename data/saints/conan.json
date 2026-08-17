@@ -1,0 +1,25 @@
+{
+  "slug": "conan",
+  "name": "St. Conan",
+  "feastDay": "01-13",
+  "bio": "Saint Conan was an Irish missionary who labored as a bishop on the Isle of Man, carrying the Gospel from Ireland to the peoples of the Irish Sea. The early Celtic saints traveled freely between Ireland, Scotland, and the islands, and Conan was among those who brought the faith to communities far from home. As a bishop he would have ordained clergy, taught the faithful, and established churches. Little else is known of his life, but his memory is preserved in the calendar of the saints. He represents the great missionary expansion of the Irish Church, which sent monks and bishops to preach Christ throughout the islands and beyond.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Conan across the sea to shepherd Your people as a bishop, grant through his intercession that all who preach the Gospel may build up the Church in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Conan"
+  ],
+  "featured": false,
+  "draft": false
+}

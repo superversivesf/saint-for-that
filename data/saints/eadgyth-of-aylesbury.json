@@ -1,0 +1,25 @@
+{
+  "slug": "eadgyth-of-aylesbury",
+  "name": "St. Eadgyth of Aylesbury",
+  "feastDay": "unknown",
+  "bio": "Saint Eadgyth of Aylesbury, also called Eadridus, was a Christian saint of Anglo-Saxon England whose memory is preserved in the town of Aylesbury in Buckinghamshire. Little is known of her life with certainty, and she is often confused with other holy women of the same name among the Saxons.\n\nTradition holds that she was a holy virgin or abbess of an early Christian community at Aylesbury, where a major shrine once stood in her honor. Like many Saxon women saints, her witness was lived out in founding and guiding religious communities in a land still newly evangelized.\n\nEadgyth's name endured in local devotion for generations, and she is counted among the hidden witnesses of the early English Church. She is invoked as a patron of England and of single women who dedicate their lives to God.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Eadgyth of Aylesbury to a life of holiness among the Anglo-Saxon peoples, grant through her intercession that all who seek to serve You in purity of heart may persevere in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadgyth_of_Aylesbury"
+  ],
+  "featured": false,
+  "draft": false
+}

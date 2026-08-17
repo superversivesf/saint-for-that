@@ -1,0 +1,25 @@
+{
+  "slug": "colman-mac-duagh",
+  "name": "St. Colman mac Duagh",
+  "feastDay": "unknown",
+  "bio": "Saint Colman mac Duagh was born at Corker, Kiltartan, County Galway, the son of the Irish chieftain Duac. He initially lived as a recluse, giving himself to prayer and prolonged fastings, first on Inismore and then in a cave in the Burren of County Clare. With his relative, King Guaire Aidne mac Colmáin of Connacht, he founded the monastery of Kilmacduagh and governed it as abbot-bishop. His austere hermit life formed the foundation of a great monastic house, and the rocky landscape of the Burren became a school of holiness. Colman is remembered as a model of the Irish hermit-bishops who ruled their flocks through prayer and penance.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Colman mac Duagh from the solitude of the cave to the shepherd's staff, grant through his intercession that we may balance contemplation with service in the work of Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colman_mac_Duagh"
+  ],
+  "featured": false,
+  "draft": false
+}

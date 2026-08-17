@@ -1,0 +1,29 @@
+{
+  "slug": "catald",
+  "name": "St. Catald",
+  "feastDay": "05-10",
+  "bio": "Catald of Taranto was an Irish monk who, according to tradition, traveled on pilgrimage to the Holy Land and was miraculously guided to the Italian port city of Taranto, where the people, recognizing his holiness, compelled him to remain as their bishop. Catald shepherded the diocese with humility, preached the Gospel, and gained a reputation as a worker of miracles. He is venerated especially in southern Italy, where his shrine at Taranto became a place of pilgrimage. He is invoked for protection from plagues, droughts, and storms, reflecting the confidence of the people in his intercession in times of natural calamity.",
+  "patronages": [
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided the Irish monk Catald to the city of Taranto and made him a faithful shepherd of Your people, defend us through his intercession from plague, drought, and storm, and keep us safe in every peril. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catald"
+  ],
+  "featured": false,
+  "draft": false
+}

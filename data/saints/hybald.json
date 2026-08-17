@@ -1,0 +1,25 @@
+{
+  "slug": "hybald",
+  "name": "St. Hybald",
+  "feastDay": "09-18",
+  "bio": "Saint Hybald, also known as Higbald, Hibald, or Hygbald, was a 7th-century Anglo-Saxon saint venerated in Lincolnshire and the surrounding region. Though the details of his life are few, tradition remembers him as a hermit and abbot who gave himself to prayer and to the guidance of disciples in a land still growing in the faith. The village of Hibaldstow preserves his name, marking the place where his memory was kept and a shrine once stood, destroyed and rebuilt across the centuries as devotion to him endured. He is honored on September 18 in the Western calendar and on December 14 in the Orthodox tradition, a sign of the shared heritage of the early English saints. He is remembered as one of the quiet monastic figures whose holiness shaped the Church in the north of England.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Saint Hybald in the solitude of prayer and made his name endure where his shrine once stood, grant through his intercession that all who seek You in silence may be strengthened by Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hybald"
+  ],
+  "featured": false,
+  "draft": false
+}

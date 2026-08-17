@@ -1,0 +1,25 @@
+{
+  "slug": "erhard-of-regensburg",
+  "name": "St. Erhard of Regensburg",
+  "feastDay": "01-08",
+  "bio": "Saint Erhard, also called Erard or Herhard, served as Bishop of Regensburg in Bavaria during the seventh century, shepherding the young Christian community planted in the forests of Germany. Ancient records identify him with an Abbot Erhard of Ebersheimmunster mentioned in a Merovingian diploma of 684, and his name echoes across the Rhineland and the Danube alike. He labored to build up the Church in a land still half-pagan, confirming the faithful and guiding clergy by his teaching. Honored for centuries in Regensburg, where his relics were enshrined, he is invoked as a patron of the diocese and of those who carry the Gospel into frontier lands. The Church venerates him as a steadfast bishop whose labors took root in the soil of Bavaria.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Erhard to build up your Church in the lands of Bavaria, grant through his intercession that the Gospel may take root in every heart that awaits your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erhard_of_Regensburg"
+  ],
+  "featured": false,
+  "draft": false
+}

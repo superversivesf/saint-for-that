@@ -1,0 +1,25 @@
+{
+  "slug": "bonitus-bishop",
+  "name": "St. Bonitus",
+  "feastDay": "unknown",
+  "bio": "Saint Bonitus, born in France around 623, held many of the highest offices of the Merovingian Church and state. He served as chancellor and referendary in Francia before being appointed governor of Marseille in 667, and was later consecrated Bishop of Auvergne, where he shepherded the see of Clermont. After years of faithful service he resigned his see to live as a hermit and undertake a pilgrimage to Rome, seeking the solitude and penance that his public duties had long denied him. He died around 710 and is venerated as a saint in both the Roman Catholic and Eastern Orthodox Churches, remembered as a ruler who sought God in both office and retirement.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Bonitus from the cares of government to the silence of a hermit's cell, grant through his intercession that those burdened by office may find in you their rest and their reward. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bonitus_(bishop)"
+  ],
+  "featured": false,
+  "draft": false
+}

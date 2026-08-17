@@ -1,0 +1,29 @@
+{
+  "slug": "felix-of-burgundy",
+  "name": "St. Felix of Burgundy",
+  "feastDay": "03-08",
+  "bio": "Felix of Burgundy, also known as Felix of Dunwich, was the first bishop of the kingdom of the East Angles and is widely credited with introducing Christianity to that realm. Sent from the Continent in the early seventh century, he established his see at Dunwich and labored for nearly two decades to plant the faith among the East Anglian people. Bede records that Felix freed the whole kingdom from long-standing evil and unhappiness, and the Anglo-Saxon Chronicle preserves his memory alongside the great missionaries of the age. Consecrated by Honorius of Canterbury, he died around 648 and was buried at Dunwich, having laid the foundation of an enduring Christian presence in eastern England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Felix of Burgundy to preach the Gospel to the East Angles and to plant your Church in that land, grant through his intercession that we may labor faithfully for the spread of the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Burgundy"
+  ],
+  "featured": false,
+  "draft": false
+}

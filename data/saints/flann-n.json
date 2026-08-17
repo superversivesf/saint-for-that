@@ -1,0 +1,25 @@
+{
+  "slug": "flann-n",
+  "name": "St. Flannán",
+  "feastDay": "12-18",
+  "bio": "Flannán mac Toirrdelbaig was an Irish saint of the seventh century, the son of the chieftain Toirdhealbhach of Dál gCais. He entered the monastery of Killaloe under Mo Lua, where he rose to be abbot, and was remembered as a preacher of great power. He made a pilgrimage to Rome, where Pope John IV consecrated him first Bishop of Killaloe, and he preached the faith in the Hebrides before returning to his see. His feast is kept on 18 December, and he is honored as the patron saint of Killaloe, one of the early Irish bishops who combined monastic discipline with pastoral care and missionary zeal across the Gaelic world.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Flannán a faithful bishop and a zealous preacher of your word, grant through his intercession that we may proclaim your truth with courage and live it with grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flann%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

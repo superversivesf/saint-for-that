@@ -1,0 +1,21 @@
+{
+  "slug": "constantine-of-strathclyde",
+  "name": "St. Constantine of Strathclyde",
+  "feastDay": "03-11",
+  "bio": "Constantine of Strathclyde was reputedly the son and successor of King Riderch Hael of Alt Clut, the Brittonic kingdom later known as Strathclyde. He appears in the Life of St. Kentigern by Jocelyn of Furness, which regards him as a cleric, connecting him with the several obscure saints named Constantine venerated throughout Britain. Though history gives us few details, the tradition that a royal heir laid aside his throne to serve God as a priest made a deep impression on the medieval Church. Constantine is remembered among those who forsook worldly power to follow Christ, a king's son who chose the altar over the crown.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Constantine of Strathclyde to exchange a throne for the service of Your altar, grant through his intercession that we may value Your kingdom above every earthly crown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_of_Strathclyde"
+  ],
+  "featured": false,
+  "draft": false
+}

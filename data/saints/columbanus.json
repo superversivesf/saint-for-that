@@ -1,0 +1,29 @@
+{
+  "slug": "columbanus",
+  "name": "St. Columbanus",
+  "feastDay": "11-23",
+  "bio": "Columbanus was an Irish missionary who became one of the most influential figures of the early medieval Church. Born in Leinster around 540, he left Ireland with twelve companions and founded monasteries across the Frankish and Lombard kingdoms, most notably Luxeuil Abbey in present-day France and Bobbio Abbey in present-day Italy. His monastic rule was strict and his preaching fearless; he rebuked kings and called the faithful to penance. His foundations became great centers of learning and missionary zeal. Columbanus died at Bobbio in 615. He is honored as a patron of Europe and of missionaries, and as a father of Western monasticism.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Columbanus from Ireland to found monasteries that enlightened Europe, grant through his intercession that the Church may never lack voices fearless in truth and tireless in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columbanus"
+  ],
+  "featured": false,
+  "draft": false
+}

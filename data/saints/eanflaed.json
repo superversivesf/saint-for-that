@@ -1,0 +1,29 @@
+{
+  "slug": "eanflaed",
+  "name": "St. Eanflæd",
+  "feastDay": "11-24",
+  "bio": "Saint Eanflaed was a Deiran princess, queen of Northumbria, and later abbess of the monastery at Whitby. Daughter of King Edwin of Northumbria and Aethelburg, she was baptized into the faith as a child and raised within the young Church of the English.\n\nIn or shortly after 642 she became the second wife of King Oswiu, and through her court chaplain Romanus helped maintain the Roman tradition of Christianity when Celtic and Roman customs contended. After Oswiu's death in 670, she retired to Whitby Abbey, founded by Saint Hilda, and became abbess around 680.\n\nUnder her leadership Whitby remained a centre of Roman observance and a school of holiness for noble Saxon women. She is remembered as a patron of England, of nuns, and of those who work for the conversion of hearts.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided Saint Eanflæd from the courts of kings to the governance of a holy community at Whitby, grant through her intercession that all who seek You may find in Your Church the path of true conversion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eanfl%C3%A6d"
+  ],
+  "featured": false,
+  "draft": false
+}

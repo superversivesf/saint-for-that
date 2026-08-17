@@ -1,0 +1,29 @@
+{
+  "slug": "florentina",
+  "name": "St. Florentina",
+  "feastDay": "unknown",
+  "bio": "Saint Florentina of Cartagena was born toward the middle of the sixth century in Cartagena, Hispania, into a family remarkable for its holiness. She was the sister of three bishops later venerated as saints—Leander, Isidore, and Fulgentius—and like them she gave herself to the service of the Church. Widowed young, Florentina withdrew to a life of virginity and founded or led a community of women devoted to prayer and ascetic discipline in Seville, under the guidance of her brother Leander. Few details of her life survive, yet her veneration endured in Spanish tradition, and she is remembered among the great women saints of Visigothic Spain who shaped the Church through contemplation and family fidelity.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Florentina to a life of prayer and to lead a community of women in your service, grant through her intercession that we may seek you above all things and find you in the stillness of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Florentina"
+  ],
+  "featured": false,
+  "draft": false
+}

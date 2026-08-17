@@ -1,0 +1,21 @@
+{
+  "slug": "eosterwine",
+  "name": "St. Eosterwine",
+  "feastDay": "03-07",
+  "bio": "Saint Eosterwine served as the second Abbot of Wearmouth in Northumbria, England, governing the great monastery founded by Benedict Biscop in the seventh century. Though of noble birth and kin to his predecessor, Eosterwine prized humility above rank and labored alongside his monks in the fields, sharing their toil and their meals with equal devotion. He cared tenderly for the sick and the poor who came to the abbey gates, and ruled his community more by example than by command. After a brief but fruitful abbacy, he fell asleep in the Lord on March 7, leaving behind a house renowned for learning and piety. The Church remembers him as a gentle shepherd of monks and a patron of those who labor humbly in the Lord's vineyard.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made the abbot Eosterwine a humble shepherd of his brothers, laboring beside them in the fields and serving the poor at his gates, grant through his intercession that we may lead others to you by our example. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eosterwine"
+  ],
+  "featured": false,
+  "draft": false
+}

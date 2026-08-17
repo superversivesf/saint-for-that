@@ -1,0 +1,25 @@
+{
+  "slug": "beuno",
+  "name": "St. Beuno",
+  "feastDay": "04-21",
+  "bio": "Saint Beuno, sometimes anglicized as Bono, was a 7th-century Welsh abbot and confessor whose holiness shaped the early Church in north Wales. Born into a royal line of Powys, he studied at Bangor under St. Deiniol and was ordained priest before withdrawing to a life of prayer and teaching. He founded churches and monasteries across Gwynedd and Anglesey, most famously at Clynnog Fawr, where he trained disciples and worked miracles of healing. Tradition holds that he raised the dead, cured the sick, and once restored a severed head to its body. Honored as a patron of sick children and of those who tend animals, he died on 21 April 640 and was buried at Clynnog, which became a place of pilgrimage for centuries.",
+  "patronages": [
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Beuno as a father of Welsh monasteries and a healer of body and soul, grant through his intercession that sick children may be restored to health and that all who tend your creatures may labor in your blessing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beuno"
+  ],
+  "featured": false,
+  "draft": false
+}

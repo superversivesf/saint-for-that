@@ -1,0 +1,25 @@
+{
+  "slug": "colman-martyr",
+  "name": "St. Colman",
+  "feastDay": "07-08",
+  "bio": "Saint Colman, also known as Kolonat, was an Irish-born Christian priest and missionary who labored to spread the Gospel beyond his homeland. Like many of his countrymen in the early medieval period, he felt the call to carry the faith to foreign lands. His designation as a martyr marks him among those who bore witness to Christ at the cost of their lives. The details of his mission are sparse, but his memory has been preserved in the calendar of the saints. Colman stands with the great company of Irish missionary monks who left the comfort of their monasteries to preach Christ among the peoples of Europe.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Colman with the palm of martyrdom as he carried the Gospel to foreign lands, grant through his intercession that missionaries may bear witness to Christ with courage and joy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Colman_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

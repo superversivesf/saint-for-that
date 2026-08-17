@@ -1,0 +1,25 @@
+{
+  "slug": "hadelin",
+  "name": "St. Hadelin",
+  "feastDay": "unknown",
+  "bio": "Saint Hadelin, born in the region of Guyenne, was one of the scholarly monks who in the seventh century carried the Gospel into the forests and valleys of what is now Belgium. Together with Saint Remaclus, he labored to establish the Christian faith among peoples still living between the old pagan ways and the new light of Christ. Hadelin was a man of letters as well as of prayer, a monk whose learning served not the cloister alone but the work of preaching and conversion. He founded and served communities that became centers of faith and learning for generations after him. The people of the Ardennes honored his memory and his relics, and through the centuries his name remained linked with the deep, patient work of planting the Church where it had not yet taken root.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Hadelin to preach the Gospel to the peoples of the Ardennes, grant through his intercession that the light of Christ may reach every land still waiting for your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Hadelin"
+  ],
+  "featured": false,
+  "draft": false
+}

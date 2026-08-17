@@ -1,0 +1,25 @@
+{
+  "slug": "herbert-of-derwentwater",
+  "name": "St. Herbert of Derwentwater",
+  "feastDay": "unknown",
+  "bio": "Saint Herbert of Derwentwater was an Anglo-Saxon priest and hermit who made his home on the small island in Derwentwater that still bears his name, in the lake country of Cumbria. He was a dear friend of Saint Cuthbert of Lindisfarne, and their bond of holy friendship has been cherished by the Church for centuries. Herbert's life was one of solitude, prayer, and quiet fidelity to God in one of the loveliest and loneliest places of England. Tradition holds that the two friends prayed to die together, and so they did. This friendship of saints has moved believers and poets alike, and William Wordsworth gave it lasting literary form in his verse. Herbert remains a model for those who seek God in silence and in the companionship of kindred souls.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who joined Saint Herbert to Saint Cuthbert in a holy friendship and called them both to yourself, grant through their intercession that we may love one another in you and come at last to the joy of your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herbert_of_Derwentwater"
+  ],
+  "featured": false,
+  "draft": false
+}

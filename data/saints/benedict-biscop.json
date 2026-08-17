@@ -1,0 +1,25 @@
+{
+  "slug": "benedict-biscop",
+  "name": "St. Benedict Biscop",
+  "feastDay": "01-12",
+  "bio": "Benedict Biscop, also known as Biscop Baducing, was a 7th-century Anglo-Saxon abbot and the founder of Monkwearmouth-Jarrow Priory, one of the great centers of learning in early medieval England. Born a nobleman, he made several pilgrimages to Rome, bringing back books, relics, paintings, and the chant of the Roman liturgy. With the patronage of King Oswiu he built his twin monasteries and brought Abbot John of the Roman Church to teach his monks, and he engaged masons and glassmakers from Gaul to raise stone churches with glazed windows. He is honored as a patron of musicians and painters, and as a father of the English Benedictine Congregation.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Benedict Biscop to adorn your Church with the treasures of Rome—books, chant, and sacred art—grant through his intercession that all who serve you in music and beauty may lift the hearts of the faithful to heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benedict_Biscop"
+  ],
+  "featured": false,
+  "draft": false
+}

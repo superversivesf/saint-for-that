@@ -1,0 +1,21 @@
+{
+  "slug": "eorcengota",
+  "name": "St. Eorcengota",
+  "feastDay": "02-21",
+  "bio": "Saint Eorcengota, also called Ercongotha, was a seventh-century Kentish princess who forsook the royal court for the cloister. Daughter of King Eorcenberht of Kent, she journeyed to Faremoutiers Abbey in Gaul, where she embraced the monastic life under the guidance of the abbess. Renowned for her humility and devotion, she spent her days in prayer and contemplation, winning the affection of her sisters by her gentle piety. As death approached, Eorcengota was granted a vision by which she foretold the very hour of her passing, and shortly thereafter fell asleep in the Lord. Her memory endured among the Anglo-Saxon monks and nuns of England as an example of royal humility and trusting surrender to God.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the royal maiden Eorcengota from her father's court to the quiet of the cloister, grant through her intercession that we may see with the eyes of faith the eternal home you have prepared for us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eorcengota"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "goeznovius",
+  "name": "St. Goeznovius",
+  "feastDay": "10-25",
+  "bio": "Saint Goeznovius, also known as Goueznou, was a Cornish-born Bishop of Leon in Brittany, venerated as a saint in the region around Brest. According to his Legenda, he was born in Cornwall and joined the many Britons who crossed the sea to the continent in the wake of the Anglo-Saxon invasions, helping to found the Brittonic settlement in Armorica that became known as Brittany. As Bishop of Leon he shepherded the faithful of this young Breton diocese, building up the Church among a people who carried their Celtic heritage and their Christian faith across the waters. His feast is celebrated on October 25.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Goeznovius across the sea from Cornwall to build up Your Church in Brittany, grant through his intercession that all who leave their homeland in search of a new life may find in You a home that endures. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goeznovius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "genesius-of-lyon",
+  "name": "St. Genesius of Lyon",
+  "feastDay": "unknown",
+  "bio": "Saint Genesius of Lyon served as the thirty-seventh Archbishop of Lyon, one of the most ancient and prestigious sees in Gaul. The Church of Lyon, founded in the second century, had a long line of bishops stretching back to St. Pothinus and St. Irenaeus, and Genesius continued their legacy as a shepherd of this historic diocese. Though few details of his life have survived the centuries, he is remembered as one of the successors to the apostolic tradition that made Lyon a cradle of Christianity in Western Europe. His name is honored among the archbishops who guided the Church of Lyon through the turbulent centuries of late antiquity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Genesius to shepherd Your Church at Lyon as a successor to the apostles, grant through his intercession that all bishops may be faithful guardians of the faith handed down from the earliest days. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Genesius_of_Lyon"
+  ],
+  "featured": false,
+  "draft": false
+}

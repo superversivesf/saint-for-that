@@ -1,0 +1,21 @@
+{
+  "slug": "cr-n-n-of-roscrea",
+  "name": "St. Crónán of Roscrea",
+  "feastDay": "04-28",
+  "bio": "Saint Crónán served as abbot-bishop of the diocese of Roscrea in early Christian Ireland, where he was honored as the patron of his see. He labored among the monastic communities of the Irish midlands, shepherding both clergy and faithful in a time when the Church in Ireland was still taking root among pagan traditions.\n\nCare should be taken not to confuse him with his contemporary Saint Crónán Mochua, who labored in a different region. Crónán of Roscrea's legacy endured in the devotion of the people of his diocese, who venerated him as their heavenly protector and intercessor. His feast is kept on April 28, when the faithful of Roscrea recall their founding shepherd and ask his prayers.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Crónán to shepherd Your people as abbot and bishop of Roscrea, grant through his intercession that those who lead Your Church may guide souls with wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cr%C3%B3n%C3%A1n_of_Roscrea"
+  ],
+  "featured": false,
+  "draft": false
+}

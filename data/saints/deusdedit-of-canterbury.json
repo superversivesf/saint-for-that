@@ -1,0 +1,29 @@
+{
+  "slug": "deusdedit-of-canterbury",
+  "name": "St. Deusdedit of Canterbury",
+  "feastDay": "07-14",
+  "bio": "Saint Deusdedit was the first native-born Anglo-Saxon to hold the see of Canterbury, becoming Archbishop in 655 and shepherding the English Church for more than nine years. His episcopate spanned a formative period when the Christian community among the Anglo-Saxons was still finding its footing after the Augustinian mission.\n\nLittle is recorded of his specific acts, yet he is remembered for ordaining priests and quietly building up the Church in a land only recently evangelized. He likely fell victim to one of the recurrent plagues that swept through seventh-century England.\n\nAfter his death he was venerated as a saint, and a life was written when his relics were translated in 1091. His feast is kept on July 14, and he is honored as a patron of the English Church and of humble priests.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Deusdedit as the first native shepherd of Canterbury, grant through his intercession that the Church in every land may be served by holy and faithful pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deusdedit_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

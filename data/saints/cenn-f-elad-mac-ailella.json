@@ -1,0 +1,21 @@
+{
+  "slug": "cenn-f-elad-mac-ailella",
+  "name": "St. Cenn Fáelad mac Ailella",
+  "feastDay": "unknown",
+  "bio": "Cenn Fáelad mac Ailella was an early medieval Irish scholar renowned for his powerful memory and potential eidetic memory, which he possessed, according to tradition, as an unintended consequence of a head wound suffered in battle. A member of the Cénel Eógain, he was said to have been nursed at the monastery of Tuaim Dreccon, where his remarkable powers of recall were devoted to the preservation of learning. He became one of the great scholars of early Christian Ireland, mastering grammar, law, and the Scriptures, and passing on his knowledge to a generation of students. He is counted among the saints of Ireland whose labors preserved learning through turbulent centuries.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to the scholar Cenn Fáelad a wondrous memory and a zeal for learning, grant through his intercession that we may treasure the wisdom of Your word and pass on the faith to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cenn_F%C3%A1elad_mac_Ailella"
+  ],
+  "featured": false,
+  "draft": false
+}

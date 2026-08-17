@@ -1,0 +1,25 @@
+{
+  "slug": "irene-of-tomar",
+  "name": "St. Irene of Tomar",
+  "feastDay": "10-20",
+  "bio": "Saint Irene of Tomar was a young Christian woman of Visigothic Portugal who suffered martyrdom for her faith near the town of Tomar. Her parents, wishing to shield her from the dangers of the world, sent her to a convent school and placed her under a private tutor, and the only times she left her house were to attend Mass or pray at the sanctuary of Saint Peter. Her purity and devotion provoked the jealousy of a suitor, and according to the legend that has come down to us she was murdered and her body cast into the river, later recovered and honored as the body of a martyr. Her cult spread through Tomar and Santarém and through the towns that bear her name, and her feast is kept on October 20. She is remembered as a virgin martyr of the early Portuguese Church.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saint Irene of Tomar with the palm of martyrdom and preserved her purity amid danger, grant through her intercession that all who face persecution for the faith may stand firm and that those who seek to live chastely may find in You their shield. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irene_of_Tomar"
+  ],
+  "featured": false,
+  "draft": false
+}

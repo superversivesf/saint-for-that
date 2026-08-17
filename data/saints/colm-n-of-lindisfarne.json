@@ -1,0 +1,25 @@
+{
+  "slug": "colm-n-of-lindisfarne",
+  "name": "St. Colmán of Lindisfarne",
+  "feastDay": "02-18",
+  "bio": "Colmán of Lindisfarne, also known as Saint Colmán, served as Bishop of Lindisfarne from 661 until 664. He was an Irish monk of the Celtic tradition who inherited the leadership of the great Northumbrian see founded by Aidan. His brief episcopate coincided with the fateful Synod of Whitby in 664, where the question of the dating of Easter and other customs was decided in favor of the Roman usage. Unable to accept the decision, Colmán resigned his see and withdrew with his Irish monks first to Iona and then to Ireland, where he founded a monastery. His departure, though marked by sorrow, was marked by fidelity to the traditions he had received.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Colmán of Lindisfarne a heart faithful to the traditions he received, grant through his intercession that all who seek the unity of Your Church may find it in truth and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

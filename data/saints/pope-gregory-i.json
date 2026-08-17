@@ -1,0 +1,29 @@
+{
+  "slug": "pope-gregory-i",
+  "name": "St. Gregory I",
+  "feastDay": "unknown",
+  "bio": "Pope Saint Gregory I, known to the Church as Gregory the Great, was the sixty-fourth Bishop of Rome, governing the Church from 3 September 590 until his death on 12 March 604. Born of a noble Roman family, he brought to the papacy a monk's heart and a shepherd's zeal, reforming the liturgy, caring for the poor, and sending missionaries to the far corners of the known world. His most famous act of evangelization was the dispatch of Augustine of Canterbury and his monks to England. Gregory's writings, especially his Pastoral Care and his Dialogues, shaped medieval Christianity for centuries, and the chant tradition associated with his name made him patron of musicians and singers. He is counted among the four great Latin Doctors of the Church.",
+  "patronages": [
+    {
+      "need": "musicians",
+      "category": "jobs"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who care for your people with gentleness and rule them in love, by the intercession of Pope Saint Gregory grant a spirit of wisdom to those you have made shepherds of your flock, that, guided by them, they may attain eternal pastures. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever. Amen.",
+    "source": "Roman Missal"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chuniald",
+  "name": "St. Chuniald",
+  "feastDay": "09-24",
+  "bio": "Saint Chuniald was an early Irish priest and missionary who labored for many years in Germany during the seventh century. He left his native Ireland as so many of his countrymen did, carrying the Gospel across the sea to the peoples of the Continent who had not yet fully received the faith. Working alongside companions, he preached, baptized, and established the first structures of Christian life among the German peoples. He is remembered among the Irish saints whose missionary zeal helped build up the Church in central Europe. His feast is kept on September 24, and he is honored especially in the regions where he labored.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the priest Chuniald from Ireland to preach the Gospel among the peoples of Germany, grant through his intercession that we may be bold in sharing the faith and generous in carrying Your word to those who hunger for it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chuniald"
+  ],
+  "featured": false,
+  "draft": false
+}

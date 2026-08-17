@@ -1,0 +1,29 @@
+{
+  "slug": "finan-of-lindisfarne",
+  "name": "St. Finan of Lindisfarne",
+  "feastDay": "02-17",
+  "bio": "Finan of Lindisfarne was an Irish monk, trained at Iona Abbey in Scotland, who became the second bishop of Lindisfarne, serving from 651 until 661. He succeeded Aidan and carried forward the mission of evangelizing the Northumbrian kingdom from the holy island in the sea. During his episcopate he consecrated churches, ordained clergy, and witnessed the faith take deeper root among the English. Bede recounts that Finan baptized King Peada of the Middle Angles and worked alongside the noble convert Cedd. He died in 661 and was succeeded by Colmán, and his name is honored among the early Irish missionaries who brought the Gospel from Iona to the northern English.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Finan to shepherd your Church from the holy island of Lindisfarne, grant through his intercession that we may be faithful witnesses of your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finan_of_Lindisfarne"
+  ],
+  "featured": false,
+  "draft": false
+}

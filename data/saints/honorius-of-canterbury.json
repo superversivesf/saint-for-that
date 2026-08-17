@@ -1,0 +1,29 @@
+{
+  "slug": "honorius-of-canterbury",
+  "name": "St. Honorius of Canterbury",
+  "feastDay": "09-30",
+  "bio": "Saint Honorius was a member of the Gregorian mission sent by Pope Gregory the Great to Christianize the Anglo-Saxons, arriving in England in 597 with Augustine of Canterbury. After years of faithful labor he became the fifth Archbishop of Canterbury, shepherding the young English Church through a time of growth. He consecrated the first native English bishop of Rochester, a sign that the Gospel was taking root in the land, and aided the missionary efforts of Felix among the East Anglians. He was the last to die among the Gregorian missionaries who had crossed the sea from Rome, closing the first chapter of the English conversion. His feast is kept on September 30, and he is remembered as a faithful pastor and a bridge between the founding mission and the native Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Honorius from Rome to labor among the Anglo-Saxons and to shepherd Your growing Church in England, grant through his intercession that the Gospel may take root in every land and bear fruit in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honorius_of_Canterbury"
+  ],
+  "featured": false,
+  "draft": false
+}

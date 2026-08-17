@@ -1,0 +1,25 @@
+{
+  "slug": "fulgentius-of-cartagena",
+  "name": "St. Fulgentius of Cartagena",
+  "feastDay": "01-14",
+  "bio": "Fulgentius of Cartagena was born in Cartagena in the sixth century and died around 630, serving as Bishop of Ecija (Astigi) in Hispania. He was the brother of Saint Leander, the great Archbishop of Seville, and of Saint Isidore, who succeeded Leander, and of Saint Florentina; together the family represents one of the most remarkable concentrations of sanctity in the early Spanish Church. As a bishop Fulgentius labored alongside his brothers to strengthen the faith in Visigothic Spain and to form the clergy in learning and discipline. He is honored as a confessor bishop, and his feast is kept on 14 January, together with the memory of his holy family.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Fulgentius to your Church as a faithful bishop and raised up a family of saints in Visigothic Spain, grant through his intercession that our homes may be schools of holiness and our shepherds steadfast in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fulgentius_of_Cartagena"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "george-i-of-constantinople",
+  "name": "St. George I of Constantinople",
+  "feastDay": "08-18",
+  "bio": "Saint George I of Constantinople served as Ecumenical Patriarch of Constantinople from 679 to 686, leading the Eastern Church during a pivotal period in the seventh century. As Patriarch he stood at the head of one of the greatest sees of Christendom, presiding over the Church of New Rome at a time when the empire faced threats from without and doctrinal controversies from within. After his death, a brief interlude followed under Patriarch Theodore I before the succession was stabilized. George is honored among the patriarchs of Constantinople who maintained the faith through the upheavals of late antiquity, and his feast is kept on August 18.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. George I to the see of Constantinople as a guardian of unity in Your Church, grant through his intercession that all who lead Your people may work for the unity of the body of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_I_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

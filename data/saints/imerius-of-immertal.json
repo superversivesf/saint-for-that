@@ -1,0 +1,25 @@
+{
+  "slug": "imerius-of-immertal",
+  "name": "St. Imerius of Immertal",
+  "feastDay": "11-13",
+  "bio": "Saint Imerius of Immertal was a monk, hermit, and missionary who labored in the present Swiss Jura in the early medieval period, one of the holy men who carried the Gospel into the valleys and mountains of the region. Drawn to the solitary life, he withdrew to prayer and penance in the wild country of the Jura, but his holiness drew disciples and his zeal reached the surrounding settlements. The towns of Saint-Imier and Saint-Ismier preserve his name, enduring signs of the mark he left on the landscape and the faith of the region. He lived as a bridge between the hermit's solitude and the missionary's journey, showing that prayer and proclamation are one movement of grace. His feast is kept on November 13, and he is remembered as a patron of the Swiss Jura.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led Saint Imerius into the valleys of the Jura to seek You in solitude and to bring the Gospel to the people of the mountains, grant through his intercession that we may unite prayer with witness in the service of Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Imerius_of_Immertal"
+  ],
+  "featured": false,
+  "draft": false
+}

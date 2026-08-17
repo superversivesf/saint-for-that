@@ -1,0 +1,25 @@
+{
+  "slug": "germanus-of-granfelden",
+  "name": "St. Germanus of Granfelden",
+  "feastDay": "02-21",
+  "bio": "Saint Germanus of Granfelden was the first abbot of Moutier-Grandval Abbey in the Jura region, where he shepherded a community of monks dedicated to prayer and work. Under his leadership the monastery grew as a center of faith in a rugged and often dangerous frontier. Germanus is venerated as a martyr in both the Catholic and Eastern Orthodox Churches, having given his life in witness to Christ. The abbey he founded endured for centuries as a beacon of monastic life in the region. His feast is celebrated on February 21, and he is remembered as a faithful shepherd who laid down his life for his flock.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Germanus to found a house of prayer at Moutier-Grandval and crowned him with the martyr's palm, grant through his intercession that all monks and those who suffer for the faith may persevere to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_of_Granfelden"
+  ],
+  "featured": false,
+  "draft": false
+}

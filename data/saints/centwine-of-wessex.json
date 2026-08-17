@@ -1,0 +1,21 @@
+{
+  "slug": "centwine-of-wessex",
+  "name": "St. Centwine of Wessex",
+  "feastDay": "unknown",
+  "bio": "Centwine was King of Wessex from about 676 to 685, though he was perhaps not the sole ruler of the West Saxons during those years. He was the son of Cynegils, the first Christian king of Wessex, and inherited a kingdom only recently turned to the faith. According to tradition, Centwine eventually abdicated his throne and retired to a monastery, devoting his later years to prayer and penance. Though the historical record of his reign is sparse, his willingness to exchange a crown for the cloister earned him a place among the saints of early England, and he is remembered as a king who sought the kingdom of heaven before the kingdoms of men.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired the king Centwine to lay down his crown and seek You in the quiet of the monastery, grant through his intercession that we may value the things of heaven above the passing glories of this world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Centwine_of_Wessex"
+  ],
+  "featured": false,
+  "draft": false
+}

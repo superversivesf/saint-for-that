@@ -1,0 +1,29 @@
+{
+  "slug": "braulio-of-zaragoza",
+  "name": "St. Braulio of Zaragoza",
+  "feastDay": "03-26",
+  "bio": "Braulio was Bishop of Zaragoza and one of the most learned clerics of the Visigothic Kingdom in 7th-century Hispania. Born of a noble family, he was trained under his brother John, bishop of Zaragoza, and became a priest, a scholar, and a trusted advisor to King Recceswinth. He assisted at several councils of Toledo and helped complete the revision of the Visigothic law code, the Forum Iudicum. As bishop he was a defender of discipline and a prolific letter-writer, corresponding with St. Isidore of Seville and others of the learned circle of his age. He died around 651 and is venerated as the patron of Zaragoza and Aragon, a pastor and scholar in one.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gifted St. Braulio with wisdom to govern your Church and to shape the laws of his people, grant through his intercession that scholars and bishops may labor together for justice and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Braulio_of_Zaragoza"
+  ],
+  "featured": false,
+  "draft": false
+}

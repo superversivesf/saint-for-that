@@ -1,0 +1,21 @@
+{
+  "slug": "eulogius-of-alexandria",
+  "name": "St. Eulogius of Alexandria",
+  "feastDay": "06-13",
+  "bio": "Saint Eulogius served as Greek Patriarch of Alexandria from around 580 until his death in 608, shepherding the ancient see founded by Saint Mark through a turbulent era. A learned theologian and defender of the orthodox faith, he corresponded with Pope Gregory the Great and stood firm against the Christological controversies that still divided the Christian East. He cared for his flock amid political upheaval and the rivalries that troubled Alexandria, governing with wisdom and charity in a city renowned for both sanctity and strife. Honored as a saint, he is remembered as a faithful pastor of one of the great patriarchal sees, a man who held fast to the truth amid the storms that swept the ancient Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Eulogius a faithful patriarch of Alexandria, defending the truth in a city of both sanctity and strife, grant through his intercession that we may hold fast to the faith of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

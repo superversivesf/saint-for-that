@@ -1,0 +1,29 @@
+{
+  "slug": "fructuosus-of-braga",
+  "name": "St. Fructuosus of Braga",
+  "feastDay": "04-16",
+  "bio": "Fructuosus of Braga was a seventh-century Visigothic noble who became one of the great monastic founders of the Iberian Peninsula. The son of a dux in the region of Bierzo, he accompanied his father on journeys across the family estates before renouncing the world for the life of a hermit. He established a monastery at Complutum and became its first abbot, then founded other houses, drawing disciples to his rule of prayer and labor. He was made bishop of Dumio and later archbishop of Braga, where he labored to reform the Church and guide the clergy. He died around 665 and is remembered as a model of the nobleman turned monk and bishop.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Fructuosus from the life of a hermit to the office of bishop and the founding of monasteries, grant through his intercession that we may seek you in solitude and serve you in the Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fructuosus_of_Braga"
+  ],
+  "featured": false,
+  "draft": false
+}

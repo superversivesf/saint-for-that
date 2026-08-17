@@ -1,0 +1,21 @@
+{
+  "slug": "chrodoara",
+  "name": "St. Chrodoara",
+  "feastDay": "unknown",
+  "bio": "Saint Chrodoara was a Merovingian noblewoman and is traditionally honored as the foundress of the Abbey of Amay, now in Wallonia, Belgium. She lived in the seventh century, a time when noble women of the Frankish realm sometimes devoted their wealth and station to the foundation of monasteries, shaping the Christian life of the region. Her relics, discovered in a remarkable seventh-century sarcophagus at Amay, bore witness to the veneration she received from early times. Chrodoara is remembered as a woman whose faithfulness and generosity helped establish a house of prayer that would nourish the Church in the Low Countries for generations.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired the noblewoman Chrodoara to devote her wealth to founding a house of prayer, grant through her intercession that we may use the gifts entrusted to us for the building up of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chrodoara"
+  ],
+  "featured": false,
+  "draft": false
+}

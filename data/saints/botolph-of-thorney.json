@@ -1,0 +1,29 @@
+{
+  "slug": "botolph-of-thorney",
+  "name": "St. Botolph of Thorney",
+  "feastDay": "06-17",
+  "bio": "Botolph of Thorney was an English abbot and saint of the 7th century, honored as the patron saint of boundaries, and by extension of trade, travel, and the many aspects of farming. He founded a monastery at Icanho, identified with Iken in Suffolk, on the site of a former Roman shore fort, and was known as a wise counselor to whom King Anna of East Anglia entrusted his daughters for religious instruction. His name was long invoked at the boundaries of parishes and properties, and churches dedicated to him often stood at the gates and crossings of towns. His feast is kept on 17 June in England and 25 June in Scotland.",
+  "patronages": [
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "farmers",
+      "category": "nature"
+    },
+    {
+      "need": "merchants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Botolph a guardian of boundaries and a patron of those who travel and till the earth, grant through his intercession that we may journey safely, labor honestly, and honor the limits that order your creation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Botolph_of_Thorney"
+  ],
+  "featured": false,
+  "draft": false
+}

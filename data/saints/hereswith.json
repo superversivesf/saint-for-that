@@ -1,0 +1,25 @@
+{
+  "slug": "hereswith",
+  "name": "St. Hereswith",
+  "feastDay": "unknown",
+  "bio": "Saint Hereswith, also spelled Hereswitha or Hereswyde, was a seventh-century Northumbrian noblewoman whose life bridges the royal courts of early England and the cloisters of Gaul. She was the sister of Saint Hilda, the great foundress of Whitby. Hereswith married into the East Anglian royal dynasty, yet afterwards she left her homeland and crossed the sea to retire among the nuns of Gaul, living out her days in religious life. Bede preserves her memory in his Ecclesiastical History, noting her noble birth, her sisterhood with Hilda, and her choice of the cloister over the world. She stands among that first generation of Anglo-Saxon women whose holiness helped plant the faith deep in the soil of a newly Christian people.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Hereswith to leave earthly glory for the life of the cloister, grant through her intercession that we may set our hearts on the things that are above and live as your faithful handmaids and servants. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hereswith"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "gondulphus-of-berry",
+  "name": "St. Gondulphus of Berry",
+  "feastDay": "unknown",
+  "bio": "Saint Gondulphus of Berry is honored as a bishop of the early medieval Church, venerated in the region of Berry in central Gaul. He is carefully distinguished in the tradition from Saint Gondulf of Maastricht, a different bishop-saint of the same era. Like many pastors of his time, Gondulphus served his diocese amid the uncertainties of the post-Roman world, shepherding the faithful entrusted to his care. Though few particulars of his life have survived, the memory of his holiness endured among the people of Berry, who kept his feast and honored his relics. He stands as a quiet witness to the countless bishops whose labors built up the Church in an age of upheaval.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Gondulphus a faithful shepherd of your people in Berry, grant through his intercession that the bishops of your Church may govern with holiness and gentleness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gondulphus_of_Berry"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "colm-n-of-lann",
+  "name": "St. Colmán of Lann",
+  "feastDay": "unknown",
+  "bio": "Saint Colmán mac Luacháin was an early Irish abbot and the founder and patron saint of Lann. Like many of the early Irish saints, he is known to us chiefly through the place that bears his name and the traditions that clustered around his memory. He governed a monastic community and shepherded his monks in the way of holiness. The Irish Church of the early middle ages was built by such founders, men who established churches and monasteries that became centers of learning and prayer. Colmán of Lann is remembered among the countless holy abbots of Ireland who labored in obscurity to build up the faith.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Colmán of Lann to guide a community of monks in the way of holiness, grant through his intercession that all who lead others may themselves walk closely with You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_of_Lann"
+  ],
+  "featured": false,
+  "draft": false
+}

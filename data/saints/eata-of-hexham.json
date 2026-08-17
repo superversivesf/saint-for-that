@@ -1,0 +1,25 @@
+{
+  "slug": "eata-of-hexham",
+  "name": "St. Eata of Hexham",
+  "feastDay": "10-26",
+  "bio": "Saint Eata, also called Eata of Lindisfarne, was one of the most steadfast bishops of the early Northumbrian Church. He served as Bishop of Hexham from 678 to 681, and then as Bishop of Lindisfarne from before 681 to 685, when he was translated back to Hexham, serving there until his death in 685 or 686.\n\nThe first native of Northumbria to occupy the see of Lindisfarne, his life spanned the years after the Synod of Whitby. A pupil of Saint Aidan, he governed Lindisfarne and her foundations with quiet fidelity.\n\nWhen divisions threatened the young Church, Eata held his sees with patience and kept the traditions of holiness alive. He is remembered as a patron of bishops and of England, and his feast is October 26.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Eata a faithful bishop among the Northumbrians and a guardian of the traditions of Lindisfarne, grant through his intercession that Your Church may be held together in peace and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eata_of_Hexham"
+  ],
+  "featured": false,
+  "draft": false
+}

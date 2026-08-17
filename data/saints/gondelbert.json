@@ -1,0 +1,21 @@
+{
+  "slug": "gondelbert",
+  "name": "St. Gondelbert",
+  "feastDay": "02-21",
+  "bio": "Saint Gondelbert was the founder of the Benedictine Senones Abbey in the Rabodeau valley of the Vosges mountains, establishing the monastery around 640 AD. In the wild and forested slopes of the Vosges, he gathered a community of monks dedicated to the Rule of St. Benedict, creating a house of prayer and learning in a remote corner of Gaul. The abbey he founded would endure for centuries, becoming a center of faith and culture in the region. His feast is celebrated on February 21, and he is remembered as one of the monastic founders who brought the light of the Gospel to the mountains and valleys of early medieval Europe.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Gondelbert to found a house of prayer in the Vosges mountains, grant through his intercession that all who seek You in silence and community may find the fullness of Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gondelbert"
+  ],
+  "featured": false,
+  "draft": false
+}

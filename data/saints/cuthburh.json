@@ -1,0 +1,25 @@
+{
+  "slug": "cuthburh",
+  "name": "St. Cuthburh",
+  "feastDay": "08-31",
+  "bio": "Saint Cuthburh, also known as Cuthburg or Cuthburga, was born into the royal house of Wessex as the sister of King Ine. In her youth she was married to Aldfrith, king of Northumbria, but the marriage was never consummated, and she eventually left the court to dedicate herself wholly to God.\n\nShe received the religious veil and founded the double monastery at Wimborne Minster in Dorset, becoming its first abbess. Under her rule, the community of women religious grew in holiness and learning, and Wimborne became a center of monastic life in early Anglo-Saxon England.\n\nCuthburh died around the year 725 and was buried at Wimborne, which remained a place of pilgrimage and devotion. Her feast is kept on August 31, and she is remembered as a model of royal humility and monastic zeal.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Cuthburh from a royal throne to the quiet holiness of the cloister, grant through her intercession that all who seek You may find You in prayer and humble service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cuthburh"
+  ],
+  "featured": false,
+  "draft": false
+}

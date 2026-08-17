@@ -1,0 +1,25 @@
+{
+  "slug": "godwin-of-stavelot",
+  "name": "St. Godwin of Stavelot",
+  "feastDay": "10-28",
+  "bio": "Saint Godwin of Stavelot was a Benedictine abbot of the monastery of Stavelot-Malmedy in Belgium, where he governed the community with wisdom until his death in 690. His name, derived from Old English, fittingly means 'Friend of God.' During the conflicts of 670, Godwin boldly fought for the religious freedoms of his community, braving the dangers of battle to minister to fallen soldiers. He would run among the troops and pray over the wounded and dying until the fighting ceased. On one occasion a warrior hurled a spear at him, but the weapon broke in mid-flight and the attacker fell to the ground, a miracle among many in his lifetime. His feast is October 28.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Godwin courage to minister to the fallen amid the clash of battle and preserved him from harm by Your power, grant through his intercession that we may be steadfast in prayer and fearless in serving those in need. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Godwin_of_Stavelot"
+  ],
+  "featured": false,
+  "draft": false
+}

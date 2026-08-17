@@ -1,0 +1,21 @@
+{
+  "slug": "genesius-bishop-of-clermont",
+  "name": "St. Genesius",
+  "feastDay": "06-03",
+  "bio": "Saint Genesius was the twenty-first Bishop of Clermont in Auvergne, France, where his feast day is celebrated on June 3. The diocese of Clermont, nestled in the highlands of central Gaul, counted many holy bishops among its history, and Genesius was among those who shepherded the faithful in this ancient region. Though the particulars of his episcopate have faded from the historical record, the Church of Auvergne long remembered him with devotion, preserving the date of his feast through the centuries. He stands as a witness to the long line of bishops who brought and sustained the Christian faith in the provinces of early medieval France.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Genesius as bishop of Clermont to guide Your people in the highlands of Auvergne, grant through his intercession that all shepherds of souls may be filled with zeal for the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Genesius_(bishop_of_Clermont)"
+  ],
+  "featured": false,
+  "draft": false
+}

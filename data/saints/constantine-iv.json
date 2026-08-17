@@ -1,0 +1,21 @@
+{
+  "slug": "constantine-iv",
+  "name": "St. Constantine IV",
+  "feastDay": "09-03",
+  "bio": "Constantine IV, called the Younger, was Byzantine emperor from 668 to 685. His reign saw the first serious check to nearly fifty years of Arab expansion, most notably in his successful defense of Constantinople. He brought temporary stabilization to the empire after decades of war, defeats, and civil strife. His calling of the Sixth Ecumenical Council ended the monothelitism controversy and restored doctrinal unity to the Church. For this defense of the faith he is venerated as a saint in the Eastern Orthodox Church, with his feast on September 3. He stands as a reminder that even rulers may be called to defend the truth and unity of the Gospel.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who used St. Constantine IV to defend Your Church and restore her unity through the Sixth Ecumenical Council, grant through his intercession that rulers and peoples may work together for the peace and truth of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_IV"
+  ],
+  "featured": false,
+  "draft": false
+}

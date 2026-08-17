@@ -1,0 +1,25 @@
+{
+  "slug": "elias-i-of-antioch",
+  "name": "St. Elias I of Antioch",
+  "feastDay": "11-03",
+  "bio": "Saint Elias I of Antioch was Patriarch of Antioch and head of the Syriac Orthodox Church from 709 until his death in 723. He shepherded his flock through difficult years under early Islamic rule, when the ancient sees of the East were pressed by changing masters and a fading Christian majority.\n\nAs Patriarch, Elias labored to keep his people united in faith, preserving the liturgy and discipline of the Syriac tradition in the face of hardship and division. He is commemorated as a saint by the Syriac Orthodox Church in the Martyrology of Rabban Sliba, and his feast is November 3.\n\nElias stands among the great line of Eastern patriarchs who held the ancient sees through the centuries after the Arab conquests. He is invoked as a patron of bishops and of those who pray for Christian unity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Elias I a faithful Patriarch of Antioch in days of trial, grant through his intercession that the divided Churches of the East and West may find again the unity of the early apostolic faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_I_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pope-eugene-i",
+  "name": "St. Eugene I",
+  "feastDay": "06-02",
+  "bio": "Pope Eugene I served as Bishop of Rome from August 654 until his death on June 2, 657, shepherding the Church through one of its most troubled seasons. Raised to the papal throne after Emperor Constans II deposed and banished Pope Martin I over the Monothelite controversy, Eugene governed with quiet fidelity, refusing to compromise the orthodox faith even under imperial pressure. He labored to hold the Church together amid the disputes about Christ's will that divided East and West, seeking peace without surrendering truth. Venerated as a saint by both the Roman and Eastern churches, he died in office and was honored as a confessor of the faith. The Church remembers Pope Eugene I as a gentle shepherd who kept the faith under the shadow of empire.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Pope Eugene I in the shadow of empire, keeping him faithful to the truth amid division, grant through his intercession that your Church may be one in faith and steadfast in confession. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Eugene_I"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ermenilda-of-ely",
+  "name": "St. Ermenilda of Ely",
+  "feastDay": "02-13",
+  "bio": "Saint Ermenilda, also called Eormenhild, was a seventh-century Anglo-Saxon royal woman venerated in both the Eastern Orthodox and Roman Catholic churches. Born into the noble lineage of the kings of Kent, she married Wulfhere, King of Mercia, and after his death retired to the religious life, eventually becoming abbess of Ely. Following the path of her mother and grandmother before her, she embraced the cloister with devotion, governing her community with wisdom and guiding her sisters in the ways of holiness. She spent her final years in prayer and contemplation at Ely, the great monastery that would become a luminous center of English sanctity. The Church honors her as a queen who became a servant of Christ, an example of royal humility turned to monastic devotion.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided Queen Ermenilda from the throne of Mercia to the abbacy of Ely, grant through her intercession that we may seek you above every earthly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ermenilda_of_Ely"
+  ],
+  "featured": false,
+  "draft": false
+}

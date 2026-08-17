@@ -1,0 +1,29 @@
+{
+  "slug": "ildefonsus",
+  "name": "St. Ildefonsus",
+  "feastDay": "01-23",
+  "bio": "Saint Ildefonsus, also called Ildephonsus, was a scholar, theologian, and Metropolitan Archbishop of Toledo in seventh-century Spain, born of a noble Visigothic family. He entered the monastery of Agali near Toledo as a young man and devoted himself to study and prayer, becoming known for his learning and his devotion to the Virgin Mary. Chosen as archbishop of Toledo for the last decade of his life, he guided the Church through a time of doctrinal clarity, defending the perpetual virginity of Mary in a celebrated treatise. Tradition holds that the Blessed Virgin appeared to him in church, rewarding his devotion with a chasuble, a story that shaped his cult for centuries. He died around 667 and his feast is kept on January 23, and he is remembered as a Doctor of the early Spanish Church.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed Saint Ildefonsus with zeal for the truth and tender devotion to the Blessed Virgin Mary, grant through his intercession that we may hold fast to the faith he taught and honor Your Mother with sincere hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ildefonsus"
+  ],
+  "featured": false,
+  "draft": false
+}

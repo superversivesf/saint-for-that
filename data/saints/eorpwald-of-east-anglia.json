@@ -1,0 +1,25 @@
+{
+  "slug": "eorpwald-of-east-anglia",
+  "name": "St. Eorpwald of East Anglia",
+  "feastDay": "unknown",
+  "bio": "Eorpwald, also called Erpenwald or Earpwald, was a seventh-century King of the East Angles who succeeded his father Rædwald, the king famed in the annals of the Wuffingas dynasty. During his brief reign, Eorpwald received the Christian faith, becoming one of the early royal converts among the Anglo-Saxons, a seed sown by the missionary labors that reached his kingdom. His embrace of Christ, however, provoked enemies among his own people, and he was slain by a pagan nobleman, dying as a martyr for the faith he had newly received. Though his reign was short, his conversion stands as a quiet milestone in the planting of Christianity in England, and the Church honors him as a king who chose Christ before life itself.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened King Eorpwald to embrace the Gospel and to lay down his life for the faith he had newly received, grant through his intercession that we may hold fast to Christ even in the face of death. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eorpwald_of_East_Anglia"
+  ],
+  "featured": false,
+  "draft": false
+}

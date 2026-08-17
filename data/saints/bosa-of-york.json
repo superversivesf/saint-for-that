@@ -1,0 +1,25 @@
+{
+  "slug": "bosa-of-york",
+  "name": "St. Bosa of York",
+  "feastDay": "03-09",
+  "bio": "Bosa was an Anglo-Saxon Bishop of York during the 7th and early 8th centuries. Educated as a monk at Whitby Abbey under St. Hilda, he belonged to the Roman party that labored to reconcile the Celtic and Roman traditions in the English Church. Following Wilfrid's removal from York in 678, the diocese was divided, and Bosa was appointed bishop of the reduced see. He was himself removed in 687 when Wilfrid was restored, but in 691 Wilfrid was again ejected and Bosa returned to the see, governing it with patience until his death around 705. He appears as a saint in an 8th-century liturgical calendar, honored as a bishop of peace and perseverance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bosa a faithful bishop through years of upheaval and restoration, grant through his intercession that those who govern your Church may serve with patience and seek the unity of your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bosa_of_York"
+  ],
+  "featured": false,
+  "draft": false
+}

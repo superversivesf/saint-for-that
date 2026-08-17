@@ -1,0 +1,25 @@
+{
+  "slug": "domitian-of-melitene",
+  "name": "St. Domitian of Melitene",
+  "feastDay": "unknown",
+  "bio": "Saint Domitian, nephew of the Emperor Maurice, served as Archbishop of Melitene in Roman Armenia from about 580 until his death. He was renowned as a skilled diplomat who labored to uphold Chalcedonian orthodoxy across the northeastern frontier of the Byzantine Empire.\n\nHe played a notable role in imperial affairs, most famously when he accompanied the Persian king Khosrow II during the restoration of that monarch's throne in 590–591 and sought, though without success, to bring him to the Christian faith. The Chalcedonian churches venerate him as a champion of right belief.\n\nIn the miaphysite tradition he is recalled for the severity of his measures against those who rejected Chalcedon. His feast is kept in the Chalcedonian calendars, and he is a patron of bishops and of church unity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Domitian zeal for the truth and skill in the work of diplomacy, grant through his intercession that Your Church may be defended in faith and united in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Domitian_of_Melitene"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "eadburh-of-bicester",
+  "name": "St. Eadburh of Bicester",
+  "feastDay": "07-18",
+  "bio": "Saint Eadburh of Bicester was a seventh-century English nun and abbess whose life remains wrapped in mystery, as several Saxon holy women bore the same name. Tradition says she was the daughter either of the pagan King Penda of Mercia or of King Frithewald, and was born in the now-deserted village of Quarrendon in Buckinghamshire.\n\nWith her sister Edith she helped found an abbey near Aylesbury, where Eadburh likely served as abbess, guiding a community of women religious. She was also the aunt of Saint Osgyth, whom she trained in holiness from her youth.\n\nLegends recount that Eadburh and Edith found Osgyth after she had drowned three days earlier and witnessed her return to life. Her feast is July 18, and she is a patron of nuns and of those who guide the young in faith.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Eadburh to lead a community of holy women and to form the young in the way of holiness, grant through her intercession that all who guide souls may do so with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadburh_of_Bicester"
+  ],
+  "featured": false,
+  "draft": false
+}

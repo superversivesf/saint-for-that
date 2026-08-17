@@ -1,0 +1,21 @@
+{
+  "slug": "elphin",
+  "name": "St. Elphin",
+  "feastDay": "unknown",
+  "bio": "Saint Elphin of Warrington was a Christian saint of the North West of England in the seventh century, and is considered the patron saint of Warrington in Cheshire. He is counted among the early pastors who brought the faith to the region of the Mersey, with its mixed Saxon, British, and Irish heritage.\n\nLittle certain detail of his life survives, but his name endured in the churches and traditions of the locality, where he was long honored as a father of the Christian people. Several ancient churches bear his name, a sign that his memory was treasured long after the records had faded.\n\nElphin is one of those hidden apostles of the English North-West whose labors built up the Church from its root. He is invoked as a patron of England and of those who serve the Church in forgotten places.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Elphin to plant the faith in the North-West of England, grant through his intercession that all who serve You in humble and forgotten places may know that their labour is not hidden from Your sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elphin"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "eumenes",
+  "name": "St. Eumenes",
+  "feastDay": "09-18",
+  "bio": "Saint Eumenes served as Bishop of Gortyna in Crete during the seventh century, shepherding the faithful of that ancient island see with holiness and zeal. As a young man he gave away his wealth to follow Christ more freely, and was chosen bishop by the acclaim of his people. Many miracles are attributed to him: he slew a venomous serpent that tormented the region, drove out demons, and healed the sick who came to him. He labored in Gortyna, in Rome, and in the Thebaid of Egypt, carrying the Gospel across the Mediterranean world. After a life of faithful service, he died in exile in the Thebaid, faithful to the end. The Church honors him on September 18 as a wonderworking bishop and a tireless servant of Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed the bishop Eumenes with power to heal the sick, drive out demons, and tame the serpent's wrath, grant through his intercession that we may serve you with courage and compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eumenes"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "damian-of-alexandria",
+  "name": "St. Damian of Alexandria",
+  "feastDay": "06-25",
+  "bio": "Saint Damian of Alexandria served as the Coptic Pope and Patriarch of Alexandria from the year 576, leading the ancient see of Saint Mark through a turbulent chapter of the Church's history in Egypt. As patriarch he guided the Coptic faithful amid theological controversies and the political pressures of the early Byzantine era.\n\nHis episcopate unfolded in Alexandria, a city long central to Christian learning and debate, where he worked to preserve the unity and teaching of his flock. He is remembered in the Coptic tradition as a steadfast shepherd who held fast to the faith of his predecessors.\n\nDamian's feast is kept on June 25. He is invoked as a patron of bishops and of those who bear the burden of pastoral office.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted Saint Damian with the care of the ancient see of Alexandria, grant through his intercession that those who shepherd Your people may stand firm in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Damian_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

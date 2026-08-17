@@ -1,0 +1,21 @@
+{
+  "slug": "boetharius",
+  "name": "St. Boetharius",
+  "feastDay": "08-02",
+  "bio": "Saint Boetharius was an early Merovingian prelate who served as Bishop of Chartres from approximately 594 AD until his death. He governed the see during the turbulent decades that followed the fall of Roman Gaul, when the Frankish kingdoms were still finding their Christian footing. He is venerated as a saint in both the Catholic Church and the Eastern Orthodox Church, with his feast day observed on August 2. As a successor of the apostles in a time of upheaval, he is remembered for preserving the faith and discipline of the Church at Chartres through years of political change and uncertainty.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Boetharius as a faithful shepherd of Chartres through years of upheaval, grant through his intercession that bishops may stand firm in truth and compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boetharius"
+  ],
+  "featured": false,
+  "draft": false
+}

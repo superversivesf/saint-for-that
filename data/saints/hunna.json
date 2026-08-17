@@ -1,0 +1,25 @@
+{
+  "slug": "hunna",
+  "name": "St. Hunna",
+  "feastDay": "04-15",
+  "bio": "Saint Hunna, called the Holy Washerwoman, was a noblewoman of Alsace in eastern France who devoted her life to the humblest service of her neighbors. Born into a Christian family of means, she did not cling to her station but spent her days washing the clothes of the poor and the sick, seeing in each garment the chance to serve Christ hidden in the least of his brethren. Her charity was tireless, and she gave freely of her wealth to relieve the needy while her own hands did the work that many regarded as menial. She was canonized by Pope Leo X in 1520, and her feast is kept on April 15. She is the patroness of laundresses, laundry workers, and washerwomen, honored as a model of humility and of dignity found in service.",
+  "patronages": [
+    {
+      "need": "housekeepers",
+      "category": "everyday"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Saint Hunna to find Christ in the humble service of washing the garments of the poor, grant through her intercession that we may see Your Son in the least of our brothers and sisters and serve them with joyful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hunna"
+  ],
+  "featured": false,
+  "draft": false
+}

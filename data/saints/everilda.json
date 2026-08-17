@@ -1,0 +1,25 @@
+{
+  "slug": "everilda",
+  "name": "St. Everilda",
+  "feastDay": "07-09",
+  "bio": "Saint Everilda of Everingham was a noble Anglo-Saxon virgin of the seventh century who devoted herself to Christ and founded a convent at Everingham in the East Riding of Yorkshire. Little has come down to us beyond the witness of the York Breviary, yet her memory endured among the faithful of the region for centuries. She gathered around her a community of women seeking prayer and the service of God, establishing one of the early houses of religion in England before the great synods and reforms of the later Anglo-Saxon age. Her quiet fidelity stands as a testimony to the many hidden foundations of holiness that took root in the early English Church.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Everilda to found a house of prayer and to gather women in your service, grant through her intercession that all who seek you in stillness may find you a sure foundation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Everilda"
+  ],
+  "featured": false,
+  "draft": false
+}
