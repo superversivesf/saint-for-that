@@ -1,0 +1,33 @@
+{
+  "slug": "eudokia-of-heliopolis",
+  "name": "St. Eudokia of Heliopolis",
+  "feastDay": "03-01",
+  "bio": "Eudokia was a Samaritan woman of Heliopolis in Phoenicia, in present-day Baalbek, Lebanon. Renowned for her beauty, she amassed wealth through wealthy lovers, yet the emptiness of that life left her restless. A monk named Germanus came to her city and spoke of Christ and of the judgment to come, and Eudokia, struck to the heart, asked whether she too could be saved.\n\nGermanus told her to remain alone in her chamber for a week, fasting and praying. At its end she gave away her wealth and was baptized by Bishop Theodotus. Entering a monastery at thirty, she devoted herself to prayer and charity. When a persistent suitor was struck down, she prayed for him until he recovered, and he too converted. Roman officials, angered by her boldness, had her beheaded on March 1, 107 AD.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Eudokia from the passing pleasures of Heliopolis to the lasting joy of your service, grant through her intercession that those entangled in sin may find the way to repentance and that converts may be strengthened in their new life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eudokia_of_Heliopolis"
+  ],
+  "featured": false,
+  "draft": false
+}

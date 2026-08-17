@@ -1,0 +1,26 @@
+{
+  "slug": "apollinaris-claudius",
+  "name": "St. Apollinaris Claudius",
+  "feastDay": "01-08",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Apollinaris Claudius—also called Apollinaris of Hierapolis or Apollinaris the Apologist—was a Christian leader and writer of the second century, one of the first to raise his voice in defense of the faith against the calumnies that surrounded the young Church. As bishop of Hierapolis in Phrygia, he stands among the noble company of early apologists who sought to explain the Gospel to the Greco-Roman world and refute the Gnostic errors that pressed in on every side.\n\nEusebius of Caesarea preserves fragments of his writings, commending his learning and zeal for the truth. His feast is kept on January 8, and he is invoked as a patron of writers and theologians, that they may defend the faith with clarity, courage, and charity.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Apollinaris Claudius the wisdom to defend your Gospel and the courage to raise his voice for the truth in the Church's first centuries, grant through his prayers that writers and theologians may proclaim your word with clarity and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollinaris_Claudius"
+  ],
+  "featured": false,
+  "draft": false
+}

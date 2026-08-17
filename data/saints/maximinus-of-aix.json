@@ -1,0 +1,25 @@
+{
+  "slug": "maximinus-of-aix",
+  "name": "St. Maximinus of Aix",
+  "feastDay": "06-08",
+  "bio": "Saint Maximinus of Aix is honored by tradition as the first bishop of Aix-en-Provence in the first century. According to the medieval legend, he was sent from Palestine as one of the early missionaries to Gaul, where he planted the faith in the Roman town of Aquae Sextiae and shepherded the first Christian community of that region.\n\nThe historian Louis Duchesne noted that this part of the legend took shape only in the eleventh century, and the details of his life rest chiefly on later tradition rather than contemporary record. Even so, his name is recorded in early martyrologies, and his feast is kept on June 8.\n\nHe is venerated as a patron of the Church of Aix and of the missionaries who carry the Gospel to new lands.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Maximinus to plant the faith in the city of Aix, grant through his intercession that missionaries may bear the Gospel to every land and that priests may shepherd their flocks with faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maximinus_of_Aix"
+  ],
+  "featured": false,
+  "draft": false
+}

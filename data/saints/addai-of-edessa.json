@@ -1,0 +1,26 @@
+{
+  "slug": "addai-of-edessa",
+  "name": "St. Addai of Edessa",
+  "feastDay": "08-05",
+  "canonized": "Pre-Congregation",
+  "bio": "According to ancient Eastern Christian tradition, Addai of Edessa—also called Thaddeus of Edessa—was one of the seventy-two disciples sent forth by Jesus Christ to preach the Kingdom of God. Sent to the Syrian city of Edessa at the request of King Abgar, who had heard of Christ's miracles and longed for healing, Addai is credited with converting the king and his people, making Edessa one of the first Christian cities in the world.\n\nRevered among the Assyrian and Syriac churches as a founding apostle, Addai brought the Gospel across the Euphrates into Mesopotamia, establishing a Church that would endure for two millennia. His feast is kept on August 5, and he is invoked as a patron of missionaries and of converts, that all nations may come to know the Lord.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "travel"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who chose Saint Addai from among the seventy-two disciples and sent him to bring the Gospel to Edessa and the nations beyond the Euphrates, grant through his intercession that all peoples may come to the knowledge of your truth and that converts everywhere may find in you their lasting home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Addai_of_Edessa"
+  ],
+  "featured": false,
+  "draft": false
+}

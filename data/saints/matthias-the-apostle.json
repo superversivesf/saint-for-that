@@ -1,0 +1,29 @@
+{
+  "slug": "matthias-the-apostle",
+  "name": "St. Matthias the Apostle",
+  "feastDay": "unknown",
+  "bio": "Matthias was chosen by lot to fill the place among the Twelve Apostles left vacant by the betrayal and death of Judas Iscariot. The Acts of the Apostles recounts that, after prayer, the remaining apostles set forward two men and cast lots, and the lot fell upon Matthias, who was added to the eleven.\n\nHe had accompanied the Lord from the baptism of John to the Ascension, a witness to Christ's earthly ministry, his death, and his rising. His calling was unique among the apostles, for he was selected not by a personal summons of Jesus, but by the guidance of the Holy Spirit through the casting of lots after the Ascension.\n\nTradition holds that Matthias preached the Gospel and suffered martyrdom. He is invoked as a patron of tailors and builders, and of those who persevere in hope.",
+  "patronages": [
+    {
+      "need": "tailors",
+      "category": "jobs"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who assigned Saint Matthias a place in the college of Apostles, grant us, through his intercession, that, rejoicing at his glorious resurrection, we may merit to obtain the rewards of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+    "source": "traditional"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthias_the_Apostle"
+  ],
+  "featured": false,
+  "draft": false
+}

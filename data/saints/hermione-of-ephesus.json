@@ -1,0 +1,29 @@
+{
+  "slug": "hermione-of-ephesus",
+  "name": "St. Hermione of Ephesus",
+  "feastDay": "04-14",
+  "bio": "Hermione of Ephesus was a second-century saint and martyr venerated by both the Eastern Orthodox and Catholic Churches. Tradition holds that she was a daughter of Philip the Evangelist, one of the seven deacons chosen by the apostles. Settling in Ephesus, Hermione became renowned as a \"great healer\" — a woman through whose prayers and ministry the sick were restored to health. She is credited with founding the first Christian hospital in that great city, establishing a tradition of care for body and soul that would become a hallmark of Christian civilization. When persecution swept through the province of Asia, Hermione did not flee but remained with those she served. Seized and refusing to deny Christ, she received the crown of martyrdom.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Hermione with the gift of healing and moved her to found a house of mercy for the sick, grant through her intercession that the afflicted may find relief and that all who serve them may be strengthened in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hermione_of_Ephesus"
+  ],
+  "featured": false,
+  "draft": false
+}

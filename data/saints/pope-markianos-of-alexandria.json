@@ -1,0 +1,25 @@
+{
+  "slug": "pope-markianos-of-alexandria",
+  "name": "St. Markianos of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Markianos was the eighth Pope and Patriarch of Alexandria, reigning from 141 to 152 during the reign of the Emperor Antoninus Pius. Born in Alexandria, he served as Dean of the Catechetical School of Alexandria before being appointed patriarch in the month of Hathor in 141 AD. In that role he followed in the line of scholarly leaders who had guided the Church of Egypt through its first generations, carrying forward the intellectual and spiritual heritage begun by St. Mark. He died on 6 Tobi in the year 152 and was buried at Baucalis in Alexandria. His feast is kept according to the Coptic calendar, and he is venerated among the saints of the early Church of Alexandria, which stood for centuries as one of the great sees of Christendom.",
+  "patronages": [
+    {
+      "need": "catechists",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Markianos from the school of Alexandria to shepherd your Church, grant through his intercession that all who teach and learn may grow in wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Markianos_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

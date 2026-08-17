@@ -1,0 +1,25 @@
+{
+  "slug": "pope-linus",
+  "name": "St. Linus",
+  "feastDay": "09-23",
+  "bio": "Pope Linus was the bishop of Rome from about the year 68 until his death around 80, and is honored as the second bishop of that see, the immediate successor of the Apostle Peter. His name appears in the ancient lists of the Roman bishops, and the Apostle Paul greets a Linus in his second letter to Timothy, a name tradition has long linked with the pope.\n\nAs with all the early popes, Linus shepherded the church of Rome in the years that followed the apostles, holding the community together through times of suspicion and persecution under the emperors. Little is recorded of his life, yet his office placed him at the head of the church that claimed the memory of Peter.\n\nLinus is venerated as one of the first to sit in the chair of Peter and to guard the faith of the apostles.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who set Linus as the second shepherd of the church of Rome, to keep the faith of Peter in the years that followed, grant through his intercession that the successors of the apostles may hold fast to the truth they received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Linus"
+  ],
+  "featured": false,
+  "draft": false
+}

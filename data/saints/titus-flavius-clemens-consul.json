@@ -1,0 +1,25 @@
+{
+  "slug": "titus-flavius-clemens-consul",
+  "name": "St. Titus Flavius Clemens",
+  "feastDay": "unknown",
+  "bio": "Titus Flavius Clemens was a Roman politician and cousin of the Emperor Domitian, with whom he served as consul in the year 95. A man of the highest senatorial rank, he stood near the very summit of Roman power, yet within months of laying down the consulship he was executed, allegedly for atheism.\n\nLater Christian tradition received Clemens as a martyr, holding that his crime was his turning from the old gods to Christ. The charge of atheism, in Roman usage, marked precisely those who refused the state cults, and among them the Christians most of all.\n\nClemens is remembered as a noble convert who lost his life and his honors for the faith, a saint of the imperial household who chose the kingdom of Christ over the favor of Caesar.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to Titus Flavius Clemens the courage to confess your Son though it cost him his life and his honors, grant through his intercession that we may set the favor of Christ above every favor of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Titus_Flavius_Clemens_(consul)"
+  ],
+  "featured": false,
+  "draft": false
+}

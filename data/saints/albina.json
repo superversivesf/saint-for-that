@@ -1,0 +1,26 @@
+{
+  "slug": "albina",
+  "name": "St. Albina",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "The name Albina, meaning 'the white one,' was common in ancient Rome, and several holy women who bore it are remembered as saints in the Catholic tradition, chiefly a virgin martyr of the early centuries who suffered for her faith in Christ. Though legends gather around the name—connecting it to the 'White Goddess' of the Etruscans and the founding myths of Britain, where Albion is said to take its name from an ancient Albina—the Church honors the saintly women who carried this name into the company of the martyrs.\n\nSaint Albina is venerated as a virgin martyr, one of the daughters of the early Church who chose Christ above every earthly promise and won the crown of constancy. She is invoked as a patron of single women and of all who bear witness to the faith in times of trial.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Albina the grace to choose your Son above every earthly promise and to win the crown of martyrdom, grant through her prayers that single women may find in you their portion and that all who suffer for the faith may be strengthened by your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Albina"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hegesippus-chronicler",
+  "name": "St. Hegesippus",
+  "feastDay": "04-07",
+  "bio": "Hegesippus, known as the Nazarene, was a Christian writer of the early Church who devoted his life to preserving the memory of the apostolic age. Though he bore a Greek name, he was likely a Jewish convert, and he traveled widely — to Corinth, Rome, and other sees — interviewing bishops and collecting oral traditions handed down from the apostles. His five-volume Memoirs, though lost except in fragments preserved by Eusebius, constituted one of the earliest attempts at church history. Hegesippus wrote with vigor against the heresies of the Gnostics and of Marcion, defending the authentic succession of teaching traced from one bishop to another in every city he visited. He is remembered as a faithful guardian of the tradition handed down from the beginning.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred up St. Hegesippus to trace and defend the apostolic tradition handed down in your Church, grant through his intercession that we may hold fast to the faith once delivered to the saints and hand it on undefiled to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
+  ],
+  "featured": false,
+  "draft": false
+}

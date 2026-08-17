@@ -1,0 +1,25 @@
+{
+  "slug": "syrus-of-pavia",
+  "name": "St. Syrus of Pavia",
+  "feastDay": "12-09",
+  "bio": "Saint Syrus of Pavia, also spelled Sirus, is traditionally held to have been the first bishop of Pavia, the ancient city in Lombardy which would become a center of Christian learning in northern Italy. Tradition holds that Syrus was sent to evangelize the region in the first century, possibly by Saints Peter or Paul, or by Saint Hermagoras.\n\nArriving in Pavia, then steeped in pagan worship, Syrus preached the Gospel and gathered the first Christians into a community. As bishop he celebrated the mysteries, ordained clergy, and laid the groundwork for a church that would endure through centuries of upheaval.\n\nHis relics rest in the Church of Saints Gervasius and Protasius in Pavia, and his feast is December 9. He is patron of Pavia and of bishops who planted the faith beyond the Alps.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Syrus to be the first bishop of Pavia and to plant Your Church in that city, grant through his intercession that missionaries may labor with courage and that the faith they sow may endure for generations. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syrus_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

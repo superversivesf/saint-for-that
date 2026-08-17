@@ -1,0 +1,29 @@
+{
+  "slug": "marina-of-aguas-santas",
+  "name": "St. Marina of Aguas Santas",
+  "feastDay": "07-18",
+  "bio": "Marina of Aguas Santas was a Christian virgin martyr from the province of Ourense in Roman Gallaecia. According to tradition, she was born at Xinzo de Limia and raised by a Christian nurse, from whom she learned the faith and received baptism. While still a young woman of about fifteen, she was tending cattle near the road when the Roman prefect Olibrio saw her and wished to make her his wife. Marina refused all his advances, and he accused her of being a Christian. Imprisoned and tortured, she refused to renounce her faith or offer incense to the Roman gods. She was condemned to beheading, and when the executioner struck, water flowed from where her blood touched the ground, giving the site its name, Aguas Santas, 'Holy Waters.' Her feast is 18 July, and she is patroness of Ourense.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin martyr St. Marina the grace to refuse every worldly temptation and to die for your name, grant through her intercession that we may cherish purity of heart and stand firm in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marina_of_Aguas_Santas"
+  ],
+  "featured": false,
+  "draft": false
+}

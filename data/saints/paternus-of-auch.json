@@ -1,0 +1,26 @@
+{
+  "slug": "paternus-of-auch",
+  "name": "St. Paternus of Auch",
+  "feastDay": "09-28",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Paternus of Auch was, according to ancient tradition, the Bishop of Auch in southwestern Gaul. Though born a Basque, he was called to shepherd the Christian community in this important city of Roman Gascony, serving as a bridge between the peoples of the mountains and the plains.\n\nThe details of his life have been largely lost to history, but his memory has been preserved in the liturgical calendars of the region. He is counted among the early bishops of Gaul who laboured to establish the Church in the provinces beyond the Mediterranean, carrying the Gospel into the lands that would become the heart of medieval Christendom.\n\nHis feast is kept on September 28. Saint Paternus is honoured as one of the founding fathers of the Church in Gascony.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Paternus from the Basque country to shepherd your people at Auch, grant through his intercession that pastors after your own heart may serve your Church with faithfulness and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paternus_of_Auch"
+  ],
+  "featured": false,
+  "draft": false
+}

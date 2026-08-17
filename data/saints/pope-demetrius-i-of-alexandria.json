@@ -1,0 +1,29 @@
+{
+  "slug": "pope-demetrius-i-of-alexandria",
+  "name": "St. Demetrius I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Demetrius I was the twelfth Bishop and Patriarch of Alexandria, the great Christian see of Egypt. According to Sextus Julius Africanus, who visited Alexandria during his episcopate, Demetrius was the eleventh bishop in succession from St. Mark, raised to the see in the tenth year of the Emperor Commodus; Eusebius places his accession around 189 AD.\n\nHis long reign, lasting into the 230s, spanned a period of remarkable growth in the Alexandrian Church. It was under Demetrius that the catechetical school reached its height under Origen, whom he appointed to succeed Clement, and during his episcopate that Origen's scholarship drew both admiration and concern.\n\nDemetrius is remembered as a patriarch who sought to hold together a restless Church in a time of great intellectual ferment.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Demetrius wisdom to govern the Church of Alexandria in a time of great learning and great trial, grant through his intercession that those who teach and those who rule in your Church may work together for the building up of your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Demetrius_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

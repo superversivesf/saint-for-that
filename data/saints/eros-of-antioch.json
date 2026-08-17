@@ -1,0 +1,29 @@
+{
+  "slug": "eros-of-antioch",
+  "name": "St. Eros of Antioch",
+  "feastDay": "unknown",
+  "bio": "Eros of Antioch served as Bishop and Patriarch of Antioch from about 154 to around 169 AD, presiding over one of the most ancient sees in Christendom. Antioch, where the disciples were first called Christians, was a great metropolis of the Roman East, and its bishop stood in the line stretching back to St. Peter himself, who had founded the church there before journeying to Rome.\n\nEusebius places Eros's reign from the fifth year of Antoninus Pius, with his successor Theophilus dating from the ninth year of Marcus Aurelius. St. Jerome notes that his rule began in 142 AD, though this earlier date is doubted by later historians. In those years of relative peace before the great persecutions, Eros shepherded the Christian community of Antioch and preserved the apostolic succession in Syria.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eros a faithful patriarch of Antioch, the city where your disciples were first called Christians, grant through his intercession that the ancient churches of the East and West may be gathered into one fold under one shepherd. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eros_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

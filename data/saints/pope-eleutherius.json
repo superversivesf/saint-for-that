@@ -1,0 +1,33 @@
+{
+  "slug": "pope-eleutherius",
+  "name": "St. Pope Eleutherius",
+  "feastDay": "05-26",
+  "bio": "Pope Eleutherius, also known as Eleutherus, served as Bishop of Rome from about 174 until his death in 189, shepherding the Church during the reigns of the emperors Marcus Aurelius and Commodus. His pontificate, dated by some to 171–185 and by others to 177–193, fell in an age when the Church was steadily expanding even as persecution intermittently gripped the Empire.\n\nAccording to tradition, Eleutherius received a letter from Lucius, a king of Britain, requesting instruction in the Christian faith, and in response sent missionaries Fagan and Deruvian to preach the Gospel on that distant island. Whether history or faithful legend, it witnesses to the reach of the Roman Church's concern in his day. He is venerated as a saint and his feast is kept on May 26.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "travel"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope St. Eleutherius a faithful shepherd of your Church and, by tradition, sent the Gospel from Rome even to the far shores of Britain, grant through his intercession that the faith may reach every land and nation and that your people may be one. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Eleutherius"
+  ],
+  "featured": false,
+  "draft": false
+}

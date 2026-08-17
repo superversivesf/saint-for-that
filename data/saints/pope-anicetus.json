@@ -1,0 +1,26 @@
+{
+  "slug": "pope-anicetus",
+  "name": "St. Anicetus",
+  "feastDay": "04-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Anicetus governed the Church of Rome from about 157 until his death in April 168, shepherding the faithful through the reign of Marcus Aurelius and the growing pains of a Church in an empire that did not yet tolerate the name of Christian. A vigilant defender of the apostolic faith, he opposed the Gnostic and Marcionite heresies that threatened to corrupt the Gospel in its first flowering.\n\nHis pontificate is remembered for the visit of Saint Polycarp of Smyrna, the aged disciple of the Apostle John, who came to Rome to discuss the date of Easter. Though they could not agree, they parted in peace and charity, modeling the unity the Church has always sought. Anicetus is honored as a patron of church unity and theologians, that all who debate the things of God may do so in love.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "special"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Anicetus a defender of the apostolic faith and a shepherd of unity in the Church of Rome, grant through his intercession that all who debate the things of God may do so in charity and that your Church may be one as you and your Son are one. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anicetus"
+  ],
+  "featured": false,
+  "draft": false
+}

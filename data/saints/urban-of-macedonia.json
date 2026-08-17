@@ -1,0 +1,25 @@
+{
+  "slug": "urban-of-macedonia",
+  "name": "St. Urban of Macedonia",
+  "feastDay": "10-31",
+  "bio": "Saint Urban of Macedonia is numbered among the Seventy Apostles whom the Lord sent forth to prepare the way before Him. Along with Saints Ampliatus, Stachys, Narcissus of Athens, Apelles of Heraklion, and Aristobulus of Britannia, he assisted Saint Andrew the Apostle in evangelizing the nations.\n\nAccording to tradition, Saint Andrew ordained Urban bishop in Macedonia, entrusting him the churches there. He labored to preach the Gospel, baptize converts, and ordain clergy, building up the community where Christ's name was still new. His ministry belongs to that first flowering of the Gospel in Europe.\n\nHe died a martyr, and his feast is October 31 with several fellow workers among the Seventy. He is patron of bishops and of all who carry the Gospel into lands that have not yet heard it.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered Urban among the Seventy and sent him to preach the Gospel in Macedonia, grant through his intercession that missionaries may labor with apostolic zeal and that the lands still waiting for Your word may soon receive it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Urban_of_Macedonia"
+  ],
+  "featured": false,
+  "draft": false
+}

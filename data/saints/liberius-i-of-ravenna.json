@@ -1,0 +1,25 @@
+{
+  "slug": "liberius-i-of-ravenna",
+  "name": "St. Liberius I of Ravenna",
+  "feastDay": "12-30",
+  "bio": "Liberius I was Bishop of Ravenna in the late second century and is honored as the founder of that ancient see, one of the first bishops to shepherd the Christian community of the city. Venerated in both the Catholic and Eastern Orthodox Churches, he is remembered as a pioneer of the faith in northern Italy, where the Gospel was still young. Ravenna would in later centuries become one of the great centers of Christianity, adorned with basilicas and mosaics, and Liberius stands at the head of that long line of bishops who made the city a beacon of the Church. His feast is kept on 30 December. Though the details of his life are few, his legacy endured in the devotion of the people of Ravenna, who honored him as a saint and regarded him as the father of their Church.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who founded the Church of Ravenna through your bishop St. Liberius, grant through his intercession that the sees he established may long endure in faithfulness and proclaim your Gospel to every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liberius_I_of_Ravenna"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "pantaenus",
+  "name": "St. Pantaenus",
+  "feastDay": "07-07",
+  "canonized": "Pre-Congregation",
+  "bio": "Pantaenus the Philosopher was a Sicilian theologian and one of the most significant figures in the early Church's intellectual life. Coming to Christianity after a career as a Stoic philosopher, he brought to the faith a disciplined mind and a hunger for truth.\n\nAround the year 180 he became head of the Catechetical School of Alexandria, the earliest such institution in the Church, which became profoundly influential in Christian theology. He is remembered as the teacher of Clement of Alexandria, who succeeded him.\n\nTradition holds that Pantaenus travelled as far as India to preach the Gospel, finding there Christians who had already received the faith from the Apostle Bartholomew. His feast is kept on July 7. He is a patron of those who seek to reconcile faith and reason.",
+  "patronages": [
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Pantaenus from the schools of philosophy to the knowledge of your Son, grant through his intercession that all who seek the truth may find it fulfilled in Christ the Word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pantaenus"
+  ],
+  "featured": false,
+  "draft": false
+}

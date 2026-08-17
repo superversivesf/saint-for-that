@@ -1,0 +1,29 @@
+{
+  "slug": "irenaeus",
+  "name": "St. Irenaeus",
+  "feastDay": "06-28",
+  "bio": "Irenaeus was a Greek bishop of the second century whose writings shaped the foundations of Christian theology. Born in Smyrna, he had as a youth seen and heard the preaching of St. Polycarp, who was said to have been a disciple of John the Evangelist. Sent to Gaul, Irenaeus became a priest of Lyon and, after the persecution that killed Bishop Pothinus, succeeded him as bishop. He guided the Christian communities of southern Gaul and defended the faith against the Gnostic interpretations of Scripture that threatened to fragment the young Church. His great work, Against Heresies, remains a monument of early Christian thought, affirming the goodness of creation and the unity of the Church's teaching. Irenaeus suffered martyrdom around 202 and was declared a Doctor of the Church in 2022.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your bishop St. Irenaeus to defend the truth of the Gospel against every distortion, grant through his intercession that your Church may hold fast to the unity of the faith and the fullness of the truth you have revealed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irenaeus"
+  ],
+  "featured": false,
+  "draft": false
+}

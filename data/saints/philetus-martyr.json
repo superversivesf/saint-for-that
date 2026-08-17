@@ -1,0 +1,30 @@
+{
+  "slug": "philetus-martyr",
+  "name": "St. Philetus",
+  "feastDay": "03-27",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Philetus is venerated as a Christian martyr who suffered under the Emperor Hadrian. According to ancient tradition, he was a senator residing in the province of Illyria who was put to death for his confession of Christ, joining the noble company of those who shed their blood for the Gospel in the early centuries.\n\nHe is honoured together with a company of fellow martyrs: Saints Lydia, Macedo, Theoprepius, Amphilochius, and Cronidas. Their joint commemoration witnesses to the fellowship of the early Christians in suffering, who encouraged one another in the confession of the faith even unto death.\n\nHis feast is kept on March 27. Saint Philetus is remembered as one who held a high place in the world yet counted it as nothing beside the knowledge of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened your martyr Philetus and his companions in their confession of your name, grant through his intercession that those who hold office in the world may confess you before others without fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philetus_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

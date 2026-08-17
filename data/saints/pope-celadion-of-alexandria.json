@@ -1,0 +1,25 @@
+{
+  "slug": "pope-celadion-of-alexandria",
+  "name": "St. Celadion of Alexandria",
+  "feastDay": "07-16",
+  "bio": "Pope Celadion, also known as Keladionus, was the ninth Patriarch of Alexandria, reigning from about 152 to 166 AD. He stood in the direct line of succession from St. Mark, shepherding the Christian community of Egypt through a generation of quiet growth before the storms of persecution that would come later in the century.\n\nThe Church of Alexandria in his day was still young, nurtured by the catechetical school that would soon produce some of the deepest thinkers of Christian antiquity. His episcopate, spanning some fourteen years, gave that young Church a steady hand when the faith was still finding its footing in the cities of the eastern Mediterranean.\n\nHe is remembered in the Coptic and Greek calendars as one of the early fathers of the see of St. Mark. His feast is kept on July 16.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Celadion grace to be a faithful shepherd of the Church of Alexandria in the days of her youth, grant through his intercession that all who trace their faith to the apostles may be one in truth and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Celadion_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

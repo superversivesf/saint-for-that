@@ -1,0 +1,25 @@
+{
+  "slug": "pope-hyginus",
+  "name": "St. Hyginus",
+  "feastDay": "01-11",
+  "bio": "Pope Hyginus served as bishop of Rome from about 138 until his death around 142, during the reign of Emperor Antoninus Pius. Though the records of his pontificate are fragmentary, tradition holds that he was a Greek by birth, and that during his papacy he worked to bring order to the growing Church by determining the various prerogatives of the clergy and defining the grades of the ecclesiastical hierarchy. He is also credited with decreeing that all churches be consecrated and that baptisms be preceded by proper instruction. His pontificate fell in a time of relative peace for the Church, yet later tradition speaks of him as a martyr. He was buried on the Vatican Hill near the tomb of St. Peter.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "seminarians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Pope St. Hyginus established order in the ministry of your Church, grant through his intercession that all who serve at your altar may be found worthy of the grace entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Hyginus"
+  ],
+  "featured": false,
+  "draft": false
+}

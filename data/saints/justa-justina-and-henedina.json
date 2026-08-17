@@ -1,0 +1,25 @@
+{
+  "slug": "justa-justina-and-henedina",
+  "name": "Sts. Justa, Justina and Henedina",
+  "feastDay": "unknown",
+  "bio": "Saints Justa, Justina, and Henedina were Christian martyrs of Sardinia who suffered for the faith at Cagliari or possibly Sassari. The tradition that preserves their names is ancient but spare, telling us only that these three women confessed Christ during one of the persecutions that swept the Roman provinces and that they refused, even under threat of death, to offer sacrifice to the gods of the empire. Their martyrdom, like that of so many early confessors, was celebrated by the local Christian community, which honored their graves and kept their memory. The names Justa and Justina — both meaning \"just\" — fittingly witness to the justice that belongs to the saints, and together they stand as a sign of the women of the early Church whose fidelity was tested by fire.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your handmaidens Justa, Justina, and Henedina with the glory of martyrdom, grant through their intercession that we may be numbered among the just who seek your face and confess your name before all the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Justa%2C_Justina_and_Henedina"
+  ],
+  "featured": false,
+  "draft": false
+}

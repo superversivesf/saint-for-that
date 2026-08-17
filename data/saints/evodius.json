@@ -1,0 +1,25 @@
+{
+  "slug": "evodius",
+  "name": "St. Evodius",
+  "feastDay": "05-06",
+  "bio": "Evodius was an early Christian of the apostolic age, identified by ancient writings as the first bishop of Antioch, one of the great sees of the early Church. In some traditions he was appointed to that office by the Apostle Peter himself, succeeding the apostolic labors in the city where the followers of Jesus were first called Christians.\n\nHe is counted among the first identifiable post-apostolic bishops, the generation that received the faith from the apostles and handed it on to those who came after. As bishop of Antioch he would have shepherded a church that already stretched across Syria and beyond.\n\nEvodius is honored as a witness to the continuity of the apostolic ministry, a link between the age of the apostles and the age of the pastors.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established Evodius as the first shepherd of Antioch, grant through his intercession that the pastors of your Church may hand on faithfully what they received from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Evodius"
+  ],
+  "featured": false,
+  "draft": false
+}

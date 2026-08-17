@@ -1,0 +1,29 @@
+{
+  "slug": "longinus",
+  "name": "St. Longinus",
+  "feastDay": "03-15",
+  "bio": "Longinus is the name given in Christian tradition to the Roman soldier who pierced the side of Jesus with a lance as he hung upon the cross. The Gospel of John records the act, by which blood and water flowed from the Lord's side; later tradition, beginning with the apocryphal Gospel of Nicodemus, named the soldier and told of his conversion.\n\nAccording to the medieval legend, Longinus suffered from an ailment of the eyes, and as the blood of Christ touched him his sight was healed, both of body and of soul. Confessing the Son of God, he is said to have suffered martyrdom for the faith.\n\nHonored as a patron of soldiers and of those who suffer from diseases of the eyes, Longinus is remembered as the first witness of the pierced Christ.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the blood and water flowing from the side of your Son healed the sight of the soldier Longinus, grant through his intercession that all who suffer in body may look upon the pierced Christ and be made whole. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longinus"
+  ],
+  "featured": false,
+  "draft": false
+}

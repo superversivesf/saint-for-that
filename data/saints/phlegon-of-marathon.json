@@ -1,0 +1,25 @@
+{
+  "slug": "phlegon-of-marathon",
+  "name": "St. Phlegon of Marathon",
+  "feastDay": "04-08",
+  "bio": "Phlegon of Marathon is numbered among the Seventy Disciples sent out by Christ to preach the kingdom of God. The Apostle Paul refers to him in the fourteenth verse of the sixteenth chapter of his Epistle to the Romans, greeting him among the Christians of Rome: 'Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes.'\n\nTradition holds that Phlegon served as bishop of Marathon in Thrace, a region of the Greek world, shepherding the faithful in the early days of the Church. His name, like those of his fellow Seventy, is joined to the great company of disciples whom the Lord sent before his face into every city.\n\nHis feast is kept on April 8, and he is honored as a patron of priests and preachers, who carry the Word into the cities of the nations.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered Saint Phlegon among the Seventy and named him in the greeting of your Apostle Paul, grant through his intercession that priests and preachers may shepherd the faithful in every city with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phlegon_of_Marathon"
+  ],
+  "featured": false,
+  "draft": false
+}

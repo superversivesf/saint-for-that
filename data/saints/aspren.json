@@ -1,0 +1,22 @@
+{
+  "slug": "aspren",
+  "name": "St. Aspren",
+  "feastDay": "08-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Aspren, also called Asprenas, was a first-century Christian saint venerated as the first Bishop of Naples. According to tradition, he was converted and consecrated by Saint Peter himself during the Apostle's journey through Italy, making the church of Naples one of the earliest apostolic foundations in the West.\n\nHe is honored as a patron of the city of Naples and is invoked against migraine, a patronage that has endured in local devotion for many centuries. His feast is kept on August 3, and his memory binds the faithful of Naples to the very dawn of the Church's presence in the Campanian plain.",
+  "patronages": [
+    {
+      "need": "headaches",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Aspren the first shepherd of your church at Naples, grant through his intercession that those who suffer from afflictions of the head may find relief, and that the faithful of that ancient see may persevere in the Gospel first preached by the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aspren"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "stachys-the-apostle",
+  "name": "St. Stachys the Apostle",
+  "feastDay": "10-31",
+  "bio": "Saint Stachys, also called Stachys the Apostle, was numbered among the Seventy Apostles whom the Lord sent forth to preach and heal in His name. According to tradition, Saint Andrew ordained Stachys the second bishop of Byzantium, the city that would become Constantinople, capital of Eastern Christendom.\n\nStachys shepherded the Christian community of Byzantium from about 38 to 54 AD, building on the foundations of Saint Andrew. When the faith was a tender shoot in a pagan city, his ministry was one of quiet fidelity, gathering believers and keeping the flock united.\n\nHe served as bishop for sixteen years and died in peace, having seen the Church of Byzantium take root. His feast is October 31, and he is patron of bishops and of all who establish the faith where it is yet young.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who appointed Stachys among the Seventy and made him shepherd of Your Church in Byzantium, grant through his intercession that bishops may govern Your people with fidelity and that the unity of Your Church may be ever strengthened. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stachys_the_Apostle"
+  ],
+  "featured": false,
+  "draft": false
+}

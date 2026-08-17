@@ -1,0 +1,25 @@
+{
+  "slug": "philologus-of-sinope",
+  "name": "St. Philologus of Sinope",
+  "feastDay": "01-04",
+  "bio": "Philologus of Sinope is numbered among the Seventy Disciples of Christ. According to tradition, he was appointed bishop of Sinope, a city on the Black Sea coast of Asia Minor, and there shepherded the young Christian community in the apostolic age.\n\nThe Church commemorates him with the Seventy on January 4, and again on November 5, together with Saints Patrobas, Hermas, Linus, and Gaius, his fellow laborers among the Seventy. His name is joined to that great company of disciples sent out by the Lord to prepare the way before him.\n\nHe is honored as a patron of preachers and of the laity, for the Seventy were lay hands set by Christ to carry the Gospel into every town and place.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Philologus among the Seventy to prepare the way before your Son, grant through his intercession that preachers and the laity may labor together in the harvest of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philologus_of_Sinope"
+  ],
+  "featured": false,
+  "draft": false
+}

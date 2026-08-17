@@ -1,0 +1,26 @@
+{
+  "slug": "novatus",
+  "name": "St. Novatus",
+  "feastDay": "06-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Novatus is venerated as an early Christian saint whose memory the Church has preserved since antiquity. The details of his life have been obscured by the centuries, but he is counted among the holy ones of the early Church who witnessed to the faith in the generations following the apostles.\n\nHis feast is kept on June 20, a date by which the faithful have remembered him for many centuries. The continuity of his cult testifies to the devotion he inspired among the early Christians, who held him in honour as one who laboured to establish the Gospel in its first days.\n\nThough the particulars of his ministry are no longer known, the Church preserves his name as a sign of that great cloud of witnesses who lived and died in the faith before the age of written martyrologies.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of your servant Novatus through the long centuries of your Church, grant through his intercession that we too may be remembered among the faithful who have served you in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Novatus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "prosdocimus",
+  "name": "St. Prosdocimus",
+  "feastDay": "11-07",
+  "bio": "Prosdocimus, also called Prosdecimus, is venerated as the first bishop of Padua and one of the earliest evangelists of northern Italy. According to tradition, he was sent by Saint Peter the Apostle to preach the Gospel in Venetia, arriving in Padua in the first century to find a city steeped in pagan worship.\n\nWith apostolic zeal he proclaimed Christ and by his preaching and miracles won many converts. He is said to have baptized Saint Justina, a noblewoman of Padua who would become a martyr. As first shepherd of the Paduan church, he organized the community, ordained clergy, and laid foundations of faith that would endure for centuries.\n\nHis relics rest in the Basilica of Santa Giustina in Padua. He is invoked as patron of Padua and of bishops who plant the Gospel in new lands.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the apostle Prosdocimus to preach the Gospel in Padua and to gather there a people for Your name, grant through his intercession that missionaries and all who proclaim Your word may bear fruit that endures. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prosdocimus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "juvenal-of-benevento",
+  "name": "St. Juvenal of Benevento",
+  "feastDay": "05-07",
+  "bio": "Saint Juvenal of Benevento is honored as a martyr of the second century, venerated in Narni, Italy, where tradition holds that he died around 132 AD. His shrine rests in Benevento, and his feast is kept on 7 May. The Greek Synaxarion calls him a martyr, and he is honored in both the Roman Catholic and Eastern Orthodox Churches. Though the details of his life and confession have largely been lost to history, his memory endured among the faithful of southern Italy, who treasured his relics and invoked his intercession. He stands as a witness to the early spread of the Gospel beyond the great cities of the empire, into the small towns and countryside of the Italian peninsula, where the faith took root in the generations of the apostles' successors.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "pilgrims",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Juvenal with the palm of martyrdom and made his shrine a place of pilgrimage, grant through his intercession that we may remain steadfast in the faith he confessed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juvenal_of_Benevento"
+  ],
+  "featured": false,
+  "draft": false
+}

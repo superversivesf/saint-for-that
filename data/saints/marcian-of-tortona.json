@@ -1,0 +1,25 @@
+{
+  "slug": "marcian-of-tortona",
+  "name": "St. Marcian of Tortona",
+  "feastDay": "03-06",
+  "bio": "Marcian of Tortona is honored as the first bishop of Tortona in north-western Italy, a post he is said to have held for forty-five years. Tradition states that he was born to a pagan family but was converted by St. Barnabas and confirmed in the faith by Sirus, bishop of Pavia. Secundus of Asti is said to have met Marcian at Tortona while still a pagan, and their meeting influenced Secundus's conversion. Marcian is reported to have been crucified for his faith, suffering martyrdom under either Trajan in 117 or Hadrian in 120. His relics, discovered on the banks of the Scrivia in the fourth century, now rest in the cathedral of Tortona. He is patron of Tortona and Genola, where a finger bone associated with him is preserved. His feast is kept on 6 March.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Marcian to serve your Church as the first bishop of Tortona and to suffer crucifixion for your name, grant through his intercession that we may bear our crosses with courage and proclaim your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcian_of_Tortona"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "narcissus-of-athens",
+  "name": "St. Narcissus of Athens",
+  "feastDay": "10-31",
+  "bio": "Narcissus of Athens is numbered among the Seventy Disciples sent out by Christ to preach the kingdom of God. According to tradition, he assisted Saint Andrew in his missionary labors, and the Apostle Philip ordained him bishop of Athens, the ancient city of philosophers.\n\nIn that city, where Paul had once stood on the Areopagus and proclaimed the unknown God, Narcissus shepherded the young Christian flock as its bishop. His name is joined with those of Urban, Stachys, Ampliatus, Apelles, and Aristobulus, fellow laborers of the apostolic age who carried the Gospel into the cities of the Greek world.\n\nHis feast is kept on October 31, and he is honored as a patron of priests and of scholars, serving the Word made flesh in the city of human wisdom.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who ordained Saint Narcissus as bishop of Athens, the city of philosophers, grant through his intercession that priests and scholars may seek the wisdom that is from above and confess your Son before the learned of this world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Narcissus_of_Athens"
+  ],
+  "featured": false,
+  "draft": false
+}

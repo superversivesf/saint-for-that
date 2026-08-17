@@ -1,0 +1,22 @@
+{
+  "slug": "abibon",
+  "name": "St. Abibon",
+  "feastDay": "12-02",
+  "canonized": "Pre-Congregation",
+  "bio": "Abibon, also called Abibas, was the son of Gamaliel, the revered Pharisee teacher of the Apostle Paul. Tradition holds that he and his father were won to faith in Christ and are honored as saints in both the Catholic and Eastern Orthodox Churches.\n\nThe finding of their relics is commemorated as a feast on August 3, and their memory is kept regionally with particular devotion on December 2 in Pisa. Abibon stands as a quiet witness to the firstfruits of the Gospel within the household of Israel, where grace entered through the very family that had shaped the Church's great apostle to the Gentiles.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abibon from the household of Gamaliel to the household of faith, grant through his intercession that all who inherit the faith of their fathers may confess the name of your Son with courageous love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abibon"
+  ],
+  "featured": false,
+  "draft": false
+}

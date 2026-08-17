@@ -1,0 +1,33 @@
+{
+  "slug": "eleutherius-and-antia",
+  "name": "St. Eleutherius and Antia",
+  "feastDay": "04-18",
+  "bio": "Eleutherius, also written Eleutherus and Eleftherios, and his mother Antia, or Anthia, are venerated as Christian martyrs across Albania, Greece, Cyprus, and Italy. Born in Rome after his father's death, Eleutherius was raised by his widowed mother and entrusted to the Bishop of Rome for instruction in the scriptures. Consecrated bishop while young, he was sent to Illyricum to preach among peoples who did not yet know Christ.\n\nHis mission provoked the imperial authorities, and he and Antia were taken to Rome to be judged by the Emperor Hadrian. The oldest accounts say Eleutherius was clubbed to death and Antia beheaded, faithful to the end. Their cult is ancient, recorded in the Martyrologium Hieronymianum and honoured at Rieti, Messina, and many Italian cities. Their feast is April 18.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned your bishop St. Eleutherius and his mother St. Antia with the palm of martyrdom, grant through their intercession that those who suffer for the faith may stand firm and that families may be bound together in your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eleutherius_and_Antia"
+  ],
+  "featured": false,
+  "draft": false
+}

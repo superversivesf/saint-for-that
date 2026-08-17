@@ -1,0 +1,26 @@
+{
+  "slug": "birillus",
+  "name": "St. Birillus",
+  "feastDay": "03-21",
+  "canonized": "Pre-Congregation",
+  "bio": "Birillus of Antioch was an early Christian saint who, according to tradition, was ordained to the priesthood by Saint Peter himself. Sent out from Antioch to preach the Gospel in the West, he became the first evangelizer and the first bishop of Catania in Sicily, planting the faith in a city that would honor him as its apostolic founder.\n\nHis feast is kept on March 21. Though the historical details of his ministry are sparse, the tradition that ties him to Peter and to the great missionary church of Antioch places him among that first wave of apostolic men who carried the Gospel from the eastern reaches of the Mediterranean into Italy and the islands.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Birillus from Antioch to plant the Gospel at Catania, grant through his intercession that the Church may never lack evangelizers who carry the name of Christ to cities that have not yet heard it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Birillus"
+  ],
+  "featured": false,
+  "draft": false
+}

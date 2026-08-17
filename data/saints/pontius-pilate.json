@@ -1,0 +1,25 @@
+{
+  "slug": "pontius-pilate",
+  "name": "St. Pontius Pilate",
+  "feastDay": "unknown",
+  "bio": "Pontius Pilate served as the fifth governor of the Roman province of Judaea under Emperor Tiberius, from 26 to 36 AD. He is known to history as the official who presided over the trial of Jesus and ordered his crucifixion, and his name is fixed in the Apostles' and Nicene Creeds.\n\nBecause the Gospels portray Pilate as reluctant to condemn Jesus, the Ethiopian Orthodox Tewahedo Church holds that he came to faith in Christ and venerates him as a martyr and saint. The Coptic Church historically shared this tradition, which recounts that Pilate confessed Christ and suffered for his confession after returning to Rome.\n\nKept in the Ethiopian synaxarium, his veneration rests on the belief that the judge who washed his hands at Gabbatha was in the end washed in the blood of the Lamb he condemned.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, whose mysterious providence works even through the unwilling, grant through the intercession of Saint Pontius Pilate, whom the Ethiopian Church honors as a convert and martyr, that all who condemned your Son in word or deed may turn and confess him as Lord. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pontius_Pilate"
+  ],
+  "featured": false,
+  "draft": false
+}

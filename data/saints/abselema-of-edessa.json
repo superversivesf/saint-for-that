@@ -1,0 +1,22 @@
+{
+  "slug": "abselema-of-edessa",
+  "name": "St. Abselema of Edessa",
+  "feastDay": "10-19",
+  "canonized": "Pre-Congregation",
+  "bio": "Abselema of Edessa is remembered in the ancient Syrian tradition as a disciple of Saint Addai the Apostle and as a bishop of Edessa in the second century, carrying the Gospel into Mesopotamia in the first generations after Christ. Edessa, a great city of the Syrian East, was among the earliest Christian kingdoms, and Abselema served as a link in the apostolic chain that connected the Church of the East to the disciples sent out by our Lord.\n\nFaithful to the teaching he received from Addai, he shepherded the young Christian community through uncertain times and kept the flame of faith alive where the Gospel was still new. His feast is celebrated on October 19, and he is honored as a patron of missionaries who plant the Church where Christ is not long known.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Abselema to carry the Gospel to Edessa and to shepherd your people in the days when the Church was young, grant through his prayers that we may be steadfast in the faith we have received and zealous in making your name known. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abselema_of_Edessa"
+  ],
+  "featured": false,
+  "draft": false
+}

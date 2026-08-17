@@ -1,0 +1,26 @@
+{
+  "slug": "pope-agrippinus-of-alexandria",
+  "name": "St. Agrippinus of Alexandria",
+  "feastDay": "02-12",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Agrippinus was the tenth Pope and Patriarch of Alexandria, shepherding the great Egyptian see during the reign of the emperor Marcus Aurelius, when the Church stood at the dawn of its witness in Africa. He governed the see of Saint Mark as the faith spread through the Nile valley and the catechetical school of Alexandria began to make the city a beacon of Christian learning.\n\nHonored in the Coptic and Greek traditions as a faithful successor in the long line of Alexandrian patriarchs, Agrippinus kept the unity of the Church and handed on the apostolic teaching in an age of persecution. His feast is kept on February 12, and he is invoked as a patron of priests and theologians, that they may serve with the quiet fidelity that marked his ministry.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Agrippinus the tenth shepherd of the see of Saint Mark and a guardian of your Church in Alexandria, grant through his intercession that priests and theologians may serve you with quiet fidelity and hand on the apostolic teaching without wavering. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Agrippinus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

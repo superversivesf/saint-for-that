@@ -1,0 +1,25 @@
+{
+  "slug": "pope-kedron-of-alexandria",
+  "name": "St. Kedron of Alexandria",
+  "feastDay": "06-28",
+  "bio": "Kedron, also called Kedronos, was the fourth Patriarch of Alexandria, governing the Church of Egypt from 96 to 106 AD. Tradition holds that he was among those baptized by St. Mark the Evangelist. When the bishops of the country learned that Patriarch Avilius had died, they gathered with the Christian people of Alexandria and elected Kedronos as his successor. He was enthroned in October 96, during the reign of the Emperor Nerva. Known for his chastity and virtue, he led the Church for eleven years. Under the Emperor Trajan, Kedron was arrested and summoned to sacrifice to the Roman gods. When a governor asked why he would not let the pagan gods share in his worship, he answered, 'Because we do not prostrate before any other.' He was put to death on 28 June 106 and buried at Baucalis.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Kedron the courage to answer his persecutors with the words, 'We do not prostrate before any other,' grant through his intercession that we may worship you alone and never falter in our confession. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Kedron_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "fagan-saint",
+  "name": "St. Fagan",
+  "feastDay": "unknown",
+  "bio": "Fagan, also known by other names including Fugatius, was a legendary second-century Welsh bishop and saint, said to have been sent by the pope to answer King Lucius of Britain's request for baptism and conversion. With his companion St. Deruvian, Fagan was reckoned an apostle of Britain, who first brought the Gospel to that distant island at the edge of the Roman world.\n\nThe story of King Lucius's conversion does not appear in surviving sources before the sixth century, and the bishops' names are first found in the early twelfth century, when the tale was used to support the independence of the bishops of St. Davids in Wales and the antiquity of Glastonbury Abbey. Whether history or legend, Fagan's witness speaks to the British Church's desire to trace its origins to the apostles.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "travel"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant St. Fagan, whether in fact or in faithful memory, to proclaim the Gospel in the lands of Britain and to make known the way of salvation to King Lucius, grant through his intercession that the Church in those lands may never lose the faith first preached among her people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fagan_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

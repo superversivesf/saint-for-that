@@ -1,0 +1,25 @@
+{
+  "slug": "zebedee",
+  "name": "St. Zebedee",
+  "feastDay": "03-15",
+  "bio": "Saint Zebedee, according to the synoptic Gospels, was the father of the apostles James the Greater and John the Evangelist, two of the first disciples called by the Lord and among the three who witnessed the Transfiguration and the agony in the garden. The Gospels also suggest he was the husband of Salome, who stood at the foot of the Cross and came to anoint Christ's body on Easter morning.\n\nZebedee was a fisherman of Galilee who employed hired hands in his trade on the Sea of Tiberias. When Jesus called his sons away from the nets, Zebedee remained behind, tending the boats, yet his household became one of the most fruitful in the Church, producing apostles and a witness of the Resurrection.\n\nHis feast is March 15, and he is patron of fathers and of parents who nurture vocations.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed Zebedee with sons who became apostles and a wife who stood at the Cross of Your Son, grant through his intercession that parents may nurture vocations in their families and offer their children gladly to Your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zebedee"
+  ],
+  "featured": false,
+  "draft": false
+}

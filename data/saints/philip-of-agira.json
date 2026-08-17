@@ -1,0 +1,30 @@
+{
+  "slug": "philip-of-agira",
+  "name": "St. Philip of Agira",
+  "feastDay": "05-12",
+  "canonized": "Pre-Congregation",
+  "bio": "Philip of Agira was an early Christian clergyman honoured as the Apostle of the Sicilians, the first missionary to bring the Gospel to Sicily. Two traditions surround his life: the older, ascribed to Athanasius of Alexandria, places him in the first century, born in Cappadocia in the year 40 and dying as a hieromartyr on May 12, 103.\n\nA later account places him in the fourth century, born in Thrace of a Syrian father and a noble Roman mother. In this version, his older brothers drowned while fishing, and Philip, bereaved, gave himself wholly to God. He was later sent by the pope to preach in Sicily, where he performed many miracles, especially exorcisms.\n\nHe is invoked as patron of Agira in Sicily, Żebbuġ in Malta, and of the United States Army Special Forces. His feast is kept on May 12.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "fishermen",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Philip to be the first preacher of the Gospel in Sicily and to work wonders there in your name, grant through his intercession that the nations may yet receive the good news, and that all who labour in your service may be strengthened. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philip_of_Agira"
+  ],
+  "featured": false,
+  "draft": false
+}

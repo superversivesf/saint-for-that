@@ -1,0 +1,29 @@
+{
+  "slug": "beatus-of-lungern",
+  "name": "St. Beatus of Lungern",
+  "feastDay": "05-09",
+  "bio": "Saint Beatus of Lungern, also called Beatus of Beatenberg or Beatus of Thun, is honored as a hermit and monk of early Switzerland. According to legend he was a convert from Britain who, instructed by St. Peter in Rome, preached the gospel along the shores of Lake Thun and lived as a hermit in a cave above the lake that bears his name.\n\nAs with many saints of that distant age, his story has been woven together from several threads. A Beatus of Vendôme, an Abbot Beatus who received a charter from Charlemagne in 810 for Honau Abbey, and other traditions have likely mingled with the memory of an early preacher. Yet the Beatenberg kept his name and cult for a thousand years.\n\nBeatus is remembered as one of the apostles of the land that would become Switzerland. He is honored on May 9.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Beatus to seek you in the solitude of the mountains and to proclaim your name to those who did not yet know you, grant through his intercession that we may find in silence the courage to witness and in witness the depth of your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beatus_of_Lungern"
+  ],
+  "featured": false,
+  "draft": false
+}

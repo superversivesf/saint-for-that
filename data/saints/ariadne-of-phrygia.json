@@ -1,0 +1,26 @@
+{
+  "slug": "ariadne-of-phrygia",
+  "name": "St. Ariadne of Phrygia",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Ariadne of Phrygia is honored as a Christian martyr of the second century, one of the confessors who shed their blood for Christ in the Roman province of Phrygia, in Asia Minor, where the Gospel had taken root early and deep. The ancient traditions of the Greek and Syriac churches remember her as a slave who refused to renounce her faith and who, by the grace of God, won the crown of martyrdom rather than deny her Lord.\n\nIn an age when confessing Christ could cost everything, Ariadne chose the better part, joining the virgin martyrs venerated from the Church's earliest days. She is invoked as a patron of martyrs and of slaves—of all who are bound and oppressed, that they may know the freedom that only Christ can give, and the dignity no earthly master can take away.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Ariadne of Phrygia the grace to prefer death to the denial of your Son, grant through her intercession that all who are bound and oppressed may know the freedom of your children and that we may bear witness to your name with constancy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ariadne_of_Phrygia"
+  ],
+  "featured": false,
+  "draft": false
+}

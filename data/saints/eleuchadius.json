@@ -1,0 +1,29 @@
+{
+  "slug": "eleuchadius",
+  "name": "St. Eleuchadius",
+  "feastDay": "02-14",
+  "bio": "Eleuchadius was a second-century Christian saint honoured by both the Roman Catholic and Eastern Orthodox Churches, who served as the third Bishop of Ravenna from approximately 100 to 112 AD. He inherited the see founded by St. Apollinaris, himself a disciple of St. Peter, and so stood in living continuity with the apostolic age, guarding the young Church of Ravenna in its earliest and most fragile years.\n\nIn his time Ravenna was a Roman Adriatic port where the faith was still taking root. As its third bishop he taught, ordained, and sustained the community through a period of quiet growth and intermittent peril. His feast is kept on February 14, and he is remembered among the foundational bishops of the Italian Church.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eleuchadius a faithful shepherd of your Church at Ravenna in the days when the apostolic witness was still young, grant through his intercession that bishops may guard the faith with the same constancy and that your people may grow in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eleuchadius"
+  ],
+  "featured": false,
+  "draft": false
+}

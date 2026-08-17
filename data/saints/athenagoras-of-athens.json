@@ -1,0 +1,29 @@
+{
+  "slug": "athenagoras-of-athens",
+  "name": "St. Athenagoras of Athens",
+  "feastDay": "unknown",
+  "bio": "Athenagoras of Athens was a Christian philosopher and apologist of the latter half of the 2nd century. A convert to Christianity, he belonged to that first generation of learned believers who sought to show that the gospel could stand the test of reasoned debate in the ancient world.\n\nHis Embassy for the Christians (c. 177) is one of the earliest formal defenses of the faith addressed to a Roman emperor, Marcus Aurelius. It argues that Christians are neither atheists nor enemies of the state, and that the charges of immorality laid against them are baseless. His treatise On the Resurrection of the Dead is among the first arguments for that doctrine.\n\nLittle else is known of his life, yet his writings reveal a mind at once philosophical and devout, a patron of patient defense of the faith.",
+  "patronages": [
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Athenagoras the courage to plead for your Church before the rulers of this age, grant through his intercession that we may speak the truth in love and bear witness to the hope that is in us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athenagoras_of_Athens"
+  ],
+  "featured": false,
+  "draft": false
+}

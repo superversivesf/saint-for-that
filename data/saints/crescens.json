@@ -1,0 +1,26 @@
+{
+  "slug": "crescens",
+  "name": "St. Crescens",
+  "feastDay": "07-30",
+  "canonized": "Pre-Congregation",
+  "bio": "Crescens is an early Christian saint mentioned by the Apostle Paul in his Second Epistle to Timothy, where Paul writes that Crescens has gone to Galatia. Traditionally numbered among the Seventy Disciples whom the Lord Jesus sent out in pairs to preach, Crescens served as a missionary in Galatia and became a companion of Paul in the great work of carrying the Gospel to the nations.\n\nHis very name, drawn from the Latin crescere, means \"increasing,\" a fitting emblem for one whose life was given to the growth of the Church. His feast is kept on July 30, and he is remembered as one of that first generation of apostolic workers whose journeys knit the young churches of the Mediterranean into a single body of faith.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Crescens to increase your Church in Galatia and beyond, grant through his intercession that missionaries may labor with joy and that the Gospel may bear fruit wherever it is preached. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crescens"
+  ],
+  "featured": false,
+  "draft": false
+}

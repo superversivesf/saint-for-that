@@ -1,0 +1,25 @@
+{
+  "slug": "marcus-of-jerusalem",
+  "name": "St. Marcus of Jerusalem",
+  "feastDay": "10-22",
+  "bio": "Mark, sometimes called Mahalia, was the sixteenth bishop of Jerusalem and the first non-Jewish bishop to hold that office. He served from 135 until his death in 156, in the city the Emperor Hadrian had renamed Aelia Capitolina and from which he banned all Jews. Marcus persuaded the greater part of his congregation to cease observing Jewish laws and customs, so that they might remain in the city, while the minority who persevered in Jewish ways became known as the Ebionites. He thus guided the Jerusalem Church through a time of profound transformation, when the ancient Jewish-Christian community gave way to a Gentile one. His secretary was traditionally said to have been Aristo of Pella. He is listed in the Roman Martyrology on 22 October, and his successor was Cassianus.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided your bishop St. Marcus to lead the Church of Jerusalem through a time of great change, grant through his intercession that your people may hold fast to unity in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcus_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

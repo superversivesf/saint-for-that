@@ -1,0 +1,29 @@
+{
+  "slug": "dionysius-the-areopagite",
+  "name": "St. Dionysius the Areopagite",
+  "feastDay": "unknown",
+  "bio": "Dionysius the Areopagite was an Athenian judge of the Areopagus Court in the first century, when the Apostle Paul stood before that ancient council and preached the unknown God. Hearing Paul's witness to the risen Christ, Dionysius embraced the faith and became one of the first converts of Athens.\n\nTradition recounts that he was later consecrated bishop of Athens, shepherding the young church in the city of philosophers, and that he suffered martyrdom for his confession of Christ. His name became attached in later centuries to a famous body of mystical writings, though scholars now distinguish the biblical convert from the later author.\n\nHonored as a patron of the city of Athens, Dionysius stands as a witness that the wisdom of the world bows before the foolishness of the Cross.",
+  "patronages": [
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the judge Dionysius from the bench of the Areopagus to the judgment-seat of truth, grant through his intercession that those who seek justice on earth may find it in your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
+  ],
+  "featured": false,
+  "draft": false
+}

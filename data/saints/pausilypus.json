@@ -1,0 +1,30 @@
+{
+  "slug": "pausilypus",
+  "name": "St. Pausilypus",
+  "feastDay": "04-08",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Pausilypus was a Christian martyr of the second century who suffered under the Emperor Hadrian. Condemned to be beheaded for his confession of Christ, he was led away in chains to the place of execution at Heraclea Sintica in Thrace.\n\nOn the way, a remarkable miracle occurred: the chains that bound him suddenly fell from his body and he escaped from his persecutors. The hagiographic tradition recounts this deliverance as a sign of God's power, yet Pausilypus did not long survive his release. He died soon after, around the year 140, as a result of the tortures already inflicted on him by his captors.\n\nHis feast is kept on April 8. Saint Pausilypus is remembered as one who was delivered by a miracle yet still won the crown of martyrdom.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who broke the chains of your martyr Pausilypus as he was led to death, grant through his intercession that all who are bound for the sake of your name may be set free, and that those who suffer torture may be crowned with the palm of martyrdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pausilypus"
+  ],
+  "featured": false,
+  "draft": false
+}

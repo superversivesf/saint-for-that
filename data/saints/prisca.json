@@ -1,0 +1,25 @@
+{
+  "slug": "prisca",
+  "name": "St. Prisca",
+  "feastDay": "01-18",
+  "bio": "Prisca was a young Roman woman of noble birth who embraced the Christian faith in the early centuries of the Church. When persecution swept through Rome, she was singled out for her refusal to renounce Christ.\n\nShe was subjected to cruel tortures, scourged, burned, and exposed to wild beasts in the arena, yet each time she emerged unharmed by the power of God, confounding her tormentors. At last she was beheaded and gained the crown of martyrdom. Her relics were venerated on the Aventine Hill in Rome, where a church was dedicated in her honor.\n\nRevered as a martyr in the Catholic Church, Eastern Orthodoxy, and the Anglican Communion, her feast is kept on January 18. She is invoked as a patron of young women and of all who face trials for the Gospel.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin and martyr Prisca courage to confess Your Son before her persecutors and strength to endure every torment for His name, grant through her intercession that young women and all who suffer for the faith may stand firm in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Prisca"
+  ],
+  "featured": false,
+  "draft": false
+}

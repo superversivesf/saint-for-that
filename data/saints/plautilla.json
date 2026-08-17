@@ -1,0 +1,25 @@
+{
+  "slug": "plautilla",
+  "name": "St. Plautilla",
+  "feastDay": "05-20",
+  "bio": "Plautilla is the name given in late antique and medieval tradition to a pious Roman matron associated with the martyrdom of the Apostle Paul. According to the apocryphal narrative, she met Paul as he was led out of the city to execution and lent him her veil, that he might blindfold himself before death.\n\nAfter Paul was beheaded, the legend tells that the veil was returned to her, and that when she received it she found it healed of every blemish, a sign of the apostle's blessing. In later retellings she is numbered among the holy women of Rome who tended the martyrs and honored their remains.\n\nHer feast is kept on May 20, and she is honored as a patron of the laity and of converts, a laywoman who showed devotion to the apostles in the hour of their death.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who accepted the veil of Saint Plautilla offered to your Apostle Paul in the hour of his death, grant through her intercession that the laity and all converts may serve your holy apostles and tend the martyrs with devoted hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plautilla"
+  ],
+  "featured": false,
+  "draft": false
+}

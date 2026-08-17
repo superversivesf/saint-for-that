@@ -1,0 +1,26 @@
+{
+  "slug": "peregrinus-bishop-of-terni",
+  "name": "St. Peregrinus, Bishop of Terni",
+  "feastDay": "05-16",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Peregrinus was the Bishop of Terni in Umbria and is credited with founding the city's cathedral. As the first shepherd of this central Italian diocese, he laboured to establish the Christian community on firm foundations, building up both the material and spiritual life of the Church in Terni.\n\nHis work of founding the cathedral placed him among the great builder-bishops of early Christian Italy, who raised houses of prayer from the foundations of the ancient world. Through his ministry the faith took root in Terni and flourished in the centuries that followed.\n\nHis feast is kept on May 16. Saint Peregrinus is honoured as the apostle and father of the Church of Terni, a patron of those who build up the Church in stone and in spirit.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your bishop Peregrinus to found the church of Terni and to shepherd your people in that place, grant through his intercession that we may build up your Church in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peregrinus,_Bishop_of_Terni"
+  ],
+  "featured": false,
+  "draft": false
+}

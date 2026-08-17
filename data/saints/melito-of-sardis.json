@@ -1,0 +1,29 @@
+{
+  "slug": "melito-of-sardis",
+  "name": "St. Melito of Sardis",
+  "feastDay": "04-01",
+  "bio": "Melito of Sardis served as Bishop of Sardis, near Smyrna in western Anatolia, and held a foremost place among the early Christian bishops of Roman Asia. Jewish by birth and steeped in Greek culture, he was a prolific author whose works, though largely lost, were highly regarded by Clement, Origen, and Eusebius. Jerome, quoting Tertullian, records that many of the faithful esteemed him as a prophet. Around 170 he compiled the earliest known Christian canon of the Old Testament, a term he coined. His homily Peri Pascha, recovered in modern times, is among the most important additions to patristic literature. He also composed an Apology to the Emperor Marcus Aurelius, pleading for justice for persecuted Christians. He died around 180 and was buried at Sardis. His feast is 1 April.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Melito with wisdom to expound your Word and courage to plead for your Church before the powers of this world, grant through his intercession that theologians and writers may illuminate your truth for every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Melito_of_Sardis"
+  ],
+  "featured": false,
+  "draft": false
+}

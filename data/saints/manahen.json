@@ -1,0 +1,29 @@
+{
+  "slug": "manahen",
+  "name": "St. Manahen",
+  "feastDay": "05-23",
+  "bio": "Manahen, also called Manaen, was a teacher and prophet of the early Church at Antioch in the first century. The Acts of the Apostles names him among the prophets and teachers who, with Barnabas, Simeon called Niger, Lucius of Cyrene, and Saul, prayed and fasted before setting Paul and Barnabas apart for their first missionary journey.\n\nSacred Scripture notes that Manahen had been 'brought up' with Herod Antipas, the tetrarch who later imprisoned and put to death John the Baptist. Though reared alongside a ruler who rejected the prophets, Manahen walked the way of the Lord's prophets, serving the Church of Antioch with prayer and instruction.\n\nHe is honored as a patron of teachers and catechists, having taught the faith in the very city where the disciples were first called Christians.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "everyday"
+    },
+    {
+      "need": "catechists",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Manahen from the court of Herod to the school of the prophets at Antioch, grant through his intercession that teachers and catechists may instruct the faithful in the way of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manahen"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tychicus-of-chalcedon",
+  "name": "St. Tychicus of Chalcedon",
+  "feastDay": "unknown",
+  "bio": "Saint Tychicus was an Asiatic Christian who became one of the most trusted companions of the Apostle Paul. He is mentioned five times in the New Testament, where Paul calls him \"a beloved brother and faithful minister in the Lord\" and entrusts him with carrying letters between the churches.\n\nTychicus accompanied Paul from Macedonia to Jerusalem and was with the apostle during his imprisonment in Rome. Paul sent him to Ephesus and Colossae to encourage those churches and deliver the epistles to the Ephesians and Colossians, a living link that brought the Scriptures to God's people.\n\nTradition holds that he later became bishop of Chalcedon and died a martyr, having strengthened the faithful across Asia Minor. He is patron of messengers and of all who carry the Gospel across distance.",
+  "patronages": [
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Tychicus a faithful minister in the Lord and entrusted to him the delivery of the apostolic letters, grant through his intercession that travelers and all who carry Your word may be kept safe and may accomplish the work You give them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tychicus"
+  ],
+  "featured": false,
+  "draft": false
+}

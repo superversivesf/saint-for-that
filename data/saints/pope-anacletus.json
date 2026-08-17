@@ -1,0 +1,26 @@
+{
+  "slug": "pope-anacletus",
+  "name": "St. Anacletus",
+  "feastDay": "04-26",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Anacletus, also known as Cletus, was the third bishop of Rome, following Saints Peter and Linus in the apostolic succession. A Roman by birth, he served as pontiff in the closing years of the first century, and tradition credits him with ordaining a great number of priests and establishing about twenty-five parishes across the city of Rome.\n\nAlthough the precise dates of his pontificate are uncertain, he is recorded to have died a martyr, perhaps around the year 91. His name is enshrined in the Roman Canon of the Mass, where it is spoken alongside the earliest popes who gave their lives for the fledgling Church. His feast is kept on April 26.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who built your Church upon the rock of Peter and strengthened it through the martyrdom of Anacletus, grant through his intercession that priests may be faithful shepherds and that your people may persevere in the apostolic faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anacletus"
+  ],
+  "featured": false,
+  "draft": false
+}

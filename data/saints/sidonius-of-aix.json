@@ -1,0 +1,25 @@
+{
+  "slug": "sidonius-of-aix",
+  "name": "St. Sidonius of Aix",
+  "feastDay": "08-23",
+  "bio": "Saint Sidonius of Aix is traditionally held to be the successor of Saint Maximinus as Archbishop of Aix-en-Provence, shepherding the early Christian community of southern Gaul. His name, meaning \"from Sidon,\" points to a Phoenician origin, and tradition identifies him with one of the Syro-Phoenician crowd that followed Jesus through Tyre and Sidon.\n\nSome accounts hold that he was the blind man healed by the Lord, though this is more commonly associated with Saint Celidonius of Nîmes. Tradition honors him as a witness of Christ who carried the Gospel into Provence.\n\nAs archbishop he established the Church in Aix, gathering a flock among the peoples of Gaul. His feast is August 23, and he is patron of Aix-en-Provence and of all who seek the light of faith after dwelling in darkness.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Sidonius from the crowds of Sidon to be a shepherd of Your Church in Gaul, grant through his intercession that those who walk in darkness may see the light of Christ and that bishops may govern Your people with holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sidonius_of_Aix"
+  ],
+  "featured": false,
+  "draft": false
+}

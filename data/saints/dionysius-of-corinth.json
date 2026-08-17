@@ -1,0 +1,29 @@
+{
+  "slug": "dionysius-of-corinth",
+  "name": "St. Dionysius of Corinth",
+  "feastDay": "04-08",
+  "bio": "Dionysius served as Bishop of Corinth around the year AD 171, shepherding one of the most ancient sees of Christendom in the very city where St. Paul once preached. He guided the Corinthian church through the settled but watchful decades of the late second century, when the memory of the apostles was still fresh and the bonds between the churches of the Mediterranean were woven by letters and visits.\n\nEusebius of Caesarea records Dionysius as a pastoral bishop of note, one of that succession of shepherds who kept alive the apostolic tradition in Greece. His feast is commemorated on April 8, and he is honoured as a faithful witness in the long line of Corinthian bishops stretching back to the first generations of believers.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Dionysius to shepherd your Church at Corinth in the footsteps of the apostles, grant through his intercession that bishops and pastors may preserve the unity of the faith and hand on the teaching they have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dionysius_of_Corinth"
+  ],
+  "featured": false,
+  "draft": false
+}

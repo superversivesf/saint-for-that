@@ -1,0 +1,26 @@
+{
+  "slug": "artemas-saint",
+  "name": "St. Artemas",
+  "feastDay": "10-30",
+  "canonized": "Pre-Congregation",
+  "bio": "Artemas of Lystra was an early Christian saint named by the Apostle Paul in his Epistle to Titus, where Paul speaks of sending either Artemas or Tychicus to Crete. Honored in both the Eastern Orthodox and Roman Catholic Churches, he is believed to have served as Bishop of Lystra in Lycaonia and to have been numbered among the Seventy Disciples whom the Lord Jesus sent out to preach.\n\nHis brief mention in Scripture belies a life given to the consolidation and shepherding of churches in the difficult young mission fields of Asia Minor. His feast is kept on October 30, and he is remembered as one of that first generation of pastors who labored to ground the Gospel in the cities where Paul had planted it.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who chose Artemas from among the Seventy and entrusted to him the church of Lystra, grant through his intercession that bishops and pastors may be faithful stewards of the Gospel first preached by the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Artemas_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

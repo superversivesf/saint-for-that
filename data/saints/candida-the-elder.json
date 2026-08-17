@@ -1,0 +1,26 @@
+{
+  "slug": "candida-the-elder",
+  "name": "St. Candida the Elder",
+  "feastDay": "09-04",
+  "canonized": "Pre-Congregation",
+  "bio": "Candida the Elder was a legendary early Christian saint and a resident of Naples, Italy, venerated in both the Eastern Orthodox and Roman Catholic Churches. According to the local tradition of Naples, she was healed and converted by Saint Peter during his journey through Italy, and thereafter devoted her life and home to the service of the fledgling Christian community.\n\nShe is honored as one of the patron saints of Naples, and her memory is kept on September 4. Her longstanding and unusual patronage of dining clubs preserves a folk memory of her hospitality, recalling a woman whose table and home were opened wide to the apostles and to the poor alike.",
+  "patronages": [
+    {
+      "need": "homemakers",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who welcomed Candida the Elder into the company of the saints through the ministry of Peter, grant through her intercession that our homes may be places of hospitality and that all who set a table in your name may be blessed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Candida_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

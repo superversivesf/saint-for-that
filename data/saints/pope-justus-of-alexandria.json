@@ -1,0 +1,25 @@
+{
+  "slug": "pope-justus-of-alexandria",
+  "name": "St. Justus of Alexandria",
+  "feastDay": "06-19",
+  "bio": "Justus served as the sixth Pope and Patriarch of Alexandria, leading the Church of Egypt from 118 to 129 AD. According to tradition, he was among those baptized by St. Mark the Evangelist, together with his father and mother. Anianus, the second patriarch, ordained him deacon and then priest and entrusted him with preaching and teaching the people. St. Mark himself appointed Justus as the first Dean of the Catechetical School of Alexandria, the famed institution that shaped so much of early Christian learning. Honorable and learned, he was chosen to succeed Primus as patriarch and shepherded his people with the greatest care for ten years. He died on 19 June 129, in the reign of Hadrian, and was buried at Baucalis in Alexandria.",
+  "patronages": [
+    {
+      "need": "catechists",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who appointed St. Justus as the first dean of the catechetical school of Alexandria and raised him to shepherd your Church, grant through his intercession that teachers and learners alike may grow in the knowledge of your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Justus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "aristides-of-athens",
+  "name": "St. Aristides of Athens",
+  "feastDay": "08-31",
+  "bio": "Aristides of Athens was a 2nd-century Christian philosopher and one of the earliest apologists of the Church. Born into a cultured Athenian family, he embraced the faith in its first generations and set about defending it before the learned world of his day.\n\nHis surviving work, the Apology of Aristides, is among the oldest Christian writings outside the New Testament. Addressed to the Emperor Hadrian, it argues that Christians alone live the truth they profess, comparing their morals with those of Greeks, barbarians, and Jews. The text was lost to the West for centuries before a Syriac manuscript was recovered in the 19th century.\n\nAristides is honored as a model of reasoned defense of the faith, a witness that the gospel has always had thoughtful advocates among the philosophers.",
+  "patronages": [
+    {
+      "need": "philosophers",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aristides the wisdom to defend the faith before the rulers of this world, grant through his intercession that we may give an account of the hope that is in us with gentleness and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aristides_of_Athens"
+  ],
+  "featured": false,
+  "draft": false
+}

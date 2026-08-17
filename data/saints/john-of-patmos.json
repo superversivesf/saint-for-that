@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-patmos",
+  "name": "St. John of Patmos",
+  "feastDay": "unknown",
+  "bio": "John of Patmos is the name given by tradition to the author of the Book of Revelation, the last book of the Christian Bible. He was, by his own witness, a Christian prophet and teacher of the churches of Roman Asia, exiled to the rocky island of Patmos in the Aegean for the word of God and the testimony of Jesus.\n\nOn Patmos, on the Lord's Day, he was caught up in the visions he set down for the seven churches: the risen Christ, the throne of heaven, the Lamb that was slain, the triumph of God over every empire. His words have nourished the Church's hope from the first century to the last.\n\nHonored as a mystic and a witness of the things that must soon take place, John of Patmos is remembered among the saints who saw heaven opened.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who on the lonely island of Patmos opened heaven to your servant John and showed him the triumph of the Lamb, grant through his intercession that in every trial we may fix our eyes on the things that are above. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Patmos"
+  ],
+  "featured": false,
+  "draft": false
+}

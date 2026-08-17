@@ -1,0 +1,30 @@
+{
+  "slug": "papias-of-hierapolis",
+  "name": "St. Papias of Hierapolis",
+  "feastDay": "02-22",
+  "canonized": "Pre-Congregation",
+  "bio": "Papias of Hierapolis was a Greek Apostolic Father who served as Bishop of Hierapolis in Phrygia and lived from about AD 60 to 130. A careful collector of the living memory of the apostolic age, he gathered oral traditions about Jesus and his disciples from those who had known the Lord's immediate followers.\n\nHe compiled these in a now-lost five-volume work, the Exposition of the Sayings of the Lord, brief excerpts of which survive in Irenaeus of Lyons and Eusebius of Caesarea. These fragments remain an important early witness to Christian oral tradition and to the origins of the canonical Gospels.\n\nPapias is especially remembered for his insistence that he preferred the living voice of the apostles to anything he could read in books. His feast is kept on February 22.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired your bishop Papias to gather the sayings of your Son from those who had known him, grant through his intercession that the memory of the Gospel may be faithfully preserved and handed on in your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Papias_of_Hierapolis"
+  ],
+  "featured": false,
+  "draft": false
+}

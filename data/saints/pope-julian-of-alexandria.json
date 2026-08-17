@@ -1,0 +1,25 @@
+{
+  "slug": "pope-julian-of-alexandria",
+  "name": "St. Julian of Alexandria",
+  "feastDay": "03-17",
+  "bio": "Pope Julian, known in Coptic as Yulianus, served as the eleventh Pope and Patriarch of Alexandria, shepherding the Church of Egypt in the early centuries of the faith. Little detail has survived from his pontificate, but he stands in the succession of those bishops who, from the time of St. Mark the Evangelist, carried the Gospel through Alexandria and along the Nile into the hearts of the Egyptian people. The See of Alexandria was a center of learning and controversy, where the faith was articulated and defended against both pagan philosophy and heretical distortion. In this tradition Julian exercised his ministry, preserving the unity of the flock and handing on the teaching he had received.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Pope St. Julian to shepherd your flock in Alexandria, grant through his intercession that all who lead your people may preserve the unity of the Spirit in the bond of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Julian_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

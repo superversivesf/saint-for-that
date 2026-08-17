@@ -1,0 +1,22 @@
+{
+  "slug": "adheritus",
+  "name": "St. Adheritus",
+  "feastDay": "09-27",
+  "canonized": "Pre-Congregation",
+  "bio": "Adheritus was Bishop of Ravenna in the second century, the honored successor to Saint Apollinaris, the first bishop of that great Italian see. Of Greek origin and a devoted follower of Apollinaris, he carried forward the apostolic mission planted on the Adriatic coast, shepherding a young Christian community through the early centuries of Roman rule.\n\nAdheritus died on September 27 at the port of Classe, Ravenna's bustling harbor, and his remains were laid to rest in the Basilica of Sant'Apollinare in Classe, where they are venerated to this day. He is remembered as a faithful bridge between the apostolic age and the settled Church, a patron of the priests who serve where the Gospel was first preached.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Adheritus a faithful successor to the apostolic line of Ravenna and a shepherd of your people in the early days of the Church, grant through his prayers that the pastors of your flock may serve with the same devotion and keep the faith undefiled. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adheritus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dathus",
+  "name": "St. Dathus",
+  "feastDay": "07-03",
+  "bio": "Saint Dathus, also called Datus, was Bishop of Ravenna in the late second century. He is counted among the early shepherds of that great Italian see, which would become one of the most illustrious churches of the early Middle Ages.\n\nThe tradition of Ravenna tells that he was elected to succeed Bishop Probus I by a striking sign: when the clergy and people gathered to choose a successor, a dove appeared and rested above his head, marking him out as the one chosen by the Holy Spirit. Such stories of divine election, common in the early Church, spoke of the conviction that bishops were called not by human vote alone but by God himself.\n\nDathus is honored as one of the early bishops of Ravenna, where his memory was long kept. His feast is celebrated on July 3.",
+  "patronages": [
+    {
+      "need": "seminarians",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who marked your servant St. Dathus with the sign of your Spirit and called him to be a shepherd of your people, grant through his intercession that those chosen for holy orders may be led by your grace and not by human will alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dathus"
+  ],
+  "featured": false,
+  "draft": false
+}

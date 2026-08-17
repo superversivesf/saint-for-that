@@ -1,0 +1,25 @@
+{
+  "slug": "benjamin-of-jerusalem",
+  "name": "St. Benjamin of Jerusalem",
+  "feastDay": "unknown",
+  "bio": "Benjamin I of Jerusalem was the sixth bishop of the Holy City in the second century, a Jewish Christian who, according to Eusebius of Caesarea, shepherded the small community of believers in the years immediately after the apostles.\n\nHis episcopacy was brief, lasting only about a year, around 116 to 117 AD. Eusebius records that he may have been killed in the persecution under the Emperor Hadrian, whose reign stretched from 117 to 138. If so, Benjamin belongs to that first line of bishops of Jerusalem who sealed their ministry with their blood.\n\nHis memory was long kept in the calendars of the East, where his feast was noted on December 11. He is honored as a successor of the apostles and a witness to the continuity of the Church in the city where Christ died and rose.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Benjamin to be a faithful shepherd of your Church in Jerusalem and to bear witness even to death, grant through his intercession that we may stand firm in the faith delivered to the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benjamin_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dionysius-of-vienne",
+  "name": "St. Dionysius of Vienne",
+  "feastDay": "05-08",
+  "bio": "Dionysius was among the ten missionaries dispatched by Pope St. Sixtus I to evangelize Gaul, journeying westward with St. Peregrinus to plant the faith in a land still largely pagan. After laboring faithfully in the mission fields of Gaul, he succeeded St. Justus as Bishop of Vienne in Dauphiné, France, where he shepherded the young Christian community through a formative and perilous age.\n\nAs bishop he preserved the faith handed down from the apostles and strengthened the Church in the Rhône valley at a time when persecution was an ever-present danger. Honoured as a hieromartyr in both the Eastern and Western traditions, Dionysius stands among the earliest witnesses to Christ in Gaul, a foundation upon which later generations of French saints would build.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "travel"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop St. Dionysius to proclaim the Gospel in the fields of Gaul and to lay the foundation of your Church at Vienne, grant through his intercession that missionaries may labour with the same zeal and that your faithful may stand firm in the faith once delivered to the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dionysius_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

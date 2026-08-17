@@ -1,0 +1,25 @@
+{
+  "slug": "ilid",
+  "name": "St. Ilid",
+  "feastDay": "unknown",
+  "bio": "Saint Ilid is a semi-legendary saint of Wales, remembered in British tradition as one of the first bearers of the Christian faith to the island of Britain. He is called a man of Israel, born Jewish, and in some tales he is said to have returned from Rome with Caratacus and the holy family of Caractacus, founding a religious college of twelve called Cor Eurgain.\n\nSome later writers, fond of elaborate invention, even identified Ilid with Joseph of Arimathea, weaving his story into the ancient longing that the Gospel reached Britain in the very age of the apostles. The village of Llanilid preserves his name, its parish church still dedicated to him.\n\nThough legend and history are hard to separate in his story, Ilid is honored as a sign of the early entry of the Christian faith into Wales.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence sent Ilid to bear the name of your Son to the island of Britain, grant through his intercession that every land may welcome the Gospel and that every people may be gathered into your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ilid"
+  ],
+  "featured": false,
+  "draft": false
+}

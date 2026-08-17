@@ -1,0 +1,30 @@
+{
+  "slug": "philip-of-gortyna",
+  "name": "St. Philip of Gortyna",
+  "feastDay": "04-11",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Philip of Gortyna was Bishop of Gortyna on the island of Crete in the second century. Little is known of the details of his life, but he is remembered as one of the early apologists of the Christian faith who laboured to defend the Gospel against the errors of his age.\n\nHe wrote a now-lost treatise against the Gnostics, composed in the time of Marcus Aurelius against the teachings of Marcion. This work placed him among the earliest defenders of the orthodox faith, contending for the truth handed down from the apostles against novel doctrines that sought to divide the Church.\n\nHe was mentioned with great praise by Dionysius of Corinth in one of his letters to the Christian community at Gortyna. He is commemorated on April 11, though the Church of Crete keeps his feast on October 8.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Philip the wisdom to defend the Gospel against the errors of his age, grant through his intercession that your Church may ever be guarded in the truth handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philip_of_Gortyna"
+  ],
+  "featured": false,
+  "draft": false
+}

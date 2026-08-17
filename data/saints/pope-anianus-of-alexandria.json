@@ -1,0 +1,26 @@
+{
+  "slug": "pope-anianus-of-alexandria",
+  "name": "St. Anianus of Alexandria",
+  "feastDay": "04-25",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Anianus was the second Patriarch of Alexandria, ordained by Saint Mark the Evangelist to succeed him in shepherding the Egyptian Church. Tradition recounts that Anianus was the very first convert Saint Mark won to Christianity in the region, making him both the firstfruits of the Alexandrian church and its second shepherd.\n\nAs a shoemaker by trade, he is remembered as the patron of cobblers and shoemakers, a humble craftsman elevated by grace to the chair of one of the great patriarchates. His life testifies to the way the Gospel took root among ordinary working people of the ancient world and blossomed into a church that would shape Christian theology for centuries.",
+  "patronages": [
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the cobbler Anianus from his bench to the See of Alexandria, grant through his intercession that all who labor with their hands may know the dignity of their calling and that your Church may be built up by the humble and the faithful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anianus_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

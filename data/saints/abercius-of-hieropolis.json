@@ -1,0 +1,26 @@
+{
+  "slug": "abercius-of-hieropolis",
+  "name": "St. Abercius of Hieropolis",
+  "feastDay": "10-22",
+  "canonized": "Pre-Congregation",
+  "bio": "Abercius of Hieropolis was a Christian bishop of Hierapolis in Phrygia during the reign of the emperor Marcus Aurelius, revered as the successor to the apostolic-era bishop Papias. Ancient sources identify him with Avircius Marcellus, author of the celebrated Abercius inscription—one of the oldest Christian inscriptions to survive from antiquity, a poetic testament carved in stone proclaiming faith in Christ the Shepherd.\n\nHonored as a tireless shepherd in the days when the Church was young and beset by persecution, Abercius is remembered for his steadfast witness to the Gospel in the Greek-speaking East. His feast is kept on October 22, and he is invoked as a patron of missionaries and theologians who carry the faith to new lands and defend it with learning and love.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "travel"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Abercius a faithful shepherd of your Church in Hierapolis and inspired him to confess your name in stone for ages to come, grant through his intercession that we may proclaim your truth with the same constancy and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abercius_of_Hieropolis"
+  ],
+  "featured": false,
+  "draft": false
+}

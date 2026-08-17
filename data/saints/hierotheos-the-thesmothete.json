@@ -1,0 +1,25 @@
+{
+  "slug": "hierotheos-the-thesmothete",
+  "name": "St. Hierotheos the Thesmothete",
+  "feastDay": "10-04",
+  "bio": "Hierotheos the Thesmothete is honored in Christian tradition as the first head and bishop of the Athenian church. His title, thesmothete, names one of the junior archons of Athens, a magistrate charged with setting down the laws of the city.\n\nAccording to the ancient witness of Dionysius the Areopagite, Hierotheos was a learned judge who was moved by the preaching of the Apostle Paul and consecrated to shepherd the new community of believers in the city of philosophers. Later traditions tell of his hymns and his vision of the mysteries of Christ.\n\nAs the first bishop of Athens, Hierotheos stands at the head of a long line of pastors who carried the Gospel into the world of Greek learning.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Hierotheos the first bishop of Athens and a herald of your wisdom among the philosophers, grant through his intercession that the learning of the world may be gathered to the foot of the cross. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hierotheos_the_Thesmothete"
+  ],
+  "featured": false,
+  "draft": false
+}

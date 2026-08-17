@@ -1,0 +1,25 @@
+{
+  "slug": "balbina-of-rome",
+  "name": "St. Balbina of Rome",
+  "feastDay": "03-31",
+  "bio": "Saint Balbina is venerated as a virgin martyr of the Church of Rome. Her story, passed down through medieval passiones, tells of a daughter of the tribune Quirinus who, after his conversion, was given the chains that had bound St. Peter and was healed of a scrofulous swelling of the throat upon touching them.\n\nAs the Catholic Encyclopedia notes, what survives of her legend is more pious romance than sober history. Yet the devotion around her was deeply rooted in Roman memory: a titulus church on the Aventine was dedicated under her name by the seventh century.\n\nBalbina has been invoked for centuries by those suffering from throat diseases, scrofula, and goitre, a patron of the sick who trust that holiness may be found in the quiet corners of the Church's memory.",
+  "patronages": [
+    {
+      "need": "throat ailments",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the intercession of St. Balbina have granted healing to those who suffer in body, look kindly on our infirmities and restore us to health of mind and body, that we may praise you all our days. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balbina_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

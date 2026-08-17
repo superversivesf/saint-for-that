@@ -1,0 +1,25 @@
+{
+  "slug": "parrobus-of-pottole",
+  "name": "St. Parrobus of Pottole",
+  "feastDay": "11-05",
+  "bio": "Patrobas, called also Patrobos or Parrobus, is numbered among the Seventy Disciples sent out by Christ to preach the kingdom of God. The Apostle Paul greets him by name in the sixteenth chapter of his Epistle to the Romans, writing: 'Salute Patrobas, Hermas, and the brethren that are with them.'\n\nTradition holds that he served as bishop of Neapolis, or according to some accounts of Pottole, shepherding one of the first Christian communities of the Greek world. The Church remembers him on November 5, together with his fellow apostles Hermas, Linus, Gaius, and Philologos, companions of the apostolic age.\n\nHe is honored as a patron of priests and preachers, who like him carry the Word to the cities of the nations.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered Saint Patrobas among the Seventy and greeted him by name through your Apostle Paul, grant through his intercession that priests and preachers may carry the Word to the cities of the nations with faithful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Parrobus_of_Pottole"
+  ],
+  "featured": false,
+  "draft": false
+}

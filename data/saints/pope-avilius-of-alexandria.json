@@ -1,0 +1,22 @@
+{
+  "slug": "pope-avilius-of-alexandria",
+  "name": "St. Avilius of Alexandria",
+  "feastDay": "02-22",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Avilius of Alexandria was the third Patriarch of Alexandria, standing in the succession that ran from Saint Mark to Anianus and then to him. Shepherding the Egyptian church in the closing years of the first century, he governed a see that was still in its apostolic youth but already growing into one of the most influential centers of Christian learning and devotion in the ancient world.\n\nHis feast is kept on February 22. Though the historical record of his pontificate is sparse, his place in the unbroken line of Alexandrian patriarchs testifies to the continuity of the Gospel in Egypt from the days of Mark the Evangelist onward, carried forward by faithful shepherds in a time of quiet growth.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the apostolic succession of Alexandria through Avilius and his predecessors, grant through his intercession that the shepherds of your Church may guard the faith handed on from the beginning and hand it on uncorrupted to those who come after. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Avilius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "deruvian",
+  "name": "St. Deruvian",
+  "feastDay": "unknown",
+  "bio": "Deruvian, also known by several other names including Damian, is a possibly legendary second-century bishop and saint, said to have been sent by the Pope to answer King Lucius of Britain's request for baptism and conversion to Christianity. Together with his companion St. Fagan, he was sometimes reckoned as an apostle of Britain.\n\nThe story of King Lucius's conversion does not appear in surviving sources before the sixth century, and the names of the bishops sent to him are first found in the early twelfth century, when the tale was used to support the independence of the bishops of St. Davids in Wales and the antiquity of Glastonbury Abbey.\n\nDeruvian is honored as a witness, however shadowy, to the planting of the faith in Britain.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "travel"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servants Fagan and Deruvian to proclaim your gospel in the lands of Britain, whether in fact or in faithful memory, grant through their intercession that the Church in those lands may never lose the faith first preached among her people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deruvian"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "saints-faith-hope-and-charity",
+  "name": "Sts. Faith, Hope and Charity",
+  "feastDay": "08-01",
+  "bio": "Saints Faith, Hope, and Charity are among the most beloved of the early Roman martyrs, venerated together with their mother Sophia, whose name in Greek means \"Wisdom.\" According to tradition, Sophia raised her three daughters in the Christian faith during the persecutions under Emperor Hadrian. When the young maidens were summoned before the authorities, each confessed Christ with steadfast courage — Faith first, then Hope, and finally the youngest, Charity. All three were put to death for refusing to sacrifice to the Roman gods. Sophia buried her daughters and remained at their graves praying for three days, until she too surrendered her soul to God. The four are honored together as a witness that the theological virtues were embodied, even in childhood, with the wisdom of the cross.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the young maidens Faith, Hope, and Charity with the palm of martyrdom and gave their mother Sophia the wisdom to rejoice in their triumph, grant through their intercession that we may so live in these virtues that we may come to the eternal reward you have promised. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saints_Faith%2C_Hope_and_Charity"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "felicitas-of-rome",
+  "name": "St. Felicitas of Rome",
+  "feastDay": "11-23",
+  "bio": "Felicitas of Rome, also known as Felicity, is honored as one of the most celebrated martyrs of the ancient Church. The only certain historical detail is that she was buried in the Cemetery of Maximus on the Via Salaria, her feast kept on November 23. An ancient legend presents her as a devout Roman widow and mother of seven sons, all of whom suffered martyrdom for Christ. Confronted by Roman officials and urged to sacrifice to the gods, Felicitas refused, and one by one her sons were put to death before her eyes, each encouraged by their mother to remain firm. After witnessing their crowns, she herself was slain. Her example of maternal courage made her one of the most venerated martyrs of the early centuries, and her name was inserted into the Roman Canon of the Mass.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Felicitas the grace to see her sons crowned as martyrs and to follow them in fidelity to Christ, grant through her intercession that parents who mourn the loss of children may find comfort in the hope of the resurrection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

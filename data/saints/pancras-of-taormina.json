@@ -1,0 +1,21 @@
+{
+  "slug": "pancras-of-taormina",
+  "name": "St. Pancras of Taormina",
+  "feastDay": "04-03",
+  "bio": "Pancras, or Pancratius, is an Italian saint of the early Church associated with Taormina in Sicily, where he is venerated as a Christian martyr. His surviving hagiography is purely legendary in character, yet his name is recorded in certain early martyrologies, witnessing to an ancient devotion.\n\nAccording to the tradition, Pancras was sent from Antioch to preach the Gospel in Sicily and became the first bishop of Taormina. There he is said to have converted many by his preaching and to have suffered death for his confession of Christ.\n\nHe is honored as the patron of Taormina and of Canicattì, and his feast is kept on April 3. Though the details of his life rest on legend, the Church remembers him as a witness who gave his life for the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Pancras the courage to confess your Son in Sicily and to shed his blood for the name of Christ, grant through his intercession that all who suffer for the faith may stand firm in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pancras_of_Taormina"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "matthias-of-jerusalem",
+  "name": "St. Matthias of Jerusalem",
+  "feastDay": "01-30",
+  "bio": "Matthias of Jerusalem was a second-century Christian saint and bishop of Jerusalem, whose episcopacy spanned roughly the years 113 to 120 AD. He was likely a Jewish Christian and governed the Church during a time of great turmoil, caught between Roman persecution of Christians and a Jewish uprising against the empire. According to Eusebius of Caesarea, he was persecuted under the Emperor Hadrian, yet he is said to have died in peace around the year 120. He belongs to that early line of bishops of Jerusalem who, descending from James the brother of the Lord, shepherded the first Christian community in the city where Christ himself had suffered and risen. His feast is kept on 30 January.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Matthias grace to govern the Church of Jerusalem in a time of persecution and unrest, grant through his intercession that your people may find peace amid turmoil and remain faithful to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matthias_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

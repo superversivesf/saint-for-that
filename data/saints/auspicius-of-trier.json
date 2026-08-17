@@ -1,0 +1,29 @@
+{
+  "slug": "auspicius-of-trier",
+  "name": "St. Auspicius of Trier",
+  "feastDay": "07-08",
+  "bio": "Auspicius is remembered as an early bishop of the Rhineland, listed by tradition as the successor of St. Maternus on the see of Trier in what is now Germany. Some ancient authorities, however, identify him instead with a fifth-century bishop of Toul in Francia.\n\nThe Trier tradition places him in the first Christian generations of the Roman province of Gaul, when the faith was still new and the bishops of Trier were building up the Church along the Moselle. His memory was long kept in the diocese, where he was invoked among the early shepherds who planted the gospel in Germanic lands.\n\nThough the details of his life are obscure, Auspicius stands among the bishops who carried the faith from the cities of the empire into the heart of Europe. He is honored on July 8.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "travel"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Auspicius to shepherd your people in the early days of the Church in the Rhineland, grant through his intercession that the bishops of our own day may be faithful guides and the lands of Europe may abound in the fruits of the gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auspicius_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

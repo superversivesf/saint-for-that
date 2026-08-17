@@ -1,0 +1,25 @@
+{
+  "slug": "strataes",
+  "name": "St. Strataes",
+  "feastDay": "unknown",
+  "bio": "Saint Strataes was a bishop of Smyrna in the first century, one of the earliest shepherds to serve that city on the coast of Asia Minor. Smyrna, which would later produce Saint Polycarp and earn the Lord's praise in Revelation, was among the first to receive the Gospel, and Strataes stands among its founders.\n\nLittle is recorded of him beyond his office and century, but this brevity speaks to the quiet heroism of the apostolic age, when bishops labored in obscurity to gather a people for God. He would have presided over the Eucharist in a house church, instructed catechumens, and guarded the community against pagan cults.\n\nHis memory is preserved in the martyrologies of the East, which honor him as a confessor of the first days. He is patron of bishops and of all who serve in unseen ways.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Strataes to shepherd Your people in Smyrna in the dawn of the Church, grant through his intercession that all who serve in obscurity may know that their labor is seen by You and bear fruit in Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Strataes"
+  ],
+  "featured": false,
+  "draft": false
+}

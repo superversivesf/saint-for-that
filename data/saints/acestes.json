@@ -1,0 +1,30 @@
+{
+  "slug": "acestes",
+  "name": "St. Acestes",
+  "feastDay": "07-02",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Acestes was one of three Roman soldiers charged with escorting the Apostle Paul to the place of his execution in Rome. According to the traditional account, moved by Paul's witness and preaching, the soldiers came to faith in Christ and suffered martyrdom themselves rather than deny what they had come to believe.\n\nAcestes and his companions are commemorated on July 2 and were venerated before the formal canonization process. Their conversion stands as a testimony to the power of the Gospel to reach even those tasked with carrying out the Empire's death sentences, and their martyrdom binds them to the apostle whose final journey they escorted.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the witness of your Apostle Paul won the heart of the soldier Acestes and led him to a martyr's crown, grant through his intercession that all who serve in arms may be converted to the Gospel of peace and bear witness to it with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Acestes"
+  ],
+  "featured": false,
+  "draft": false
+}

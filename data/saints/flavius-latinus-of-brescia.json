@@ -1,0 +1,21 @@
+{
+  "slug": "flavius-latinus-of-brescia",
+  "name": "St. Flavius Latinus of Brescia",
+  "feastDay": "03-24",
+  "bio": "Flavius Latinus of Brescia is remembered as a Christian martyr who suffered during the persecutions ordered by the Emperor Trajan in the early second century. Little is recorded of his life beyond the testimony of his death, yet the Church has preserved his name as a witness to the courage of the first generations who professed Christ at the cost of their blood. According to local tradition at Brescia in northern Italy, Flavius Latinus held firm in the faith when imperial edicts demanded that all subjects sacrifice to the Roman gods and the genius of the emperor. Refusing to deny his Lord, he received the crown of martyrdom. His memory was kept alive by the Christian community of Brescia, which honored him among the earliest confessors of that city.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Flavius Latinus the courage to confess your name before the powers of this world, grant through his intercession that we may remain steadfast in the faith and faithful to your commandments. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavius_Latinus_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

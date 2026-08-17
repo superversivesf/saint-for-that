@@ -1,0 +1,30 @@
+{
+  "slug": "oliva-of-brescia",
+  "name": "St. Oliva of Brescia",
+  "feastDay": "03-05",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Oliva of Brescia is honoured as an early Christian martyr who suffered death under the Emperor Hadrian around the year 138. According to the tradition preserved at Brescia, she was put to death for refusing to renounce her faith in Christ, joining the noble company of the martyrs of the second century.\n\nHer relics have long been venerated at Saint Afra's Church in Brescia, Italy, where the faithful have gathered for centuries to honour her sacrifice. The church itself, one of the most ancient in the city, stands as a witness to the enduring devotion she has inspired.\n\nHer feast is kept on March 5. Saint Oliva is remembered as one of the earliest witnesses to the Gospel in northern Italy, whose blood testifies to the faith of the first generations of Christians.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin Oliva with the palm of martyrdom under the persecution of Hadrian, grant through her intercession that we may remain steadfast in confessing your name whatever trials may come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oliva_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}
