@@ -1,0 +1,29 @@
+{
+  "slug": "pope-alexander-i-of-alexandria",
+  "name": "St. Alexander I of Alexandria",
+  "feastDay": "02-26",
+  "bio": "Alexander I served as the nineteenth Patriarch of Alexandria, leading the Church of Egypt during a pivotal period of Christian history. His patriarchate was marked by challenges that shaped the future of the faith: the disputed dating of Easter, the actions of Meletius of Lycopolis, and above all the rise of Arianism, the teaching of Arius that denied the divinity of the Son of God. Alexander confronted each crisis with theological clarity and emerged as a principal leader of the orthodox opposition to Arianism at Nicaea in 325. He also mentored his deacon Athanasius, who would succeed him and become one of the greatest defenders of the faith. Honored on February 26, he is remembered as a pillar of orthodoxy. His life testifies to the vigilance of those who guard the truth of Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Patriarch Alexander of Alexandria to defend the divinity of Your Son against the errors of his age, grant through his intercession that Your Church may ever hold fast to the truth of Christ and be preserved from every doctrine that would diminish His glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Alexander_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

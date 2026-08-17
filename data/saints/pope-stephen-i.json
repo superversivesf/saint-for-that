@@ -1,0 +1,29 @@
+{
+  "slug": "pope-stephen-i",
+  "name": "St. Stephen I",
+  "feastDay": "08-02",
+  "bio": "Pope Stephen I served as Bishop of Rome from 12 May 254 until his death on 2 August 257, guiding the Church through a period of doctrinal dispute and external threat. He defended the apostolic tradition against those who would deny the validity of baptism administered by heretics, insisting that the sacrament's power flowed from Christ rather than the worthiness of the minister.\n\nAccording to later accounts Stephen was killed while celebrating Mass, struck down as he stood at the altar, and so honored as a martyr of the Roman see. His feast on 2 August recalls a shepherd who gave his life at the very altar of sacrifice. He is invoked among the popes and martyrs who built up the Church in its early and perilous centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Stephen I to preside over your Church in truth and crowned his ministry with martyrdom at the altar, grant through his intercession that bishops and priests may stand firm in the faith and offer their lives in your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Stephen_I"
+  ],
+  "featured": false,
+  "draft": false
+}

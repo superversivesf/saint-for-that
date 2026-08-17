@@ -1,0 +1,25 @@
+{
+  "slug": "sixtus-of-reims",
+  "name": "St. Sixtus of Reims",
+  "feastDay": "09-01",
+  "bio": "Saint Sixtus of Reims is honored as the first bishop of that great see, which would later crown the kings of France. According to the ninth-century account of Archbishop Hincmar, Sixtus was sent from Rome by Pope Sixtus II to assist in the Christianizing of Gaul. Another tradition, anachronistic but beloved, made him a disciple of St. Peter himself.\n\nTogether with his companion St. Sinicius, Sixtus established the Christian sees of Reims and Soissons, laying the groundwork for the Church in northern Gaul. One source notes that \"it would appear that Sixtus did not die as a martyr, despite the severity of the persecution during the era,\" marking him as a confessor rather than a martyr. His feast on 1 September recalls the patient, founding labor of those who brought the Gospel to new lands.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Sixtus of Reims to be the first shepherd of that see and to plant the faith in Gaul, grant through his intercession that the bishops and missionaries of your Church may build wisely upon the foundation of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sixtus_of_Reims"
+  ],
+  "featured": false,
+  "draft": false
+}

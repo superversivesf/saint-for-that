@@ -1,0 +1,29 @@
+{
+  "slug": "vibiana",
+  "name": "St. Vibiana",
+  "feastDay": "09-01",
+  "bio": "Saint Vibiana is a third-century virgin and martyr of the Roman Catholic Church, one of the early Roman saints whose relics were discovered in the catacombs and brought to new veneration in the modern era. Tradition holds that she suffered martyrdom for the faith during one of the persecutions of the third century, remaining steadfast in her consecration to Christ.\n\nHer relics were solemnly translated and enshrined, and she was chosen as the patroness of the Archdiocese of Los Angeles, where her memory is honored to this day. Her liturgical feast is kept on September 1, and she is invoked as a model of purity and courageous witness for the Church in the New World as in the Old.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin martyr Saint Vibiana with the palm of victory, grant through her intercession that we may keep our hearts pure and confess your name with unfailing courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vibiana"
+  ],
+  "featured": false,
+  "draft": false
+}

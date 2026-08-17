@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-the-poor",
+  "name": "St. Abraham the Poor",
+  "feastDay": "10-27",
+  "bio": "Abraham the Poor was a fourth-century Egyptian hermit who withdrew into the desert to devote himself entirely to prayer, fasting, and the contemplation of God. Counted among the early Desert Fathers, he embraced a life of radical poverty and solitude, seeking nothing but the Lord. Few details of his life have survived beyond the witness of the ancient martyrologies, yet his very title—\"the Poor\"—testifies to the virtue for which he was remembered: a complete detachment from worldly goods and a heart wholly given to God. Honored on October 27, he stands among that great company of hidden saints who made the Egyptian wilderness the cradle of Christian monasticism. His life speaks to the enduring value of silence, simplicity, and trust in divine providence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abraham the Poor to seek You in the barren places of the desert with nothing but faith, grant through his intercession that we may learn to treasure the things of heaven above the things of earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_the_Poor"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "quintus-of-phrygia",
+  "name": "St. Quintus of Phrygia",
+  "feastDay": "03-02",
+  "bio": "Quintus, called the Wonder-Worker, was born in Phrygia to a Christian family in the days when the Gospel was still young in Asia Minor. From his youth he gave himself to prayer and to the service of the poor, and the grace of healing and deliverance rested upon him.\n\nAt Aeolia he labored among the poor and the sick. At Cyme the governor Rufus ordered him, by the decree of Aurelian, to sacrifice to the Roman gods. When Quintus refused, Rufus was himself seized by a demon, and the saint freed him by his prayers. An earthquake shook the pagan temple and cast down the idols, and so the governor released him.\n\nThough tortured for Christ, Quintus did not die of his wounds, and so he is honored as a confessor. His feast is kept on 2 March.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "earthquakes",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Quintus power to heal the sick, cast out demons, and stand firm when the earth shook, grant through his intercession that the poor may be relieved, the afflicted healed, and your people preserved from every peril. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quintus_of_Phrygia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sinicus",
+  "name": "St. Sinicus",
+  "feastDay": "unknown",
+  "bio": "Sinice, or Saint Sinicus, was a third-century bishop and one of the early evangelists of Gaul. According to tradition he was a companion of St. Sixtus, whom Pope Sixtus II sent from Rome to preach the Gospel in the region of Reims. Together they established the Christian sees of Reims and Soissons, planting the faith in lands still largely pagan.\n\nSinice is remembered as Bishop of Soissons, and in some accounts as the successor of Sixtus in the see of Reims. Little else of his life has come down to us, yet his labors helped lay the foundation of the Church in northern Gaul, a work that would bear fruit in the great sees of later centuries. He is honored as one of the first shepherds of the Church in France, a quiet builder of the faith in uncertain times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Sinicus to proclaim the Gospel in the lands of Gaul and to build up your Church there, grant through his intercession that missionaries and bishops may labor with the same zeal and plant the faith anew in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sinicus"
+  ],
+  "featured": false,
+  "draft": false
+}

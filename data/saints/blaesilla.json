@@ -1,0 +1,25 @@
+{
+  "slug": "blaesilla",
+  "name": "St. Blaesilla",
+  "feastDay": "01-22",
+  "bio": "Saint Blaesilla, also known as Blesilla, was a Roman widow and disciple of Saint Jerome. Born into a wealthy senatorial family in 364, she was the eldest daughter of Paula of Rome and sister of Eustochium, members of that circle of devout Christian women who gathered around Jerome in Rome. Blaesilla was widowed at only eighteen and at first enjoyed the freedoms of widowhood. After a life-threatening fever, however, she was transformed into a severe ascetic, embracing fasting and prayer under Jerome's direction. Her austerities dramatically weakened her already fragile health, and she died within four months at the age of twenty, in the year 384, leaving Jerome and her mother Paula grief-stricken.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Blaesilla to follow the way of ascetic discipline under the guidance of Saint Jerome, grant through her intercession that we may turn from worldly comfort and seek you with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blaesilla"
+  ],
+  "featured": false,
+  "draft": false
+}

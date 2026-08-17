@@ -1,0 +1,25 @@
+{
+  "slug": "abrosima",
+  "name": "St. Abrosima",
+  "feastDay": "04-22",
+  "bio": "Abrosima, also recorded as Abrosimus, was a Persian Christian priest who suffered martyrdom for the faith during the persecutions that swept through the Persian Empire under the Sassanian rulers. In an age when confessing Christ in Persia meant courting death, he faithfully ministered to the Christian community as a priest, celebrating the sacraments and strengthening the faithful amid growing hostility. When the storm of persecution broke, he refused to abandon his flock or deny his Lord, and he was put to death for his steadfast confession. Honored on April 22, he is remembered as one of the many Persian martyrs whose blood watered the Church of the East. His witness testifies to the courage of the early clergy who counted no cost too great for the Gospel.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the priest Abrosima to confess Your name unto death in the land of Persia, grant through his intercession that all who serve at Your altar may stand firm in faith and give their lives wholly to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abrosima"
+  ],
+  "featured": false,
+  "draft": false
+}

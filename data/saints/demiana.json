@@ -1,0 +1,30 @@
+{
+  "slug": "demiana",
+  "name": "St. Demiana",
+  "feastDay": "01-21",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Demiana was a Coptic virgin and martyr of the early fourth century. According to the tradition of the Egyptian Church, she was the daughter of a Roman governor who, after the death of her mother, devoted herself to Christ and gathered around her forty virgins in a convent of prayer.\n\nWhen her father, having apostatised, sought to draw her away from the faith, Demiana refused and was subjected to cruel tortures, yet she would not deny her Lord. She and her companions were put to death and are honoured on January 21. She is invoked as a patron of virgins and of all who remain steadfast under persecution.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Demiana and her forty companions strength to die for the faith, grant through her intercession that all who face persecution may remain steadfast and that the witness of your martyrs may renew your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demiana"
+  ],
+  "featured": false,
+  "draft": false
+}

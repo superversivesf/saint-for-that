@@ -1,0 +1,29 @@
+{
+  "slug": "achillius-of-larissa",
+  "name": "St. Achillius of Larissa",
+  "feastDay": "05-15",
+  "bio": "Saint Achillius of Larissa, also known as Saint Achilles, was a fourth-century bishop of Larissa in Thessaly and one of the 318 fathers who gathered at the First Council of Nicaea in 325. As a bishop he shepherded his flock through the difficult years that followed the end of persecution, defending the orthodox faith against the Arian heresy that threatened to divide the Church. His presence at Nicaea, where the council affirmed the divinity of Christ, links him to one of the most decisive moments in Christian history. Tradition holds that he was a zealous pastor and a tireless preacher of the truth of Scripture. Honored on May 15, he is remembered as a defender of the faith and a father of the Councils. His life testifies to the courage of those who guard the truth of Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Bishop Achillius of Larissa to confess the divinity of Your Son at the Council of Nicaea, grant through his intercession that Your Church may ever hold fast to the truth and be defended against every error. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Achillius_of_Larissa"
+  ],
+  "featured": false,
+  "draft": false
+}

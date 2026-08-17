@@ -1,0 +1,29 @@
+{
+  "slug": "abraham-of-cyrrhus",
+  "name": "St. Abraham of Cyrrhus",
+  "feastDay": "02-14",
+  "bio": "Saint Abraham, also known as Abraham of Charres and the Apostle of Lebanon, was a Syrian hermit and bishop of Harran who lived in the early centuries of the Church. Drawn to the solitary life, he first withdrew into the wilderness to seek God in silence and ascetic struggle, but his holiness became known and he was drawn out to serve the Church as a bishop. According to tradition, he undertook missionary journeys through the region of Lebanon, bringing the Gospel to communities that had not yet heard it, and so earned the title of Apostle of Lebanon. Honored on February 14, he is remembered as one who joined the contemplative love of the hermit with the pastoral zeal of the bishop, showing that prayer and mission are one movement of grace.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led Abraham of Cyrrhus from the solitude of the desert to the labors of the bishop, that he might bring the Gospel to the people of Lebanon, grant through his intercession that we may unite prayer with action in the service of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Cyrrhus"
+  ],
+  "featured": false,
+  "draft": false
+}

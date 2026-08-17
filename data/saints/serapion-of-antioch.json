@@ -1,0 +1,25 @@
+{
+  "slug": "serapion-of-antioch",
+  "name": "St. Serapion of Antioch",
+  "feastDay": "10-30",
+  "bio": "Serapion of Antioch served as Patriarch of Antioch in the early centuries of the Church, one of the great apostolic sees of the East. He is known primarily through his theological writings, though all but a few fragments of his works have perished with time. What survives testifies to a learned pastor who labored to shepherd his flock through the doctrinal storms of the age and to defend the faith handed down from the apostles.\n\nThough details of his life are scarce, his memory endured among the faithful of Antioch, who honored him as a faithful bishop and teacher. His feast on 30 October recalls his witness to the continuity of apostolic teaching and the quiet, persevering labor of those who built up the Church in its earliest and most uncertain days.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Serapion of Antioch as a faithful pastor and teacher in the apostolic see, grant through his intercession that the bishops of your Church may preserve the truth handed down from the apostles and guide your people in unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Serapion_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

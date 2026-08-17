@@ -1,0 +1,30 @@
+{
+  "slug": "cyril-of-jerusalem",
+  "name": "St. Cyril of Jerusalem",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Cyril of Jerusalem was a distinguished theologian of the early Church who became Bishop of Jerusalem around the year 350. His long episcopate was marked by repeated exiles, brought on by the hostility of Acacius of Caesarea and the shifting policies of emperors, yet he remained a faithful shepherd of the holy city's flock.\n\nCyril's lasting gift to the Church is his writings, especially the Catechetical Lectures, which record how catechumens were prepared for baptism and how the liturgy was celebrated in his day. Venerated as a saint and a Doctor of the Church, he is honoured as a guide for all who teach the faith and lead others into the mysteries of Christ.",
+  "patronages": [
+    {
+      "need": "catechists",
+      "category": "everyday"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Cyril of Jerusalem grace to instruct the catechumens of your Church and to guard the liturgy of your Son, grant through his intercession that all who teach the faith may lead others to the fullness of truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

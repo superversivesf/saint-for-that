@@ -1,0 +1,29 @@
+{
+  "slug": "asterius-of-petra",
+  "name": "St. Asterius of Petra",
+  "feastDay": "unknown",
+  "bio": "Asterius of Petra was a convert from Arianism who became Bishop of Petra, the ancient city in Arabia south of the Dead Sea. After his conversion to Nicene orthodoxy, he was placed at the head of that see and labored to strengthen the Catholic faith in a region long troubled by Arian influence.\n\nAccording to tradition, Asterius suffered for his steadfast defense of the divinity of Christ. The historian Sozomen records that he was exiled by the Arian emperor Constantius II, and later accounts add that he was restored to his see under Julian or Theodosius. He is honored as a confessor of the faith, one who bore suffering without shedding his blood.\n\nHis feast day is uncertain, but he is remembered as a patron of those who return to the truth after error, and of confessors who stand firm in doctrine.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Asterius of Petra from error to the full confession of Your Son's divinity, grant through his intercession that all who wander in false teaching may find their way home to the truth, and that all pastors may stand firm in the faith once delivered. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asterius_of_Petra"
+  ],
+  "featured": false,
+  "draft": false
+}

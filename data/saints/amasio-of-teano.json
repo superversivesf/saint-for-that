@@ -1,0 +1,21 @@
+{
+  "slug": "amasio-of-teano",
+  "name": "St. Amasio of Teano",
+  "feastDay": "unknown",
+  "bio": "Saint Amasio of Teano served as the second bishop of Teano, a town in Campania, Italy. He is remembered as an early Italian prelate who helped build up the local church in the centuries after the apostolic age, when the faith was still taking root across the Italian peninsula.\n\nThough the details of his life are sparse, his memory was preserved by the Christian community of Teano, which honored him as a faithful shepherd. As successor to the first bishop, he carried forward the work of evangelization in a region that would become deeply marked by Christian witness.\n\nDevotion to St. Amasio endured through the centuries, and he remains a patron of the diocese. His cult recalls the countless early bishops whose labors laid the foundations of the Church in Italy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Amasio a faithful shepherd of your people in Teano, grant through his intercession that bishops may govern your Church with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amasio_of_Teano"
+  ],
+  "featured": false,
+  "draft": false
+}

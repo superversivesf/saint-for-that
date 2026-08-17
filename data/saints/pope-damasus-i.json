@@ -1,0 +1,30 @@
+{
+  "slug": "pope-damasus-i",
+  "name": "St. Damasus I",
+  "feastDay": "12-11",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Damasus I served as bishop of Rome from October 366 until his death in 384. A devoted shepherd in a time of great controversy, he presided over the Council of Rome in 382, which confirmed the canon of sacred scripture and gave the Church its authoritative list of the books of the Bible.\n\nDamasus was also a great patron of the Roman martyrs, adorning their tombs in the catacombs with inscriptions of his own composition and encouraging the veneration of the saints. Honoured on December 11, he is invoked as a patron of archaeologists and of those who suffer from fever, and remembered as a pope who loved the scriptures and the martyrs.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "everyday"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Damasus love for your scriptures and for the martyrs of Rome, grant through his intercession that we may revere your holy word and honour the witness of your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Damasus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

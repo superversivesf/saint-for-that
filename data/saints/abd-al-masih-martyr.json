@@ -1,0 +1,25 @@
+{
+  "slug": "abd-al-masih-martyr",
+  "name": "St. Abd al-Masih",
+  "feastDay": "10-03",
+  "bio": "Abd al-Masih, whose name means 'servant of the Messiah' in Arabic, was born Asher ben Levi and is remembered as a saint and martyr of early Christianity. According to tradition, he was a Jewish man who embraced faith in Christ and was put to death for his conversion. His story circulated among the churches of the East, where his Arabic name became a sign of the Gospel's reach beyond its original Jewish homeland and into the wider Semitic world. Venerated as a patron of barren women, his intercession has been sought by those who long for the gift of children. His feast is kept on October 3, and he is honored as one who gave his life rather than deny the name of Jesus.",
+  "patronages": [
+    {
+      "need": "infertility",
+      "category": "illness"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abd al-Masih to confess the name of your Son and crowned his witness with martyrdom, grant through his intercession that all who long for the gift of children may find comfort and hope in your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abd_al-Masih_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

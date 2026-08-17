@@ -1,0 +1,29 @@
+{
+  "slug": "agricius-of-trier",
+  "name": "St. Agricius of Trier",
+  "feastDay": "01-19",
+  "bio": "Saint Agricius, also known as Agritius, was the first historically documented bishop of Trier, serving in the early fourth century when the city was a leading center of Roman power in the West. As bishop he guided the Church of Trier through the final years of the Diocletianic persecution and the transition that followed the Edict of Milan, when Christianity passed from an outlawed sect to a tolerated faith. Tradition holds that he was a close associate of Saint Helena, mother of Constantine, and that through her influence the see of Trier was enriched with relics of the passion. Honored on January 19, he is remembered as a foundational figure of the Church in the Rhineland. His life speaks of the pastoral labor that laid the groundwork for the faith in Europe.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Agricius to establish Your Church at Trier in a time of great change, grant through his intercession that the shepherds of Your people may build wisely upon the foundations of the faith and guide their flocks with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agricius_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

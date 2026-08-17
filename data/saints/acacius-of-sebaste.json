@@ -1,0 +1,25 @@
+{
+  "slug": "acacius-of-sebaste",
+  "name": "St. Acacius of Sebaste",
+  "feastDay": "11-27",
+  "bio": "Saint Acacius of Sebaste was a fourth-century Christian priest and hieromartyr who served the Church in Sebaste, Armenia, during the fierce persecutions under the emperor Diocletian. As a priest he faithfully tended his flock, administering the sacraments in secret when public worship was forbidden and encouraging the faithful to stand firm in their confession of Christ. When he was finally arrested for his ministry, he refused to offer sacrifice to the pagan gods and was condemned to death, earning the crown of martyrdom. Honored on November 27, he is remembered as one of the countless clergy of the early Church who laid down their lives rather than betray their Lord. His witness speaks of the priestly courage that counts fidelity to Christ above life itself.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted the priest Acacius of Sebaste the grace to lay down his life rather than deny Your name, grant through his intercession that all who face persecution for the faith may stand firm and bear witness to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acacius_of_Sebaste"
+  ],
+  "featured": false,
+  "draft": false
+}

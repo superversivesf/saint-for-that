@@ -1,0 +1,29 @@
+{
+  "slug": "pope-zephyrinus",
+  "name": "St. Zephyrinus",
+  "feastDay": "unknown",
+  "bio": "Pope Zephyrinus was born in Rome and served as bishop of Rome from the year 199 until his death on 20 December 217, succeeding Pope Victor I and governing the Church through a troubled and decisive period. Upon his death he was succeeded by his principal advisor, Callixtus I, who would himself be venerated as a saint and martyr.\n\nZephyrinus is remembered especially for his defense of the divinity of Christ against the heresies that arose in his day, holding the line of orthodox teaching when theological errors and schisms threatened the unity of the Roman Church. Though the exact date of his liturgical feast is not recorded in the sources, he has been honored from antiquity as a saintly pope and a steadfast guardian of the faith.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Saint Zephyrinus a defender of your Son's divinity and a guardian of the unity of your Church, grant through his intercession that we may hold fast to the truth of Christ and live in the peace of his Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Zephyrinus"
+  ],
+  "featured": false,
+  "draft": false
+}

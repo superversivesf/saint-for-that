@@ -1,0 +1,25 @@
+{
+  "slug": "zebennus",
+  "name": "St. Zebennus",
+  "feastDay": "unknown",
+  "bio": "Zebennus was a third-century bishop and Christian martyr from Palaestina Prima, the Roman province that included the ancient Christian heartlands around Jerusalem and Caesarea. He is counted among the early Palestinian pastors who governed their flocks amid the trials and persecutions that marked the life of the Church in that region before the peace of Constantine.\n\nHonored as a martyr, Zebennus is remembered for shedding his blood for the faith he was charged to preach, joining the long roll of Palestinian saints who witnessed to Christ in the land where he walked. The exact day of his feast is not recorded in the sources, but the Church has long kept his memory as a model of pastoral fidelity unto death.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Zebennus grace to lay down his life for the flock he served, grant through his intercession that all pastors may be faithful even unto death and share with him the crown of martyrdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zebennus"
+  ],
+  "featured": false,
+  "draft": false
+}

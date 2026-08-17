@@ -1,0 +1,25 @@
+{
+  "slug": "restituta",
+  "name": "St. Restituta",
+  "feastDay": "05-17",
+  "bio": "Saint Restituta was a Berber Christian of North Africa, venerated as a martyr by both the Roman Catholic and the Eastern Orthodox Churches. She is said to have been born at Carthage or at Teniza, and to have suffered under the Emperor Diocletian in the great persecution that fell upon the African Church at the dawn of the fourth century.\n\nThe exact place and day of her death are not certainly known, but ancient tradition links her to the Martyrs of Abitinae, that company of North Africans who, in the year 304, were seized for celebrating the Sunday Eucharist in defiance of imperial order. With Dativus, Saturninus, and the others, Restituta is counted among those who would not let the altar fall silent.\n\nHer relics were later brought to Ischia, where she is honored at Lacco Ameno.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Restituta and the martyrs of Abitinae grace to keep your Sunday even under threat of death, grant through her intercession that the oppressed may be delivered and that your people may never fail to gather at your altar. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Restituta"
+  ],
+  "featured": false,
+  "draft": false
+}

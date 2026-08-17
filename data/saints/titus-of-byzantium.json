@@ -1,0 +1,25 @@
+{
+  "slug": "titus-of-byzantium",
+  "name": "St. Titus of Byzantium",
+  "feastDay": "unknown",
+  "bio": "Titus of Byzantium served as Bishop of Byzantium from 242 to 272, one of the early shepherds of the see that would later become the great patriarchate of Constantinople. He governed the Church during a period of quiet growth and gathering persecution, when the Christian community of the imperial capital was still small and largely hidden from the world's notice.\n\nLittle is recorded of his labors, yet he stands in the succession of bishops who carried the faith from apostolic times into the age of the empire, preserving the teaching of Christ and gathering the faithful in a city that would one day be called New Rome. His memory is honored among the founding bishops of the Eastern Church, who laid the groundwork for the great sees of later centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Titus of Byzantium a faithful shepherd of the early Church in the imperial city, grant through his intercession that the bishops of East and West may labor for the unity of your flock and preserve the faith of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Titus_of_Byzantium"
+  ],
+  "featured": false,
+  "draft": false
+}

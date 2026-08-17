@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-egypt",
+  "name": "St. Abraham of Egypt",
+  "feastDay": "05-21",
+  "bio": "Abraham of Egypt, also known as Abraham of Minuf, was a fourth-century monk and hermit of Egypt whose memory is preserved in the Synaxarion of the Eastern Church. He withdrew into the desert as a young man to give himself wholly to prayer, fasting, and manual labor in the tradition of the great Egyptian ascetics. Little detail of his life survives beyond the bare notice that he was counted among the holy ones of the desert, but his inclusion in the Synaxarion testifies to the esteem in which he was held by the monastic communities of the East. Honored on May 21, he is remembered as one of the countless hidden saints who populated the wilderness of Egypt and made it a cradle of Christian monasticism. His life speaks of the value of solitude offered wholly to God.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abraham of Egypt to seek You in the silence of the desert, grant through his intercession that we may learn to detach our hearts from the things of this world and fix them upon You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "amphilochius-of-iconium",
+  "name": "St. Amphilochius of Iconium",
+  "feastDay": "11-22",
+  "bio": "Amphilochius of Iconium was a Christian bishop of the fourth century, born around 339 or 340 into a distinguished Cappadocian family, perhaps at Caesarea. A cousin of Gregory of Nazianzus, he stood within the circle of the Cappadocian Fathers who shaped the Church's confession of the Trinity.\n\nChosen as bishop of Iconium in Lycaonia, he defended the orthodox faith against the Arian and Macedonian heresies. He took part in the Council of Constantinople in 381 and worked for the unity and orthodoxy of the Church. His writings earned him a place among the respected Fathers of that era.\n\nHe probably died between 394 and 403. He is venerated on November 22 in the Roman Catholic Church and on November 23 in the Orthodox Church, honored as a faithful bishop and defender of the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Amphilochius grace to defend the truth of your Son's divinity, grant through his intercession that bishops and theologians may proclaim the faith with clarity and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium"
+  ],
+  "featured": false,
+  "draft": false
+}

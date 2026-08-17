@@ -1,0 +1,25 @@
+{
+  "slug": "bademus",
+  "name": "St. Bademus",
+  "feastDay": "04-09",
+  "bio": "Saint Bademus was a wealthy and noble citizen of Bethlapeta in Persia who used his resources to found a monastery near his home city. There he gathered disciples and lived as their spiritual father in the ascetic discipline of early Persian monasticism. During the persecution of Christians under the Sasanian king Shapur II, Bademus and several of his monks were arrested for their faith. After imprisonment and torture, Bademus was martyred in the year 376, giving his life rather than renouncing Christ. He was subsequently venerated as a saint and martyr, honored for his generosity in life and his courage in death.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Bademus the grace to found a monastery and the courage to die for his faith, grant through his intercession that we may be generous in serving you and steadfast in persecution. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bademus"
+  ],
+  "featured": false,
+  "draft": false
+}

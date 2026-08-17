@@ -1,0 +1,29 @@
+{
+  "slug": "abraham-kidunaia",
+  "name": "St. Abraham Kidunaia",
+  "feastDay": "07-29",
+  "bio": "Abraham Kidunaia was a Syriac Christian hermit and priest of the early Church, venerated as a saint in Catholicism, Eastern Orthodoxy, and Oriental Orthodoxy. According to tradition, he was born into a wealthy family and was urged to marry, but on the very night of his wedding he left his bride and withdrew to a cell outside the city to live as a hermit in penance and prayer. After many years of solitude, he was ordained a priest and sent to a pagan village where he labored patiently to bring the people to Christ, suffering abuse and rejection before finally winning their conversion. Honored on July 29, he is remembered for his radical obedience and his willingness to leave all things behind for the sake of the Gospel.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Abraham Kidunaia the grace to leave all things for the sake of Your Kingdom and to win a pagan people to the Gospel, grant through his intercession that we may put You above every earthly love and labor patiently for the conversion of hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_Kidunaia"
+  ],
+  "featured": false,
+  "draft": false
+}

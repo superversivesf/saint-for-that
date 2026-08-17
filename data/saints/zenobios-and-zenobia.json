@@ -1,0 +1,33 @@
+{
+  "slug": "zenobios-and-zenobia",
+  "name": "St. Zenobios and Zenobia",
+  "feastDay": "10-30",
+  "bio": "The Holy Martyrs Zenobios and Zenobia are honored by both the Eastern Orthodox and the Roman Catholic Churches as a brother and sister who suffered martyrdom together for the faith of Christ. According to tradition, Zenobios was a physician who openly professed Christianity and converted many through his preaching and his healing, while his sister Zenobia stood with him in confession and shared his trial.\n\nCondemned for their bold witness, they underwent torture and death rather than deny the Lord, and the Church has kept their memory on October 30 from ancient times. Their joint martyrdom is celebrated as a sign of the familial bonds that grace can forge even unto the shedding of blood, and they are invoked as patrons of those who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "physicians",
+      "category": "jobs"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the brother and sister Saints Zenobios and Zenobia with the palm of martyrdom, grant through their intercession that, joined in love of you, we may bear witness to your name with courage and compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zenobios_and_Zenobia"
+  ],
+  "featured": false,
+  "draft": false
+}

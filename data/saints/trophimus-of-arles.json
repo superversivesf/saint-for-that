@@ -1,0 +1,25 @@
+{
+  "slug": "trophimus-of-arles",
+  "name": "St. Trophimus of Arles",
+  "feastDay": "01-04",
+  "bio": "According to Catholic tradition, Trophimus of Arles was the first bishop of Arles, in southern France, sent out to preach the Gospel in the earliest days of the Church's expansion into Gaul. He is counted among the missionary bishops whose labors planted the faith firmly in the Gallic provinces, and his see became one of the oldest and most honored in the region.\n\nDevotion to Trophimus flourished in and around Arles, where his relics were venerated by pilgrims for centuries. He is invoked against drought and gout and remembered as a protector of children, and his feast has long been kept on January 4. Tradition holds that his example of pastoral care and evangelizing zeal shaped the early Church in Provence.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "rain",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Trophimus as the first bishop of Arles to sow the seed of your Gospel in Gaul, grant through his intercession that, in seasons of drought and want, your faithful may never lack the living water of your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trophimus_of_Arles"
+  ],
+  "featured": false,
+  "draft": false
+}

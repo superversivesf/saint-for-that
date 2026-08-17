@@ -1,0 +1,29 @@
+{
+  "slug": "regina-of-autun",
+  "name": "St. Regina of Autun",
+  "feastDay": "09-07",
+  "bio": "Saint Regina was a virgin martyr of Gaul, born at Autun in Burgundy to a pagan father named Clement. Her mother died at her birth, and the child was given to a Christian nurse, who baptized her in secret and raised her in the faith. As a girl Regina tended the sheep on the hillsides, spending her days in prayer and meditation on the lives of the saints.\n\nWhen she was about fifteen, the proconsul Olybrius saw her and sought to marry her, but she refused to renounce her faith or her virginity. Enraged, he had her tortured and finally beheaded at Alesia, in the diocese of Autun. The village that grew around her shrine took the name Alise-Sainte-Reine.\n\nInvoked against poverty and as a patron of shepherdesses, Regina kept her faith and her purity at the cost of her life.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Regina grace to tend her sheep in prayer and to lay down her life rather than deny you, grant through her intercession that the poor may be lifted up, that those who suffer may be strengthened, and that single women may find their refuge in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Regina_of_Autun"
+  ],
+  "featured": false,
+  "draft": false
+}

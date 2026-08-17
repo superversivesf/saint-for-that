@@ -1,0 +1,29 @@
+{
+  "slug": "anastasia-of-sirmium",
+  "name": "St. Anastasia of Sirmium",
+  "feastDay": "09-28",
+  "bio": "Saint Anastasia is a Christian martyr who died at Sirmium in the Roman province of Pannonia Secunda, in what is now Serbia. She is honored in both East and West as one of the great early martyrs, and her cult spread quickly through the ancient Church, reaching Rome, where a basilica was dedicated to her.\n\nIn the Eastern Orthodox Church she is venerated as St. Anastasia the Pharmakolytria, a title meaning \"Deliverer from Potions,\" also translated as \"One who Cures Wounds.\" This points to her patronage of those who work with healing, especially of pharmacists, apothecaries, and physicians.\n\nHer feast is kept on September 28 in the West and on December 25 in the East. She is remembered as a woman who faced death for her faith and is invoked by those who seek healing of body and soul.",
+  "patronages": [
+    {
+      "need": "physicians",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Anastasia a deliverer from every poison and a healer of wounds, grant through her intercession that the sick may find relief and those who care for them may serve with skill and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_of_Sirmium"
+  ],
+  "featured": false,
+  "draft": false
+}

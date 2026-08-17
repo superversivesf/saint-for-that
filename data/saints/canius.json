@@ -1,0 +1,25 @@
+{
+  "slug": "canius",
+  "name": "St. Canius",
+  "feastDay": "unknown",
+  "bio": "Saint Canius was a Roman Catholic bishop and martyr, venerated as the patron saint of the cities of Calitri and Acerenza and its archdiocese in southern Italy. According to tradition, he may have been a descendant of the Roman gens Cania and is said to have evangelized the region of Lucania before suffering martyrdom for the faith.\n\nThough details of his life are scarce, Canius is remembered as a zealous pastor who shepherded his flock through the perils of early Christian persecution. His relics were long honored at Acerenza, where a cathedral was raised in his name, and his cult spread throughout the Basilicata region.\n\nVenerated on 25 May, St. Canius stands as a witness to the apostolic courage of the early Italian bishops, whose blood watered the Church in lands that would become strongholds of the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Canius with the palm of martyrdom as he shepherded Your people, grant through his intercession that bishops may remain steadfast and the faithful true to the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Canius"
+  ],
+  "featured": false,
+  "draft": false
+}

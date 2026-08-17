@@ -1,0 +1,29 @@
+{
+  "slug": "amun",
+  "name": "St. Amun",
+  "feastDay": "unknown",
+  "bio": "Amun, also called Ammon or Amoun, was a fourth-century Christian ascetic and founder of one of the most celebrated monastic communities in Egypt. Named after the ancient Egyptian god Amun, a reminder of the pagan world from which the early monks turned to Christ, he became one of the most venerated ascetics of the Nitrian Desert.\n\nAthanasius of Alexandria mentions him in his Life of Anthony, and the great Antony is said to have regarded him as a fellow laborer. Amun gathered disciples and established a community that became a beacon of the new monastic movement, where men sought God through poverty, prayer, and obedience.\n\nHis feast is kept in the Coptic and Eastern traditions, and he is remembered as a pioneer of communal monastic life that shaped the Church for centuries.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred up St. Amun to gather a community of prayer in the desert, grant through his intercession that we may seek you with single-hearted devotion, above all worldly things. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Amun"
+  ],
+  "featured": false,
+  "draft": false
+}

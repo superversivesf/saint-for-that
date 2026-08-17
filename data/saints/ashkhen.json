@@ -1,0 +1,25 @@
+{
+  "slug": "ashkhen",
+  "name": "St. Ashkhen",
+  "feastDay": "unknown",
+  "bio": "Ashkhen was Queen of Armenia and a member of the Arsacid dynasty by her marriage to King Tiridates III, the ruler under whose reign Armenia became the first Christian nation. Along with Tiridates and the evangelist St. Gregory the Illuminator, she figures among the royal converts who turned a kingdom toward Christ in the early fourth century.\n\nAccording to the traditional accounts of the conversion of Armenia, Ashkhen was baptized together with her husband and much of the royal court, and she took a leading role in establishing the new faith. After Tiridates's death she is said to have retired to a life of prayer and asceticism.\n\nHer feast day is uncertain, but she is venerated in the Armenian Apostolic tradition as a model of royal sanctity and a patron of queens and of Armenia, remembered for her part in the planting of the Church in her land.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ashkhen from the throne of Armenia to the font of baptism and to a life of prayer, grant through her intercession that all in positions of authority may use their gifts to advance Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ashkhen"
+  ],
+  "featured": false,
+  "draft": false
+}

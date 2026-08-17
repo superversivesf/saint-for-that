@@ -1,0 +1,25 @@
+{
+  "slug": "saturnin",
+  "name": "St. Saturnin",
+  "feastDay": "11-29",
+  "bio": "Saturnin of Toulouse was one of the seven bishops sent from Rome in the third century to preach the Gospel in Gaul. In the consulate of Decius and Gratus, the year 250, Pope Fabian dispatched Gatien to Tours, Trophimus to Arles, Paul to Narbonne, Saturnin to Toulouse, Denis to Paris, Austromoine to Clermont, and Martial to Limoges.\n\nSaturnin arrived at Toulouse, a city still given to pagan worship, and there he gathered a small flock and celebrated the mysteries in a cramped oratory near the capitol. According to the ancient passio, as he passed the pagan temple one day the priests declared that the silence of their oracles was his doing, and they seized him and dragged him down the steps from the capitol until he died.\n\nVenerated as the first bishop of Toulouse, his feast is 29 November.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Saturnin to preach the Gospel in Gaul and gave him grace to lay down his life at Toulouse, grant through his intercession that missionaries may labor with courage and that your Church may never cease to preach. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saturnin"
+  ],
+  "featured": false,
+  "draft": false
+}

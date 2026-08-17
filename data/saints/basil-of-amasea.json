@@ -1,0 +1,21 @@
+{
+  "slug": "basil-of-amasea",
+  "name": "St. Basil of Amasea",
+  "feastDay": "unknown",
+  "bio": "Saint Basil of Amasea was a fourth-century Christian bishop and martyr who shepherded the church of Amasea in Pontus, in what is now northern Turkey. His name appears among the signatures of bishops who attended the Council of Ancyra and the Council of Neo-Caesarea in 314, marking him as a leader in the early church's struggle to define and defend orthodox doctrine. According to the Chronicle of Eusebius, Basil suffered martyrdom during the reign of the emperor Licinius, when Christians in Pontus were treated with great cruelty and bishops in particular were subjected to the punishments ordinarily reserved for criminals. He gave his life for the faith he had labored to defend.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saint Basil of Amasea with the glory of martyrdom, grant through his intercession that we may remain faithful to your truth in times of trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Amasea"
+  ],
+  "featured": false,
+  "draft": false
+}

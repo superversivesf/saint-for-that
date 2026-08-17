@@ -1,0 +1,29 @@
+{
+  "slug": "solutor",
+  "name": "St. Solutor",
+  "feastDay": "01-20",
+  "bio": "Saint Solutor, together with his companions Octavius and Adventor, is venerated as the patron saint of Turin. According to tradition they were soldiers of the Theban Legion who suffered martyrdom in the persecutions of the early Church, giving their lives rather than renounce the faith. Their witness helped plant the Gospel in Piedmont, where their memory has been cherished for centuries.\n\nTheir relics have been honored in Turin since ancient times, and the city took them as its heavenly protectors, invoking their intercession in times of danger. Their feast on 20 January recalls the courage of those early confessors who laid down their lives for Christ and left to later generations the example of steadfast loyalty to the Gospel.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Solutor and his companions with the palm of martyrdom and made them protectors of the city of Turin, grant through their intercession that we may be steadfast in faith and safe from every danger. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Solutor"
+  ],
+  "featured": false,
+  "draft": false
+}

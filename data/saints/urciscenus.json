@@ -1,0 +1,25 @@
+{
+  "slug": "urciscenus",
+  "name": "St. Urciscenus",
+  "feastDay": "06-21",
+  "bio": "Saint Urciscenus served as Bishop of Pavia from around the year 183 until his death in 216, guiding that see during a period of intensifying persecution under the Roman emperors. As one of the earliest known bishops of Pavia, he is credited with consolidating the Christian community in northern Italy at a time when the profession of the faith could mean suffering and death.\n\nHonored for his courage and pastoral care amid persecution, Urciscenus has been venerated for centuries as a model of steadfast leadership. His feast is kept on June 21, and the Church of Pavia long treasured his memory as a witness to the endurance of the early episcopate under trial.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Urciscenus to govern your Church at Pavia in a time of persecution, grant through his intercession that all bishops may remain faithful shepherds amid the trials of their age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Urciscenus"
+  ],
+  "featured": false,
+  "draft": false
+}

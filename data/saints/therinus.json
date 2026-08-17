@@ -1,0 +1,25 @@
+{
+  "slug": "therinus",
+  "name": "St. Therinus",
+  "feastDay": "04-23",
+  "bio": "Saint Therinus, also known as Therinus of Buthrotum, is a Christian saint revered in Albania, in the ancient region of Epirus. Though the details of his life are few, his memory was preserved among the faithful of that land, who honored him as a witness to the Gospel in the early centuries of the Church, when the faith was first preached along the shores of the Adriatic.\n\nHis feast on 23 April recalls the quiet but enduring presence of the saints in regions whose Christian history is often overlooked. He stands for the many confessors whose names and deeds have not come down to us in full, yet whose holiness helped establish the Church in distant corners of the ancient world. He is invoked as a protector of those who keep the faith in small and hidden places.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "spiritual"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Therinus among the faithful of Albania, grant through his intercession that those who keep the faith in quiet and hidden places may be strengthened by the communion of saints and protected from every harm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Therinus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chrysogonus",
+  "name": "St. Chrysogonus",
+  "feastDay": "11-24",
+  "bio": "Saint Chrysogonus was an early Christian martyr venerated in both the Eastern and Western Churches. According to holy tradition, he was a knight or officer in the Roman army at Aquileia in northern Italy. When the persecution of Diocletian began, Chrysogonus was arrested for his faith and, after imprisonment and trials, was brought before the emperor himself.\n\nIn exchange for abandoning Christianity, Diocletian is said to have offered him the position of prefect of a province. Chrysogonus declined the offer, declaring himself a soldier of Christ, and was executed as part of the persecution. His body was later taken to Zadar in Dalmatia, where a great basilica was raised in his honor, and he became the patron saint of that city.\n\nHis name is invoked in the Roman Canon of the Mass, and his feast is kept on 24 November. St. Chrysogonus is remembered as a soldier-saint who chose martyrdom over worldly advancement, a patron of those who serve in arms and of the city of Zadar.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Chrysogonus grace to lay down his life rather than deny Your Son, grant through his intercession that all soldiers and those who serve under arms may act with honor and remain steadfast in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Chrysogonus"
+  ],
+  "featured": false,
+  "draft": false
+}

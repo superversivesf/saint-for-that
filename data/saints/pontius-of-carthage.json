@@ -1,0 +1,25 @@
+{
+  "slug": "pontius-of-carthage",
+  "name": "St. Pontius of Carthage",
+  "feastDay": "03-08",
+  "bio": "Pontius, called Pontius the Deacon, was a Christian of Carthage in the mid-third century who served as a deacon under Saint Cyprian, the great bishop of that African see. He witnessed the persecutions of Decius and Valerian and stood near Cyprian through the years of exile, council, and finally martyrdom.\n\nShortly after Cyprian was beheaded in 258, Pontius composed the Vita Cypriani, the first Latin biography of a saint written by one who had known him. In plain and tender prose he recounted the bishop's trials, his courage, and his death, leaving the Church one of its earliest and most trusted hagiographic witnesses.\n\nHonored as a saint and confessor, Pontius is remembered as a deacon, a biographer, and a faithful companion of a martyr. His feast is kept on 8 March.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired the deacon Pontius to record the life and death of your bishop Cyprian, grant through his intercession that deacons may serve with fidelity and that writers may bear truthful witness to your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pontius_of_Carthage"
+  ],
+  "featured": false,
+  "draft": false
+}

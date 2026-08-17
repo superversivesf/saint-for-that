@@ -1,0 +1,25 @@
+{
+  "slug": "rufinus-of-assisi",
+  "name": "St. Rufinus of Assisi",
+  "feastDay": "08-11",
+  "bio": "According to the ancient tradition of Umbria, Rufinus was the first bishop of Assisi, sent to preach the Gospel in the Italian hill country in the earliest days of the Church. He labored among the peoples of the Clitunno valley and the slopes of Mount Subasio, planting the faith where later Saint Francis would walk and sing.\n\nRufinus confessed Christ in the time of persecution and was put to death for the faith, and so the Church of Assisi honors him as both its founder and its martyr. His relics were laid beneath the altar of the cathedral that bears his name, built on the site of an earlier shrine in the valley below the town.\n\nIn later centuries Saint Francis himself prayed at his tomb. Honored as the patron of Assisi, Rufinus is remembered on 11 August.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishop Rufinus to plant the faith at Assisi and to seal it with his blood, grant through his intercession that bishops may preach with courage and that the Church in every land may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rufinus_of_Assisi"
+  ],
+  "featured": false,
+  "draft": false
+}

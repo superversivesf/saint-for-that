@@ -1,0 +1,25 @@
+{
+  "slug": "pope-pontian",
+  "name": "St. Pope Pontian",
+  "feastDay": "08-13",
+  "bio": "Pontian served as bishop of Rome from 21 July 230 until 28 September 235, guiding the Church through the uneasy peace that followed the persecutions of Septimius Severus. His pontificate fell in the years when the theologian Origen was writing and when the disputes over the reconciliation of penitents were beginning to stir.\n\nIn 235 the Emperor Maximinus Thrax renewed the persecution of Christians, and Pontian was arrested and exiled to the island of Sardinia. There, in the harsh mines, he abdicated his office so that the Church of Rome might choose a new shepherd, and there he died a confessor of the faith.\n\nHis relics were later returned to Rome and buried in the papal crypt of the Catacomb of Callixtus by Pope Fabian. His feast, shared with the priest Hippolytus, is kept on 13 August.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Pope Pontian grace to lay down his office and his life for your people in exile, grant through his intercession that bishops may serve with courage and that prisoners may know your consolation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Pontian"
+  ],
+  "featured": false,
+  "draft": false
+}

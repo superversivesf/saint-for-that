@@ -1,0 +1,29 @@
+{
+  "slug": "agape-chionia-and-irene",
+  "name": "St. Agape, Chionia, and Irene",
+  "feastDay": "04-03",
+  "bio": "Saints Agape, Chionia, and Irene were sisters and Christian virgins from Aquileia who suffered martyrdom at Thessalonica in 304 AD during the persecution of Diocletian. Fleeing their native city to preserve their faith, they were arrested for refusing to eat food offered in sacrifice to the pagan gods. Agape and Chionia were condemned and burned alive for their confession, while Irene was later charged with hiding Christian books in defiance of the edict ordering the scriptures destroyed. She too was condemned to the flames. Honored together on April 3, the three sisters are remembered as witnesses to the love of Christ that no threat could extinguish. Their martyrdom testifies to the reverence the early Church had for the Scriptures and the courage of those who would not part with them.",
+  "patronages": [
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "librarians",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the virgin martyrs Agape, Chionia, and Irene to prefer the fire of this world to the loss of Your love, grant through their intercession that we may treasure Your holy word above all earthly goods and confess Your name with unfailing courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agape%2C_Chionia%2C_and_Irene"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "serapion-of-thmuis",
+  "name": "St. Serapion of Thmuis",
+  "feastDay": "03-07",
+  "bio": "Serapion, also called Serapion of Nitria or Serapion the Scholastic, was an early Christian monk and bishop of Thmuis in Lower Egypt. Drawn to the desert life of prayer and ascetic discipline, he became a close ally of St. Athanasius of Alexandria in the long struggle against Arianism, the controversy over the divinity of Christ which convulsed the fourth-century Church.\n\nAs bishop he labored to teach the orthodox faith and to defend the decrees of Nicaea, earning the name \"Scholastic\" for his learning. He was a friend of the desert fathers and is counted among the monks of Nitria. His writings, though mostly lost, were praised by Jerome and Athanasius. He is remembered as a monk-bishop who joined contemplation to the active defense of the faith, and his feast is kept on 7 March.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Serapion of Thmuis a fearless defender of your Son's divinity and a faithful shepherd of his flock, grant through his intercession that we may hold fast to the truth and labor for the unity and reform of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Serapion_of_Thmuis"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "antonina-and-alexander",
+  "name": "St. Antonina and Alexander",
+  "feastDay": "04-05",
+  "bio": "Saints Antonina and Alexander, venerated also as Theodora and Didymus, are Christian martyrs whose legend rests on a fourth-century acta and the witness of Saint Ambrose. According to the ancient account, the noblewoman, wishing to preserve her virginity, fled and disguised herself as a man in a monastery. When her sex was discovered and she was condemned, the soldier who uncovered her repented, declared himself a Christian, and died beside her.\n\nThey were martyred under Diocletian and Maximianus. Their feast is April 5, and their mutual witness has been told across the centuries as a sign of courage and conversion.\n\nThis Theodora is not to be confused with another of Alexandria commemorated on September 11. They stand among the martyrs whose self-giving made them companions in glory.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Antonina and St. Alexander grace to die together for the name of Christ, grant through their intercession that we may be steadfast in chastity and brave in confession of your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodora_and_Didymus"
+  ],
+  "featured": false,
+  "draft": false
+}

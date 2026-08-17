@@ -1,0 +1,29 @@
+{
+  "slug": "ammonas-of-egypt",
+  "name": "St. Ammonas of Egypt",
+  "feastDay": "01-10",
+  "bio": "Ammonas of Egypt was an Eastern Christian anchorite, monk, and Desert Father of the early fourth century. He became a disciple of Anthony the Great and of Pambo, two of the most renowned figures of the early desert tradition. He withdrew into the solitude of the Egyptian wilderness to seek God through prayer, fasting, and silence.\n\nHis holiness drew disciples, and many of his sayings were preserved in the Sayings of the Desert Fathers, where eleven sections record his counsel. These brief words speak of watchfulness, humility, and the struggle against the passions, and have been treasured by monks ever since.\n\nVenerated in the Eastern Orthodox Church, Ammonas is remembered on January 10. His life witnesses to the power of the desert to form saints whose quiet prayer nourishes the Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ammonas into the silence of the desert to seek your face, grant through his intercession that we too may learn the way of watchful prayer and humility of heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ammonas_of_Egypt"
+  ],
+  "featured": false,
+  "draft": false
+}

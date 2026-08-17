@@ -1,0 +1,25 @@
+{
+  "slug": "pope-urban-i",
+  "name": "St. Urban I",
+  "feastDay": "05-25",
+  "bio": "Pope Urban I, also known as Saint Urban, was born in Rome around the year 175 and served as bishop of Rome from 222 until his death on 23 May 230. He succeeded Pope Callixtus I, who had been martyred, and shepherded the Church through a period of relative calm under the emperor Alexander Severus, consolidating the life of the Roman Church and providing for the poor and clergy.\n\nFor centuries Urban I was honored as a martyr, and medieval accounts told of his suffering and of his body being hidden among the Roman catacombs. Later historical discoveries, however, have led scholars to conclude that he in fact died of natural causes, and the liturgical tradition has been adjusted accordingly. He is revered as a patron of family doctors.",
+  "patronages": [
+    {
+      "need": "physicians",
+      "category": "jobs"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Saint Urban a steadfast shepherd of your Church in Rome, grant through his intercession that those who care for the health of families may serve with compassion and skill. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Urban_I"
+  ],
+  "featured": false,
+  "draft": false
+}

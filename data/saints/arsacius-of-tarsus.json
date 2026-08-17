@@ -1,0 +1,25 @@
+{
+  "slug": "arsacius-of-tarsus",
+  "name": "St. Arsacius of Tarsus",
+  "feastDay": "unknown",
+  "bio": "Arsacius of Tarsus was the intruding archbishop of Constantinople from 404 to 405, placed in the see after the violent expulsion of St. John Chrysostom by imperial authority. Brother of Nectarius, a predecessor of Chrysostom, Arsacius was already very old when he was installed.\n\nHis short and contested episcopate was marked by the deep divisions caused by Chrysostom's exile. Though set up as a rival to a beloved pastor, later tradition, including the Roman Martyrology, remembered Arsacius with leniency, honoring him as a saint and noting that he did not long survive his elevation.\n\nHe died in 405, after barely a year in office. His feast day is uncertain, and his cult reflects the complicated aftermath of one of the most painful controversies in early Constantinopolitan church life.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in Your providence allow even the divisions of Your Church to be gathered back into the communion of saints, grant through the intercession of St. Arsacius that we may work for unity where there has been strife and seek peace where there has been division. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arsacius_of_Tarsus"
+  ],
+  "featured": false,
+  "draft": false
+}

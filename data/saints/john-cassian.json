@@ -1,0 +1,29 @@
+{
+  "slug": "john-cassian",
+  "name": "St. John Cassian",
+  "feastDay": "02-29",
+  "bio": "John Cassian, also known as John the Ascetic and John Cassian the Roman, was a Christian monk and theologian celebrated in both the Western and Eastern Churches for his mystical writings. Born around 360, probably in Scythia Minor, he entered a monastery in Bethlehem as a young man and then traveled to Egypt, spending years among the Desert Fathers and absorbing the wisdom of the hermits of Nitria and Scetis.\n\nOrdained a deacon at Constantinople by St. John Chrysostom, Cassian later settled in Marseille, where around 415 he founded the Abbey of Saint Victor for men and a corresponding convent for women. His major works, the Institutes and the Conferences, transmitted the spiritual teaching of the Egyptian desert to the medieval West and profoundly shaped Benedictine and later Western monasticism.\n\nCassian is remembered as a master of contemplation and spiritual direction, a bridge between the Eastern and Western monastic traditions. His feast is kept on 29 February (or 23 July in the Eastern calendar), and his writings remain a cornerstone of Christian mystical theology.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. John Cassian to gather the wisdom of the desert and to hand it on to the monastic West, grant through his intercession that we may grow in contemplation and persevere in the way of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Cassian"
+  ],
+  "featured": false,
+  "draft": false
+}

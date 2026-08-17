@@ -1,0 +1,25 @@
+{
+  "slug": "zosimus-the-hermit",
+  "name": "St. Zosimus the Hermit",
+  "feastDay": "unknown",
+  "bio": "Zosimus the Hermit was an ascetic who lived in the third century, withdrawing into the wilds of Cilicia and Palestine to devote himself entirely to prayer and penance. Little is known of his early life, but tradition records that he spent decades in solitary caves, enduring hunger, thirst, and the extremes of desert weather, sustained by an unshakable love of God. Like many of the desert fathers, he sought not fame but intimacy with the Lord, fleeing the distractions of the world for the silence of the wilderness. His example of self-denial and perseverance became a model for later monastic communities in the East, who remembered him as one of those who planted the seed of Christian contemplative life in the barren landscapes of the Holy Land.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Zosimus the Hermit to seek You in the silence of the desert, grant through his intercession that we may learn to withdraw from the noise of the world and find You in the quiet of prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zosimus_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

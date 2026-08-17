@@ -1,0 +1,25 @@
+{
+  "slug": "mar-awgin",
+  "name": "St. Mar Awgin",
+  "feastDay": "unknown",
+  "bio": "Mar Awgin, also called Awgin of Clysma or Saint Eugenios, is remembered in Syriac Christian tradition as the Egyptian monk who first introduced Christian monasticism to the Syriac-speaking churches. According to traditional accounts, he traveled from Egypt to Mesopotamia and founded a community on Mount Izla near Nisibis, planting the pattern of ascetic life that would flourish in the East.\n\nThese accounts, however, are all of late origin and often contain anachronisms, and the historicity of Awgin himself is not certain. Some scholars see in his story a legendary reflection of the real transmission of Egyptian monastic ideals to the Syriac world, a process that unfolded through several channels in the fourth and fifth centuries.\n\nWhether legend or history, his name stands in the tradition as a sign of the deep bond between the desert fathers of Egypt and the monastic movement of the Christian East. His feast day is uncertain, and he is venerated as a patron of monks and of those who seek God in solitude.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the witness of Mar Awgin planted the seeds of monastic life in the lands of the East, grant through his intercession that we may learn to seek You in stillness and to love You above all earthly things. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mar_Awgin"
+  ],
+  "featured": false,
+  "draft": false
+}

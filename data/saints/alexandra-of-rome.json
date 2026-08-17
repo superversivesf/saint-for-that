@@ -1,0 +1,25 @@
+{
+  "slug": "alexandra-of-rome",
+  "name": "St. Alexandra of Rome",
+  "feastDay": "04-21",
+  "bio": "Alexandra of Rome is venerated as a Christian martyr of the early fourth century. According to the tradition preserved in the Martyrdom of Saint George, she is said to have been either the wife of Emperor Diocletian or the wife of Dacian, a Roman prefect. Moved by the courage of the Christian confessors whom she witnessed being tortured, she openly declared her faith in Christ, and her confession cost her life.\n\nAncient accounts connect her witness to the great persecutions under Diocletian. Her feast is kept on April 21, and she is sometimes confused with Priscilla or Prisca, though the Roman Martyrology distinguishes her as a martyr in her own right. She stands among the hidden women of the early Church whose quiet courage speaks across the centuries.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Alexandra with the glory of martyrdom, grant through her intercession that we may confess the name of Christ with the same courage she showed before her persecutors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexandra_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

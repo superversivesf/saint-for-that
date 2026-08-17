@@ -1,0 +1,29 @@
+{
+  "slug": "trofimena",
+  "name": "St. Trofimena",
+  "feastDay": "unknown",
+  "bio": "Saint Trofimena is a female saint venerated in the Roman Catholic Church, originally from the town of Patti in Sicily. According to tradition she was a young virgin martyr who gave her life for the faith, and her relics were later brought across the sea to the town of Minori on the Amalfi coast, where they are enshrined in the basilica that bears her name.\n\nFor centuries the faithful of southern Italy have honored her as a heavenly protectress, and her shrine at Minori has been a place of pilgrimage and healing. Though the details of her passion are lost to history, her memory endures as that of a young woman who chose Christ above all else. She is invoked among the martyrs and virgins of the early Church, and as a patron of those who seek healing and the protection of the saints.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the virgin martyr Trofimena with the palm of victory and made her shrine a place of healing, grant through her intercession that the sick may find relief and that all who suffer may be strengthened by the hope of the resurrection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trofimena"
+  ],
+  "featured": false,
+  "draft": false
+}

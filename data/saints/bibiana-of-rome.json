@@ -1,0 +1,33 @@
+{
+  "slug": "bibiana-of-rome",
+  "name": "St. Bibiana of Rome",
+  "feastDay": "12-02",
+  "bio": "Saint Bibiana of Rome is an early Christian virgin and martyr whose memory has been venerated in the Eternal City since ancient times. The earliest authentic mention of her occurs in the Liber Pontificalis, which records that Pope Simplicius (468\u2013483) consecrated a basilica in her honor near the palatium Licinianum, containing her body. The Basilica of Santa Bibiana in Rome remains dedicated to her to this day. According to later tradition, she endured torture and death during a persecution rather than renounce her faith and her consecrated virginity. Throughout the centuries, the faithful have invoked her especially against epilepsy, hangovers, headaches, and mental illness, and as a patron of single laywomen and torture victims.",
+  "patronages": [
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Bibiana the strength to endure torture rather than renounce her virginity and faith, grant through her intercession relief to all who suffer in body or mind. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bibiana_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

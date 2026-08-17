@@ -1,0 +1,25 @@
+{
+  "slug": "abiathar-and-sidonia",
+  "name": "St. Abiathar and Sidonia",
+  "feastDay": "10-01",
+  "bio": "Abiathar and Sidonia were a legendary Jewish priest of Mtskheta and his daughter, remembered in the Georgian tradition surrounding Saint Nino, the apostle of Georgia. Abiathar is said to have served as an attendant to Queen Nana and to have been the first person converted to Christianity by Saint Nino, whose preaching won his heart to the Gospel. Together with his daughter Sidonia, he became a witness to the new faith taking root in the Caucasus. An apocryphal account of the life and miracles of Saint Nino is attributed to them, and their story became woven into the foundational narrative of Georgian Christianity. Honored on October 1, they are remembered as early fruits of the Gospel's spread to the nations and as examples of wholehearted response to the word of God.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who opened the heart of Abiathar through the preaching of Saint Nino and drew him and his daughter Sidonia to the light of the Gospel, grant through their intercession that all who seek the truth may find their rest in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abiathar_and_Sidonia"
+  ],
+  "featured": false,
+  "draft": false
+}

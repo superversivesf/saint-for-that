@@ -1,0 +1,21 @@
+{
+  "slug": "basil-the-elder",
+  "name": "St. Basil the Elder",
+  "feastDay": "unknown",
+  "bio": "Saint Basil the Elder was the father of Basil the Great, one of the most influential theologians of the early Church. He was raised in Caesarea Mazaca in Pontus, a city of considerable importance in the Christian world of Asia Minor. Together with his wife Emmelia, herself a descendant of earlier Christian martyrs, he raised a remarkable family of saints: besides Basil the Great, their children included Gregory of Nyssa, Peter of Sebaste, and Macrina the Younger, all of whom left their mark on the Church. Basil the Elder died around the year 350, having laid the foundation for one of the most extraordinary families in Christian history.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed Saint Basil the Elder with a family of saints, grant through his intercession that Christian parents may raise their children in the fear and love of you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

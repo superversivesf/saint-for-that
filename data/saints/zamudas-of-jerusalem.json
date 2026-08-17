@@ -1,0 +1,29 @@
+{
+  "slug": "zamudas-of-jerusalem",
+  "name": "St. Zamudas of Jerusalem",
+  "feastDay": "02-19",
+  "bio": "Zamudas of Jerusalem was the thirty-seventh bishop of Jerusalem, succeeding Hymenaeus in that ancient see. The sources give divergent dates for his episcopate, some placing it between 276 and 283 while one source dates it as late as 302, but in any case he governed the Church of Jerusalem during the turbulent years of the late third century.\n\nHe is venerated as a saint and is connected with the legend of the Theban Legion, the great body of Christian soldiers said to have suffered martyrdom together for their faith. His feast is kept on February 19, and he is remembered as a faithful shepherd of the mother Church of Jerusalem in a time of trial and uncertainty.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Zamudas a faithful bishop of the holy city of Jerusalem, grant through his intercession that your Church, built upon the apostles and prophets, may stand firm in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zamudas_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

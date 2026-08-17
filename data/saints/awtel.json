@@ -1,0 +1,21 @@
+{
+  "slug": "awtel",
+  "name": "St. Awtel",
+  "feastDay": "unknown",
+  "bio": "Saint Awtel was a monk of early Christianity venerated throughout the Middle East. Little is known of his life, but his memory has endured for centuries among the Christian communities of North Lebanon, where a church is dedicated to him in the village of Kfarsghab. There his feast is celebrated with particular devotion on 3 June and 27 August, and he is also commemorated on 3 November and 9 October. Awtel represents the rich and ancient monastic tradition of the Syriac and Antiochene churches, whose ascetics and hermits shaped the spiritual landscape of the region long before their stories were formally recorded. The faithful of Kfarsghab invoke him as the heavenly protector of their village and its people.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Awtel to the monastic life in the ancient churches of the East, grant through his intercession that we may seek you in prayer and quiet devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Awtel"
+  ],
+  "featured": false,
+  "draft": false
+}

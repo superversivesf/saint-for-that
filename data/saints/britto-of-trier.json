@@ -1,0 +1,21 @@
+{
+  "slug": "britto-of-trier",
+  "name": "St. Britto of Trier",
+  "feastDay": "unknown",
+  "bio": "Saint Britto of Trier was a bishop of Trier, the great ancient see in the Rhineland that served as one of the most important ecclesiastical centers of early medieval Europe. Trier had been an imperial residence and capital of the Western Roman Empire, and its bishops wielded considerable spiritual and temporal influence. Although little specific information about Britto's life and episcopate has been preserved, his inclusion among the succession of bishops of Trier testifies to his role in maintaining the continuity of the Church in a city that stood at the crossroads of Roman and Frankish civilization. He is honored as one of the many pastors who built up the Church in the Rhineland.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Britto a successor of the apostles in the see of Trier, grant through his intercession that your Church may always be built up by faithful and devoted pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Britto_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

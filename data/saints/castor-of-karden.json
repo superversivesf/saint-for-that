@@ -1,0 +1,29 @@
+{
+  "slug": "castor-of-karden",
+  "name": "St. Castor of Karden",
+  "feastDay": "02-13",
+  "bio": "Saint Castor of Karden was a priest and hermit of the fourth century venerated as a saint by the Catholic Church. A pupil of Maximinus of Trier around 345 AD, he was ordained a priest by his master and, like Maximinus, may have come from the region of Aquitaine. At his ordination, Castor settled at Karden on the Moselle as a hermit with various companions, where they dedicated themselves to an ascetic life and established a small religious community.\n\nHis hermitage on the Moselle became a seedbed of Christian life in the Rhineland, and his name is remembered in the great Basilica of St. Castor at Koblenz, founded in the ninth century on the site associated with his cult. Castor is honored as a patron of Koblenz and of the region along the Rhine and Moselle.\n\nHis feast is kept on 13 February. St. Castor stands among the missionary hermits who brought the monastic ideal and the Gospel to the Germanic peoples in the generation after Constantine.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Castor from his hermitage on the Moselle to serve You in poverty and prayer, grant through his intercession that we may seek You above all things and bear witness to Your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castor_of_Karden"
+  ],
+  "featured": false,
+  "draft": false
+}

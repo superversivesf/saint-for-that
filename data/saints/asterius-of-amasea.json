@@ -1,0 +1,29 @@
+{
+  "slug": "asterius-of-amasea",
+  "name": "St. Asterius of Amasea",
+  "feastDay": "10-30",
+  "bio": "Saint Asterius of Amasea was made Bishop of Amasea in Pontus, in what is now Turkey, sometime between 380 and 390 AD. Born in Cappadocia, he had practiced as a lawyer before his elevation to the episcopate, bringing to the pulpit the gifts of a trained rhetorician.\n\nSignificant portions of his lively sermons survive, remarkable both for their literary quality and for the light they shed on the art and social life of his day. He preached with vivid imagination against luxury, injustice, and the vanity of wealth, and his homilies on the rich man and Lazarus and on the martyrdom of saints are still read.\n\nHe is not to be confused with the Arian polemicist Asterius the Sophist. His feast day is October 30, and he is honored as a model of eloquent, socially conscious preaching grounded in the Gospel.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Asterius of Amasea a tongue trained in the law of men to preach the law of Your Gospel, grant through his intercession that our words may defend the poor and our lives proclaim Your justice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asterius_of_Amasea"
+  ],
+  "featured": false,
+  "draft": false
+}

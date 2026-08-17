@@ -1,0 +1,25 @@
+{
+  "slug": "aurelia-of-strasbourg",
+  "name": "St. Aurelia of Strasbourg",
+  "feastDay": "10-15",
+  "bio": "Saint Aurelia of Strasbourg was a fourth-century saint whose tomb in the Alsatian city became the center of a popular medieval cult. Few details of her life survive, but tradition holds that she was a virgin consecrated to God who lived and died in prayer at Strasbourg, then a Roman outpost on the Rhine.\n\nHer relics were venerated from an early date, and a church dedicated to her stood in the city through the Middle Ages. The devotion of the faithful to her memory testifies to the deep roots of Christian faith in the upper Rhine valley.\n\nHer feast day is October 15. She is remembered as a patron of Strasbourg and of all who have consecrated their lives to God in quiet and obscurity.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in St. Aurelia of Strasbourg gave Your people a quiet witness to a life consecrated to You, grant through her intercession that we may seek You above all things and find in prayer the depth of Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurelia_of_Strasbourg"
+  ],
+  "featured": false,
+  "draft": false
+}

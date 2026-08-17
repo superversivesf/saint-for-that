@@ -1,0 +1,33 @@
+{
+  "slug": "athanasius-of-alexandria",
+  "name": "St. Athanasius of Alexandria",
+  "feastDay": "05-02",
+  "bio": "Athanasius I of Alexandria, called the Great, the Confessor, and among Coptic Christians the Apostolic, was a Christian theologian and the twentieth Patriarch of Alexandria. His intermittent episcopacy spanned forty-five years, of which over seventeen encompassed five exiles, imposed on the orders of four different Roman emperors.\n\nThe chief proponent of Trinitarianism against Arianism, Athanasius defended the full divinity of Christ at a time when much of the Church and Empire leaned the other way. He attended the Council of Nicaea as a young deacon and spent his life defending its teaching that the Son is of one being with the Father. His writings, including On the Incarnation and the Life of St. Antony, shaped Christian doctrine and spirituality for centuries.\n\nA Church Father and a noted Egyptian Christian leader of the fourth century, he died in 373 and is honored as a Doctor of the Church. His feast is kept on May 2 in the West and on January 18 in the East. He is a patron of theologians and of those who stand firm against error.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Athanasius as an unconquered champion of the divinity of Your Son, grant through his intercession that we may hold fast to the truth he confessed and endure with patience whatever trials may come. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

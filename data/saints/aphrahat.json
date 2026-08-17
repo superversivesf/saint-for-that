@@ -1,0 +1,29 @@
+{
+  "slug": "aphrahat",
+  "name": "St. Aphrahat",
+  "feastDay": "01-29",
+  "bio": "Aphrahat, venerated as the Persian Sage, was a third-century Syriac Christian author from the Sasanian Empire, a region then beyond the eastern boundaries of Roman rule. Of Iranian descent, he composed twenty-three expositions on Christian doctrine and practice known as the Demonstrations, among the earliest surviving works of Syriac theology.\n\nAn ascetic and celibate, Aphrahat was almost certainly a son of the covenant, one set apart for prayer and the study of Scripture. Later Syriac tradition places him at the head of Mar Mattai Monastery near Mosul in what is now northern Iraq, and he may have been a bishop. He was a near contemporary of Ephrem the Syrian, though Ephrem lived within the Roman sphere.\n\nHis writings witness to the concerns of the early Church outside the Empire, addressing faith, prayer, asceticism, and the life of God's people under Persian rule. Honored as a pioneer of Syriac Christian thought, his feast is kept on January 29.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who enlightened St. Aphrahat the Persian Sage to set forth the truths of faith in the Syriac tongue for a Church far from the centers of worldly power, grant through his intercession that we may love Your truth and bear witness to it in simplicity of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aphrahat"
+  ],
+  "featured": false,
+  "draft": false
+}

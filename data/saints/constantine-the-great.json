@@ -1,0 +1,30 @@
+{
+  "slug": "constantine-the-great",
+  "name": "St. Constantine the Great",
+  "feastDay": "05-21",
+  "canonized": "Pre-Congregation",
+  "bio": "Constantine the Great ruled as Roman emperor from AD 306 to 337 and became the first emperor to embrace the Christian faith. Through the Edict of Milan he ended the persecution of Christians and granted toleration throughout the Empire, a turning point that opened the way for the Christianisation of the Roman world. He founded the city of Constantinople and made it the new capital, which endured as the heart of Eastern Christianity for over a thousand years.\n\nHonoured at his death as a figure of faith, Constantine was venerated as a saint in both East and West. He is remembered as the ruler whom God raised up to give the Church peace and freedom after centuries of bloodshed.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "special"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Constantine to give your Church peace and freedom, grant through his intercession that all in authority may seek your truth and that your people may serve you in unity and concord. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

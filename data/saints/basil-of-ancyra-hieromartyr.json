@@ -1,0 +1,21 @@
+{
+  "slug": "basil-of-ancyra-hieromartyr",
+  "name": "St. Basil of Ancyra",
+  "feastDay": "03-22",
+  "bio": "Saint Basil of Ancyra was a Christian priest who served in Ancyra, Galatia, during the tumultuous fourth century, when the church was riven by doctrinal conflict between orthodox and Arian factions. Very little information about his life survives, preserved chiefly in a metaphrastic work titled \"Life and Deeds of the Martyred Priest Basil.\" He fought against the teachings of pagans and Arians alike, defending Bishop Marcellus of Ancyra when the prelate was deposed by Arian opponents. For his outspoken defense of orthodox doctrine and his loyalty to his bishop, Basil was martyred, earning the title of hieromartyr\u2014a priest who died for the faith.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Saint Basil of Ancyra to defend the orthodox faith against all error, grant through his intercession that your Church may be united in the truth of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Ancyra_(hieromartyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

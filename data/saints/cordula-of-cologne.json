@@ -1,0 +1,26 @@
+{
+  "slug": "cordula-of-cologne",
+  "name": "St. Cordula of Cologne",
+  "feastDay": "10-22",
+  "canonized": "Pre-Congregation",
+  "bio": "Cordula of Cologne is venerated as a companion of Saint Ursula and the legendary eleven thousand virgins. According to medieval tradition, she hid in a ship during the massacre at Cologne and later emerged to receive the crown of martyrdom, joining her sisters in death for the faith.\n\nThough her story comes from apocryphal sources and she was removed from the Roman Martyrology in 1969 because of doubts about her historicity, Cordula was honoured for centuries with a feast on October 22. She remains a figure of devotion in parts of Germany, where she is remembered among the virgin martyrs of Cologne.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Cordula to join the company of the virgin martyrs, grant through her intercession that those who consecrate themselves to you may stand firm in faith and purity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cordula_of_Cologne"
+  ],
+  "featured": false,
+  "draft": false
+}

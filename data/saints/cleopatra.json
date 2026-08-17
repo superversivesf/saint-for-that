@@ -1,0 +1,25 @@
+{
+  "slug": "cleopatra",
+  "name": "St. Cleopatra",
+  "feastDay": "10-19",
+  "bio": "Saint Cleopatra was a Christian saint who lived between the third and fourth centuries and is venerated in the Catholic Church and Eastern Orthodoxy. According to tradition, she was a widow from Syria who, upon the death of her only son John in the army, miraculously obtained the relics of the martyr St. Varus and transported them to her village, where she built a church in his honor.\n\nIn return for her devotion, Varus is said to have appeared to her in a vision, promising that her son John was already among the blessed. Cleopatra devoted the remainder of her life to prayer and the service of the shrine she had built, and upon her own death she was buried beside the martyr she had honored.\n\nVenerated on 19 October, St. Cleopatra is remembered as a model of widowhood and maternal hope, a woman whose grief was transformed by faith into service of the saints and of the Church.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who comforted St. Cleopatra in her sorrow and rewarded her devotion to Your martyrs, grant through her intercession that widows and grieving parents may find hope in the resurrection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Cleopatra"
+  ],
+  "featured": false,
+  "draft": false
+}

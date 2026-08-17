@@ -1,0 +1,25 @@
+{
+  "slug": "alexander-of-constantinople",
+  "name": "St. Alexander of Constantinople",
+  "feastDay": "08-30",
+  "bio": "Alexander of Constantinople served as bishop of Byzantium from 314 and became the first bishop to hold the see after the city was renamed Constantinople by Constantine in 330. He guided the Church of the new capital through the early years of its rise, when the see of a modest Greek town was transformed into one of the most important centers of the Christian world. Though much of the information about him is legendary, tradition holds that he was a faithful pastor who shepherded his flock through the controversies that roiled the Church around Nicaea. Honored on August 30, he is remembered as a foundational figure of the see that would later become the Patriarchate of Constantinople. His life speaks of the quiet pastoral labor that prepared the way for the Church's future flourishing.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Alexander to shepherd the infant Church of Constantinople and guide it through a time of great change, grant through his intercession that the pastors of Your people may labor faithfully for the unity and growth of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

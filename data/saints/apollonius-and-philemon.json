@@ -1,0 +1,33 @@
+{
+  "slug": "apollonius-and-philemon",
+  "name": "St. Apollonius and Philemon",
+  "feastDay": "03-08",
+  "bio": "Apollonius, a deacon, and his convert Philemon were Christian martyrs of the Diocletianic Persecution, put to death around 303 at Antinoöpolis in Egypt. Philemon had been a famous flute player, mime, and actor in the city, well known for his public performances.\n\nAccording to tradition, Apollonius was arrested for his faith, and Philemon, moved by the deacon's witness, professed himself a Christian and was arrested alongside him. Both refused to sacrifice to the pagan gods and were condemned to death, winning the martyr's crown together.\n\nHonored on March 8, they are remembered as patrons of dancers and performers, the arts by which Philemon once made his living now consecrated by his witness to Christ.",
+  "patronages": [
+    {
+      "need": "dancers",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "actors",
+      "category": "everyday"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the shedding of blood united the deacon Apollonius and the performer Philemon in one confession of faith, grant through their intercession that all who serve in the arts may find in You the source of their gifts and the courage to bear witness to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollonius_and_Philemon"
+  ],
+  "featured": false,
+  "draft": false
+}

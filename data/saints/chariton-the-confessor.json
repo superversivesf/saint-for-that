@@ -1,0 +1,29 @@
+{
+  "slug": "chariton-the-confessor",
+  "name": "St. Chariton the Confessor",
+  "feastDay": "09-28",
+  "bio": "Chariton the Confessor was an early Christian monk venerated as a saint by both the Western and Eastern Churches. According to tradition, he was a native of Iconium (modern Konya) in Asia Minor who was arrested and tortured during the persecution of the Emperor Aurelian in the mid-third century. Upon his release, he traveled to Jerusalem on pilgrimage, intending to live in solitude.\n\nOn the road to Jericho, Chariton was seized by robbers and carried off to their hideout in a cave. There, according to the legend, a serpent drinking their wine killed the bandits with its venom, freeing Chariton, who turned the cave into the first of several lauras (monastic settlements) he would found. He established the renowned monasteries of Pharan, Souka (the Old Lavra), and the Lavra of Faran, making him one of the earliest founders of Palestinian monasticism.\n\nRemembered on 28 September, St. Chariton is honored as a confessor of the faith and a father of monks, whose example of perseverance in suffering and prayer shaped the early monastic tradition of the Holy Land.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Chariton to confess Your name in suffering and to gather monks in the desert of the Holy Land, grant through his intercession that we may endure trials with patience and seek You in silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chariton_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

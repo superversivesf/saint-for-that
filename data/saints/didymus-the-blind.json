@@ -1,0 +1,30 @@
+{
+  "slug": "didymus-the-blind",
+  "name": "St. Didymus the Blind",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Didymus the Blind was a Christian theologian of the fourth century who taught in the great school of Alexandria for nearly half a century. Though he lost his sight in childhood, he devoted himself to the study of scripture and became one of the most learned interpreters of his age, counted a student of Origen and a teacher of many.\n\nHis writings on the Psalms, the Prophets, and the Trinity were widely read in the ancient Church, though much was lost after his work fell from favour. Honoured as a saint, he is invoked as a patron of the blind and of all who, deprived of outward light, seek the light of wisdom and the knowledge of God.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Didymus the Blind light of mind where outward sight was taken away, grant through his intercession that all who lack the light of their eyes may be filled with the light of your wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Didymus_the_Blind"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "demetria-of-rome",
+  "name": "St. Demetria of Rome",
+  "feastDay": "06-21",
+  "canonized": "Pre-Congregation",
+  "bio": "Demetria of Rome was an early Christian virgin and martyr, honoured in the Roman Martyrology on June 21. She came from a noble Roman family that had already given martyrs to the Church, and she chose to consecrate herself wholly to Christ in a life of purity and prayer.\n\nWhen the persecution reached her own household, Demetria remained steadfast and won the crown of martyrdom rather than abandon her faith. She is remembered as one of the noble Roman women whose witness helped to build up the Church in the city of the apostles, and she is invoked as a patron of virgins and of those who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Demetria grace to consecrate her life to you and to die for the name of your Son, grant through her intercession that all who seek purity of heart may stand firm in the face of trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demetria_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

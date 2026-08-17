@@ -1,0 +1,33 @@
+{
+  "slug": "basil-of-caesarea",
+  "name": "St. Basil of Caesarea",
+  "feastDay": "unknown",
+  "bio": "Saint Basil of Caesarea, also called Basil the Great, was an early Christian prelate and one of the most influential theologians in the history of the Church. He served as Bishop of Caesarea Mazaca in Cappadocia from 370 until his death in 379. Basil was a staunch defender of the Nicene Creed and an untiring opponent of heresies such as Arianism and Apollinarianism that threatened the unity of the early Church. Beyond theology, he was a great organizer of monastic life and a champion of the poor, establishing hospitals and hostels for the needy. His liturgical legacy endures in the Divine Liturgy of Saint Basil, still celebrated in Eastern churches. He is honored as a Doctor of the Church.",
+  "patronages": [
+    {
+      "need": "hospitals",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Basil the Great a pillar of orthodox doctrine, a father of monks, and a servant of the poor, grant through his intercession that we may hold fast to the faith, live in charity, and worship you with sincere hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+  ],
+  "featured": false,
+  "draft": false
+}

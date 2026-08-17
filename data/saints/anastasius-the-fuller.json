@@ -1,0 +1,25 @@
+{
+  "slug": "anastasius-the-fuller",
+  "name": "St. Anastasius the Fuller",
+  "feastDay": "unknown",
+  "bio": "Saint Anastasius the Fuller was a Christian martyr of the pre-schism Church. A fuller by trade, one who worked in the cleaning and finishing of cloth, he plied this humble craft first at Aquileia before moving his business to Salona in Dalmatia, in what is now Croatia.\n\nIn Salona he lived as a working Christian at a time of imperial persecution. Arrested for his faith, Anastasius refused to renounce Christ and was put to death, joining the ranks of those whose ordinary labor became extraordinary through the witness of martyrdom.\n\nHe is remembered as a patron of those who work with their hands, and especially of fullers and dyers, trades now largely forgotten but once essential to daily life. His cult reminds the Church that holiness is found in every honest trade.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anastasius from the workshop to the crown of martyrdom, grant through his intercession that we may serve you faithfully in our daily work and bear witness to your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasius_the_Fuller"
+  ],
+  "featured": false,
+  "draft": false
+}

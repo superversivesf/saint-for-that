@@ -1,0 +1,25 @@
+{
+  "slug": "pelagia-the-virgin",
+  "name": "St. Pelagia the Virgin",
+  "feastDay": "06-09",
+  "bio": "Pelagia the Virgin, also called Pelagia of Antioch, lived in the days of the Emperor Diocletian, when the Church was bathed in the blood of martyrs. A young Christian of Antioch, she was renowned for her beauty and for her resolve to keep her baptismal purity undimmed.\n\nWhen Roman soldiers seized her and demanded that she offer sacrifice to the pagan gods, Pelagia refused. Seeing that they meant to dishonor her, she declared that she would not surrender either her faith or her virginity, and by a prodigy of grace she slipped from their hands and leapt from the rooftop to her death, trusting Christ rather than the threats of men.\n\nVenerated in both the Eastern and Western Churches, she is remembered as a virgin martyr who chose death over the violation of body or soul.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the virgin Pelagia grace to choose death rather than the loss of her faith or her purity, grant through her intercession that those who are threatened may find courage in you and preservation of body and soul. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pelagia_the_Virgin"
+  ],
+  "featured": false,
+  "draft": false
+}

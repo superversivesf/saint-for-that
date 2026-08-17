@@ -1,0 +1,25 @@
+{
+  "slug": "caesarius-of-nazianzus",
+  "name": "St. Caesarius of Nazianzus",
+  "feastDay": "03-09",
+  "bio": "Caesarius of Nazianzus was a prominent physician and court physician to the emperors, and the younger brother of Gregory of Nazianzus, one of the Cappadocian Fathers. Born in the mid-fourth century, he excelled in medicine and the liberal arts, studying at Alexandria and Constantinople, where his skill won him high imperial favor under Constantius II and Julian the Apostate.\n\nThough surrounded by worldly success, Caesarius was drawn to the Christian faith by his brother's example and was baptized after narrowly escaping death in an earthquake at Nicaea in 368. He renounced his court position and considered monastic life, but died suddenly in 369 before he could withdraw from the world. Gregory delivered a moving funeral oration for him, praising his integrity amid wealth and power.\n\nHonored as a saint in both the Eastern Orthodox and Roman Catholic Churches, Caesarius is remembered as a model of faithfulness within secular professions, a physician who placed his gifts at the service of God and the poor.",
+  "patronages": [
+    {
+      "need": "physicians",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Caesarius with skill in healing and grace to use his gifts in Your service, grant through his intercession that physicians and all who labor in the sciences may walk faithfully amid the world's allurements. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caesarius_of_Nazianzus"
+  ],
+  "featured": false,
+  "draft": false
+}

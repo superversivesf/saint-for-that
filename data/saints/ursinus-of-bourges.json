@@ -1,0 +1,25 @@
+{
+  "slug": "ursinus-of-bourges",
+  "name": "St. Ursinus of Bourges",
+  "feastDay": "11-09",
+  "bio": "Saint Ursinus of Bourges is venerated by the Catholic Church as the first bishop of Bourges, the ancient Gallic see in central France. He is counted among the earliest evangelists of Gaul, and tradition places his ministry in the first centuries of the Church, when the faith was still taking root in the Roman provinces beyond the Alps.\n\nAs the founding pastor of Bourges, Ursinus is remembered for laying the foundations of a Christian community that would endure for centuries and produce many saints and bishops. His feast is kept on November 9, and he is honored as a model of apostolic zeal and foundational leadership in the early French Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Ursinus as the first bishop of Bourges to establish your Church in Gaul, grant through his intercession that the flock he first gathered may ever remain steadfast in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursinus_of_Bourges"
+  ],
+  "featured": false,
+  "draft": false
+}

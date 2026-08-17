@@ -1,0 +1,45 @@
+{
+  "slug": "verena-of-zurzach",
+  "name": "St. Verena of Zurzach",
+  "feastDay": "09-01",
+  "bio": "Verena of Zurzach, also known simply as Saint Verena, was an early Christian consecrated virgin and hermit venerated in both the Eastern and Western Churches. Her cult is especially strong in Switzerland, where it is attested in Bad Zurzach, the reported place of her burial, from at least the fifth century, making her one of the earliest known Swiss saints.\n\nTradition holds that Verena ministered to the sick and to lepers, dedicating her life of solitude to works of mercy and the care of the suffering. She is invoked as a patron of nurses, virgins, housekeepers, fishermen, millers, and mariners, and her feast is kept on September 1, a day of pilgrimage at Zurzach. Her example of consecrated life joined to practical charity has made her a beloved figure in Alpine devotion for centuries.",
+  "patronages": [
+    {
+      "need": "nursing",
+      "category": "jobs"
+    },
+    {
+      "need": "lepers",
+      "category": "illness"
+    },
+    {
+      "need": "housekeepers",
+      "category": "jobs"
+    },
+    {
+      "need": "fishermen",
+      "category": "jobs"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Verena to a life of consecrated virginity and service to the sick and the poor, grant through her intercession that all who minister to the suffering may do so with tender compassion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Verena_of_Zurzach"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "abai-martyr",
+  "name": "St. Abai",
+  "feastDay": "10-01",
+  "bio": "Abai was a Christian martyr of Syria who suffered during the fierce persecution of Christians under the Sassanian king Shapur II in the fourth century. Born around 335, he was put to death, according to tradition, by his own father Adorpirozgerd, who later converted to Christianity. Abai was killed together with some five thousand other martyrs, including his mother Astina, refusing to renounce his faith even when faced with betrayal by his own family. His name is preserved in the Syriac Orthodox Church and in the Kalendarium Manuale Utriusque Ecclesiae Orientalis et Occidentalis. Remembered for his courage and his refusal to abandon Christ, he is honored on October 1 as a witness to the cost of discipleship and the power of grace even in the midst of violent persecution.",
+  "patronages": [
+    {
+      "need": "the oppressed",
+      "category": "persecution"
+    },
+    {
+      "need": "forgiveness",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Abai to remain faithful even unto death at the hands of those who should have loved him, grant through his intercession that we may forgive those who wrong us and stand firm in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abai_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

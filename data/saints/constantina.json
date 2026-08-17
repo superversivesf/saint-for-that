@@ -1,0 +1,25 @@
+{
+  "slug": "constantina",
+  "name": "St. Constantina",
+  "feastDay": "unknown",
+  "bio": "Flavia Valeria Constantina, later known as Saint Constance, was the eldest daughter of the Roman emperor Constantine the Great and his second wife Fausta, daughter of Emperor Maximian. She may have received the title of Augusta from her father and was married to his nephew Hannibalianus, and later to his Caesar Gallus. She lived at the heart of the Constantinian dynasty in the momentous decades when the Roman Empire turned from paganism to Christianity.\n\nA medieval legend developed around Constantina that is wildly at variance with what is known of her actual character, portraying her as a virgin consecrated to Christ and a worker of miracles. In truth she was an imperial princess of considerable political influence, but she evidently favored the Christian cause, and a basilica at Rome, later dedicated to Santa Costanza, was built over the cemetery where she and her sister Helena were buried.\n\nVenerated as a saint in the Roman Martyrology, Constantina is remembered as a member of the imperial house whose standing advanced the faith, and whose memory was cherished by the people of Rome.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in Your providence placed St. Constantina within the household of emperors, grant through her intercession that those who wield worldly influence may use it for the spread of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantina"
+  ],
+  "featured": false,
+  "draft": false
+}

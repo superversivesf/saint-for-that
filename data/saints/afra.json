@@ -1,0 +1,29 @@
+{
+  "slug": "afra",
+  "name": "St. Afra",
+  "feastDay": "08-07",
+  "bio": "Saint Afra was martyred at Augsburg during the persecution of Diocletian, and her conversion stands among the most striking of the early Church. According to tradition, she had been dedicated to the service of the pagan goddess Venus by her mother, Hilaria, but through the preaching of Bishop Narcissus of Augsburg she was converted to Christianity along with her household. When her faith became known, she was ordered to sacrifice to the pagan gods. She refused, declaring that she could not deny the Christ who had freed her from the darkness of her former life, and she was condemned to death by fire. Honored on August 7, she is remembered as a patron of Augsburg and a model of the power of grace to transform a life. Her witness testifies that no past is beyond the reach of God's mercy.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the preaching of Bishop Narcissus led the martyr Afra from the service of false gods to the knowledge of Your Son, grant through her intercession that all who are bound in darkness may come to the light of Christ and confess His name with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Afra"
+  ],
+  "featured": false,
+  "draft": false
+}

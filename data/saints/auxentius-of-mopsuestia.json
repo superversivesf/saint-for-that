@@ -1,0 +1,29 @@
+{
+  "slug": "auxentius-of-mopsuestia",
+  "name": "St. Auxentius of Mopsuestia",
+  "feastDay": "12-18",
+  "bio": "Auxentius of Mopsuestia was bishop of that city in Cilicia and a saint honored in the Eastern Orthodox and Roman Catholic churches. Baronius placed him in the Roman Martyrology because of a story told by the historian Philostorgius, according to which Auxentius had once been an officer in the army of the emperor Licinius.\n\nWhen Licinius commanded his soldiers to lay offerings of grapes at the feet of a statue of Bacchus, Auxentius refused. Rather than obey an imperial order that would have compromised his faith, he gave up his commission and left the army. He was later raised to the episcopate and served the Church in Cilicia.\n\nTillemont, however, was inclined to believe that Auxentius was sympathetic to Arianism, since he patronized the heretic Aetius. Whatever his theological sympathies, the story of his refusal to sacrifice to Bacchus endured in the tradition. His feast day is December 18.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "conscience",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Auxentius the courage to lay down his commission rather than offer sacrifice to false gods, grant through his intercession that we may obey You rather than any earthly power, and that our conscience may be guided by Your truth alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auxentius_of_Mopsuestia"
+  ],
+  "featured": false,
+  "draft": false
+}

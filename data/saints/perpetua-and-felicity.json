@@ -1,0 +1,29 @@
+{
+  "slug": "perpetua-and-felicity",
+  "name": "St. Perpetua and Felicity",
+  "feastDay": "03-07",
+  "bio": "In the year 203, under the Emperor Septimius Severus, a young noblewoman named Vibia Perpetua was arrested for the faith at Carthage, in North Africa. She was about twenty-two, a new mother still nursing her infant son. Imprisoned with her was the slave Felicity, herself heavy with child. Together they awaited martyrdom in the arena, joined by other catechumens.\n\nPerpetua kept a prison diary, the earliest surviving Christian writing by a woman, recording her visions, her father's pleadings, and her calm resolve. Felicity gave birth to a daughter days before the games, so that she too could face the beasts. On 7 March they entered the arena hand in hand and were slain.\n\nNamed in the Roman Canon, Perpetua and Felicity are invoked by mothers and expectant mothers.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    },
+    {
+      "need": "butchers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the martyrs Perpetua and Felicity in their prison and made them mothers of courage even unto death, grant through their intercession that expectant mothers and all who suffer may bear their trials with faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+  ],
+  "featured": false,
+  "draft": false
+}

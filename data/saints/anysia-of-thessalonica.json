@@ -1,0 +1,29 @@
+{
+  "slug": "anysia-of-thessalonica",
+  "name": "St. Anysia of Thessalonica",
+  "feastDay": "12-30",
+  "bio": "Saint Anysia of Thessalonica was a Christian virgin and martyr of the fourth century. Born to pious and affluent parents who raised her in Christian piety, she was left their wealth when they died while she was still young. She freely distributed it to the poor, choosing for herself a strict life of fasting, vigil, and prayer.\n\nHer martyrdom is set in the reign of the emperor Maximinus, who renewed persecution against the Christians. According to tradition, a soldier met her as she left a place of prayer and, when she refused the pagan sacrifice, struck and killed her. Her relics were honored at the Basilica of Saint Demetrios.\n\nHer feast is kept on December 30. She is remembered as a virgin who gave her wealth to the poor and her life to Christ, and invoked as a patron of single women.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Anysia a virgin rich in poverty and brave in martyrdom, grant through her intercession that we may hold lightly to the goods of this world and firmly to the gift of our faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anysia_of_Thessalonica"
+  ],
+  "featured": false,
+  "draft": false
+}

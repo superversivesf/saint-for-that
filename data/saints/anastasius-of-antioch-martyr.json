@@ -1,0 +1,25 @@
+{
+  "slug": "anastasius-of-antioch-martyr",
+  "name": "St. Anastasius of Antioch",
+  "feastDay": "01-09",
+  "bio": "Anastasius was a Christian convert who suffered martyrdom with Anthony, Julian, Celsus, and Marcionilla during the Diocletianic Persecution at the turn of the fourth century. He is said to have been raised from the dead by Saint Julian of Antioch and, upon that restoration, to have embraced the faith for which he would soon die.\n\nHis memorial is kept on January 9. Anastasius is one of the 140 Colonnade saints whose statues adorn St. Peter's Square in Rome, a testament to the memory of his witness. His relics were taken to the Ravanica Monastery in Serbia, where they are still honored.\n\nHe stands among the converts of the early Church whose new-found faith was proved by martyrdom. His story reminds the faithful that the grace of conversion can carry a soul even to the laying down of life.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Anastasius to confess your name and to die for it, grant through his intercession that those who are newly come to faith may stand firm in trial. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasius_of_Antioch_(martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

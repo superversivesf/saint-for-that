@@ -1,0 +1,25 @@
+{
+  "slug": "abra-of-poitiers",
+  "name": "St. Abra of Poitiers",
+  "feastDay": "12-12",
+  "bio": "Abra of Poitiers, also known as Afra or Apra, is remembered as a Christian saint who may have lived in the fourth century. According to tradition, she was the daughter of a noble Gallic family and chose a life of virginity and consecration to God at a time when such a vocation was rare and countercultural. Little certain information about her survives, but her name has been preserved in the martyrologies of the Western Church, and her cult was known in the region around Poitiers. Honored on December 12, she is remembered as an early witness to the Christian ideal of chastity offered to the Lord. Her quiet devotion stands as a reminder that holiness is often hidden, known to God even when little trace remains in the records of history.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "girls",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Abra of Poitiers to consecrate her life wholly to You in the secret of her heart, grant through her intercession that all who seek to live for You alone may find joy and strength in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abra_of_Poitiers"
+  ],
+  "featured": false,
+  "draft": false
+}

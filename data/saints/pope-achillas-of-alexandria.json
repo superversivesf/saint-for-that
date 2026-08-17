@@ -1,0 +1,25 @@
+{
+  "slug": "pope-achillas-of-alexandria",
+  "name": "St. Achillas of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Achillas served as the eighteenth Patriarch of Alexandria, reigning briefly from 312 to 313 during a turbulent period for the Church of Egypt. He shepherded the see of Saint Mark when the aftermath of the Diocletianic persecution still scarred the Christian community and divisions over the treatment of those who had lapsed under threat of martyrdom strained the faithful. Though his pontificate lasted only a matter of months, he is remembered for his pastoral concern and his efforts to hold the Church together amid competing factions. Honored as a saint in the ancient tradition of the Alexandrian Church, he stands among those early patriarchs whose labors preserved the faith in Egypt through one of its darkest hours. His brief ministry speaks of vigilance and care for the flock of Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Achillas to shepherd the Church of Alexandria in a time of trial, grant through his intercession that all who lead Your people may work for unity and bear their burdens with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Achillas_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "bretannio",
+  "name": "St. Bretannio",
+  "feastDay": "01-25",
+  "bio": "Saint Bretannio was a bishop of Tomi, the ancient city on the Black Sea coast in what is now Romania, during the fourth century. Of Cappadocian origin, he occupied the see of Tomi from around the year 360, shepherding a Christian community that lived on the far frontier of the Roman world. The church of Tomi, situated among Gothic and other peoples, faced unique challenges, and Bretannio's long episcopate provided continuity and stability during a period of great upheaval for Christianity in the region. Little detail of his life has come down to us, but he is remembered as a faithful pastor who governed his distant flock with diligence. The exact year of his death is not recorded.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Bretannio a faithful shepherd of your Church on the distant shores of the Black Sea, grant through his intercession that all pastors may guide their flocks with wisdom and care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bretannio"
+  ],
+  "featured": false,
+  "draft": false
+}

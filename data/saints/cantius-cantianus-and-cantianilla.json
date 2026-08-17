@@ -1,0 +1,29 @@
+{
+  "slug": "cantius-cantianus-and-cantianilla",
+  "name": "St. Cantius, Cantianus, and Cantianilla",
+  "feastDay": "05-31",
+  "bio": "Cantius, Cantianus, and Cantianilla were Roman Christian siblings venerated as saints and martyrs by both the Eastern Orthodox and Roman Catholic Churches. According to tradition, they were the children of a noble Roman family who, along with their tutor Protus, fled the persecution of the Emperor Diocletian and sought refuge near Aquileia in northern Italy.\n\nDiscovered and brought before the authorities, the young siblings refused to sacrifice to the pagan gods. They were summarily executed and buried at a site that became known as San Canzian d'Isonzo, where their shrine was honored from ancient times. Their feast is commemorated on 31 May.\n\nRevered as patrons of children and Christian youth, Cantius, Cantianus, and Cantianilla testify to the courage even the youngest members of the household can show when faith is tested, and their cult endures in the churches of the Veneto and Istria.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "youth",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the young martyrs Cantius, Cantianus, and Cantianilla to confess Your name rather than yield to idols, grant through their intercession that children and youth may stand firm in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cantius%2C_Cantianus%2C_and_Cantianilla"
+  ],
+  "featured": false,
+  "draft": false
+}
