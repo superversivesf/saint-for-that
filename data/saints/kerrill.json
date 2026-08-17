@@ -1,0 +1,22 @@
+{
+  "slug": "kerrill",
+  "name": "St. Kerrill",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Kerrill, known in Irish as Caireall mac Curnain, was a Christian missionary who labored in what is now east County Galway during the mid-to-late fifth century. He belonged to that great wave of early Irish saints who carried the Gospel across the western reaches of Ireland, planting the faith among peoples still nourished by older traditions.\n\nThough few details of his life survive, Kerrill's memory endured in the local Church that took his name, a lasting witness to the holiness of his preaching and the devotion he inspired. He stands among the countless missionary saints of early medieval Ireland whose quiet fidelity built up the Christian people of the West.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Kerrill to proclaim the Gospel among the peoples of Galway, grant through his intercession that missionaries may labor with steadfast hearts and that the faith may take root where it is sown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kerrill"
+  ],
+  "featured": false,
+  "draft": false
+}

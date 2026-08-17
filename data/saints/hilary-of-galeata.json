@@ -1,0 +1,29 @@
+{
+  "slug": "hilary-of-galeata",
+  "name": "St. Hilary of Galeata",
+  "feastDay": "05-15",
+  "bio": "Hilary of Galeata is venerated as a saint by the Eastern Orthodox and Roman Catholic Churches, honored especially in the Romagna of northern Italy. His feast is kept on 15 May, the day on which the faithful of Lugo and Galeata have long commemorated him.\n\nTradition holds that Hilary lived as a hermit and monastic founder in the Apennine valleys of Emilia-Romagna, gathering disciples and establishing a house of prayer near Galeata. His ascetic life and the cures attributed to his prayers drew the devotion of the country people, who invoked him against pains of the back and body.\n\nHe is patron of Lugo and Galeata and is invoked against backache. He stands among the hermit-saints of Italy who brought the monastic life to the mountain valleys.",
+  "patronages": [
+    {
+      "need": "back pain",
+      "category": "illness"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hilary of Galeata to seek you in the solitude of the Apennines and made him an instrument of healing for the sick, grant through his intercession that all who suffer in body may find relief, and that all who seek you in quiet may find your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hilary_of_Galeata"
+  ],
+  "featured": false,
+  "draft": false
+}

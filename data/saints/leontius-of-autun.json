@@ -1,0 +1,22 @@
+{
+  "slug": "leontius-of-autun",
+  "name": "St. Leontius of Autun",
+  "feastDay": "07-01",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Leontius of Autun was a bishop of Autun in Gaul during the fifth century. He is mentioned in the ancient Martyrologium Hieronymianum, one of the earliest Western martyrologies, which preserves the memory of saints honored in the Gallic Church from apostolic times.\n\nHe is sometimes confused with the similarly named Saint Leonorius and with Leontius of Fréjus, who lived around the same era, a reminder of how many holy bishops bore this name in the early Gallic Church. Venerated as a saint in the Catholic Church, Leontius of Autun is honored on July 1, and he has long been regarded as a patron of Autun and of the region of France that grew up around that ancient see.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Leontius a faithful shepherd of Autun and preserved his memory from ancient days, grant through his intercession that the pastors of your Church may serve you with holiness and that your people may walk in the way of the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontius_of_Autun"
+  ],
+  "featured": false,
+  "draft": false
+}

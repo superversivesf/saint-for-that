@@ -1,0 +1,21 @@
+{
+  "slug": "eusebonas",
+  "name": "St. Eusebonas",
+  "feastDay": "unknown",
+  "bio": "Eusebonas was one of the founders of the Bet-Coryph monastery in Byzantine Syria, together with Abibion, who served as the first abbot of that house. He received his instruction from Eusebius, and under that guidance the young community took root in the Syrian landscape, where monasticism flourished in caves and cells cut from the rock.\n\nThe founders of the Syrian monasteries were men of silence, long prayer, and rigorous fasting. Eusebonas helped establish a house that would shape generations of monks devoted to the Psalms, vigils, and manual labor. Though the date of his feast has been lost, his witness endures as a founder of one of the ancient houses of Syrian monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Your servant Eusebonas to help found a house of prayer in the Syrian desert and to gather brothers in Your service, grant through his intercession that we may seek You with the same undivided heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebonas"
+  ],
+  "featured": false,
+  "draft": false
+}

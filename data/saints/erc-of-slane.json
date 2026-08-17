@@ -1,0 +1,25 @@
+{
+  "slug": "erc-of-slane",
+  "name": "St. Erc of Slane",
+  "feastDay": "10-31",
+  "bio": "Erc mac Dega, remembered in some later traditions as Herygh, was an Irish saint of the apostolic age of the Irish Church. He was counted among the disciples of St. Patrick and labored with him in the conversion of the Irish. Tradition ascribes to Erc the foundation of the original monastery on the Hill of Slane, the very height where Patrick is said to have kindled the Paschal fire in defiance of the pagan king.\n\nErc was also active in Cornwall, carrying the Gospel across the sea to the Britons of the far west. He governed his monastery with wisdom and trained a generation of monks in the way of holiness. His memory is woven into the landscape of both Ireland and Cornwall, where ancient chapels and holy wells bear his name.\n\nHe is honored on October 31, and the Hill of Slane remains a place of pilgrimage to his memory.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who kindled the light of the Gospel on the Hill of Slane through your servant St. Erc, grant through his intercession that we may be steadfast in the faith and zealous in spreading your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erc_of_Slane"
+  ],
+  "featured": false,
+  "draft": false
+}

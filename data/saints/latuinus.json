@@ -1,0 +1,22 @@
+{
+  "slug": "latuinus",
+  "name": "St. Latuinus",
+  "feastDay": "06-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Latuinus is venerated as the first bishop of Sées, having shepherded that see during the fifth century, from approximately 400 to 440 AD. He belongs to that early generation of Gallic bishops who, amid the twilight of Roman Gaul, laid the foundations of a Church that would endure for centuries.\n\nThe historicity of the earliest bishops of Sées is difficult to establish, and the learned Louis Duchesne cautioned that for the period before 900 little reliance can be placed on the episcopal catalogue of Séez, known only through later compilations. Yet the memory of Latuinus as a founding pastor has persisted, and his feast on June 20 honors the apostolic beginnings of that local Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who established your Church at Sées through the labors of your first bishop Latuinus, grant through his intercession that the pastors of your people may stand firm in faith and plant the Gospel deep. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Latuinus"
+  ],
+  "featured": false,
+  "draft": false
+}

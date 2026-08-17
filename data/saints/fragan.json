@@ -1,0 +1,25 @@
+{
+  "slug": "fragan",
+  "name": "St. Fragan",
+  "feastDay": "07-05",
+  "bio": "Fragan was a fifth-century pre-Congregational saint venerated in Brittany and remembered as a Prince of Scotland in later tradition. According to the medieval accounts, he traveled from the British Isles to Armorica, the Brittany of his day, during the great migration of Christian Britons to the continent. There he married St. Gwen, and together they raised a family of saints, including Winwaloe, Jacut, Guethenoc, and Creiron, who became founders of monasteries and fathers of the Breton Church. Fragan and Gwen are counted among those early settlers whose faith planted the Gospel deeply in the soil of Brittany, founding churches and fostering the eremitical and monastic life that would mark the region for centuries. He is celebrated on 3 October in the Calendar of the Breton Saints, and he shares with Gwen a feast day on 5 July in the Roman Calendar. His memory has been honored among the saints of Brittany from early times, and he is invoked together with his wife and children as a patron of families.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed the household of blessed Fragan and Gwen with children consecrated to your service, grant, we pray, that through their intercession Christian families may be built on faith and love, and parents may guide their children in the way of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fragan"
+  ],
+  "featured": false,
+  "draft": false
+}

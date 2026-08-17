@@ -1,0 +1,25 @@
+{
+  "slug": "manch-n-of-mohill",
+  "name": "St. Manchán of Mohill",
+  "feastDay": "02-14",
+  "bio": "Saint Manchán of Mohill was an early Christian saint of Ireland credited with founding many churches across the land. His life is entwined with the great age of Irish monasticism, when hermits and abbots established communities of prayer that became beacons of faith and learning. He founded the monastery of Mohill in County Leitrim and is also associated with the monastery of Inisnag and other churches that bore his name. Tradition records that he was invoked against plague, and it is likely that he himself died during the terrible famine brought on by the extreme weather events of 535 to 536, when volcanic winters darkened the skies over Ireland. His feast on February 14 and the annual fair of Monaghan day kept his memory alive among the people. He is honored as a builder of the Church in Ireland and a protector against pestilence.",
+  "patronages": [
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Manchán to found churches and monasteries in Ireland and made him a protector against plague, grant through his intercession that we may build up Your Church in our own day and be delivered from every pestilence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manch%C3%A1n_of_Mohill"
+  ],
+  "featured": false,
+  "draft": false
+}

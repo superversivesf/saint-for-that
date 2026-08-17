@@ -1,0 +1,21 @@
+{
+  "slug": "eustochius",
+  "name": "St. Eustochius",
+  "feastDay": "unknown",
+  "bio": "Eustochius served as the fifth bishop of Tours from 443 to 461, a successor in the see held by Saint Martin. He governed the Church of Tours during the middle decades of the fifth century, when the Gallic Church was consolidating its structure amid the transformations of post-Roman Gaul.\n\nHe was succeeded by his close relative, Saint Perpetuus, one of the most famous bishops of Tours. The rare name Eustochius suggests a link to Saint Eustochium, the Roman ascetic and companion of Saint Jerome; scholars propose his father was Julius Toxotius the Younger, Eustochium's brother, tying the Gallic episcopate to the noble Christian families of late Rome. As bishop he would have been teacher, liturgist, and guardian of the flock of Martin.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Eustochius to shepherd the Church of Tours after the example of Saint Martin, grant through his intercession that our bishops may be faithful guardians of the flock entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eustochius"
+  ],
+  "featured": false,
+  "draft": false
+}

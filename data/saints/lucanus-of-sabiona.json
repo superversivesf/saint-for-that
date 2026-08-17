@@ -1,0 +1,22 @@
+{
+  "slug": "lucanus-of-sabiona",
+  "name": "St. Lucanus of Sabiona",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Lucanus of Sabiona, also known as Lucanus of Säben, was a Roman Catholic saint of the fifth century associated with the Dolomites and the Tyrol. He belongs to that early wave of bishops and hermits who carried the Gospel into the Alpine valleys, planting the faith among peoples who lived under the shadow of great mountains.\n\nHis memory was preserved especially at Säben, the ancient hilltop shrine above the Eisack valley that became one of the oldest pilgrimage places of the Tyrol. Venerated as a saint, Lucanus is honored among the heavenly patrons of that rugged region where the Church took root in ancient days.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Lucanus to carry the Gospel into the Alpine valleys and made his memory a lamp at Säben, grant through his intercession that those who seek you in wild and lonely places may find you near, and that your Church may ever raise up saints in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lucanus_of_Sabiona"
+  ],
+  "featured": false,
+  "draft": false
+}

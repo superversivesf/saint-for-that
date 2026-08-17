@@ -1,0 +1,26 @@
+{
+  "slug": "leontius-of-fr-jus",
+  "name": "St. Leontius of Fréjus",
+  "feastDay": "12-01",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Leontius of Fréjus was a bishop of Fréjus in Provence, likely born toward the end of the fourth century in the city later called Nîmes. He served his episcopal see with devotion during the closing years of the Roman presence in Gaul, a time when the Church was still consolidating its place among the peoples of the West.\n\nHe died in his episcopal town around 443, though some later authorities placed his death much later—a dating his circle of friends and contemporaries makes unlikely. Honored as a saint in both the Catholic and Eastern Orthodox churches, Leontius is commemorated on December 1 and has long been venerated as a patron of Fréjus and of the surrounding region of Provence.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Leontius a faithful shepherd of Fréjus and preserved his memory in Provence from ancient days, grant through his intercession that the pastors of your Church may serve you with holiness and that your people may walk in the way of the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontius_of_Fr%C3%A9jus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "eusebius-of-cremona",
+  "name": "St. Eusebius of Cremona",
+  "feastDay": "unknown",
+  "bio": "Eusebius of Cremona was a fifth-century monk and disciple of Saint Jerome, one of the circle of learned and ascetic Christians who gathered around the great Scripture scholar in Bethlehem and Rome. He accompanied Jerome on his travels, supported his literary labors, and shared the harsh discipline of the ascetic life Jerome taught.\n\nThe followers of Jerome were marked by their love of Scripture, contempt for worldly comfort, and defense of the faith amid the controversies of the age. Eusebius belonged to this company of pre-congregational saints, honored in the early centuries before formal canonization. Though the record of his life is brief, his association with Jerome and the monastic witness of his generation secured his place among the saints.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Eusebius of Cremona to follow Saint Jerome in the pursuit of holiness and sacred learning, grant through his intercession that we may hunger for Your word and live according to it. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius_of_Cremona"
+  ],
+  "featured": false,
+  "draft": false
+}

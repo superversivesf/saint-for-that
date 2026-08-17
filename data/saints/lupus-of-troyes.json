@@ -1,0 +1,26 @@
+{
+  "slug": "lupus-of-troyes",
+  "name": "St. Lupus of Troyes",
+  "feastDay": "07-29",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Lupus was an early bishop of Troyes, shepherding that Gallic see in the fifth century. Around the year 426, the bishops of Britain, troubled by the spread of Pelagianism, requested assistance from the bishops of Gaul in defending the faith. Lupus and Saint Germanus of Auxerre were sent across the Channel together, and their mission helped restore orthodox teaching to the British Church.\n\nLupus governed Troyes with wisdom through years of invasion and change, and his name is remembered among the great bishops of Gaul who labored to keep the Church united and true. His feast day is July 29.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your bishops Lupus and Germanus across the sea to confirm the British Church in the truth, grant through the intercession of Saint Lupus that your people may ever be guarded from error and that pastors may defend the faith with courage and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lupus_of_Troyes"
+  ],
+  "featured": false,
+  "draft": false
+}

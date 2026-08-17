@@ -1,0 +1,29 @@
+{
+  "slug": "ia-of-cornwall",
+  "name": "St. Ia of Cornwall",
+  "feastDay": "02-03",
+  "bio": "Ia of Cornwall was an evangelist and martyr of the fifth or sixth century, said to have been an Irish princess and the sister of Saint Erc of Slane. According to tradition, she set out by sea to join her brother and other missionaries in preaching the Gospel in Cornwall. When she arrived too late for the departing ship, she trusted in God and, it is told, sailed across the sea upon a leaf, landing on the Cornish coast.\n\nThere she preached the faith to the pagan inhabitants and gathered a community of virgins around her. The town of St Ives preserves her name and marks the place of her mission. Ia was martyred for her witness to Christ, and her shrine drew pilgrims for centuries. She is honored as a patron of St Ives, Cornwall, and of those who travel by sea.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your virgin and martyr Ia courage to cross the sea and proclaim the Gospel among the peoples of Cornwall, grant through her intercession that we may boldly confess the faith and trust in your providence through every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ia_of_Cornwall"
+  ],
+  "featured": false,
+  "draft": false
+}

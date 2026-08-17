@@ -1,0 +1,26 @@
+{
+  "slug": "macedonius-of-syria",
+  "name": "St. Macedonius of Syria",
+  "feastDay": "01-24",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Macedonius, called the Hermit and sometimes Macedonius Kritophagus, lived at the turn of the fourth to fifth century in Byzantine Syria. He embraced the eremitical life in a land where the desert had long been a school of holiness, and he sought God through years of fasting, prayer, and solitude in the wild places east of the Mediterranean.\n\nHis austerities became legendary, and disciples gathered around the man who had fled the world to find it. Venerated as a saint, Macedonius is honored on January 24 and remembered among the desert fathers whose witness shaped the monastic inheritance of the whole Church.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Macedonius into the desert of Syria and made him a father of solitaries through years of fasting and prayer, grant through his intercession that those who seek you in silence may find you, and that the monastic witness of your Church may ever be strong. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macedonius_of_Syria"
+  ],
+  "featured": false,
+  "draft": false
+}

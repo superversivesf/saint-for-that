@@ -1,0 +1,26 @@
+{
+  "slug": "leontine-martyrs",
+  "name": "St. Leontine martyrs",
+  "feastDay": "12-20",
+  "canonized": "Pre-Congregation",
+  "bio": "The Leontine Martyrs were a group of nine Armenian clergymen who suffered and died after a long captivity in Persia during the fifth century. They were executed by order of the Sasanian king Yazdegerd II in the year 455, five years after the insurrection led by Vardan Mamikonian, when the Christian Armenians who refused to renounce their faith were made to answer with their lives.\n\nThe group is named after Leontius of Vanand, their leading figure. These faithful servants of Christ endured imprisonment and, in the end, death rather than abandon the Gospel they had confessed. Their feast on December 20 honors a whole company of shepherds who laid down their lives for the flock they could not forsake.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the Leontine martyrs strength to endure captivity and death rather than deny your Son, grant through their intercession that all who suffer for the faith may stand firm and that the persecuted Church may not lose hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontine_martyrs"
+  ],
+  "featured": false,
+  "draft": false
+}

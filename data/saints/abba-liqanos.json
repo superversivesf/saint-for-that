@@ -1,0 +1,26 @@
+{
+  "slug": "abba-liqanos",
+  "name": "St. Abba Liqanos",
+  "feastDay": "12-07",
+  "canonized": "Pre-Congregation",
+  "bio": "Abba Liqanos was one of the Nine Saints of Ethiopia, that remarkable company of missionaries who crossed the Red Sea in the fifth or sixth century and planted the Christian faith deep in the highlands of Aksum. He labored alongside companions whose memory is still honored by the Ethiopian Church, and he is remembered especially as a composer of hymns and liturgies.\n\nHis chants and prayers shaped the worship of a Church that would endure for centuries in isolation, preserving an ancient form of Christian devotion. Venerated as a saint, Liqanos is honored on December 7 and counted among the founders of Christian worship in the land of Ethiopia.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Liqanos among the Nine Saints to plant the faith in the highlands of Ethiopia and gave him songs to make your praise ring out, grant through his intercession that missionaries may labor with joyful hearts and that the worship of your Church may ever be filled with beauty. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Liqanos"
+  ],
+  "featured": false,
+  "draft": false
+}

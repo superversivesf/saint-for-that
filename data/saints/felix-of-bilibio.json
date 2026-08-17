@@ -1,0 +1,25 @@
+{
+  "slug": "felix-of-bilibio",
+  "name": "St. Felix of Bilibio",
+  "feastDay": "unknown",
+  "bio": "Felix of Bilibio, known in Spanish as San Felices de Bilibio, was a hermit and holy man of the fifth century who lived in Roman Spain. Seeking solitude and a life wholly given to God, he withdrew to the rugged hills of Bilibio, in the region of La Rioja, where he devoted himself to prayer, fasting, and contemplation. His reputation for holiness drew disciples and pilgrims to the remote place of his retreat, and he became for the surrounding people a model of the eremitical life and a living witness to the Gospel. Later tradition associates him with the training of St. Prudentius, who became bishop of Tarazona, and credits him with fostering the Christian faith in the Ebro valley. The mountain of San Felices, which bears his name, remained a place of pilgrimage long after his death, and his memory has been honored among the saints of Spain from ancient times. He is counted among those early Spanish ascetics whose prayers sanctified the land before the great monastic foundations of later centuries.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called blessed Felix to seek you in the solitude of the hills and to devote himself to unceasing prayer, grant, we pray, that through his intercession we may learn to withdraw from the noise of the world and find you in the stillness of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Bilibio"
+  ],
+  "featured": false,
+  "draft": false
+}

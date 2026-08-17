@@ -1,0 +1,21 @@
+{
+  "slug": "fachtna-of-kiltoom",
+  "name": "St. Fachtna of Kiltoom",
+  "feastDay": "unknown",
+  "bio": "Fachtna of Kiltoom was an Irish Christian saint who lived around the year 460, in the generation that followed the mission of Saint Patrick. His father was Dubhthach moccu Lughair, the Chief Ollam of Ireland, the high poet and jurist of the island, which placed Fachtna at the meeting point of the old Gaelic learned class and the new Christian faith.\n\nKiltoom, in the barony of Fore in County Westmeath, preserves his name, the Irish cill indicating a church or monastic settlement founded on the site. The early saints of Ireland were monks and bishops who established churches and wove the faith into Gaelic society. Fachtna belonged to that first generation of native Irish saints.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Fachtna of Kiltoom from the family of the poets of Ireland to serve Your Church, grant through his intercession that the gifts of learning and faith may be joined in our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fachtna_of_Kiltoom"
+  ],
+  "featured": false,
+  "draft": false
+}

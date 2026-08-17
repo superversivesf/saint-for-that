@@ -1,0 +1,29 @@
+{
+  "slug": "gaudiosus-of-naples",
+  "name": "St. Gaudiosus of Naples",
+  "feastDay": "10-27",
+  "bio": "Gaudiosus of Naples, also called Gaudiosus the African, was a bishop of Abitina, a village near Carthage in the Roman province of Africa, in what is now western Tunisia. He belonged to that great line of African bishops who shepherded the Church in one of the most fertile and troubled heartlands of early Christianity, a region that produced confessors, martyrs, and doctors in abundance.\n\nWhen the Vandals swept across Roman Africa in the fifth century, Gaudiosus was among the African bishops who fled the persecution and made their way to Italy. He settled at Naples, where his holiness and learning won him the veneration of the local church, and he is counted among the saints who brought the spiritual heritage of Christian Africa to the Italian south.\n\nHonored at Naples on October 27, Gaudiosus stands as a witness to the exiled bishops of Africa and to the far-reaching consequences of the Vandal persecution, which scattered the saints of one church to become the treasures of another.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "migrants",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence led St. Gaudiosus the African from his persecuted see to find a home at Naples, grant through his intercession that all who are driven from their homelands may find welcome and that the persecuted Church may never lack faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudiosus_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

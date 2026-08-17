@@ -1,0 +1,25 @@
+{
+  "slug": "pope-innocent-i",
+  "name": "St. Innocent I",
+  "feastDay": "unknown",
+  "bio": "Pope Innocent I served as bishop of Rome from 401 until his death on March 12, 417. From the beginning of his pontificate he was recognized as the general arbitrator of ecclesiastical disputes in both East and West. He confirmed the prerogatives of the Archbishop of Thessalonica as his vicar in the Eastern Illyricum and issued a decretal on disciplinary matters referred to him by the Bishop of Rouen.\n\nWhen Saint John Chrysostom was unjustly exiled from Constantinople, Innocent defended him and appealed for his restoration. He consulted with the bishops of Africa on the Pelagian controversy, confirming their synods and upholding grace. His pontificate spanned the sack of Rome by the Visigoths in 410, a catastrophe he labored to relieve. He is honored as a saint in East and West.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Innocent a steadfast shepherd of the Apostolic See and a defender of justice for the exiled and the oppressed, grant through his intercession that your Church may be united in truth and governed in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Innocent_I"
+  ],
+  "featured": false,
+  "draft": false
+}

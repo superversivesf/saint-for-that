@@ -1,0 +1,25 @@
+{
+  "slug": "glywys",
+  "name": "St. Glywys",
+  "feastDay": "unknown",
+  "bio": "Glywys is a legendary early fifth-century Welsh king and saint, revered as the eponymous founder of Glywysing, a southeast Welsh kingdom whose heartland lay between the rivers Tawe and Usk. Though the records blend history and legend, the Welsh genealogies preserve him as a noble ruler who fathered a dynasty and gave his name to a people.\n\nAccording to tradition, Glywys embraced the Christian faith and was venerated after his death as a saint, his memory woven into the landscape of early medieval Wales. He is counted among the royal saints of Britain who turned the kingdoms of the Celts toward Christ.\n\nHis cult endured in the churches of Glamorgan and Gwent, where the faithful remembered him as a kingly patron. The date of his feast has not survived.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence raised up Glywys to rule and to lead his people toward your name, grant through his intercession that all who bear authority may serve with justice and hand on the faith to those who come after them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glywys"
+  ],
+  "featured": false,
+  "draft": false
+}

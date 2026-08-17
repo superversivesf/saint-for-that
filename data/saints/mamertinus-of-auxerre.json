@@ -1,0 +1,25 @@
+{
+  "slug": "mamertinus-of-auxerre",
+  "name": "St. Mamertinus of Auxerre",
+  "feastDay": "03-30",
+  "bio": "Saint Mamertinus of Auxerre was a monk and abbot of the Abbey of Saints Cosmas and Damian in Auxerre. He was converted to the religious life by Saint Germanus of Auxerre, the great fifth-century bishop whose preaching and miracles renewed the faith in Gaul. Under Germanus's guidance, Mamertinus embraced the monastic vocation and entered the community dedicated to the healer-martyrs Cosmas and Damian, devoting himself to prayer, obedience, and the discipline of the cloister. In time he was chosen to serve as abbot of the monastery, governing the brethren with wisdom and fidelity. Honored on March 30, he is remembered as a faithful son of Saint Germanus and a witness to the monastic ideal that shaped the early Church in Gaul, guiding souls toward God through the common life of prayer and work.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Mamertinus from the world to the monastic life through the preaching of Saint Germanus, and made him a faithful shepherd of his brethren, grant through his intercession that we may embrace our vocation with the same obedience and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mamertinus_of_Auxerre"
+  ],
+  "featured": false,
+  "draft": false
+}

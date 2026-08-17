@@ -1,0 +1,29 @@
+{
+  "slug": "madron-saint",
+  "name": "St. Madron",
+  "feastDay": "unknown",
+  "bio": "Saint Madron, also called Maddern, was a pre-Congregational saint venerated in Cornwall, where he is remembered as a monk and hermit. Though few historical details of his life survive, his cult was flourishing by the early Middle Ages, centered on the parish of Madron near Penzance and the ancient holy well at Madron Well, where pilgrims long sought healing through his intercession. He is counted among the early Celtic saints who brought the Christian faith to the far west of Britain, living a life of prayer, fasting, and solitude in the Cornish countryside. Tradition holds that he was a companion or spiritual heir of earlier missionary saints who labored among the Britons. His quiet witness as a hermit made the wilderness a school of holiness, and the faithful of Cornwall have honored him for centuries as a protector and healer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Madron to seek You in the solitude of the Cornish wilderness and made his prayers a fountain of healing for the faithful, grant through his intercession that we may withdraw from the noise of the world to find You in silence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madron_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

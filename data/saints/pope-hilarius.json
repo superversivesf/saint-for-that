@@ -1,0 +1,25 @@
+{
+  "slug": "pope-hilarius",
+  "name": "St. Hilarius",
+  "feastDay": "11-17",
+  "bio": "Pope Hilarius, bishop of Rome from 461 to 468, was born in Sardinia and rose through the Roman clergy under Pope Leo the Great, whom he served as a deacon and legate. At the Latrocinium of Ephesus in 449, he was sent as papal envoy and barely escaped with his life, an ordeal that shaped his lifelong defense of orthodoxy.\n\nAs pope he strengthened the authority of the Roman see throughout the West, confirming the decrees of the great councils and asserting the primacy of the Apostolic See against the pretensions of Gallic and Spanish bishops. He built chapels and libraries in Rome and adorned the Lateran.\n\nHilarius died on 29 February 468 and was buried in San Lorenzo fuori le Mura. His feast is kept on 17 November; he is honored as a champion of the faith and a builder of the Church of Rome.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope St. Hilarius a steadfast defender of your Church against error and a builder of your holy temples, grant through his intercession that the See of Peter may ever stand firm in the truth, and that all who serve the altar may build up your people in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Hilarius"
+  ],
+  "featured": false,
+  "draft": false
+}

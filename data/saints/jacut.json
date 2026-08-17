@@ -1,0 +1,25 @@
+{
+  "slug": "jacut",
+  "name": "St. Jacut",
+  "feastDay": "02-08",
+  "bio": "Jacut was a fifth-century saint born in Cornwall who labored as a missionary in Brittany, one of the many Celtic saints who crossed the Channel to plant the Gospel among the Armorican Britons. After the Roman withdrawal from Britain, he carried the faith westward.\n\nHe is associated with the founding saints of Brittany and is commemorated liturgically on February 6 (kept here on February 8 following local Breton calendars). His cult centers on the region where he labored, and he is remembered among the quiet builders of the Church in the far west.\n\nLittle detail of his life survives beyond his Cornish birth and Breton ministry, yet his memory endures in the parishes and place-names that bear his name—a witness to the monastic missionary zeal that shaped early medieval Brittany.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "travel"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Your servant Jacut from Cornwall to Brittany to proclaim the Gospel among the Bretons, grant through his intercession that we may carry the faith wherever You lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jacut"
+  ],
+  "featured": false,
+  "draft": false
+}

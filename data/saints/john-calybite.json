@@ -1,0 +1,29 @@
+{
+  "slug": "john-calybite",
+  "name": "St. John Calybite",
+  "feastDay": "01-15",
+  "bio": "John Calybite was a Greek monk and hermit venerated by both the Eastern Orthodox and Roman Catholic Churches. Born to a devout family, he left home as a young man and journeyed to Jerusalem, where he entered a monastery and spent several years learning the disciplines of prayer and obedience.\n\nAfter six years he returned home disguised as a beggar, so changed by asceticism that his own parents did not recognize him. Out of charity they allowed the unknown poor man to live in a small hut near their door, and there John remained for three years, enduring heat and cold, unknown to those who had raised him. Only on his deathbed did he reveal himself to his mother, who had unknowingly sheltered her son.\n\nHis feast is kept on January 15. He is a patron of those who live in poverty and humility.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your servant John Calybite the grace to live unknown and unheeded at his parents' door, teach us to seek humility rather than honor and to find You in the hidden poverty of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Calybite"
+  ],
+  "featured": false,
+  "draft": false
+}

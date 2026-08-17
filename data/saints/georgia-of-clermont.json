@@ -1,0 +1,29 @@
+{
+  "slug": "georgia-of-clermont",
+  "name": "St. Georgia of Clermont",
+  "feastDay": "02-15",
+  "bio": "Saint Georgia was a virgin and hermit who lived near Clermont in the Auvergne region of central France. She belongs to that early galaxy of Gallic solitaries who, in the centuries after the fall of Rome, sought God in the hills and forests of Gaul, carrying forward the desert tradition of the East in a wilder and colder land.\n\nLittle is recorded of the details of her life, but her memory endured among the faithful of the Auvergne, who honored her as a woman who set aside the world to give herself wholly to prayer. She is one of the number of early female hermits of Gaul whose very obscurity testifies to a veneration rooted not in written acts but in the quiet devotion of local churches.\n\nRevered as a saint in both the Catholic and the Orthodox Church, Georgia is commemorated on February 15 as a witness to the eremitical life and to the women of early Gaul who chose the desert of the heart over the consolations of the world.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Georgia to seek you in solitude near Clermont, grant through her intercession that those who choose a life of prayer may find you in the silence and that single women may know the dignity of their vocation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Georgia_of_Clermont"
+  ],
+  "featured": false,
+  "draft": false
+}

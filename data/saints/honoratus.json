@@ -1,0 +1,29 @@
+{
+  "slug": "honoratus",
+  "name": "St. Honoratus",
+  "feastDay": "01-16",
+  "bio": "Honoratus was born into a Roman consular family in Gaul, and after his conversion resolved to live wholly for God. He journeyed to the East to learn from the monks of the desert, and returning to the Mediterranean coast, founded the monastery of Lérins on a small island off modern-day Cannes. Around 410 he gathered a community that became one of the most influential monasteries of the early medieval Church, training bishops and scholars such as Vincent of Lérins and Faustus of Riez.\n\nIn 426 Honoratus was reluctantly raised to the see of Arles, where he served as archbishop with the same simplicity he had taught his monks. He died around 429, mourned by his friend Hilary, who succeeded him and wrote of his gentleness. Honoratus is invoked for rain and against drought.",
+  "patronages": [
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through your servant Honoratus founded the monastery of Lérins as a seedbed of holiness and learning, grant through his intercession that the fields may receive the rain they need and that all who labor for the harvest may be sustained in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honoratus"
+  ],
+  "featured": false,
+  "draft": false
+}

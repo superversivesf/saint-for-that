@@ -1,0 +1,26 @@
+{
+  "slug": "mac-cairthinn-of-clogher",
+  "name": "St. Mac Cairthinn of Clogher",
+  "feastDay": "03-24",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Mac Cairthinn, also known as Macartan or McCartan, is recognized as the first presiding Bishop of Clogher, serving from 454 until his death. He was one of the earliest Christian saints in Ireland, laboring in the generation after Saint Patrick to establish the Church among the peoples of Ulster.\n\nHe is known as Patrick's \"Threin Fhir,\" the \"Strong Man,\" for his dedication and faithfulness to the fledgling Church—a title that speaks of the trust the great apostle placed in him. His feast day is March 24, and he is honored as a founder of the Church in the north of Ireland and a patron of the diocese he shepherded.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Mac Cairthinn the strength that won him the name of Patrick's Strong Man, grant through his intercession that those who labor for the young Church in every land may be steadfast and faithful, and that your people may grow in holiness under their care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mac_Cairthinn_of_Clogher"
+  ],
+  "featured": false,
+  "draft": false
+}

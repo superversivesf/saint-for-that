@@ -1,0 +1,26 @@
+{
+  "slug": "leontius-of-trier",
+  "name": "St. Leontius of Trier",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Leontius of Trier served as bishop of Trier from 414 to 445, shepherding that ancient see during a turbulent age when the Roman frontier along the Rhine was under mounting pressure and the great migrations were beginning to reshape the map of Europe.\n\nThough the chronicles preserve few details of his labors, the long episcopate of Leontius speaks to the stability and continuity he brought to the Church in Trier, one of the earliest and most important metropolitan sees of Gaul. He guided his flock through decades of upheaval, holding fast to the faith in a city that had itself been an imperial capital.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Leontius grace to shepherd the ancient see of Trier through years of turmoil, grant through his intercession that the Church may stand firm in every age and that those who lead your people may be faithful to the end. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontius_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

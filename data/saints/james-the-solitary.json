@@ -1,0 +1,29 @@
+{
+  "slug": "james-the-solitary",
+  "name": "St. James the Solitary",
+  "feastDay": "11-26",
+  "bio": "James the Solitary was a hermit saint of the fifth century and a disciple of St. Maron, the patriarch and founder of the Maronite Catholic Church. He lived in Syria, where the ascetic tradition of the desert was flourishing, and he took up the solitary life in the footsteps of his master.\n\nAs a student of Maron, James belonged to that stream of holiness that joined the eremitical life to a deep attachment to the liturgy and doctrine of the Church. The title \"the Solitary\" marks his commitment to prayer apart from the world, a life the early Syrian church held in the highest honor.\n\nHis feast is commemorated on November 26. He is remembered among the hermits and monks who shaped the spiritual heritage of the Maronite tradition, a witness to the hidden life offered to God in the desert.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant James to the solitary life in the desert and made him a disciple of the holy Maron, grant through his intercession that we may learn to seek You in silence and to rest in Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/James_the_Solitary"
+  ],
+  "featured": false,
+  "draft": false
+}

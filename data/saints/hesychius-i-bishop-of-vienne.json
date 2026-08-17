@@ -1,0 +1,25 @@
+{
+  "slug": "hesychius-i-bishop-of-vienne",
+  "name": "St. Hesychius I",
+  "feastDay": "unknown",
+  "bio": "Saint Hesychius, or Isicius, was bishop of Vienne in the Dauphiné of Gaul, a see that counted among its pastors some of the most distinguished churchmen of late antiquity. He governed the Church of Vienne in the turbulent centuries after the fall of the Western Empire, when the bishops of Gaul stood as guardians of order and the faith.\n\nThough the details of his life are scant, the ancient martyrologies of the Dauphiné venerate him as a holy bishop and confessor who shepherded his flock with zeal. He is commemorated among the saints of the Church of Vienne, which for centuries honored its bishops as intercessors before God.\n\nThe date of his feast is not preserved, but his memory endured among the faithful of the Rhône valley as a witness to the apostolic succession in Gaul.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Hesychius the grace to shepherd the Church of Vienne in days of trial, grant through his intercession that all who are called to holy orders may serve your people with zeal and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hesychius_I_(bishop_of_Vienne)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "eusebius-bishop-of-milan",
+  "name": "St. Eusebius",
+  "feastDay": "08-12",
+  "bio": "Eusebius served as Archbishop of Milan from 449 to 462, leading one of the most important sees of the Western Church in a decisive generation. He succeeded in the chair held by St. Ambrose, and his episcopate spanned the closing years of the Western Roman Empire.\n\nAs archbishop, Eusebius would have been responsible for catechumens, clergy, and the preservation of the faith in a city that had become a crossroads of theology and culture. The Church in Milan honored him as a saint and kept his feast on August 12, remembering a pastor who held his see steady through unsettled times. The exact details of his labors have passed into shadow, but the fact of his sanctity was preserved by the community that knew him.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Eusebius to govern the Church of Milan after the example of Saint Ambrose, grant through his intercession that our shepherds may teach with wisdom and lead with charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

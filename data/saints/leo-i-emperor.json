@@ -1,0 +1,22 @@
+{
+  "slug": "leo-i-emperor",
+  "name": "St. Leo I",
+  "feastDay": "01-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Leo I, surnamed the Thracian, was Eastern Roman emperor from 457 to 474. A native of Dacia Aureliana near historic Thrace, he rose from the ranks of the army to the imperial throne and ruled from Constantinople during a formative century for the Eastern Church.\n\nHe is sometimes called \"the Great,\" likely to distinguish him from his young grandson and co-augustus Leo II. His reign spanned a period when the emperors of the East played an active role in the affairs of the Church, and his memory has been preserved in Christian tradition alongside the rulers who governed the empire in which the early councils shaped the faith.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence raised up rulers to govern the nations, grant through the intercession of Leo that those entrusted with authority may serve justice and peace and uphold the dignity of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leo_I_(emperor)"
+  ],
+  "featured": false,
+  "draft": false
+}

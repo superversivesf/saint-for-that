@@ -1,0 +1,29 @@
+{
+  "slug": "marcellinus-of-carthage",
+  "name": "St. Marcellinus of Carthage",
+  "feastDay": "09-13",
+  "bio": "Saint Marcellinus of Carthage was a Christian martyr and high imperial official who died for the faith in the year 413. He served as secretary of state of the Western Roman Empire under the emperor Honorius, placing him at the very center of imperial power, yet he remained a steadfast Christian and a close friend of Saint Augustine of Hippo. He was also a trusted correspondent of Saint Jerome, sharing with both fathers the concerns of a Church beset by heresy and political turmoil. It was to Marcellinus that Saint Augustine dedicated the first books of his masterwork, The City of God, inviting him to ponder the eternal kingdom amid the ruins of the temporal one. Falsely accused and executed on orders of the emperor, Marcellinus embraced death as a witness to Christ. He is honored as a martyr who served both Church and empire with a clear conscience.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    },
+    {
+      "need": "lawyers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Marcellinus of Carthage the courage to serve the empire with a clear conscience and to lay down his life rather than betray the faith, grant through his intercession that we may be faithful in our duties and steadfast in our witness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcellinus_of_Carthage"
+  ],
+  "featured": false,
+  "draft": false
+}

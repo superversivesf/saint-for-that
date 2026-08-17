@@ -1,0 +1,29 @@
+{
+  "slug": "germanus-of-auxerre",
+  "name": "St. Germanus of Auxerre",
+  "feastDay": "07-31",
+  "bio": "Saint Germanus of Auxerre was a western Roman clergyman who served as bishop of Autissiodorum (Auxerre) in late antique Gaul. He abandoned a high-ranking career as a government official to devote his formidable energy to the promotion of the Church and the protection of his flock in dangerous times, personally confronting, for instance, the barbarian king Goar on behalf of his people.\n\nIn Britain he is best remembered for his journey to combat Pelagianism in or around 429 AD, and the records of this visit provide some of the most valuable information that survives on the state of post-Roman British society. He also played an important part in the establishment and promotion of the cult of Saint Alban, the proto-martyr of Britain: Alban was said to have revealed the story of his martyrdom to Germanus in a dream or holy vision, and Germanus ordered this to be written down for public display.\n\nVenerated as a saint in both the Catholic Church and the Eastern Orthodox Church, which commemorate him on July 31, Germanus stands as a bridge between the Roman and the post-Roman worlds, a bishop who defended doctrine, protected his people, and helped recover the memory of Britain's first martyr.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Germanus from high office to the episcopate and sent him to defend the faith in Britain and Gaul, grant through his intercession that bishops may confront the powers of this age with courage and that your Church may ever preserve the memory of her martyrs. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_of_Auxerre"
+  ],
+  "featured": false,
+  "draft": false
+}

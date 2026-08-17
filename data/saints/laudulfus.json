@@ -1,0 +1,22 @@
+{
+  "slug": "laudulfus",
+  "name": "St. Laudulfus",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Laudulfus was a fifth-century bishop of Normandy in France, numbered among the pre-congregational saints honored from ancient times. He served the Church in the early days of evangelization in the Gallic north, when the structures of the diocesan Church were still being established among peoples newly come to the faith.\n\nThough the particulars of his life have largely faded from the record, his cult endured in the local tradition of Normandy, where his name was kept in honor as one of the early shepherds who tended the flock of Christ in that land. He is remembered as a faithful pastor of a young Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Laudulfus to shepherd your people in early Normandy, grant through his intercession that the Church may never lack faithful pastors to guide her in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laudulfus"
+  ],
+  "featured": false,
+  "draft": false
+}

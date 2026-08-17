@@ -1,0 +1,25 @@
+{
+  "slug": "julitta-cornwall",
+  "name": "St. Julitta",
+  "feastDay": "unknown",
+  "bio": "Saint Julitta, also called Saint Juliot, was a male Celtic saint of the late fifth century to whom two Cornish churches are dedicated. He is believed to have settled at the site of Tintagel Castle and established a small monastic community there, on that rocky coast where the Christian faith was still young.\n\nIn some accounts he is numbered among the Children of Brychan, and St. Nectan and the holy hermit St. Keyne are thought to have been his companions. He is patron of the parish churches of St. Juliot and Lanteglos by Camelford, and the Norman chapel of Tintagel Castle is dedicated to him. At Jetwells near Camelford is a holy well, \"Juliot's well.\"\n\nHis feast day is not widely recorded. He is remembered among the Celtic saints who planted the faith in the far west of Britain.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Julitta to plant a monastic community on the rocky coast of Cornwall and to hallow its wells and chapels, grant through his intercession that we may build up Your Church in the places where You have set us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julitta_(Cornwall)"
+  ],
+  "featured": false,
+  "draft": false
+}

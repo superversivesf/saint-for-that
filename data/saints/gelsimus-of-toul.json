@@ -1,0 +1,21 @@
+{
+  "slug": "gelsimus-of-toul",
+  "name": "St. Gelsimus of Toul",
+  "feastDay": "unknown",
+  "bio": "Saint Gelsimus of Toul, also known as Saint Celsin, was the fourth bishop of Toul in the ancient province of Lorraine in eastern France. He belongs to that early line of Gallic bishops whose names and acts have come down to us only in fragments, but whose succession gave continuity to the Church in a region that would become one of the great heartlands of European Christianity.\n\nLittle is recorded of his life beyond his place in the episcopal catalogue of Toul, yet his veneration as a saint testifies to the holiness with which he was remembered by the people he served. The early bishops of Gaul labored in a Church still finding its footing after the fall of Roman order, planting seeds that later generations would harvest in the great monastic and episcopal centers of the Middle Ages.\n\nVenerated as a pre-congregational saint by the Roman Catholic Church, Gelsimus is remembered among the founders of the Church at Toul, a quiet witness to the apostolic succession in the Frankish lands.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Gelsimus as a faithful bishop of Toul, grant through his intercession that the succession of pastors in your Church may never fail and that those who labor in obscurity may be known to you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gelsimus_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

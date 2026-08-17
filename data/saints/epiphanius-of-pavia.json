@@ -1,0 +1,25 @@
+{
+  "slug": "epiphanius-of-pavia",
+  "name": "St. Epiphanius of Pavia",
+  "feastDay": "01-21",
+  "bio": "Epiphanius was born in 438 to a noble family of Pavia and was marked from childhood for service at the altar. Ordained lector, then subdeacon and deacon, he advanced through every order with humility and grace. In 466, while still a young man, he was chosen Bishop of Pavia, succeeding to the see at a turbulent hour in the dying days of the Western Empire.\n\nAs bishop he labored for thirty years to shepherd his flock through war, famine, and the upheavals of barbarian invasion. He was renowned as a peacemaker and diplomat, journeying to the courts of barbarian kings to plead for his ravaged people. Ancient historians preserved his courage and the veneration in which his city held him.\n\nHe fell asleep in the Lord on January 21, 496, and was buried in Pavia, where his shrine was honored for centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Epiphanius a faithful shepherd of Pavia and a peacemaker among the violent, grant through his intercession that your Church may be governed with wisdom and that we may labor for peace in our day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Epiphanius_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

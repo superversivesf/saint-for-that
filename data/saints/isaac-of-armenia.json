@@ -1,0 +1,29 @@
+{
+  "slug": "isaac-of-armenia",
+  "name": "St. Isaac of Armenia",
+  "feastDay": "09-08",
+  "bio": "Isaac, or Sahak, the Great was Catholicos of the Armenian Church from about 387 until about 438, the last patriarch directly descended from Saint Gregory the Illuminator, who converted the Kingdom of Armenia to Christianity in the early fourth century. Known as Sahak the Parthian after his father's Parthian origin, he inherited both the office and the holiness of his ancestor.\n\nIsaac supported the monk Mesrop Mashtots in creating the Armenian alphabet, unlocking Scripture for the Armenian people. He joined in translating the Bible into Armenian, the work that fixed the language and nourished the faith of the nation. He governed the Church through decades of upheaval, preserving her unity and doctrine. He died around 438 and is venerated among the greatest saints of the Armenian Church.",
+  "patronages": [
+    {
+      "need": "linguists",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Isaac the Great wisdom to guide the Armenian Church and zeal to open your Word to a people in their own tongue, grant through his intercession that all peoples may hear the Scriptures in a language they understand and be nourished by your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isaac_of_Armenia"
+  ],
+  "featured": false,
+  "draft": false
+}

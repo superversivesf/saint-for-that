@@ -1,0 +1,21 @@
+{
+  "slug": "euphronius-of-autun",
+  "name": "St. Euphronius of Autun",
+  "feastDay": "unknown",
+  "bio": "Euphronius served as bishop of Autun in Burgundy during the turbulent decades between 450 and 490, when the fading Roman order gave way to the emerging Christian kingdoms of Gaul. He was counted by later historians among the greatest bishops of Gaul in the fifth century, a shepherd who guided his diocese through a time of political upheaval, barbarian pressure, and the consolidation of the Church in the West.\n\nAs bishop of an ancient see, Euphronius would have been a teacher, administrator, and guardian of the faith in a city that traced its Christian roots deep into the Gallo-Roman past. The details of his life have largely faded, yet the memory of a holy and capable pastor remained strong enough to secure his place among the saints of Gaul.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Euphronius to govern Your Church in Autun with wisdom and holiness in a time of upheaval, grant through his intercession that our pastors may stand firm in faith and lead Your people with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphronius_of_Autun"
+  ],
+  "featured": false,
+  "draft": false
+}

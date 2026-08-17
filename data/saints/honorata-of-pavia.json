@@ -1,0 +1,25 @@
+{
+  "slug": "honorata-of-pavia",
+  "name": "St. Honorata of Pavia",
+  "feastDay": "01-11",
+  "bio": "Honorata of Pavia was a consecrated virgin of the fifth century, the youngest of four pious sisters—Speciosa, Luminosa, Liberata, and Honorata—all venerated as virgins in the Church. She was the sister of Saint Epiphanius, bishop of Pavia, who educated her and dedicated her to God from her youth.\n\nWhen Odoacer sacked Pavia in 476, Honorata was among those captured and carried off. Her brother Epiphanius ransomed her along with the other prisoners, and she returned to a life of prayer and charity. She lived in sanctity and died peacefully, and was buried beside Epiphanius in St. Vincent's Church. In sacred art she appears in a tunic holding a book, the emblem of her learning and devotion. Her feast is kept on the anniversary of her death.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Honorata to a life of virginity and sustained her through captivity and ransom, grant through her intercession that those held captive in body or spirit may be set free to serve you in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honorata_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "faustus-of-riez",
+  "name": "St. Faustus of Riez",
+  "feastDay": "09-28",
+  "bio": "Faustus of Riez was an early Bishop of Riez (Rhegium) in Southern Gaul, in the region of Provence, during the fifth century. Raised in a monastic tradition influenced by St. Cassian of Marseille, he became renowned as the most distinguished and articulate opponent of Pelagianism in the West, defending the Church's teaching on grace and the necessity of divine assistance for every good work. Chosen to lead the see of Riez, he governed his flock with pastoral zeal while contending against the errors of his age, writing and preaching on the interior life and the working of grace in the soul. He took part in the councils of his time and upheld Catholic doctrine against the teachings of Pelagius and his followers, who claimed that human will alone, unaided by grace, could merit salvation. His writings on grace and free will influenced later Gallican theology, and he was revered as a holy bishop, a defender of orthodoxy, and a father of the Church in Gaul. Venerated from antiquity, his memory is kept on 28 September.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up blessed Faustus as a faithful shepherd to defend the doctrine of your grace against every error, grant, we pray, that through his intercession we may be strengthened in your truth and ever acknowledge that every good gift comes from you. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustus_of_Riez"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "lupicinus-of-condat",
+  "name": "St. Lupicinus of Condat",
+  "feastDay": "03-21",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Lupicinus of Condat, also known as Lupicin of Lauconne or Lupicin of Jura, was an abbot of the fifth century and the brother of Saint Romanus of Condat. Together they embraced the eremitical life in the wild country of the Jura mountains, seeking God in solitude and austerity.\n\nLupicinus is noted for founding abbeys at Saint-Claude in the Jura mountains and at Lauconne in France, communities that became centers of prayer and learning in a harsh land. His feast day is March 21, and he is remembered as one of the fathers of monasticism in the West, a man who turned wilderness into a school of holiness.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught your abbot Lupicinus to seek you in the wilderness of the Jura and to found houses of prayer in the mountains, grant through his intercession that those who long for solitude may find you there, and that monks and hermits may persevere in their holy calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lupicinus_of_Condat"
+  ],
+  "featured": false,
+  "draft": false
+}

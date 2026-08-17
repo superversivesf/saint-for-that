@@ -1,0 +1,26 @@
+{
+  "slug": "lupicinus-of-lyon",
+  "name": "St. Lupicinus of Lyon",
+  "feastDay": "02-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Lupicinus of Lyon served as the first Archbishop of Lyon from 491 to 494, holding the primatial see of the Gauls during the difficult years that followed the collapse of Roman authority in the West. He was Bishop of Lyon at a time when the city's ancient church was laboring to preserve the faith amid upheaval and uncertainty.\n\nThough his episcopate was brief, his place as the first to bear the archiepiscopal title at Lyon marks him out in the long line of that great see. His feast day is February 3, and he is honored among the early bishops of Gaul who shepherded the Church through the twilight of one age and the dawn of another.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Lupicinus the first archbishop of Lyon and a shepherd of the Gauls in troubled days, grant through his intercession that the pastors of your Church may stand firm when the world is shaken, and that your people may hold fast to the faith of the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lupicinus_of_Lyon"
+  ],
+  "featured": false,
+  "draft": false
+}

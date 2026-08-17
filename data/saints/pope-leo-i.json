@@ -1,0 +1,26 @@
+{
+  "slug": "pope-leo-i",
+  "name": "St. Leo I",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Leo I, known as Leo the Great, was Bishop of Rome from September 29, 440 until his death on November 10, 461. He is the first of only three popes listed in the Annuario Pontificio with the title \"the Great,\" and he is honored as a Doctor of the Church.\n\nHis pontificate came at a decisive hour for the Church and the fading Roman world. In 452 he met Attila the Hun at Mantua and persuaded him to turn back from Rome. His letters articulated the doctrine of the Incarnation with such clarity that his Tome of Leo was received at the Council of Chalcedon in 451 as the voice of Peter himself.\n\nHe taught that the unity of the Church rests on the confession of faith entrusted to the apostolic see, and he governed the see of Rome with a vision that shaped the papacy for centuries.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Leo the Great a steadfast confessor of the faith of Christ and a wise shepherd of your Church, grant through his intercession that your people may hold fast to the truth of the Incarnation and live in the unity of your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Leo_I"
+  ],
+  "featured": false,
+  "draft": false
+}

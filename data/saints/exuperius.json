@@ -1,0 +1,25 @@
+{
+  "slug": "exuperius",
+  "name": "St. Exuperius",
+  "feastDay": "09-28",
+  "bio": "Exuperius served as Bishop of Toulouse at the beginning of the fifth century, leading the Church of southern Gaul during the years when the Roman Empire in the West was entering its final crisis. He was a pastor, teacher, and defender of his see in a city that would become a great center of Christian learning.\n\nAs bishop, Exuperius was remembered for his care for the poor and for building up the Church of Toulouse. Tradition holds that he sent relics and treasures to strengthen the faithful and governed with wisdom during invasion and instability. His shrine at Toulouse kept his memory alive for centuries. Honored as a saint of the early Gallic Church, his feast is kept on September 28.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Exuperius to shepherd the Church of Toulouse with charity and courage in a time of trial, grant through his intercession that we may serve the poor with generous hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Exuperius"
+  ],
+  "featured": false,
+  "draft": false
+}

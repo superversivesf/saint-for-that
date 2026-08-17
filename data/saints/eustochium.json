@@ -1,0 +1,29 @@
+{
+  "slug": "eustochium",
+  "name": "St. Eustochium",
+  "feastDay": "09-28",
+  "bio": "Eustochium Julia was born into the Julian clan, one of the high aristocratic families of late fourth-century Rome. Despite her noble rank, she embraced the ascetic life as a consecrated virgin, guided by the teaching and friendship of Saint Jerome, whose circle of Roman women devoted themselves to Scripture, prayer, and discipline.\n\nUnder Jerome's direction she committed herself to perpetual celibacy, fasting, and study of the sacred texts. Jerome addressed to her a famous letter on virginity, one of the key texts of Western monastic spirituality. When Jerome departed for Bethlehem, Eustochium and her mother Paula followed, and together they established monasteries and a hospice in the Holy Land. Venerated by Catholic and Orthodox alike, her feast is kept on September 28.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Eustochium from the nobility of Rome to a life of virginity, learning, and prayer beside Saint Jerome, grant through her intercession that we may love Your word above every worldly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eustochium"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "abba-guba",
+  "name": "St. Abba Guba",
+  "feastDay": "06-05",
+  "bio": "Abba Guba was one of the Nine Saints of Ethiopia, a band of holy monks who journeyed from the Eastern Roman world in the late fifth century to plant the monastic life in the kingdom of Aksum. He and his companions brought with them the traditions of Syrian and Egyptian asceticism.\n\nKnown above all as a healer, Guba founded a monastery at Madara in Ethiopia, where his prayers were sought by the sick and the suffering. The hagiographies of the Ethiopian Church recount the cures worked through his intercession and the multitudes who came seeking relief of body and soul.\n\nHis feast is kept on 5 June, when the Ethiopian and Coptic faithful remember the Nine Saints as the fathers of African monasticism. He is honored as a patron of healing and of those who labor for the sick.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Abba Guba to the land of Ethiopia as a healer of bodies and souls, grant through his intercession that all who suffer may find relief, and that the monastic life may flourish wherever your name is preached. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Guba"
+  ],
+  "featured": false,
+  "draft": false
+}

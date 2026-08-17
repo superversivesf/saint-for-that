@@ -1,0 +1,29 @@
+{
+  "slug": "gaudentius-of-brescia",
+  "name": "St. Gaudentius of Brescia",
+  "feastDay": "10-25",
+  "bio": "Gaudentius served as Bishop of Brescia in northern Italy from 387 until 410, succeeding St. Philastrius on that ancient see. He was a theologian of considerable learning and a prolific author whose letters and sermons circulated among the churches of late antique Italy, offering guidance to clergy and laity alike in a time when the Church was still consolidating its witness against heresy and amid the upheavals that preceded the fall of Rome.\n\nThough much of his written corpus has been lost, the surviving works reveal a pastor attentive to doctrine and to the spiritual formation of his people. He is remembered among the bishops of the late fourth century who labored to hand on the faith intact in uncertain times.\n\nVenerated from antiquity as a saint, Gaudentius is honored at Brescia on October 25 and stands as a witness to the erudition and pastoral zeal of the early Italian episcopate.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gaudentius a faithful shepherd of Brescia and a teacher of your truth, grant through his intercession that bishops may be steadfast in doctrine and that all who write may hand on the faith with clarity and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudentius_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

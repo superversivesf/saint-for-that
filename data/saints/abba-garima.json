@@ -1,0 +1,25 @@
+{
+  "slug": "abba-garima",
+  "name": "St. Abba Garima",
+  "feastDay": "06-24",
+  "bio": "Abba Garima was one of the Nine Saints of Ethiopia, a group of monastic fathers traditionally said to have arrived from the Roman East during the late fifth century to strengthen the young Church of the Aksumite kingdom. According to Ethiopian tradition, the Nine Saints came to Ethiopia bearing the monastic discipline and the learning of the Syriac and Greek churches, and they are credited with translating Scripture and theological works into Ge'ez, the ancient liturgical language of the Ethiopian Church. Abba Garima is remembered as a father of monks, founding a monastery at Enda Garima in the highlands of Tigray, which became one of the enduring centers of Ethiopian monasticism. A hagiography of his life was composed in a late fifteenth-century gadl, or Acts, written at Enda Garima by a bishop named Yohannan, preserving the memory of his holiness, his miracles, and his labors for the Gospel. His feast is kept on 24 June, and his monastery remains a place of pilgrimage to this day, bearing witness to the deep roots of the faith in the land of Ethiopia.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent blessed Garima among the Nine Saints to plant the monastic life and the Gospel in the highlands of Ethiopia, grant, we pray, that through his intercession the Church in every land may be built up in prayer, learning, and the fear of your name. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Garima"
+  ],
+  "featured": false,
+  "draft": false
+}

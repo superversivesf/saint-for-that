@@ -1,0 +1,25 @@
+{
+  "slug": "flavian-ii-of-antioch",
+  "name": "St. Flavian II of Antioch",
+  "feastDay": "unknown",
+  "bio": "Flavian II of Antioch served as Patriarch of Antioch from 498 until his deposition and subsequent banishment in 512. Chosen to lead the see in succession to Palladius, he governed during the difficult years that followed the Henotikon, when the churches of the East were divided over the question of Christ's two natures. Flavian sought to maintain the communion of his see with both the imperial court and the see of Rome, but pressure from the Monophysite party and the Emperor Anastasius led to his downfall. In 512 he was deposed and exiled, being replaced by Severus, who held doctrines contrary to the Council of Chalcedon. Flavian remained steadfast in the orthodox confession of Christ, true God and true man, and suffered for his fidelity, dying in exile. He is numbered among the confessors who bore witness to the Catholic faith under persecution from those in power, and his memory has been preserved among the saints of Antioch as one who suffered rather than betray the truth handed down from the apostles.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave blessed Flavian the courage to confess the truth of your Son rather than yield to the powerful of this world, grant, we pray, that through his intercession we may be steadfast in faith and patient in every trial. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavian_II_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

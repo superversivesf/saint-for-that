@@ -1,0 +1,29 @@
+{
+  "slug": "euphrasius-african-bishop",
+  "name": "St. Euphrasius",
+  "feastDay": "01-14",
+  "bio": "Saint Euphrasius, called Euphrasius of Africa, was a bishop of Roman Africa in the fifth century, laboring among the faithful of the province when the Vandals swept across the sea and brought the Arian heresy in their train. In the 430s he was seized by a band of Vandals who practiced the Arian creed, and he was put to death for his refusal to renounce the Catholic faith.\n\nHis relics were carried to the island of Corsica for safekeeping, and there the first cathedral of Ajaccio was dedicated in his honor together with Saint John. For centuries he was venerated in the Roman Martyrology, though his name was later removed. His feast was kept on January 14.\n\nHe remains honored in Corsica and among those who remember the African Church, a martyr of the confession of the orthodox faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Euphrasius with martyrdom for the orthodox faith, grant through his intercession that we may confess your truth without wavering and find in you a safe refuge against every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphrasius_(African_bishop)"
+  ],
+  "featured": false,
+  "draft": false
+}

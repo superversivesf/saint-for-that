@@ -1,0 +1,29 @@
+{
+  "slug": "florentius-african-saint",
+  "name": "St. Florentius",
+  "feastDay": "unknown",
+  "bio": "Saint Florentius was a North African bishop during the latter Roman Empire, venerated as a saint by the Catholic Church. He is known to history from hagiographies and the Notitia Provinciarum et Civitatum Africae, which records the bishops of the African Church. He served as Bishop of Simminensis, a see about thirty kilometers east of Carthage in Roman North Africa. He suffered persecution under the Arian Vandal king Huneric for his role in the Council of Carthage of 484, where he supported the Catholic position rejecting Arianism. For his fidelity to the faith he was exiled to the island of Corsica and condemned to hard labor, yet even in exile he continued his apostolic work until his death. According to tradition he was first buried in the town that bears his name, San Fiorenzo. In 760 the bishop of Treviso, Titian, discovered his relics through a vision and transferred them to his city, placing them in the church of St. John the Baptist. His remains are now venerated in the Cathedral of Treviso, where they are displayed for the devotion of the faithful.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "immigrants",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave blessed Florentius the grace to confess your truth even in chains and exile, grant, we pray, that through his intercession all who suffer for the faith may be sustained in hope, and all who are banished from their homes may find in you their refuge and their strength. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florentius_(African_saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "mamilian-of-palermo",
+  "name": "St. Mamilian of Palermo",
+  "feastDay": "06-16",
+  "bio": "Saint Mamilian, also called Mamilianus, was a bishop of Palermo in Sicily during the fifth century. He is venerated together with the saints Nympha, Eustotius, Proculus, and Golbodeus, a company of early Sicilian confessors whose memory shaped the piety of the island. As bishop he shepherded the Christian community of Palermo through a formative age of the Church, guiding the faithful in doctrine and worship. After his death his cult spread through Tuscany, especially in the diocese of Pitigliano-Sovana-Orbetello and on the island of Isola del Giglio, where traditions of his wanderings and miracles took root. Honored on June 16, he is remembered as a pastor who carried the Gospel across Sicily and beyond, leaving a heritage of devotion that endures in the churches that still bear his name.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Mamilian a faithful bishop of Palermo and spread his memory through the churches of Sicily and Tuscany, grant through his intercession that all pastors may guide their people with the same zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mamilian_of_Palermo"
+  ],
+  "featured": false,
+  "draft": false
+}

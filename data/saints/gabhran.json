@@ -1,0 +1,25 @@
+{
+  "slug": "gabhran",
+  "name": "St. Gabhran",
+  "feastDay": "unknown",
+  "bio": "Saint Gabhran was a fifth-century Irish saint, venerated from ancient times among the early confessors and ascetics of the Church in Ireland. Little that is certain has come down to us concerning the details of his life, but his name is preserved among the saints of the Irish tradition, in which the memory of those who prayed, taught, and labored for the Gospel in the age of the country's conversion was carefully guarded. The Ireland of his century was a land newly hearing the Gospel, where monastic settlements were rising and the eremitical life was taking root. Gabhran is numbered among those holy men and women whose prayers sanctified the island in the generations before the great flowering of Irish monasticism, and whose intercession was sought by the faithful of later ages. His memory is a reminder that the holiness of the Irish Church was built upon the hidden lives of many saints whose names are barely recorded, yet whose witness was received into the treasury of the Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in every age raise up hidden saints whose names are known to you alone, grant, we pray, that through the intercession of blessed Gabhran we may seek you in simplicity of heart and be numbered among those who serve you unseen. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Gabhran"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "euphrosyne-of-alexandria",
+  "name": "St. Euphrosyne of Alexandria",
+  "feastDay": "01-16",
+  "bio": "Euphrosyne of Alexandria was a young Egyptian woman who, seeking to consecrate herself to God, disguised herself as a man and entered a monastery, where she lived as the monk Smaragdus for thirty-eight years. Her asceticism, long vigils, and hidden virtue earned the admiration of her own father, who came seeking counsel from the monk he did not know was his daughter.\n\nHer story belongs to the ancient tradition of holy women who pursued the monastic life under a male guise, giving themselves wholly to prayer. The Roman Catholic Church honors her feast on January 16, the Greek Orthodox and Byzantine Catholics on September 25, and the Episcopal Church on September 27. She is remembered for her courage, self-denial, and the patient humility that sustained her hidden life.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your handmaid Euphrosyne to renounce the world and seek You in the hidden life of a monastery, grant through her intercession that we may have the courage to follow wherever You lead. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphrosyne_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

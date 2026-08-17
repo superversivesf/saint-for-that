@@ -1,0 +1,25 @@
+{
+  "slug": "germanus-of-man",
+  "name": "St. Germanus of Man",
+  "feastDay": "07-13",
+  "bio": "Saint Germanus of Man, also known as Saint Germanus of Peel, was the first bishop of the Isle of Man, that small and windswept island in the Irish Sea whose Christian roots reach back to the age of the Celtic saints. He belongs to that great missionary generation that carried the faith from Ireland and the Celtic lands into the smaller islands and coastal regions of the British world.\n\nAs the first to hold the episcopal office on Man, Germanus faced the task of organizing a church among a people still emerging from their pre-Christian past, gathering clergy, building churches, and planting the sacramental life that would sustain the island's faithful across the centuries. His memory has endured particularly at Peel, where his name is preserved in the ancient chapel of Saint German that overlooks the sea.\n\nVenerated as a saint from antiquity, Germanus is commemorated on July 13 as a founder and first pastor of the Church on Man, a witness to the reach of the Celtic mission into the remotest corners of the British Isles.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Germanus to be the first bishop of Man and to plant your Church on that island, grant through his intercession that missionaries may carry the gospel to the ends of the earth and that those who serve remote peoples may never be forgotten. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_of_Man"
+  ],
+  "featured": false,
+  "draft": false
+}

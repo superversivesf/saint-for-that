@@ -1,0 +1,29 @@
+{
+  "slug": "gurthiern",
+  "name": "St. Gurthiern",
+  "feastDay": "07-03",
+  "bio": "Gurthiern was a Welsh prince of the early medieval age who, according to the Vita sancta Gurthierni, renounced his royal inheritance to embrace the life of a hermit. Crossing the sea to Brittany, he sought solitude in the forests of the Armorican peninsula, there to give himself wholly to prayer and penance.\n\nIn that wild country he gathered disciples around his hermitage and became the founder of an abbey at Quimperlé, one of the ancient monastic houses of Celtic Brittany. Honored by both the Catholic and Orthodox Churches, his feast is kept on 3 July, the day of his repose.\n\nGurthiern is remembered as a royal saint who exchanged a crown for a habit, and whose wilderness cell became a fountain of monastic life for the Breton people.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gurthiern to leave his kingdom and seek you in the solitude of Brittany, grant through his intercession that we may renounce whatever keeps us from your love, and that in silence and prayer we may find you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gurthiern"
+  ],
+  "featured": false,
+  "draft": false
+}

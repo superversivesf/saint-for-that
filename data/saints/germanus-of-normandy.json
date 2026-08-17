@@ -1,0 +1,25 @@
+{
+  "slug": "germanus-of-normandy",
+  "name": "St. Germanus of Normandy",
+  "feastDay": "05-02",
+  "bio": "Germanus of Normandy, known as Germanus the Scot, was a disciple of the great St. Germanus of Auxerre, from whom he received his baptismal name at the font. Drawn by the fame of the bishop's holiness, the young convert followed his spiritual father and imbibed from him a love of prayer, learning, and the monastic discipline.\n\nAfter the death of Germanus of Auxerre, his disciple journeyed to Normandy, where he devoted himself to asceticism and contemplation. He is venerated throughout the Norman countryside, where his memory was cherished by early Christian communities who traced their faith to the missionary labors of his master.\n\nGermanus died in the odor of sanctity; his feast is kept on 2 May. He is remembered as a faithful disciple and a quiet builder of the Church in northern Gaul.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Germanus of Normandy to follow in the footsteps of his holy master and to seek you in a life of prayer, grant through his intercession that we too may be faithful disciples of Christ and find in solitude the depths of your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_of_Normandy"
+  ],
+  "featured": false,
+  "draft": false
+}

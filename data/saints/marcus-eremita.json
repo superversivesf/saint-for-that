@@ -1,0 +1,33 @@
+{
+  "slug": "marcus-eremita",
+  "name": "St. Marcus Eremita",
+  "feastDay": "05-20",
+  "bio": "Saint Marcus Eremita, also known as Mark the Ascetic or Marcus the Ascetic, was a Christian theologian and ascetic writer of the fifth century. He lived the solitary life of a desert monk, devoting himself to prayer, fasting, and the labor of composing spiritual writings that would guide souls toward God. His works, which survive in the traditions of the Eastern Church, treat the inner life of prayer, the struggle against the passions, and the path of continual repentance. He is counted among the ascetic fathers whose writings shaped the spiritual theology of monasticism, joining the wisdom of the desert to the discipline of the pen. Honored on May 20, he is remembered as a teacher of the interior life, whose words still counsel the soul that seeks God in silence and humility.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gifted Saint Marcus the Ascetic with the wisdom of the desert and the pen of a theologian, grant through his intercession that we may conquer our passions by prayer and write the truth of Your love upon our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcus_Eremita"
+  ],
+  "featured": false,
+  "draft": false
+}

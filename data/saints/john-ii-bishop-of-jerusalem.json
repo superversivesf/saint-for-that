@@ -1,0 +1,25 @@
+{
+  "slug": "john-ii-bishop-of-jerusalem",
+  "name": "St. John II",
+  "feastDay": "unknown",
+  "bio": "John II served as Bishop of Jerusalem from AD 387 until his death in AD 417, succeeding Cyril of Jerusalem. He guided the Church of Jerusalem during a formative age, when the holy city was becoming a great center of pilgrimage and liturgical life under imperial patronage.\n\nAccording to an increasing number of modern scholars, John was the author of the five Mystagogical Catecheses traditionally ascribed to Cyril. These writings guide the newly baptized through the meaning of the sacraments and stand among the most precious witnesses to early Christian worship.\n\nHis feast day is not widely recorded. He is remembered as a bishop who tended the see of Jerusalem in the generation after Cyril and helped shape the Church's understanding of her sacred mysteries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your bishop John a faithful shepherd of Jerusalem and a guide to the meaning of the sacred mysteries, grant through his intercession that we may treasure the sacraments of the Church and live them with understanding. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_II_(bishop_of_Jerusalem)"
+  ],
+  "featured": false,
+  "draft": false
+}

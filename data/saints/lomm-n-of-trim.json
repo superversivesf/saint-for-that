@@ -1,0 +1,22 @@
+{
+  "slug": "lomm-n-of-trim",
+  "name": "St. Lommán of Trim",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Lommán mac Dalláin was a saint and patron of Trim in County Meath, one of that early generation of Irish Christians who lived in the wake of Saint Patrick and helped establish the Church across the island. Though few details of his life survive, his memory was strong enough to make him the patron of a town that would become one of the most storied places in medieval Ireland.\n\nTrim's ancient church and its later fame bear witness to the holiness of the man whose name it carried. Lommán stands among the countless local saints of early medieval Ireland whose quiet fidelity built up the Christian people.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Lommán a patron of Trim and preserved his name among the saints of Ireland, grant through his intercession that those who labor in quiet places for your name may see their work endure, and that your people may grow in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lomm%C3%A1n_of_Trim"
+  ],
+  "featured": false,
+  "draft": false
+}

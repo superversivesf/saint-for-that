@@ -1,0 +1,29 @@
+{
+  "slug": "julia-of-corsica",
+  "name": "St. Julia of Corsica",
+  "feastDay": "05-22",
+  "bio": "Julia of Corsica, also known as Julia of Carthage, was a virgin and martyr of the early Church. Born to a noble Christian family in Carthage, she was carried off into slavery by the Vandals during their conquest of North Africa in the early fifth century. Sold to a Syrian merchant named Eusebius, she served in captivity with such fidelity that her master marveled at her, yet refused every freedom that would require her to forsake her faith.\n\nWhen Eusebius's ship put in at Corsica, he joined a pagan festival and commanded Julia to take part. On her refusal she was beaten and, in the common account, crucified, her hands and feet fastened to a cross, sharing the death of her Lord. Her body was taken by the clergy and buried with honor.\n\nPatroness of Corsica, her feast is May 22.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your virgin and martyr Julia the grace to choose death rather than the denial of her faith, grant through her intercession that we may bear our crosses with the same courage and remain steadfast in the confession of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Julia_of_Corsica"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "aelia-eudocia",
+  "name": "St. Aelia Eudocia",
+  "feastDay": "unknown",
+  "bio": "Aelia Eudocia Augusta was born Athenais, the daughter of the pagan philosopher Leontius, and was raised among the schools of Athens, learned in Greek poetry and rhetoric. Her beauty and learning brought her to the court of Constantinople, where the Emperor Theodosius II chose her as his bride. Baptized into the Christian faith, she took the name Eudocia and ruled as Empress of the East.\n\nA poet of no mean gift, she composed Homerocentones, weaving the verses of Homer into retellings of the Scriptures. After an estrangement from the imperial court, she withdrew permanently to Jerusalem, where she devoted her wealth and remaining years to the support of the city's poor and the adornment of its churches.\n\nShe died in Jerusalem around 460, revered as a saint for her charity, her learning, and her penitent humility in the Holy City.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Eudocia from the schools of Athens to the humility of Jerusalem, and made her a patron of the poor and a poet of your praise, grant through her intercession that we may use our gifts for your glory and the service of the needy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aelia_Eudocia"
+  ],
+  "featured": false,
+  "draft": false
+}

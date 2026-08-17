@@ -1,0 +1,25 @@
+{
+  "slug": "glycerius-bishop-of-milan",
+  "name": "St. Glycerius",
+  "feastDay": "09-20",
+  "bio": "Glycerius was Archbishop of Milan from 436 to 438, holding the Ambrosian see in the generation after St. Ambrose and during the tense years when the Empire reeled under barbarian pressure and theological controversy. Though his archiepiscopate was brief, he is honored by both the Catholic Church and the Eastern Orthodox Church as a saint and confessor.\n\nThe ancient martyrologies preserve his name among the holy bishops of Milan, commending him for his fidelity to the orthodox faith at a time when Arian and Nestorian disputes tore at the unity of the Church. His feast is kept on 20 September.\n\nGlycerius stands as a quiet witness to the perseverance of the see of Milan, a pastor who kept watch over his flock in difficult days and handed on the deposit of faith undiminished.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Glycerius the grace to guard the faith of the Church of Milan in a time of division, grant through his intercession that all who hold the office of bishop may preserve the unity of your Church and the purity of your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Glycerius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

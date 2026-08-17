@@ -1,0 +1,25 @@
+{
+  "slug": "iserninus",
+  "name": "St. Iserninus",
+  "feastDay": "unknown",
+  "bio": "Saint Iserninus was an early Christian missionary to Ireland, associated with Saint Patrick and Saint Auxilius in establishing the Church in the south of the island. More recent scholarship, however, associates him not with Patrick but with Palladius, the bishop sent by Pope Celestine I around 431 to the Irish who already believed in Christ. He may thus belong to the earlier, Palladian mission that laid foundations before Patrick's greater work.\n\nIserninus labored to plant the faith among the Irish, preaching, administering the sacraments, and ordaining clergy for the young communities. His name stands among the first missionaries to Ireland, those who turned a pagan land into a stronghold of the faith. He is honored as a bishop and confessor of the early Irish Church.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Iserninus to sow the seeds of faith in Ireland, grant through his intercession that missionaries may carry the Gospel to every nation and that the Church may flourish where it is planted. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iserninus"
+  ],
+  "featured": false,
+  "draft": false
+}

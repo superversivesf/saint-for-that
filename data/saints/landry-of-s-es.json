@@ -1,0 +1,22 @@
+{
+  "slug": "landry-of-s-es",
+  "name": "St. Landry of Sées",
+  "feastDay": "07-16",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Landry of Sées, also known as Landericus, was a Gallo-Roman saint and the third Bishop of Sées in Gaul during the fifth century. The earliest record of a person bearing the name Landry dates to around the year 450, identifying him as a shepherd of the Church in troubled times.\n\nHe governed his diocese with pastoral care amid the upheavals that followed the decline of Roman rule in Gaul, holding fast to the faith and guiding his flock through uncertain days. He died on March 4 in the year 480, and his memory has been honored on July 16, the day set for his feast.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Landry a faithful shepherd of the Church at Sées in days of trial, grant through his intercession that all bishops may govern your people with wisdom and steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Landry_of_S%C3%A9es"
+  ],
+  "featured": false,
+  "draft": false
+}

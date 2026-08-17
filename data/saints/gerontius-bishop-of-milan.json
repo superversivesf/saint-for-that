@@ -1,0 +1,25 @@
+{
+  "slug": "gerontius-bishop-of-milan",
+  "name": "St. Gerontius",
+  "feastDay": "05-05",
+  "bio": "Gerontius served as Archbishop of Milan from 462 to 465, shepherding the great Ambrosian see in the turbulent decades that followed the decline of the Western Roman Empire. Inheriting the cathedra once held by St. Ambrose, he governed his flock with care amid political upheaval and the pressures of a changing world.\n\nLittle detail of his life survives in the ancient records, but the Church of Milan honored him as a saintly pastor who preserved the faith and the liturgy entrusted to him. His feast is kept on 5 May, the day on which the Milanese Church commemorates its early bishops.\n\nGerontius is remembered as a confessor of the faith and a link in the unbroken chain of holy bishops who held the see of Milan through the stormy years of late antiquity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gerontius a faithful shepherd of the Church of Milan, grant through his intercession that the pastors of your people may govern with wisdom and love, and that the faithful may stand firm in every age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerontius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

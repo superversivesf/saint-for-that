@@ -1,0 +1,25 @@
+{
+  "slug": "idus-of-leinster",
+  "name": "St. Idus of Leinster",
+  "feastDay": "07-14",
+  "bio": "Idus of Leinster was an Irish saint of the fifth century, counted among the early band of evangelists who carried the Gospel across the island. According to tradition, he was a disciple of Saint Patrick, by whom he was baptized and formed in the faith. He took part in the Great Evangelization of Ireland, the wave of preaching and church-planting that transformed the land.\n\nSaint Patrick himself is said to have consecrated Idus as bishop of Alt-Fadha, also called Ath-Fado, in Leinster, entrusting to him the care of souls in that region. As bishop he preached, baptized, and founded churches, building up the young Christian community. His feast is kept on July 14, the day on which his memory has been honored in Ireland since ancient times.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Idus to preach the Gospel among the people of Leinster and made him a bishop for their care, grant through his intercession that the Church may never lack laborers willing to carry the faith to new lands. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Idus_of_Leinster"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "gaudentius-of-novara",
+  "name": "St. Gaudentius of Novara",
+  "feastDay": "01-22",
+  "bio": "Saint Gaudentius is honored as the first bishop of Novara in northern Italy. According to tradition he was born to a pagan family at Ivrea and was converted to Christianity through the preaching of St. Eusebius of Vercelli, the great confessor-bishop who suffered exile for the orthodox faith under the Arian emperors.\n\nEusebius is said to have ordained Gaudentius a priest and then sent him to Novara to assist a Christian priest named Laurence (Laurentius) in ministering to the young community there. In time Gaudentius became the first to occupy the episcopal chair of Novara, organizing the church and shepherding its people through the fragile first generations of Christian life in the region.\n\nVenerated from antiquity as a saint, Gaudentius is remembered at Novara on January 22 as a pioneer bishop and a son of Eusebius's missionary zeal, a witness to how the faith was carried from one see to another in the age of the confessors.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gaudentius from paganism to the faith and made him the first bishop of Novara, grant through his intercession that converts may find their place in your Church and that missionaries may labor with the zeal of Eusebius. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudentius_of_Novara"
+  ],
+  "featured": false,
+  "draft": false
+}

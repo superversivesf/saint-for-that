@@ -1,0 +1,33 @@
+{
+  "slug": "mamertus",
+  "name": "St. Mamertus",
+  "feastDay": "05-11",
+  "bio": "Saint Mamertus was bishop of Vienne in Gaul during the fifth century and is remembered above all for instituting the Rogation Days, the three days of penitential processions and litanies before the feast of the Ascension. Facing earthquakes, fires, and other disasters that threatened his people, he called the faithful to public prayer, fasting, and processions through the fields, trusting that God would hear the cries of a penitent community. So began a practice that spread throughout the Western Church and endured for centuries. His feast on May 11 places him first among the traditional Ice Saints. As a bishop he governed his diocese with care, teaching that the answer to calamity is not despair but humble, united prayer. He is honored as a shepherd who turned natural catastrophe into an occasion of grace.",
+  "patronages": [
+    {
+      "need": "earthquakes",
+      "category": "nature"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Mamertus to lead his people in penitential procession against earthquakes and disaster, grant through his intercession that we may turn to You in every calamity and find in united prayer the strength to endure. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mamertus"
+  ],
+  "featured": false,
+  "draft": false
+}

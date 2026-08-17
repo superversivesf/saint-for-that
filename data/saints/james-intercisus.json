@@ -1,0 +1,25 @@
+{
+  "slug": "james-intercisus",
+  "name": "St. James Intercisus",
+  "feastDay": "11-27",
+  "bio": "James Intercisus, also called James the Mutilated or James the Persian, was a Christian saint born in Beth Lapat in the Persian province of Beth Huzaye in the late fourth or early fifth century. He served as an officer at the court of the Sasanian king Yazdegerd I and later endured renewed persecution under Bahram V.\n\nWhen apostasy seemed the price of his standing, James at first lapsed, but he was reproached by his wife and mother for denying Christ. Deeply moved, he returned to the faith and proclaimed it openly. For this he was condemned to be cut into pieces—the meaning of his Latin epithet Intercisus—and suffered martyrdom, each limb severed in turn.\n\nHis death helped spark the Roman-Sassanid War of 421-422. His feast is kept on November 27.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your martyr James Intercisus the grace to return to the faith he had once denied and to confess Your name even in the midst of torment, grant through his intercession that we may never be ashamed of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/James_Intercisus"
+  ],
+  "featured": false,
+  "draft": false
+}

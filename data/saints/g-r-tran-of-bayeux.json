@@ -1,0 +1,21 @@
+{
+  "slug": "g-r-tran-of-bayeux",
+  "name": "St. Gérétran of Bayeux",
+  "feastDay": "unknown",
+  "bio": "Saint Gérétran of Bayeux, also known as Geretrandus, served as bishop of Bayeux in Normandy in the fifth century. He is counted among the pre-congregational saints of the Roman Catholic Church, one of that early succession of Gallic bishops whose pastoral care laid the foundations of the Church in what would become one of the great provinces of medieval French Christianity.\n\nBecause of the unstable times in which he lived, very little is known of his life beyond his place in the episcopal line of Bayeux. The fifth century was an age of upheaval across Gaul, as Roman authority gave way to the new kingdoms of the Franks, and the bishops of that era often labored amid disorder and insecurity, holding their people together by the steadiness of their witness.\n\nVenerated from antiquity as a saint, Gérétran is remembered as one of the early pastors of Bayeux, a quiet link in the chain of the apostolic succession that carried the faith through the turbulent birth of Christian Europe.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Gérétran as a bishop of Bayeux in troubled times, grant through his intercession that pastors may hold their people steady amid disorder and that the succession of your Church may never be broken. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/G%C3%A9r%C3%A9tran_of_Bayeux"
+  ],
+  "featured": false,
+  "draft": false
+}

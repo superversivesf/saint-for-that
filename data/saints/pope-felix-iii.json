@@ -1,0 +1,25 @@
+{
+  "slug": "pope-felix-iii",
+  "name": "St. Felix III",
+  "feastDay": "unknown",
+  "bio": "Pope Felix III governed the Church as bishop of Rome from 13 March 483 until his death on 1 March 492. He came to the see during a period of tension between the Eastern and Western churches, and his repudiation of the Henotikon, a formula issued by the Emperor Zeno, is regarded as the beginning of the Acacian schism, which lasted for several decades between Rome and Constantinople. Felix defended the authority of the see of Peter and the definitions of the Council of Chalcedon against compromise, excommunicating Acacius, the patriarch of Constantinople, who had communion with the Monophysite position. He was a resolute defender of the orthodox faith, ordaining clergy for the persecuted Church in Africa under the Vandal king Huneric, and providing for the exiled bishops and faithful. His pontificate was marked by firmness in doctrine and charity toward those who suffered for the faith. He is commemorated on 1 March, and was venerated from antiquity as a confessor of the faith.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made blessed Felix a steadfast defender of the apostolic faith against every discord, grant, we pray, that through his intercession your Church may be preserved in unity and strengthened in the confession of your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_III"
+  ],
+  "featured": false,
+  "draft": false
+}

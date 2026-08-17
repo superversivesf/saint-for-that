@@ -1,0 +1,26 @@
+{
+  "slug": "keyne",
+  "name": "St. Keyne",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Keyne was a fifth-century holy woman and hermitess who traveled widely through what is now South Wales and Cornwall, carrying the Gospel and living as a solitary devoted to prayer. She was counted among the early Celtic saints, a daughter of Brychan of Brycheiniog, from whom came numerous holy men and women who sanctified the Welsh landscape.\n\nHer name is remembered in places she sanctified by her praying and living, most notably at Keynsham, where tradition holds she caused springs to flow and serpents to be turned to stone by her prayers. She lived and died a virgin, consecrating herself wholly to Christ in the wild places of the West.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Keyne to the solitary life and made her prayers fruitful in the wild places of Wales and Cornwall, grant through her intercession that those who seek you in silence may find you near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Keyne"
+  ],
+  "featured": false,
+  "draft": false
+}

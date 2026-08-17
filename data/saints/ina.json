@@ -1,0 +1,21 @@
+{
+  "slug": "ina",
+  "name": "St. Ina",
+  "feastDay": "unknown",
+  "bio": "Saint Ina is thought to have been a fifth-century Welsh saint and a member of the royal house of Gwynedd, the kingdom that ruled much of north Wales in the early Christian centuries. Born into a family that had embraced the faith, she was raised in devotion and dedicated her life to God.\n\nLittle else has survived in the written record about her life, yet her name was preserved in the calendars and local traditions of Wales as one of the early company of Celtic saints who helped establish Christianity among the Britons. She is honored as a virgin and a witness to the Gospel in the age of the Welsh kingdoms, when the Church was still young in that land.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserve the memory of your saints through the devotion of your people, grant through the intercession of Saint Ina that we may walk faithfully in the path of holiness handed down to us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ina"
+  ],
+  "featured": false,
+  "draft": false
+}

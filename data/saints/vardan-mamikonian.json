@@ -1,0 +1,29 @@
+{
+  "slug": "vardan-mamikonian",
+  "name": "St. Vardan Mamikonian",
+  "feastDay": "unknown",
+  "bio": "Saint Vardan Mamikonian was an Armenian military leader and the supreme commander of the Armenian armed forces, who led the Christian rebellion against Sasanian Iran in 450 to 451. When the Persian king sought to force the Armenian nobility to abandon their faith and embrace Zoroastrianism, Vardan rallied the Christian lords and common soldiers alike to defend the Church of their fathers. At the Battle of Avarayr in 451, Vardan and most of his companions fell before the vastly larger Persian army, but their sacrifice secured the survival of Armenian Christianity. He is regarded as a national hero and is venerated as a martyr and saint by the Armenian Apostolic Church and the Armenian Catholic Church. His memory, immortalized by the historians Elishe and Ghazar Parpetsi, made him the symbol of the Armenian spirit and of faith defended at the cost of life.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Vardan Mamikonian the courage to lay down his life rather than deny the faith, grant through his intercession that we may stand firm in the face of every threat to conscience and witness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vardan_Mamikonian"
+  ],
+  "featured": false,
+  "draft": false
+}

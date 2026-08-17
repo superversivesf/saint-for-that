@@ -1,0 +1,29 @@
+{
+  "slug": "pope-gelasius-i",
+  "name": "St. Pope Gelasius I",
+  "feastDay": "11-21",
+  "bio": "Pope Gelasius I served as bishop of Rome from March 1, 492 until his death on November 21, 496. He was a prolific author whose writings spanned the threshold between Late Antiquity and the Early Middle Ages, and his style placed him among the last great Latin Fathers of the Western Church.\n\nGelasius is most remembered for his teaching on the relationship between the spiritual and temporal powers, articulated in a letter to the emperor Anastasius in which he set out the doctrine of the two swords: the sacred authority of priests and the royal power of kings, each distinct but ordered toward the salvation of souls. He labored to maintain communion with the East amid the Acacian schism and worked to organize the liturgy and the Church's charitable life at Rome.\n\nVenerated as a saint from soon after his death, Gelasius is honored on November 21 as a shepherd who defended the apostolic see and clarified a teaching that would shape Western political theology for centuries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gelasius a steadfast shepherd of the apostolic see and a teacher of the right ordering of spiritual and temporal power, grant through his intercession that your Church may be governed in truth and that those who rule may serve the salvation of souls. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Gelasius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

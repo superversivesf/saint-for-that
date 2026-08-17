@@ -1,0 +1,29 @@
+{
+  "slug": "isidore-of-pelusium",
+  "name": "St. Isidore of Pelusium",
+  "feastDay": "02-04",
+  "bio": "Isidore of Pelusium was born in Egypt to a prominent Alexandrian family in the late fourth or early fifth century. Renouncing the advantages of his birth, he embraced the ascetic life and withdrew to a mountain near the city of Pelusium, following the tradition of the Desert Fathers.\n\nA learned man, he left behind some two thousand letters that reveal a profound grasp of Scripture and a pastoral concern for the moral and doctrinal ills of his day. He wrote against abuses and urged clergy and laity alike to live by the Gospel.\n\nHis feast is kept on February 4. He is remembered as a scholar of the desert, a teacher who wedded learning to holiness, and a witness to the life of prayer that blossomed in the early Church along the Nile.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "everyday"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Isidore from the comforts of Alexandria to the silence of the desert, and made him a teacher of Scripture and a guide of souls, grant through his intercession that we may seek true wisdom in prayer and live according to Your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isidore_of_Pelusium"
+  ],
+  "featured": false,
+  "draft": false
+}

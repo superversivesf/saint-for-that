@@ -1,0 +1,25 @@
+{
+  "slug": "gaud-d-vreux",
+  "name": "St. Gaud d'Évreux",
+  "feastDay": "01-30",
+  "bio": "Saint Gaud served as Bishop of Évreux in Normandy from about 440 until 480, leading his see during the turbulent generations that followed the withdrawal of Roman authority from Gaul. He governed the Church of Évreux at a time when the Christian communities of northern Gaul were consolidating their faith amid the upheavals of the migration period, and he worked to establish churches, foster the ministry of the sacraments, and sustain the clergy and people under his care. His long episcopate, lasting some forty years, gave stability to a see still young in the faith, and his pastoral diligence made him a father to his flock in years of uncertainty. The memory of his holiness was preserved among the saints of Normandy from early times, and his feast has been kept on 30 January. He is counted among that line of Gallo-Roman bishops whose quiet labors prepared the ground upon which the great monastic and episcopal foundations of later centuries would rise. His relics were honored at Évreux, and devotion to him continued through the Middle Ages.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made blessed Gaud a faithful shepherd of your people in the see of Évreux, grant, we pray, that through his intercession the bishops of your Church may be steadfast in faith and gentle in charity, and your people may be preserved in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaud_d'%C3%89vreux"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "marcella-of-rome",
+  "name": "St. Marcella of Rome",
+  "feastDay": "01-31",
+  "bio": "Saint Marcella of Rome, who lived from 325 to 410, was a noble Roman widow who became one of the most celebrated Christian ascetics of the Western Empire. After her husband's early death she refused a second marriage, choosing instead to devote her wealth and her life to prayer, Scripture, and the service of the poor. She gathered a circle of devout women in her home on the Aventine Hill, forming one of the first communities of consecrated widows in Rome. Saint Jerome, who corresponded with her and taught her the Scriptures, praised her intelligence and her zeal for the Word of God, and she became a trusted interpreter of biblical questions among the Roman faithful. When the Goths sacked Rome in 410, Marcella was beaten by the invaders but clung to her faith, dying shortly after. She is remembered as a pioneer of the consecrated life for women in the West.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Marcella the grace to renounce the world and devote herself to prayer and the study of Your Word, grant through her intercession that we may seek You above all things and find in Scripture the bread of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcella_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

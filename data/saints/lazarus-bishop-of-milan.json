@@ -1,0 +1,22 @@
+{
+  "slug": "lazarus-bishop-of-milan",
+  "name": "St. Lazarus",
+  "feastDay": "02-11",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Lazarus served as Archbishop of Milan from 438 to 449 AD, governing that great see in the decades after St. Ambrose had shaped its liturgy and its witness. He shepherded the Church of Milan during a period when the legacy of Ambrose was still fresh and the challenges of a changing empire pressed upon the bishops of Italy.\n\nHonored as a saint in both the Catholic and the Eastern Orthodox Churches, Lazarus is commemorated on February 11, the day of his feast. He stands among the line of Milanese archbishops who preserved the faith and discipline of the Church in a time of upheaval, handing on what they had received.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Lazarus a faithful successor in the see of Ambrose, grant through his intercession that the pastors of your Church may preserve the heritage of the saints and hand it on undimmed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lazarus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

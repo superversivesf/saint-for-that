@@ -1,0 +1,29 @@
+{
+  "slug": "hilary-of-arles",
+  "name": "St. Hilary of Arles",
+  "feastDay": "05-05",
+  "bio": "Hilary of Arles, known in Latin as Hilarius, was born into a noble Gallo-Roman family in the early fifth century and, after a youth of secular pursuits, was brought to holiness through his kinsman Honoratus, founder of the monastery of Lérins. When Honoratus died around 429, Hilary succeeded him as bishop of Arles.\n\nAs bishop he was a tireless preacher and rigorous ascetic, though his assertiveness brought him into conflict with Pope Leo the Great over the rights of Arles. He founded monasteries, cared for the poor, and extended the discipline of Lérins through southern Gaul.\n\nHilary died on 5 May 449 and is venerated by the Orthodox and Catholic Churches. He is invoked against snake bites and honored as patron of Arles and of those who labor for the reform of the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Hilary of Arles a zealous bishop and a reformer of your Church, grant through his intercession that we may seek holiness with the fervor of the monks of Lérins and defend the faith with pastoral love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hilary_of_Arles"
+  ],
+  "featured": false,
+  "draft": false
+}

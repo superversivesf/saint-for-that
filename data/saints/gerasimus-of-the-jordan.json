@@ -1,0 +1,29 @@
+{
+  "slug": "gerasimus-of-the-jordan",
+  "name": "St. Gerasimus of the Jordan",
+  "feastDay": "03-05",
+  "bio": "Saint Gerasimus of the Jordan was a Christian monk and abbot of the fifth century who lived in the desert region near the river Jordan. As a young ascetic he was drawn to the radical life of renunciation that had flourished in the Egyptian deserts, and he traveled to the monastery of St. Euthymius the Great to sit at the feet of one of the great masters of the Palestinian lavra.\n\nAfter his formation, Gerasimus established his own lavra near the Jordan, gathering disciples under a rule that balanced the common life with the solitary cell, the typical pattern of Palestinian monasticism. He is most famous in tradition for the story of the lion from whose paw he drew a thorn and who thereafter became the obedient companion and servant of the monastery, a tale that recalled the peace of Eden restored in the desert by the saints.\n\nVenerated as a saint in both the Eastern Orthodox and the Catholic Church, Gerasimus is commemorated on March 5 as a father of Palestinian monasticism and a witness to the harmony between the saints and creation.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Gerasimus made the desert bloom with holiness and tamed the wild beasts at his side, grant through his intercession that monks may persevere in their cell and that all who care for your creatures may honor the peace of Eden. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerasimus_of_the_Jordan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "john-the-dwarf",
+  "name": "St. John the Dwarf",
+  "feastDay": "10-17",
+  "bio": "John the Dwarf, also known as John Colobos or John Kolobos, was a Coptic Desert Father of the early Church. Born in the late fourth century in the region of Thebes in Upper Egypt, he heard the call to the ascetic life while still young and traveled to the desert of Scetis to place himself under the guidance of the great elders.\n\nFamous among the fathers for his obedience, John was once commanded by his elder to plant a dry stick in the ground and water it every day. For three years he walked across the desert to fetch water and poured it on the stick, until at last it budded and bore fruit—a miracle of obedience the elders showed to all as a sign. He was also known for his shortness of stature, whence his name.\n\nHis feast is kept on October 17. He is a patron of monks.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Your servant John the Dwarf the way of obedience and made the desert blossom at the word of his elder, grant through his intercession that we may learn obedience of heart and bear fruit in patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_the_Dwarf"
+  ],
+  "featured": false,
+  "draft": false
+}

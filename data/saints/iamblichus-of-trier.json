@@ -1,0 +1,21 @@
+{
+  "slug": "iamblichus-of-trier",
+  "name": "St. Iamblichus of Trier",
+  "feastDay": "unknown",
+  "bio": "Iamblichus of Trier, also known as Jamblichus or Jamblychus, was a fifth-century bishop of Trier who governed the see from around 475 or 476. He succeeded in a time when the ancient Roman order was giving way to Frankish rule in the Rhineland, and the Church of Trier, once an imperial capital, faced new hardships.\n\nAs bishop, Iamblichus cared for his flock through a season of upheaval and transition, preserving the faith and the sacraments amid the collapse of civil authority. Little else has come down to us about his life, yet his name is honored in the calendars of the Church of Trier as a faithful shepherd who held his see in difficult days.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in times of trial raise up shepherds to guard your flock, grant through the intercession of your bishop Iamblichus that the Church may stand firm through every age of change. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iamblichus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

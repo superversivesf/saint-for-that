@@ -1,0 +1,25 @@
+{
+  "slug": "flavian-i-of-antioch",
+  "name": "St. Flavian I of Antioch",
+  "feastDay": "unknown",
+  "bio": "Flavian I of Antioch served as Patriarch of Antioch from 381 until his death, leading one of the most ancient and venerable sees of the Christian East during a turbulent age. He was appointed during the reign of Theodosius I, in the aftermath of the Council of Constantinople, and inherited a see troubled by division, as the followers of Meletius and Paulinus each claimed the succession. Through patience and pastoral care, Flavian worked to restore unity, and he labored for years to reconcile the divided factions of the Church at Antioch. He corresponded with St. John Chrysostom, who addressed him as a father and friend. Flavian governed his flock during a period when the Church was still defining the orthodox faith against Arianism and other errors, and he maintained the communion of Antioch with the wider Church. He died in peace after a long episcopate, having shepherded his people through controversy and preserved the faith handed down from the apostles. His memory was honored among the saints of Antioch from early times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made blessed Flavian a faithful shepherd of the ancient see of Antioch and a patient laborer for the unity of your Church, grant, we pray, that through his intercession we may be preserved from division and grow together in the bond of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original collect"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavian_I_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

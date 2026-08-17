@@ -1,0 +1,25 @@
+{
+  "slug": "euphrasia-of-constantinople",
+  "name": "St. Euphrasia of Constantinople",
+  "feastDay": "03-13",
+  "bio": "Euphrasia was a nun of Constantinople in the great age of the Eastern capital, when the monasteries of the imperial city sheltered multitudes of virgins consecrated to Christ. Of her family and early life little is recorded, but she entered the cloister and gave herself wholly to prayer, fasting, and the service of the poor.\n\nShe was venerated after her death as a saint, less for any striking miracle than for the quiet example of her piety and charity. The chroniclers of the Eastern Church remembered her as one who pleased God in the hidden life of the convent, and whose intercession was sought by those who strive after holiness in the ordinary round of obedience.\n\nHer feast is kept on March 13, and she is honored among the saints of the Byzantine tradition.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Euphrasia with the virtues of piety and charity in the hidden life of the cloister, grant through her intercession that we may seek you with a pure heart and serve our neighbors with generous love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphrasia_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

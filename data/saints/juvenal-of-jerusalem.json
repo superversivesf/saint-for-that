@@ -1,0 +1,25 @@
+{
+  "slug": "juvenal-of-jerusalem",
+  "name": "St. Juvenal of Jerusalem",
+  "feastDay": "unknown",
+  "bio": "Saint Juvenal was Bishop of Jerusalem from 422 until his death in 458, a pivotal span in which the see of Jerusalem was raised to metropolitan rank. When the Council of Chalcedon in 451 recognized Jerusalem as a metropolitinate, Juvenal became its first Metropolitan, with authority over the three provinces of Roman Palestine.\n\nHis tenure saw the Christological controversies after the Council of Ephesus in 431. Juvenal was a supporter of St. Cyril of Alexandria against Nestorius and of the Definition of Chalcedon, though for a time he was driven from his see by the monophysite Theodosius and restored with imperial aid. He gained recognition as first Patriarch of Jerusalem.\n\nHis feast day is not widely recorded. He is remembered as the bishop who secured the patriarchal dignity of Jerusalem.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your bishop Juvenal the first Patriarch of Jerusalem and a defender of the orthodox faith, grant through his intercession that Your Church may be one and that the see of Jerusalem may ever be a city of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juvenal_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

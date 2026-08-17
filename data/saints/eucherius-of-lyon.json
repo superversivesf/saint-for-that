@@ -1,0 +1,29 @@
+{
+  "slug": "eucherius-of-lyon",
+  "name": "St. Eucherius of Lyon",
+  "feastDay": "11-16",
+  "bio": "Eucherius was born in the latter years of the fourth century to a noble and wealthy family of Roman Gaul. Renowned for his learning and piety, he was drawn early to the ascetic life, and retired with his wife and family to the island monastery of Lérins, where they embraced a life of self-denial and prayer. His letters from this period, urging extreme self-abnegation upon a kinsman, became celebrated expressions of the ascetic ideal.\n\nIn 439 he was called from the cloister to serve as Archbishop of Lyon, and Henry Wace later ranked him the most distinguished occupant of that see after St. Irenaeus himself. As archbishop he governed with wisdom and continued to write, leaving letters that reveal a soul consumed with love of God.\n\nHe fell asleep in the Lord around 450 and is venerated in both the Roman Catholic and Eastern Orthodox Churches on November 16.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Eucherius to embrace the poverty of the cloister and to govern your Church with learning and love, grant through his intercession that we may esteem the things of heaven above the things of earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eucherius_of_Lyon"
+  ],
+  "featured": false,
+  "draft": false
+}

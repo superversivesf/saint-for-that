@@ -1,0 +1,29 @@
+{
+  "slug": "eugenius-of-carthage",
+  "name": "St. Eugenius of Carthage",
+  "feastDay": "07-13",
+  "bio": "Eugenius was a Christian prelate of North Africa in the wretched days when the Vandals had overrun the Roman provinces and imposed their Arian creed upon the conquered. In 480, after a long vacancy, he was unanimously elected Bishop of Carthage to succeed Deogratias, and he undertook the care of a flock harried by heretical rulers.\n\nHis episcopate was consumed by the struggle between Arianism and the Catholic faith. The Vandal king Huneric, fierce in his persecution of orthodox bishops, drove Eugenius and many of his brethren into exile and cruelty. Ancient accounts record his steadfastness in confession and the comfort he gave to the confessors who suffered beside him.\n\nHe is revered as a saint who endured for the unity of the Church, and his feast is kept on July 13.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Eugenius courage to confess the true faith before the Arian persecutors, grant through his intercession that your Church may be one and that we may stand firm against every assault of error. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
+  ],
+  "featured": false,
+  "draft": false
+}

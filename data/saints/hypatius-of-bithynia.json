@@ -1,0 +1,29 @@
+{
+  "slug": "hypatius-of-bithynia",
+  "name": "St. Hypatius of Bithynia",
+  "feastDay": "unknown",
+  "bio": "Hypatius of Bithynia was a monk and hermit of the fifth century. Born in Phrygia, he turned to the solitary life at the age of nineteen, dwelling as a hermit in Thrace and devoting himself to prayer and fasting. Yearning for deeper communion with God, he traveled with another hermit named Jason to Constantinople and then to Chalcedon.\n\nAt Chalcedon Hypatius became abbot of a hermitage, gathering disciples under his rule and guiding them in the way of the desert. His reputation for holiness spread, and he was counted among the great ascetics of Bithynia, that nursery of monastic saints. He shepherded his brethren with wisdom and died in peace, a father of monks and a model of the contemplative life.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Hypatius from his youth to the silence of the desert and made him a father of monks, grant through his intercession that we may learn to seek you in stillness and find you in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hypatius_of_Bithynia"
+  ],
+  "featured": false,
+  "draft": false
+}

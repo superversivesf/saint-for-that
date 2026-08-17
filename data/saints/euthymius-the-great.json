@@ -1,0 +1,25 @@
+{
+  "slug": "euthymius-the-great",
+  "name": "St. Euthymius the Great",
+  "feastDay": "01-20",
+  "bio": "Euthymius the Great was an abbot in Palestine and one of the towering figures of early monasticism in the Holy Land. Born in the late fourth century, he pursued the ascetic life in the wilderness of Judea, where the desert and the lauras drew men seeking God in silence, fasting, and unceasing prayer.\n\nAs abbot, Euthymius gathered disciples around his cell and became a father of monks, renowned for his wisdom, miracles, and gift of discernment. He guided a generation of ascetics who shaped the monastic tradition of Palestine and beyond. Both the Eastern Orthodox and Roman Catholic Churches have honored him as a saint. He is remembered as a teacher of the desert and a witness to a life given wholly to God. His feast is kept on January 20.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Euthymius the Great to the desert and made him a father of monks in the Holy Land, grant through his intercession that we may seek You in silence and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euthymius_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}
