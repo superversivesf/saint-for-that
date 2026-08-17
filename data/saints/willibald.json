@@ -1,0 +1,30 @@
+{
+  "slug": "willibald",
+  "name": "St. Willibald",
+  "feastDay": "07-07",
+  "canonized": "Pre-Congregation",
+  "bio": "Willibald was an eighth-century bishop of Eichstätt in Bavaria, one of the great missionary bishops who helped plant the Christian faith deep in the Germanic lands. Born in England, he journeyed as a pilgrim to Rome and the Holy Land, where years of travel, hardship, and devotion shaped his soul before he was called to episcopal service among the peoples of Bavaria.\n\nAs bishop of Eichstätt, Willibald labored to build up the Church in a land still young in the faith, founding churches and guiding souls with the quiet constancy of a true shepherd. Together with his brother Winibald and their sister Walpurga, he formed a holy family whose combined witness transformed the region. His feast is kept on July 7, and he is invoked as a patron of pilgrims, bishops, and the Church in Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Willibald from his homeland to walk the pilgrim roads of Rome and the Holy Land, and then made him a shepherd of your Church in Bavaria, grant through his intercession that we may journey ever toward you and build up your Church wherever we are planted. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Willibald"
+  ],
+  "featured": false,
+  "draft": false
+}

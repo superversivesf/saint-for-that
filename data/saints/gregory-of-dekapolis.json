@@ -1,0 +1,25 @@
+{
+  "slug": "gregory-of-dekapolis",
+  "name": "St. Gregory of Dekapolis",
+  "feastDay": "11-20",
+  "bio": "Saint Gregory of Dekapolis, also called Gregory Dekapolites, was a 9th-century Byzantine monk renowned for ascetic discipline, miracle-working, and extensive travels across the Byzantine world. Born in the Dekapolis region of Isauria, he embraced the monastic life as a young man and distinguished himself through prayer, fasting, and the gift of healing, earning the title \"the New Miracle-Worker.\" His journeys carried him to Constantinople, Thessalonica, and Rome as he sought out holy men and bore witness to the Orthodox faith during the Iconoclast controversy. His fearless defense of sacred images drew disciples and sufferers alike. He died in the mid-ninth century and is commemorated in the Eastern Orthodox and Roman Catholic Churches on 20 November.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Gregory of Dekapolis with the gift of miracles and the zeal of a pilgrim, grant through his intercession that we may journey faithfully through this world and triumph over the assaults of evil. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Dekapolis"
+  ],
+  "featured": false,
+  "draft": false
+}

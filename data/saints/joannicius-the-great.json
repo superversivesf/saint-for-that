@@ -1,0 +1,29 @@
+{
+  "slug": "joannicius-the-great",
+  "name": "St. Joannicius the Great",
+  "feastDay": "11-04",
+  "bio": "Joannicius the Great, or Ioannikios, was a Byzantine saint, sage, theologian, and prophet whose long life spanned the height and waning of the Iconoclast Controversy. In his youth he served as a soldier in the Byzantine army before renouncing the world to devote himself to ascetic study and contemplation as a hermit on Mysian Olympus, near modern Bursa in Turkey. There he spent the greater part of his life in prayer, fasting, and solitude, renowned for wisdom and the gift of prophecy. When Emperor Theophilos persecuted those who venerated sacred images, Joannicius stood as a steadfast defender of the icons, and devotees later ascribed the restoration of icon veneration under Empress Theodora partly to his prayers. He is venerated in the Eastern Orthodox and Catholic Churches on November 4.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Joannicius the Great from the life of a soldier to the solitude of the mountain and made him a prophet and defender of Your holy icons, grant through his intercession that we may fight the good fight of faith and behold Your face in stillness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joannicius_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

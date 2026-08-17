@@ -1,0 +1,25 @@
+{
+  "slug": "felix-the-hermit",
+  "name": "St. Felix the Hermit",
+  "feastDay": "unknown",
+  "bio": "Saint Felix the Hermit was a ninth-century fisherman and hermit venerated in Portugal. He began life as a humble fisherman, laboring on the sea, and later withdrew to a solitary life of prayer and penance, combining the hardy vocation of the waters with the silence of the wilderness. Tradition associates him with the region around the Tagus and with the simplicity of a life wholly given to God. Few details of his ascetic career survive, but his memory endured among the Portuguese faithful, who honored him as a patron and intercessor. He is remembered as a saint who turned from the labors of the world to the labor of contemplation, and whose quiet holiness sanctified both the seacoast and the hermitage.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "fishermen",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Felix from the labor of the sea to the stillness of the hermitage, grant through his intercession that we may work faithfully in our calling and find in prayer the rest our hearts desire. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ignatios-of-constantinople",
+  "name": "St. Ignatios of Constantinople",
+  "feastDay": "10-23",
+  "bio": "Ignatius of Constantinople served twice as Ecumenical Patriarch, from 847 to 858 and again from 867 to 877, spanning one of the most turbulent periods in Byzantine Church history. The Iconoclast Controversy raged throughout his lifetime, and Ignatius stood firmly against the destruction of sacred images, denouncing iconoclasm and defending Orthodox veneration of icons. In 864 Boris I of Bulgaria embraced Christianity, and Ignatius secured the Bulgarian Church under Constantinople's jurisdiction, bringing him into conflict with the popes of Rome, who claimed authority over the same territory. His struggles over papal supremacy shaped the divide between East and West. Deposed and restored, he endured exile with a reputation for steadfastness. He is commemorated on 23 October.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ignatios of Constantinople the courage to defend the holy icons and the wisdom to govern Your Church amid conflict, grant through his intercession that all who seek Christian unity may find in You their lasting reconciliation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ignatios_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

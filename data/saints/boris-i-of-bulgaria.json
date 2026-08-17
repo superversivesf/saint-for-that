@@ -1,0 +1,25 @@
+{
+  "slug": "boris-i-of-bulgaria",
+  "name": "St. Boris I of Bulgaria",
+  "feastDay": "05-02",
+  "bio": "Boris I, venerated as Saint Boris I (Mihail) the Baptizer, was ruler (knyaz) of the First Bulgarian Empire from 852 to 889. Despite military setbacks, his reign was marked by events that shaped Bulgarian and European history. With the Christianization of Bulgaria in 864, paganism was abolished and the nation received the Christian faith. A skillful diplomat, Boris exploited the conflict between the Patriarchate of Constantinople and the Papacy to secure an autocephalous Bulgarian Church, addressing the nobility's concerns about Byzantine interference. He abdicated in 889 and retired to a monastery, dying around 907. Honored as the baptizer of a nation, he is remembered as a model of Christian statesmanship and a father of the Slavic Churches.",
+  "patronages": [
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Boris to lead his people into the light of the Gospel, grant through his intercession that rulers may govern with wisdom and that nations may find their unity in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria"
+  ],
+  "featured": false,
+  "draft": false
+}

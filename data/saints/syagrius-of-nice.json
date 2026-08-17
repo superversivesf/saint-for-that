@@ -1,0 +1,21 @@
+{
+  "slug": "syagrius-of-nice",
+  "name": "St. Syagrius of Nice",
+  "feastDay": "unknown",
+  "bio": "Syagrius was the bishop of Nice and the legendary founder and first abbot of the abbey of Saint-Pons de Cimiez in the late 5th or early 6th century. He is honored as a saint by both the Catholic Church and the Eastern Orthodox Church. As a bishop he shepherded the church of Nice, and as a founder he established a monastic house that would grow into one of the region's most venerable shrines. Though the details of his life are largely legendary, his memory endured for centuries in the liturgy and devotion of the people of Provence.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Syagrius founded the abbey of Saint-Pons and shepherded the church of Nice, grant through his intercession that bishops may build up your Church in holiness and unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syagrius_of_Nice"
+  ],
+  "featured": false,
+  "draft": false
+}

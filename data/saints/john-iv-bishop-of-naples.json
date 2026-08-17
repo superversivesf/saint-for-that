@@ -1,0 +1,25 @@
+{
+  "slug": "john-iv-bishop-of-naples",
+  "name": "St. John IV",
+  "feastDay": "unknown",
+  "bio": "John IV, called the Peacemaker and John the Serene, was an Italian Catholic prelate who served as Bishop of Naples from 26 February 842 until his death. He guided the Church of Naples through a turbulent age marked by Lombard politics, Saracen incursions along the Campanian coast, and the lingering disputes that followed the Iconoclast controversy. His episcopate, though poorly documented, earned him a reputation as a man of serene judgment and reconciling spirit. He worked to hold his clergy and people together amid external threats and internal divisions, and was remembered by the Neapolitan Church as a pastor who preferred peace to strife. His cult is ancient and local, venerated as a saintly bishop whose labors steadied a see beset by the storms of ninth-century Italy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John IV a serene and peacemaking heart to guide Your Church in Naples through troubled times, grant through his intercession that bishops and all the faithful may pursue peace with quiet courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_IV_(bishop_of_Naples)"
+  ],
+  "featured": false,
+  "draft": false
+}

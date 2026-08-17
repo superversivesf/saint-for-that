@@ -1,0 +1,33 @@
+{
+  "slug": "fremund",
+  "name": "St. Fremund",
+  "feastDay": "unknown",
+  "bio": "Saint Fremund, also called Freomund, was a ninth-century Anglo-Saxon saint, hermit, and martyr honored in England. According to tradition, he was of noble birth, yet he forsook the world to live as a hermit, devoting himself to prayer and penance in solitude. When Danish raiders invaded, Fremund was sought out and killed for his faith, thus becoming a martyr of the Viking age. He is venerated at the village of Prescote in Oxfordshire, where he is the patron saint, and also at Dunstable Priory in Bedfordshire, where his relics were honored in the Middle Ages. He is remembered as one of the holy hermits of early England who exchanged rank and comfort for the desert and won the martyr's palm.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "travel"
+    },
+    {
+      "need": "nobility",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fremund from nobility to the silence of the hermitage and crowned him with martyrdom, grant through his intercession that we may renounce worldly pride and cling to You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fremund"
+  ],
+  "featured": false,
+  "draft": false
+}

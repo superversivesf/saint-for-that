@@ -1,0 +1,26 @@
+{
+  "slug": "martyrs-of-ebsdorf",
+  "name": "St. Martyrs of Ebsdorf",
+  "feastDay": "02-02",
+  "canonized": "Pre-Congregation",
+  "bio": "The Martyrs of Ebsdorf were the Saxon combatants killed in the winter of 880 CE at the Battle of Lüneburg Heath near Ebstorf in Lower Saxony, a clash in the long and bitter struggle between the Christian Franks and the still-pagan Saxons. Cut down in the snow and cold of that northern winter, they were afterward declared martyrs by the Church, their sacrifice remembered as a witness to faith sealed in blood.\n\nTheir feast is kept on February 2, when the Church honors them as a collective witness—soldiers, bishops, and companions who fell together rather than renounce the faith they had embraced. They are invoked as patrons of soldiers and martyrs, and as intercessors for all who face death far from home for the sake of Christ.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the Martyrs of Ebsdorf with the palm of victory when they fell on the heath of Lüneburg for the name of your Son, grant through their intercession that we may remain steadfast in faith when trial comes, and count no cost too great for the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martyrs_of_Ebsdorf"
+  ],
+  "featured": false,
+  "draft": false
+}

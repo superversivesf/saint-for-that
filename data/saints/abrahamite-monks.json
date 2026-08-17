@@ -1,0 +1,30 @@
+{
+  "slug": "abrahamite-monks",
+  "name": "St. Abraham of Ephesus",
+  "feastDay": "10-28",
+  "canonized": "Pre-Congregation",
+  "bio": "Abraham of Ephesus was a sixth-century Archbishop of Ephesus in the Byzantine Empire and a founder of monasteries, venerated as a saint by both the Eastern Orthodox Church and the Roman Catholic Church. In a city once addressed by the Apostle Paul and once home to the great Council of Ephesus, Abraham labored to renew the Christian community and to gather souls into the monastic life.\n\nHis feast is commemorated on October 28, and he is invoked as a patron of bishops, monks, and all who work for the unity of the Church across the ancient divide between East and West. The so-called Abrahamite monks drew their name from his memory, bearing witness to the lasting fruit of his monastic foundations.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Abraham of Ephesus a faithful archbishop and a founder of monasteries in that ancient see of your apostle Paul, grant through his intercession that your Church may be one, and that many may find in the monastic life a path to your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Ephesus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "edmund-the-martyr",
+  "name": "St. Edmund the Martyr",
+  "feastDay": "11-20",
+  "bio": "Edmund the Martyr was king of East Anglia from about 855 until his death. When the Great Heathen Army of Danish Vikings invaded his kingdom in 869, Edmund refused to surrender his Christian faith or his people. According to tradition, he was seized, beaten, shot through with arrows, and finally beheaded when he would not renounce Christ. His death was received as a martyrdom, and his body was reverently buried, later translated to Bury St Edmunds, where his shrine became one of the most celebrated pilgrimage sites of medieval England. Venerated as a patron of kings and of England, he is also invoked in times of plague and against pandemics, and in the Middle Ages his intercession was sought against wolves that troubled the countryside.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Edmund with the palm of martyrdom and made his shrine a wellspring of devotion, grant through his intercession that we may prefer Your truth to every earthly glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edmund_the_Martyr"
+  ],
+  "featured": false,
+  "draft": false
+}

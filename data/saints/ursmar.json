@@ -1,0 +1,29 @@
+{
+  "slug": "ursmar",
+  "name": "St. Ursmar",
+  "feastDay": "04-19",
+  "bio": "Ursmar of Lobbes was a missionary bishop who labored in the Meuse and Ardennes regions of present-day Belgium, Germany, Luxembourg, and France during the early eighth century. Sent to evangelize the frontier peoples of the Frankish empire, he preached the Gospel, founded churches, and established the monastic life as a seedbed of Christian civilization.\n\nAs the first abbot of Lobbes Abbey, Ursmar shaped a community of prayer and learning that would influence the region for centuries. His episcopal and monastic labors made him a father of the Church in the Low Countries, honored for his zeal in bringing the faith to unreached peoples.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Ursmar as a missionary bishop to the peoples of the Meuse and Ardennes, grant through his intercession that the Gospel may take root in every land and bear fruit in holy lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursmar"
+  ],
+  "featured": false,
+  "draft": false
+}

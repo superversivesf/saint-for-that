@@ -1,0 +1,26 @@
+{
+  "slug": "ansgar",
+  "name": "St. Ansgar",
+  "feastDay": "02-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Ansgar, the \"Apostle of the North,\" was born in northern France in 801 and entered the Benedictine monastery of Corbie as a boy. Ordained young, he felt a call to bring the gospel to the pagan peoples of the north, and in 826 he traveled to Denmark as a missionary with the backing of the emperor, then pressed on to Sweden, preaching and gathering a small flock at the cost of great hardship.\n\nAs Archbishop of Hamburg-Bremen he received the missionary mandate for all of Scandinavia, and for the rest of his life he labored to plant the Church among the Danes, Swedes, and peoples of the Baltic, returning again and again though his converts were few and his churches often destroyed. He died in 865, a patron of missionaries and a model of perseverance in the face of meager results.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Ansgar as the Apostle of the North to proclaim the gospel to the peoples of Scandinavia, granting him perseverance though his harvest was small, grant through his intercession that missionaries may never grow weary in sowing your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ansgar"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ansovinus",
+  "name": "St. Ansovinus",
+  "feastDay": "03-13",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Ansovinus was a bishop of Camerino in the Marches of Italy in the ninth century, venerated from ancient times as a patron of agriculture and of all who work the land. The traditions of his diocese remember him as a pastor who cared for the bodies as well as the souls of his people, blessing the fields and praying for the harvest in a region where the rhythms of sowing and reaping shaped every life.\n\nHis intercession was sought especially for good weather and fruitful harvests, and gardeners and farmers looked to him in the seasons of planting and reaping. His feast is kept on March 13, and he is honored as a patron of gardeners, farmers, and of all who ask God's blessing on the work of their hands.",
+  "patronages": [
+    {
+      "need": "gardeners",
+      "category": "jobs"
+    },
+    {
+      "need": "farmers",
+      "category": "jobs"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Ansovinus a pastor's care for both the souls and the fields of Camerino, granting him love for those who labor in the earth, bless through his intercession the work of gardeners and farmers, and give us our daily bread in due season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ansovinus"
+  ],
+  "featured": false,
+  "draft": false
+}

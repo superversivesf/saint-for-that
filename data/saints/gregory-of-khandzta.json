@@ -1,0 +1,25 @@
+{
+  "slug": "gregory-of-khandzta",
+  "name": "St. Gregory of Khandzta",
+  "feastDay": "10-18",
+  "bio": "Gregory of Khandzta was a Georgian monk, ecclesiastical leader, and cultural figure active in the historical region of Tao-Klarjeti during the late eighth and early ninth centuries. He is revered as the central figure in the revival of Georgian monasticism, which had suffered grievously under Arab occupation. Gregory founded and guided numerous monasteries that became flourishing centres of learning, manuscript production, and spiritual life, drawing monks from across the Georgian lands. His leadership restored the bonds between the Church and the Georgian people at a time of political fragmentation and foreign domination, and his influence shaped the course of Georgian religious culture for centuries. He is commemorated on 18 October.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Gregory of Khandzta to renew the monastic life of Your people in Tao-Klarjeti, grant through his intercession that those who seek You in silence and study may flourish and bear lasting fruit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Khandzta"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "john-of-constantinople",
+  "name": "St. John of Constantinople",
+  "feastDay": "04-27",
+  "bio": "John of Constantinople, also known as John the Confessor, was abbot of the Cathares Monastery in Constantinople during the second wave of the Iconoclast controversy. When the Byzantine Emperor Leo the Armenian renewed the imperial policy of iconoclasm and pressed the destruction of holy images, John refused compliance and defended the veneration of icons as the Church's ancient tradition. For his steadfast confession he was arrested, imprisoned, and subjected to torture, yet he survived the ordeal and remained faithful to the Orthodox faith. His suffering linked him to the long line of confessors who bore witness to the truth of the Incarnation against imperial coercion. He is commemorated on 27 April in the East and 18 April in the West, a witness to unity across the divided communions.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. John of Constantinople to confess the faith against imperial threats and to endure torture for the sake of holy images, grant through his intercession that we may never yield the truth for any fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

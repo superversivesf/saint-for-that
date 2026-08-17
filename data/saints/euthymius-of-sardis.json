@@ -1,0 +1,29 @@
+{
+  "slug": "euthymius-of-sardis",
+  "name": "St. Euthymius of Sardis",
+  "feastDay": "12-26",
+  "bio": "Euthymius of Sardis, called the Confessor, served as metropolitan bishop of Sardis in Asia Minor from about 785 to 804 and became one of the leading defenders of the holy icons during the Byzantine Iconoclast controversy. When imperial policy demanded the destruction of sacred images, Euthymius refused and suffered imprisonment, exile, and scourging for his fidelity to tradition. Restored to his see after the triumph of orthodoxy, he continued to teach that icons were a legitimate and holy means of honoring the incarnate Christ. Under renewed iconoclast pressure in the reign of Emperor Michael II, he was again persecuted and finally martyred in 831. Honored in the Eastern Church on December 26 and March 8, he is remembered as a steadfast confessor who bore wounds for the sake of sacred images.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Euthymius a fearless defender of the holy icons and a faithful shepherd of Sardis, grant through his intercession that we may honor the incarnation of Your Son with reverence and confess His truth without fear. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euthymius_of_Sardis"
+  ],
+  "featured": false,
+  "draft": false
+}

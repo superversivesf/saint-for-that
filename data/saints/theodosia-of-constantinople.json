@@ -1,0 +1,29 @@
+{
+  "slug": "theodosia-of-constantinople",
+  "name": "St. Theodosia of Constantinople",
+  "feastDay": "05-29",
+  "bio": "Theodosia of Constantinople was a Christian nun and martyr who lived during the Byzantine Iconoclasm of the seventh and eighth centuries. When imperial edicts forbade the veneration of holy images, she and other monks resisted, defending the ancient Christian practice of honoring icons of Christ and the saints.\n\nMartyred for her defense of sacred images, Theodosia was venerated from ancient times as a patron of the infirm and a helper of those who suffer. Her courage in confessing the faith against imperial pressure has made her a model of steadfast devotion.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Theodosia with martyrdom for defending the holy icons, grant through her intercession that we may venerate your sacred mysteries with pure hearts and bear witness to your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodosia_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

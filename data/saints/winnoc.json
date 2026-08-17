@@ -1,0 +1,30 @@
+{
+  "slug": "winnoc",
+  "name": "St. Winnoc",
+  "feastDay": "02-20",
+  "canonized": "Pre-Congregation",
+  "bio": "Winnoc was an abbot or prior of Wormhout in Flanders, a holy man of the early medieval Church whose memory survived through three separate lives written in the centuries after his death. The earliest and most reliable of these was composed by a monk of Saint Bertin, preserving for later ages the witness of a shepherd who served his community with prayer and labor.\n\nTradition honors Winnoc as a patron of millers and as an intercessor against fever, whooping cough, and drought—afflictions that touched the daily lives of the people who prayed at his shrine. His feast is kept on February 20, and he is remembered as one of those quiet monastic saints whose holiness, though little recorded, was felt powerfully by the faithful who sought his aid in sickness and in the hardships of the seasons.",
+  "patronages": [
+    {
+      "need": "bakers",
+      "category": "jobs"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Winnoc a faithful abbot and a gentle intercessor for the sick and for those who labor with their hands, grant through his prayers that we may be preserved from fever and want, and serve you in the quiet holiness of our daily work. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Winnoc"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pirmin",
+  "name": "St. Pirmin",
+  "feastDay": "11-03",
+  "bio": "Saint Pirmin was a Merovingian-era monk and missionary of the early eighth century who labored to plant the faith in Alemannia, the Germanic frontier lands between the Rhine and the Danube. Much of what is known of his life comes from the monasteries he founded or restored.\n\nPirmin founded or rebuilt numerous monasteries, most notably the abbey of Reichenau on an island in Lake Constance, which became one of the great centers of learning in the early medieval German world. He traveled widely, preaching the Gospel and establishing communities of monks who would carry on his work.\n\nHis feast is kept on 3 November, and he is honored as a patron of missionaries and of those who bring the faith to new lands.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Pirmin to preach the Gospel in the lands of Alemannia and to found houses of prayer and learning, grant through his intercession that missionaries may carry the faith to every people, and that monasteries may remain schools of holiness and wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pirmin"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "joseph-the-confessor",
+  "name": "St. Joseph the Confessor",
+  "feastDay": "07-14",
+  "bio": "Joseph the Confessor was a ninth-century Archbishop of Thessalonica and the brother of Theodore the Studite. Together the two brothers stood at the heart of the Byzantine resistance to the second wave of Iconoclasm under Emperor Leo the Armenian. When imperial policy demanded the surrender of holy images, Joseph refused and was exiled from his see, bearing witness to the Orthodox veneration of icons as a confession of the Incarnation. He shared the sufferings of his brother and the Studite monks, enduring banishment and privation for the faith. After the restoration of icon veneration he returned to Thessalonica and completed his episcopate in peace. He is commemorated on 14 July as a confessor who chose exile over betrayal of the sacred images.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Joseph the Confessor grace to suffer exile rather than abandon the holy images, grant through his intercession that we may reverence the mysteries of Your Incarnation with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseph_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "joseph-busnaya",
+  "name": "St. Joseph Busnaya",
+  "feastDay": "unknown",
+  "bio": "Joseph Busnaya, in Syriac Yawsip or Yawsep Būsnāyā, was an East Syriac monk and mystic of Upper Mesopotamia who lived from about 869 to 979, a span of years that carried him across the upheavals of the Church of the East under Abbasid rule. He dwelt as a solitary and spiritual father in the Sapna valley, and his long life became a living bridge between the early monastic tradition of Mesopotamia and the Syriac spirituality of the tenth century. His disciple John (Yoḥannan) bar Kaldun composed his biography and wove into it a chapter on his spiritual teachings, a text that remains an important source for the Christian geography of the Sapna valley and for the life and prayer of East Syriac monks of that era. He is honored as a holy elder whose wisdom guided many in the way of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Joseph Busnaya long years of prayerful solitude in the Sapna valley and a wisdom that drew disciples to his side, grant through his intercession that those who seek You in silence may be filled with Your Spirit. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseph_Busnaya"
+  ],
+  "featured": false,
+  "draft": false
+}

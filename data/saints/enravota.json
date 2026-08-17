@@ -1,0 +1,29 @@
+{
+  "slug": "enravota",
+  "name": "St. Enravota",
+  "feastDay": "03-28",
+  "bio": "Enravota, also called Voin or Boyan, was the eldest son of Khan Omurtag of Bulgaria in the early ninth century. Raised in a pagan court, he encountered the Christian faith amid the first conversions of the Bulgarian nobility. When his father discovered his embrace of Christ, Enravota refused to renounce his new faith and was stripped of his right to succeed as khan. According to tradition, his own brother Malamir later ordered his execution. He was put to death around 833, becoming the first Bulgarian Christian martyr and the earliest Bulgarian saint to be canonized. Honored as a pioneer of Christianity among the Slavs, he is remembered for choosing the cross over a throne and sealing his witness with his blood.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Enravota with martyrdom when he chose Your Son over an earthly throne, grant through his intercession that we may prefer the kingdom of heaven to every worldly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enravota"
+  ],
+  "featured": false,
+  "draft": false
+}

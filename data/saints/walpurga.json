@@ -1,0 +1,33 @@
+{
+  "slug": "walpurga",
+  "name": "St. Walpurga",
+  "feastDay": "02-25",
+  "bio": "Walpurga, also spelled Walburga, was an Anglo-Saxon missionary to the Frankish Empire and one of the great women evangelists of the early medieval Church. She traveled from England to the continent to assist in the conversion of the Germanic peoples, carrying the faith taught by her family and her monastic formation.\n\nShe was canonized on 1 May around the year 870 by Pope Adrian II. Her feast day gave its name to the Eve of Saint Walpurgis, long associated in folklore with the coming of spring. Honored as a patron of Eichstätt, Antwerp, Zutphen, and many other towns, she is remembered as a heavenly protector of the communities she served.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Walpurga from England to evangelize the Frankish peoples, grant through her intercession that the nations of Europe may be renewed in the faith she proclaimed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Walpurga"
+  ],
+  "featured": false,
+  "draft": false
+}

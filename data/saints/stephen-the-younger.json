@@ -1,0 +1,29 @@
+{
+  "slug": "stephen-the-younger",
+  "name": "St. Stephen the Younger",
+  "feastDay": "11-28",
+  "bio": "Saint Stephen the Younger was a Byzantine monk of Constantinople who became one of the foremost opponents of the iconoclastic policies of Emperor Constantine V. From his monastery he defended the veneration of sacred images with unflinching courage, and when persecution intensified he endured exile, imprisonment, and finally execution in 764. He became the most prominent iconodule martyr of his age. His feast is celebrated on 28 November. The Life of St. Stephen the Younger, composed shortly after his death, remains an important historical source for the iconoclast controversy.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Stephen the Younger courage to defend the holy images even unto death, grant through his intercession that your people may always reverence the sacred mysteries made visible. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

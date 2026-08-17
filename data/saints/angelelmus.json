@@ -1,0 +1,26 @@
+{
+  "slug": "angelelmus",
+  "name": "St. Angelelmus",
+  "feastDay": "07-07",
+  "canonized": "Pre-Congregation",
+  "bio": "Angelelmus was bishop of Auxerre from 813 to 828, one of the Carolingian-era pastors who governed the Church of Gaul through a time of reform and political upheaval. A Bavarian by birth, he came to Burgundy and served as abbot of the monastery of Saints Gervais and Protase at Auxerre before he was raised to the episcopal chair of the same city.\n\nAs bishop he cared for the clergy and people of his diocese through the years that followed the death of Charlemagne, when the empire was strained by division and invasion. His feast is kept on July 7, and he is honored as a patron of bishops and of monks, and as an intercessor for all who bear the weight of office in unsettled times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Angelelmus from the abbey of Saints Gervais and Protase to the chair of Auxerre, granting him grace to govern in a time of trouble, grant through his intercession that all who hold office in your Church may serve with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angelelmus"
+  ],
+  "featured": false,
+  "draft": false
+}

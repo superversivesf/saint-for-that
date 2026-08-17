@@ -1,0 +1,25 @@
+{
+  "slug": "theodore-of-pavia",
+  "name": "St. Theodore of Pavia",
+  "feastDay": "05-20",
+  "bio": "Theodore served as bishop of Pavia in northern Italy from 743 until his death, shepherding his flock through a turbulent age of Lombard rule. He was repeatedly exiled by the Lombard kings for his fidelity to the Church and his defense of his people, bearing banishment with patient endurance and unwavering faith.\n\nHonored together with Saint Syrus as a principal patron of Pavia, Theodore's relics rest in the church bearing his name, where the faithful have sought his intercession for centuries. His witness as a confessor-bishop who suffered exile rather than compromise has made him an enduring model of pastoral courage.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Theodore of Pavia to remain faithful amid exile and trial, grant through his intercession that we may bear every hardship with patience and confess your name with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theodore_of_Pavia"
+  ],
+  "featured": false,
+  "draft": false
+}

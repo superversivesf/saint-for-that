@@ -1,0 +1,29 @@
+{
+  "slug": "athanasia-of-aegina",
+  "name": "St. Athanasia of Aegina",
+  "feastDay": "unknown",
+  "bio": "Saint Athanasia of Aegina was a Byzantine abbess whose life was marked by visions, obedience, and the surprising paths of providence. Born of noble parents, she received a vision at the age of seven that drew her toward the cloister, yet her parents forced her into marriage not once but twice. Her first husband, a soldier, was killed in battle within weeks of the wedding; her second husband likewise chose the religious life, freeing her to fulfill her vocation. She became an abbess renowned for her wisdom and holiness, and her hagiography, written shortly after her death and published in 916, praises her as a woman who lived admirably and bore the name of immortality.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Athanasia of Aegina through sorrow and obedience to the quiet of the cloister, grant through her intercession that all who are bound against their will may find their way to you, and that religious women may persevere in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athanasia_of_Aegina"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pega",
+  "name": "St. Pega",
+  "feastDay": "01-08",
+  "bio": "Saint Pega was a Christian anchoress of the ancient Anglo-Saxon kingdom of Mercia, living in the late seventh and early eighth centuries. She was the sister of Saint Guthlac, the celebrated hermit of Crowland, and shared his vocation of solitary devotion to God.\n\nPega lived as a recluse in the fens of eastern England, not far from her brother's hermitage. When Guthlac lay dying in 714, he sent for her, and she came to bury him and commend his soul to God. After his death she continued her life of prayer and penance in the wilderness.\n\nShe is said to have journeyed to Rome in her later years, where she died and was buried near the church of Saint Mary ad martyres. Her feast is kept on 8 January, and she is remembered as one of the early English women who embraced the anchoritic life.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Pega to seek You in the solitude of the fens and to devote herself wholly to prayer, grant through her intercession that we may learn to withdraw from the noise of the world and find You in the silence of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pega"
+  ],
+  "featured": false,
+  "draft": false
+}

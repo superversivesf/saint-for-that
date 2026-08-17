@@ -1,0 +1,26 @@
+{
+  "slug": "winibald",
+  "name": "St. Winibald",
+  "feastDay": "12-18",
+  "canonized": "Pre-Congregation",
+  "bio": "Winibald was the abbot of the Benedictine double monastery of Heidenheim am Hahnenkamm in Bavaria, remembered together with his brother Willibald and his sister Walpurga as one of a holy family whose collective witness did much to establish the faith in the German lands. Born in England, he traveled to Rome as a pilgrim before settling into the monastic life to which God had called him.\n\nAs abbot of Heidenheim, Winibald governed the double monastery with wisdom, guiding both monks and nuns in the way of holiness under the Benedictine rule. His life of prayer, discipline, and pastoral care helped root the monastic tradition firmly in the soil of Bavaria. His feast is kept on December 18, and he is invoked as a patron of monks and of the Church in Germany.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Winibald to govern your flock at Heidenheim with humility and grace, guiding monks and nuns alike in the way of your Son, grant through his intercession that we may walk faithfully in the rule of prayer and the discipline of love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Winibald"
+  ],
+  "featured": false,
+  "draft": false
+}

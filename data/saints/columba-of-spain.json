@@ -1,0 +1,29 @@
+{
+  "slug": "columba-of-spain",
+  "name": "St. Columba of Spain",
+  "feastDay": "09-17",
+  "bio": "Columba of Spain was a virgin and nun, born in Córdoba, Spain, who was martyred around 853 by the Muslim rulers of Spain during a persecution of Christians. She is counted among the Martyrs of Córdoba, the group of men and women who confessed Christ before the Islamic authorities and suffered death for their fidelity to the Gospel. Her cult was probably a combination of devotion to two virgin martyrs, Columba of Spain and Columba of Sens, a third-century French martyr. Honored in Spain, southern France, and Andorra, she is a patron of those who hold fast to the faith under pressure. Her witness recalls the long endurance of Christian communities living under non-Christian rule.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Columba of Spain the grace to confess Your name even to the shedding of her blood, grant through her intercession that we may remain steadfast in the faith when it costs us most. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columba_of_Spain"
+  ],
+  "featured": false,
+  "draft": false
+}

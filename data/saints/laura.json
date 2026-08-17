@@ -1,0 +1,29 @@
+{
+  "slug": "laura",
+  "name": "St. Laura",
+  "feastDay": "10-19",
+  "bio": "Laura of Córdoba was a Spanish Christian who lived in Muslim Spain during the ninth century, one of the Martyrs of Córdoba. Born in Córdoba, she was widowed and entered the convent of Cuteclara as a nun, where she rose to become abbess, governing her sisters in a life of prayer and ascetic discipline under Islamic rule. According to Saint Eulogius of Córdoba, Laura was seized by the Muslim authorities, condemned for her Christian confession, and put to death by being plunged into a vat of boiling pitch, a death she endured with the peace of one who had long meditated on the Passion of Christ. She is commemorated on 19 October and counted among the Martyrs of Córdoba, those who willingly accepted death rather than conceal their faith or blaspheme the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Laura the courage to die for Christ rather than deny Him, grant through her intercession that those who govern communities of prayer may stand firm and that all who suffer for the faith may find in You their hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Laura"
+  ],
+  "featured": false,
+  "draft": false
+}

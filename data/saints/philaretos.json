@@ -1,0 +1,25 @@
+{
+  "slug": "philaretos",
+  "name": "St. Philaretos",
+  "feastDay": "12-01",
+  "bio": "Saint Philaretos lived in the early eighth century in Paphlagonia, a region of Byzantine Anatolia. Born into an aristocratic family, he possessed great wealth and lands, yet is remembered for a virtue that seemed folly to the worldly: unworldly generosity.\n\nAccording to the hagiography written by his grandson Niketas, Philaretos gave away most of his wealth to the poor, keeping back almost nothing. When misfortune stripped him of the rest, he accepted poverty with the same peace he had shown in prosperity, trusting God's providence.\n\nDepicted in his Life as a fool for Christ, his radical charity confounded the prudent and revealed the boundless mercy of God. His feast is kept on 1 December, and he is honored as a patron of the poor and of those who give without counting the cost.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Philaretos the grace to give away his wealth without counting the cost and to embrace poverty with a peaceful heart, grant through his intercession that we may hold the goods of this world loosely and open our hands to those in need. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Philaretos"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hunberht",
+  "name": "St. Hunberht",
+  "feastDay": "unknown",
+  "bio": "Hunberht, also rendered Humberht, was a medieval Bishop of Elmham in the Anglo-Saxon kingdom of East Anglia. Elmham, now North Elmham in Norfolk, was an important episcopal see in the early English Church, and Hunberht's ministry there would have placed him among the leaders tasked with consolidating Christian faith among a people still close to their pagan past. The documentary record of his life is exceedingly sparse, and even the exact dates of his episcopate remain uncertain, yet his name was preserved in episcopal lists and his veneration as a saint endured in local tradition. He is honored as one of the early prelates who labored to establish the Church in eastern England during a formative and often precarious age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Hunberht guided the early Church of Elmham through a time of planting and growth, grant through his intercession that those entrusted with pastoral office may build up Your people in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hunberht"
+  ],
+  "featured": false,
+  "draft": false
+}

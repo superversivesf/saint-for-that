@@ -1,0 +1,30 @@
+{
+  "slug": "pope-zachary",
+  "name": "St. Zachary",
+  "feastDay": "03-15",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Zachary served as bishop of Rome from December 741 until his death on March 15, 752, the last pope of the Byzantine Papacy and a man remembered as a capable administrator and a skillful, subtle diplomat in a dangerous age. He built the original church of Santa Maria sopra Minerva, forbade the traffic of slaves in Rome, and negotiated peace with the Lombards who pressed upon the city.\n\nZachary also sanctioned Pepin the Short's accession to the Frankish throne in place of Childeric III, a decision that reshaped the political map of Europe and bound the papacy more closely to the Frankish kingdom. His feast is kept on March 15, and he is invoked as a patron of peace, of the enslaved and those trafficked, and of those who labor to defend the poor and the vulnerable.",
+  "patronages": [
+    {
+      "need": "peace",
+      "category": "spiritual"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "trafficking victims",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Zachary a wise shepherd of your Church, a defender of the enslaved, and a peacemaker in a troubled age, grant through his intercession that we may work for justice and reconciliation, and hold fast to the dignity of every human person. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Zachary"
+  ],
+  "featured": false,
+  "draft": false
+}

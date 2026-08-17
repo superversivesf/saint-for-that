@@ -1,0 +1,29 @@
+{
+  "slug": "elias-of-enna",
+  "name": "St. Elias of Enna",
+  "feastDay": "unknown",
+  "bio": "Saint Elias of Enna, born John Rachites, is venerated as a saint by the Catholic Church and the Orthodox Church. He is also known as Saint Elias the Younger, or Junior, to distinguish him from the biblical prophet Elijah. He lived a very adventurous life during the ninth century and was the protagonist of repeated exploits in defense of the faith. Born in Sicily during the period of Islamic rule, he traveled widely, was captured and enslaved, and after his release devoted himself to the monastic life and to preaching. His journeys took him across the Mediterranean, and his endurance through captivity, exile, and missionary labor made him a model of perseverance under persecution. He is remembered as a witness to Christ among both Christians and Muslims of the medieval Mediterranean world.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Elias through captivity, exile, and labor for the Gospel, grant through his intercession that those held in any bondage may find freedom in Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_of_Enna"
+  ],
+  "featured": false,
+  "draft": false
+}

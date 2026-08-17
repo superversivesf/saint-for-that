@@ -1,0 +1,29 @@
+{
+  "slug": "arn-bishop-of-w-rzburg",
+  "name": "St. Arn",
+  "feastDay": "unknown",
+  "bio": "Saint Arn, called Arno von Endsee, was elected Bishop of Würzburg in 855 upon the death of his master Bishop Gozbald. A warrior-prelate in an age of ceaseless frontier warfare, Arn was recorded fighting against nearly every external foe that pressed upon the German peoples during his episcopate. He governed the see until his death, defending both the church and the realm with pastoral care and with the sword. His life testifies to the turbulent ninth century, when bishops were shepherds and war-leaders at once, charged with the survival of Christian peoples under constant threat from invaders on every side.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Arn both bishop and defender of his people in a time of war, grant through his intercession that pastors may guard their flocks with courage and that nations may dwell in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arn_(bishop_of_W%C3%BCrzburg)"
+  ],
+  "featured": false,
+  "draft": false
+}

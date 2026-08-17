@@ -1,0 +1,29 @@
+{
+  "slug": "donatus-of-fiesole",
+  "name": "St. Donatus of Fiesole",
+  "feastDay": "10-22",
+  "bio": "Donatus of Fiesole was an Irish teacher and poet who became Bishop of Fiesole in Tuscany. According to tradition, he journeyed from Ireland on pilgrimage to Rome with his disciple Andrew, and on his return journey came to Fiesole, where the people, guided by divine Providence, chose him as their bishop. Learned in Scripture and the liberal arts, Donatus promoted the education of clergy and laity alike, and composed hymns and poetry in honor of the saints and the faith. He was a friend of Pope Nicholas I and of the emperor Louis II, and he worked to reform and strengthen the Church in Italy. He is remembered as a bridge between the Irish and the Latin churches and as a patron of teachers, poets, and scholars.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "jobs"
+    },
+    {
+      "need": "poets",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Donatus to be a teacher of Your Church and a shepherd of Your people, grant through his intercession that what we learn we may use for Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donatus_of_Fiesole"
+  ],
+  "featured": false,
+  "draft": false
+}

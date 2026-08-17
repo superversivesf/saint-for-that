@@ -1,0 +1,29 @@
+{
+  "slug": "wilfrid",
+  "name": "St. Wilfrid",
+  "feastDay": "04-24",
+  "bio": "Wilfrid was an English bishop and one of the most influential churchmen of the early Anglo-Saxon Church. Born a Northumbrian noble, he entered religious life as a youth and studied at Lindisfarne, Canterbury, in Francia, and at Rome, absorbing Roman liturgy and canon law that shaped his ministry.\n\nReturning to Northumbria around 660, he became abbot of the newly founded monastery at Ripon. At the Synod of Whitby in 664 he was spokesman for the Roman position, advocating that the Roman method for calculating Easter be adopted throughout England. His success led to his appointment as Bishop of Northumbria, though his long career was marked by conflict, exile, and appeals to Rome. Through all his struggles he remained a tireless builder of churches and a defender of Roman order.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Wilfrid zeal for the unity of your Church and the courage to defend her traditions, grant through his intercession that your people may be one in faith and worship. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wilfrid"
+  ],
+  "featured": false,
+  "draft": false
+}

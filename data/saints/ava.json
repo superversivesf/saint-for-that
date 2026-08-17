@@ -1,0 +1,25 @@
+{
+  "slug": "ava",
+  "name": "St. Ava",
+  "feastDay": "04-29",
+  "bio": "Saint Ava was a Benedictine abbess venerated as a Roman Catholic saint. Little is recorded of her early life, but she is commemorated on 29 April and has long been invoked as a patron of the blind. Her life in the cloister, given to prayer and the rule of Saint Benedict, made her a model of the monastic virtues and of the care of the church for those who dwell in darkness. Honored through the centuries by the faithful who sought her intercession, she remains a quiet witness to the power of religious consecration and to the compassion of the saints for those who suffer in body or in sight.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ava the grace of the cloister and a heart of compassion for those in darkness, grant through her intercession that the blind may receive the light of your mercy, and that religious women may walk in your way. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ava"
+  ],
+  "featured": false,
+  "draft": false
+}

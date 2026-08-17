@@ -1,0 +1,25 @@
+{
+  "slug": "aurea-of-c-rdoba",
+  "name": "St. Aurea of Córdoba",
+  "feastDay": "07-19",
+  "bio": "Saint Aurea of Córdoba, who lived from 810 to 856, was a nun and martyr of the city of Córdoba under Muslim rule in al-Andalus. She was one of the Martyrs of Córdoba, a group of forty-eight Christians executed for their faith during the ninth century. Choosing the cloister and the cross over the safety of silence, she gave her life rather than renounce Christ. Her feast is kept on 19 July, and she is remembered among the brave confessors of the Spanish church who witnessed to the Gospel in a time of trial and persecution under a rule that forbade their confession.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aurea of Córdoba grace to die rather than deny the faith, grant through her intercession that we may confess the name of Christ with courage, and that all who suffer for the Gospel may be strengthened. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurea_of_C%C3%B3rdoba"
+  ],
+  "featured": false,
+  "draft": false
+}

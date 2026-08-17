@@ -1,0 +1,30 @@
+{
+  "slug": "antoninus-of-sorrento",
+  "name": "St. Antoninus of Sorrento",
+  "feastDay": "02-14",
+  "canonized": "Pre-Congregation",
+  "bio": "Antoninus of Sorrento was an Italian abbot and hermit of the early medieval Church, one of those southern Italian monks whose holiness was formed in solitude and bore fruit in the care of others. Born in the region of Campagna, he was drawn from his youth to the life of prayer and withdrew to live as a hermit before he was called to govern a community as abbot.\n\nAs abbot he gathered disciples around the monastic rule and led them in the pursuit of God, while his reputation for holiness spread through the countryside around Sorrento. His feast is kept on February 14, and he is honored as a patron of hermits, monks, and contemplatives, and as an intercessor for all who seek God in silence.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Antoninus from solitude to guide a community of monks in the hills above Sorrento, granting him wisdom in both silence and service, grant through his intercession that we may seek you in quiet and find you in the company of our brothers and sisters. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antoninus_of_Sorrento"
+  ],
+  "featured": false,
+  "draft": false
+}

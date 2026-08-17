@@ -1,0 +1,25 @@
+{
+  "slug": "hunger",
+  "name": "St. Hunger",
+  "feastDay": "unknown",
+  "bio": "Hunger, also known as Hungerus Frisus, served as Bishop of Utrecht from 856 to 866, leading the diocese through one of the most dangerous decades of the Viking Age. The Low Countries lay directly in the path of Norse raids, and the see of Utrecht, though ancient and prestigious, was repeatedly threatened by pagan incursions that disrupted ecclesiastical life and drove clergy and laity alike to seek refuge. Hunger's brief episcopate was consumed by the practical demands of shepherding a flock under siege and preserving the institutions of the Church amid chaos. His veneration as a saint in both the Catholic and Eastern Orthodox traditions reflects the gratitude of a people who saw in him a steadfast pastor in a time of trial. The exact date of his feast is not recorded.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Hunger as bishop of Utrecht while invaders ravaged his lands and scattered his people, grant through his intercession that those who lead Your Church in peril may stand firm and keep their flocks safe. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Hunger"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hunfrid-of-pr-m",
+  "name": "St. Hunfrid of Prüm",
+  "feastDay": "03-08",
+  "bio": "Hunfrid of Prüm, also known as Saint Humphrey, was an East Frankish Benedictine monk of Prüm Abbey in the Rhineland who rose to prominence in the turbulent mid-ninth century. In 856 Pope Nicholas I elevated him to the bishopric of Thérouanne in Gaul, a frontier see in lands only recently reclaimed from paganism and still exposed to Viking attack. From 864 to 868 he also served as abbot of Saint-Bertin, one of the great monastic houses of northern Francia, where he governed a community of monks amid political upheaval and the erosion of Carolingian authority. His career spanned the worlds of monastic discipline and episcopal governance at a time when the Church stood as a pillar of stability in a fracturing world. He is venerated on 8 March.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hunfrid of Prüm from the cloister to the episcopal throne and the abbatial staff, grant through his intercession that those who lead Your Church may unite learning with pastoral zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hunfrid_of_Pr%C3%BCm"
+  ],
+  "featured": false,
+  "draft": false
+}

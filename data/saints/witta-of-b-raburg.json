@@ -1,0 +1,30 @@
+{
+  "slug": "witta-of-b-raburg",
+  "name": "St. Witta of Büraburg",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Witta of Büraburg was one of the early Anglo-Saxon missionaries who carried the Gospel into Hesse and Thuringia in central Germany, a disciple and companion of Saints Boniface and Lullus in that great eighth-century effort to plant the faith among the Germanic peoples. When Boniface established the short-lived bishopric of Büraburg near Fritzlar in 741, Witta became its first and only bishop.\n\nAfter his death on October 26, 747, no successor was appointed, and Archbishop Lullus of Mainz incorporated the see into his own. Witta was buried in the chapel of Saint Sturm, which Lullus later used as the nucleus for the influential Benedictine Hersfeld Abbey. His feast is not firmly fixed in the calendar, but he is honored as a patron of missionaries and of the Church in Germany.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "travel"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Witta of Büraburg as a missionary bishop among the peoples of Hesse and Thuringia, laboring beside Saints Boniface and Lullus to sow your Gospel in new soil, grant through his intercession that we may bear witness to your name with the same courage and constancy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Witta_of_B%C3%BCraburg"
+  ],
+  "featured": false,
+  "draft": false
+}

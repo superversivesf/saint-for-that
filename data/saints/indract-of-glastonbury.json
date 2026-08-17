@@ -1,0 +1,25 @@
+{
+  "slug": "indract-of-glastonbury",
+  "name": "St. Indract of Glastonbury",
+  "feastDay": "02-05",
+  "bio": "Indract, also spelled Indracht, was an Irish saint venerated at Glastonbury Abbey in Somerset, where his relics were honored throughout the High Middle Ages. The Glastonbury tradition held that he was an Irish pilgrim, a king's son, returning from Rome when he stopped to visit the shrine of Saint Patrick in the west of England. There a local thegn, covetous and violent, waylaid and killed him and his companions, making him a martyr of pilgrimage. The legend synchronized his life with King Ine of Wessex, who reigned from 688 to 726, though historian Michael Lapidge argued the figure more likely represents a ninth-century abbot of Iona named Indrechtach ua Fínnachta whose memory was later transplanted to English soil. Honored at Glastonbury as a martyr and pilgrim, his feast is 5 February.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Indract with the palm of martyrdom as he journeyed in pilgrimage, grant through his intercession that all who travel in search of You may reach their heavenly home in safety. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Indract_of_Glastonbury"
+  ],
+  "featured": false,
+  "draft": false
+}

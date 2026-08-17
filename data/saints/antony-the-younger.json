@@ -1,0 +1,25 @@
+{
+  "slug": "antony-the-younger",
+  "name": "St. Antony the Younger",
+  "feastDay": "12-01",
+  "bio": "Saint Antony the Younger served as a Byzantine military officer before renouncing the world to embrace the monastic life. After years in imperial service, he withdrew to a monastery, trading the sword for the cowl and dedicating himself to prayer, fasting, and the ascetic disciplines of the Eastern Church. His conversion from the camps and campaigns of the empire to the silence of the cloister made him a living sign that even the soldier may become a contemplative. Venerated by the Eastern Orthodox Church, he is commemorated on 1 December as a monk who put off the armor of war to take up the armor of Christ.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Antony the Younger from the ranks of soldiers to the silence of the monastery, grant through his intercession that all who serve in arms may find the way to peace, and that all monks may persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antony_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

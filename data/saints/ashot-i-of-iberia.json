@@ -1,0 +1,25 @@
+{
+  "slug": "ashot-i-of-iberia",
+  "name": "St. Ashot I of Iberia",
+  "feastDay": "unknown",
+  "bio": "Saint Ashot I the Great, called Kouropalates, was the first of the Bagratid family to preside as prince of Iberia, ruling from his base in Tao-Klarjeti from about 813. He labored to enlarge the Bagratid territories and, facing the advance of Arab Muslim power, sought the protection of Byzantium. A patron of Christian culture and a friend of the church, he was murdered around 826 and was canonized by the Georgian Orthodox Church. Honored as a royal defender of the faith, he stands among those rulers who placed their throne in service of the Gospel and the survival of their Christian people amid the pressures of empire and conquest.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Ashot of Iberia to defend his Christian people in a time of peril, grant through his intercession that rulers may govern in justice and that the persecuted may not lose hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ashot_I_of_Iberia"
+  ],
+  "featured": false,
+  "draft": false
+}

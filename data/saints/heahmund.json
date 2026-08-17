@@ -1,0 +1,25 @@
+{
+  "slug": "heahmund",
+  "name": "St. Heahmund",
+  "feastDay": "03-22",
+  "bio": "Heahmund was a medieval Bishop of Sherborne in the Anglo-Saxon kingdom of Wessex during the ninth century. He is remembered as a warrior bishop, a man who combined the spiritual authority of his office with the martial duty expected of a leader in a land besieged by Viking raiders. In 871 he fell in battle against the Danes, fighting alongside King Æthelred I of Wessex and his younger brother, the future King Alfred the Great, at the engagement commonly identified with the Battle of Meretun. His death placed him among the ranks of those who gave their lives defending Christian England from heathen invasion. Heahmund is venerated as a saint in both the Catholic and Orthodox Churches, and his feast is kept on 22 March.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Heahmund to defend both altar and homeland against the fury of invaders, grant through his intercession that those who bear arms in a just cause may act with courage and conscience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Heahmund"
+  ],
+  "featured": false,
+  "draft": false
+}

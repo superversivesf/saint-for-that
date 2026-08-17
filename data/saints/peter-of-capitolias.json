@@ -1,0 +1,29 @@
+{
+  "slug": "peter-of-capitolias",
+  "name": "St. Peter of Capitolias",
+  "feastDay": "unknown",
+  "bio": "Saint Peter of Capitolias was an eighth-century Christian who lived in the town of Capitolias, in what is today Jordan. Born into a Christian family, he married and became the father of three children, living as a layman in a land under Islamic rule.\n\nAfter the death of his wife, Peter discerned a call to leave the world and became a monk. According to some traditions, he was later consecrated bishop of Bosra, devoting himself to the pastoral care of the faithful in a region where Christian communities endured the pressures of conquest.\n\nPeter's life bears witness to the path from household to cloister to episcopate, a journey of holiness lived amid the tensions of his age. He is remembered for his fidelity as husband, father, monk, and shepherd.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Peter of Capitolias from the life of a husband and father to the service of Your Church as monk and bishop, grant through his intercession that all families may be schools of holiness and that those who seek You in the cloister may persevere in their vocation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_of_Capitolias"
+  ],
+  "featured": false,
+  "draft": false
+}

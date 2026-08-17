@@ -1,0 +1,29 @@
+{
+  "slug": "bega",
+  "name": "St. Bega",
+  "feastDay": "09-06",
+  "bio": "Saint Bega, venerated chiefly in the town of St Bees in Northumbria, was according to her medieval Life an Irish princess who fled across the sea to escape an arranged marriage to a Viking prince. Choosing exile and the solitude of a new land over the prospects of a throne, she became an anchoress and was renowned for her piety. Multiple churches in England have been dedicated to her, and her feast is still kept in St Bees on 6 September. She stands among the holy women of the early medieval church who chose Christ and the contemplative life above the honors and alliances of the world, finding in poverty and prayer a kingdom greater than any she had fled.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Bega across the sea to a life of solitude and prayer, grant through her intercession that all who flee from the paths of the world may find their home in you, and that single women may trust in your providence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Bega"
+  ],
+  "featured": false,
+  "draft": false
+}

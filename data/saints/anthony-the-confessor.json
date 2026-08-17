@@ -1,0 +1,30 @@
+{
+  "slug": "anthony-the-confessor",
+  "name": "St. Anthony the Confessor",
+  "feastDay": "11-02",
+  "canonized": "Pre-Congregation",
+  "bio": "Anthony the Confessor served as Archbishop of Thessalonica from 843 until his death, governing the great Byzantine see during the years that followed the final restoration of the veneration of icons. Most of what is known of his life comes through the vita of his relative Saint Theodora of Thessalonica, with whom he is linked in the memory of the Eastern Church.\n\nAs archbishop he shepherded the Church of Thessalonica through the aftermath of the iconoclast controversy, defending the faith of the icons and guiding his people back into the fullness of Catholic worship. He is venerated like Theodora on November 2, and is honored as a patron of bishops, confessors, and of all who defend the Church's ancient traditions in times of dispute.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Anthony the Confessor grace to govern the Church of Thessalonica and defend the veneration of your holy icons, grant through his intercession that we may hold fast to the faith of the ages and be united in your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_the_Confessor"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "flora-of-c-rdoba",
+  "name": "St. Flora of Córdoba",
+  "feastDay": "11-24",
+  "bio": "Flora of Córdoba was a ninth-century Christian maiden of Muslim Spain, the daughter of a Muslim father and a Christian mother, raised in the faith of her mother in secret. Together with her companion Maria, she became one of the first of the celebrated Martyrs of Córdoba. Desiring to confess Christ openly, Flora presented herself before an Islamic judge and denounced Islam. The judge, threatening her with public shame and declaring she would be exposed as a prostitute, sought to break her resolve, but she remained steadfast. Imprisoned and condemned, Flora and Maria were beheaded, winning the crown of martyrdom. They are commemorated on November 24 and are remembered as courageous virgins who chose death rather than deny the faith or their purity.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Flora courage to confess Your Son before her persecutors and preserved her in purity and faith, grant through her intercession that we may never be ashamed of the Gospel and may keep our souls unstained. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flora_and_Maria"
+  ],
+  "featured": false,
+  "draft": false
+}

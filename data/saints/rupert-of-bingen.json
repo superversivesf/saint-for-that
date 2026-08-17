@@ -1,0 +1,25 @@
+{
+  "slug": "rupert-of-bingen",
+  "name": "St. Rupert of Bingen",
+  "feastDay": "05-15",
+  "bio": "Saint Rupert of Bingen was a German Catholic saint of the early eighth century. He was the son of Bertha of Bingen, a Christian noblewoman, and a pagan father called Robolaus, or Robold. After his father's death, the young Rupert was raised as a Christian by his devout mother.\n\nUnder Bertha's care, Rupert grew in faith and piety and devoted himself to a life of prayer and service. Tradition holds that he lived as a hermit near Bingen on the Rhine, where he gave himself to contemplation and to the care of the poor.\n\nRupert died young, yet his memory endured among the people of the Rhineland. His feast is kept on 15 May, and he is remembered as a patron of those raised in the faith by their parents, and of hermits who seek God in solitude.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Rupert of Bingen in the faith through the witness of his mother Bertha and who called him to seek You in solitude, grant through his intercession that children may grow in holiness under the care of devout parents and that all who seek You in silence may find You near. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rupert_of_Bingen"
+  ],
+  "featured": false,
+  "draft": false
+}

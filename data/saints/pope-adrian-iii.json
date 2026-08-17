@@ -1,0 +1,30 @@
+{
+  "slug": "pope-adrian-iii",
+  "name": "St. Adrian III",
+  "feastDay": "07-08",
+  "canonized": "Pre-Congregation",
+  "bio": "Pope Adrian III, also called Hadrian III, served as bishop of Rome and leader of the Papal States from May 17, 884 until his death on July 8, 885—a pontificate of little more than a year, yet one that fell in a time of great trouble. Famine and war pressed upon the people of Italy, and Adrian labored to relieve the suffering of the poor and to hold the Church steady amid the storms of the age.\n\nHe died while journeying north, tradition holds, on his way to a council summoned by the emperor—falling in the very act of serving the Church he loved. His feast is kept on July 8, and he is invoked as a patron of peace, of travelers, and of the poor and the hungry, those for whom he labored in his brief and costly reign.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Adrian III a shepherd who labored for the hungry and the poor in a time of famine and war, and called him to himself while he was still on the road of service, grant through his intercession that we may feed the hungry and hold the Church steady in every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Adrian_III"
+  ],
+  "featured": false,
+  "draft": false
+}

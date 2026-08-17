@@ -1,0 +1,25 @@
+{
+  "slug": "aurelius-and-natalia",
+  "name": "St. Aurelius and Natalia",
+  "feastDay": "07-27",
+  "bio": "Saints Aurelius and Natalia were a married Christian couple who were put to death at Córdoba by the Emir Abd ar-Rahman II for refusing to renounce their faith. Devout spouses who lived quietly in the practice of the Gospel, they were exposed as Christians and chose martyrdom rather than apostasy. Together they bore witness to the faith of the church in al-Andalus, husband and wife united in confession and in death. Venerated by both the Catholic Church and the Eastern Orthodox Church, they are commemorated on 27 July as martyrs and as a married couple who kept faith with God and with one another to the end.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "difficult marriages",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who united Saints Aurelius and Natalia in marriage and in martyrdom, grant through their intercession that married couples may grow in fidelity, and that all who suffer for your name may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurelius_and_Natalia"
+  ],
+  "featured": false,
+  "draft": false
+}

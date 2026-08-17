@@ -1,0 +1,25 @@
+{
+  "slug": "eadwold-of-cerne",
+  "name": "St. Eadwold of Cerne",
+  "feastDay": "08-29",
+  "bio": "Eadwold of Cerne, also known as Eadwold of East Anglia, was a ninth-century hermit, East Anglian prince, and the patron saint of Cerne, Dorset. Though born of royal blood, he turned from the life of a courtier to seek God in solitude, living as a hermit on a hill about four miles from the village of Cerne. There, in fasting and unceasing prayer, he gave himself wholly to God, drawing disciples who revered his holiness. His quiet life of penance became a wellspring of devotion in the region, and after his death a shrine arose at Cerne, drawing pilgrims for centuries. He is remembered as one of the early English hermits whose prayers and example shaped the faith of the land, a prince who chose the poverty of a cell over the honors of a throne.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Eadwold to exchange the honors of a court for the silence of a hermit's cell, grant through his intercession that we may seek You above every earthly prize. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eadwold_of_Cerne"
+  ],
+  "featured": false,
+  "draft": false
+}

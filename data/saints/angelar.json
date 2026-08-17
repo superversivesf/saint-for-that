@@ -1,0 +1,26 @@
+{
+  "slug": "angelar",
+  "name": "St. Angelar",
+  "feastDay": "07-27",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Angelar was a medieval Bulgarian saint, venerated as one of the Seven Saints of Bulgaria whose work among the Slavic peoples earned them the title of enlighteners. He belonged to the circle of disciples formed in the wake of the mission of Saints Cyril and Methodius, carrying the gospel and the Slavonic liturgy into the lands beyond the Danube in the ninth century.\n\nHis labors helped lay the foundation of the Christian civilization of Bulgaria, translating prayer and Scripture into the tongue of the people and forming them in the faith. His feast is kept on July 27, and he is honored as a patron of missionaries, translators, and of all who labor to make the gospel intelligible in new cultures.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Angelar among the Slavic peoples to proclaim your word in their own tongue, grant through his intercession that missionaries and translators may make the gospel known to every nation, and that all peoples may hear you speak in their own language. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angelar"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "aldric-of-le-mans",
+  "name": "St. Aldric of Le Mans",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Aldric served as Bishop of Le Mans during the reign of Louis the Pious in the early ninth century, one of the Carolingian-era prelates entrusted with shepherding the Church through an age of reform and political renewal. Born into a noble family, he was trained in the cathedral school and rose through the clergy of Le Mans to the episcopal chair, governing his diocese through the unsettled years that followed the death of Charlemagne.\n\nAs bishop he was remembered for care of the liturgy, the repair of churches, and the ordering of his clergy, and he corresponded with the court on matters of Church governance. The precise date of his feast is uncertain, but he is honored as a patron of bishops and of all who carry the burden of pastoral office in difficult times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Aldric the grace to govern the Church of Le Mans with fidelity in a season of change, grant through his intercession that bishops and all pastors may hold fast to the truth and serve their people with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aldric_of_Le_Mans"
+  ],
+  "featured": false,
+  "draft": false
+}

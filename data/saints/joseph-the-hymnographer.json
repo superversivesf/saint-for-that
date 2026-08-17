@@ -1,0 +1,29 @@
+{
+  "slug": "joseph-the-hymnographer",
+  "name": "St. Joseph the Hymnographer",
+  "feastDay": "unknown",
+  "bio": "Joseph the Hymnographer was a Greek monk of the ninth century, revered as one of the greatest liturgical poets and hymnographers of the Eastern Orthodox Church. He entered monastic life in Constantinople and was drawn into the struggle against the renewed Iconoclasm of Emperor Leo the Armenian, suffering exile and imprisonment for his confession of the Orthodox faith. In the years that followed he composed a vast body of hymns, canons, and stichera that entered the Byzantine liturgical books and shaped the worship of the Eastern Church for centuries. His pen was a weapon of the spirit: in hymn after hymn he confessed the Lordship of Christ against the iconoclast emperors, and his verse carried the Orthodox faith into the daily prayer of the faithful.",
+  "patronages": [
+    {
+      "need": "poets",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Joseph the Hymnographer a pen tuned to the praise of Your majesty and a heart steadfast under persecution, grant through his intercession that our songs and our lives may confess the truth of Your Incarnation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseph_the_Hymnographer"
+  ],
+  "featured": false,
+  "draft": false
+}

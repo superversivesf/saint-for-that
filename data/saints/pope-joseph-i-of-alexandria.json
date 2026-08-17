@@ -1,0 +1,25 @@
+{
+  "slug": "pope-joseph-i-of-alexandria",
+  "name": "St. Joseph I of Alexandria",
+  "feastDay": "11-02",
+  "bio": "Joseph I of Alexandria, known in Coptic as Abba Yousab, was the 52nd Pope of Alexandria and Patriarch of the See of St. Mark, shepherding the Coptic Orthodox Church in the late ninth century. He inherited the ancient throne of St. Mark at a time when the Church of Egypt labored under the weight of Abbasid rule and the quiet attrition of a Christian community living as dhimmi under Muslim governance. His patriarchate is preserved in the Coptic tradition as one of patient, prayerful custodianship of the faith handed down from the Evangelist Mark, who had first preached in Alexandria. Joseph I stands within that long apostolic succession, honored as a faithful shepherd who kept the flock of Egypt in the hope of the Resurrection. He is commemorated on 2 November in the Coptic calendar.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who placed St. Joseph I upon the throne of St. Mark to shepherd Your people in Egypt through days of trial, grant through his intercession that the Churches of East and West may dwell in unity and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Joseph_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

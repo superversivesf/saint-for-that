@@ -1,0 +1,25 @@
+{
+  "slug": "relindis-of-maaseik",
+  "name": "St. Relindis of Maaseik",
+  "feastDay": "unknown",
+  "bio": "Saint Relindis was a Frankish nun of the eighth century, the sister of Saint Herlindis and the daughter of Count Adelard. The two sisters were brought up in the Benedictine monastery at Valenciennes, where they received their education in piety and learning.\n\nAdelard and his wife later built a monastery at Maaseik for their daughters, and the Abbey of Aldeneik was consecrated in the year 728. Relindis and Herlindis governed the community together as abbesses, leading their sisters in a life of prayer, work, and the praise of God.\n\nRelindis is remembered as one of the early noblewomen of the Low Countries who consecrated their lives to God in the cloister. She is honored as a patron of nuns and of those who serve God in the hidden life of the monastery.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Relindis and her sister Herlindis to serve You in the cloister they built at Maaseik, grant through her intercession that those who live hidden lives of prayer may be blessed in their vocation and that families may be schools of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Relindis_of_Maaseik"
+  ],
+  "featured": false,
+  "draft": false
+}

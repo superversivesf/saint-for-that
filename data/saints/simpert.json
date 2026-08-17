@@ -1,0 +1,25 @@
+{
+  "slug": "simpert",
+  "name": "St. Simpert",
+  "feastDay": "10-13",
+  "bio": "Simpert was an abbot, bishop, and confessor of the late 8th and early 9th centuries, traditionally reckoned a nephew of Charlemagne. Educated at Murbach Abbey in Alsace, he took the Benedictine habit and was elected abbot there. In 778 Charlemagne appointed him bishop of Augsburg, where he consolidated and strengthened the jurisdiction of his diocese. He lived alternately at Neuburg an der Donau, at Staffelsee Abbey, and at Augsburg, governing his flock with care. Remembered as a wise and zealous pastor, he is honored as a patron of Augsburg.",
+  "patronages": [
+    {
+      "need": "germany",
+      "category": "special"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Simpert a wise bishop and faithful pastor of Augsburg, grant through his intercession that the pastors of your Church may consolidate and strengthen the faith of their people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simpert"
+  ],
+  "featured": false,
+  "draft": false
+}

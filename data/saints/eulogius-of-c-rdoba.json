@@ -1,0 +1,33 @@
+{
+  "slug": "eulogius-of-c-rdoba",
+  "name": "St. Eulogius of Córdoba",
+  "feastDay": "03-11",
+  "bio": "Eulogius of Córdoba was a priest, scholar, and leader of the Christian community in ninth-century Muslim Spain, living under the emirs Abd ar-Rahman II and Muhammad I. Educated in the cathedral school of Córdoba, he became a man of wide learning, preserving Latin Christian culture at a time when it was imperiled. He encouraged fellow Christians to stand firm in their faith, and he recorded the trials and deaths of those who confessed Christ before Islamic courts, compiling the accounts that became the Memorial of the Saints and the Apologetic Book of the Martyrs. He himself was arrested for sheltering and defending converts, and after refusing to renounce his faith he was beheaded in 859. He is venerated as one of the most prominent of the Martyrs of Córdoba and a defender of conscience under persecution.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "conscience",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Eulogius to defend the faith with his pen and seal it with his blood, grant through his intercession that scholars and all who suffer for conscience sake may stand firm in the truth of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+  ],
+  "featured": false,
+  "draft": false
+}

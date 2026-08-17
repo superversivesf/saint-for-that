@@ -1,0 +1,29 @@
+{
+  "slug": "thecla-of-kitzingen",
+  "name": "St. Thecla of Kitzingen",
+  "feastDay": "10-15",
+  "bio": "Saint Thecla of Kitzingen was an Anglo-Saxon Benedictine nun, abbess, and missionary of the 8th century. She was among the women associated with Saint Boniface and the great Anglo-Saxon mission to the Germanic peoples. Leaving her homeland for the continent, she joined the work of planting monasteries and forming Christian communities among the still-pagan peoples of Germany. As an abbess she governed her sisters in the Benedictine rule, combining prayer, study, and labor. She is remembered as one of the courageous women who left kin and country to build up the Church in new lands.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Thecla of Kitzingen from her homeland to build up your Church among the German peoples, grant through her intercession that missionaries may courageously proclaim your gospel wherever they are sent. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thecla_of_Kitzingen"
+  ],
+  "featured": false,
+  "draft": false
+}

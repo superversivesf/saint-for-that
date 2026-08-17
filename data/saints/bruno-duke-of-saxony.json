@@ -1,0 +1,29 @@
+{
+  "slug": "bruno-duke-of-saxony",
+  "name": "St. Bruno, Duke of Saxony",
+  "feastDay": "02-02",
+  "bio": "Bruno, also called Brun or Braun, was a member of the Ottonian dynasty and Duke of Saxony from 866 until his death in 880. He is regarded as an ancestor of the Brunonids, a cadet branch of the Ottonians, though the affiliation is uncertain. Bruno was killed fighting against Norse warriors in the Battle of Lüneburg Heath and is venerated as one of the Ebsdorf Martyrs, a group of Saxon nobles and soldiers who fell defending their people and the Christian faith against pagan invaders. His death, alongside his companions, was remembered as a witness to the cost of defending both homeland and the Gospel. He is honored as a patron of soldiers and of those called to defend their people.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Bruno the courage to give his life defending his people and the faith, grant through his intercession that we may bear witness to Christ with steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bruno,_Duke_of_Saxony"
+  ],
+  "featured": false,
+  "draft": false
+}

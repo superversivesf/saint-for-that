@@ -1,0 +1,33 @@
+{
+  "slug": "euthymius-the-younger",
+  "name": "St. Euthymius the Younger",
+  "feastDay": "10-15",
+  "bio": "Euthymius the Younger, also called Euthymius of Thessalonica or Euthymios the New, was a ninth-century Christian monk and hermit who devoted his life to prayer on Mount Athos in Greece. Drawn to the eremitical life from his youth, he withdrew first to the monasteries near Thessalonica and then to the Holy Mountain, seeking solitude and unbroken communion with God. On Athos he lived as a solitary, enduring harsh conditions and spiritual trials, and he became a model of the hesychast tradition of stillness and interior prayer. He later founded a monastery and gathered disciples, teaching them the way of watchfulness and humility. He died in 898 and is venerated as one of the great early saints of Mount Athos, a patron of monks and hermits who seek God in silence.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Euthymius to seek You in the silence of Mount Athos, grant through his intercession that amid the noise of the world we may find the stillness in which You speak to the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euthymius_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

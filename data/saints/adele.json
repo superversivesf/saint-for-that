@@ -1,0 +1,29 @@
+{
+  "slug": "adele",
+  "name": "St. Adele",
+  "feastDay": "01-03",
+  "bio": "Adela of Pfalzel, sometimes called Adula or Adolana, was a Frankish noblewoman, abbess, and Catholic saint of the 8th century. Some sources name her father as Dagobert II and her sister as Saint Irmina of Oeren. She married a nobleman named Alberic; after his death she entered the Benedictine monastery of Pfalzel near Trier, where she may have been its founder and first abbess. She devoted her widowhood to prayer and the governance of her community, dying at Pfalzel around 735. Her feast is celebrated on January 3 in the Catholic Church and on December 24 in the Orthodox.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Adele from noble life to the governance of a monastery in widowhood, grant through her intercession that widows and nuns may find in you their portion and their peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adela_of_Pfalzel"
+  ],
+  "featured": false,
+  "draft": false
+}

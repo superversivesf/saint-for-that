@@ -1,0 +1,25 @@
+{
+  "slug": "florinus-of-rem-s",
+  "name": "St. Florinus of Remüs",
+  "feastDay": "11-17",
+  "bio": "Florinus of Remüs, also known as Florin, Florian of Chur, Florinus of Matsch, and Florinus of Vinschgau, was a priest and confessor of the early medieval Alps, venerated especially in the dioceses of Chur, Bolzano-Brixen, and Vaduz. Born in the Vinschgau Valley of what is now South Tyrol, he served as a priest in the village of Remüs, laboring among the mountain folk of the Rhine valley and the Engadin. Tradition holds that he was a tireless pastor, caring for the poor and sick and building up the faith in remote alpine regions. After his death his cult spread widely through the Vinschgau and the Rhineland, and numerous churches were dedicated to him. He is remembered as a model parish priest and a patron of the alpine peoples and their valleys.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Florinus a faithful shepherd of the alpine valleys and a comfort to the poor and sick, grant through his intercession that we may serve our neighbors with the same devoted love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florinus_of_Rem%C3%BCs"
+  ],
+  "featured": false,
+  "draft": false
+}

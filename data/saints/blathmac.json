@@ -1,0 +1,21 @@
+{
+  "slug": "blathmac",
+  "name": "St. Blathmac",
+  "feastDay": "unknown",
+  "bio": "Saint Blathmac, born in Ireland around the year 750, was a distinguished monk of the early Irish church. Known as Blathmac, son of Flann, to distinguish him from the poet of the same name, he devoted himself to the monastic life of prayer, study, and missionary zeal that characterized the Celtic church of his day. The Irish monks of his generation were famed for carrying the Gospel across Europe and for the rigor of their observance. Blathmac stands among that holy company, a son of Ireland who gave his life to the praise of God in the cloister and to the service of a church that, from its rocky western isle, sent light to the nations.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Blathmac to the monastic life of the Irish church, grant through his intercession that monks may persevere in prayer, and that the labors of those who serve you in quietness may bear fruit for the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blathmac"
+  ],
+  "featured": false,
+  "draft": false
+}

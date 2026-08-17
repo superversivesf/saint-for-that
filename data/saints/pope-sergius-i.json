@@ -1,0 +1,25 @@
+{
+  "slug": "pope-sergius-i",
+  "name": "St. Sergius I",
+  "feastDay": "unknown",
+  "bio": "Pope Sergius I, born in Syria to an Antiochene family, became bishop of Rome on 15 December 687 and served until his death on 8 September 701. He was elected amid a bitter rivalry between Paschal and Theodore, and his pontificate was shaped by his resolute refusal to accept the canons of the Quinisext Council, which he judged contrary to Roman tradition. When Emperor Justinian II ordered his arrest, the Roman people and the Italian militia of the exarch of Ravenna refused to surrender him, shielding their pope from imperial coercion. He introduced the Agnus Dei into the Mass and died as a confessor of the faith.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Pope Sergius I to defend the traditions of your Church against imperial pressure, grant through his intercession that your people may always be guided by faithful shepherds who seek unity in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Sergius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

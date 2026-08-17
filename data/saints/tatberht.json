@@ -1,0 +1,25 @@
+{
+  "slug": "tatberht",
+  "name": "St. Tatberht",
+  "feastDay": "unknown",
+  "bio": "Tatberht was an 8th-century Anglo-Saxon saint and abbot, a contemporary of the Venerable Bede. He governed a monastery in the kingdom of Northumbria during the great age of Northumbrian learning and piety. Though few details of his life survive, Bede knew him and counted him among the worthy pastors of his time. As an abbot he would have overseen the liturgical prayer, study, and hospitality of his house, guiding monks in the regular discipline of the Rule. His memory was preserved in the calendars of Anglo-Saxon England as one of the quiet laborers of the early Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Tatberht as an abbot among the scholars of Northumbria, grant through his intercession that monasteries may remain houses of prayer, learning, and faithful labor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tatberht"
+  ],
+  "featured": false,
+  "draft": false
+}

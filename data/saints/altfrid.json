@@ -1,0 +1,30 @@
+{
+  "slug": "altfrid",
+  "name": "St. Altfrid",
+  "feastDay": "unknown",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Altfrid was a leading figure in ninth-century Germany, a Benedictine monk whose holiness and counsel carried him from the cloister to the episcopal chair of Hildesheim. As bishop he governed his diocese with the discipline of the Rule and founded Essen Abbey, which became one of the most important women's religious houses of medieval Germany and for centuries a center of learning and liturgy.\n\nHe was also a close adviser to the East Frankish King Louis the German, and his influence helped shape the young Church of Saxony. His feast is kept with veneration in the dioceses he served, and he is honored as a patron of bishops, monks, and of the German Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Altfrid from the Benedictine cloister to build up your Church in Saxony, founding houses of prayer and guiding both king and people, grant through his intercession that we may serve you with wisdom and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Altfrid"
+  ],
+  "featured": false,
+  "draft": false
+}

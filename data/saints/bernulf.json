@@ -1,0 +1,25 @@
+{
+  "slug": "bernulf",
+  "name": "St. Bernulf",
+  "feastDay": "unknown",
+  "bio": "Saint Bernulf, also called San Bernulfo or Saint Bernulphe, was Bishop of Asti in the early ninth century. Tradition holds that he was one of several unnamed martyrs put to death by Muslim raiders who swept into the Christian lands of Italy in that age. As a bishop he was a shepherd of his people in a time of invasion and danger, and his death linked him to the great company of pastors who have given their lives for the flock entrusted to them. Venerated in the region of Asti, he is remembered as a martyr-bishop who fell defending the faith and his people against those who sought to destroy both.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Bernulf the courage to lay down his life for his flock, grant through his intercession that pastors may defend their people, and that martyrs may be remembered for their witness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Bernulf"
+  ],
+  "featured": false,
+  "draft": false
+}

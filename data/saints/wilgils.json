@@ -1,0 +1,29 @@
+{
+  "slug": "wilgils",
+  "name": "St. Wilgils",
+  "feastDay": "01-31",
+  "bio": "Wilgils of Ripon, also known as Wilgisl and Hilgis, was a seventh-century saint and hermit of Anglo-Saxon England. He is remembered chiefly as the father of Saint Willibrord, the great apostle to the Frisians, whose missionary labors reshaped the Church of the continent.\n\nWilgils embraced the eremitical life, withdrawing from the world to devote himself to prayer and penance. His own holiness formed the soil from which his son's missionary vocation would grow, and his quiet life of contemplation stands as a witness to the hidden power of prayer. His feast is kept on 31 January.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wilgils to the hidden life of prayer and raised up from his house the apostle Willibrord, grant through his intercession that our contemplation may bear fruit in the proclamation of your Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wilgils"
+  ],
+  "featured": false,
+  "draft": false
+}

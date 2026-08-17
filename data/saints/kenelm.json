@@ -1,0 +1,29 @@
+{
+  "slug": "kenelm",
+  "name": "St. Kenelm",
+  "feastDay": "07-17",
+  "bio": "Saint Kenelm was an Anglo-Saxon saint venerated throughout medieval England and remembered in the Canterbury Tales. According to the legend, he was a young boy-king of Mercia, the son of Coenwulf, treacherously slain by his ambitious sister Quendryth and her lover, his body hidden in a remote glen of the Clent Hills. A miraculous light and a dove dropping a letter upon the altar of Saint Peter in Rome revealed the grave, and the boy-martyr's remains were translated with great honor to Winchcombe Abbey. William of Malmesbury, writing in the twelfth century, recorded that no place in England drew more pilgrims on his feast day. His cult became one of the great medieval pilgrimage centers of England, and he was invoked as a youthful martyr whose innocent blood cried out for justice.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the innocent blood of St. Kenelm and made his shrine a beacon for pilgrims across England, grant through his intercession that the young and the wronged may find in You their defender and their rest. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kenelm"
+  ],
+  "featured": false,
+  "draft": false
+}

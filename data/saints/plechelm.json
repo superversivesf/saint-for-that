@@ -1,0 +1,25 @@
+{
+  "slug": "plechelm",
+  "name": "St. Plechelm",
+  "feastDay": "07-15",
+  "bio": "Saint Plechelm is honored as a patron saint of the Netherlands, venerated in both the Catholic Church and the Old Catholic Church. He was an Anglo-Saxon missionary of the early eighth century who traveled to the continent to preach the Gospel among the Frisian peoples.\n\nPlechelm labored alongside Saint Boniface and Saint Werenfrid in the mission to the lands that would become the Netherlands, planting the faith in soil that had known only the older pagan gods. He is associated with the church at Oldenzaal, where his memory has been kept for centuries.\n\nHis feast is kept on 15 July, and he is remembered as one of the apostles of the Low Countries, a patron of the Dutch people and of the missionaries who carried the Gospel beyond the borders of the old Christian world.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Plechelm to preach the Gospel among the peoples of the Low Countries and to plant the faith in new soil, grant through his intercession that the nations may never forget the gift they have received, and that missionaries may labor with the same zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Plechelm"
+  ],
+  "featured": false,
+  "draft": false
+}

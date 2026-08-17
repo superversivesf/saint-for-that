@@ -1,0 +1,25 @@
+{
+  "slug": "tola-of-clonard",
+  "name": "St. Tola of Clonard",
+  "feastDay": "unknown",
+  "bio": "Saint Tola was a seventh-century Irish Christian, remembered in the traditions of Clonard as \"a good soldier of Christ.\" In the great age of Irish monasticism, when the monasteries of Ireland became centers of learning and missionary zeal that helped re-Christianize Europe, Tola numbered among the holy men and women whose prayer and discipline shaped the faith of a nation.\n\nThough details of his life are sparse, his title as a soldier of Christ marks him as one who fought the good fight of faith through ascetic discipline and fidelity to the Gospel. He is honored among the saints of the early Irish Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual warfare",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Tola to be a good soldier of Christ in the monastic tradition of ancient Ireland, grant through his intercession that we may persevere in prayer and fight valiantly for the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tola_of_Clonard"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "willehad",
+  "name": "St. Willehad",
+  "feastDay": "07-13",
+  "bio": "Willehad, also known as Willihad, was born around 745 and became a Christian missionary to the Saxons and the first Bishop of Bremen from 787. Sent to evangelize a people long resistant to the faith, he preached the Gospel among the Saxons during a turbulent age of conquest and conversion.\n\nPersevering through periods of violence and exile, Willehad laid the foundations of the Church in northern Germany, founding churches and establishing the see of Bremen, which would become one of the great missionary centers of the medieval Church. He died on 8 November 789, having given his life to bring the Saxon peoples into the Christian fold.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Willehad to evangelize the Saxons and to establish the see of Bremen, grant through his intercession that the Gospel may reach every nation and that your Church may be built up in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Willehad"
+  ],
+  "featured": false,
+  "draft": false
+}

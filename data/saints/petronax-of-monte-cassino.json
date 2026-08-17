@@ -1,0 +1,29 @@
+{
+  "slug": "petronax-of-monte-cassino",
+  "name": "St. Petronax of Monte Cassino",
+  "feastDay": "05-06",
+  "bio": "Saint Petronax of Monte Cassino, called the Second Founder of Monte Cassino, was an Italian monk and abbot of the eighth century who rebuilt and repopulated the great monastery founded by Saint Benedict. The abbey had been destroyed by the Lombards in the late sixth century and had lain in ruins for generations.\n\nPetronax gathered a community of monks and set about restoring the buildings, the rule, and the spiritual life of the monastery. Under his leadership Monte Cassino rose again to become one of the chief centers of Benedictine monasticism in Europe, a house of prayer, learning, and hospitality.\n\nHis feast is kept on 6 May, and he is remembered as a patron of those who rebuild what has been broken and restore communities laid waste by violence and neglect.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "builders",
+      "category": "everyday"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Petronax to rebuild the monastery of Monte Cassino from its ruins and to gather again a community of prayer, grant through his intercession that what has been laid waste in our lives and in Your Church may be restored, and that we may labor faithfully to renew the work of those who have gone before us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Petronax_of_Monte_Cassino"
+  ],
+  "featured": false,
+  "draft": false
+}

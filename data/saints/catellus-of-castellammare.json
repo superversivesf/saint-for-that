@@ -1,0 +1,25 @@
+{
+  "slug": "catellus-of-castellammare",
+  "name": "St. Catellus of Castellammare",
+  "feastDay": "01-19",
+  "bio": "Saint Catellus of Castellammare was bishop of Castellammare di Stabia in Campania and a close friend of Saint Antoninus of Sorrento. According to tradition, Antoninus, fleeing the Lombard invasions, headed south and arrived at Castellammare, where Catellus was serving as bishop. Wishing to embrace the eremitical life, Catellus gave up his office and entrusted Antoninus with the care of the town's church. Catellus withdrew to Monte Aureo to live as a hermit in prayer and solitude, seeking God in the silence of the mountain. He is remembered as a model of the desire for contemplation and of the friendship of saints, one who gladly laid aside honor to seek the face of God. His cult has endured for centuries along the coast of Campania.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred St. Catellus to exchange the cares of a bishop for the silence of the mountain, grant through his intercession that we may make room for Your presence amid the duties of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Catellus_of_Castellammare"
+  ],
+  "featured": false,
+  "draft": false
+}

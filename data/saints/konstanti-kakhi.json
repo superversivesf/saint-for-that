@@ -1,0 +1,29 @@
+{
+  "slug": "konstanti-kakhi",
+  "name": "St. Konstanti Kakhi",
+  "feastDay": "11-10",
+  "bio": "Konstanti Kakhi was a Christian Georgian nobleman from Kartli who lived under the shadow of Abbasid power in the ninth century. During the 853 expedition of the Abbasid general Bugha al-Kabir into the Caucasus, Konstanti was seized captive and carried away. He was pressed to renounce his Christian faith and embrace Islam, and at the age of eighty-five he refused, choosing death rather than the betrayal of the Gospel. His martyrdom made him the subject of a contemporaneous Georgian hagiography, and he was numbered among the saints of the Georgian Orthodox Church. He is remembered as a nobleman who counted worldly rank as nothing beside the confession of Christ. He is commemorated on 10 November, a martyr of the Georgian Church and a patron of those who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned the long life of St. Konstanti Kakhi with the witness of martyrdom rather than the renunciation of Your name, grant through his intercession that we may prefer death to sin and confession to compromise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Konstanti_Kakhi"
+  ],
+  "featured": false,
+  "draft": false
+}

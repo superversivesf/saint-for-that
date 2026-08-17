@@ -1,0 +1,25 @@
+{
+  "slug": "tassilo-iii-duke-of-bavaria",
+  "name": "St. Tassilo III, Duke of Bavaria",
+  "feastDay": "unknown",
+  "bio": "Tassilo III was the duke of Bavaria from 748 to 788, the last ruler of the Agilolfing dynasty. The son of Duke Odilo of Bavaria and Hitrud, daughter of Charles Martel, he governed his duchy in the shadow of his powerful cousin Charlemagne. Tassilo founded monasteries, promoted the Christian faith among his people, and ruled with a measure of independence that his Frankish overlords would not long tolerate. In 788 Charlemagne deposed him, and he was tonsured a monk and confined to a monastery, where he ended his days in penitence and prayer.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "special"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence led Duke Tassilo from worldly rule to the silence of a monastery, grant through his intercession that those who lose power may find grace in humility and peace in penitence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tassilo_III%2C_Duke_of_Bavaria"
+  ],
+  "featured": false,
+  "draft": false
+}

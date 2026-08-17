@@ -1,0 +1,25 @@
+{
+  "slug": "bridget-of-fiesole",
+  "name": "St. Bridget of Fiesole",
+  "feastDay": "02-01",
+  "bio": "St. Bridget of Fiesole is an Irish saint whose festival has been celebrated in Italy on 1 February since the early Middle Ages. According to pious tradition, she was an Irish noblewoman who, inspired by missionary zeal, crossed to the continent and settled in the region of Fiesole, near Florence. There she gave herself to a life of penance, prayer, and works of charity among the poor. Her cult developed locally, and she was venerated as one of the many Irish saints who brought the faith from their island to the heart of Italy. Few certain details of her life survive, but the memory of her holiness endured among the people of Tuscany. She is remembered as a witness to the missionary spirit of the early Irish Church and as a patron of those who leave their homeland for the sake of Christ.",
+  "patronages": [
+    {
+      "need": "immigrants",
+      "category": "travel"
+    },
+    {
+      "need": "migrants",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bridget from her Irish homeland to bear witness to Your name in a foreign land, grant through her intercession that all who dwell as strangers among us may find in You a home and a shield. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bridget_of_Fiesole"
+  ],
+  "featured": false,
+  "draft": false
+}

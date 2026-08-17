@@ -1,0 +1,25 @@
+{
+  "slug": "wilfrid-ii-bishop-of-york",
+  "name": "St. Wilfrid II",
+  "feastDay": "04-29",
+  "bio": "Wilfrid II, also spelled Wilfrith and known as Wilfrid the Younger, served as Bishop of York in the early eighth century, continuing the episcopal tradition established by his great namesake, Saint Wilfrid of York. He was the last bishop to hold the see before it was elevated to an archbishopric during the time of his successor.\n\nAs a bishop of the early English Church, Wilfrid II carried forward the work of pastoral care, liturgical order, and monastic foundation that characterized the Northumbrian Church in its formative age. His holy life and faithful service earned him veneration among the saints of Anglo-Saxon England.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Wilfrid II to shepherd the see of York with holiness and care, grant through his intercession that the pastors of your Church may serve with fidelity and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wilfrid_II_(bishop_of_York)"
+  ],
+  "featured": false,
+  "draft": false
+}

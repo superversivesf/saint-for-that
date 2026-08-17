@@ -1,0 +1,25 @@
+{
+  "slug": "hananya",
+  "name": "St. Hananya",
+  "feastDay": "07-12",
+  "bio": "Saint Hananya, also known as Mar Hananya or Mor Hananyo, and as Ananias of Mardin, was an 8th-century Syriac Orthodox metropolitan bishop of Mardin and Kafartut in southeastern Turkey. He is chiefly remembered for restoring and expanding the monastery later named for him, Mor Hananyo Monastery in Mardin. Under his leadership the monastery became one of the most important intellectual and spiritual centres of the Syriac Orthodox Church, serving as a patriarchal seat for nearly eight centuries. His vision and labor made the house a fountain of learning and prayer for generations of monks and bishops.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through Saint Hananya renewed and enlarged the monastery of Mor Hananyo as a house of prayer and learning, grant through his intercession that your Church may always find wise pastors and steadfast monks. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Hananya"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "wihtberht",
+  "name": "St. Wihtberht",
+  "feastDay": "unknown",
+  "bio": "Wihtberht, also known as Wigbert, was born in the kingdom of Wessex around the year 675. An Anglo-Saxon Benedictine monk, he became a disciple of Saint Boniface and joined that great missionary's enterprise to bring the Gospel to the pagan tribes of Frisia and northern and central Germany.\n\nTraveling with Boniface through dangerous and unreached lands, Wihtberht labored to convert the local peoples to Christianity, sharing in the hardships and perils of the continental mission. His feast is kept on August 13 in the Roman Catholic Church and on April 12 in the Eastern Orthodox Church, honoring a monk who gave his life to the evangelization of the Germanic nations.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Wihtberht with Saint Boniface to proclaim the Gospel to the tribes of Germany, grant through his intercession that we may bear witness to your truth with courage and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wihtberht"
+  ],
+  "featured": false,
+  "draft": false
+}

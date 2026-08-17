@@ -1,0 +1,21 @@
+{
+  "slug": "gerebald",
+  "name": "St. Gerebald",
+  "feastDay": "06-12",
+  "bio": "Gerebald served as Bishop of Châlon-sur-Saône in Burgundy from 864 to 885, shepherding his diocese through the turbulent latter decades of the Carolingian era. Little is recorded of his early life, but his two-decade episcopate coincided with political fragmentation, Viking incursions, and the erosion of imperial authority across Francia. As bishop he would have been responsible for maintaining ecclesiastical discipline, overseeing the clergy, and administering the temporal affairs of his see amid growing instability. His veneration as a saint in both the Catholic and Orthodox traditions attests to a reputation for holiness that endured beyond the sparse documentary record. His feast is kept on 12 June.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gerebald to shepherd Your Church at Châlon-sur-Saône through years of trial and uncertainty, grant through his intercession that all bishops may stand firm in faith and guide their people with wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerebald"
+  ],
+  "featured": false,
+  "draft": false
+}

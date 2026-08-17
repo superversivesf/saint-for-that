@@ -1,0 +1,29 @@
+{
+  "slug": "richard-the-pilgrim",
+  "name": "St. Richard the Pilgrim",
+  "feastDay": "02-07",
+  "bio": "Saint Richard the Pilgrim, also called Richard of Wessex, was an English nobleman and Christian saint of the early eighth century. He was the husband of Wuna of Wessex and the father of three children who became saints of the West Saxon people: Willibald, Winnibald, and Walpurga.\n\nRichard led his family on a pilgrimage to the Holy Land, a long journey undertaken in devotion to the places where Christ had lived and died. He did not reach his destination, but fell ill and died en route at Lucca in Italy, where he was buried in the church of Saint Fridianus.\n\nThough his pilgrimage ended short of Jerusalem, his children carried the faith into Germany and became great saints in their own right. His feast is kept on 7 February, and he is honored as a patron of pilgrims and travelers.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Richard the Pilgrim to lead his family toward the holy places and who received him into Your peace at Lucca, grant through his intercession that all who journey in this life may travel in faith and that the prayers of parents may bear fruit in their children. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Richard_the_Pilgrim"
+  ],
+  "featured": false,
+  "draft": false
+}

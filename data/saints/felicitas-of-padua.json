@@ -1,0 +1,25 @@
+{
+  "slug": "felicitas-of-padua",
+  "name": "St. Felicitas of Padua",
+  "feastDay": "03-26",
+  "bio": "Felicitas of Padua was a ninth-century Italian nun who lived in the city of Padua, most likely at the convent of Saints Cosmas and Damian. Little is recorded of her life beyond her reputation for holiness and her quiet fidelity to the monastic rule. She spent her days in prayer, work, and service within the cloister, offering her life to God in the company of her sisters. After her death her relics were preserved and eventually translated to the Basilica of Saint Justina in Padua, where they are still honored. She is remembered as a model of consecrated virginity and religious life, an example of the hidden sanctity that flourished in the monasteries of medieval Italy, and a patron of nuns and those devoted to the contemplative life.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Felicitas to serve You in the hidden life of the cloister, grant through her intercession that we may find joy in prayer and faithfulness in the duties of our state of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felicitas_of_Padua"
+  ],
+  "featured": false,
+  "draft": false
+}

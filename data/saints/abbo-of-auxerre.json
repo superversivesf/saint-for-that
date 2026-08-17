@@ -1,0 +1,26 @@
+{
+  "slug": "abbo-of-auxerre",
+  "name": "St. Abbo of Auxerre",
+  "feastDay": "12-03",
+  "canonized": "Pre-Congregation",
+  "bio": "Abbo of Auxerre was a Benedictine abbot and bishop of Auxerre in the early medieval Church, one of those monastic pastors whose holiness was rooted in the rhythm of the cloister before it bore fruit in the care of a diocese. Raised in the discipline of the Benedictine rule, he carried that spirit with him into the office of bishop, governing the Church of Auxerre with the humility and order of a true monk.\n\nHis feast is kept on December 3, and he is remembered as a patron of bishops and monks, and as an intercessor for all who serve the Church in the daily work of administration and prayer. Though the record of his deeds is brief, his witness endures as a quiet example of the holiness that flowers when prayer and pastoral care are held together.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Abbo from the cloister to the chair of Auxerre, that the discipline of a monk might shape the heart of a bishop, grant through his intercession that we may serve your Church with humility and order, and keep prayer at the center of all we do. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abbo_of_Auxerre"
+  ],
+  "featured": false,
+  "draft": false
+}

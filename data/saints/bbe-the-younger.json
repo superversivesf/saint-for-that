@@ -1,0 +1,26 @@
+{
+  "slug": "bbe-the-younger",
+  "name": "St. Æbbe the Younger",
+  "feastDay": "04-02",
+  "canonized": "Pre-Congregation",
+  "bio": "Saint Æbbe of Coldingham, known as Æbbe the Younger to distinguish her from an earlier abbess of the same name, governed the double monastery at Coldingham on the North Sea coast of what is now Scotland. She belonged to the Anglian royal line of Northumbria, and like many noble women of her age she devoted her life to the service of God within the cloister, rising to become abbess of a community of both monks and nuns.\n\nThe ancient accounts remember her as a woman of prayer and discipline who held her house in order through a troubled century of Viking raids and political upheaval. Her feast is kept on April 2, and she is honored as a patron of nuns and of all who seek God in the quiet regularity of monastic life.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Æbbe to govern the monastery of Coldingham with wisdom and prayer, grant through her intercession that all who serve you in the cloister may seek you above all else and find you in the discipline of each day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%86bbe_the_Younger"
+  ],
+  "featured": false,
+  "draft": false
+}

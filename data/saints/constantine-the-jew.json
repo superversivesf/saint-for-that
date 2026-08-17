@@ -1,0 +1,25 @@
+{
+  "slug": "constantine-the-jew",
+  "name": "St. Constantine the Jew",
+  "feastDay": "unknown",
+  "bio": "Constantine the Jew was a Byzantine Christian monk and evangelist venerated as a saint within his monastic milieu and in Constantinople. Born a Jew, he embraced the Christian faith as an adult and dedicated his life to Christ through the monastic vocation. As a convert, he became a preacher of the Gospel he had once questioned, and his witness to the truth of Christ drew others to the faith within the Byzantine capital. Few details of his life survive, but he is remembered as one who, like St. Paul, exchanged the certainties of his former life for the surpassing knowledge of Christ. His cult endured among the monks and faithful of Constantinople, who honored him as a model of conversion and evangelistic zeal.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Constantine from his former way into the light of Your truth, grant through his intercession that all who seek You may find in Christ the fulfillment of every longing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_the_Jew"
+  ],
+  "featured": false,
+  "draft": false
+}

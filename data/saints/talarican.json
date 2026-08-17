@@ -1,0 +1,21 @@
+{
+  "slug": "talarican",
+  "name": "St. Talarican",
+  "feastDay": "unknown",
+  "bio": "Talarican, also known as Tarkin, was a Scottish bishop of Sodor in the 8th century. Little is recorded of his life beyond his office, yet his memory was preserved in the traditions of the Hebrides and the Isle of Man, the ancient diocese of Sodor. As a missionary bishop in a rugged and remote land, he would have traveled among scattered Christian communities, confirming the faithful, ordaining clergy, and building up the Church in places where the gospel was still taking root. He is honored as one of the early Celtic saints who labored quietly and faithfully in the far northwest of Christendom.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Talarican as a bishop to the remote lands of Sodor, grant through his intercession that the gospel may reach every shore and that your Church may flourish in places far from human sight. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Talarican"
+  ],
+  "featured": false,
+  "draft": false
+}

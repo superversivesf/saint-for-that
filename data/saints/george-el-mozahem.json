@@ -1,0 +1,25 @@
+{
+  "slug": "george-el-mozahem",
+  "name": "St. George El Mozahem",
+  "feastDay": "06-26",
+  "bio": "George El Mozahem is venerated as a Coptic Orthodox martyr and saint of the medieval Near East. According to Coptic tradition, he was a devout Christian who lived under Muslim rule and refused to abandon his faith when pressed to conform. Confessing Christ before his persecutors, he endured imprisonment and torture and was finally put to death, winning the crown of martyrdom. His memory is kept on June 26 in the Coptic calendar. He is honored among the Coptic faithful as a witness to the courage of Christians who held fast to the Gospel in times of pressure and trial, and as an intercessor for all who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. George El Mozahem grace to confess Your Son unto death, grant through his intercession that all who suffer for the faith may be strengthened and that we may stand firm in the truth of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_El_Mozahem"
+  ],
+  "featured": false,
+  "draft": false
+}

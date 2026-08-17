@@ -1,0 +1,25 @@
+{
+  "slug": "peter-mavimenus",
+  "name": "St. Peter Mavimenus",
+  "feastDay": "02-21",
+  "bio": "Saint Peter Mavimenus was a Damascene Christian martyr of the eighth century whose death is recorded in the Roman Martyrology. He lived in Damascus under Islamic rule, when Christians were a minority amid a growing Muslim populace.\n\nAccording to the account of his martyrdom, Peter was visited by a group of Arabs while he lay sick. When they inquired after his health, he professed his faith boldly, declaring that whoever does not embrace the Christian and Catholic faith is damned like their false prophet. The visitors were enraged and killed him.\n\nPeter's death bears witness to the courage of those who confess Christ at the cost of their lives. His feast is kept on 21 February, and he is honored as a martyr who would not deny the truth.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Peter Mavimenus the courage to confess the name of Your Son even in sickness and in the face of death, grant through his intercession that we may bear witness to the truth with steadfast hearts and never fail to proclaim the faith we have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Mavimenus"
+  ],
+  "featured": false,
+  "draft": false
+}

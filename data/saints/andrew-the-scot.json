@@ -1,0 +1,30 @@
+{
+  "slug": "andrew-the-scot",
+  "name": "St. Andrew the Scot",
+  "feastDay": "08-22",
+  "canonized": "Pre-Congregation",
+  "bio": "Andrew the Scot was an Irish-born cleric who crossed the sea to the continent in the early ninth century, one of that remarkable company of Irish monks and scholars who brought learning and faith to Carolingian Europe. He became the student and close assistant of Saint Donatus of Fiesole, accompanying the bishop to Tuscany and serving as archdeacon of Fiesole under his direction.\n\nIn that office he helped govern the diocese, foster the liturgy, and spread the gospel in the region around Fiesole, bringing to Italy the zeal for Scripture and monastic order that marked the Irish mission. His feast is kept on August 22, and he is honored as a patron of scholars, teachers, and of those who serve the Church far from the land of their birth.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led Saint Andrew the Scot from Ireland to serve your Church in Tuscany, granting him zeal for Scripture and devotion as archdeacon of Fiesole, grant through his intercession that scholars and teachers may bring light to every land they enter. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_the_Scot"
+  ],
+  "featured": false,
+  "draft": false
+}

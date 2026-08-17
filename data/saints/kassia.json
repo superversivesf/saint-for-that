@@ -1,0 +1,29 @@
+{
+  "slug": "kassia",
+  "name": "St. Kassia",
+  "feastDay": "09-07",
+  "bio": "Kassia, also Cassia, Kassiane, or Kassiani, was a Byzantine-Greek composer, hymnographer, and poet of the ninth century, and she holds a unique place in sacred music as the only known woman whose compositions entered the Byzantine liturgy. Born into a noble Constantinopolitan family, she founded and governed a convent in the west of the city, devoting herself to prayer, scholarship, and the writing of hymns. Some fifty of her hymns survive, most of them stichera, though the attribution of many remains debated. Her most famous composition, the Hymn of Kassiani, is sung in Holy Week Byzantine matins and meditates on the sinful woman who washed Christ's feet with her tears. She is honored as a poet, a mystic, and a witness to the place of women in the theological voice of the Church.",
+  "patronages": [
+    {
+      "need": "poets",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Kassia a poet's tongue to voice the repentance of the sinful woman and a convent to rule in wisdom, grant through her intercession that women who serve You in word and song may find their place in Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kassia"
+  ],
+  "featured": false,
+  "draft": false
+}
