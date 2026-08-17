@@ -61,8 +61,8 @@ const feast = saint.feastDay === 'unknown' ? 'varies' : saint.feastDay;
 
         {saint.prayer && (
           <section id="prayer" class="mt-6 rounded-2xl bg-parchment-deep p-5 ring-1 ring-brand-light/40" data-pagefind-ignore>
-            <h2 class="font-serif text-xl">Prayer</h2>
-            <p class="mt-2 whitespace-pre-line text-base leading-relaxed">{saint.prayer}</p>
+            <h2 class="font-serif text-xl">{saint.prayer.source === 'traditional' ? 'Traditional prayer' : 'Suggested prayer'}</h2>
+            <p class="mt-2 whitespace-pre-line text-base leading-relaxed">{saint.prayer.text}</p>
           </section>
         )}
 
