@@ -1,0 +1,21 @@
+{
+  "slug": "conal",
+  "name": "St. Conal",
+  "feastDay": "05-22",
+  "bio": "Saint Conal was an Irish bishop who flourished in the second half of the fifth century and ruled over the church of Drum in County Roscommon. He is numbered among that first generation of Irish bishop-saints who, building upon the labours of Saint Patrick, established the sees and monastic settlements through which the Faith was woven into the life of the Gael. The place of his ministry took his name and is called Drumconnell to this day, a quiet testimony to the enduring memory of his pastoral care. He is revered as a patron of the region and his feast is kept on 22 May.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Conal to the Irish Church as a faithful bishop and shepherd of your people at Drum, grant through his intercession that those entrusted with pastoral care may be true fathers to their flocks and that the faithful may persevere in the Gospel first preached to their fathers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Conal"
+  ],
+  "featured": false,
+  "draft": false
+}

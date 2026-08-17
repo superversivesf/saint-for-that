@@ -1,0 +1,21 @@
+{
+  "slug": "cyrillus-of-trier",
+  "name": "St. Cyrillus of Trier",
+  "feastDay": "unknown",
+  "bio": "Cyrillus, or Cyril, of Trier served as Bishop of Trier from around the middle of the fifth century, guiding the ancient Gallic see through a period of great upheaval as the Roman order gave way to the emerging Frankish kingdoms. Some traditions suggest he was of Greek origin, reflecting the cosmopolitan character of the late Roman episcopate. Little is recorded of his deeds, yet his memory was preserved by the clergy and people of Trier, who honored him as a faithful shepherd of one of the oldest bishoprics north of the Alps. He stands among the line of bishops who kept the faith alive in Gaul through the turbulent centuries of migration and change.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted Saint Cyrillus with the care of your Church at Trier in days of trial, grant through his intercession that those who shepherd your people may stand firm in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyrillus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

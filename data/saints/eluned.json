@@ -1,0 +1,25 @@
+{
+  "slug": "eluned",
+  "name": "St. Eluned",
+  "feastDay": "08-01",
+  "bio": "Saint Eluned, also called Aled, Eiliuned, and by other names, was a 5th- or 6th-century virgin martyr from the region of modern Breconshire in Wales. According to the old tradition, she was a daughter of the legendary Brychan Brycheiniog and, pursued by a pagan chieftain who sought her hand, she fled across the hills rather than betray her vow of chastity. Her pursuer overtook her and struck her down, and where she fell a holy well and church arose at Llanelluned, near Brecon, which for centuries was a place of pilgrimage. The Catholic Encyclopedia calls her \"the Luned of the Mabinogion and the Lynette of Tennyson's Gareth and Lynette.\" Her feast is kept on 1 August, and she is invoked as a virgin martyr of the Welsh Church.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Eluned with the palm of martyrdom for keeping her virginity undefiled, grant through her intercession that we may flee all that would draw us from You and remain steadfast in purity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eluned"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pope-anastasius-i",
+  "name": "St. Anastasius I",
+  "feastDay": "12-19",
+  "bio": "Pope Anastasius I served as bishop of Rome from November 27, 399, until his death on December 19, 401. His short pontificate fell in a generation when the Church, newly free from persecution, had to turn its energies inward to the work of defending the faith it had received.\n\nHe is remembered as a man of firm but pastoral discipline. He condemned the works of Origen, then already a subject of heated dispute, and took steps to keep controversial writings from undermining ordinary believers. He also kept close ties with the fathers of the Church in the East, corresponding with Augustine and Jerome.\n\nHe died after just over two years in office and was buried in the Catacombs of Pontian. His feast is December 19, and he is honored as a vigilant pastor who watched over the household of faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Anastasius a vigilant heart to guard the faith of Your people and to keep the bond of unity in the Church, grant through his intercession that we may hold fast to the truth in love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Anastasius_I"
+  ],
+  "featured": false,
+  "draft": false
+}

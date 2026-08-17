@@ -1,0 +1,25 @@
+{
+  "slug": "ephraim-of-antioch",
+  "name": "St. Ephraim of Antioch",
+  "feastDay": "06-08",
+  "bio": "Saint Ephraim of Antioch, also called Ephraim of Amida, was Patriarch of Antioch and head of the Greek Orthodox Church of Antioch from 527 until his death in 545. He had served as a high imperial official, a count of the East, before being raised to the patriarchal throne, and he brought to that office both administrative gifts and a firmness in faith. He opposed the efforts of Emperor Justinian to enforce monophysite doctrine and worked to uphold the orthodox teaching of the Council of Chalcedon in his troubled patriarchate. Venerated as a saint in both the Eastern Orthodox and Catholic Churches, he is remembered as a bishop who governed wisely in a time of division. His feast is kept on 8 June.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Ephraim of Antioch wisdom to govern Your Church and courage to uphold the orthodox faith, grant through his intercession that pastors may be faithful and Your people united in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ephraim_of_Antioch"
+  ],
+  "featured": false,
+  "draft": false
+}

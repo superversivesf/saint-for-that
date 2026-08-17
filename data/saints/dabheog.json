@@ -1,0 +1,25 @@
+{
+  "slug": "dabheog",
+  "name": "St. Dabheog",
+  "feastDay": "unknown",
+  "bio": "Saint Dabheog is the patron saint and a founder of a monastery on an island in Lough Derg, a lake in County Donegal, Ireland, near the town of Pettigo on the border of counties Donegal and Fermanagh. He is counted among the early Irish missionary monks who carried the Gospel into the wilder regions of the island in the fifth or sixth century. The lake and its islands became a place of pilgrimage associated with Saint Patrick's Purgatory, and Dabheog's foundation helped establish that enduring tradition of penitential pilgrimage. His feast day is observed on 16 December, and he is venerated as a protector of those who travel by water and of pilgrims who seek reconciliation.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Dabheog to found a house of prayer on the waters of Lough Derg, grant through his intercession that all who journey in body or spirit may find their refuge in you. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dabheog"
+  ],
+  "featured": false,
+  "draft": false
+}

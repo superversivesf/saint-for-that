@@ -1,0 +1,29 @@
+{
+  "slug": "auspicius-of-toul",
+  "name": "St. Auspicius of Toul",
+  "feastDay": "unknown",
+  "bio": "Auspicius of Toul served as the fifth recorded bishop of that ancient see in fifth-century Gaul, shepherding his flock through the turbulent decades that followed the collapse of Roman authority in the West. He was also a poet of remarkable innovation, composing iambic verse based on stress rather than classical quantity, a departure that anticipated the rhythms of later medieval Latin hymnody.\n\nAround the year 470 he addressed a surviving verse letter to Arbogast, count of Trier, a Frankish magistrate governing the remnants of the Gallic frontier. In it the bishop urged the ruler toward justice and Christian clemency, blending pastoral counsel with literary grace. Auspicius thus stands as a witness to the way the Church preserved and reshaped classical learning even as the world around it was transformed.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Auspicius as a shepherd of your Church and a poet who turned verse to the praise of your truth, grant through his intercession that those who write and teach may ever serve justice and mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auspicius_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

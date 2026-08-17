@@ -1,0 +1,21 @@
+{
+  "slug": "pope-athanasius-ii-of-alexandria",
+  "name": "St. Athanasius II of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope Athanasius II of Alexandria was the 28th Pope of Alexandria and Patriarch of the See of Saint Mark, the ancient see that traced its origin to the preaching of the Evangelist Mark in Egypt. He served in the line of the Alexandrian patriarchs, inheriting the chair that Athanasius the Great had made illustrious in defense of the divinity of Christ.\n\nLittle has survived about his pontificate. He belongs to that succession of patriarchs who guided the Church of Alexandria after the great controversies had been settled, keeping the faith of Nicaea and tending the flock of Egyptian Christians in a time of peace.\n\nThe Coptic Church venerates him as a saint. His feast day is not firmly recorded, and so it is kept as unknown, but the Church honors him as a pastor of the See of Saint Mark.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Athanasius II a faithful shepherd of the See of Saint Mark, grant through his intercession that the pastors of Your Church may hold fast to the faith once delivered to the saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Athanasius_II_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

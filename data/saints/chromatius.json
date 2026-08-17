@@ -1,0 +1,29 @@
+{
+  "slug": "chromatius",
+  "name": "St. Chromatius",
+  "feastDay": "12-02",
+  "bio": "Saint Chromatius served as bishop of Aquileia in the late fourth and early fifth centuries, presiding over one of the most important sees of Northern Italy during a turbulent age of doctrinal controversy. A friend and correspondent of Saints Jerome, Ambrose, and John Chrysostom, Chromatius stood among the great pastoral and scholarly figures of his day, shepherding his flock through the storms of the Arian and Pelagian disputes. He was a tireless defender of the orthodox faith and a patron of biblical learning, helping to commission translations of Scripture and commentaries that nourished the Latin Church. He died around the year 407, and his feast is kept on 2 December.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Chromatius a wise bishop and a steadfast teacher of the orthodox faith, grant through his intercession that your Church may always be graced with shepherds who defend the truth and illuminate the faithful with the riches of Sacred Scripture. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chromatius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "canus-natus",
+  "name": "St. Canus Natus",
+  "feastDay": "unknown",
+  "bio": "Saint Canus Natus was a French saint of the fifth century, remembered among the early confessors of the faith in Gaul. Though the historical record preserves little of his life, he is counted among the holy men and women who labored in the generations after the Gospel first reached the Frankish lands. In an age when Christianity was still establishing itself among the peoples of what would become France, figures such as Canus witnessed to Christ through lives of quiet fidelity. His memory endured in local devotion as one of the saints of Gaul's formative Christian centuries.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who remembered Saint Canus Natus among the early saints of Gaul, grant through his intercession that we may be faithful in obscurity as in renown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canus_Natus"
+  ],
+  "featured": false,
+  "draft": false
+}

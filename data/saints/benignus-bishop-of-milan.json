@@ -1,0 +1,29 @@
+{
+  "slug": "benignus-bishop-of-milan",
+  "name": "St. Benignus",
+  "feastDay": "09-20",
+  "bio": "Benignus served as Archbishop of Milan from 465 to 472, governing that great see in the decades following the death of its most famous bishop, St. Ambrose. He inherited a church renowned throughout Christendom and shepherded it through a period of political upheaval as the Western Roman Empire entered its final convulsions and new powers began to reshape the Italian landscape.\n\nThough the historical record preserves little of his deeds, his name and his office witness to the continuity of episcopal faith in a time of dissolution. Honored as a saint in the Catholic Church, Benignus represents that succession of pastors who kept the lamps burning when the old order was passing away and the new had not yet arrived. His feast is kept on September 20.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained your Church in turbulent days through the ministry of St. Benignus, grant through his intercession that our pastors may stand firm in faith and that your people may be preserved in times of trouble. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benignus_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

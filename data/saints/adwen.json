@@ -1,0 +1,21 @@
+{
+  "slug": "adwen",
+  "name": "St. Adwen",
+  "feastDay": "unknown",
+  "bio": "Adwen, also called Adwenna, is purported to have been a fifth-century Christian virgin and saint of Cornwall, where the parish of Advent preserves the memory of the name. According to historian Nicholas Orme, Adwen was identified in the original tradition as a brother of Nectan of Hartland, but was subsequently misclassified by Charles Henderson in the eighteenth century as female, and that later reading long obscured the earlier witness.\n\nThe Cornish saints of the fifth century lived at the edge of the Christian world, carrying the faith into a landscape of remote coves, holy wells, and stone oratories. Adwen belongs to that company of early witnesses whose stories are woven into the place-names and parish dedications of the far west of Britain.\n\nThough the date of the feast, if one was kept, has been lost, Adwen is remembered in the parish of Advent in Cornwall, and stands among the cloud of early British saints whose quiet devotion planted the Church in the westernmost lands.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who planted the faith in the far west of Britain through the witness of Your servant Adwen, grant through his intercession that we may carry the Gospel to the remote places of our own lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adwen"
+  ],
+  "featured": false,
+  "draft": false
+}

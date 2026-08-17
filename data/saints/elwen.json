@@ -1,0 +1,25 @@
+{
+  "slug": "elwen",
+  "name": "St. Elwen",
+  "feastDay": "unknown",
+  "bio": "Saint Elwen was an early Celtic saint venerated in Cornwall and Brittany. The hagiographical tradition relates that he came to Cornwall from Ireland in the company of Saint Breage and six other missionary companions, arriving on the northern coast to plant the Gospel among the Britons. Though this tradition is attested late, his cult is firmly grounded in place: a chapel dedicated to Elwen stood at Porthleven in Sithney parish, Cornwall, from the 13th century until it was destroyed in 1549, and in Brittany several sites and placenames preserve his memory. He is honored as one of the missionary saints who crossed the sea to bring Christianity to the far west of Britain, and his feast day is not recorded in the surviving calendars.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Elwen across the sea to bring the light of the Gospel to Cornwall and Brittany, grant through his intercession that we may carry Your truth wherever You call us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elwen"
+  ],
+  "featured": false,
+  "draft": false
+}

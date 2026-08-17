@@ -1,0 +1,29 @@
+{
+  "slug": "asella",
+  "name": "St. Asella",
+  "feastDay": "12-06",
+  "bio": "Saint Asella, also called Osella and Ocella, was a Roman virgin and hermit of the fourth century. She was a member of a noble Roman Christian family, perhaps the sister of Marcella, another ascetic and saint, and she belongs to that circle of noble Roman women who, under the influence of Saint Jerome, gave up the wealth of their birth for the rigors of the ascetic life.\n\nAsella dedicated herself to God while still a young girl, and lived as a hermit in a small cell in Rome. Jerome, who was her disciple and friend, spoke of her in his writings, describing her fasting, her vigils, and her continual prayer. She chose the poverty of the Gospel in the heart of Rome.\n\nShe died around 406. Her feast is December 6, and the Church honors her as one who made the desert bloom within Rome's walls.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Asella grace to seek You in a narrow cell within the wealth of Rome, grant through her intercession that we may find the desert of the heart amid the noise of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Asella"
+  ],
+  "featured": false,
+  "draft": false
+}

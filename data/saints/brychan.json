@@ -1,0 +1,25 @@
+{
+  "slug": "brychan",
+  "name": "St. Brychan",
+  "feastDay": "04-06",
+  "bio": "Saint Brychan ap Anlach of Brycheiniog was a legendary fifth-century king of Brycheiniog in Mid Wales, remembered in Welsh hagiography as the father of a great multitude of saintly children. According to tradition, he was a Christian monarch who raised a family renowned for holiness, and many of his sons and daughters became saints venerated across Wales, Cornwall, and Brittany. Though history and legend intertwine in his story, Brychan stands as a figure of the early Celtic Church, representing the piety of the Christian princely families from which so many of the saints of Britain sprang.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed Saint Brychan with a family of saints, grant through his intercession that Christian parents may raise their children in the fear and love of your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brychan"
+  ],
+  "featured": false,
+  "draft": false
+}

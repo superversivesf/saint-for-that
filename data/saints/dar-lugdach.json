@@ -1,0 +1,21 @@
+{
+  "slug": "dar-lugdach",
+  "name": "St. Dar Lugdach",
+  "feastDay": "unknown",
+  "bio": "Dar Lugdach was the immediate successor of Saint Brigid of Kildare as abbess of the great double monastery at Kildare in the sixth century, and she is recognized as a saint in both the Catholic and Orthodox traditions. She is recorded as having died one year to the day after Brigid, and she shares the same feast day as the more famous foundress. Little is known of her family history, yet her place in the early Irish Church is significant: she represents the continuity of Brigid's foundation and the line of holy women who carried on the work of the first generation of Irish nuns. Her name, meaning \"daughter of Lugh,\" reflects the Christian transformation of the ancient Celtic world.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Dar Lugdach a faithful successor to Saint Brigid in the community of Kildare, grant through her intercession that all who lead your people may hand on the faith they have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dar_Lugdach"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "assicus",
+  "name": "St. Assicus",
+  "feastDay": "04-27",
+  "bio": "Assicus, also called Asicus or Assic, was the first bishop of Elphin in Ireland and is venerated as its patron saint. He lived in the fifth century, in the generation of Saint Patrick and the first planting of the faith in Ireland, and belonged to that band of early missionary bishops who gave the Irish Church its foundations.\n\nBefore his consecration, Assicus was an artisan metalworker, a craftsman in bronze and precious metals. Tradition holds that he made chalices and sacred vessels for the new churches, and his skill became the instrument of his ministry. Called from the workshop to the episcopate, as bishop of Elphin, in County Roscommon, he shepherded the young.\n\nLater in life he withdrew to a hermitage. His feast is April 27, and he is honored as a patron of metalworkers.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Assicus from the forge to the office of bishop, that he might shape both sacred vessels and the souls of the faithful, grant through his intercession that all who work with their hands may offer their labor to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Assicus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dogfan",
+  "name": "St. Dogfan",
+  "feastDay": "unknown",
+  "bio": "Dogfan, also known as Doewan, was a saint and martyr of fifth-century Wales. He is venerated in the Anglican, Eastern Orthodox, True Orthodox, and Roman Catholic Churches, a sign of the wide reach of the memory of the early Welsh saints.\n\nThe Welsh martyrology preserves the names of many figures from the Age of the Saints who bore witness to Christ, sometimes in circumstances no longer fully known. Dogfan's title of martyr places him among those who suffered for the faith, whether at the hands of pagan opponents or in the conflicts of the early Christian centuries in Britain.\n\nHis feast is kept on July 13 in the traditions that honor him. Though the details of his passion are largely lost, his name endures in the dedications of the Welsh Church, a witness who gave his life for the Gospel.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Your servant Dogfan with the palm of martyrdom in the land of Wales, grant through his intercession that we may bear witness to Your Son with courage, even unto the shedding of our blood. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dogfan"
+  ],
+  "featured": false,
+  "draft": false
+}

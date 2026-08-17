@@ -1,0 +1,29 @@
+{
+  "slug": "elias-i-of-jerusalem",
+  "name": "St. Elias I of Jerusalem",
+  "feastDay": "07-20",
+  "bio": "Saint Elias of Jerusalem was an Arab by birth, educated in a monastery in Egypt, who became bishop and Patriarch of Jerusalem in 494. He shepherded the Holy City's church through a time of fierce Christological controversy, and at the Synod of Sidon in 512 he stood with Flavian II of Antioch to defend the decrees of the Council of Chalcedon against the monophysite party. His fidelity cost him his see: in 516 the Byzantine Emperor Anastasius I, who favored the monophysites, deposed him and sent him into exile, where he died a confessor of the orthodox faith. He is commemorated on 20 July in the Eastern Orthodox Church and on 4 July in the Roman Martyrology, honored as a bishop who would not bend the truth of Christ even for an emperor.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Elias of Jerusalem to defend the truth of Your Son's incarnation even at the cost of his throne, grant through his intercession that Your Church may stand firm in faith and unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_I_of_Jerusalem"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "varus",
+  "name": "St. Varus",
+  "feastDay": "10-19",
+  "bio": "Saint Varus was an early Christian martyr who served as a soldier in the Roman army during the centuries when the profession of Christianity could cost a believer his life. Little detail of his life has come down to us, but tradition preserves his memory as one who combined military service with faithfulness to Christ, and who in the end laid down his life rather than deny his Lord. His feast day is observed on October 19. Varus stands among the countless soldier-martyrs of the ancient Church, men who found in the cross of Christ a cause greater than any earthly oath, and whose witness helped strengthen the resolve of believers in the age of persecution.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Varus the courage to die for the faith rather than deny your name, grant through his intercession that all soldiers and servants of your Church may be steadfast in loyalty to Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Varus"
+  ],
+  "featured": false,
+  "draft": false
+}

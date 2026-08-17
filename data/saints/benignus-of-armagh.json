@@ -1,0 +1,29 @@
+{
+  "slug": "benignus-of-armagh",
+  "name": "St. Benignus of Armagh",
+  "feastDay": "11-09",
+  "bio": "Benán, known as Benignus of Armagh, was the son of Sesenen, an Irish chieftain in the region that is now County Meath. He was numbered among the earliest converts and companions of Saint Patrick, won to the faith in the great springtime of Irish Christianity, and he became so closely identified with Patrick's mission that he was later regarded as the saint's successor in the see of Armagh.\n\nGentle in disposition—his name, Benignus, means \"the kindly\"—he served as a bridge between the old ruling order of Ireland and the new Church, carrying the Gospel among peoples still emerging from paganism. As the second bishop of Armagh he helped consolidate the structure of the Irish Church that Patrick had planted, ensuring that the seed sown in apostolic zeal would grow into an enduring harvest. His feast is kept on November 9.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Benignus of Armagh a kindly shepherd of your new people in Ireland and a faithful successor of the apostle Patrick, grant through his intercession that converts may find a warm welcome in your Church and that pastors may serve with gentle hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benignus_of_Armagh"
+  ],
+  "featured": false,
+  "draft": false
+}

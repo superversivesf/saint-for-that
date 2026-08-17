@@ -1,0 +1,21 @@
+{
+  "slug": "cian-n",
+  "name": "St. Cianán",
+  "feastDay": "11-24",
+  "bio": "Saint Cianán, also called Kenan, was a bishop of Duleek in Ireland, descended from the royal blood of the kings of Munster. He is numbered among the early saints of the Irish Church who, in the wake of Saint Patrick, established sees and monasteries that would in time carry the light of the Gospel across Europe. As bishop of Duleek, Cianán served a people newly gathered into the Christian fold, guiding them with pastoral care and the example of his own devotion. His feast is kept on 24 November, and he is remembered as one of the noble line of Irish bishop-saints who gave the Faith its firm foundation in the land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Cianán from royal lineage to serve as a bishop of your Church in Ireland, grant through his intercession that those entrusted with pastoral office may lead your people with wisdom and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cian%C3%A1n"
+  ],
+  "featured": false,
+  "draft": false
+}

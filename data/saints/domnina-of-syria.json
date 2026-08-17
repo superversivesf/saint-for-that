@@ -1,0 +1,25 @@
+{
+  "slug": "domnina-of-syria",
+  "name": "St. Domnina of Syria",
+  "feastDay": "03-01",
+  "bio": "Saint Domnina of Syria, known as Domnina the Younger, was a 5th-century ascetic who turned her back on the wealth of her noble Syrian family to devote herself wholly to Christ. Born to a rich household, she renounced her inheritance and embraced a life of rigorous fasting, prayer, and solitude. Her name is preserved in the Byzantine Synaxarium, and Theodoret, bishop of Cyrrhus, who knew the ascetics of his diocese personally, testified to her holiness and discipline. She stands among the holy women of the Syrian desert who, in the early centuries of the Church, abandoned the comforts of the world for the narrow path of the Gospel, winning by their tears and vigil the crown of the virgins and the praise of the angels.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Domnina of Syria from the riches of her father's house to the poverty of the desert, grant through her intercession that we may renounce all that keeps us from You and follow Christ with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Domnina_of_Syria"
+  ],
+  "featured": false,
+  "draft": false
+}

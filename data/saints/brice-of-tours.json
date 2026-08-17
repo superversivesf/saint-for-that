@@ -1,0 +1,21 @@
+{
+  "slug": "brice-of-tours",
+  "name": "St. Brice of Tours",
+  "feastDay": "11-13",
+  "bio": "Saint Brice, also called Bricius, was a fifth-century Frankish bishop who served as the fourth Bishop of Tours, succeeding the great Martin of Tours in 397. Though historically overshadowed by his illustrious predecessor, Brice shepherded the see of Tours through a formative period of Gallic Christianity. Tradition holds that his early relationship with Martin was marked by friction, yet he grew into the office entrusted to him and carried forward the work of the Church in a region where the faith was still taking root among the Franks. He is venerated as a saint whose path, though imperfect, led to faithful service.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided Saint Brice to grow into the pastoral office entrusted to him, grant through his intercession that we may persevere in our calling despite our weaknesses. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brice_of_Tours"
+  ],
+  "featured": false,
+  "draft": false
+}

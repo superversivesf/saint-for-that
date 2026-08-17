@@ -1,0 +1,21 @@
+{
+  "slug": "cynog-ap-brychan",
+  "name": "St. Cynog ap Brychan",
+  "feastDay": "10-07",
+  "bio": "Cynog ap Brychan, also known as Saint Cynog or Canog, was an early Welsh saint and martyr of the fifth or sixth century. He was a son of Brychan, the legendary king of Brycheiniog renowned for his many saintly children. Cynog gave his name to the village of Merthyr Cynog in Wales, where his shrine was long venerated, and he is counted among the early missionaries and martyrs of the Welsh Church. In Ireland he is known as Saint Mocheanog. His cult endured for centuries in the uplands of Breconshire, where the faithful recalled his witness to Christ even unto death.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Saint Cynog with the glory of martyrdom among the hills of Wales, grant through his intercession that we may bear witness to your Son with courage and fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cynog_ap_Brychan"
+  ],
+  "featured": false,
+  "draft": false
+}

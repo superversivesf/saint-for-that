@@ -1,0 +1,37 @@
+{
+  "slug": "zayya",
+  "name": "St. Zayya",
+  "feastDay": "09-13",
+  "bio": "Saint Zayya was a traveling mystic, holy man, and healer who made his way from Palestine to the mountains of northern Mesopotamia, spreading Christianity alongside his disciple Saint Tawor. The Church of the East honors both Zayya and Tawor for their missionary efforts in northern Iraq and the region of Upper Dasen during the late fourth and early fifth centuries. Zayya is the patron saint of travelers and of the Jilu district, where he is buried, and he is invoked for protection from hail, famine, plague, anger, illness, disease, and the Angel of Death. In miniatures from manuscripts of the Book of Protection, Zayya is depicted as an equestrian saint, spear in hand, attacking the Angel of Death—a vivid image of his intercessory power. His feast day is celebrated on September 13.",
+  "patronages": [
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "natural disasters",
+      "category": "nature"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Zayya through the mountains of Mesopotamia to spread the Gospel and heal the sick, grant through his intercession that all who travel may be kept safe from danger and disease. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zayya"
+  ],
+  "featured": false,
+  "draft": false
+}

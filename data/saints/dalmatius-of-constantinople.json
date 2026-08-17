@@ -1,0 +1,25 @@
+{
+  "slug": "dalmatius-of-constantinople",
+  "name": "St. Dalmatius of Constantinople",
+  "feastDay": "unknown",
+  "bio": "Dalmatius, also called Dalmatus or Dalmatos, was archimandrite of the Dalmatian Monastery in Constantinople in the first half of the fifth century. He held the title Archimandrite of the Monasteries, making him the chief monk of the imperial capital and giving him authority over all the monasteries of the city. Renowned for his austere life and his zeal for orthodoxy, he emerged from his monastery during the Nestorian controversy to support Saint Cyril of Alexandria at the court of Emperor Theodosius II, helping to turn imperial policy in favor of the orthodox teaching proclaimed at the Council of Ephesus in 431. He is honored as a pillar of monastic discipline and orthodox faith.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Dalmatius a steadfast defender of the faith and a father of monks in the imperial city, grant through his intercession that we may hold fast to the truth of your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dalmatius_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

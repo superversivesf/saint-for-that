@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-the-high-mountain",
+  "name": "St. Abraham of the High Mountain",
+  "feastDay": "04-18",
+  "bio": "Abraham of the High Mountain was a monk and miracle-worker of the monastery of the High Mountain, located to the north of Mount Izla in the Mesopotamian frontier lands of the Church of the East. He was a teacher of Barsauma, the later controversial bishop, and his reputation for holiness drew disciples to the remote house he served.\n\nAbraham founded a monastery near Midyat, in the Tur Abdin region, where the stylite Abel also practiced his pillar discipline. The monasteries of this region were centers of ascetic rigor and Syriac learning, and Abraham's founding work extended the reach of that tradition into new valleys and hillsides.\n\nHis feast is kept on April 18, and he is remembered as one of the holy men of Mount Izla whose prayers and miracles sustained the faith of Christian communities living under Persian rule. He stands as a witness to the flowering of monasticism in the lands east of the Roman frontier.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your servant Abraham a teacher of monks and a worker of wonders on the High Mountain, grant through his intercession that we may ascend toward You in prayer and bear fruit in good works. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_the_High_Mountain"
+  ],
+  "featured": false,
+  "draft": false
+}

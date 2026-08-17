@@ -1,0 +1,25 @@
+{
+  "slug": "breage",
+  "name": "St. Breage",
+  "feastDay": "05-01",
+  "bio": "Saint Breage, also called Breaca, is venerated in Cornwall and South West England as a holy virgin of the early medieval age. According to her late hagiography, she was an Irish nun of the fifth or sixth century who traveled across the sea to Cornwall, where she founded a church and gathered a community of believers. The village and civil parish of Breage in Cornwall are named after her, and the local parish church stands as a testament to her enduring cult. Honored in both the Catholic and Eastern Orthodox Churches, she represents the ancient missionary impulse that carried the Gospel from Ireland to the western shores of Britain.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Breage to leave her homeland and bring the light of the Gospel to the western shores, grant through her intercession that we may be faithful bearers of your truth wherever you lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Breage"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "john-chrysostom",
+  "name": "St. John Chrysostom",
+  "feastDay": "09-13",
+  "bio": "Saint John Chrysostom, the Golden-Mouthed, was one of the greatest preachers and Church Fathers of Christian antiquity. Born at Antioch around 347, he studied rhetoric under the pagan master Libanius and theology under Bishop Meletius, then embraced an ascetic life before his ordination. His sermons at Antioch drew vast crowds and earned him his surname. Elevated to the Archbishopric of Constantinople in 398, he reformed the clergy and court, earning powerful enemies. His preaching on the dignity of the poor and the duties of the wealthy is preserved in his celebrated homilies. Twice exiled, he died on a forced march in 407. His Divine Liturgy is still celebrated throughout the Byzantine East, and he is invoked as a patron of preachers and all who suffer for righteousness.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "epilepsy",
+      "category": "illness"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave to Saint John Chrysostom the grace of eloquence to proclaim the mysteries of your Word and the courage to suffer exile for the truth, grant through his intercession that your preachers may speak with power and that your people may hunger for the bread of your teaching. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Chrysostom"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "apollinaris-syncletica",
+  "name": "St. Apollinaris Syncletica",
+  "feastDay": "01-04",
+  "bio": "Apollinaris Syncletica, also known as Apollinaria of Egypt, was a saint and hermit of the fifth century, venerated in both the Eastern Orthodox and Roman Catholic Churches. Her story, most likely apocryphal, turns on the theme of a devout girl who put on male attire and lived for many years undiscovered among the monks of the desert, seeking God free from a woman's obligations.\n\nAccording to the legend, she withdrew to the desert of Scetis disguised as a man named Dorotheus, and lived as a hermit of such austerity that her own father, sent to seek her counsel, did not recognize her. Only at her death was her sex revealed, and the monks who had revered her were astonished.\n\nThe Church honors her as a model of the desire for God that overrides every constraint. Her feast is January 4.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Apollinaris Syncletica a longing for the desert that overcame every fear, grant through her intercession that those who seek You in solitude may be sustained by Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollinaris_Syncletica"
+  ],
+  "featured": false,
+  "draft": false
+}

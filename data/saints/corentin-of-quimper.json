@@ -1,0 +1,25 @@
+{
+  "slug": "corentin-of-quimper",
+  "name": "St. Corentin of Quimper",
+  "feastDay": "12-12",
+  "bio": "Corentin of Quimper is a Breton saint of the late fifth or early sixth century. He lived as a hermit at Plomodiern in Brittany, and tradition holds that he was among the seven founding saints of Brittany. He served as the first bishop of Quimper, in the Breton region of Cornouaille. Legend tells of a miraculous fish that God provided to sustain him in his solitude; each time he cut a piece from the fish to eat, it was restored whole. Venerated as the patron saint of Cornouaille and of the Breton people, he is also remembered as a patron of seafood and those who live from the sea.",
+  "patronages": [
+    {
+      "need": "fishermen",
+      "category": "everyday"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Saint Corentin in his solitude by your miraculous providence and called him to shepherd your people in Brittany, grant through his intercession that we may trust in your care in all circumstances. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corentin_of_Quimper"
+  ],
+  "featured": false,
+  "draft": false
+}

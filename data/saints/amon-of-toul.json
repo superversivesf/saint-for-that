@@ -1,0 +1,21 @@
+{
+  "slug": "amon-of-toul",
+  "name": "St. Amon of Toul",
+  "feastDay": "unknown",
+  "bio": "Saint Amon of Toul was the second recorded bishop of Toul, a Gallo-Roman see in the Moselle valley that later became one of the three bishoprics of Lorraine. He served in the early centuries of the Church in Gaul, when the line of pastors was short and each bishop carried a heavy share of building up a young and fragile Church.\n\nAlmost nothing written survives about his deeds, but the memory of his office endured in the local calendars and in the liturgy of the diocese. He belongs to that first thin line of bishops who held the see of Toul before it grew into one of the great sees of medieval Lorraine.\n\nThe Church venerates him as a saint for his steadfastness in the office entrusted to him, and his name is kept in the roll of those who shepherded the Church in the Moselle valley.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Amon to shepherd the young Church of Toul in an age of uncertainty, grant through his intercession that those who guard the faith today may be found faithful to the office they have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amon_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

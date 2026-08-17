@@ -1,0 +1,25 @@
+{
+  "slug": "aurelius-of-carthage",
+  "name": "St. Aurelius of Carthage",
+  "feastDay": "07-20",
+  "bio": "Aurelius of Carthage was a Christian saint who died around 430. A friend of Augustine of Hippo, he served as bishop of Carthage from about 391 until his death, an episcopate of nearly forty years that spanned the generation when the Church in North Africa faced heresy and the crumbling of Roman order.\n\nAs bishop of the great see of Carthage, Aurelius worked in close friendship with Augustine, and the two labored together for the discipline and unity of the African Church. He was a steady advocate of the councils, summoning the bishops of North Africa to meet regularly. He supported Augustine against the Donatists and Pelagians.\n\nHe died around 430, before the Vandals swept over North Africa. His feast is July 20, and the Church honors him as a faithful pastor and friend of Augustine.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Aurelius a long episcopate at Carthage and a friend in Augustine for the labor of the Gospel, grant through his intercession that the bishops of Your Church may labor together for unity and truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aurelius_of_Carthage"
+  ],
+  "featured": false,
+  "draft": false
+}

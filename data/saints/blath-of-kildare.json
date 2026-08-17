@@ -1,0 +1,29 @@
+{
+  "slug": "blath-of-kildare",
+  "name": "St. Blath of Kildare",
+  "feastDay": "01-29",
+  "bio": "Saint Blath, also called Blathnait, was an Irish saint who served as a lay-sister and cook in the great abbey of Saint Brigid at Kildare. Her name, Blath, is the Irish word for \"flower,\" and the Martyrology of Gorman playfully calls her \"blooming Blath,\" by which Latinized form Flora she is also known. She labored in the kitchen of the monastery, sanctifying the humblest of tasks by doing them for God.\n\nHer recognition comes chiefly from her association with Saint Brigid and from one notable miracle linked to that friendship, in which the lowly service of the cook became the occasion of divine power. Beyond these brief mentions in martyrologies and hagiographical texts, little is recorded, yet her witness endures: that holiness is not the preserve of the great or the learned, but blooms wherever work is offered with love. Her feast is kept on January 29.",
+  "patronages": [
+    {
+      "need": "cooks",
+      "category": "jobs"
+    },
+    {
+      "need": "homemakers",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Blath of Kildare to sanctify the humble work of the kitchen, grant through her intercession that we may offer our daily tasks to you with love, and that the lowly may bloom with your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Blath_of_Kildare"
+  ],
+  "featured": false,
+  "draft": false
+}

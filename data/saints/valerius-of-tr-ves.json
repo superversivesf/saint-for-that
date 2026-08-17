@@ -1,0 +1,21 @@
+{
+  "slug": "valerius-of-tr-ves",
+  "name": "St. Valerius of Trèves",
+  "feastDay": "01-29",
+  "bio": "Saint Valerius of Treves, who died around 320, is remembered as a semi-legendary bishop of Trier, the ancient Roman city on the Moselle that became one of Christianity's earliest centers in Germany. Though the historical record from this period is thin, tradition holds that Valerius governed the see of Trier during the turbulent years that followed the Edict of Milan and the beginnings of Christian establishment in the Rhineland. His feast day is kept on January 29. Alongside other early bishops of the region, he represents the first generation of pastors who laid the foundations of the Church in the lands north of the Alps, carrying the Gospel from the Mediterranean world into the heart of the old Roman provinces.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Valerius to shepherd your people at Trier in the dawn of the Christian age, grant through his intercession that the Church in every land may grow firm in faith and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valerius_of_Tr%C3%A8ves"
+  ],
+  "featured": false,
+  "draft": false
+}

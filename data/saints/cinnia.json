@@ -1,0 +1,25 @@
+{
+  "slug": "cinnia",
+  "name": "St. Cinnia",
+  "feastDay": "02-01",
+  "bio": "Saint Cinnia, also called Cynnia, was an Irish princess of Ulster in the fifth century, the only daughter of Echu, a king in Ireland. Though born of royal blood, she was drawn to the life of holiness and consecration in the early days of Irish Christianity, when the Gospel was still taking root among the kingdoms of the island. She is counted among the holy women of the Gael who, inspired by the preaching of Saint Patrick and his companions, embraced virginity and prayer as a higher calling than the throne. Her feast is kept on 1 February, and she is remembered as a patron of those who seek to follow Christ above the claims of worldly honour.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Saint Cinnia to forsake the glory of an earthly throne for the higher dignity of consecrated virginity, grant through her prayers that all young women may find in your Son the bridegroom of their souls and the treasure worth every sacrifice. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cinnia"
+  ],
+  "featured": false,
+  "draft": false
+}

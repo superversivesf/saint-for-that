@@ -1,0 +1,21 @@
+{
+  "slug": "arilda-of-oldbury",
+  "name": "St. Arilda of Oldbury",
+  "feastDay": "07-20",
+  "bio": "Saint Arilda, also called Saint Arild, was a female saint of Oldbury-on-Severn in the English county of Gloucestershire. She probably lived in the fifth or sixth century, in that twilight generation when Roman Britain had faded and the Anglo-Saxon kingdoms were still young, and she may have been of either Anglo-Saxon or Welsh origin.\n\nAlmost nothing certain survives about her life. Her memory is bound to the place where she was venerated, at Oldbury-on-Severn and at the nearby Oldbury-on-the-Hill, both in Gloucestershire, where her name was kept in the local calendars and her feast observed by the villagers.\n\nHer feast is July 20. The Church honors her as one of the hidden saints of England, whose devotion took root in the soil of a particular place and endured.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who kept the memory of St. Arilda alive among the people of Oldbury through the centuries, grant through her intercession that the faithful of England may hold fast to the holiness planted in their land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arilda_of_Oldbury"
+  ],
+  "featured": false,
+  "draft": false
+}

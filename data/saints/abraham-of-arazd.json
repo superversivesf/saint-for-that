@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-arazd",
+  "name": "St. Abraham of Arazd",
+  "feastDay": "12-20",
+  "bio": "Abraham of Arazd was one of the Leontine Martyrs, a group of nine Armenian clergymen who suffered a long captivity in Persia before their execution by order of the Sasanian king Yazdegerd II in the year 455. Their deaths came five years after the insurrection led by Vardan Mamikonian, when the Persian court moved decisively against Armenian Christian resistance.\n\nThe group is named after Leontius of Vanand, and Abraham shares with his companions the crown of those who would not renounce the faith despite years of imprisonment and pressure. The Armenian Church remembers them as confessors who bore witness to Christ under a Zoroastrian regime hostile to the Gospel.\n\nTheir feast on December 20 gathers the nine together, and Abraham of Arazd is honored among them as a steadfast priest who preferred death to the denial of his Lord. He stands as a witness to the deep cost of faithfulness in the ancient Church of Armenia.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned Your servant Abraham of Arazd among the Leontine Martyrs with the palm of steadfastness, grant through his intercession that we may endure every trial for the sake of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leontine_martyrs"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "aignan-of-orleans",
+  "name": "St. Aignan of Orleans",
+  "feastDay": "11-17",
+  "bio": "Aignan, also known as Agnan, was born in 358 and became the seventh Bishop of Orléans in Gaul. His long episcopate spanned nearly half a century of upheaval as the Roman world crumbled under barbarian pressure.\n\nIn 451 Attila the Hun swept into Gaul, and the cities along the Loire trembled. Aignan, though old, did not flee: he journeyed to Arles to urge the Roman general Flavius Aetius to come to the defense of Orléans, and his appeals helped bring the allied army that turned back the Hun at the Catalaunian Plains. The city credited its deliverance to his intercession.\n\nHe died on November 17, 453. Ever since, the people of Orléans have honored him as their heavenly protector, a bishop who stood at the gate when the world seemed to be ending.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Aignan to defend his people when the sword of Attila hung over Orléans, grant through his intercession that we may stand firm in the day of trial and trust in Your providence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aignan_of_Orleans"
+  ],
+  "featured": false,
+  "draft": false
+}

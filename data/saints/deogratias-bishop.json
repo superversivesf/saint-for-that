@@ -1,0 +1,29 @@
+{
+  "slug": "deogratias-bishop",
+  "name": "St. Deogratias",
+  "feastDay": "01-05",
+  "bio": "Deogratias of Carthage was a North African Christian prelate who served as Bishop of Carthage from 454 to 457. He was elevated to the see in the turbulent years following the Vandal conquest of Roman North Africa, when the Church of Carthage had been left without a bishop for many years.\n\nHis brief episcopate was marked by pastoral care for a flock suffering under Arian rule. The Vandals, who followed the Homoian theology condemned at Nicaea, pressed hard upon the Catholic population, and Deogratias labored to sustain the faithful and ransom captives carried off by the invaders.\n\nHe died in 457, honored as a confessor of the faith in a time of persecution. His feast is kept on January 5, and he is remembered as a shepherd who did not abandon his people when the world collapsed.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Your bishop Deogratias to shepherd the Church of Carthage in a time of ruin and to ransom the captives of the Vandals, grant through his intercession that we may stand firm in faith when the world is against us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deogratias_(bishop)"
+  ],
+  "featured": false,
+  "draft": false
+}

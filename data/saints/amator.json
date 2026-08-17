@@ -1,0 +1,21 @@
+{
+  "slug": "amator",
+  "name": "St. Amator",
+  "feastDay": "05-01",
+  "bio": "Amator, known in French as Amadour or Amatre, served as bishop of Auxerre in Gaul from 388 until his death on May 1, 418. His episcopate, more than thirty years long, fell in that decisive generation when the Gallo-Roman aristocracy was turning from the old gods to Christ.\n\nHe was a builder and a pastor, remembered for ordaining priests, consecrating churches, and setting the pattern of episcopal life that his more famous successor Germanus of Auxerre would inherit and extend. Tradition holds that he had a hand in training Germanus for the office, handing on the chair to a man whose name would eclipse his own in the memory of the city.\n\nHis feast is kept on May 1, and he is honored at Auxerre as one of the early line of bishops who turned a Roman town into a Christian see.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Amator a long and fruitful episcopate at Auxerre and made him a builder of Your Church in Gaul, grant through his intercession that those who lead may train up faithful successors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amator"
+  ],
+  "featured": false,
+  "draft": false
+}

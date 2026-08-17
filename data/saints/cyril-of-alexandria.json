@@ -1,0 +1,25 @@
+{
+  "slug": "cyril-of-alexandria",
+  "name": "St. Cyril of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Cyril of Alexandria served as Patriarch of Alexandria from 412 to 444, leading the great see at the height of its influence within the Roman Empire. He wrote extensively and was a principal figure in the Christological controversies of the late fourth and fifth centuries, defending the title Theotokos for the Virgin Mary against the teachings of Nestorius. At the Council of Ephesus in 431, Cyril presided and was central to the deposition of Nestorius as Patriarch of Constantinople, affirming that Christ is one divine person in two natures. He was declared a Doctor of the Church and is honored as one of the greatest theologians of the early Church.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Cyril of Alexandria zeal for the truth of your Son made man and the courage to defend the mystery of the Incarnation, grant through his intercession that we may hold fast to the faith of the Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

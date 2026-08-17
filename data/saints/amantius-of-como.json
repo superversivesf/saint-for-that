@@ -1,0 +1,21 @@
+{
+  "slug": "amantius-of-como",
+  "name": "St. Amantius of Como",
+  "feastDay": "04-08",
+  "bio": "Amantius of Como is venerated as the third bishop of that Italian see, set on the lake at the foot of the Alps. He followed Felix of Como and Provinus in the chair, and was himself succeeded by Abundius, in a line of pastors who built up the Church in a region between the old Roman world and the rising power of Milan.\n\nLittle detail survives about his life, but his place in the early episcopal succession of Como marks him as one of the shepherds who consolidated the faith in northern Italy in the generations after Constantine. He is credited with encouraging the Christian community in a city that later became known for its devotion and its shrines.\n\nHis feast is kept on April 8, and he is honored at Como as a father of the local Church, a quiet builder in a time of transition.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Amantius to shepherd the young Church of Como in the shadow of the Alps, grant through his intercession that those who lead Your people may build well and leave a firm foundation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amantius_of_Como"
+  ],
+  "featured": false,
+  "draft": false
+}

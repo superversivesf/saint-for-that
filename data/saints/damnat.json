@@ -1,0 +1,21 @@
+{
+  "slug": "damnat",
+  "name": "St. Damnat",
+  "feastDay": "unknown",
+  "bio": "Saint Damnat was an Irish nun of the early medieval period who seems to have lived and died at Tydavnet, on the slopes of Sliabh Beagh in County Monaghan, Ireland. Tradition speaks of her as a virgin and the founder of a church or monastery, generally identified with the graveyard of the present village Catholic church. A bachall, or pastoral staff, said to have belonged to her was long preserved and was reputedly used as a lie detector in local custom; it now rests in the National Museum of Ireland in Dublin. She is venerated as one of the many holy women who shaped the early Church in Ireland, founding communities and leaving a legacy of faith in the rural landscape.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Damnat to found a community of prayer in the hills of Monaghan, grant through her intercession that all who seek you in quiet devotion may find strength in your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Damnat"
+  ],
+  "featured": false,
+  "draft": false
+}

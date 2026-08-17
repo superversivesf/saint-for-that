@@ -1,0 +1,25 @@
+{
+  "slug": "pope-boniface-i",
+  "name": "St. Boniface I",
+  "feastDay": "10-25",
+  "bio": "Pope Boniface I served as bishop of Rome from 28 December 418 until his death on 4 September 422. His election was bitterly disputed by supporters of the antipope Eulalius until Emperor Honorius intervened to settle the matter. A steadfast defender of church discipline, Boniface restored privileges to the metropolitical sees of Narbonne and Vienne, exempting them from subjection to the primacy of Arles. He was a friend and correspondent of Augustine of Hippo, who dedicated several of his works to him, and he labored to maintain order and orthodoxy in a turbulent age of barbarian pressures and internal rivalries.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who upheld Pope Boniface I amid the storms of schism and preserved the unity of your Church, grant through his intercession that we may be steadfast in faith and firm in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Boniface_I"
+  ],
+  "featured": false,
+  "draft": false
+}

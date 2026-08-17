@@ -1,0 +1,21 @@
+{
+  "slug": "dalua-of-tibradden",
+  "name": "St. Dalua of Tibradden",
+  "feastDay": "01-07",
+  "bio": "Dalua of Tibradden, also called Dalua of Craoibheach, was an early Irish saint traditionally said to have been a disciple of Saint Patrick in the fifth century. He founded a church that became known as Dun Tighe Bretan, or Tibradden, located in the townland of Cruagh in County Dublin. Like many of the first generation of Irish saints, he carried the Gospel into the hills and valleys of Ireland, establishing places of prayer and gathering a community of the faithful around them. His memory endured in the landscape of south County Dublin, where the ancient church site recalled the early missionary efforts that shaped the Irish Church. His feast is observed on 7 January.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Dalua with Saint Patrick to plant the faith among the hills of Ireland, grant through his intercession that we may be faithful heralds of your Gospel wherever you call us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dalua_of_Tibradden"
+  ],
+  "featured": false,
+  "draft": false
+}

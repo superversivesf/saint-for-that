@@ -1,0 +1,29 @@
+{
+  "slug": "pope-dioscorus-i-of-alexandria",
+  "name": "St. Dioscorus I of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Dioscorus I, called Dioscorus the Great, was pope of Alexandria and patriarch of the See of St. Mark, deposed by the Council of Chalcedon in 451. Recognized as patriarch by the Coptic Church until his death, he died in exile in Gangra, Paphlagonia, in September 454.\n\nThe Council of Chalcedon, which defined the one person of Christ in two natures, became the dividing line between the Chalcedonian churches and the Oriental Orthodox communion. Dioscorus, defending the Cyrillian formula of \"one incarnate nature of the Word,\" refused the council's settlement and was sent into exile, where he died a confessor's death.\n\nHe is venerated by the Coptic and other Oriental Orthodox Churches as a pillar of the faith and a defender of the unity of Christ, a father who suffered for his confession.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Your servant Dioscorus the courage to confess the mystery of Your Son even in exile, grant through his intercession that we may hold fast to the truth and labor for the unity of Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Dioscorus_I_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "abba-alef",
+  "name": "St. Abba Alef",
+  "feastDay": "03-20",
+  "bio": "Abba Alef, or Aléf, was one of the Nine Saints of Ethiopia, the small company of missionaries who arrived from the eastern Mediterranean in the late fifth century and became the architects of organized monastic Christianity in the kingdom of Aksum. They brought the ways of the desert fathers and a deep love of Scripture.\n\nAbba Alef's particular work was the founding of a monastery at Bi'isa in Ahseya, a house that became a center of prayer and teaching for the region. Through such foundations the Nine Saints helped shape the Ethiopian Church, translating the Scriptures into the language of the people.\n\nHis feast is kept on March 20, and he is remembered as a father of Ethiopian monasticism, a witness to the zeal that carried the Gospel beyond the Roman world into the highlands of Africa.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Your servant Abba Alef among the Nine Saints to plant the monastic life at Bi'isa and to teach the peoples of the highlands, grant through his intercession that we may bear the Gospel to the ends of the earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Alef"
+  ],
+  "featured": false,
+  "draft": false
+}

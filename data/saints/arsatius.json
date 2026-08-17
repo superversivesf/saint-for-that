@@ -1,0 +1,21 @@
+{
+  "slug": "arsatius",
+  "name": "St. Arsatius",
+  "feastDay": "11-12",
+  "bio": "Saint Arsatius, also called Arsacius, is a saint of whose life virtually nothing is known. He is said to have been a bishop of Milan, who lived either around the year 400 or in the sixth century, and possibly a martyr, but there is no evidence for either claim. Because of the traditional connection with Milan, he is supposed to have been a disciple of Saint Ambrose, but there is no evidence of this either.\n\nWhat survives is only the bare outline of a name and a see, handed down in the calendars of the Church of Milan. He belongs to that large company of early saints whose deeds were lost to history but whose memory the liturgy preserved.\n\nHis feast is kept on November 12. The Church honors him as one of the hidden pastors of Milan, linked by tradition to the great Ambrose.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Arsatius even when the records of his life were lost, grant through his intercession that those who serve You in obscurity may be known to You and rewarded in Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arsatius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "vicinius-of-sarsina",
+  "name": "St. Vicinius of Sarsina",
+  "feastDay": "unknown",
+  "bio": "Saint Vicinius of Sarsina is honored as the first bishop of that Umbrian town, which lay in the foothills of the Apennines of central Italy. Though little is known of his life, his ministry belongs to the early centuries of Christianity, when the Gospel was still spreading through the smaller towns of the Italian countryside. As the founding bishop of Sarsina, Vicinius would have faced the challenges of building a Christian community from the ground up—gathering believers, establishing worship, and nurturing faith in a region where the old religions still held sway. His feast day is kept among the early bishops whose labors laid the foundations of the Church in Italy. Devotion to him has persisted in the diocese for centuries, and he is remembered as a pioneer of the faith in the Apennine valleys.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Vicinius to plant the seeds of faith at Sarsina, grant through his intercession that the Church may always find shepherds willing to build up your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vicinius_of_Sarsina"
+  ],
+  "featured": false,
+  "draft": false
+}

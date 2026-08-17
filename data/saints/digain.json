@@ -1,0 +1,25 @@
+{
+  "slug": "digain",
+  "name": "St. Digain",
+  "feastDay": "unknown",
+  "bio": "Digain was a fifth-century Welsh saint, a prince of Dumnonia, the Brittonic kingdom of the West Country and parts of Wales. His name is preserved in the Welsh genealogies and in the dedications of churches that trace their origin to the age of the Celtic saints.\n\nAs a royal saint, Digain represents the pattern of early Welsh Christianity in which members of princely families founded or endowed churches and lived as witnesses to the Gospel. The Age of the Saints in Wales produced a remarkable flowering of monastic and pastoral foundations, and Digain's memory is bound to that movement.\n\nHis feast day is not firmly recorded, but his name endures in the landscape of the Welsh Church. He is remembered as an early Christian witness of Britain, a prince who turned his heritage to God.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Digain from a princely house to the service of Your Church in Wales, grant through his intercession that we may use whatever we have been given for the glory of Your name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Digain"
+  ],
+  "featured": false,
+  "draft": false
+}

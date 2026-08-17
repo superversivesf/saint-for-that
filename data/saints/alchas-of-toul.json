@@ -1,0 +1,21 @@
+{
+  "slug": "alchas-of-toul",
+  "name": "St. Alchas of Toul",
+  "feastDay": "unknown",
+  "bio": "Saint Alchas was the third bishop of Toul, a Gallo-Roman see in the Moselle valley that later became one of the three bishoprics of Lorraine. He served in the early centuries of the Church in Gaul, when the faith was still taking root and each name on the short episcopal line carried the weight of a young and fragile Church.\n\nLittle survives in the way of written record about his deeds, but the memory of his office endured in the local calendars of the diocese. He stands among that first thin line of pastors who held the see in times of uncertainty, passed on what they had received, and handed the chair to the next generation.\n\nThe Church venerates him as a saint for his fidelity to the office entrusted to him, and his name is kept in the long roll of the early bishops of Lorraine.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Alchas to shepherd the young Church of Toul in an age of uncertainty, grant through his intercession that those who guard the faith today may be found faithful in little and in much. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alchas_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

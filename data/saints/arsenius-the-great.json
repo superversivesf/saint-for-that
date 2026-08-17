@@ -1,0 +1,29 @@
+{
+  "slug": "arsenius-the-great",
+  "name": "St. Arsenius the Great",
+  "feastDay": "05-08",
+  "bio": "Arsenius the Deacon, also called Arsenius of Scetis, Arsenius the Roman, or Arsenius the Great, was a Roman imperial tutor who became an anchorite in Egypt, one of the most highly regarded of the Desert Fathers. Born in Rome around 350 and educated in Latin and Greek, he was given the charge of tutoring the sons of the Emperor Theodosius.\n\nYet the court left him restless. Tradition holds that he prayed and heard a voice saying, \"Arsenius, flee from men, and you will be saved.\" He left Constantinople for the desert of Scetis, where he took up the life of a hermit. His tears were proverbial; he wept for his sins, he said, as one who had been great and was now nothing.\n\nHe died around 445. His feast is May 8, and the Church honors him as one who left the courts of emperors for a cell.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Arsenius from the courts of emperors to the silence of the desert, grant through his intercession that we may learn to flee from worldly honors and seek You in the stillness of the heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arsenius_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

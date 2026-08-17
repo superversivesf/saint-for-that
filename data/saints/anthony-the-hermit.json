@@ -1,0 +1,25 @@
+{
+  "slug": "anthony-the-hermit",
+  "name": "St. Anthony the Hermit",
+  "feastDay": "12-28",
+  "bio": "Anthony the Hermit, also known as Anthony of Lérins, was an anchorite of the early Church. Born in the Roman province of Pannonia Valeria, then part of the Hunnic Empire, he was drawn to the solitary life of prayer and journeyed westward, settling among the monastic community at Lérins, off the southern coast of Gaul.\n\nAt Lérins, where Vincent of Lérins and other holy men had set the pattern of contemplative life, Anthony gave himself to silence, fasting, and the struggle of the desert transplanted to an island. He is counted among those hermits who carried the ideals of the Egyptian desert into the West.\n\nVenerated in both the Eastern Orthodox and Roman Catholic Churches, his feast is December 28, and he is remembered as one who brought the quiet flame of the desert to a new land.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Anthony from the land of his birth to the solitude of Lérins, grant through his intercession that we may seek You in quietness of heart and find in prayer the strength to serve. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anthony_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

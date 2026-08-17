@@ -1,0 +1,25 @@
+{
+  "slug": "castor-of-apt",
+  "name": "St. Castor of Apt",
+  "feastDay": "09-02",
+  "bio": "Saint Castor of Apt was a bishop of Apt in Gaul, believed to have been the fourth bishop of that ancient see. Serving in the fourth or early fifth century, he shepherded the Christian community of Apt, a town in what is now the Vaucluse of southern France, during the formative decades when the Church in Gaul was consolidating after the end of imperial persecution. He is venerated as a patron of Apt, and his memory endures in the diocesan tradition of Provence as one of the early confessors who built up the Church in the valleys of the Rhône.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Castor a faithful shepherd of your Church in Apt, grant through his intercession that bishops may govern with holiness and lead your people in the ways of peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castor_of_Apt"
+  ],
+  "featured": false,
+  "draft": false
+}

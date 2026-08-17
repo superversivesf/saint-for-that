@@ -1,0 +1,25 @@
+{
+  "slug": "dingad-of-llandingat",
+  "name": "St. Dingad of Llandingat",
+  "feastDay": "unknown",
+  "bio": "Dingad, or Dingat ap Brychan, was a late fifth-century Welsh saint and an early Christian church founder. He is counted among the sons of Brychan, the legendary king of Brycheiniog whose many children became saints and gave their names to churches across Wales.\n\nDingad's foundation is remembered in the place name Llandingat, the church of Dingad, a dedication that preserves the memory of his pastoral work. The Age of the Saints in Wales was marked by such small churches and hermitages, planted in valleys and along rivers by men and women who carried the Gospel into the British countryside.\n\nHis feast day is not firmly recorded, but his name endures in the landscape and traditions of the Welsh Church. He is honored as an early founder of Christian community in Wales.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Your servant Dingad to found a church among the people of Wales, grant through his intercession that we may build communities where Your name is worshipped and Your people are gathered. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dingad_of_Llandingat"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "decl-n-of-ardmore",
+  "name": "St. Declán of Ardmore",
+  "feastDay": "07-24",
+  "bio": "Declán of Ardmore was an early Irish saint of the Déisi Muman who is remembered for converting the Déisi to Christianity in the late fifth century. He founded the monastery of Ardmore in what is now County Waterford, a house that became a center of faith and learning in the south of Ireland.\n\nThe principal source for his life is a Latin Life composed in the twelfth century. Like Ailbe of Emly, Ciarán of Saigir, and Abbán of Moyarney, Declán is presented as a Munster saint who preceded Patrick in bringing Christianity to Ireland, a sign that the Gospel took root in the southern kingdoms before the apostle's mission.\n\nHe was regarded as patron saint of the Déisi of East Munster, and his feast is kept on July 24. Through Ardmore his memory endured as a father of Irish Christianity.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Your servant Declán to prepare the way of the Gospel among the Déisi and to found the monastery of Ardmore, grant through his intercession that we may labor faithfully to bring Christ to those who do not yet know Him. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Decl%C3%A1n_of_Ardmore"
+  ],
+  "featured": false,
+  "draft": false
+}

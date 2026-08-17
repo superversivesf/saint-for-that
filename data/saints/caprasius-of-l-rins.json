@@ -1,0 +1,25 @@
+{
+  "slug": "caprasius-of-l-rins",
+  "name": "St. Caprasius of Lérins",
+  "feastDay": "06-01",
+  "bio": "Saint Caprasius, also called Caprasius of Lérins, was a hermit who lived on the island monastery of Lérins, off the coast of Provence. The community of Lérins, founded in the early fifth century, became one of the great nurseries of monastic sanctity in the Western Church, producing numerous saints, bishops, and theologians. Caprasius embraced the eremitical and communal life of prayer, asceticism, and study that characterized this holy house, joining the ranks of the Lérins saints whose holiness helped form the spiritual landscape of Merovingian and Gallic Christianity.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Saint Caprasius to a life of prayer and penance on the holy island of Lérins, grant through his intercession that we may seek you with undivided hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caprasius_of_L%C3%A9rins"
+  ],
+  "featured": false,
+  "draft": false
+}

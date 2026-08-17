@@ -1,0 +1,21 @@
+{
+  "slug": "eithne-and-sodelb",
+  "name": "St. Eithne and Sodelb",
+  "feastDay": "03-29",
+  "bio": "Saints Eithne and Sodelb were two obscure Irish holy women from Leinster, sisters who are believed to have lived in the 5th century. Their memory is preserved in the Irish martyrologies, where they are commemorated together on 29 March; 2 and 15 January were also marked as their feast days in older sources. The 17th-century hagiographer John Colgan recorded that a Life of the sisters had been seen around 1490 by Cathal Óg Mac Maghnusa, though no such text has survived. They make brief but telling appearances in the Lives of two greater saints, Áedan and Moling, both bishops of Ferns, which suggests that their holiness was remembered in connection with the founding of the Church in Leinster. They are venerated as virgins and confessors of the early Irish Church.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who joined the sisters Eithne and Sodelb in holiness and in the labor of the early Irish Church, grant through their intercession that families may be united in faith and that the memory of Your hidden saints may inspire us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eithne_and_Sodelb"
+  ],
+  "featured": false,
+  "draft": false
+}

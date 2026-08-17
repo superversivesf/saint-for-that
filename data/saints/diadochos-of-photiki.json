@@ -1,0 +1,33 @@
+{
+  "slug": "diadochos-of-photiki",
+  "name": "St. Diadochos of Photiki",
+  "feastDay": "03-29",
+  "bio": "Diadochos of Photiki was a fifth-century Christian ascetic and bishop whose works are preserved in the Philokalia, the great collection of writings on prayer and the contemplative life. He served as bishop of Photiki, a town in Epirus, when the Church was refining its teaching on Christ and its grasp of the inner life of prayer.\n\nDiadochos is best known for his \"Centuries on Spiritual Knowledge,\" short teachings on the cultivation of the inner life, the discernment of thoughts, and the experience of the divine light. He wrote with precision about the struggle between grace and the passions, and of God's presence to the one who prays with a purified heart.\n\nHis feast is kept on March 29. He is honored as a father of the contemplative tradition and a teacher of the prayer of the heart.",
+  "patronages": [
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught Your bishop Diadochos the way of inner prayer and the knowledge of Your presence, grant through his intercession that we may still our passions and behold Your light with a purified heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diadochos_of_Photiki"
+  ],
+  "featured": false,
+  "draft": false
+}

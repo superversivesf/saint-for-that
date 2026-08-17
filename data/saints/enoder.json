@@ -1,0 +1,21 @@
+{
+  "slug": "enoder",
+  "name": "St. Enoder",
+  "feastDay": "unknown",
+  "bio": "Saint Enoder was a 5th-century Cornish saint, said to have come from Brecknockshire in South Wales and counted among the descendants of the legendary Brychan Brycheiniog. He is one of the early missionary saints who carried the Christian faith from Wales into Cornwall, where churches and placenames preserve his memory. Venerated in the Anglican, Roman Catholic, and Eastern Orthodox Churches alike, he belongs to that broad communion of Celtic saints whose holiness transcends later divisions. Little certain detail of his life survives, but his enduring presence in the devotional landscape of Cornwall testifies to a faith received from the first generations of Christian Britain and handed down through the centuries in the chapels and wells that bear his name.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who kept the memory of St. Enoder alive in the churches of Cornwall, grant through his intercession that the faith of the early saints may be renewed in our hearts and handed on to those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enoder"
+  ],
+  "featured": false,
+  "draft": false
+}

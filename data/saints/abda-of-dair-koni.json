@@ -1,0 +1,25 @@
+{
+  "slug": "abda-of-dair-koni",
+  "name": "St. Abda of Dair-Koni",
+  "feastDay": "unknown",
+  "bio": "Abda of Dair-Koni, known in Classical Syriac as Marya Abda, was a priest and abbot of the Church of the East in the early centuries of Christian witness in Mesopotamia. His name, meaning \"servant,\" fittingly describes a life given over to the discipline of the desert and the care of souls entrusted to him.\n\nAs abbot he governed a monastic community at Dair-Koni, guiding his monks in prayer, manual labor, and the chanting of the Psalms. The monasteries of the Syriac tradition were nurseries of holiness and learning, and Abda's rule shaped a generation of ascetics who carried the Gospel eastward.\n\nThough the details of his life are sparse, his memory endured among the Christian communities of the region, who honored him as a faithful shepherd and a man of prayer. He stands as a quiet witness to the deep roots of monastic Christianity in the lands between the rivers.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Abda to the solitude of the desert and entrusted to him the care of a monastic household, grant through his intercession that we may serve You with undivided heart and lead others to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abda_of_Dair-Koni"
+  ],
+  "featured": false,
+  "draft": false
+}

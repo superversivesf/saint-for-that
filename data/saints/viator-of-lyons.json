@@ -1,0 +1,21 @@
+{
+  "slug": "viator-of-lyons",
+  "name": "St. Viator of Lyons",
+  "feastDay": "10-21",
+  "bio": "Saint Viator of Lyons was a Gallic saint of the fourth century, remembered as the devoted companion and lector of Saint Justus, bishop of Lyons. When Justus, distressed by a turbulent episcopate, decided to withdraw to the monastic life in Egypt, Viator accompanied him and shared his solitude. Together they lived in prayer and asceticism near Alexandria, and when Justus died, Viator continued in that life until his own death. His feast day is observed on October 21. The story of Viator and Justus became a celebrated example of the bond between a bishop and his disciple, and their shared desire to exchange the honors of office for the silence of the desert.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Viator to seek you in solitude alongside his master, grant through his intercession that we may learn to prefer the quiet of prayer above the praise of the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Viator_of_Lyons"
+  ],
+  "featured": false,
+  "draft": false
+}

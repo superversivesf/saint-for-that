@@ -1,0 +1,21 @@
+{
+  "slug": "dyfnan",
+  "name": "St. Dyfnan",
+  "feastDay": "04-24",
+  "bio": "Saint Dyfnan ap Brychan was a 5th-century Welsh saint, counted among the many sons of the legendary Brychan, king of Brycheiniog, whose numerous offspring are remembered as the saints of Wales. Little certain history has come down to us about Dyfnan's life, but his memory is firmly rooted in the landscape of Anglesey, where the church and parish of Llanddyfnan bear his name and testify to a long devotion. Like the other children of Brychan, he is honored as one of the founders of Christian Wales, a generation of missionary saints who planted the faith among the Welsh kingdoms in the age before the great councils. He is venerated as a confessor, and his feast has been kept on 24 April.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Dyfnan in the churches and prayers of Wales, grant through his intercession that the faith planted by the early saints may bear fruit in our own day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dyfnan"
+  ],
+  "featured": false,
+  "draft": false
+}

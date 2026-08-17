@@ -1,0 +1,29 @@
+{
+  "slug": "cettin",
+  "name": "St. Cettin",
+  "feastDay": "06-16",
+  "bio": "Saint Cettin, also known as Cethach or Cethagh, was a disciple of Saint Patrick and one of the early labourers in the great fifth-century evangelization of Ireland. Consecrated by Patrick as an auxiliary bishop of Oran in County Roscommon, Cettin helped plant the Christian faith among a people still emerging from paganism. His shrine at Oran became a well-known place of pilgrimage and endured until the close of the eighteenth century, a lasting witness to the devotion he inspired. He is believed to have died in the fifth century, and his feast is kept on 16 June.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Saint Cettin as a faithful helper of Saint Patrick to bring the Gospel to the Irish people, grant through his intercession that we may walk in the faith he preached and hold fast to the truth he taught. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cettin"
+  ],
+  "featured": false,
+  "draft": false
+}

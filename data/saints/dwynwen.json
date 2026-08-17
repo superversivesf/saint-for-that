@@ -1,0 +1,25 @@
+{
+  "slug": "dwynwen",
+  "name": "St. Dwynwen",
+  "feastDay": "01-25",
+  "bio": "Saint Dwynwen, also called Dwyn or Donwen, is the beloved Welsh patron saint of lovers. A 5th-century princess, the daughter of the legendary Brychan Brycheiniog, she suffered a sorrowful love: the young man she loved, according to tradition, either spurned her or was forbidden to her, and in her grief she prayed to be released from her longing and to be granted the grace never to marry, dedicating her life to God instead. An angel is said to have appeared and given her a remedy, and in thanksgiving she founded a convent on the island of Llanddwyn off the coast of Anglesey, where she lived as a nun and served the poor. Down the centuries the people of Wales have invoked her on her feast, 25 January, especially for those in love and for sick animals.",
+  "patronages": [
+    {
+      "need": "engaged couples",
+      "category": "family"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Dwynwen to surrender her heart's desire and find her joy in You alone, grant through her intercession that those who love may love with purity, and that the sick may find comfort in Your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dwynwen"
+  ],
+  "featured": false,
+  "draft": false
+}

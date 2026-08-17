@@ -1,0 +1,29 @@
+{
+  "slug": "bassianus-of-lodi",
+  "name": "St. Bassianus of Lodi",
+  "feastDay": "01-19",
+  "bio": "Bassianus of Lodi was an Italian saint honored as the patron of Lodi, of Bassano del Grappa, and of Pizzighettone, towns that have cherished his memory across the centuries. He served as bishop of Lodi in the late fourth and early fifth centuries, guiding his diocese during the difficult years when the Church was still consolidating its life after the age of persecutions and when the storms of barbarian pressure were beginning to gather.\n\nHis cult took deep root in the Lombard plain, where the people invoked him as their heavenly protector and where churches rose in his name. A patron of cities and of the ordinary faithful who dwell in them, Bassianus stands for that quiet episcopal holiness which, though it may fill few pages of history, sustains the Church from generation to generation. His feast is kept on January 19.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Bassianus a faithful bishop and the heavenly patron of the cities that bear his memory, grant through his intercession that your people may be protected from every harm and governed by pastors after your own heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bassianus_of_Lodi"
+  ],
+  "featured": false,
+  "draft": false
+}

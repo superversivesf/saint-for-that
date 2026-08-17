@@ -1,0 +1,25 @@
+{
+  "slug": "daniel-the-stylite",
+  "name": "St. Daniel the Stylite",
+  "feastDay": "12-11",
+  "bio": "Daniel the Stylite is a saint of the Eastern Orthodox, Roman Catholic, and Eastern Catholic Churches, venerated for his extraordinary ascetic life atop a pillar near Constantinople in the fifth century. Born in Syria, he entered a monastery as a youth and was drawn to the example of Saint Simeon Stylites, whose way of life he resolved to follow. He spent years in seclusion before ascending his own pillar, where he remained for some thirty-three years, exposed to heat and cold, preaching to the crowds who gathered below and offering counsel to emperors and common folk alike. His witness drew countless pilgrims and helped shape the devotion of the Eastern Church. He is commemorated on 11 December.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Saint Daniel the Stylite grace to stand atop his pillar in lifelong witness to your truth, grant through his intercession that we may be steadfast in prayer and faithful in our calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_the_Stylite"
+  ],
+  "featured": false,
+  "draft": false
+}

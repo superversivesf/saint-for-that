@@ -1,0 +1,21 @@
+{
+  "slug": "viator-of-bergamo",
+  "name": "St. Viator of Bergamo",
+  "feastDay": "01-15",
+  "bio": "Saint Viator of Bergamo is venerated as the second bishop of that Lombard city, traditionally considered the successor of Saint Narnus in the see. His episcopate is reckoned to have lasted from about 343 to 370, placing him in the generation that followed the Edict of Milan, when bishops across the Western Empire were building up the structures of an emerging Christian society. Little else of his life has been preserved, but devotion to him has endured in Bergamo for centuries. His feast day is kept on January 15. Alongside his predecessor and successors, Viator helped establish the Christian faith in the valleys and hills of northern Italy, leaving a legacy that the Church of Bergamo honors to this day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Viator a faithful shepherd of your Church at Bergamo, grant through his intercession that pastors may guide their people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Viator_of_Bergamo"
+  ],
+  "featured": false,
+  "draft": false
+}

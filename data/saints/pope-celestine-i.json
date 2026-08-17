@@ -1,0 +1,29 @@
+{
+  "slug": "pope-celestine-i",
+  "name": "St. Celestine I",
+  "feastDay": "07-27",
+  "bio": "Pope Celestine I governed the Church of Rome from September 422 until his death in July 432, a pontificate devoted to the defense of orthodox faith against the errors of his age. When Nestorius, Patriarch of Constantinople, denied the title Theotokos to the Blessed Virgin Mary, Celestine entrusted St. Cyril of Alexandria with the task of securing his condemnation, a mandate fulfilled at the Council of Ephesus in 431. He likewise dispatched St. Germanus of Auxerre to Britain to combat Pelagianism and commissioned Palladius as bishop to the Irish, helping to plant the seeds of Christianity in distant lands. Remembered as a steadfast shepherd, Celestine died peacefully and was venerated as a saint.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "missions",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Pope Saint Celestine a fearless defender of the true faith and a shepherd who sent laborers into your harvest, grant through his intercession that your Church may stand firm against every error and that the nations may receive the Gospel with joy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Celestine_I"
+  ],
+  "featured": false,
+  "draft": false
+}

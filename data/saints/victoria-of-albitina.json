@@ -1,0 +1,29 @@
+{
+  "slug": "victoria-of-albitina",
+  "name": "St. Victoria of Albitina",
+  "feastDay": "02-11",
+  "bio": "Saint Victoria of Albitina is venerated as a martyr of the Catholic Church. According to tradition, she was of North African noble birth and refused an arranged marriage, determined instead to consecrate her life to Christ. On her wedding day, she leaped from a window in her parents' house rather than submit to the union. Arrested for her faith, she appeared before a judge who was willing to release her, yet she chose to remain and confess her Lord, arguing boldly for the truth. She was executed along with forty-five other parishioners, among them Thelica, Ampelius, Emeritus, and Rogatian. Her feast day is kept on February 11. Victoria's witness is a powerful example of courage and fidelity, and she is honored among the martyrs of North Africa.",
+  "patronages": [
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "brides",
+      "category": "family"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Victoria the courage to prefer death to a life apart from you, grant through her intercession that all who face pressure against their faith may stand firm in your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victoria_of_Albitina"
+  ],
+  "featured": false,
+  "draft": false
+}

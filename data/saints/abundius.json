@@ -1,0 +1,21 @@
+{
+  "slug": "abundius",
+  "name": "St. Abundius",
+  "feastDay": "04-02",
+  "bio": "Abundius, venerated in the Catholic Church as Saint Abundius, was a bishop of Como in northern Italy, serving in the fifth century during a period when the Church in northern Italy was consolidating its witness after the storms of earlier heresies. As bishop he shepherded the faithful of Como and the surrounding lake country, and his name became inseparable from the city he served.\n\nAbundius took part in the theological debates of his age, standing for orthodox teaching against the errors that threatened the unity of the Church. He was present at councils and was known as a reliable teacher of the faith, entrusted with the care of a diocese that looked to Milan and Rome for guidance.\n\nHis feast is kept on April 2, and he is honored as the patron of the city and diocese of Como, where his relics were venerated and his memory shaped the local Church for centuries. He stands as a witness to the pastoral steadfastness of the bishops of late antiquity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Your servant Abundius a faithful bishop of Como and a defender of orthodox truth, grant through his intercession that the shepherds of Your Church may stand firm in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abundius"
+  ],
+  "featured": false,
+  "draft": false
+}

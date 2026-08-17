@@ -1,0 +1,29 @@
+{
+  "slug": "banban-the-wise",
+  "name": "St. Banban the Wise",
+  "feastDay": "unknown",
+  "bio": "Banban the Wise was an Irish saint whom Saint Patrick himself installed as pastor of the Domnach Mór, the great church at Templeport in County Cavan. This sanctuary was raised on ground sanctified by the overthrow of the idol of Crom Cruach, the pre-Christian deity whose worship had long held the plain of Magh Slécht in darkness. Where the idol fell, the altar of Christ was set.\n\nBanban's epithet, \"the Wise,\" marks him as a man of discernment and learning, fitted to govern a flock emerging from paganism into the light of faith. Standing among the first pastors of a newly Christian Ireland, he embodies that generation of shepherds who turned shattered idols into cornerstones and gathered a scattered people into the fold of Christ. His memory endures in the landscape and lore of the land he served.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Banban the Wise to shepherd a people newly turned from idols to your truth, grant through his intercession that false gods may ever give way before the Gospel and that your pastors may govern with wisdom and grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Banban_the_Wise"
+  ],
+  "featured": false,
+  "draft": false
+}

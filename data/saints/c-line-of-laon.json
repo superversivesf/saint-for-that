@@ -1,0 +1,25 @@
+{
+  "slug": "c-line-of-laon",
+  "name": "St. Céline of Laon",
+  "feastDay": "10-21",
+  "bio": "Saint Céline of Laon was a Frankish noblewoman of the fifth century, venerated in the region of Laonnois as a mother whose holiness bore fruit in the children she raised in the faith. She is most remembered as the mother of Saint Remigius, the great bishop of Reims who baptized Clovis I, and of Principius, the twelfth bishop of Soissons. In an age when the light of the Gospel was still dawning upon the Frankish peoples, Céline's quiet fidelity as a Christian mother helped form two of the most influential bishops of early Gaul. Her feast is kept on 21 October.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who blessed Saint Céline of Laon with the grace of motherhood and made her the mother of holy bishops, grant through her prayers that Christian families may be schools of sanctity and that parents may form their children in the love of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/C%C3%A9line_of_Laon"
+  ],
+  "featured": false,
+  "draft": false
+}

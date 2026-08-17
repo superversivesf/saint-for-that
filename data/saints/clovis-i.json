@@ -1,0 +1,29 @@
+{
+  "slug": "clovis-i",
+  "name": "St. Clovis I",
+  "feastDay": "11-27",
+  "bio": "Saint Clovis I was the first king to unite the Frankish realms under a single ruler and the founder of the Merovingian dynasty, which governed the Franks for the next two centuries. Born around 466, he came to the throne as a young man and by conquest and diplomacy welded the competing Frankish petty kingdoms into one realm. His reign was transformed when, at the urging of his wife Saint Clotilde and through the ministry of Saint Remigius, he was baptized at Reims on Christmas Day, 496, together with some three thousand of his warriors. From that day the Franks became the first orthodox Catholic people among the Germanic kingdoms, and Clovis came to be honoured as the first king of what would become France. He died in 511 and is venerated, especially in France, as a Christian ruler.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your mercy called Clovis, king of the Franks, to the waters of Baptism and made of his people a bastion of the orthodox Faith, grant through his intercession that earthly rulers may seek first your Kingdom and that nations may be governed in the light of the Gospel. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clovis_I"
+  ],
+  "featured": false,
+  "draft": false
+}

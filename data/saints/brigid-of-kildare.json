@@ -1,0 +1,37 @@
+{
+  "slug": "brigid-of-kildare",
+  "name": "St. Brigid of Kildare",
+  "feastDay": "02-01",
+  "bio": "Saint Brigid of Kildare, one of Ireland's three patron saints alongside Patrick and Columba, was according to medieval hagiographies an abbess who founded the great monastery of Kildare and several other convents of nuns. The daughter of an Irish clan chief and an enslaved Christian woman, she was fostered in a druid's household before becoming a consecrated virgin. Her hagiographies, drawing on both Christian and Irish folklore traditions, recount miracles of healing, protection, and providence. She is the patroness of poetry, learning, healing, blacksmithing, livestock, and dairy production, and in her honor a perpetual fire was kept burning at Kildare for centuries.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "shepherds",
+      "category": "jobs"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gifted Saint Brigid of Kildare with a love of learning, healing, and faithful labor, grant through her intercession that we may use our gifts to build up your Church and care for your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-clermont",
+  "name": "St. Abraham of Clermont",
+  "feastDay": "06-15",
+  "bio": "Abraham of Clermont was the founder and abbot of the monastery of St. Cyriacus in Clermont-Ferrand, in the Auvergne region of Gaul. He lived in the sixth century, a time when monastic foundations were spreading through the Frankish kingdoms, carrying with them the disciplines of prayer, hospitality, and learning.\n\nAs abbot, Abraham gathered a community of monks around the rule of prayer and work, establishing a house that would shape the Christian life of the region for generations. The monastery of St. Cyriacus became a center of devotion and a refuge for those seeking the deeper pursuit of God.\n\nHis feast is kept on June 15, and he is remembered among the monastic founders of early medieval Gaul who built up the Church not only by preaching but by the quiet witness of consecrated life. He stands as a reminder that the roots of European Christianity were nurtured in such houses of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Abraham to found a monastery in the hills of Auvergne and to gather brothers in Your name, grant through his intercession that we may seek You with the same steadfastness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Clermont"
+  ],
+  "featured": false,
+  "draft": false
+}

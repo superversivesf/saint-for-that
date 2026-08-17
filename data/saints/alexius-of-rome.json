@@ -1,0 +1,29 @@
+{
+  "slug": "alexius-of-rome",
+  "name": "St. Alexius of Rome",
+  "feastDay": "03-17",
+  "bio": "Saint Alexius of Rome, also known as Alexis of Edessa, was a fourth-century Greek monk famed for a life of radical self-denial in complete anonymity. Born into a wealthy and noble family, he is said to have fled on his wedding night, abandoning wealth, bride, and homeland to seek God as a beggar in a far city.\n\nFor years he lived as an unknown pauper, first in Edessa and then, after a return to his own home unrecognized, serving at his family's table as a common servant. He accepted mockery and hunger without complaint. Only after his death was his identity revealed through a writing found in his hand.\n\nThe story captured East and West and made him a patron of beggars, pilgrims, and travelers. His feast is kept on March 17, and he is honored as one who counted all as loss for Christ.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Alexius to count all things as loss for the sake of Christ and to serve You hidden in the form of a beggar, grant through his intercession that we may learn true humility and detachment. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

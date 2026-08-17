@@ -1,0 +1,25 @@
+{
+  "slug": "brkisho-of-armenia",
+  "name": "St. Brkisho of Armenia",
+  "feastDay": "unknown",
+  "bio": "Saint Brkisho, called \"The Syrian,\" was a catholicos of the Armenian Apostolic Church of Assyrian origin, serving from 429 to 432. Leading the ancient Armenian Church in its formative centuries, he guided a community situated at the crossroads of empires and cultures. Though historical details of his life are sparse, his brief tenure as catholicos places him among the succession of shepherds who nourished the Christian faith in Armenia, the first nation to adopt Christianity as its state religion. He is remembered among the saints of the Eastern Christian tradition.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up Saint Brkisho to shepherd your people in Armenia, grant through his intercession that all who confess the name of Christ may be gathered into the unity of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brkisho_of_Armenia"
+  ],
+  "featured": false,
+  "draft": false
+}

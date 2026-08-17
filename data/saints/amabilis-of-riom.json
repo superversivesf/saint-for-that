@@ -1,0 +1,29 @@
+{
+  "slug": "amabilis-of-riom",
+  "name": "St. Amabilis of Riom",
+  "feastDay": "10-18",
+  "bio": "Amabilis of Riom was a Gallo-Roman saint of the Auvergne, brought by Sidonius Apollinaris to serve the church at Clermont. His name, meaning \"lovable,\" captured the affection in which he was held, and his ministry belonged to that fifth-century generation that carried the faith into the countryside of central Gaul.\n\nAfter his death his cult flourished at Riom, where his shrine drew pilgrims seeking healing. He was invoked against fire and poisonous snakes, against demonic possession and mental illness, against poison and wild beasts. Such a litany of terrors, gathered around one gentle name, shows the fears of an early medieval people.\n\nHis feast is kept on October 18, and he remains a patron of the Auvergne and of Riom, an intercessor for those under the shadow of sudden danger.",
+  "patronages": [
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Amabilis a refuge for those beset by fire, poison, and the assaults of the evil one, grant through his intercession that we may be delivered from every sudden danger of body and soul. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amabilis_of_Riom"
+  ],
+  "featured": false,
+  "draft": false
+}

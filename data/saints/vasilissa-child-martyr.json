@@ -1,0 +1,25 @@
+{
+  "slug": "vasilissa-child-martyr",
+  "name": "St. Vasilissa",
+  "feastDay": "09-16",
+  "bio": "Vasilissa, who lived from approximately 300 to 309, was a young Roman Christian girl venerated as a child martyr by the Russian Orthodox Church and the wider Christian tradition. According to tradition, she was a small child when she was martyred at Nicomedia, in the region of Bithynia, during the persecutions that followed the death of Saint Anthimus. Her torturers covered her whole body with wounds, yet she remained faithful to Jesus Christ and refused to renounce her faith, demonstrating a courage remarkable in one so young. Her feast day is celebrated on September 16. Vasilissa is remembered as a powerful example of the faith of children and of the strength that grace can give even to the youngest of the Lord's followers.",
+  "patronages": [
+    {
+      "need": "children",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the child Vasilissa courage to confess your name even in suffering, grant through her intercession that all children may grow strong in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vasilissa_(child_martyr)"
+  ],
+  "featured": false,
+  "draft": false
+}

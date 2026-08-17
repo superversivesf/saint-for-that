@@ -1,0 +1,25 @@
+{
+  "slug": "abba-aftse",
+  "name": "St. Abba Aftse",
+  "feastDay": "06-05",
+  "bio": "Abba Aftse, also known as Afsé, was one of the Nine Saints of Ethiopia, a company of missionaries who arrived from the Roman world in the late fifth century and became the founders of organized monastic Christianity in the Ethiopian kingdom of Aksum. They came during the reign of the Aksumite kings and were received as bearers of a faith already planted in the region but still young in its institutions.\n\nThe Nine Saints are traditionally remembered as coming from Syria and the eastern Mediterranean, and they brought with them the traditions of the desert fathers, the disciplines of monastic life, and a zeal for the translation of Scripture into the local tongue. Aftse and his companions established monasteries, ordained clergy, and taught the faith in ways that shaped the Ethiopian Church for centuries.\n\nHis feast is kept on June 5, and Abba Aftse is honored as a father of Ethiopian monasticism and a witness to the missionary energy that carried the Gospel far beyond the borders of the Roman world. He stands among those who built the Church in the highlands of Africa.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent Your servant Abba Aftse among the Nine Saints to plant the monastic life in the highlands of Ethiopia, grant through his intercession that we may bear the Gospel to the ends of the earth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Aftse"
+  ],
+  "featured": false,
+  "draft": false
+}

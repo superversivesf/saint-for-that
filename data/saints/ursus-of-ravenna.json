@@ -1,0 +1,25 @@
+{
+  "slug": "ursus-of-ravenna",
+  "name": "St. Ursus of Ravenna",
+  "feastDay": "04-13",
+  "bio": "Ursus served as bishop of Ravenna in the late fourth century, guiding the church of that great Italian city during a formative period for Christianity in the West. Though details of his early life are scarce, tradition holds that he was a devoted pastor who shepherded his flock through the challenges of the era, including the lingering tensions between pagan and Christian society. Venerated in both the Roman Catholic and Eastern Orthodox churches, his feast day is commemorated on April 13. Over the centuries, popular devotion has invoked his intercession particularly against faintness and kidney disease, and his relics have been honored in Ravenna, the ancient capital of the Western Roman Empire and home to some of Christendom's finest early churches.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ursus a faithful shepherd of your Church at Ravenna, grant through his intercession that those who suffer from illness may find strength and healing in your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ursus_of_Ravenna"
+  ],
+  "featured": false,
+  "draft": false
+}

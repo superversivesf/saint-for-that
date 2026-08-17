@@ -1,0 +1,21 @@
+{
+  "slug": "valerius-of-saragossa",
+  "name": "St. Valerius of Saragossa",
+  "feastDay": "01-22",
+  "bio": "Saint Valerius of Saragossa served as bishop of that Spanish city from around 290 until his death, shepherding the Christian community through years of persecution and turmoil. He attended the Council of Elvira, one of the earliest gatherings of the Spanish church, which helped shape Christian discipline and practice in the Iberian Peninsula. Though he lived during the harsh years before Constantine's edict of toleration, Valerius guided his flock with steadfastness and is honored as the patron saint of Zaragoza, the great city of Aragon. His feast is celebrated on January 22, and devotion to him has endured for centuries among the people of the Ebro valley.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Valerius as bishop of Saragossa through times of persecution, grant through his intercession that your Church may remain steadfast in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valerius_of_Saragossa"
+  ],
+  "featured": false,
+  "draft": false
+}

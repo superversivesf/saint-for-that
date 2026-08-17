@@ -1,0 +1,25 @@
+{
+  "slug": "d-chu",
+  "name": "St. Díchu",
+  "feastDay": "04-29",
+  "bio": "Saint Díchu mac Trichim holds the singular honor of being the first convert of Saint Patrick in Ireland. According to the hagiographic tradition, when Patrick arrived at Sabhall, Díchu raised his sword against the stranger, but his arm was miraculously stayed, and he was moved to embrace the Gospel and offer Patrick his barn as a place of worship.\n\nDíchu was a chieftain of the region, and his conversion opened a door for the mission that would transform Ireland. His generosity made Sabhall, or Saul, the first foundation of Patrick's ministry.\n\nHis feast is noted in the Martyrology of Donegal as \"Diochu of Sabhall,\" under date of April 29. He is remembered as the firstfruits of Patrick's preaching, the Gospel taking root through one man who welcomed the apostle.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "homemakers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who moved the heart of Díchu to welcome Your apostle Patrick and to offer his home as a house of prayer, grant through his intercession that we may receive those who bring us the Gospel with open and generous hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/D%C3%ADchu"
+  ],
+  "featured": false,
+  "draft": false
+}

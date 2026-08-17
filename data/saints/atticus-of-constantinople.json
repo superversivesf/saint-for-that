@@ -1,0 +1,25 @@
+{
+  "slug": "atticus-of-constantinople",
+  "name": "St. Atticus of Constantinople",
+  "feastDay": "unknown",
+  "bio": "Atticus of Constantinople was archbishop of Constantinople, succeeding to the episcopal throne in March of the year 406. He is known for having been an opponent of John Chrysostom, whom he helped depose, and for rebuilding the small church that stood on the site where the later Hagia Sophia would rise.\n\nAtticus was an opponent of the Pelagians, a stance that increased his popularity among the citizens of Constantinople, who saw in him a defender of the grace of God against human self-sufficiency. He also contributed to the theological framework for the developing cult of the Virgin Mary.\n\nHe died around 425. His feast day is not firmly recorded, and so it is kept as unknown, but the Church honors him as a pastor of Constantinople who labored to build up the Church in the imperial city.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "marian devotion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Atticus of Constantinople zeal for the house of Your Church and devotion to the Mother of Your Son, grant through his intercession that we may honor Mary as the handmaid of grace and build up the faith we have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Atticus_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

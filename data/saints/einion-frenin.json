@@ -1,0 +1,21 @@
+{
+  "slug": "einion-frenin",
+  "name": "St. Einion Frenin",
+  "feastDay": "02-09",
+  "bio": "Saint Einion Frenin, \"Einion the King,\" was a late 5th- and early 6th-century Welsh confessor and saint of the Celtic Church. Honored especially in the Llŷn Peninsula of north Wales, where the church of Llanengan preserves his name, he is remembered as a ruler who used his authority to advance the Christian faith among his people. The old calendars kept his feast on 9 February, though by the 16th century it had drifted to the 10th or 12th and is no longer observed in either the Anglican or Catholic Church in Wales. A confessor rather than a martyr, Einion belongs to that early generation of Welsh Christian leaders who, in the twilight of Roman Britain and the dawn of the Welsh kingdoms, laid the foundations of the Church in the west.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Einion Frenin grace to rule his people in justice and to labor for the spread of the Gospel in Wales, grant through his intercession that those in authority may serve You faithfully. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Einion_Frenin"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "darerca-of-ireland",
+  "name": "St. Darerca of Ireland",
+  "feastDay": "03-22",
+  "bio": "Saint Darerca of Ireland is remembered in Irish tradition as a sister of Saint Patrick, the apostle to the Irish. Her kinship with Patrick placed her within the family that helped sustain the missionary labors that brought Christianity to Ireland in the fifth century, and her memory is tied to Valentia Island, the western Irish isle associated with Patrick's ministry.\n\nThough the historical record of her life is sparse, the hagiographies of Patrick's family circle honor Darerca as one of those who shared in the apostolic task of spreading the Gospel, among the women whose faith and kinship supported the conversion of a people.\n\nHer feast is kept on March 22, and she is venerated as part of the early Irish Christian witness, a quiet figure whose devotion honored the labors of her brother.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called Your servant Darerca to stand within the family that carried the Gospel to Ireland, grant through her intercession that we may support the work of evangelization with quiet faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Darerca_of_Ireland"
+  ],
+  "featured": false,
+  "draft": false
+}

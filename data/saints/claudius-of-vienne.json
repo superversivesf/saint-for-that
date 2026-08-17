@@ -1,0 +1,25 @@
+{
+  "slug": "claudius-of-vienne",
+  "name": "St. Claudius of Vienne",
+  "feastDay": "06-01",
+  "bio": "Saint Claudius of Vienne was a bishop of the ancient see of Vienne in the Dauphiné, France, in the first half of the fifth century. He governed that church during a period when the Roman order was giving way before the barbarian migrations and the sees of Gaul were being called to hold firm to the orthodox faith amid the chaos. Honoured as a saint in the Roman Martyrology, Claudius is remembered for his pastoral care and for preserving the unity of his church through years of upheaval. His feast has long been kept on 1 June, and he stands among the line of Gallic bishop-saints who sustained the Faith in a time of great trial.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Saint Claudius a faithful bishop of Vienne in a time of turmoil, grant through his intercession that your shepherds may hold firm to the unity of the Faith and guide your people through every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Claudius_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

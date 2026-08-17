@@ -1,0 +1,29 @@
+{
+  "slug": "acacius-of-amida",
+  "name": "St. Acacius of Amida",
+  "feastDay": "04-09",
+  "bio": "Acacius, also known as Aqaq, was bishop of Amida in Mesopotamia from about 400 to 425, during the reign of the Eastern Roman Emperor Theodosius II. Though he left no extant writings, his life is documented by the historian Socrates Scholasticus, in the twenty-first chapter of the seventh book of his Church History, where he is described as a man of extraordinary compassion.\n\nAcacius earned his place in the record of the saints by an act of mercy that astonished his age. When thousands of Persian prisoners, captured in war, were being held in miserable conditions and exposed for sale, Acacius persuaded the clergy and people of Amida to melt down the sacred vessels of the church in order to ransom the captives and set them free.\n\nThe freed prisoners returned to Persia and recounted what had been done for them, and the report reached the Persian king himself, who sought to honor the bishop whose charity had surpassed the enmity of two empires. His feast is kept on April 9, and he is remembered as a patron of prisoners and of those who show mercy to enemies.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "slaves",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Your bishop Acacius to melt down the sacred vessels of Your house to ransom the captive and free the oppressed, grant through his intercession that we may hold nothing dearer than mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Acacius_of_Amida"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "auxilius-of-ireland",
+  "name": "St. Auxilius of Ireland",
+  "feastDay": "unknown",
+  "bio": "Saint Auxilius, also known as Usaille, was an early Christian missionary to Ireland, numbered among the company of laborers who first planted the Gospel in that island's soil. Long associated with Saints Patrick, Seachnaill (Secundinus), and Iserninus, he worked to establish the Church in the south of Ireland, founding churches and ordaining clergy for a people newly drawn to Christ.\n\nMore recent scholarship has tended to link him with the earlier mission of Palladius, sent by Pope Celestine I before Patrick's better-known apostolate. Whatever the precise chronology, Auxilius represents that first generation of bishops and missionaries whose quiet fidelity laid the foundations upon which the great flowering of Irish Christianity was built. His name, meaning \"help,\" fittingly marks a life given to assisting the nascent Church.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missions",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Auxilius to help establish your Church among the peoples of Ireland, grant through his intercession that missionaries may labor with faithful hearts and that the Gospel may take root where it is yet unknown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auxilius_of_Ireland"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "benjamin-the-deacon-and-martyr",
+  "name": "St. Benjamin the Deacon and Martyr",
+  "feastDay": "03-31",
+  "bio": "Benjamin was a deacon of the Church in Persia who suffered martyrdom around the year 424, during a long and savage persecution of Christians that lasted forty years and spanned the reigns of two Persian kings. Isdegerd I, who died in 421, opened the storm, and his son and successor Varanes V carried it forward with such fury that the faithful were subjected to the most cruel tortures the age could devise.\n\nBenjamin, though a deacon and not a priest, refused to abandon his ministry or his confession of Christ. For his constancy he was executed, joining the noble company of those who have bought truth with their blood. His witness recalls that the persecuting sword has fallen in every age and clime, and that the deacon's calling, born in service, has often ended in the supreme offering of life itself. His feast is kept on March 31.",
+  "patronages": [
+    {
+      "need": "deacons",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Benjamin the deacon strength to face torture and death rather than deny your Son, grant through his intercession that all who suffer for the faith may be sustained by your grace and that your Church may be worthy of her martyrs. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+  ],
+  "featured": false,
+  "draft": false
+}

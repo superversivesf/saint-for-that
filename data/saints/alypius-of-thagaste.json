@@ -1,0 +1,29 @@
+{
+  "slug": "alypius-of-thagaste",
+  "name": "St. Alypius of Thagaste",
+  "feastDay": "08-15",
+  "bio": "Alypius of Thagaste was born in North Africa and became one of the closest lifelong friends of Augustine of Hippo. Their paths wound together through the ambitions of rhetoric, the errors of Manichaeism, and finally the long conversion that brought them both to baptism at Milan in 387 at the hands of St. Ambrose.\n\nAlypius was a man of high integrity drawn to truth. Augustine's Confessions records how he resisted the circus games yet was pulled back by friends, and how he overcame the pull of the arena through grace. After their conversion, Alypius returned to Africa and, around 394, became bishop of Thagaste. He helped Augustine establish monastic life there.\n\nMost of what is known of him comes from Augustine's pen. He died around 430, and his feast is kept on August 15.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who bound St. Alypius to Your servant Augustine in a friendship that led them both to the waters of baptism, grant through his intercession that we may walk with true companions on the road back to You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alypius_of_Thagaste"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "abibion",
+  "name": "St. Abibion",
+  "feastDay": "unknown",
+  "bio": "Abibion was one of the founders of the Bet-Coryph monastery in Byzantine Syria, together with Eusebonas, and he served as the first abbot of that house. He received his instruction from Eusebius, and under his guidance the young community took root in the Syrian landscape, where monasticism flourished in caves and cells cut from the rock.\n\nAs abbot, Abibion shaped the rhythms of prayer and labor that defined the Bet-Coryph brotherhood. The monks of Syria were known for their austerity, their long vigils, and their devotion to the Psalms, and Abibion's leadership helped establish a tradition that would endure for generations.\n\nHe is remembered in the Heiligen-Lexicon, and though the date of his feast, if he had one, has been lost, his witness endures as a founder of one of the ancient houses of Syrian monasticism.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired Your servant Abibion to found a house of prayer in the Syrian desert and to gather brothers in Your service, grant through his intercession that we may build our lives on the rock of Your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abibion"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "auxentius-of-bithynia",
+  "name": "St. Auxentius of Bithynia",
+  "feastDay": "02-14",
+  "bio": "Auxentius of Bithynia was a hermit born in Syria around the year 400, who left the world behind to pursue Christ in solitude upon Mount Scopas in Bithynia. Renouncing the distractions of city and society, he gave himself to prayer, fasting, and the silence of the heights, drawing disciples who sought his counsel even as he sought only God.\n\nHe died on February 14, 473, having spent decades in ascetic struggle. His memory endured among the monastic communities of Asia Minor as an example of that single-hearted devotion which strips away everything but the love of Christ. The mountain that sheltered his prayers became a reminder that the kingdom of God is often found by those who climb beyond the noise of the world.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Auxentius to the silence of the mountain and the solitude of your love, grant through his intercession that we may find in stillness the depth of prayer that the world cannot give. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Auxentius_of_Bithynia"
+  ],
+  "featured": false,
+  "draft": false
+}
