@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Romanos_the_Melodist"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1649._%D0%9F%D0%B0%D0%BA%D1%80%D0%BE%D1%9E.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Romanos the Melodist"
+  }
 }

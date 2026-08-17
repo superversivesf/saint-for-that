@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Kinga_of_Poland"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%C5%9Awi%C4%99ta_Kinga.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kinga"
+  }
 }

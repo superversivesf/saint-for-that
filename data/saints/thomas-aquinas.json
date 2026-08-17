@@ -21,5 +21,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Thomas_Aquinas"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/960px-St-thomas-aquinasFXD.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Thomas Aquinas"
+  }
 }

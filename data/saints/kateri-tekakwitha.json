@@ -20,5 +20,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/CatherinaeTekakwithaVirginis1690.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kateri Tekakwitha"
+  }
 }

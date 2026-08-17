@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Rose_of_Lima"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg/960px-Sta_Rosa_de_Lima_por_Claudio_Coello.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rose of Lima"
+  }
 }

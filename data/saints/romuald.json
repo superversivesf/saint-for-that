@@ -20,5 +20,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Romuald"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fra_Angelico_032.jpg/960px-Fra_Angelico_032.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Romuald"
+  }
 }

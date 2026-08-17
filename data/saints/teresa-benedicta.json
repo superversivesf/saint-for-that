@@ -20,5 +20,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Edith_Stein"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Edith_Stein_%28ca._1938-1939%29.jpg/960px-Edith_Stein_%28ca._1938-1939%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Teresa Benedicta of the Cross"
+  }
 }

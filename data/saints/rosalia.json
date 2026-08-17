@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Rosalia"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthonis_van_Dyck_084.jpg/960px-Anthonis_van_Dyck_084.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rosalia"
+  }
 }

@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Mother_Teresa"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/960px-Mother_Teresa_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Teresa of Calcutta"
+  }
 }

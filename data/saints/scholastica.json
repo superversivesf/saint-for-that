@@ -20,5 +20,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Scholastica"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kleinmariazell_-_Altar_Scholastica_2.jpg/960px-Kleinmariazell_-_Altar_Scholastica_2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Scholastica"
+  }
 }

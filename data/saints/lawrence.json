@@ -16,5 +16,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Lawrence"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lawrence-before-Valerianus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lawrence"
+  }
 }

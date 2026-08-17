@@ -17,5 +17,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg/960px-Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Teresa of Avila"
+  }
 }

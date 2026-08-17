@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Timothy"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Saint_Timothy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Timothy"
+  }
 }

@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Juliana_Falconieri"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg/960px-Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Juliana Falconieri"
+  }
 }

@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/San_Lorenzo_da_Brindisi.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lawrence of Brindisi"
+  }
 }

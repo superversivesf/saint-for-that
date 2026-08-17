@@ -20,5 +20,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Katharine_Drexel"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BensalemPA_DrexelShrineEntrance.jpg/960px-BensalemPA_DrexelShrineEntrance.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Katharine Drexel"
+  }
 }

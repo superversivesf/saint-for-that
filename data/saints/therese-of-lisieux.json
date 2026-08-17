@@ -17,5 +17,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Thérèse of Lisieux"
+  }
 }

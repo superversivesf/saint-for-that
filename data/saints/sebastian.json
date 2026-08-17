@@ -20,5 +20,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Saint_Sebastian"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Sebastian_by_Sodoma.jpg/960px-St._Sebastian_by_Sodoma.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sebastian"
+  }
 }

@@ -19,5 +19,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Tarcisius"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Statue-Orsay-03.jpg/960px-Statue-Orsay-03.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tarcisius"
+  }
 }

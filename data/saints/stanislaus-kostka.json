@@ -16,5 +16,10 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
-  ]
+  ],
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stanislaus_Kostka_Legros_n1.jpg/960px-Stanislaus_Kostka_Legros_n1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Stanislaus Kostka"
+  }
 }
