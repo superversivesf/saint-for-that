@@ -1,0 +1,25 @@
+{
+  "slug": "cewydd",
+  "name": "St. Cewydd",
+  "feastDay": "unknown",
+  "bio": "Saint Cewydd was a pre-congregational saint of Wales, venerated in the Early Middle Ages as one of the holy figures who planted the Christian faith among the Welsh. He is remembered above all as the Welsh \"Rain Saint,\" a counterpart to Saint Medard in France, Saint Gildas in Brittany, and Saint Swithin in England, whose feast days likewise became associated with weather lore. A pre-Christian rain observance, apparently tied to a date in July, was grafted onto his cult: if rain fell on that day, it was believed that wet weather would continue for forty days. This blending of folk tradition and Christian devotion made Cewydd a beloved intercessor for those whose lives and harvests depended on the heavens, and he remains a quiet emblem of the faith's roots in the land and its seasons.",
+  "patronages": [
+    {
+      "need": "rain",
+      "category": "nature"
+    },
+    {
+      "need": "good weather",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Cewydd an intercessor for the rains that water the earth and sustain all that grows, grant through his prayers that we may receive from Your hand the weather we need, and learn to trust You in every season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cewydd"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "abba-yem-ata",
+  "name": "St. Abba Yem'ata",
+  "feastDay": "11-02",
+  "bio": "Abba Yäm'ata, or Yem'ata, was one of the Nine Saints of Ethiopia, a group of holy men who in the late fifth century arrived from the Roman East to strengthen and shape the young Christian Church of the Aksumite kingdom. Tradition holds that these saints came from Syria and elsewhere, bringing with them the ascetic and monastic traditions of the desert. They evangelized the peoples of the Ethiopian highlands, founded monastic communities, translated Scripture and spiritual writings, and rooted the faith deeply in the soil of Africa. Abba Yem'ata's witness, joined to that of his companions, helped establish the Church of Ethiopia on a firm foundation of prayer, learning, and missionary zeal.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent the Nine Saints, among them Abba Yem'ata, to plant Your Church among the peoples of Ethiopia, grant through their intercession that the Gospel may bear fruit in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abba_Yem%27ata"
+  ],
+  "featured": false,
+  "draft": false
+}

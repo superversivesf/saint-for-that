@@ -1,0 +1,21 @@
+{
+  "slug": "cyprian-of-toulon",
+  "name": "St. Cyprian of Toulon",
+  "feastDay": "10-03",
+  "bio": "Saint Cyprian was bishop of Toulon in Provence during the sixth century, shepherding his diocese in the turbulent decades following the collapse of Roman authority in Gaul. He is numbered among the pre-congregational saints of southern France, a generation of bishops who preserved the faith and maintained ecclesiastical order amid the migrations and conflicts of the early medieval period. Little is recorded of his episcopate beyond his office and his veneration, yet his memory endured among the people of Toulon. His feast on October 3 marks the quiet but essential work of the bishops who kept the Church alive in uncertain times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Cyprian as bishop of Toulon in days of uncertainty and change, grant through his intercession that we may remain steadfast in faith when the world around us trembles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyprian_of_Toulon"
+  ],
+  "featured": false,
+  "draft": false
+}

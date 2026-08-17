@@ -1,0 +1,25 @@
+{
+  "slug": "arthelais",
+  "name": "St. Arthelais",
+  "feastDay": "03-03",
+  "bio": "Saint Arthelais, who lived from 544 to 560, is venerated as one of the patron saints of Benevento in southern Italy, alongside Saint Barbatus and Saint Bartholomew. Though she died young, at about sixteen years of age, her short life was marked by a reputation for holiness that endured through the centuries. She is invoked by those who suffer illness and by people in exile, by the sick and by those who have been carried off against their will. Her feast day is kept on the third of March. The people of Benevento have honored her among their heavenly protectors since the early Middle Ages, and she remains a patron of all who are afflicted in body or driven from their homes.",
+  "patronages": [
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in your providence gave St. Arthelais as a protector to the sick and to those driven from their homes, grant through her intercession that all who suffer in body or in exile may find healing, shelter, and the comforting nearness of your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arthelais"
+  ],
+  "featured": false,
+  "draft": false
+}

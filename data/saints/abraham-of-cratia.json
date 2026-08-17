@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-cratia",
+  "name": "St. Abraham of Cratia",
+  "feastDay": "12-06",
+  "bio": "Abraham of Cratia, also called Krateia, was a Christian monk from Emesa in Byzantine Syria who became one of the most significant bishops of the see of Kratia. From the foundation of that see in the second century until its dissolution in the twelfth, no occupant was more honored than Abraham, who gave it its monastic character and pastoral reputation.\n\nHe embraced the monastic life in Syria and carried that discipline with him into episcopal office, governing his diocese as a shepherd who was himself a man of prayer. His feast is kept on December 6, when the Eastern churches remember the bishops who wedded administration to asceticism. He is invoked as a patron of bishops and of monks called to positions of governance.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made Abraham of Cratia both a monk and a bishop, governing your Church with the heart of a shepherd and the discipline of a contemplative, grant through his intercession that all pastors may serve you in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Cratia"
+  ],
+  "featured": false,
+  "draft": false
+}

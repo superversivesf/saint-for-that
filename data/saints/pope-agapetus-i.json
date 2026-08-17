@@ -1,0 +1,25 @@
+{
+  "slug": "pope-agapetus-i",
+  "name": "St. Agapetus I",
+  "feastDay": "04-22",
+  "bio": "Pope Agapetus I was bishop of Rome from May 13, 535, until his death on April 22, 536. His father, Gordianus, was a Roman priest, and he may have been related to two other popes, Felix III and Gregory the Great. He inherited a Church under pressure from the Gothic wars and a see entangled in the politics of the Eastern capital.\n\nHe traveled to Constantinople at the request of the Gothic king Theodahad to negotiate peace, but used the occasion to confront the Monophysite patriarch Anthimus and secure the election of an orthodox successor, Mennas. He died in Constantinople and his relics were returned to Rome. He is invoked as a patron of those who defend orthodox faith under political pressure.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened Pope Agapetus to confess your truth before emperors and to guard the faith of your Church, grant through his intercession that all who shepherd your people may stand firm against every error. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Agapetus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

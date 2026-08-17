@@ -1,0 +1,21 @@
+{
+  "slug": "barvitus",
+  "name": "St. Barvitus",
+  "feastDay": "unknown",
+  "bio": "Barvitus is a shadowy figure among the early Scottish saints, said to have been a disciple of St. Brendan and his companion in his wanderings. Modern scholarship, notably the work of David E. Thornton, suggests that Barvitus may be a manifestation of the cult of St. Finbarr, the great saint of north-east Ulster, whose name and traditions traveled with Irish missionaries into Scotland. The blending of names and stories across the Gaelic world reflects how the memory of the saints was carried by monks and pilgrims along the sea roads between Ireland and northern Britain. Though his feast day is not recorded, Barvitus stands as a reminder of how the early Celtic Church wove together the memory of its holy men across the islands.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who guided St. Barvitus as a disciple and companion on the journeys of the Celtic saints, grant through his intercession that we may walk faithfully in the company of Your holy ones. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barvitus"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "baglan",
+  "name": "St. Baglan",
+  "feastDay": "unknown",
+  "bio": "Saint Baglan was a sixth-century hermit who lived at Baglan in Wales, giving his name to the parish and church that preserve his memory. He is reckoned among the early Celtic saints who brought the Christian faith to the valleys and hills of Wales, living a life of solitude, prayer, and missionary zeal. Though few details of his life survive, tradition links him to the wider movement of Welsh saints who established churches and hermitages across the landscape. His feast day is not firmly recorded, yet his name endured in the place where he prayed and labored. Baglan stands among those quiet witnesses whose holiness is remembered not in books but in the very stones of the land they sanctified.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Baglan to seek You in the solitude of the Welsh countryside, grant through his intercession that we may find in silence and prayer the depth of union with You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Baglan"
+  ],
+  "featured": false,
+  "draft": false
+}

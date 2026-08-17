@@ -1,0 +1,25 @@
+{
+  "slug": "abran",
+  "name": "St. Abran",
+  "feastDay": "05-08",
+  "bio": "Saint Abran was a sixth-century Irish hermit who crossed the sea to live as a solitary in Brittany, joining the great tide of Celtic monks who left Ireland to pilgrim for Christ. The Irish called such wanderers \"pilgrims for the love of God,\" men who abandoned homeland and kin to settle in wild and unfrequented places, there to pray alone. Abran made his cell in the Armorican peninsula, where the Breton countryside was being seeded with monastic settlements by expatriate Irishmen.\n\nHis feast is kept on May 8, and his name survives in the local hagiography of Brittany among the hermits remembered for their quiet intercession. He is invoked as a patron of hermits and of all who have left home to seek God in a foreign land.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Abran to leave his homeland and seek you in the solitude of Brittany, grant through his intercession that all who journey far for your sake may find in you their true home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abran"
+  ],
+  "featured": false,
+  "draft": false
+}

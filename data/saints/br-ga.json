@@ -1,0 +1,25 @@
+{
+  "slug": "br-ga",
+  "name": "St. Bríga",
+  "feastDay": "01-21",
+  "bio": "Saint Bríga is honored as the foundress of the monastery of Oughter Ard in Ardclough, County Kildare, one of the many houses of prayer that dotted the Irish landscape in the early Christian centuries. Her memory is also linked to Brideschurch near Sallins, and possibly to Kilbride in County Waterford, signs of a devotion that spread across the Irish countryside. Like so many holy women of the Celtic Church, she exchanged the comforts of the world for the silence of the cloister, gathering sisters around her in a life of prayer, work, and praise. Her feast is kept on January 21. Though few details of her life survive, her monasteries stood as beacons of faith in a land already luminous with sanctity, and her name is still whispered among the saints of Ireland.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bríga to found a house of prayer at Oughter Ard, grant through her intercession that we may build our lives on the foundation of faith and find in solitude the strength to serve You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Br%C3%ADga"
+  ],
+  "featured": false,
+  "draft": false
+}

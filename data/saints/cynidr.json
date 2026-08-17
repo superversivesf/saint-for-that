@@ -1,0 +1,21 @@
+{
+  "slug": "cynidr",
+  "name": "St. Cynidr",
+  "feastDay": "unknown",
+  "bio": "Saint Cynidr was a sixth-century Catholic pre-congregational saint of South Wales and the first bishop of Glasbury in Powys. Ministering in the early days of the Celtic Church, he helped establish the Christian presence in the Wye valley, founding a see at Glasbury that served the surrounding peoples. Little is recorded of his life beyond his episcopal office and his enduring connection to the place, but his memory persisted through local devotion. He represents the generation of pioneering bishops who, in the aftermath of Roman Britain, laid the foundations of ecclesiastical order in the Welsh kingdoms.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who appointed St. Cynidr as the first bishop of Glasbury to shepherd Your people in South Wales, grant through his intercession that we may be faithful shepherds of those entrusted to our care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cynidr"
+  ],
+  "featured": false,
+  "draft": false
+}

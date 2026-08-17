@@ -1,0 +1,25 @@
+{
+  "slug": "cenydd",
+  "name": "St. Cenydd",
+  "feastDay": "unknown",
+  "bio": "Saint Cenydd, sometimes anglicised as Saint Kenneth, was a Christian hermit on the Gower Peninsula in Wales, one of that ancient company of Celtic solitaries who sought God in the quiet of wild and lonely places. In the early Welsh Church, hermits and monks gave themselves to prayer along the coasts and in the hills, and their cells became the seeds from which churches grew.\n\nCenydd is credited with the foundation of the church at Llangennith on the Gower, a place whose name honors him and which remains a site of Christian worship. The hermit's life, though hidden from the world, was not without fruit: from his prayer flowed a lasting heritage of faith in that corner of Wales. The date of his feast is not firmly recorded, but the people of the Gower have long honored him as patron.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Cenydd to seek you in solitude on the Gower coast and to found a church that would stand for generations, teach us to find you in the quiet places of our lives and to root our prayer in your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cenydd"
+  ],
+  "featured": false,
+  "draft": false
+}

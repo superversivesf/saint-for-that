@@ -1,0 +1,21 @@
+{
+  "slug": "clydwyn",
+  "name": "St. Clydwyn",
+  "feastDay": "unknown",
+  "bio": "Saint Clydwyn is a sixth-century pre-congregational saint of Wales, numbered among the early holy ones whose witness helped establish the Christian faith in the Welsh kingdoms before formal processes of canonization existed. Little biographical detail has survived the centuries; the tradition of his sanctity rests chiefly on local veneration and the memory of his place among the founding saints of the Welsh Church. Though he lived before the Congregation of Rites formalized canonization, the faithful handed down his name as worthy of honor. He belongs to the great cloud of Celtic witnesses whose quiet fidelity planted the seeds of a faith that would endure for generations, and his feast, though not widely fixed, keeps alive the memory of a holy life lived in the dawn of Welsh Christianity.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Clydwyn through the devotion of generations who knew no formal decree, grant through his intercession that our own faithfulness may leave behind a legacy of holiness for those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clydwyn"
+  ],
+  "featured": false,
+  "draft": false
+}

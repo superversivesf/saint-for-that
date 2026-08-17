@@ -1,0 +1,29 @@
+{
+  "slug": "xenia-of-rome",
+  "name": "St. Xenia of Rome",
+  "feastDay": "01-24",
+  "bio": "Xenia the Righteous of Rome was a saint of the fifth century, honored by both Orthodox and Catholic Christians. Born Eusebia, the only daughter of a wealthy Roman senator, she faced an arranged marriage that her conscience could not accept. Together with two devoted servants, she fled her father's house, sailing first to the island of Kos and then onward to Mylasa in Asia Minor. There she took the name Xenia, meaning \"stranger,\" and sought a deserted place where she might live unknown to her family. She devoted herself to prayer and asceticism, embracing exile for the love of Christ. Her flight from comfort became a lifelong pilgrimage of holiness, and she is remembered as a model of those who renounce the world to seek God alone.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Xenia to leave behind home and worldly honor and to live as a stranger for the sake of Christ, grant through her intercession that we may find our true home in You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xenia_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

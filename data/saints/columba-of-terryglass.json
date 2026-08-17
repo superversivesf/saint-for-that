@@ -1,0 +1,25 @@
+{
+  "slug": "columba-of-terryglass",
+  "name": "St. Columba of Terryglass",
+  "feastDay": "12-12",
+  "bio": "Saint Columba of Terryglass, also called Colum, was born of noble Leinster stock, the son of Ninnidh and a descendant of Crinthainn, King of Leinster. In the great age of Irish monasticism he was drawn to the school of St. Finnian at Clonard, that renowned nursery of saints, where he became one of the Twelve Apostles of Ireland, that blessed company of monks who carried the Gospel across the island and beyond. At Terryglass in County Tipperary he founded a monastery, one of the many houses that spread the light of learning and prayer through early medieval Ireland. There he governed his community with wisdom and taught the faith to the people of the surrounding countryside, living out the penitential and scholarly discipline of the Irish monastic way.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Columba of Terryglass to be a disciple of Finnian and a founder of monasteries, grant through his intercession that we may be eager to learn the faith and faithful in building up your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columba_of_Terryglass"
+  ],
+  "featured": false,
+  "draft": false
+}

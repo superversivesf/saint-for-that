@@ -1,0 +1,21 @@
+{
+  "slug": "agnes-of-poitiers",
+  "name": "St. Agnes of Poitiers",
+  "feastDay": "05-13",
+  "bio": "Saint Agnes of Poitiers was a French abbess recognized in her own day for her holiness and intelligence and called a model of the conventual life. She served as abbess of the Holy Cross convent in Poitiers, the monastery founded by St. Radegund, the Frankish queen who took the veil. Under Agnes the community became one of the most celebrated religious houses of Merovingian Gaul, and the poet Venantius Fortunatus, who lived at the court, sang its praises.\n\nShe governed her nuns with wisdom until her death in 586, forming them in the liturgical prayer and ascetic discipline that characterized the great convents of early medieval France. Her feast is kept on May 13. She is invoked as a patron of nuns and of abbesses, and of all women charged with the spiritual leadership of a community.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made the abbess Agnes of Poitiers a model of the conventual life and a wise shepherd of her nuns, grant through her intercession that all women religious may serve you in holiness and joy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Agnes_of_Poitiers"
+  ],
+  "featured": false,
+  "draft": false
+}

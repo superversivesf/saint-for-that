@@ -1,0 +1,25 @@
+{
+  "slug": "brioc",
+  "name": "St. Brioc",
+  "feastDay": "05-01",
+  "bio": "Brioc was a 6th-century Welsh holy man who crossed the sea to Brittany and became the first abbot of Saint-Brieuc, the city that still bears his name. He is counted among the seven founder saints of Brittany, those missionary monks who planted the Gospel firmly in Armorican soil and shaped the faith of a people. Leaving his Welsh homeland, Brioc gathered disciples around him, teaching them the way of Christ through prayer, labor, and the example of his own holiness. His monastery became a center from which the Christian faith radiated across the region. His feast is kept on May 1. Remembered as a shepherd of souls and a bridge between the Celtic and Breton churches, he stands among the great missionary abbots who turned a pagan land toward the light of Christ.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Brioc across the sea to plant the Gospel in Brittany, grant through his intercession that we may carry the light of Christ to every place we are called to serve. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brioc"
+  ],
+  "featured": false,
+  "draft": false
+}

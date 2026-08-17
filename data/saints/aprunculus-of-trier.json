@@ -1,0 +1,21 @@
+{
+  "slug": "aprunculus-of-trier",
+  "name": "St. Aprunculus of Trier",
+  "feastDay": "04-22",
+  "bio": "Saint Aprunculus of Trier became Bishop of Trier around the year 525, succeeding Fibicius in one of the most ancient and illustrious sees of Gaul. Though his episcopate was brief, serving only about a year before his own death in 526, he inherited a diocese shaped by centuries of Christian witness in the Rhineland. Trier had been a stronghold of the faith since Roman times, and Aprunculus governed it in a period of transition between the late antique and early medieval worlds. He was succeeded by Nicetius, another noted bishop of Trier. Though the records of his life are sparse, his inclusion in the roll of the saints of Trier testifies to a reputation for holiness recognized by the faithful of his time.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in every age raises up shepherds for your Church, grant through the intercession of St. Aprunculus that those who govern dioceses may serve with fidelity, however brief their tenure, and leave behind a legacy of faithfulness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aprunculus_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

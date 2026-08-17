@@ -1,0 +1,21 @@
+{
+  "slug": "brendan-of-birr",
+  "name": "St. Brendan of Birr",
+  "feastDay": "11-29",
+  "bio": "Brendan of Birr was one of the early Irish monastic saints, a monk and later an abbot of the sixth century. He is known as \"Saint Brendan the Elder\" to distinguish him from his contemporary and friend Brendan the Navigator of Clonfert. He was one of the Twelve Apostles of Ireland, that remarkable company of monks who studied under St. Finnian at Clonard and went out to found monasteries across the island. Brendan was a friend and disciple of Columba, and at the great Assembly of Druim Ceat he is said to have embraced Columba and foreseen his coming death. His monastery at Birr in County Offaly became a center of learning and prayer. He is remembered as one of the founding fathers of Irish monasticism, a man whose quiet fidelity helped build the civilization of the saints.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Brendan of Birr a pillar of Irish monasticism and a faithful friend to St. Columba, grant through his intercession that we may build Your Church in steadfast love and prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brendan_of_Birr"
+  ],
+  "featured": false,
+  "draft": false
+}

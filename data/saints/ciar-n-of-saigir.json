@@ -1,0 +1,25 @@
+{
+  "slug": "ciar-n-of-saigir",
+  "name": "St. Ciarán of Saigir",
+  "feastDay": "03-05",
+  "bio": "Saint Ciarán of Saigir, also known as Ciarán mac Luaigne or Saint Kieran, was one of the Twelve Apostles of Ireland and is traditionally regarded as the first saint born on Irish soil. Legend tells that he preceded Saint Patrick in arriving to preach the faith, though the chronology remains questionable and the tale partakes more of devotion than of history. Ciarán served as bishop of Saighir, often called Seir-Kieran, and is honored as the patron saint of its successor, the Diocese of Ossory. Among the earliest heralds of Christianity in Ireland, he stands at the threshold of Irish sanctity, a figure whose memory links the pre-Patrician dawn of the faith with the Church that followed. His feast is kept on March 5.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Ciarán of Saigir a pioneer of faith on Irish soil before the great harvest of conversion had begun, grant through his intercession that we may sow Your word with courage and trust You for the growth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ciar%C3%A1n_of_Saigir"
+  ],
+  "featured": false,
+  "draft": false
+}

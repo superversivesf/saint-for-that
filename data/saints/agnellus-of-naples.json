@@ -1,0 +1,25 @@
+{
+  "slug": "agnellus-of-naples",
+  "name": "St. Agnellus of Naples",
+  "feastDay": "12-14",
+  "bio": "Agnellus of Naples, also called Aniello the Abbot, was a Basilian monk and later an Augustinian friar who lived in Naples in the early centuries of southern Italian Christianity. He embraced first the Byzantine Basilian rule and then the Latin Augustinian discipline, embodying the bridge between the Greek and Latin traditions that marked the Church of Naples in the first millennium.\n\nHe is venerated as a patron and co-patron of several southern Italian communities, including the city of Naples itself, Sant'Agnello, Roccarainola, Guarcino, Rodio, and Pisciotta. His feast is kept on December 14, the day of his death. He is invoked as a patron of the city of Naples and of those who live under the protection of a holy intercessor.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the monk Agnellus to watch over the city of Naples and the towns that claim his patronage, grant through his intercession that all who dwell under his protection may be kept safe in body and soul. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Agnellus_of_Naples"
+  ],
+  "featured": false,
+  "draft": false
+}

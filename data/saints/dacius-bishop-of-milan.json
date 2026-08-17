@@ -1,0 +1,25 @@
+{
+  "slug": "dacius-bishop-of-milan",
+  "name": "St. Dacius",
+  "feastDay": "01-14",
+  "bio": "Saint Dacius, also known as Datius, served as Bishop of Milan from approximately 530 to 552, leading one of the most important sees of the Western Church during a turbulent era of Gothic rule and imperial conflict. He succeeded to the chair once occupied by St. Ambrose and guided the Milanese church through the political upheavals that followed the fall of the Western Empire. He is honored as a saint in both the Catholic Church and the Orthodox Church, a testimony to the unity of the early medieval communion. His feast on January 14 marks a bishop who, standing in the tradition of Ambrose, kept the faith in difficult times and passed it on intact to those who came after.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Dacius a faithful successor in the see of St. Ambrose, grant through his intercession that we may preserve the unity of the faith amid the troubles of our age. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dacius_(bishop_of_Milan)"
+  ],
+  "featured": false,
+  "draft": false
+}

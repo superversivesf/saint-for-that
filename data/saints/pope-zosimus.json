@@ -1,0 +1,25 @@
+{
+  "slug": "pope-zosimus",
+  "name": "St. Zosimus",
+  "feastDay": "12-27",
+  "bio": "Pope Zosimus, bishop of Rome from March 417 until his death in December 418, governed the Church during a turbulent period marked by controversy and division. A Greek by birth, he brought an energetic and sometimes fractious temperament to the disputes of his day, involving himself in the jurisdictional quarrels between the sees of Arles and Vienne in Gaul, and in the lingering Pelagian controversy that troubled both Africa and Italy. His brief pontificate did not resolve the controversies he inherited, yet at his death the clergy of Rome were left deeply divided. Even so, the Church honors him among the saints, recognizing in him a shepherd who sought, however imperfectly, to defend the unity and discipline of the apostolic see.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. Zosimus with the chair of Peter in a time of strife, grant through his intercession that Your Church may persevere in unity despite the frailty of her shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Zosimus"
+  ],
+  "featured": false,
+  "draft": false
+}

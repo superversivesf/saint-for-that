@@ -1,0 +1,25 @@
+{
+  "slug": "canna",
+  "name": "St. Canna",
+  "feastDay": "10-25",
+  "bio": "Saint Canna was a sixth-century Welsh Christian, a mother of saints who in later life embraced the religious life as a nun in south Wales. She belonged to that noble lineage of early British Christians whose families produced multiple saints, planting the faith deep in the soil of Wales during the age of the Celtic Church.\n\nTwo Welsh churches are dedicated to her memory, a lasting sign of the honor in which the faithful held her holiness and her motherhood in Christ. Though few details of her life survive the centuries, her example as a mother who gave her children to God and then herself entered the cloister speaks across the ages. Her feast is kept on the twenty-fifth of October.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your handmaid Canna to raise saints in her own household and then to serve you in the religious life, grant that all mothers may find in you their strength and their hope. Raise up in every generation those who will seek you with an undivided heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Canna"
+  ],
+  "featured": false,
+  "draft": false
+}

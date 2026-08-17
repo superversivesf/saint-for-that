@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-of-ephesus",
+  "name": "St. Abraham of Ephesus",
+  "feastDay": "10-28",
+  "bio": "Abraham of Ephesus was a sixth-century Archbishop of Ephesus in the Byzantine Empire and a founder of monasteries. He shepherded one of the most storied sees of Christendom, the city once addressed by the Apostle John and the site of the great ecumenical council that defined Mary as Theotokos. In a time when the empire's doctrinal debates unsettled the churches of Asia Minor, Abraham labored to plant monastic communities as bulwarks of orthodoxy and prayer.\n\nHonored by both the Eastern Orthodox and Roman Catholic Churches, he is commemorated on October 28. He is invoked as a patron of bishops and of those who found and sustain religious houses, and his memory recalls the long Benedictine-like tradition of monastic reform led by bishops.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave Abraham of Ephesus zeal for your Church and for the monasteries he founded, grant through his intercession that bishops and founders may build up your people in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Ephesus"
+  ],
+  "featured": false,
+  "draft": false
+}

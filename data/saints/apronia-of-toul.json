@@ -1,0 +1,25 @@
+{
+  "slug": "apronia-of-toul",
+  "name": "St. Apronia of Toul",
+  "feastDay": "07-15",
+  "bio": "Saint Apronia of Toul, also called Evronie of Troyes, was a nun and saint of the sixth century. Born at Tranquille, a village near Trier in Germany, she was the sister of Saint Aprus of Toul, a bishop in northeastern France, from whose hand she received the religious veil. Drawn by love of Christ to the monastic life, she led, in the words of the hagiographer Sabine Baring-Gould, a virginal and angelic life, loving innocence, purity, and holiness to her dying day. She died in a convent at Troyes on the fifteenth of July and was solemnly enshrined at Toul by Bishop Saint Gerard in the year 992. She is invoked as the patroness of women in labor and of those who face danger in childbirth.",
+  "patronages": [
+    {
+      "need": "childbirth",
+      "category": "illness"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved St. Apronia in innocence and purity through all her days, look with mercy upon mothers in labor and all who face danger in childbirth, and through her intercession grant them safe deliverance and the joy of new life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apronia_of_Toul"
+  ],
+  "featured": false,
+  "draft": false
+}

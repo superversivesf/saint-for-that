@@ -1,0 +1,29 @@
+{
+  "slug": "boethius",
+  "name": "St. Boethius",
+  "feastDay": "10-23",
+  "bio": "Anicius Manlius Severinus Boethius, commonly known as Boethius, was a Roman senator, consul, magister officiorum, polymath, historian, and philosopher of the Early Middle Ages. He was a central figure in the translation of the Greek classics into Latin, a precursor to the Scholastic movement, and, alongside Cassiodorus, one of the two leading Christian scholars of the sixth century. Falling from favor under the Ostrogothic king Theodoric, he was imprisoned and executed around 525, and in prison composed the Consolation of Philosophy, one of the most widely read works of the Middle Ages. The local cult of Boethius in the Diocese of Pavia was sanctioned by the Sacred Congregation of Rites in 1883. He is venerated as a model of Christian learning sustained by faith in trial.",
+  "patronages": [
+    {
+      "need": "philosophers",
+      "category": "special"
+    },
+    {
+      "need": "scholars",
+      "category": "special"
+    },
+    {
+      "need": "translators",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Boethius in his prison to compose a consolation that has guided generations, grant through his intercession that all who suffer unjustly may find in Your wisdom the light that darkness cannot overcome. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boethius"
+  ],
+  "featured": false,
+  "draft": false
+}

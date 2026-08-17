@@ -1,0 +1,21 @@
+{
+  "slug": "zenobius-of-florence",
+  "name": "St. Zenobius of Florence",
+  "feastDay": "05-25",
+  "bio": "Saint Zenobius (c. 337–417) was the first bishop of Florence and one of the great early pastors of Tuscan Christianity. Consecrated to shepherd the fledgling Church of Florence, he labored to establish the faith amid the ruins of paganism and the uncertainties of a changing empire. Tradition credits him with miracles and with a deep pastoral zeal that won the hearts of the Florentine people. Venerated in the Catholic Church, his feast is celebrated on May 25. He is honored as a father of the Church of Florence, whose memory shaped the Christian identity of that city for centuries to come. His relics and cult remain a living part of Florence's patrimony.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Zenobius a faithful first shepherd of Your Church in Florence, grant through his intercession that all bishops may govern with the zeal and compassion of Christ the Good Shepherd. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zenobius_of_Florence"
+  ],
+  "featured": false,
+  "draft": false
+}

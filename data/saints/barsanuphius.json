@@ -1,0 +1,25 @@
+{
+  "slug": "barsanuphius",
+  "name": "St. Barsanuphius",
+  "feastDay": "02-06",
+  "bio": "Barsanuphius, also known as Barsanuphius of Palestine, Barsanuphius of Gaza, or Barsanuphius the Great, was a sixth-century Christian hermit and spiritual writer who dwelt in a cell near the monastery of Seridos outside Gaza. He is counted among the Desert Fathers and is venerated as a patron of Oria in Italy. Barsanuphius lived in strict enclosure for decades, communicating with the world only through letters, of which some eight hundred survive, addressed to monks, bishops, and laypeople seeking counsel. Together with his disciple John the Prophet, he offered guidance on every conceivable question of the spiritual life, from monastery governance to the warfare of temptation. His feast is kept on February 6, and his letters remain a treasury of wisdom.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Barsanuphius the gift of wise counsel from the silence of his cell, grant through his intercession that we may discern Your will and walk humbly in the way of Your commandments. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barsanuphius"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "conval",
+  "name": "St. Conval",
+  "feastDay": "09-28",
+  "bio": "Saint Conval, also called Conwall, was an Irish-born missionary who longed to carry the Gospel to the lands beyond the sea. According to the legend preserved in the Aberdeen Breviary, while he prayed on the shore of Ireland asking to be borne across the waters by whatever means God should provide, the very stone on which he stood was miraculously loosened and carried him over the Irish Sea to Inchinnan in Scotland. He landed in the Kingdom of Strathclyde and labored there among the Britons and the incoming peoples of the west of Scotland, founding churches at Inchinnan, Pollokshaws, and Fereneze. Holy wells bearing his name sprang up at Barrhead and Thornliebank, places where the faithful came for centuries to seek healing and to honor the saint.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "jobs"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who carried St. Conval across the sea on a stone to bring the Gospel to the people of Strathclyde, grant through his intercession that we may trust your providence in every journey and carry your word wherever you lead us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Conval"
+  ],
+  "featured": false,
+  "draft": false
+}

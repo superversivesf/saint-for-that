@@ -1,0 +1,21 @@
+{
+  "slug": "colm-n-of-dromore",
+  "name": "St. Colmán of Dromore",
+  "feastDay": "06-07",
+  "bio": "Saint Colmán of Dromore, also known by the affectionate pet form Mocholmóc, was a sixth-century Irish saint venerated as the founding bishop of the see of Dromore in what is now County Down. As one of the early pastors who shaped the Church in the north of Ireland, he helped establish Christian worship and teaching in a land still freshly converted from its pagan past. The tradition of his sanctity, though sparing in biographical detail, kept his memory alive through the centuries in the diocese that honors him as patron. The use of a pet name, Mocholmóc, reflects the tenderness with which the people regarded him, a sign that holiness had made him beloved as well as respected. His feast is kept on June 7, and he remains an enduring patron of the Church in that part of Ireland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Colmán of Dromore a gentle shepherd to the people of the north, grant through his intercession that those who lead Your Church may be loved as well as obeyed, and serve with hearts made kind by Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_of_Dromore"
+  ],
+  "featured": false,
+  "draft": false
+}

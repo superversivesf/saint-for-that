@@ -1,0 +1,21 @@
+{
+  "slug": "cerbonius",
+  "name": "St. Cerbonius",
+  "feastDay": "10-10",
+  "bio": "Saint Cerbonius served as bishop of Populonia in Tuscany during the tumultuous era of the Barbarian invasions, shepherding his flock through times of violence and displacement. He is remembered chiefly through the praise of Pope Saint Gregory the Great, who honored him in Book XI of his Dialogues, the celebrated collection of saints' lives and miracles that did so much to shape medieval piety. Gregory's testimony places Cerbonius among the holy pastors of Italy whose faithfulness endured when the world around them seemed to collapse. Though the details of his life are scarce, his inclusion in so venerable a work secured his memory for centuries. He is honored as a patron of Massa Marittima, the Tuscan city that grew near the ancient see of Populonia, and his feast is kept on October 10.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Cerbonius as a faithful shepherd when the storms of invasion battered his see, grant through his intercession that all bishops may stand firm in trials and guide their people with steadfast love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cerbonius"
+  ],
+  "featured": false,
+  "draft": false
+}

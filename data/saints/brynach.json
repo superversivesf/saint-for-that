@@ -1,0 +1,25 @@
+{
+  "slug": "brynach",
+  "name": "St. Brynach",
+  "feastDay": "04-07",
+  "bio": "Saint Brynach was a 6th-century Welsh holy man traditionally associated with Pembrokeshire, where several churches are dedicated to his memory. He is remembered as one of the Celtic saints who brought the Christian faith to the western shores of Wales, living a life of prayer and preaching among the people of that rugged coast. His name is linked to springs and to the ancient stones of the Welsh landscape, signs of a holiness that sanctified both land and water. He is said to have conversed with angels on the heights of Carn Ingli, the mountain of angels, and his hermitage drew pilgrims seeking the peace of Christ. His feast is kept on April 7. He remains a patron of the Welsh countryside and of those who find God in the quiet of nature.",
+  "patronages": [
+    {
+      "need": "ecology",
+      "category": "nature"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Brynach to find You in the wild beauty of Wales, grant through his intercession that we may see Your hand in all creation and worship You in the silence of nature. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brynach"
+  ],
+  "featured": false,
+  "draft": false
+}

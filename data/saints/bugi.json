@@ -1,0 +1,21 @@
+{
+  "slug": "bugi",
+  "name": "St. Bugi",
+  "feastDay": "unknown",
+  "bio": "Bugi ab Gwynlliw Filwr was a Welsh Christian saint of the 6th century, numbered among the holy men and women who shaped the early Church in Wales. He was of the family of Gwynlliw Filwr, the warrior-turned-saint who founded the church at Newport, and Bugi carried forward that heritage of faith in his own generation. Little is recorded of his deeds, yet his name endured in the memory of the Welsh Church, kept alive by the devotion of those who honored the saints of their land. He lived in that golden age of Celtic Christianity when monks and hermits, kings' sons and peasants alike, sought God in the hills and valleys of Wales. His feast day is not recorded, but he is remembered among the communion of Welsh saints who prayed where the language of heaven seemed near.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered St. Bugi among the saints of Wales, grant through his intercession that we may carry forward the faith of our fathers and seek You with sincere hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Bugi"
+  ],
+  "featured": false,
+  "draft": false
+}

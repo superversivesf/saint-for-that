@@ -1,0 +1,21 @@
+{
+  "slug": "dall-n-forgaill",
+  "name": "St. Dallán Forgaill",
+  "feastDay": "01-29",
+  "bio": "Saint Dallán Forgaill, born Eochaid mac Colla, was an early Christian Irish poet and saint, renowned as one of the finest literary figures of the Gaelic tradition. His name Dallán, meaning \"little blind one,\" reflects a tradition that he lost his sight, yet his inner vision produced verses of extraordinary depth. He is best known as the author of the \"Amra Coluim Chille,\" a celebrated elegy for St. Columba composed after Columba's death, and, according to tradition, of \"Rop Tú Mo Baile,\" the beloved Irish hymn often rendered in English as \"Be Thou My Vision.\" His feast on January 29 honors a poet who made the Gaelic language itself a vessel of prayer, showing that holiness can be expressed in the highest art.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Dallán Forgaill with the gift of poetry and the grace to make verse a prayer, grant through his intercession that we may see You with the eyes of the heart and praise You with the gifts You have given us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dall%C3%A1n_Forgaill"
+  ],
+  "featured": false,
+  "draft": false
+}

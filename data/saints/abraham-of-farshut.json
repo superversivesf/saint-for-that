@@ -1,0 +1,21 @@
+{
+  "slug": "abraham-of-farshut",
+  "name": "St. Abraham of Farshut",
+  "feastDay": "02-12",
+  "bio": "Abraham of Farshut was a holy abbot and one of the great luminaries of the Coptic Church, venerated likewise by all the Oriental Orthodox Churches. He governed a monastery in Farshut, in Upper Egypt, where he guided his monks in the rigors of the ascetic life and the unbroken tradition of the desert fathers. Little survives in Western sources about the details of his labors, but Coptic memory holds him as a steadfast shepherd who preserved his flock through times of doctrinal turmoil.\n\nHis feast is kept on February 12 in the calendar of the Coptic Church, where he is remembered among the abbots who anchored Egyptian monasticism when the Church was strained by persecution and controversy. He is invoked as a patron of monks and of all who seek stability in the contemplative life.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up the abbot Abraham to govern his monks in holiness and preserve the monastic life in the deserts of Egypt, grant through his intercession that all who seek you in silence and prayer may stand firm in faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_of_Farshut"
+  ],
+  "featured": false,
+  "draft": false
+}

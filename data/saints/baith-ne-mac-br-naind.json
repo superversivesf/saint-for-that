@@ -1,0 +1,25 @@
+{
+  "slug": "baith-ne-mac-br-naind",
+  "name": "St. Baithéne mac Brénaind",
+  "feastDay": "06-09",
+  "bio": "Baithéne mac Brénaind was an Irish monk of the sixth century, one of the twelve followers who accompanied St. Columba from Ireland to Scotland around 563. He became Columba's trusted lieutenant and the first successor as Abbot of Iona Abbey, the great monastery that became a beacon of Christian learning and missionary zeal across northern Britain. The Annals of Tigernach record his birth in 534, and the Annals of Ulster place his death between 596 and 598. Genealogical records trace his lineage to the Cenél Conaill branch of the Northern Uí Néill, linking him to the same royal kindred as Columba himself. Baithéne thus embodied the close bond of kinship and faith that shaped the early Irish monastic movement.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Baithéne to follow Columba across the sea and govern the monastery of Iona, grant through his intercession that we may be faithful in the tasks entrusted to us and devoted to prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baith%C3%A9ne_mac_Br%C3%A9naind"
+  ],
+  "featured": false,
+  "draft": false
+}

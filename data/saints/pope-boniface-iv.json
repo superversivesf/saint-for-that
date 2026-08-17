@@ -1,0 +1,25 @@
+{
+  "slug": "pope-boniface-iv",
+  "name": "St. Boniface IV",
+  "feastDay": "05-08",
+  "bio": "Pope Boniface IV was the bishop of Rome from 608 until his death on 8 May 615. A member of the Benedictine order, he had served as a deacon under Pope Gregory the Great, and like his mentor he ran the Lateran Palace as a monastery, bringing the discipline of the cloister into the heart of the Church. As pope he encouraged monasticism throughout the West. With imperial permission, he converted the ancient Pantheon of Rome, once dedicated to all the gods, into a Christian church dedicated to the Blessed Virgin Mary and all the martyrs, a landmark in the Christian reimagining of the city. In 610 he conferred with Bishop Mellitus of London regarding the needs of the young English Church. He is venerated as a saint in the Catholic Church with a universal feast on 8 May.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Boniface IV a servant of unity between the monastic and apostolic life, and who through him hallowed the Pantheon for Your martyrs, grant through his intercession that the Church may ever find new life in the wisdom of her ancient dead. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Boniface_IV"
+  ],
+  "featured": false,
+  "draft": false
+}

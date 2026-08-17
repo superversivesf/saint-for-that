@@ -1,0 +1,25 @@
+{
+  "slug": "contentius",
+  "name": "St. Contentius",
+  "feastDay": "unknown",
+  "bio": "Saint Contentius served as bishop of Bayeux in Normandy from the year 480 until his death, governing the church of that ancient Gallic see through the difficult decades when Roman order had faded and the Frankish kingdoms were taking shape. He is honored as a saint in both the Catholic and Orthodox traditions, a sign of the unity of the early Western Church before the great schisms. As bishop he tended a flock that lived amid political upheaval and the spread of new rulers, laboring to preserve the faith, the liturgy, and the pastoral care handed down from the apostolic age. The see of Bayeux, founded in the late Roman period, relied on shepherds like Contentius to keep the light of the Gospel burning through uncertain years.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Contentius through a long episcopate in days of upheaval, grant through his intercession that your shepherds may stand firm in every age and keep the faith alive for the people entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Contentius"
+  ],
+  "featured": false,
+  "draft": false
+}

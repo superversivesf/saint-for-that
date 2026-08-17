@@ -1,0 +1,21 @@
+{
+  "slug": "colman-of-templeshambo",
+  "name": "St. Colman of Templeshambo",
+  "feastDay": "10-27",
+  "bio": "Saint Colman of Templeshambo was a holy monk of Connacht in the west of Ireland, whose memory has long been treasured though few details of his life survive. He lived in the early centuries of Irish Christianity, somewhat before his more famous namesake, the patron of Kilmacduagh, with whom later generations confused him. His ministry lay in what is now County Wexford, where he labored among the people as a pastor and monk, planting the faith in a land still dotted with pagan echoes. The place name Templeshambo itself preserves the memory of his church and his prayer. Though the chronicles tell us little, the devotion of the people kept his name alive for centuries, a quiet witness to that great flowering of Irish monastic sanctity.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Colman of Templeshambo to labor in the early fields of Irish monasticism, grant through his intercession that we may plant the seeds of faith in the places you have given us and leave behind a memory of quiet fidelity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colman_of_Templeshambo"
+  ],
+  "featured": false,
+  "draft": false
+}

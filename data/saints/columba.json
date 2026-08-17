@@ -1,0 +1,33 @@
+{
+  "slug": "columba",
+  "name": "St. Columba",
+  "feastDay": "06-09",
+  "bio": "Columba, known in Irish as Colmcille, \"dove of the church,\" was born into the royal U\u00ed N\u00e9ill line around 521 and became one of the great missionary abbots of the early medieval Church. A student of St. Finnian at Clonard and counted among the Twelve Apostles of Ireland, he founded several monasteries in Ireland, including the important house of Derry, before a dispute over a copied psalter and the ensuing Battle of C\u00fal Dreimhne sent him into exile. In penance he sailed north with twelve companions in 563, settling on the small island of Iona off the western coast of Scotland. From that windswept rock he launched the Hiberno-Scottish mission, preaching among the Gaels of D\u00e1l Riata, the Angles of Northumbria, and the Picts.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "missionaries",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "storms",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who by the preaching and exile of St. Columba brought the light of the Gospel to the peoples of northern Britain, grant through his intercession that we may carry your word with courage and find in you our true homeland. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columba"
+  ],
+  "featured": false,
+  "draft": false
+}

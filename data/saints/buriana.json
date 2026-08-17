@@ -1,0 +1,25 @@
+{
+  "slug": "buriana",
+  "name": "St. Buriana",
+  "feastDay": "05-01",
+  "bio": "Buriana, also known as Berriona, Beriana, Bruinseach, Buryan, Beryan, or Berion, was a 6th-century Irish saint who lived as a hermit at St Buryan, near Penzance in Cornwall. She was among the Irish holy women who crossed the sea to bring the Gospel to the western edges of Britain, settling in a land of stone and sea to pray in solitude. The scholar Baring-Gould identifies her with the Irish saint Bruinsech, linking her to the wider family of Celtic saints whose devotion spread across the islands. Her hermitage gave its name to the village of St Buryan, where her memory endured for centuries. Her feast is kept on May 1. She is remembered as a woman who left homeland and kindred for the love of Christ, making a Cornish wilderness a place of prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Buriana from Ireland to a hermitage in Cornwall, grant through her intercession that we may find in solitude the strength to love You above all things. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Buriana"
+  ],
+  "featured": false,
+  "draft": false
+}

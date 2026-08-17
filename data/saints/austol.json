@@ -1,0 +1,25 @@
+{
+  "slug": "austol",
+  "name": "St. Austol",
+  "feastDay": "06-28",
+  "bio": "Austol was a sixth-century Cornish holy man who spent much of his life in Brittany, crossing the sea as one of the many Celtic saints who carried the Christian faith between Britain and Armorica. He was a companion and disciple of St. Meven, and tradition links him to the founding of the church at St Austell in Cornwall, which preserves his name. His feast is kept on June 28. Like so many of the early Celtic saints, Austol lived an austere life of prayer and pilgrimage, leaving behind the comforts of his homeland to seek God in foreign lands. The town of St Austell still bears witness to his memory and the devotion he inspired among the Cornish people.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Austol to leave his homeland and seek You in pilgrimage, grant through his intercession that we too may journey faithfully toward our heavenly home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austol"
+  ],
+  "featured": false,
+  "draft": false
+}

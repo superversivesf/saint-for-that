@@ -1,0 +1,25 @@
+{
+  "slug": "colm-n-of-kilroot",
+  "name": "St. Colmán of Kilroot",
+  "feastDay": "10-16",
+  "bio": "Saint Colmán of Kilroot, known by his patronymic Colman mac Cathbaid, was a sixth-century Irish saint who served as abbot and bishop of Kilroot, a minor see in the north of Ireland that was afterwards incorporated into the Diocese of Connor. Though the see he governed was modest in size, his faithfulness in that quiet post earned him a place among the early bishops who consolidated the Christian faith across the Irish landscape. Some traditions suggest that he gave his name to Kilmackevat, linking his memory to the holy places and parish names that dot the countryside. He represents the many Irish saints whose labors were not crowned by fame but by the steady planting of the Church in the villages and townlands that received the faith. His feast is kept on October 16.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Colmán of Kilroot to serve faithfully in a humble and little-noticed see, grant through his intercession that we may find joy in quiet obedience and honor You in every work, however small it seems. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_of_Kilroot"
+  ],
+  "featured": false,
+  "draft": false
+}

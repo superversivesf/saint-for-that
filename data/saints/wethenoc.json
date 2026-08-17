@@ -1,0 +1,21 @@
+{
+  "slug": "wethenoc",
+  "name": "St. Wethenoc",
+  "feastDay": "unknown",
+  "bio": "St. Wethenoc, also known as Gwethenoc or Guethenoc, was a fifth-century Breton saint honored from before the formal processes of canonization. Little certain detail survives about his life, but he belongs to that great wave of Celtic and Armorican holiness that swept across Brittany in the early medieval period, when monks and hermits established hermitages and small communities along the rugged coast and inland forests. His memory was preserved by the devotion of the local faithful, who venerated him among the saints of pre-congregational Brittany. Though obscure to modern chroniclers, his witness points to the deep roots of Christian faith planted in Brittany by its early holy ones.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in every age raise up hidden saints whose names are preserved only by the devotion of the faithful, grant through the intercession of St. Wethenoc that we too may seek You in quietness and humility. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wethenoc"
+  ],
+  "featured": false,
+  "draft": false
+}

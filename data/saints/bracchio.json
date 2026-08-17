@@ -1,0 +1,21 @@
+{
+  "slug": "bracchio",
+  "name": "St. Bracchio",
+  "feastDay": "02-09",
+  "bio": "Saint Bracchio of Tours was a sixth-century abbot who began life as a Thuringian nobleman serving in the court of Sigiswald of Clermont. Leaving the honors of the world behind, he embraced the monastic life and rose to govern an abbey near Tours, where he guided his brothers in the ways of prayer and penance. Gregory of Tours, the great chronicler of the Frankish Church, records that Bracchio's name meant \"bear's whelp\" in the Germanic tongue, a small detail that places him among the Germanic peoples drawn into the orbit of Gallo-Roman Christianity. His feast is kept on 9 February. He is remembered as one of the many nobles of the early Middle Ages who exchanged rank and comfort for the service of Christ in the cloister.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bracchio from a noble court to the humble rule of an abbey, grant through his intercession that we may esteem the service of Christ above every earthly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bracchio"
+  ],
+  "featured": false,
+  "draft": false
+}

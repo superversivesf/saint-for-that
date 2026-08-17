@@ -1,0 +1,25 @@
+{
+  "slug": "aaron-of-aleth",
+  "name": "St. Aaron of Aleth",
+  "feastDay": "06-22",
+  "bio": "Aaron of Aleth, called Aihran or Eran in Breton, was a hermit, monk, and abbot who settled on the small island of Cézembre near Aleth, opposite Saint-Malo in Brittany, France. Some sources suggest he migrated from Celtic Britain to take up residence in Armorican Domnonia, joining the movement of Celtic saints who carried their faith across the sea to the continent. On his island hermitage he gathered disciples and governed a monastery, combining the eremitical and coenobitic ideals. His feast is kept on June 22. He is remembered as one of the founding saints of Breton Christianity, a man who exchanged homeland for the sake of Christ and made a rocky island a place of prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Aaron across the sea to make an island hermitage a school of holiness, grant through his intercession that we may find in solitude the strength to serve You and our brothers and sisters. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aaron_of_Aleth"
+  ],
+  "featured": false,
+  "draft": false
+}

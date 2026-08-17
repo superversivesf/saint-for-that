@@ -1,0 +1,29 @@
+{
+  "slug": "anastasia-the-patrician",
+  "name": "St. Anastasia the Patrician",
+  "feastDay": "03-10",
+  "bio": "Saint Anastasia the Patrician was a noble Byzantine courtier who served as lady-in-waiting to the Empress Theodora in Constantinople. When the emperor Justinian I reportedly turned his attentions toward her and Theodora grew jealous, Anastasia chose flight rather than scandal. She left the imperial city for Alexandria in Egypt and settled at Pempton, near the great metropolis, where she founded a monastery that would later bear her name. There she embraced monastic discipline with fervor, supporting herself by weaving cloth and living hidden in Christ. Her flight from worldly power became a passage into holiness, and her monastery became a house of prayer where she spent her days in penance and quiet devotion.",
+  "patronages": [
+    {
+      "need": "weavers",
+      "category": "everyday"
+    },
+    {
+      "need": "single women",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Anastasia from the courts of emperors to the silence of the cloister, grant through her intercession that we may value purity of heart above earthly favor and find in hidden lives the peace that the world cannot give. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_the_Patrician"
+  ],
+  "featured": false,
+  "draft": false
+}

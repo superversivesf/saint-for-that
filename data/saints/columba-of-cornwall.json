@@ -1,0 +1,29 @@
+{
+  "slug": "columba-of-cornwall",
+  "name": "St. Columba of Cornwall",
+  "feastDay": "11-11",
+  "bio": "Saint Columba of Cornwall was a sixth-century virgin and martyr of the western Britons. According to tradition long preserved in the Cornish countryside, she was born into pagan royalty, yet from her earliest years her heart was drawn to the Gospel. Converting to Christianity against the wishes of her family, she devoted herself to Christ in virginity and prayer. When her parents sought to force her into an arranged marriage, she refused, choosing her heavenly Bridegroom over an earthly crown. In fury her persecutors put her to death, and so she won the palm of martyrdom. The towns of St Columb Major and St Columb Minor in Cornwall still bear her name, and a holy well and church mark the places where the faithful have long gathered to honor her memory.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened the virgin martyr Columba to choose your Son over the promises of earthly royalty, grant through her intercession that all who face pressure to forsake their calling may stand firm in the freedom of your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Columba_of_Cornwall"
+  ],
+  "featured": false,
+  "draft": false
+}

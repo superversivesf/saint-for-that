@@ -1,0 +1,29 @@
+{
+  "slug": "ciar-n-of-clonmacnoise",
+  "name": "St. Ciarán of Clonmacnoise",
+  "feastDay": "09-09",
+  "bio": "Saint Ciarán of Clonmacnoise, born Ciarán mac an tSaeir, was one of the Twelve Apostles of Ireland and the first abbot of the great monastery at Clonmacnoise, founded on the banks of the River Shannon. He is sometimes called Ciarán the Younger to distinguish him from the fifth-century Saint Ciarán the Elder, bishop of Osraige. Trained under Saint Finnian at Clonard, he numbered among his companions many of Ireland's foundational saints and helped shape the golden age of Irish monasticism. Though he ruled as abbot only briefly before his death, the monastery he established became one of the most illustrious centers of learning and piety in medieval Europe, drawing scholars, scribes, and pilgrims for centuries. His name survives in many variant spellings, a testament to his wide veneration.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ciarán to found a monastery that became a beacon of learning and holiness, grant through his intercession that we may build our lives on the truth of Your Word and labor faithfully for Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ciar%C3%A1n_of_Clonmacnoise"
+  ],
+  "featured": false,
+  "draft": false
+}

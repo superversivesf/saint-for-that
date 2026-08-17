@@ -1,0 +1,25 @@
+{
+  "slug": "armel",
+  "name": "St. Armel",
+  "feastDay": "08-16",
+  "bio": "Saint Armel was an early sixth-century holy man of Brittany, one of the many Celtic and Breton saints whose lives are known to us more through local devotion than through detailed written record. He belongs to the great age of Breton sanctity, when monks and hermits carried the faith across the western edges of Christendom, establishing hermitages, preaching the Gospel, and shaping the religious landscape of Armorica. Though the surviving particulars of his life are few, his memory endured in the piety of the Breton people, who honored him as one of their own. His feast is kept on August 16. He is invoked as a patron of Brittany and remembered among the holy men who brought Christ to the far shores of the Celtic world.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Armel to the wild and windswept shores of Brittany, there to live for you in solitude and prayer, grant through his intercession that we may find in stillness the presence we too often seek in noise. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Armel"
+  ],
+  "featured": false,
+  "draft": false
+}

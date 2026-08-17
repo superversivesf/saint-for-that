@@ -1,0 +1,25 @@
+{
+  "slug": "cybi",
+  "name": "St. Cybi",
+  "feastDay": "08-13",
+  "bio": "Saint Cybi, known in Cornish as Cuby, was a sixth-century Cornish bishop, saint, and, for a time, a king, who labored chiefly in Cornwall and North Wales. Born of noble lineage, he is said to have briefly held royal dignity before renouncing it for the Gospel, traveling as a missionary through the Celtic lands of Britain. His biography is preserved in two slightly variant medieval Lives, which recount his founding of churches and monasteries and his pastoral care of the people. He is associated with several dedications across Cornwall and Wales, including Cuby and Tregony in Cornwall and Llangybi in Monmouthshire and Cardigan. Honored on August 13, he remains a bridge between the Cornish and Welsh traditions of Celtic sanctity.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cybi from royal dignity to pastoral labor among the Celtic peoples of Cornwall and Wales, grant through his intercession that we may renounce earthly honors to serve Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cybi"
+  ],
+  "featured": false,
+  "draft": false
+}

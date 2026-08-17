@@ -1,0 +1,29 @@
+{
+  "slug": "avitus-of-vienne",
+  "name": "St. Avitus of Vienne",
+  "feastDay": "02-05",
+  "bio": "Alcimus Ecdicius Avitus was a Latin poet and Bishop of Vienne in Gaul, one of the last great voices of Gallo-Roman literary culture. Born into a senatorial family around 470, he rose to the see of Vienne and became renowned both for his eloquent poetry and for his diplomatic skill, serving as secretary for the Burgundian kings. He played a crucial role in the conversion of Clovis I to Catholic Christianity and worked tirelessly to preserve the orthodox faith against Arian influence among the Burgundians. His surviving writings, including poems, letters, and homilies, testify to a mind that united classical learning with Christian conviction. He died around 518 and is venerated on February 5 as a bishop, poet, and defender of the faith.",
+  "patronages": [
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Avitus of Vienne with the gifts of eloquence and wisdom, grant through his intercession that those who write and speak may use their talents to defend truth and build up Your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Avitus_of_Vienne"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "cathan",
+  "name": "St. Cathan",
+  "feastDay": "05-17",
+  "bio": "Saint Cathan, also known as Catan or Cattan, was a sixth-century Irish monk who carried the Christian faith across the narrow seas to the Scottish Hebrides. In that age of missionary monks, the Gaelic-speaking west of Scotland received the Gospel not from distant Rome but from Ireland, through men like Cathan who sailed to its islands and founded communities of prayer along its windswept coasts.\n\nRevered as a saint in parts of the Hebrides, Cathan gave his name to places that still bear witness to his memory, including the island of Colonsay. Like many of the early Celtic saints, his legacy is written into the landscape and the place-names of the land he evangelized. His feast is kept on the seventeenth of May.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Cathan across the sea to bring the light of the Gospel to the islands of Scotland, grant that we may carry the faith wherever you lead us, and that the lands once evangelized by the saints may never forget your holy name. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cathan"
+  ],
+  "featured": false,
+  "draft": false
+}

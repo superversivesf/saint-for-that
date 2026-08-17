@@ -1,0 +1,25 @@
+{
+  "slug": "abibos-of-nekresi",
+  "name": "St. Abibos of Nekresi",
+  "feastDay": "12-12",
+  "bio": "Abibos of Nekresi was one of the thirteen Assyrian apostles of Georgia who arrived in that land in the sixth century under the leadership of St. Ioane of Zedazeni. Sent to strengthen and extend the Christian faith in the Caucasus, these monks and missionaries founded monasteries and preached the Gospel among the people. Abibos was consecrated bishop of Nekresi, taking responsibility for a see set in one of Georgia's ancient centers. He labored to uproot lingering pagan practices and to plant the Church firmly on the heights above the Alazani valley. Honored on December 12, he stands among the great company of saints who made Georgia a land consecrated to Christ.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Abibos as a missionary bishop to the heights of Nekresi, grant through his intercession that the Gospel may take root in every nation and culture. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abibos_of_Nekresi"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "arethas-of-najran",
+  "name": "St. Arethas of Najran",
+  "feastDay": "10-24",
+  "bio": "Saint Arethas, known in Arabic as Ḥārith ibn Kaʿb, was the leader of the Miaphysite Christian community of Najran in the early sixth century. In the year 523 he was executed during the persecution of Christians by Dhu Nuwas, the king of Yemen, who sought to force the faithful to renounce Christ. Arethas and his companions refused, and their martyrdom became one of the most stirring episodes in the ancient chronicles of Christian persecution. News of their sacrifice spread swiftly, reaching Emperor Justin I of Byzantium and the Christian Kingdom of Aksum in Ethiopia, who sent armies to depose Dhu Nuwas and end the persecution. Arethas stands as a witness to courage in faith, a leader who chose death rather than betrayal of the Gospel.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Arethas and his companions the grace to face death rather than deny your Son, grant through their intercession that all who suffer for the faith may stand firm, and that persecutors everywhere may be turned toward the light of Christ. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arethas_of_Najran"
+  ],
+  "featured": false,
+  "draft": false
+}

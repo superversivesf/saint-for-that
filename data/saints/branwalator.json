@@ -1,0 +1,21 @@
+{
+  "slug": "branwalator",
+  "name": "St. Branwalator",
+  "feastDay": "01-19",
+  "bio": "Branwalator, also called Breward or Branwalader, was a British saint of the early medieval period whose relics lay at Milton Abbas in Dorset and at Branscombe in Devon. Believed to have come from Brittany, he also gives his name to the parish of Saint Br\u00e9lade in Jersey, where \"Brelade\" is a corruption of \"Branwalader.\" He was known by many names across the Channel\u2014Breward, Branuvelladurus, Br\u00e9lade, and Broladre in French\u2014a sign of how widely his cult spread among the Celtic peoples of Britain and Armorica. His feast is kept on 19 January. He is remembered as one of the wandering saints of the Celtic world, whose holiness was carried by devotion across seas and shires, and whose name still echoes in the churches and parishes of the West Country and the Channel Islands.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who spread the devotion of St. Branwalator across the shores and islands of the Celtic world, grant through his intercession that the Church may ever be bound together by the memory of her saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Branwalator"
+  ],
+  "featured": false,
+  "draft": false
+}

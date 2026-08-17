@@ -1,0 +1,21 @@
+{
+  "slug": "baruc",
+  "name": "St. Baruc",
+  "feastDay": "unknown",
+  "bio": "Baruc was a sixth-century Welsh saint whose memory is preserved in the churches and place-names of Glamorgan. He is traditionally counted among the disciples of St. Cadoc, one of the great Welsh saints, and is associated with the island of Flat Holm and Barry Island in the Bristol Channel, where local tradition holds that he was buried. Though the details of his life are scant, his cult endured among the people of south Wales, who venerated him as a holy monk and companion of the great founders of Welsh Christianity. His feast day is not firmly recorded, yet his name lives on in the landscape where he once prayed and labored, a quiet witness to the early faith of the Celtic lands.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Baruc to follow You in the company of the Welsh saints, grant through his intercession that we may be faithful companions on the path of holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baruc"
+  ],
+  "featured": false,
+  "draft": false
+}

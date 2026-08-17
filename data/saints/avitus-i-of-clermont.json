@@ -1,0 +1,25 @@
+{
+  "slug": "avitus-i-of-clermont",
+  "name": "St. Avitus I of Clermont",
+  "feastDay": "08-21",
+  "bio": "Avitus I served as Bishop of Clermont in sixth-century Gaul, shepherding the church of Auvergne through a turbulent era of Frankish consolidation. Venerated as a saint in both the Eastern Orthodox and Roman Catholic Churches, he is remembered on August 21. Though the historical record of his episcopal acts is thin, his cult endured among the people of the Auvergne, who cherished the memory of their early bishops as pillars of faith in a land still emerging from its pagan past. Avitus stands among that line of Gallo-Roman prelates who guided the Church through the collapse of empire and the birth of a new Christian civilization in Western Europe.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted St. Avitus with the care of Your church at Clermont, grant through his intercession that our shepherds may guide Your people with wisdom and courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Avitus_I_of_Clermont"
+  ],
+  "featured": false,
+  "draft": false
+}

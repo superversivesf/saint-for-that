@@ -1,0 +1,25 @@
+{
+  "slug": "caill-n",
+  "name": "St. Caillín",
+  "feastDay": "11-13",
+  "bio": "Saint Caillín was an Irish medieval saint and monastic founder, the patron saint of Fenagh in County Leitrim. Born in the 6th century, he founded a monastic settlement at Fenagh that became a center of faith and learning in the Irish midlands. His history is preserved in the Old Book of Fenagh. The Annals of the Four Masters record him living in 464, though this date rests on the late 16th-century Book of Fenagh and is considered unreliable without corroboration. Yet the Irish genealogies and the Life of Saint Mogue, who was taught by Caillín, place him in the second half of the 6th century. His feast is celebrated on November 13. He is remembered as a founder of monasteries and a teacher of saints, one of the many holy men who made Ireland a land of prayer.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Caillín to found a monastery at Fenagh and to teach the saints of Ireland, grant through his intercession that we may build our lives on the rock of faith and pass on the wisdom we have received. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caill%C3%ADn"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "carannog",
+  "name": "St. Carannog",
+  "feastDay": "05-16",
+  "bio": "Saint Carannog was a sixth-century Welsh abbot and confessor, one of the great missionary monks of the early Celtic Church who carried the Christian faith across the western seas and river valleys of Britain. He founded the Llan at Llangrannog in Ceredigion, Wales, a holy settlement where prayer and community life flourished under his rule.\n\nCarannog's zeal for Christ carried him far beyond his native land. He established monastic sites across Somerset, Cornwall, Brittany, and Ireland, joining the work of evangelization to the building of houses of prayer. Like the abbots of his age, he was both shepherd and pioneer, founding communities that became centers of grace in a land still being brought to the Gospel. His feast is kept on the sixteenth of May.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Carannog to found houses of prayer across the lands of Wales, Cornwall, Brittany, and Ireland, grant that we, inspired by his example, may build up your Church in holiness and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carannog"
+  ],
+  "featured": false,
+  "draft": false
+}

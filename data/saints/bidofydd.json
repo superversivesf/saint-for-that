@@ -1,0 +1,21 @@
+{
+  "slug": "bidofydd",
+  "name": "St. Bidofydd",
+  "feastDay": "unknown",
+  "bio": "Bidofydd was a sixth-century saint of Wales, one of the many Celtic holy men and women whose names have come down to us shrouded in the mists of early medieval Britain. He is often associated with Saint Fidalis, and like so many of his Welsh contemporaries he is thought to have lived a life of monastic discipline and prayer in the rugged country of early Christian Wales. Few details of his life survive, yet his memory was preserved in local devotion and in the liturgical calendars of the Welsh Church. He stands as a witness to the great cloud of unnamed and half-remembered saints who built up the Church in Britain through quiet faithfulness, long before the chroniclers took up their pens.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Bidofydd among the saints of Wales though the records of his deeds were lost, grant through his intercession that we too may serve You in quiet faithfulness, known to You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bidofydd"
+  ],
+  "featured": false,
+  "draft": false
+}

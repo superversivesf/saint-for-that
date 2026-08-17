@@ -1,0 +1,21 @@
+{
+  "slug": "afrella",
+  "name": "St. Afrella",
+  "feastDay": "unknown",
+  "bio": "Afrella, also known as Arilda, was an early sixth-century Welsh saint from the age when the Celtic churches of Britain were producing a quiet multitude of holy women and men whose names survived in local liturgical calendars rather than in long biographies. The Welsh tradition remembers her among the early Christian witnesses of the western seaboard, where churches and holy wells were dedicated to figures of whom little more than a name and a feast day endured.\n\nThough no extended Vita survives, her commemoration points to the deep roots of Christian devotion in early medieval Wales, where sanctity was measured by faithful living and the founding of religious communities. She is invoked as a patron of single women and of those who seek to live a quiet, devout life in out-of-the-way places.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who remembered your handmaid Afrella in the ancient churches of Wales, grant through her intercession that all who serve you in quiet and obscurity may be known to you and crowned with your saints. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Afrella"
+  ],
+  "featured": false,
+  "draft": false
+}

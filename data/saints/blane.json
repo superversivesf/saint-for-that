@@ -1,0 +1,21 @@
+{
+  "slug": "blane",
+  "name": "St. Blane",
+  "feastDay": "08-10",
+  "bio": "Saint Blane was a bishop and confessor of sixth-century Scotland, born on the Isle of Bute, who labored among the Picts and Scots in the early generations of the Church in northern Britain. He died around the year 590, and his feast has been kept on 10 August from ancient times. As a bishop he would have shepherded a young and scattered flock, navigating the tensions of rival kingdoms and the slow work of evangelizing a land only recently touched by the Gospel. Later devotion in Dunblane, which bears his name, kept his memory alive across the centuries. He is remembered as one of the apostolic figures of Scottish Christianity, a patient builder of the Church in a hard and beautiful land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Blane to shepherd Your people in the early days of the Scottish Church, grant through his intercession that those who lead may serve with the same patience and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Blane"
+  ],
+  "featured": false,
+  "draft": false
+}

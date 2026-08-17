@@ -1,0 +1,21 @@
+{
+  "slug": "colm-n-of-ardboe",
+  "name": "St. Colmán of Ardboe",
+  "feastDay": "02-21",
+  "bio": "Saint Colmán of Ardboe, also called Colmán mac Áed and nicknamed Muccaid, was a sixth- and seventh-century Irish saint traditionally recognized for founding the early Christian monastery at Ardboe in County Tyrone, on the shores of Lough Neagh, in the year 590. The abbey he established long stood as a center of faith and learning, and was traditionally believed to house his tomb before fire destroyed it in 1166 at the hands of Ruaidrí, son of Mac Canai, together with the sons of Gilla Muire Ua Monrai and the Crotraighe. Medieval genealogies in Rawlinson B 502 identify him as Muccaide, son of Áed Guaire, descended through Amalgaid, Muiredach, Carthend, Erc, and Colla Uais. He is also recorded as the father of Máel-Aithé and Fergus. His feast is kept on February 21.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Colmán to build a house of prayer on the shores of Lough Neagh, grant through his intercession that we may labor to establish places where Your name is worshipped and Your truth is taught. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Colm%C3%A1n_of_Ardboe"
+  ],
+  "featured": false,
+  "draft": false
+}

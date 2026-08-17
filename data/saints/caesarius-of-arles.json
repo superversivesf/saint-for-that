@@ -1,0 +1,29 @@
+{
+  "slug": "caesarius-of-arles",
+  "name": "St. Caesarius of Arles",
+  "feastDay": "08-27",
+  "bio": "Caesarius of Arles, called \"of Chalon\" from his birthplace Chalon-sur-Saône, was the foremost ecclesiastic of his generation in Merovingian Gaul. He belonged to the last generation of Gallic church leaders who worked to integrate ascetic elements into the Western tradition, bridging monastic and pastoral ideals. Klingshirn depicts him as a popular preacher of great fervor and enduring influence, whose sermons shaped the faith of clergy and laity. Among those who most shaped his mind were Augustine of Hippo, Julianus Pomerius, and John Cassian. As bishop of Arles he governed his see with care, founded a monastery for women, and left behind sermons and canons that guided the Church for centuries. His feast is August 27. He is remembered as a preacher, a reformer, and a shepherd of souls.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Caesarius a preacher of fervor and a shepherd of Your people, grant through his intercession that we may hear Your word with open hearts and proclaim it with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caesarius_of_Arles"
+  ],
+  "featured": false,
+  "draft": false
+}

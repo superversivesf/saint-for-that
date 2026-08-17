@@ -1,0 +1,29 @@
+{
+  "slug": "cainnech-of-aghaboe",
+  "name": "St. Cainnech of Aghaboe",
+  "feastDay": "08-14",
+  "bio": "Cainnech of Aghaboe, born in 515 or 516, was an Irish abbot, monastic founder, priest, and missionary of the early medieval period. Venerated as Saint Canice in Ireland and Saint Kenneth in Scotland, he was numbered among the Twelve Apostles of Ireland, that holy band of monks who spread the Christian faith across the island in the wake of St. Patrick.\n\nCainnech preached the Gospel not only in Ireland but among the Picts of Scotland, planting the seeds of faith in rocky northern soil. He founded the monastery of Aghaboe in what is now County Laois, a center of learning and piety. A man of Scripture as well as of mission, he wrote a commentary on the Gospels revered for centuries as the Glas-Choinnigh, the Chain of Cainnech. He died around the year 600, having labored faithfully for Christ.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Cainnech to preach the Gospel among the Irish and the Picts and to found houses of prayer and learning, grant that we, following his example, may be steadfast in faith and zealous in spreading your word. Through his intercession, protect all who travel upon the waters and bring them safely to harbor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cainnech_of_Aghaboe"
+  ],
+  "featured": false,
+  "draft": false
+}

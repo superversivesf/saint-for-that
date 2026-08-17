@@ -1,0 +1,21 @@
+{
+  "slug": "cennych",
+  "name": "St. Cennych",
+  "feastDay": "unknown",
+  "bio": "Saint Cennych was a pre-congregational saint of medieval south Wales, one of that great company of early Welsh Christians whose holiness was recognized by the devotion of the people rather than by any later process of canonization. In the ancient Church, saints were often made by the voice of the faithful, who honored them at their tombs and sought their intercession before God.\n\nCennych is the patron saint of Llangennych in Carmarthenshire, the place whose name carries his own and bears witness to the church founded in his honor. Though the details of his life have faded into the mists of the Welsh medieval past, the dedication of a parish to his name is itself a testament to a life of holiness remembered by generations. The date of his feast has not come down to us.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of your servant Cennych through the devotion of the people of Wales, grant that we may honor the saints of every age and place and find in their example a path to your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cennych"
+  ],
+  "featured": false,
+  "draft": false
+}

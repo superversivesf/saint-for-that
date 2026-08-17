@@ -1,0 +1,25 @@
+{
+  "slug": "berach",
+  "name": "St. Berach",
+  "feastDay": "02-15",
+  "bio": "Saint Berach of Termonbarry was a celebrated Irish saint of the early medieval Church, still honored in County Roscommon where his memory has endured across the centuries. He was a disciple of St. Kevin of Glendalough and is counted among the holy men who carried the monastic ideal across the Irish midlands. His hermitage and later foundation at Termonbarry gave the place its name, and local tradition recounts signs and wonders associated with his prayer. He is venerated on February 15. As a disciple and a founder, Berach embodies the chain of holiness that linked one generation of Irish saints to the next, as each teacher raised up disciples who carried the faith further into the land.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "students",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Berach as a disciple of Kevin and a father of monks in the heart of Ireland, grant through his intercession that we may learn from holy teachers and become faithful witnesses ourselves. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Berach"
+  ],
+  "featured": false,
+  "draft": false
+}

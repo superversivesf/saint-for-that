@@ -1,0 +1,25 @@
+{
+  "slug": "daig",
+  "name": "St. Daig",
+  "feastDay": "unknown",
+  "bio": "Saint Daig was an Irish Christian bishop and confessor of Inis-Caoin-Deagha, who lived toward the end of the sixth century. His name in Gaelic means \"a great flame,\" and he was likely named after his mother Deighe. He labored among the monastic settlements of early Christian Ireland, a land of saints and scholars where the faith took deep root in the centuries after Patrick. As a bishop and confessor, he both governed and guided the community of Inis-Caoin-Deagha, combining pastoral care with the ascetic and scholarly ideals of the Irish Church. Though the details of his life are sparse, his fiery name and enduring veneration speak to a holiness that illuminated the Ireland of his day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Daig a great flame among the saints of Ireland, kindle through his intercession the fire of Your love in our hearts, that we may shine with holiness in our day. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daig"
+  ],
+  "featured": false,
+  "draft": false
+}

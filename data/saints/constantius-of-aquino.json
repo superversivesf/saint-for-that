@@ -1,0 +1,25 @@
+{
+  "slug": "constantius-of-aquino",
+  "name": "St. Constantius of Aquino",
+  "feastDay": "unknown",
+  "bio": "Saint Constantius of Aquino was a bishop of the ancient Italian city of Aquino, noted in the Roman Martyrology for his gift of prophecy and the holiness of his life. He served his diocese in the turbulent years of the early medieval Church, shepherding the people of the Liri valley with wisdom and a keen sense of the workings of God. He was famed for the grace of foresight, and traditions record that he spoke words that came to pass, warning and encouraging the faithful with a discernment that seemed to come from the Holy Spirit. As bishop he labored to keep the faith alive amid the pressures of a changing world, tending his flock with the care of a true pastor.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "mystics",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted St. Constantius of Aquino the gift of prophecy and a shepherd's heart, grant through his intercession that we may discern your will with clarity and serve your people with faithful love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantius_of_Aquino"
+  ],
+  "featured": false,
+  "draft": false
+}

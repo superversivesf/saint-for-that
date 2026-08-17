@@ -1,0 +1,21 @@
+{
+  "slug": "apollinaris-of-valence",
+  "name": "St. Apollinaris of Valence",
+  "feastDay": "unknown",
+  "bio": "Saint Apollinaris of Valence was born in Vienne, Gaul, around 453 and became bishop of Valence in the turbulent decades of the barbarian irruptions. The see he inherited had lain vacant for fifty years after the scandalous reign of the dissolute Bishop Maximus, and the Church in that region needed a shepherd of firm faith and clean heart. Apollinaris undertook the restoration of his diocese amid the upheavals of the early Burgundian kingdom, ruling his flock with diligence through years of political disorder and moral collapse. He served as bishop until his death around 520, leaving the see renewed and the faithful strengthened. He was buried in what is now Valence Cathedral, which honors his memory to this day.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Apollinaris the grace to restore a see long desolate and to shepherd your people through times of turmoil, grant through his intercession that all bishops may be steadfast in faith and pure in life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apollinaris_of_Valence"
+  ],
+  "featured": false,
+  "draft": false
+}

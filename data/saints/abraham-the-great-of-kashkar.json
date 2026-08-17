@@ -1,0 +1,25 @@
+{
+  "slug": "abraham-the-great-of-kashkar",
+  "name": "St. Abraham the Great of Kashkar",
+  "feastDay": "unknown",
+  "bio": "Abraham the Great of Kashkar was the father of the monastic revival in the Church of the East in the sixth century. Born into a Christian community stretched across Persia and Mesopotamia, he undertook a pilgrimage to the monasteries of Egypt to learn the discipline of the desert, then returned to plant that tradition on Persian soil. On the mountain of Mount Izla near Kashkar he reformed and gathered the ascetics into a cenobitic community whose rule and fervor sparked a flourishing of Syriac monasticism.\n\nHe is honored as a doctor and saint of the Church of the East, and his disciples carried his reform across the East, founding monasteries that would in time reach as far as China. He is invoked as a patron of monks and of those who labor to renew the religious life.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who stirred up the monk Abraham to renew the monastic life among the churches of the East, grant through his intercession that all who seek you in community may burn with zeal for your house. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_the_Great_of_Kashkar"
+  ],
+  "featured": false,
+  "draft": false
+}

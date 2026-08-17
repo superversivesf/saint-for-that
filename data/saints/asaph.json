@@ -1,0 +1,21 @@
+{
+  "slug": "asaph",
+  "name": "St. Asaph",
+  "feastDay": "05-01",
+  "bio": "Saint Asaph was a Welsh bishop and saint, traditionally regarded as the first Bishop of the diocese that bears his name. He lived in the sixth century in the kingdom of Powys, in northern Wales, and was associated with Saint Kentigern, whose disciple or companion tradition often makes him. The See of St Asaph, one of the oldest in Wales, traces its succession back to him. He is venerated as a saint in both the Catholic Church and the Eastern Orthodox Church, and his feast is kept on the first of May. He is remembered as a founding father of Welsh Christianity, a bishop who planted the faith in the river valleys of the north and gave his name to a cathedral and a see.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Asaph a founder of your Church in Wales and a shepherd of its earliest flock, grant through his intercession that the successors of the apostles may plant the Gospel afresh in every generation and place. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Asaph"
+  ],
+  "featured": false,
+  "draft": false
+}

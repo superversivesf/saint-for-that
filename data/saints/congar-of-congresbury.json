@@ -1,0 +1,25 @@
+{
+  "slug": "congar-of-congresbury",
+  "name": "St. Congar of Congresbury",
+  "feastDay": "11-27",
+  "bio": "Saint Congar was a Welsh abbot and supposed bishop who labored in the British kingdom of Dumnonia, in what is now Somerset, England, during the early centuries of the faith in Britain. Tradition holds that he came from Wales to preach among the Britons and founded a monastery on the hill later known as Cadbury-Congresbury, where a community of monks gathered around him to pray and serve the people of the surrounding countryside. He is remembered as a pastor and leader of monks, working to plant the Gospel in a region that lay between the older British churches and the advancing Anglo-Saxon settlements. The village of Congresbury still bears his name, and for centuries the faithful honored his memory at the ancient well and church dedicated to him there.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Congar to lead a community of monks on the hills of Somerset, grant through his intercession that those who shepherd your people may build communities of prayer and leave behind a living memory of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Congar_of_Congresbury"
+  ],
+  "featured": false,
+  "draft": false
+}

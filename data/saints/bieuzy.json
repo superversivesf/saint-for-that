@@ -1,0 +1,25 @@
+{
+  "slug": "bieuzy",
+  "name": "St. Bieuzy",
+  "feastDay": "11-24",
+  "bio": "Saint Bieuzy was a sixth-century Breton hermit and a companion of Saint Gildas, one of the founding figures of Breton Christianity. He gave his name to the villages of Bieuzy and Bieuzy-Lanvaux, both in the Morbihan region of Brittany, where his memory was long cherished. His name probably derives from the Old Breton biu or bihui, meaning \"living,\" a fitting title for one who sought the life that does not end. Following the pattern of the Celtic saints who crossed from Britain to Armorica, Bieuzy embraced the eremitical life, settling in the wild countryside to pray and to draw others to Christ by the witness of his solitude. His feast is kept on 24 November.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Bieuzy to seek You in the solitude of the Breton countryside, grant through his intercession that we may find in stillness the living water that satisfies every thirst. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Bieuzy"
+  ],
+  "featured": false,
+  "draft": false
+}

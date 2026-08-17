@@ -1,0 +1,25 @@
+{
+  "slug": "carthage-the-elder",
+  "name": "St. Carthage the Elder",
+  "feastDay": "03-05",
+  "bio": "Saint Carthage the Elder was an Irish bishop and abbot of the sixth century, one of the holy company of monastic leaders who shaped the early Church in Ireland. In that age, the Irish Church was centered on monasteries rather than dioceses, and abbots and bishops worked side by side to anchor the faith in communities of prayer, learning, and pastoral care.\n\nCarthage served both as bishop and abbot, uniting in his person the pastoral office and the rule of a religious community. He labored in a land where the Gospel had taken root only a few generations before, tending the young Church with wisdom and devotion. His feast is kept on the fifth of March, a day on which the Irish faithful have long remembered his service to Christ and to his people.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Carthage a shepherd of your people and a father of monastic life in Ireland, grant that the leaders of your Church may serve with the same wisdom and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carthage_the_Elder"
+  ],
+  "featured": false,
+  "draft": false
+}

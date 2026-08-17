@@ -1,0 +1,25 @@
+{
+  "slug": "cainnear-saint",
+  "name": "St. Cainnear",
+  "feastDay": "unknown",
+  "bio": "Saint Cainnear was an obscure Irish saint of the 6th century, mentioned in the life of Saint Moluag. She is described as the foundress of Cluain Cláraid, a woman of holy lineage who devoted her life to God. She was a first cousin of Brendan of Clonfert, the great navigator saint, who healed her of muteness when she was sixteen, a miracle that marked her for a life of consecrated prayer. Little else is known of her except that she later became a nun and the foundress of a nunnery at Cluain Claraid, a place whose locality is lost to time. The Dictionary of Irish Biography records that the date of her death is not known. She is remembered among the holy women of early Ireland who, touched by grace, gave their lives to prayer and to the founding of houses where God might be served.",
+  "patronages": [
+    {
+      "need": "healing",
+      "category": "illness"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who healed St. Cainnear of her muteness and called her to found a house of prayer, grant through her intercession that our speech may always praise You and our lives be consecrated to Your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cainnear_(saint)"
+  ],
+  "featured": false,
+  "draft": false
+}

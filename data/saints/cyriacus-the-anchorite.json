@@ -1,0 +1,25 @@
+{
+  "slug": "cyriacus-the-anchorite",
+  "name": "St. Cyriacus the Anchorite",
+  "feastDay": "09-29",
+  "bio": "Saint Cyriacus, also called Kyriakos, was a Greek Christian monk and saint of the early Church, renowned as an anchorite for his life of solitary prayer and ascetic discipline. Embracing the eremitical ideal of the Eastern desert tradition, he withdrew from the world to devote himself wholly to God, seeking union with the divine through silence, fasting, and ceaseless prayer. His feast is kept on September 29, placing him among the host of saints whose witness points beyond the visible Church to the hidden life of the spirit. Though fewer biographical details have survived, his title alone speaks volumes: the anchorite, the one who has withdrawn, who anchors the soul in God alone.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cyriacus to the anchor's life of solitary prayer, grant through his intercession that we may learn to withdraw from the noise of the world and anchor our souls in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyriacus_the_Anchorite"
+  ],
+  "featured": false,
+  "draft": false
+}

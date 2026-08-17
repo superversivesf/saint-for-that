@@ -1,0 +1,25 @@
+{
+  "slug": "colm-n-of-cloyne",
+  "name": "St. Colmán of Cloyne",
+  "feastDay": "11-24",
+  "bio": "Saint Colmán of Cloyne, also known by his birth name Colmán mac Léníne, was a monk, founder, and patron of Cluain Uama, the settlement that became Cloyne in County Cork, Ireland. He is numbered among the earliest known Irish poets to write in the vernacular, helping to shape a distinctive Christian literature in the language of the people. His foundation at Cloyne grew into an enduring center of faith, and he remains the patron saint of the Diocese of Cloyne and of its cathedral at Cobh, the great maritime town that sent forth so many Irish emigrants in later centuries. The memory of his sanctity and his literary gifts links the life of prayer with the life of letters, reminding the Church that holiness and culture need not be strangers. His feast is kept on November 24.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gifted St. Colmán of Cloyne with a poet's tongue and a pastor's heart, grant through his intercession that we may sing Your praises in the language of our own people and serve Your Church with faithful love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Colm%C3%A1n_of_Cloyne"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "brannoc-of-braunton",
+  "name": "St. Brannoc of Braunton",
+  "feastDay": "01-07",
+  "bio": "Brannoc of Braunton, also called Saint Brannock, was a Christian saint associated with the village of Braunton in the English county of Devon. He is counted among the Celtic saints who carried the faith across the western seas and along the river valleys of the West Country, planting the Gospel in places still shadowed by older beliefs. His feast is kept on 7 January, and the parish of Braunton long preserved his memory. Though few details of his life survive, later tradition speaks of him as a monastic founder and a shepherd of souls in the green lands between moor and sea. He is remembered as a quiet apostle of Devon, one of those hidden workers whose labor made the Church of England possible.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Brannoc to plant the Gospel in the lands of Devon, grant through his intercession that the faith sown by the early saints of England may bear fruit in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brannoc_of_Braunton"
+  ],
+  "featured": false,
+  "draft": false
+}

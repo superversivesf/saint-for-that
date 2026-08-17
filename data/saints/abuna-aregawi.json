@@ -1,0 +1,25 @@
+{
+  "slug": "abuna-aregawi",
+  "name": "St. Abuna Aregawi",
+  "feastDay": "10-25",
+  "bio": "Abuna Aregawi was a sixth-century Syrian monk who became one of the most formative figures in the Christian history of Ethiopia. He was one of the Nine Saints, missionaries who traveled from the Roman Empire to the Kingdom of Aksum and were credited with founding numerous monasteries and churches across the land. Aregawi in particular is remembered as a principal force behind the establishment of monasticism in Ethiopia, shaping the contemplative life of the Ethiopian Orthodox Tewahedo Church, the Ethiopian Catholic Church, and the Eritrean Orthodox Church. His feast is kept on October 25. He is honored as a father of Ethiopian monasticism, a man who carried the ascetic tradition of Syria into the highlands of Africa.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Aregawi from Syria to Ethiopia to plant the seeds of monastic life in foreign soil, grant through his intercession that the Church may always raise up missionary souls who carry the Gospel beyond every frontier. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abuna_Aregawi"
+  ],
+  "featured": false,
+  "draft": false
+}

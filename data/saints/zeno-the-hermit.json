@@ -1,0 +1,25 @@
+{
+  "slug": "zeno-the-hermit",
+  "name": "St. Zeno the Hermit",
+  "feastDay": "01-30",
+  "bio": "Saint Zeno the Hermit was a disciple of the great St. Basil of Caesarea and embraced the eremitical life in the spirit of his master. Living apart from the bustle of cities, he sought God in solitude and silence, joining the long line of desert ascetics who shaped the spiritual imagination of the early Church. Venerated by the Eastern Orthodox and the Byzantine Catholic churches, his feast is kept on January 30. Though the details of his ascetic struggles are scant, his very name stands as a witness to the Church's reverence for those who withdraw from the world not in contempt for creation but in longing for the Creator. He remains a quiet patron of the hidden life of prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who drew St. Zeno into the solitude of the desert to seek Your face in silence, grant through his intercession that we may make room for You amid the noise of our lives. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zeno_the_Hermit"
+  ],
+  "featured": false,
+  "draft": false
+}

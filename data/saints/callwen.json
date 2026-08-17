@@ -1,0 +1,21 @@
+{
+  "slug": "callwen",
+  "name": "St. Callwen",
+  "feastDay": "11-01",
+  "bio": "Saint Callwen was an early Welsh Christian saint, numbered among the family of Brychan, the legendary fifth-century king of Brycheiniog whose many children and descendants became the saints of Wales. Though historical details of her life are sparse and some scholars have questioned whether she existed as a distinct figure, the devotion of the Welsh faithful has preserved her memory across the centuries.\n\nA church was dedicated to her in Defynnog, in Brecknockshire, where the people honored her as an intercessor before God. Like so many of the Celtic saints, her story is woven into the landscape and the ancient Christian settlements of Wales, a testimony to the deep roots of the faith in that land. Her feast is kept on the first of November, alongside the great solemnity of All Saints.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of your handmaid Callwen among the faithful of Wales through generations of devotion, grant that we may walk in the company of all your saints and share in their inheritance. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callwen"
+  ],
+  "featured": false,
+  "draft": false
+}

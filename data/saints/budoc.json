@@ -1,0 +1,25 @@
+{
+  "slug": "budoc",
+  "name": "St. Budoc",
+  "feastDay": "12-08",
+  "bio": "Budoc of Dol was a 5th-century Breton monk and Bishop of Dol, venerated since his death as a saint in both Brittany and Devon. He served the Church as a shepherd of souls in a still-young Christian land, governing the see of Dol with wisdom and care. His relics are preserved at Plourin in Finistère, where he is honored as patron, and his cult spread across the Channel to Plymouth in England, binding together the faithful of two shores. His feast was originally kept on December 8, the date still observed in Devon, though in Brittany it was transferred to December 9. He is remembered as a bishop who bridged the Celtic and Breton worlds, a man of prayer whose memory endured in the devotion of two peoples.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Budoc a faithful bishop of Dol and a light to both Brittany and Devon, grant through his intercession that we may serve Your people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Budoc"
+  ],
+  "featured": false,
+  "draft": false
+}

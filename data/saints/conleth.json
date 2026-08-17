@@ -1,0 +1,29 @@
+{
+  "slug": "conleth",
+  "name": "St. Conleth",
+  "feastDay": "05-04",
+  "bio": "Saint Conleth was an Irish hermit and skilled craftsman of the early medieval Church, believed to have come from the Wicklow area. He lived as a solitary, devoted to prayer and the quiet labor of the hands, yet his gifts soon drew others to him. He was a metalworker of great skill, fashioning sacred vessels for the altar, and also a copyist and illuminator of manuscripts, setting down the Word of God in beautiful lettering for the use of the churches. His holiness came to the attention of St. Brigid of Kildare, who entrusted him with the pastoral care of the churches in her region and sought his counsel. He served as the first bishop of the Diocese of Kildare and Leighlin, governing clergy and people with humility while continuing his craft.",
+  "patronages": [
+    {
+      "need": "metalworkers",
+      "category": "jobs"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Conleth with the gifts of the solitary life and the craftsman's hand, grant through his intercession that our work and our prayer may be joined in your service and adorn the worship of your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Conleth"
+  ],
+  "featured": false,
+  "draft": false
+}

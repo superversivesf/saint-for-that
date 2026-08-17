@@ -1,0 +1,21 @@
+{
+  "slug": "athracht",
+  "name": "St. Athracht",
+  "feastDay": "08-11",
+  "bio": "Athracht, venerated as the patron saint of the parish of Locha Techet and Tourlestrane in County Sligo, Ireland, was the sister of Bishop Conal of Drumconnell. Little else has survived the centuries about her life, yet her memory endured among the people of Connacht, who honored her feast day on August 11. As a member of a holy family that nurtured the early Irish Church, she represents the countless consecrated women whose quiet devotion helped root the faith in the soil of Ireland. Her parish remembers her still as a heavenly protector and intercessor before the throne of God, a saint whose hidden life bore fruit across generations.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Athracht to holiness in the land of Connacht and made her a patron of her people, grant through her intercession that we may serve You faithfully in our own stations of life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athracht"
+  ],
+  "featured": false,
+  "draft": false
+}

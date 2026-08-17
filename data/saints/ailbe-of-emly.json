@@ -1,0 +1,25 @@
+{
+  "slug": "ailbe-of-emly",
+  "name": "St. Ailbe of Emly",
+  "feastDay": "09-12",
+  "bio": "Saint Ailbe, known in English as St. Elvis and in Welsh as Eilfyw or Eilfw, was regarded as the chief pre-Patrician saint of Ireland, a holy bishop whose work in the Irish Church preceded or ran alongside that of St. Patrick himself. He is associated with the province of Munster and with the see of Emly, which he is traditionally said to have founded or governed, and he is honored as a patron of the Archdiocese of Cashel and Emly.\n\nA curious and enduring legend tells that as an infant Ailbe was abandoned and suckled by a wolf, a story that later earned him a reputation as a patron of wolves and of the wild creatures of the Irish countryside. His feast is kept on September 12. He is invoked as a patron of Munster, of the archdiocese of Cashel and Emly, and of animals.",
+  "patronages": [
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave the bishop Ailbe to shepherd the early Church of Ireland and made him a patron even of the wild creatures, grant through his intercession that we may reverence your creation and tend your people with gentle care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ailbe_of_Emly"
+  ],
+  "featured": false,
+  "draft": false
+}

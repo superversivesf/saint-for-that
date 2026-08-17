@@ -1,0 +1,25 @@
+{
+  "slug": "ceitho",
+  "name": "St. Ceitho",
+  "feastDay": "unknown",
+  "bio": "Ceitho was an abbot and saint of sixth-century west Wales, a member of a holy family that gave the Church five saintly brothers. According to tradition, he was one of the five sons of Cynyr Farfdrwch of Cynwyl Gaeo, a descendant of the ancient Welsh king Cunedda Wledig. Along with his brothers Gwynno, Gwynoro, Celynin, and Gwyn, Ceitho embraced the religious life and became a saint.\n\nThe five brothers are said to have founded the village of Llanpumsaint in Carmarthenshire, whose name means the church of the five saints. As abbot, Ceitho guided a community in prayer, work, and the pastoral care of the surrounding people. The date of his feast has not been preserved, but the faithful of Wales have long remembered him as one of the founding saints of their Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the brothers Ceitho, Gwynno, Gwynoro, Celynin, and Gwyn to serve you in the religious life and to found a holy community in Wales, bless all families that seek you together, and raise up in our day those who will build your Church. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ceitho"
+  ],
+  "featured": false,
+  "draft": false
+}

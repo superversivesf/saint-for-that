@@ -1,0 +1,25 @@
+{
+  "slug": "athanasius-i-gammolo",
+  "name": "St. Athanasius I Gammolo",
+  "feastDay": "01-03",
+  "bio": "Saint Athanasius I Gammolo was Patriarch of Antioch and head of the Syriac Orthodox Church from the late sixth century until his death in 631. He shepherded the Syriac faithful through a period of theological struggle and political upheaval in the Byzantine East, maintaining the Miaphysite tradition of his Church against powerful pressures. He is commemorated as a saint in the Martyrology of Rabban Sliba, and his feast is kept on the third of January. His long patriarchate, spanning decades, made him a pillar of the Syriac Orthodox Church in its formative centuries, and his name is honored among the fathers who preserved the ancient Antiochene tradition of faith through times of division and trial.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained St. Athanasius I through long years of patriarchal service amid division and strife, grant through his intercession that your Church may be preserved in the faith of the apostles and drawn toward the unity for which your Son prayed. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Athanasius_I_Gammolo"
+  ],
+  "featured": false,
+  "draft": false
+}

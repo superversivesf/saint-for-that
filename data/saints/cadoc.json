@@ -1,0 +1,29 @@
+{
+  "slug": "cadoc",
+  "name": "St. Cadoc",
+  "feastDay": "01-24",
+  "bio": "Saint Cadoc, also spelled Cadog, was a 5th- and 6th-century abbot of Llancarfan, near Cowbridge in Glamorgan, Wales. His monastery was famous in the Celtic Church as a center of learning, where Illtud spent his first years in religion under Cadoc's care. Cadoc founded many churches across Cornwall, Brittany, Dyfed, and Scotland, carrying the faith far beyond Wales. Known as Cattwg Ddoeth, \"the Wise,\" he left a collection of maxims preserved in the Myvyrian Archaiology. He is listed in the Roman Martyrology under September 21. His Norman-era Life is an important hagiography, one of seven saints' lives that mention King Arthur independently of Geoffrey of Monmouth. He is honored as a wise teacher, a founder of churches, and a patron of those who suffer famine and affliction.",
+  "patronages": [
+    {
+      "need": "the poor",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Cadoc a wise abbot and a founder of churches, grant through his intercession that we may hunger for wisdom and open our hearts to the poor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cadoc"
+  ],
+  "featured": false,
+  "draft": false
+}

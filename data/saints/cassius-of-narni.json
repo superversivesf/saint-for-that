@@ -1,0 +1,25 @@
+{
+  "slug": "cassius-of-narni",
+  "name": "St. Cassius of Narni",
+  "feastDay": "06-29",
+  "bio": "Saint Cassius served as bishop of Narni in the Italian region of Umbria from the year 537 until his death in 558. He was a pastor of great charity, noted for his care of the poor and his tireless ministry among the people entrusted to him. In an age when Italy was buffeted by the wars and upheavals that followed the fall of the Western Empire, Cassius stood as a steadying witness to the compassion of Christ.\n\nHis holiness was praised by no less a voice than Saint Gregory the Great, who honored him in his writings and held him up as an example of episcopal virtue. Cassius died on the twenty-ninth of June, the solemnity of Saints Peter and Paul, and his feast has been kept on that day ever since.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your bishop Cassius a model of charity and pastoral care, praised even by your servant Gregory, grant that all who shepherd your people may serve with the same generous heart. Help us to share his love for the poor and his zeal for souls. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cassius_of_Narni"
+  ],
+  "featured": false,
+  "draft": false
+}

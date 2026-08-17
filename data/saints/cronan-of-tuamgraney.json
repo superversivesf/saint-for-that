@@ -1,0 +1,21 @@
+{
+  "slug": "cronan-of-tuamgraney",
+  "name": "St. Cronan of Tuamgraney",
+  "feastDay": "unknown",
+  "bio": "Saint Cronan of Tuamgraney was a sixth-century Irish monk and founder of monasteries, one of that great company of saints who, in the early medieval flowering of Irish Christianity, planted houses of prayer and learning across the island. He labored in the region of Tuamgraney in what is now County Clare, where he established a monastery that became a center of faith for the surrounding people. Like many of the Irish monastic founders, Cronan combined the life of a shepherd of souls with the discipline of the cloister. He gathered brothers around him, taught them the Rule, and sent them out to serve the local people, while the scriptorium and school of his house helped to keep the lamp of learning burning in a land that would soon send scholars and missionaries across Europe.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cronan of Tuamgraney to found a house of prayer and learning in the Irish countryside, grant through his intercession that we may build communities where faith is taught and your praise is offered without ceasing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cronan_of_Tuamgraney"
+  ],
+  "featured": false,
+  "draft": false
+}

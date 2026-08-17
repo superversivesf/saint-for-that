@@ -1,0 +1,25 @@
+{
+  "slug": "clydog",
+  "name": "St. Clydog",
+  "feastDay": "unknown",
+  "bio": "Saint Clydog was a sixth-century Welsh king of Ergyng, a kingdom straddling what is now the Welsh Marches, who renounced royal power to embrace a life of holiness. Little firm detail about his life survives, but the tradition that a king should leave his throne to follow Christ places him among the noble converts who helped root the faith in the Celtic lands. His feast is traditionally held on November 3, though also celebrated on August 19, a dual observance reflecting the deep local devotion he inspired. As a holy king remembered for turning from earthly crown to heavenly reward, he represents the model of a ruler whose authority was placed at the service of God. He is honored among the early saints of Wales whose quiet witness shaped the Church in that land.",
+  "patronages": [
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Clydog to lay aside a crown for the sake of Your kingdom, grant through his intercession that we may hold the things of this world lightly and seek above all the glory that does not fade. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clydog"
+  ],
+  "featured": false,
+  "draft": false
+}

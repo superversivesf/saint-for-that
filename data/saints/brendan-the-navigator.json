@@ -1,0 +1,29 @@
+{
+  "slug": "brendan-the-navigator",
+  "name": "St. Brendan the Navigator",
+  "feastDay": "05-16",
+  "bio": "Brendan of Clonfert is one of the early Irish monastic saints and one of the Twelve Apostles of Ireland. He is also called Brendan the Navigator, Brendan the Voyager, Brendan the Anchorite, and Brendan the Bold, and in Irish Naomh Br\u00e9anainn or Naomh Breand\u00e1n. He is chiefly known for his legendary voyage in search of the \"Isle of the Blessed,\" sometimes called \"Saint Brendan's Island,\" preserved in the immram Navigatio Sancti Brendani Abbatis. Across the medieval world this tale fired the imagination of sailors and monks alike, and later voyagers, looking west, thought of Brendan as a forerunner. He founded the monastery of Clonfert and labored among the peoples of the western seaboard. He is invoked by sailors, mariners, travelers, and all who go down to the sea in ships.",
+  "patronages": [
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Brendan the Navigator across the waves in search of the Isle of the Blessed, guide through his intercession all who travel by sea, and bring us at last to the harbor of Your eternal kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brendan_the_Navigator"
+  ],
+  "featured": false,
+  "draft": false
+}
