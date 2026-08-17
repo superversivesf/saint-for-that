@@ -1,0 +1,25 @@
+{
+  "slug": "finnian-of-movilla",
+  "name": "St. Finnian of Movilla",
+  "feastDay": "09-10",
+  "bio": "Finnian of Movilla was an Irish Christian missionary in the early centuries of the Church in Ireland. His feast is kept on September 10. As a missionary, Finnian devoted himself to spreading the Gospel and establishing the faith among the people of Ulster, with which he is especially associated. Movilla, his monastic foundation, was one of the many religious houses that sprang up across Ireland in the great age of the Irish saints. Like his namesake Finnian of Clonard, he belonged to that remarkable generation of holy men who labored to plant the Christian faith firmly in Irish soil, founding churches and monasteries that would endure for centuries. St. Finnian of Movilla is remembered as a faithful missionary who carried the message of Christ to the people of Ulster.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Finnian of Movilla to preach the Gospel to the people of Ulster, grant through his intercession that we may bear witness to your truth with faithful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finnian_of_Movilla"
+  ],
+  "featured": false,
+  "draft": false
+}

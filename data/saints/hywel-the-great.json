@@ -1,0 +1,21 @@
+{
+  "slug": "hywel-the-great",
+  "name": "St. Hywel the Great",
+  "feastDay": "unknown",
+  "bio": "Hoel, known in Welsh as Hywel the Great and in later romance as Sir Howel, was a late fifth- and early sixth-century prince of the ruling dynasty of Cornouaille in Brittany. The son of Budic II, he was remembered in the genealogies of the Breton saints as a man of piety who governed, or was expected to govern, jointly with his father after the restoration of the Breton throne. He seems to have predeceased Budic, leaving his young son Tewdwr as heir, yet the church in Wales and Brittany honored him as a saintly ruler, and several churches, including Llanrhian in Pembrokeshire, bear his name. He stands among the royal saints of the Celtic churches who combined noble birth with a reputation for holiness.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hywel from a royal house to be numbered among the saints of Brittany and Wales, grant through his intercession that those entrusted with leadership and family may seek first the kingdom of heaven. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hywel_the_Great"
+  ],
+  "featured": false,
+  "draft": false
+}

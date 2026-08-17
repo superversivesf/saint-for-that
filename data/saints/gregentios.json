@@ -1,0 +1,29 @@
+{
+  "slug": "gregentios",
+  "name": "St. Gregentios",
+  "feastDay": "unknown",
+  "bio": "Saint Gregentios was the purported archbishop of Ẓafār, the capital of the kingdom of Ḥimyar, in the mid-sixth century. His life is known through a hagiographical dossier compiled in the tenth century, consisting of three works conventionally known as the Bios, the Nomoi, and the Dialexis: a biography, the laws he wrote for the kingdom, and a debate he held with a Jew. The compilation, written in Greek and preserved also in a Slavonic translation, is largely legendary and fictitious, though parts retain historical value. Together the texts are sometimes called the Acts of Gregentios. He is remembered as a shepherd of a distant Christian community and a lawgiver for a people newly brought to the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scripture study",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the traditions of your Church have given us the memory of St. Gregentios, shepherd of Ẓafār, grant through his intercession that all bishops may govern with wisdom and that your people may grow in unity and in knowledge of your word. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregentios"
+  ],
+  "featured": false,
+  "draft": false
+}

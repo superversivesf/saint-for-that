@@ -1,0 +1,21 @@
+{
+  "slug": "felix-of-nantes",
+  "name": "St. Felix of Nantes",
+  "feastDay": "unknown",
+  "bio": "Felix of Nantes, born around 514, served as Bishop of Nantes in the early sixth century, shepherding the faithful of that French see through a formative period of the Church's life in Gaul. Consecrated to the episcopate, he gave himself wholly to the care of souls, governing his diocese with pastoral diligence and guiding his people in the way of holiness. He died around the year 584, leaving behind the memory of a faithful pastor. Venerated as a saint by the Catholic Church, St. Felix of Nantes is remembered among the long line of holy bishops who labored to plant and nourish the faith in the lands of western France, and his witness endures as an example of episcopal devotion.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Felix of Nantes to shepherd your people as bishop of Nantes, grant through his intercession that we may be faithful pastors of the souls entrusted to our care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Felix_of_Nantes"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "magnus-felix-ennodius",
+  "name": "St. Magnus Felix Ennodius",
+  "feastDay": "07-17",
+  "bio": "Saint Magnus Felix Ennodius was Bishop of Pavia in northern Italy, consecrated in 514, and one of the most distinguished Latin rhetoricians and poets of his age. Born in 473 or 474, probably at Arles, he was orphaned young and raised by an aunt in Pavia, where he received a thorough classical education. After a serious illness he resolved to dedicate himself more fully to God.\n\nAs bishop, Ennodius took an active part in the affairs of his turbulent time. He was sent twice as envoy to Constantinople on behalf of the Roman see, defending the authority of the pope before the emperor. His writings, including sermons, letters, poems, and a life of St. Epiphanius of Pavia, were prized for their elegant style. He died on 17 July 521 and is honored as a model of the learned bishop.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Magnus Felix Ennodius with learning and eloquence in the service of Your Church, grant through his intercession that those who lead Your people may also adorn the faith with wisdom and good words. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Magnus_Felix_Ennodius"
+  ],
+  "featured": false,
+  "draft": false
+}

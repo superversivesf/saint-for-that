@@ -1,0 +1,21 @@
+{
+  "slug": "faber",
+  "name": "St. Faber",
+  "feastDay": "unknown",
+  "bio": "Saint Faber is venerated as the patron of the Sacred Heart Church in Boho, County Fermanagh, and of the nearby district of Monea in the west of Ulster. Little certain history about his life has come down to us, yet his name was kept in the devotion of the Irish faithful of that region, who honored him among the saints who brought and nurtured the Christian faith in the countryside of Ireland. His association with a parish church dedicated to the Sacred Heart shows how the memory of early saints was woven into the prayer life of later generations. He is remembered as one of the hidden saints of Ireland, whose quiet intercession still watches over the people and places placed under his care.",
+  "patronages": [
+    {
+      "need": "sacred heart devotion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who kept the memory of St. Faber alive among the faithful of Boho and Monea, grant through his intercession that we may grow in devotion to the Sacred Heart of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Faber"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "john-of-choziba",
+  "name": "St. John of Choziba",
+  "feastDay": "unknown",
+  "bio": "Saint John of Choziba, first known as John of Thebes, was an Egyptian monk born around 440–450. In his youth he embraced monophysitism, but around the year 480 he renounced that teaching and removed himself to Wadi Qelt in the Judaean Desert, where he reorganized an existing lavra into the monastery of Choziba. In 516 he was made Bishop of Caesarea, yet the weight of the office soon drove him to resign and return to his desert monastery, where he died between 520 and 530. He is remembered as one who sought the quiet of the wilderness and the truth of Christ above the honors of the Church.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. John of Choziba into the desert to seek truth above honor, grant through his intercession that we may prefer the quiet of Your presence to every worldly acclaim, and renounce whatever turns us from Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_of_Choziba"
+  ],
+  "featured": false,
+  "draft": false
+}

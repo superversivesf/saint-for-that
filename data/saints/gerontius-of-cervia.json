@@ -1,0 +1,21 @@
+{
+  "slug": "gerontius-of-cervia",
+  "name": "St. Gerontius of Cervia",
+  "feastDay": "unknown",
+  "bio": "Saint Gerontius of Cervia served as bishop of that ancient Italian see and is honored among the saints of the Church. Little certain detail survives concerning his life and ministry, yet the veneration paid to his memory by the faithful of Cervia attests to a life of holiness and pastoral devotion. He shepherded his diocese in an age when the Church in Italy was still consolidating its presence among the people. The continuity of his cult through the centuries witnesses to the esteem in which he was held by those he guided. He is invoked as a patron of bishops and of those who labor in obscurity for the Gospel.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gerontius of Cervia to shepherd your people in the Italian peninsula, grant through his intercession that all bishops may serve with holiness and devotion, faithful in obscurity as in renown. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerontius_of_Cervia"
+  ],
+  "featured": false,
+  "draft": false
+}

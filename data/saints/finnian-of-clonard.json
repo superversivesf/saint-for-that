@@ -1,0 +1,29 @@
+{
+  "slug": "finnian-of-clonard",
+  "name": "St. Finnian of Clonard",
+  "feastDay": "12-12",
+  "bio": "Finnian of Clonard, also known as Finian, Fionán, or Fionnán in Irish and as Finianus in Latin, was born around 470 and died around 549. He is one of the great early Irish monastic saints, and founded Clonard Abbey in what is now County Meath. Clonard became a renowned school of monastic learning, and the Twelve Apostles of Ireland, a group of monks who went on to found monasteries across the island, studied under Finnian's guidance. He is considered one of the fathers of Irish monasticism, and his influence on the spread of Christianity and monastic culture in Ireland was immense. Finnian of Clonard died around 549 and is celebrated on December 12, honored as a teacher and founder whose disciples carried his spiritual legacy across the whole of Ireland.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Finnian of Clonard a father of Irish monasticism and a teacher of saints, grant through his intercession that we may grow in learning and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+  ],
+  "featured": false,
+  "draft": false
+}

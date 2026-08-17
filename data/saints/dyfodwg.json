@@ -1,0 +1,21 @@
+{
+  "slug": "dyfodwg",
+  "name": "St. Dyfodwg",
+  "feastDay": "06-25",
+  "bio": "Dyfodwg, also called Tyfodwg, was a sixth-century Welsh saint remembered as one of the three patrons from whom the ancient parish of Llantrisant takes its name. A disciple or companion in the early Christian settlement of Wales, he gave his name to the parish of Llandyfodwg in Glynogwr, between Blackmill and Gilfach Goch in what is now Bridgend, and to the ancient parish of Ystradyfodwg. Like many of the Welsh saints, he left no written record, but the churches and lands dedicated to his memory testify to a life of holiness honored by the people of the valleys. His feast is kept on June 25, and he is remembered among the holy company of Celtic saints who shaped the faith of Wales.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Dyfodwg in the churches and parishes of Wales, grant through his intercession that we may leave behind a legacy of faith in the places where we serve You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dyfodwg"
+  ],
+  "featured": false,
+  "draft": false
+}

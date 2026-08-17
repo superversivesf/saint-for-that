@@ -1,0 +1,29 @@
+{
+  "slug": "gildas",
+  "name": "St. Gildas",
+  "feastDay": "01-29",
+  "bio": "Saint Gildas, known also as Gildas Badonicus, Gildas fab Caw, and Gildas Sapiens, was a sixth-century British monk renowned for his learning and his religious polemic De Excidio et Conquestu Britanniae, which recounts the history of the Britons before and during the coming of the Saxons. He is one of the best-documented figures of the Christian Church in the British Isles during the sub-Roman period, celebrated for his Biblical knowledge and literary style. In his later life he emigrated to Brittany, where he founded a monastery known as Saint-Gildas-de-Rhuys. His writings remain a foundational source for the history of early medieval Britain and a call to repentance and reform. He is invoked as a patron of historians and of bell founders.",
+  "patronages": [
+    {
+      "need": "scholars",
+      "category": "jobs"
+    },
+    {
+      "need": "writers",
+      "category": "jobs"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Gildas wisdom to write and zeal to call your people to reform, grant through his intercession that scholars and writers may seek truth with courage and that your Church may be ever renewed in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gildas"
+  ],
+  "featured": false,
+  "draft": false
+}

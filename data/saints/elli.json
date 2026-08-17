@@ -1,0 +1,21 @@
+{
+  "slug": "elli",
+  "name": "St. Elli",
+  "feastDay": "unknown",
+  "bio": "Saint Elli was a sixth-century Welsh saint, or possibly two saints of the same name, whose memory is preserved in the towns and parishes that bear his name. Llanelli in Carmarthenshire and Llanelly in Monmouthshire are both named after Elli, their Welsh forms meaning the church or enclosure of Elli. As with many of the Welsh saints, his life is known to us chiefly through these place-names, which mark where his church stood and where the people gathered to pray. He belongs to that early generation of saints who carried the Christian faith through the valleys and settlements of Wales, leaving their names upon the land itself. His feast is kept among the local commemorations of the Welsh Church, and he is honored as a patron of the communities that bear his name.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who caused the name of St. Elli to endure in the parishes of Wales, grant through his intercession that our communities may be grounded in faith and grow in Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Elli"
+  ],
+  "featured": false,
+  "draft": false
+}

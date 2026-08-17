@@ -1,0 +1,25 @@
+{
+  "slug": "isfael",
+  "name": "St. Isfael",
+  "feastDay": "06-16",
+  "bio": "Isfael, also called Ismael or Ishmael, was a 6th-century Welsh bishop and saint who labored in the Kingdom of Rhos in south Wales. Tradition holds that he was of noble Breton lineage, a prince of Armorica who crossed the sea to bring the Gospel to the Celtic peoples of western Britain. Consecrated bishop of Rhos, he shepherded the fledgling Christian communities of Pembrokeshire and Carmarthenshire, where churches at St Ishmael's still bear his name. He was a contemporary and companion of the great Welsh saints, laboring in the age when the Celtic Church took root in the rugged lands along the Irish Sea. His feast is kept on June 16.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Isfael from across the sea to plant the Church in the lands of Wales, grant through his intercession that we may be faithful heralds of the Gospel wherever You send us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isfael"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "john-climacus",
+  "name": "St. John Climacus",
+  "feastDay": "03-30",
+  "bio": "John Climacus, called John of the Ladder, John Scholasticus, and John Sinaites, was a 6th–7th century monk who lived and labored at the monastery on Mount Sinai. His name \"Climacus\" comes from his great work, The Ladder of Divine Ascent, which describes thirty steps of the spiritual life from renunciation to the summit of love. Written for the monks of his own house, the book became one of the most widely read guides to the ascetic and contemplative life in the Eastern Church. He is revered as a saint by both the Eastern Orthodox and Catholic Churches, and his feast is kept on March 30. He remains a teacher of all who seek to climb toward God.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplation",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. John Climacus revealed the ladder of ascent from renunciation to the summit of love, grant through his intercession that we may climb steadily toward You, overcoming every vice by the grace of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Climacus"
+  ],
+  "featured": false,
+  "draft": false
+}

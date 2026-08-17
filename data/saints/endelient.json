@@ -1,0 +1,25 @@
+{
+  "slug": "endelient",
+  "name": "St. Endelient",
+  "feastDay": "04-29",
+  "bio": "Saint Endelient was a Cornish saint of the fifth and sixth century, believed to be a daughter of the Welsh king Brychan. A native of South Wales, she travelled to North Cornwall to join her many siblings who had settled there to convert the local people to Christianity. According to legend she was a goddaughter of King Arthur and lived as a hermit at Trentinney, subsisting on the milk of a single cow.\n\nHer life of prayer and solitude became known throughout the surrounding countryside, and the church and village of St Endellion take their name from her. She is honored as one of the holy women who brought the faith to the western reaches of Britain, living hidden lives of devotion that bore fruit in the Christian communities that grew around their memory. Her feast is kept on 29 April.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Endelient to a life of prayer in the solitude of Cornwall, grant through her intercession that we may learn to seek You in stillness and bear witness to Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Endelient"
+  ],
+  "featured": false,
+  "draft": false
+}

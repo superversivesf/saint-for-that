@@ -1,0 +1,25 @@
+{
+  "slug": "enda-of-aran",
+  "name": "St. Enda of Aran",
+  "feastDay": "03-21",
+  "bio": "Saint Enda of Aran was an Irish saint of the fifth and early sixth century, honored as the founder of monasticism on the Aran Islands and sometimes called the patriarch of Irish monks. According to tradition, he was a warrior prince of Oriel in Ulster who, after a pilgrimage to Rome, renounced his warlike life and embraced the monastic path.\n\nReturning to Ireland, Enda settled on the remote and rocky island of Inishmore, off the coast of Galway, where he established a monastery that became the first major monastic school in Ireland. Many of Ireland's greatest early saints came there to learn his rule. Aran under Enda became a center of holiness and learning, preparing monks to carry the faith across Ireland and beyond. He died around 530, and his feast is kept on 21 March.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Enda from the sword to the cross and made him a father of Irish monasticism, grant through his intercession that we may turn from violence and seek the peace that comes from You alone. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enda_of_Aran"
+  ],
+  "featured": false,
+  "draft": false
+}

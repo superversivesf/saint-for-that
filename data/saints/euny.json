@@ -1,0 +1,21 @@
+{
+  "slug": "euny",
+  "name": "St. Euny",
+  "feastDay": "unknown",
+  "bio": "Saint Euny, also known as Uny, is the patron saint of the churches of Lelant and Redruth in west Cornwall, England. He is identified in some traditions with St. Ewin, a Welsh saint, and is associated with the early wave of Christian missionaries who came to Cornwall from Ireland and Wales in the fifth and sixth centuries. His name is preserved in the parishes and holy wells that bear it, marking the places where he preached.\n\nAs with many of the early Cornish saints, Euny's life is known chiefly through these place-names and the enduring devotion of the local people. He is honored as one of the holy men who carried the Christian faith through the coastal settlements of Cornwall, leaving their names upon the land. He is venerated as a patron of the communities that bear his name.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who caused the name of St. Euny to endure in the parishes of Cornwall, grant through his intercession that the faithful of that land and all who invoke him may persevere in the faith he first preached. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euny"
+  ],
+  "featured": false,
+  "draft": false
+}

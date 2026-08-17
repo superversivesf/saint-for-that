@@ -1,0 +1,25 @@
+{
+  "slug": "gregory-of-terracina",
+  "name": "St. Gregory of Terracina",
+  "feastDay": "unknown",
+  "bio": "Saint Gregory of Terracina is honored in the Roman Catholic and Eastern Orthodox churches, with his memorial kept on December 12. He was a Benedictine monk at Terracina and a spiritual student of St. Benedict of Nursia himself, joining that first generation of monks who carried the Benedictine way across Italy. He is mentioned by St. Gregory the Great in his Dialogues, which preserved the memory of his holiness for later ages. He served as a link between the founding generation of Western monasticism and the broader Church that grew from it. He is invoked as a patron of monks and of those who follow the Rule of St. Benedict.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gregory of Terracina to follow St. Benedict in the school of your service, grant through his intercession that all monks and those who seek your guidance may grow in obedience, prayer, and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_of_Terracina"
+  ],
+  "featured": false,
+  "draft": false
+}

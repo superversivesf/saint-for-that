@@ -1,0 +1,25 @@
+{
+  "slug": "hesychius-ii-bishop-of-vienne",
+  "name": "St. Hesychius II of Vienne",
+  "feastDay": "unknown",
+  "bio": "Hesychius, also called Isicius, governed the see of Vienne in the Rhône valley from about 545 until his death. As bishop of one of the oldest and most prestigious Gallic sees, he shepherded his flock through the turbulent decades that followed the fall of the Burgundian kingdom and the absorption of its lands into Frankish rule. He is named in the martyrologies among the holy bishops of Vienne who preserved the faith in southern Gaul through an age of political upheaval. Little detail of his episcopate survives, but the church of Vienne honored him for his pastoral care and for maintaining the discipline and unity of the local church in uncertain times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Hesychius a faithful shepherd of the ancient see of Vienne, grant through his intercession that bishops may govern Your Church with wisdom and preserve the unity of the faithful in turbulent times. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hesychius_II_(bishop_of_Vienne)"
+  ],
+  "featured": false,
+  "draft": false
+}

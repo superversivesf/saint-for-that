@@ -1,0 +1,25 @@
+{
+  "slug": "dorotheus-of-gaza",
+  "name": "St. Dorotheus of Gaza",
+  "feastDay": "06-05",
+  "bio": "Dorotheus of Gaza, called the Archimandrite or Abba Dorotheus, was a sixth-century monk and abbot of the monastery of Seridus near Gaza in Palestine. Raised in a devout family, he entered the ascetic life under the guidance of the holy elders Barsanuphius and John, whose letters and instructions he faithfully recorded. As abbot he wrote a series of teachings on the spiritual life, humility, and obedience that became a classic of monastic literature, influencing both Eastern and Western traditions. Honored on June 5, he is a trusted guide for all who seek the inward path of prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Dorotheus of Gaza the way of humility and obedience and made him a guide of souls, grant through his intercession that we may walk the inward path of prayer with willing hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dorotheus_of_Gaza"
+  ],
+  "featured": false,
+  "draft": false
+}

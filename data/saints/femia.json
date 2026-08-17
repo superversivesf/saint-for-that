@@ -1,0 +1,21 @@
+{
+  "slug": "femia",
+  "name": "St. Femia",
+  "feastDay": "unknown",
+  "bio": "Saint Femia was an Irish Christian saint venerated from early times, remembered chiefly as the sister of two other Irish saints, Felim of Kilmore and Daig of Inniskeen. In the hagiographic tradition of early medieval Ireland, families often produced several saints, and Femia belongs to that holy lineage. Though few details of her life survive, her kinship with Felim and Daig places her among the network of holy men and women who helped establish Christianity across the island in the early centuries after Patrick. Her memory is preserved in the calendars and genealogies of the Irish saints, and she is honored as one of the many faithful women whose quiet witness helped root the faith in Irish soil.",
+  "patronages": [
+    {
+      "need": "families",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Femia to holiness within a family of saints, grant through her intercession that families may grow together in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Femia"
+  ],
+  "featured": false,
+  "draft": false
+}

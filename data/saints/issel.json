@@ -1,0 +1,21 @@
+{
+  "slug": "issel",
+  "name": "St. Issel",
+  "feastDay": "unknown",
+  "bio": "Saint Issel, also called Issell, was a 6th-century Welsh saint of the Celtic Church who lived in the Kingdom of Dyfed in southwest Wales. He is remembered chiefly as the father of Saint Teilo, one of the most beloved of the Welsh saints and a disciple of St. David. Little else has survived the centuries about Issel's own life, but his holiness is attested by the fruit of his household: a son who became a great bishop and teacher of the faith. He stands as a witness to the truth that the seeds of sanctity are often sown in the domestic church, and that parents who raise their children in the fear of the Lord leave a legacy beyond their own days.",
+  "patronages": [
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Issel gave the Welsh Church the great Saint Teilo, grant through his intercession that fathers of families may nurture holiness in their children and see the Gospel take root in their homes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Issel"
+  ],
+  "featured": false,
+  "draft": false
+}

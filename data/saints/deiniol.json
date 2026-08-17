@@ -1,0 +1,21 @@
+{
+  "slug": "deiniol",
+  "name": "St. Deiniol",
+  "feastDay": "09-11",
+  "bio": "Saint Deiniol, sometimes rendered Daniel in English and Latin, was traditionally the first Bishop of Bangor in the Kingdom of Gwynedd, Wales. Set apart for the Church in the early sixth century, he established a monastery on the Menai Strait, around which the cathedral city of Bangor grew. The present Bangor Cathedral, dedicated in his name, is said to stand on the site of his original foundation. He labored among the Welsh and was also venerated in Brittany as Saint Denoual. Remembered on September 11, he is honored as a founding pastor of the Welsh Church and a builder of Christian community in a still-young land.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Deiniol to be the first bishop of Bangor and a founder of Christian community in Wales, grant through his intercession that pastors may build up Your people in faith and unity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deiniol"
+  ],
+  "featured": false,
+  "draft": false
+}

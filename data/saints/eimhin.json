@@ -1,0 +1,29 @@
+{
+  "slug": "eimhin",
+  "name": "St. Eimhin",
+  "feastDay": "unknown",
+  "bio": "Eimhin was the abbot and bishop of Ros-mic-Truin in Ireland, probably in the sixth century. As a monastic ruler, he shepherded both the monks under his care and the people of the surrounding region, uniting the pastoral office of a bishop with the ascetic leadership of an abbot. In that golden age of Irish monasticism, when abbots and bishops governed the Church together, Eimhin's house stood as a center of prayer and learning. Though the details of his life have faded into tradition, his memory was preserved in the liturgy of the Irish Church. He is honored as one of the early monastic bishops of Ireland, a father of the faith who guided his flock with the crozier of a pastor and the rule of a monk.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eimhin both abbot and bishop, a shepherd of monks and people alike, grant through his intercession that those who lead Your Church may unite the wisdom of contemplation with the care of souls. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eimhin"
+  ],
+  "featured": false,
+  "draft": false
+}

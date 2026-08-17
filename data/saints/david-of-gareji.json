@@ -1,0 +1,21 @@
+{
+  "slug": "david-of-gareji",
+  "name": "St. David of Gareji",
+  "feastDay": "05-07",
+  "bio": "David of Gareji was an anchorite, Desert Father, and wonderworker, counted among the thirteen Assyrian Apostles who brought the Gospel to the Kingdom of Iberia in the sixth century. Drawn to the silence of the wilderness, he settled in the rugged hills of what is now eastern Georgia, where he and his companions established the monastic lavas of the Gareji Desert. Renowned for austerity and miracles, he became a spiritual father to monks and pilgrims who sought him in his cave. Honored by the Eastern Orthodox Church especially on May 7, he remains one of the most beloved saints of the Georgian Church and a patron of the Georgian nation.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. David of Gareji to the silence of the desert and made him a father of monks and a light to the Kingdom of Iberia, grant through his intercession that we may seek You in stillness and proclaim Your Gospel with courage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_of_Gareji"
+  ],
+  "featured": false,
+  "draft": false
+}

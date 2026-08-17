@@ -1,0 +1,33 @@
+{
+  "slug": "gwynllyw",
+  "name": "St. Gwynllyw",
+  "feastDay": "03-29",
+  "bio": "Gwynllyw Filwr, or Gwynllyw Farfog, known in English in corrupted form as Woolos the Warrior or Woolos the Bearded, was a Welsh king and religious figure of the early medieval period. By tradition he began life as a warrior ruler given to the ways of his time, but in his later years he renounced his former life and embraced a severe penitential discipline, living as a hermit upon the hill where the city of Newport now stands. His conversion became one of the founding stories of Christian Wales, and the great church dedicated to him in Newport preserves his memory. He is honored as a patron of Newport and invoked for soldiers and sailors, those who, like him, have known the way of arms and seek the way of peace.",
+  "patronages": [
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gwynllyw from the life of a warrior to the repentance of a hermit, grant through his intercession that all who have lived by the sword may find the courage to lay it down and seek Your peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwynllyw"
+  ],
+  "featured": false,
+  "draft": false
+}

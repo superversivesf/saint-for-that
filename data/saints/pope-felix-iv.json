@@ -1,0 +1,21 @@
+{
+  "slug": "pope-felix-iv",
+  "name": "St. Felix IV",
+  "feastDay": "01-30",
+  "bio": "Pope Felix IV served as bishop of Rome from July 12, 526, until his death on September 22, 530. He was the candidate chosen by the Ostrogoth king Theodoric the Great, who had imprisoned his predecessor, Pope John I, during a bitter dispute between the Arian Gothic court and the orthodox Church of Rome. Despite the troubled circumstances of his election, Felix proved a faithful pastor, working to strengthen the faith in the face of heresy and to care for the Church in a time of political pressure. He labored for the unity of the Church in Gaul and left a mark on the liturgy. Honored as a saint, his feast is kept on January 30, a witness to a pope who served Christ even under the shadow of an earthly throne.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Felix IV a steadfast shepherd of Your Church under the pressure of earthly powers, grant through his intercession that the successors of Peter may be firm in faith and rich in charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Felix_IV"
+  ],
+  "featured": false,
+  "draft": false
+}

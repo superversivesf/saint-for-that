@@ -1,0 +1,21 @@
+{
+  "slug": "pope-dioscorus-ii-of-alexandria",
+  "name": "St. Dioscorus II of Alexandria",
+  "feastDay": "10-27",
+  "bio": "Pope Dioscorus II of Alexandria was the thirty-first Pope of Alexandria and Patriarch of the See of Saint Mark, shepherding the Coptic Church in the early sixth century. Chosen after the departure of his predecessor Saint John, his first act was to write an epistle to Pope Severus of Antioch on the Holy Trinity and the Incarnation, defending the orthodox faith against confusion. Severus's reply was read aloud from the pulpit, binding the two great sees in shared confession. Honored on October 27, he is remembered as a pastor who placed sound teaching at the heart of his ministry.",
+  "patronages": [
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Dioscorus II to confess the truth of the Holy Trinity and the Incarnation, grant through his intercession that Your Church may hold fast to sound teaching and walk in unity of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_Dioscorus_II_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

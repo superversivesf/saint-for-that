@@ -1,0 +1,29 @@
+{
+  "slug": "illtud",
+  "name": "St. Illtud",
+  "feastDay": "11-06",
+  "bio": "Illtud, called Illtud Farchog or Illtud the Knight, was a sixth-century abbot and teacher who founded the monastery and school of Bangor Illtyd at Llanilltud Fawr in Glamorgan, Wales. By tradition a Breton nobleman and a soldier before he took the monastic habit, he is counted among the most influential of the Welsh saints. His school, regarded as the earliest centre of learning in Britain, drew over a thousand pupils and trained many of the great saints of the age, among them David, Samson of Dol, and the historian Gildas. Illtud was famed for his learning, his holiness of life, and his ability to reconcile the eremitic and scholarly ideals. His feast is kept on November 6, and Llantwit Major still preserves his name and the ancient church he founded.",
+  "patronages": [
+    {
+      "need": "teachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Illtud a teacher of saints and a founder of learning in the land of Wales, grant through his intercession that teachers and scholars may hand on the wisdom of the Gospel, and that all who seek truth may find it in Your service. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Illtud"
+  ],
+  "featured": false,
+  "draft": false
+}

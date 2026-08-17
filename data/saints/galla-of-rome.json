@@ -1,0 +1,29 @@
+{
+  "slug": "galla-of-rome",
+  "name": "St. Galla of Rome",
+  "feastDay": "04-06",
+  "bio": "Galla of Rome was a sixth-century Roman widow renowned for her generosity and her life of prayer after the death of her husband. According to the tradition preserved by St. Gregory the Great, she belonged to a noble Roman family and, upon being widowed, devoted herself wholly to God, caring for the poor and the sick and spending her days in penance and contemplation. Gregory records that Galla was visited by St. Peter in a vision, who foretold her death and invited her to the joys of heaven. She received this revelation with peace and prepared herself with even greater fervor, dying shortly after. The Church of Santa Galla in Rome is dedicated to her. She is honored as a patron of widows and of those who, after loss, give themselves anew to God in prayer and works of mercy.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who comforted the widow St. Galla of Rome and filled her heart with love for the poor and desire for the things of heaven, grant through her intercession that all who mourn the loss of loved ones may find in you their peace and their hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galla_of_Rome"
+  ],
+  "featured": false,
+  "draft": false
+}

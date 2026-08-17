@@ -1,0 +1,21 @@
+{
+  "slug": "gunderich-of-trier",
+  "name": "St. Gunderich of Trier",
+  "feastDay": "unknown",
+  "bio": "Gunderich of Trier, also known as Gundwich, served as bishop of Trier in the sixth century, one of the ancient sees of Christendom. Though the historical record preserves only fleeting details of his life, his memory endured among the faithful of the Moselle valley as a successor to the apostolic tradition entrusted to that great diocese. The bishops of Trier in his day shepherded a frontier Church buffeted by the movements of peoples and the legacy of Rome's fall, and Gunderich's quiet fidelity to his episcopal charge joined him to that long line of pastors. His feast is remembered in the local calendars of the diocese.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gunderich to shepherd the ancient see of Trier in troubled days, grant through his intercession that all bishops may be faithful pastors after the heart of Your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gunderich_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

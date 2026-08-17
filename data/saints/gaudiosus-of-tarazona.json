@@ -1,0 +1,29 @@
+{
+  "slug": "gaudiosus-of-tarazona",
+  "name": "St. Gaudiosus of Tarazona",
+  "feastDay": "11-03",
+  "bio": "Gaudiosus served as Bishop of Tarazona in Aragon, Spain, in the early centuries of the Spanish Church. His name, meaning \"the joyful one,\" fittingly describes a pastor whose holiness was marked by the gladness of a soul devoted to Christ. He governed his diocese with care, and the cathedral of Tarazona, which honors him as its principal patron, preserves the memory of his ministry. Though few biographical details have come down to us, the veneration of St. Gaudiosus endured strongly in Tarazona and the neighboring dioceses. His feast on November 3 has been kept for centuries by the people of his see. He is numbered among the early bishops of Spain who laid the foundations of Christian life in Iberia, and is honored as a patron of bishops and of all who serve the Church with joyful hearts.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "humor",
+      "category": "everyday"
+    },
+    {
+      "need": "europe",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gaudiosus a joyful shepherd of your Church at Tarazona, grant through his intercession that we may serve you with gladness of heart and bear witness to your love in all we do. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaudiosus_of_Tarazona"
+  ],
+  "featured": false,
+  "draft": false
+}

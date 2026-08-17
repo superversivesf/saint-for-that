@@ -1,0 +1,33 @@
+{
+  "slug": "gwen-teirbron",
+  "name": "St. Gwen Teirbron",
+  "feastDay": "unknown",
+  "bio": "Gwen Teirbron, whose Welsh epithet means \"of the three breasts,\" was a Breton holy woman of the fifth or sixth century, the wife of Fragan and mother of saints. She figures among the wave of Brittonic settlers who crossed the Channel to Armorica, carrying their Christian faith into the land that would become Brittany. Tradition honors her as a model of Christian motherhood whose body itself was said to bear a miraculous sign, the third breast understood as provision for the saints she would nurse. Her sons included Winwaloe, founder of the monastery of Landévennec, and Jacut and Guethenoc, themselves abbots and founders. Through her offspring the faith took root in the Breton landscape.",
+  "patronages": [
+    {
+      "need": "mothers",
+      "category": "family"
+    },
+    {
+      "need": "families",
+      "category": "family"
+    },
+    {
+      "need": "nursing",
+      "category": "illness"
+    },
+    {
+      "need": "breast disease",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who adorned St. Gwen Teirbron with the grace of motherhood and made her the root of a holy family in Brittany, grant through her intercession that mothers may nurse their children in faith and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwen_Teirbron"
+  ],
+  "featured": false,
+  "draft": false
+}

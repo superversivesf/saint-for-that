@@ -1,0 +1,25 @@
+{
+  "slug": "fanchea",
+  "name": "St. Fanchea",
+  "feastDay": "01-01",
+  "bio": "Saint Fanchea of Rossory is an Irish saint honored by the Eastern Orthodox Church, the Church in Wales, and the Catholic Church. She was the sister of Saint Enda of Arran, the great monastic founder, and is remembered chiefly for the role she played in his conversion. According to tradition, Enda had been a warrior prince, and Fanchea, herself consecrated as a virgin, pleaded and prayed until he agreed to renounce the sword and become a monk. Her persuasion helped to send him to the island of Inis Mór, where he established the famous monastery of Killeany and became a father of Irish monasticism. Her feast is kept on January 1, a witness to a woman whose prayer and counsel changed the course of a saint's life.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through the prayers of St. Fanchea turned the heart of her brother Enda from war to Your service, grant through her intercession that we may draw those we love closer to Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fanchea"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ilar",
+  "name": "St. Ilar",
+  "feastDay": "01-15",
+  "bio": "Ilar is listed among the sixth-century saints of Wales and is the probable namesake of Llanilar in Ceredigion and its former hundred, as well as Trefilan nearby. The Welsh calendars preserve his memory as one of the early Celtic missionary saints who evangelized the hills and valleys of west Wales, founding churches and living as a hermit and pastor among the people. His feast is given in different sources as January 13, 14, or 15, though it is no longer observed liturgically by the Anglican or Catholic church in Wales. As with many of the Welsh saints, detailed biography has given way to place-name and local devotion, but Llanilar keeps his name and the ancient parish church still stands on the site tradition assigns to his settlement.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who planted St. Ilar among the hills of Ceredigion to be a shepherd of souls and a light to the Welsh people, grant through his intercession that we may build up Your Church in quiet places and remain steadfast in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Ilar"
+  ],
+  "featured": false,
+  "draft": false
+}

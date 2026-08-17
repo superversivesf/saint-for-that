@@ -1,0 +1,33 @@
+{
+  "slug": "fulgentius-of-ruspe",
+  "name": "St. Fulgentius of Ruspe",
+  "feastDay": "01-01",
+  "bio": "Fabius Claudius Gordianus Fulgentius, born in the mid-fifth century in North Africa, served as Bishop of Ruspe in what is now Tunisia. Raised in a noble Roman family, he entered religious life after reading a sermon of St. Augustine. Consecrated bishop around 507, he became a fierce defender of Catholic orthodoxy against Arianism under the Vandal kings. Twice exiled for his preaching, he used his banishments to found monasteries and strengthen scattered communities. A theologian of great depth, he wrote on grace, predestination, and the Trinity, echoing Augustine. He was revered for his austerity, his compassion for the poor, and his brilliant sermons. He died around 527 or 533 and is honored as a patron of bishops and of those who suffer exile for the faith.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Fulgentius of Ruspe to confess your truth amid persecution and exile, grant through his intercession that your Church may be defended against every error and that those who suffer for the faith may stand firm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
+  ],
+  "featured": false,
+  "draft": false
+}

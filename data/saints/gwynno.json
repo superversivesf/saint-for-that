@@ -1,0 +1,25 @@
+{
+  "slug": "gwynno",
+  "name": "St. Gwynno",
+  "feastDay": "10-26",
+  "bio": "Gwynno, or Gwynnog ab Gildas, is remembered as a sixth-century Welsh saint. His name, meaning \"little fair one,\" links him to the Celtic saints who carried the Gospel through the valleys and hills of early medieval Wales. The church at Llanwynno in Glamorgan preserves his dedication, a witness to the devotion of the people who received the faith from such missionary monks and hermits. His feast is kept on October 26. Though the details of his life are scant, his memory endured in the landscape and in the liturgical calendars of Wales, where the saints of the sixth century are honored as the founders of a Christian people whose faith has endured for fifteen centuries.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gwynno a vessel of the Gospel in the hills of Wales, grant through his intercession that the faith planted in that land may continue to bear fruit in every generation. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwynno"
+  ],
+  "featured": false,
+  "draft": false
+}

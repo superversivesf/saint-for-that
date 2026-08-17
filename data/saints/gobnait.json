@@ -1,0 +1,29 @@
+{
+  "slug": "gobnait",
+  "name": "St. Gobnait",
+  "feastDay": "02-11",
+  "bio": "Saint Gobnait, also known as Gobnat, Mo Gobnat, Abigail, or Deborah, was an early medieval Irish saint whose church was at Móin Mór, later Bairnech, in the village of Ballyvourney, County Cork. She was associated with the Múscraige, and her church and convent lay on the borders between the Múscraige Mittine and the Eóganacht Locha Léin. Devotion to her has endured for centuries in the southwest of Ireland, where pilgrims still visit her holy well and her medieval statue. She is most famously linked with bees, and tradition holds that she used them to defend her community from attack. Her feast is kept on February 11. She is invoked as a patron of beekeepers and of those who tend the land.",
+  "patronages": [
+    {
+      "need": "beekeepers",
+      "category": "jobs"
+    },
+    {
+      "need": "farmers",
+      "category": "nature"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Gobnait wisdom to tend her community and to call upon the humble bee for its defense, grant through her intercession that all who labor upon the land may find in your creation both provision and protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gobnait"
+  ],
+  "featured": false,
+  "draft": false
+}

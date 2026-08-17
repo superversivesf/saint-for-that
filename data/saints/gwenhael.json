@@ -1,0 +1,29 @@
+{
+  "slug": "gwenhael",
+  "name": "St. Gwenhael",
+  "feastDay": "11-03",
+  "bio": "Saint Gwenhael was a Breton saint of the sixth century, born at Ergué-Gabéric in Finistère. He became the second abbot of Landévennec Abbey, succeeding its founder Saint Winwaloe in 532. As Winwaloe's disciple, Gwenhael inherited the demanding monastic rule planted on that rocky shore of the Atlantic, governing the monks who kept the round of Celtic prayer and penance. His abbacy marked the consolidation of one of the most influential monasteries of early Brittany, a spiritual seedbed from which holiness spread across the Armorican peninsula. His feast is kept on November 3, and he is remembered as a faithful link in the chain of Breton abbots who handed on the tradition they had received from their founders.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gwenhael a faithful heir to the monastic life founded by Saint Winwaloe, grant through his intercession that we may preserve the traditions of holiness entrusted to us and hand them on undiminished. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwenhael"
+  ],
+  "featured": false,
+  "draft": false
+}

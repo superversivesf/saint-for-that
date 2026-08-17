@@ -1,0 +1,25 @@
+{
+  "slug": "fintan-of-clonenagh",
+  "name": "St. Fintan of Clonenagh",
+  "feastDay": "02-17",
+  "bio": "Fintan of Clonenagh was an Irish hermit and monk, an abbot and a disciple of Columba of Terryglass. In the tradition of the early Irish Church, Fintan embraced the solitary life of a hermit, seeking God in prayer and penance, before being called to serve as abbot over a community of monks. His teacher, Columba of Terryglass, was one of the Twelve Apostles of Ireland, and Fintan carried forward that spiritual inheritance at Clonenagh. The life of a hermit-abbot combined the rigor of personal asceticism with the pastoral care of a monastic community, and Fintan was faithful to both callings. His feast is kept on February 17, when the faithful remember this holy monk who sought God in solitude and led others to do the same in the early days of Irish monasticism.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fintan of Clonenagh to seek you in solitude and to guide others in the monastic way, grant through his intercession that we may find you in silence and lead others to your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fintan_of_Clonenagh"
+  ],
+  "featured": false,
+  "draft": false
+}

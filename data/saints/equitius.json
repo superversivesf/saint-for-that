@@ -1,0 +1,25 @@
+{
+  "slug": "equitius",
+  "name": "St. Equitius",
+  "feastDay": "08-11",
+  "bio": "Saint Equitius was an Italian abbot of the sixth century, born between 480 and 490 in the region of Valeria Suburbicaria in central Italy. Though a layman for much of his early life, he devoted himself to prayer, fasting, and the care of the poor, and gathered a community of disciples around him. Although never ordained to the priesthood, he was known for his zeal in preaching and for the miracles attributed to him.\n\nPope Hormisdas entrusted Equitius with a preaching mission, and he travelled widely through the towns and villages of the Abruzzi, founding monasteries and spreading the faith. He governed his houses as an abbot without ever taking orders. He died around 570 at San Martino in Valle, near L'Aquila, of which he is venerated as patron. His feast is kept on 11 August.",
+  "patronages": [
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Equitius grace to preach Your word and gather disciples though he never sought ordination, grant through his intercession that all the faithful may serve You according to their calling. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Equitius"
+  ],
+  "featured": false,
+  "draft": false
+}

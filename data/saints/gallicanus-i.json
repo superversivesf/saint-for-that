@@ -1,0 +1,29 @@
+{
+  "slug": "gallicanus-i",
+  "name": "St. Gallicanus I",
+  "feastDay": "unknown",
+  "bio": "Gallicanus I served as the seventh bishop of Embrun in the French Alps in the late fifth and early sixth centuries. He was a faithful participant in the Gallic councils that shaped the Church in the kingdoms of the Burgundians and Visigoths. He was represented at the Fourth Council of Arles in 524, assisted at Carpentras in 527, attended the Third Council of Vaison in 529, and was perhaps present at the Second Council of Orange that year. Presided over by Caesarius of Arles, these councils dealt with doctrine and discipline in a region marked by Roman rule and the rise of barbarian kingdoms. He labored with his brother bishops to defend the grace of Christ against semi-Pelagian teaching and to maintain Church unity. He is a patron of bishops and of those who labor for sound doctrine.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Gallicanus I a steadfast bishop at the councils of Gaul, grant through his intercession that your Church may ever hold fast to sound doctrine and walk in unity of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gallicanus_I"
+  ],
+  "featured": false,
+  "draft": false
+}

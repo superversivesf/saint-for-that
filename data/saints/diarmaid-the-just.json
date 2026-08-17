@@ -1,0 +1,21 @@
+{
+  "slug": "diarmaid-the-just",
+  "name": "St. Diarmaid the Just",
+  "feastDay": "unknown",
+  "bio": "Saint Diarmaid the Just was an Irish abbot and confessor of the late sixth century, renowned for his wisdom and fairness in settling disputes. He governed the monastery of Inis Clothrann on Lough Ree in County Longford and also labored at Faughalstown in County Westmeath. Kings and common folk alike sought his counsel, and his reputation for justice gave him his enduring epithet. As a confessor he guided penitents in the ways of repentance and mercy. Honored among the Irish saints, he embodies the ancient Celtic ideal of the abbot as judge, pastor, and spiritual father.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Diarmaid the Just wisdom to judge with fairness and mercy, grant through his intercession that we may act justly, love mercy, and walk humbly with You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diarmaid_the_Just"
+  ],
+  "featured": false,
+  "draft": false
+}

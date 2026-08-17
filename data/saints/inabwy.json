@@ -1,0 +1,21 @@
+{
+  "slug": "inabwy",
+  "name": "St. Inabwy",
+  "feastDay": "unknown",
+  "bio": "Inabwy was a Welsh bishop and saint who lived in the sixth and seventh centuries. Little biographical detail survives, but he is remembered in the Welsh calendars among the early hierarchy of the Celtic church in Wales, a line of missionary bishops who consecrated churches, ordained clergy, and carried the faith into the rural west of Britain. As a bishop among a newly evangelized people, he would have labored amid the political turbulence that followed the withdrawal of Rome and the rise of the native Welsh kingdoms. The church in Wales honors him as one of the confessors who laid the foundations of Christian life in the land, and his name is preserved in the rolls of the Welsh saints.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who numbered St. Inabwy among the early bishops of Wales and entrusted to him the care of a young church, grant through his intercession that pastors may build up Your people in faith and charity, and that the labors of those who first preached the Gospel may bear fruit to the end of time. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Inabwy"
+  ],
+  "featured": false,
+  "draft": false
+}

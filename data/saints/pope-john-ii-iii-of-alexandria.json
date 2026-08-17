@@ -1,0 +1,21 @@
+{
+  "slug": "pope-john-ii-iii-of-alexandria",
+  "name": "St. John II of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Pope John II (III) of Alexandria was the thirtieth successor of St. Mark to sit upon the throne of the See of Alexandria, governing the Coptic Church in the early centuries of its long history. The numbering of the Alexandrian popes named John is complicated by differing traditions, hence his double designation. As Patriarch of the See of St. Mark he shepherded the faithful of Egypt and the wider African Church. Though the surviving record of his patriarchate is brief, he stands in the unbroken line of Alexandrine Fathers who preserved the faith through the rise and fall of empires.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. John II a faithful successor of the Evangelist Mark upon the throne of Alexandria, grant through his intercession that the shepherds of Your Church may preserve the faith handed down from the apostles. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_II_(III)_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

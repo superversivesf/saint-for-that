@@ -1,0 +1,29 @@
+{
+  "slug": "geraint",
+  "name": "St. Geraint",
+  "feastDay": "unknown",
+  "bio": "Geraint was a sixth-century king of Dumnonia, the Brittonic kingdom of southwest Britain, who is venerated as a saint in the Welsh tradition. His name is the Welsh form of the Latin Gerontius, meaning \"old man.\" Historical and legendary strands are woven together in what survives of his memory: a valiant warrior-king who governed his people in a turbulent age and who, in the tradition of the Welsh saints, was honored for his Christian devotion. Later folklore made him a companion of King Arthur, but beneath these layers lies a Dumnonian ruler who lived and died in the faith. The hagiographies of Briton celebrate him as a saint king who used his royal authority to protect and foster the Church. He is honored as a patron of rulers and of those who seek to order public life by the gospel.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    },
+    {
+      "need": "fathers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Geraint from the throne of Dumnonia to be numbered among the saints of your Church, grant through his intercession that all who bear authority may use their power to defend the faith and serve their people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Geraint"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "edana-of-ireland",
+  "name": "St. Edana of Ireland",
+  "feastDay": "07-05",
+  "bio": "Edana of Ireland was an Irish monastic woman who lived in the sixth century at the confluence of the River Shannon and the Boyle River, in the heart of the green lands of Connacht. In that age of saints, when Ireland's monasteries shone like lamps across the land, she devoted herself to prayer and the ascetic life beside the waters. Little has come down to us of her deeds, but her name was preserved in the devotion of the people, and a church at Kilronan in her region was long associated with her memory. She is counted among the holy women of early Ireland who sought God in stillness and left the light of their faith upon the landscape. Her feast is kept on July 5.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Edana to a life of prayer beside the waters of her native land, grant through her intercession that we may seek You in stillness and find You in the quiet of our hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edana_of_Ireland"
+  ],
+  "featured": false,
+  "draft": false
+}

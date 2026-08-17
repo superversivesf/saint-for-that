@@ -1,0 +1,25 @@
+{
+  "slug": "galactorius-of-lescar",
+  "name": "St. Galactorius of Lescar",
+  "feastDay": "unknown",
+  "bio": "Saint Galactorius served as bishop of Lescar, in the Pyrenean region of Gascony, in the early sixth century. Little is recorded of his life beyond his office and the veneration he received from his flock. He governed the Church of Lescar during the unsettled decades that followed the collapse of Roman authority in Gaul, when bishops often became the principal guardians of order and Christian life in their cities. His feast on July 27 commemorates his pastoral ministry. The see of Lescar, though later suppressed, counted him among its earliest and most honored shepherds, and his name endured in the liturgy of southwestern France long after the upheavals of his age had passed. He is invoked as a patron of bishops and of those who hold fast to their duties in times of confusion and decline.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "the laity",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Galactorius a faithful shepherd of your Church at Lescar in a time of great uncertainty, grant through his intercession that those who lead your people may stand firm in hope and never abandon their charge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galactorius_of_Lescar"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "te-of-killeedy",
+  "name": "St. Íte of Killeedy",
+  "feastDay": "01-15",
+  "bio": "Íte ingen Chinn Fhalad, known also as Íde, Ita, Ida, or Ides, was an early Irish nun and the patron saint of Killeedy in County Limerick. Born in the sixth century into a noble family of western Ireland, she founded a community of women religious at Killeedy and gathered around her a school of young disciples. So many holy men and women were formed under her care that she was called the \"foster mother of the saints of Erin.\" The name Ita, meaning \"thirst for God,\" was given to her on account of her surpassing devotion. She is one of the most venerated of the early Irish female saints, and her feast is kept on January 15.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Íte the foster mother of the saints of Erin, grant through her intercession that those who guide souls in the way of holiness may form them in the thirst for Your love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%8Dte_of_Killeedy"
+  ],
+  "featured": false,
+  "draft": false
+}

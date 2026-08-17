@@ -1,0 +1,21 @@
+{
+  "slug": "fibicius-of-trier",
+  "name": "St. Fibicius of Trier",
+  "feastDay": "11-05",
+  "bio": "Fibicius served as Bishop of Trier in the early sixth century, governing that ancient and venerable see from roughly 511 until around 525. Trier, one of the oldest bishoprics in Christendom, had been a center of Christian life since Roman times, and Fibicius continued the line of holy pastors who shepherded the Church in the Rhineland. He is commemorated on November 5, when the faithful of Trier and beyond remember his quiet fidelity to the office entrusted to him. Few details of his life survive in the records, but his inclusion in the martyrologies and calendars of the Church testifies to the reverence in which he was held. St. Fibicius stands among the succession of bishops who kept the faith alive in the German lands during the turbulent years following the fall of the Roman Empire.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Fibicius as a faithful bishop to the see of Trier, grant through his intercession that the Church may always be served by holy and courageous pastors. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fibicius_of_Trier"
+  ],
+  "featured": false,
+  "draft": false
+}

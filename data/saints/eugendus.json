@@ -1,0 +1,25 @@
+{
+  "slug": "eugendus",
+  "name": "St. Eugendus",
+  "feastDay": "01-04",
+  "bio": "Saint Eugendus, also known as St. Oyand, was the fourth abbot of Condat Abbey, set in the remote Jura mountains at what is now Saint-Claude in eastern France. He was born around 450 and entered the monastery as a boy, brought there by his parents to be trained in the monastic life under the first abbots. From his youth he was known for his love of prayer, his obedience, and his zeal for the discipline of the house.\n\nAs abbot, Eugendus governed with wisdom and gentleness, leading the monks in the daily round of prayer and manual labour. He was learned in the Scriptures, and though he wrote little, his teaching was preserved in the lives of his disciples. He died around 510 and is honored as one of the founding fathers of that great monastery. His feast is kept on 4 January.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Eugendus as a guide for the monks of the Jura, grant through his intercession that all who seek You in silence and labor may find You a faithful reward. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eugendus"
+  ],
+  "featured": false,
+  "draft": false
+}

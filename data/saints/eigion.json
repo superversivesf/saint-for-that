@@ -1,0 +1,21 @@
+{
+  "slug": "eigion",
+  "name": "St. Eigion",
+  "feastDay": "unknown",
+  "bio": "Saint Eigion was a Welsh saint of the early medieval age, remembered as the brother of Saint Cynidr. The church at Llanigon, east of Hay-on-Wye in the Wye Valley, was in all probability originally dedicated to him, before later tradition attached it to Saint Egwine. Like so many of the Celtic saints, Eigion is known to us chiefly through the churches and place-names that preserve his memory, silent witnesses to a life of holiness lived out among the hills and valleys of Wales. He stands among that holy company of brothers and sisters who carried the Christian faith through the Welsh landscape, planting it in scattered settlements and leaving the echo of their prayers in the very names of the land. He is honored as one of the local saints of early Wales.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Eigion in the churches of the Wye Valley, grant through his intercession that we may labor quietly for Your glory, trusting that our deeds will bear fruit in their season. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eigion"
+  ],
+  "featured": false,
+  "draft": false
+}

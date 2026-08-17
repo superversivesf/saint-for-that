@@ -1,0 +1,25 @@
+{
+  "slug": "domitian-of-huy",
+  "name": "St. Domitian of Huy",
+  "feastDay": "05-07",
+  "bio": "Domitian of Huy was a sixth-century Gaulish bishop, remembered for his generosity to the poor and his writings against heresy that troubled the early Frankish Church. As bishop of Tongeren-Maastricht he labored in what is now Belgium, preaching the true faith and caring for the afflicted, and he was invoked by the faithful against fever. His relics were long venerated at Huy, and his memory was kept by the people of the Meuse valley. Honored on May 7, he stands among the bishops of the early Low Countries who built up the Church in word, alms, and prayer.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Domitian of Huy a faithful bishop, a generous friend of the poor, and a defender of the truth, grant through his intercession that we may give freely, believe firmly, and serve You in the afflicted. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Domitian_of_Huy"
+  ],
+  "featured": false,
+  "draft": false
+}

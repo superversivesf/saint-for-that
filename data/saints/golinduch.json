@@ -1,0 +1,29 @@
+{
+  "slug": "golinduch",
+  "name": "St. Golinduch",
+  "feastDay": "07-13",
+  "bio": "Saint Golinduch, known also as Golindouch, Golindukht, Golindokht, or Dolindokht, was a noble Persian lady who converted to Christianity and took the name Maria. Her conversion in a Zoroastrian land placed her in grave danger, and she endured imprisonment and suffering for her faith in Christ. According to her hagiography, she was eventually martyred, witnessing to the Gospel by her death. The Persian Church venerated her as a model of courage and fidelity, and her memory spread through both Syriac and Greek traditions. Her feast is kept on July 13. She is invoked as a patron of converts and of those who suffer for the name of Christ.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Golinduch to confess the name of Christ in a land that did not know him, grant through her intercession that all converts may stand firm in faith and that those who suffer for the Gospel may be crowned with your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Golinduch"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "egwine",
+  "name": "St. Egwine",
+  "feastDay": "unknown",
+  "bio": "Egwine was a sixth-century Celtic princess and saint, remembered as a patron of the village of Llanigon, east of Hay-on-Wye, in the green Wye Valley of Wales. Of royal British blood, she forsook the privileges of her station to live in devotion to Christ, and her holiness was honored by the community that bore her name. The parish church of Llanigon has long been associated with her patronage, a quiet memorial to a woman whose prayer shaped a place. Like the other Welsh saints, she left no written record, but the churches and villages that carry her name keep her memory alive. She is venerated among the holy company of Celtic saints who brought the faith to the valleys and hills of early medieval Wales.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired the princess Egwine to exchange her royal station for a life of holiness, grant through her intercession that we may value Your kingdom above every earthly honor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Egwine"
+  ],
+  "featured": false,
+  "draft": false
+}

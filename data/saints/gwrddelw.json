@@ -1,0 +1,25 @@
+{
+  "slug": "gwrddelw",
+  "name": "St. Gwrddelw",
+  "feastDay": "11-01",
+  "bio": "Saint Gwrddelw, also recorded as Gwrtheli or Gartheli, was a pre-congregational saint of fifth-century medieval Wales. He belongs to that ancient company of Welsh holy men and women whose memory was preserved in local liturgical calendars and the traditions of the early British Church, before formal canonization was established in Rome. The slender records of his life speak of a figure venerated for holiness in the Christian communities of early medieval Britain. The saints of this age were often monks, hermits, or founders of small churches that became centers of faith in a land only recently emerged from Roman Britain. His feast was observed with All Saints on November 1. He is honored among the patrons of Wales and of those who cherish the Christian heritage of the Celtic lands.",
+  "patronages": [
+    {
+      "need": "england",
+      "category": "everyday"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who in the ancient days of the Welsh Church raised up St. Gwrddelw as a witness to your holiness, grant through his intercession that we may preserve the faith of those who first preached your gospel in these lands. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwrddelw"
+  ],
+  "featured": false,
+  "draft": false
+}

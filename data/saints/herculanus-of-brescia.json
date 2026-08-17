@@ -1,0 +1,21 @@
+{
+  "slug": "herculanus-of-brescia",
+  "name": "St. Herculanus of Brescia",
+  "feastDay": "08-12",
+  "bio": "Saint Herculanus of Brescia served as bishop of that ancient Italian see in the Lombard period. He is counted among the early pastors who governed the Church in northern Italy through the upheavals that followed the fall of the Roman order. His relics were translated in 1228 to Toscolano-Maderno on the shore of Lake Garda, where his shrine became a center of popular devotion. The faithful of the region honored him as a protector and intercessor, and his feast on August 12 has long been kept in the calendars of the diocese. The memory of such early bishops, preserved in their relics and shrines, testifies to the continuity of apostolic faith across the centuries of Italy's Christian history.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Herculanus as a faithful bishop to the Church of Brescia and a patron to the people of Lake Garda, grant through his intercession that pastors may guard their flocks with unwavering love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herculanus_of_Brescia"
+  ],
+  "featured": false,
+  "draft": false
+}

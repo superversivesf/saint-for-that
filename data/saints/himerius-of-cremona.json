@@ -1,0 +1,21 @@
+{
+  "slug": "himerius-of-cremona",
+  "name": "St. Himerius of Cremona",
+  "feastDay": "06-17",
+  "bio": "Himerius, also called Himerius of Amelia or Irnerius, was an Italian bishop venerated from early medieval times as a saint of Cremona in Lombardy. The see of Cremona honors him as one of its earliest and most zealous pastors, though detailed records of his life are scant. By tradition he was a missionary bishop who worked to establish the faith firmly in the Po valley, caring for a flock still newly converted from paganism and beset by the disorders of the Lombard invasion. His relics were long venerated in the cathedral of Cremona, where his feast was kept on June 17. He is remembered as a steadfast confessor of the faith and a patron of the city and diocese of Cremona.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Himerius to plant and nurture the faith in the city of Cremona, grant through his intercession that pastors may be zealous in preaching the Gospel and faithful in guarding the flock entrusted to them. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Himerius_of_Cremona"
+  ],
+  "featured": false,
+  "draft": false
+}

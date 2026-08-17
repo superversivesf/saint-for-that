@@ -1,0 +1,25 @@
+{
+  "slug": "pope-john-i",
+  "name": "St. John I",
+  "feastDay": "05-18",
+  "bio": "Pope John I, a native of Siena in Italy, became bishop of Rome in August 523 and governed the Church until his death on May 18, 526. He is remembered for his role, with the monk Dionysius Exiguus, in standardizing the calculation of Easter in the Western Church in 525. When the Ostrogoth King Theoderic sent him to Constantinople to plead for better treatment of Arian subjects, John was received with honor and his mission met with some success. Yet upon his return to Ravenna, Theoderic suspected him of treachery and cast him into prison, where the frail pope died of neglect. He is venerated as a martyr.",
+  "patronages": [
+    {
+      "need": "prisoners",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John I the courage to labor for Your Church even unto bonds and death, grant through his intercession that those imprisoned for righteousness may be sustained by Your grace, and that we may never fail to confess the truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pope_John_I"
+  ],
+  "featured": false,
+  "draft": false
+}

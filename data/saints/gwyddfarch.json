@@ -1,0 +1,25 @@
+{
+  "slug": "gwyddfarch",
+  "name": "St. Gwyddfarch",
+  "feastDay": "unknown",
+  "bio": "Gwyddfarch was a hermit and the founder of a Celtic abbey at Meifod in the valley of the Vyrnwy in Wales. He belongs to the early wave of Welsh monastic founders who established communities of prayer in remote valleys, drawing disciples to the disciplined life of the Celtic Church. As a hermit he sought God in solitude, and as a founder he opened that solitude to others, joining the contemplative and the coenobitic in the pattern typical of the Welsh saints. The church at Meifod long preserved the memory of its founder, and the place became a center of Christian worship in Powys. His life recalls the austere holiness of the first monks of Wales, whose prayer shaped the landscape they inhabited.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Gwyddfarch into the valley of Meifod to found a house of prayer, grant through his intercession that we may seek You in solitude and find You at the heart of community. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwyddfarch"
+  ],
+  "featured": false,
+  "draft": false
+}

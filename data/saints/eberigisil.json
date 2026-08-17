@@ -1,0 +1,25 @@
+{
+  "slug": "eberigisil",
+  "name": "St. Eberigisil",
+  "feastDay": "unknown",
+  "bio": "Eberigisil, called Evergislus, served as Bishop of Cologne in the turbulent age of the migrations of peoples. He was the fifth well-attested bishop of that see, and the first to bear a Frankish name, marking the passing of Roman authority and the rise of a new Christian people in the Rhineland. His tenure was marked by unrest that swept through both city and countryside, yet he labored to build up religious life and restore ecclesiastical peace among his flock. Pastoral and steadfast, he guided the Church of Cologne through a season of upheaval and kept the faith alive amid the ruin of the old order. He is venerated as a confessor-bishop of the early German Church, and his memory endures among the founders of Christian Germany.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "germany",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Eberigisil to uphold your Church in a time of turmoil, grant through his intercession that we may be steadfast in faith amid every upheaval. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eberigisil"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "eutychius-of-constantinople",
+  "name": "St. Eutychius of Constantinople",
+  "feastDay": "04-06",
+  "bio": "Eutychius served as Patriarch of Constantinople in two terms, from 552 to 565 and again from 577 to 582, during the reign of Emperor Justinian I. His long ministry coincided with some of the most difficult theological controversies of the age, as he sought to defend the orthodox faith amid disputes with both imperial and papal authority. He presided over the see of Constantinople during the debates surrounding the Three Chapters and the Fifth Ecumenical Council, laboring to keep the Church united when emperors and bishops clashed over fine points of doctrine. Honored as a saint in both the Catholic and Eastern Orthodox traditions, his feast is kept on April 6, a witness to a pastor who sought peace and truth in a time of bitter division.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Eutychius grace to seek the unity of Your Church amid controversy, grant through his intercession that all who confess the name of Christ may be one in faith and charity. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eutychius_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "gwenafwy",
+  "name": "St. Gwenafwy",
+  "feastDay": "unknown",
+  "bio": "Saint Gwenafwy, also called Wenappa, was a pre-congregational saint of medieval South Wales. She was a daughter of Caw of Strathclyde, and sister to Peillan, Eigron, Peithein, and others of a family that produced saints. Driven from her homeland, she journeyed to Cornwall with her brother Eigron, and there she became the patroness of Gwennap. Her name is preserved in the Cornish place and in the memory of a Celtic missionary family who carried the Gospel across the sea from Wales and Strathclyde to the far west of Britain. Though little else is recorded of her life, the devotion of the people who named a parish for her speaks to the holiness the faithful recognized in her.",
+  "patronages": [
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "immigrants",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gwenafwy from the lands of Wales and Strathclyde to plant the faith in Cornwall, grant through her intercession that those who journey far from home may carry Christ with them and find a place of welcome. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwenafwy"
+  ],
+  "featured": false,
+  "draft": false
+}

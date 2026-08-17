@@ -1,0 +1,29 @@
+{
+  "slug": "germanus-of-capua",
+  "name": "St. Germanus of Capua",
+  "feastDay": "unknown",
+  "bio": "Germanus served as bishop of Capua in southern Italy from 519 or shortly before until his death. He played a major role in ending the Acacian schism, the first major division between the Christian churches of east and west, which had festered for decades over questions of doctrine and communion. His labors for reconciliation made him a trusted figure of both the Roman see and the emperor in Constantinople. In 519 Pope Hormisdas sent him as papal legate to Constantinople, where he helped negotiate the reunion that ended the schism. St. Benedict of Nursia, according to St. Gregory the Great, had a vision of Germanus's soul being carried to heaven in a globe of fire at his death, a sign of his holiness. He is invoked as a patron of bishops and of all who labor for the unity of the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "peace",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Germanus of Capua a peacemaker and a healer of divisions in your Church, grant through his intercession that all who are separated by ancient quarrels may find again the unity you desire. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Germanus_of_Capua"
+  ],
+  "featured": false,
+  "draft": false
+}

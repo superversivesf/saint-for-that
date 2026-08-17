@@ -1,0 +1,25 @@
+{
+  "slug": "faustina-and-liberata-of-como",
+  "name": "St. Faustina and Liberata of Como",
+  "feastDay": "unknown",
+  "bio": "Faustina and Liberata were two noble sisters from Rocca d'Olgisio, near modern Pianello Val Tidone in northern Italy, who lived as holy virgins in the city of Como during the sixth century. Renouncing the wealth and comfort of their station, they consecrated themselves to Christ and gathered a community of women around them in prayer. They are believed to have died around the year 580 and were first buried at the monastery they had founded. Honored as virgin saints by the Church, their shared witness points to that long tradition of sisters in faith who, from the earliest centuries, built houses of consecrated life in the towns of Italy.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "single women",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the sisters Faustina and Liberata to found a house of virgins at Como, grant through their intercession that those who consecrate their lives to You may persevere in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faustina_and_Liberata_of_Como"
+  ],
+  "featured": false,
+  "draft": false
+}

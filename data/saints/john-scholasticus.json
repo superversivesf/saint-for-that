@@ -1,0 +1,25 @@
+{
+  "slug": "john-scholasticus",
+  "name": "St. John Scholasticus",
+  "feastDay": "unknown",
+  "bio": "John Scholasticus, called Scholastikos, was patriarch of Constantinople from April 565 until his death on August 31, 577. He is honored as a saint of the Eastern Orthodox Church. His epithet \"Scholasticus\" points to his learning and his work in compiling and organizing the canons of the Church, a labor that helped order the discipline of the Eastern churches for generations. As patriarch in the imperial capital he governed during the reign of Justin II and navigated the tensions of an age in which empire and Church were closely intertwined. His memory is preserved among the sainted hierarchs of Constantinople.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "canon lawyers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John Scholasticus wisdom to order the discipline of Your Church, grant through his intercession that those who labor in the canons and laws of the Church may govern with justice and shepherd Your people with love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Scholasticus"
+  ],
+  "featured": false,
+  "draft": false
+}

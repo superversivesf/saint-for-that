@@ -1,0 +1,29 @@
+{
+  "slug": "david-the-dendrite",
+  "name": "St. David the Dendrite",
+  "feastDay": "06-26",
+  "bio": "David the Dendrite, also called David the tree-dweller, was a sixth-century monk of Thessaloniki. He entered the Monastery of Saints Merkourios and Theodore outside the city walls, where his counsel and prayers drew such crowds that he could no longer pray in peace. Longing for quiet communion with God, he climbed into the branches of an almond tree beside the monastery and made it his dwelling for three years, enduring heat, cold, and hunger. After this extraordinary vigil he was drawn back into the world, eventually becoming bishop of the city. Honored on June 26, he is remembered as a model of the contemplative life.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. David the Dendrite to seek You above the noise of the world from the branches of an almond tree, grant through his intercession that we may find quiet of heart and contemplate Your mysteries. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_the_Dendrite"
+  ],
+  "featured": false,
+  "draft": false
+}

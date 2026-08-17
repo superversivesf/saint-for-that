@@ -1,0 +1,21 @@
+{
+  "slug": "derfel",
+  "name": "St. Derfel",
+  "feastDay": "04-05",
+  "bio": "Derfel, known as Derfel Gadarn, was a sixth-century Celtic Christian monk venerated in Wales. Local legend holds that before his monastic life he was a mighty warrior in the retinue of King Arthur, said to have survived the fateful battle of Camlann. Whatever the truth of these tales, he later laid down the sword and took up the cross, living as a revered abbot and founder of churches in Gwynedd. His image, carved in wood at Llandderfel, was a focus of pilgrimage until the Reformation. Honored on April 5, he is remembered as a saint who turned from arms to prayer.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the heart of St. Derfel from the sword to the cross, grant through his intercession that we may lay down all violence and take up the weapons of peace and prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Derfel"
+  ],
+  "featured": false,
+  "draft": false
+}

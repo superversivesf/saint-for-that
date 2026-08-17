@@ -1,0 +1,25 @@
+{
+  "slug": "ogan-of-ardstraw",
+  "name": "St. Éogan of Ardstraw",
+  "feastDay": "08-23",
+  "bio": "Saint Éogan, also known as Eugene, was the founder of the monastery of Ardstraw in what is now County Tyrone, Ireland. According to tradition he was of the royal race of the O'Neills and was born in the fifth century. After studying under St. Ninian at Whithorn in Scotland, he returned to Ireland and was ordained bishop, labouring for many years among the people of the northwest.\n\nÉogan founded his monastery at Ardstraw, which became an important center of faith and learning in the Irish north. He is remembered as a teacher and a pastor, guiding both monks and laity along the way of holiness. His cult spread throughout the Diocese of Derry, of which he is venerated as the principal patron. He died around 618, and his feast is kept on 23 August.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Éogan to teach and govern Your people in the north of Ireland, grant through his intercession that pastors may be steadfast and the faithful may grow in the knowledge of Your truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C3%89ogan_of_Ardstraw"
+  ],
+  "featured": false,
+  "draft": false
+}

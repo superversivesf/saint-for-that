@@ -1,0 +1,21 @@
+{
+  "slug": "finan-cam",
+  "name": "St. Finan Cam",
+  "feastDay": "04-07",
+  "bio": "Finan Cam, Abbot of Kinnity, was an early Irish saint associated with County Kerry in the sixth or possibly the seventh century. The appellation Cam, meaning \"crooked,\" was given to him either because he was stooped or because he had a squint, distinguishing him from other saints bearing the name Finan. As an abbot, he would have overseen a monastic community, guiding his monks in prayer, study, and the discipline of the religious life. The early Irish monasteries were centers not only of holiness but of learning and hospitality, and Finan Cam would have labored to build up such a community in the rugged country of Kerry. His feast is kept on April 7, when the faithful remember this humble abbot who served God despite his bodily afflictions.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Finan Cam to the monastic life despite his bodily afflictions, grant through his intercession that we may serve you with humble and steadfast hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finan_Cam"
+  ],
+  "featured": false,
+  "draft": false
+}

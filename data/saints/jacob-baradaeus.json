@@ -1,0 +1,25 @@
+{
+  "slug": "jacob-baradaeus",
+  "name": "St. Jacob Baradaeus",
+  "feastDay": "07-31",
+  "bio": "Jacob Baradaeus, also called Jacob bar Addai or Jacob bar Theophilus, was Bishop of Edessa from 543 until his death in 578. Venerated as a saint in the Oriental Orthodox Churches, he spent his long episcopate traversing the eastern Roman provinces in disguise—hence his nickname Baradaeus, from the ragged garments he wore. Through tireless missionary journeys and clandestine ordinations, he strengthened the non-Chalcedonian faithful who suffered for their confession, so that the Syriac Orthodox Church came to be called \"Jacobite\" after him. He preserved a flock under persecution and handed on a living Church to the ages. His feast is kept on July 31.",
+  "patronages": [
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sustained Your Church through the tireless labors of St. Jacob Baradaeus in the teeth of persecution, grant through his intercession that we may never waver in confessing the faith, and that those who suffer for Your name may find strength in You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jacob_Baradaeus"
+  ],
+  "featured": false,
+  "draft": false
+}

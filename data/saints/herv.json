@@ -1,0 +1,25 @@
+{
+  "slug": "herv",
+  "name": "St. Hervé",
+  "feastDay": "06-17",
+  "bio": "Hervé, known in Breton as Houarniaule, was a sixth-century monk and bard of Brittany, born at Guimiliau in Léon. According to legend he lost his sight in childhood and thereafter was led by his disciple Guiharan. Despite his blindness he became renowned as a poet, musician, and wonderworker: he is said to have tamed a wolf that had devoured his donkey and put the beast to work ploughing his fields. He founded a monastery at Lanhouarneau and lived as an abbot among the Breton peasantry, teaching by song and example. Together with St. Ivo of Kermartin he remains one of the best-loved saints of Brittany, invoked especially by the blind, by bards and musicians, and by those who tend sick horses.",
+  "patronages": [
+    {
+      "need": "blindness",
+      "category": "illness"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who granted to St. Hervé in his bodily blindness a vision of Your glory and a song that charmed beasts, grant through his intercession that those who suffer affliction of sight may see by the light of faith, and that all who make music may praise You with joyful hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Herv%C3%A9"
+  ],
+  "featured": false,
+  "draft": false
+}

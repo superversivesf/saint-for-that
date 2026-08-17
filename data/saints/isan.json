@@ -1,0 +1,21 @@
+{
+  "slug": "isan",
+  "name": "St. Isan",
+  "feastDay": "unknown",
+  "bio": "Isan was a sixth-century saint of south Wales and the patron of Llanishen in Cardiff, whose church preserves his name. He is counted among the early Celtic missionary saints who evangelized the valleys of Glamorgan and Monmouthshire, planting churches and living as pastors and hermits among the Welsh people. As with many of the Welsh saints, detailed biography has yielded to place-name and local cult, but Llanishen keeps his memory and the parish church stands on the site associated with his settlement. He is remembered as one of the quiet founders of Christian Wales, a confessor who labored in obscurity to root the Gospel in a rural and newly evangelized land.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Isan to plant the faith in the valleys of south Wales and to make Llanishen a place of prayer, grant through his intercession that we may serve You faithfully in hidden ways and leave behind a heritage of holiness for those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Isan"
+  ],
+  "featured": false,
+  "draft": false
+}

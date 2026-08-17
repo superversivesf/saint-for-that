@@ -1,0 +1,29 @@
+{
+  "slug": "guirec",
+  "name": "St. Guirec",
+  "feastDay": "unknown",
+  "bio": "Saint Guirec, according to oral tradition, was a Welsh monk who sought to establish a monastery in Celtic Brittany. He sailed from Wales to the Armorican coast and in the region of Traou-Perros chose the place where he would found his new community. His memory is bound up with the great missionary movement of Welsh and Cornish monks who carried the faith across the sea to Brittany in the early medieval period, founding hermitages and monasteries that shaped the Christian landscape of the region. Devotion to him endured for centuries among the Breton faithful, and his chapel and oratory recall a life given to God in a new land. He is invoked as a patron of monks and of missionaries.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "travelers",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Guirec to leave his homeland and found a community for your glory in Brittany, grant through his intercession that all missionaries and monks may go forth in trust and build where you have prepared the ground. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Guirec"
+  ],
+  "featured": false,
+  "draft": false
+}

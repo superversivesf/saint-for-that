@@ -1,0 +1,21 @@
+{
+  "slug": "eustorgius-ii",
+  "name": "St. Eustorgius II",
+  "feastDay": "06-06",
+  "bio": "Eustorgius II served as Archbishop of Milan from about 511 until 518, governing that great see during the turbulent years that followed the collapse of Roman authority in Italy and the rise of Ostrogoth rule under Theodoric. He walked in the footsteps of saints, counted among the successors of Ambrose in a city that had become a capital of Western Christianity. As archbishop he watched over the clergy, cared for the poor, and labored to keep the faith intact amid political pressures. Honored as a saint by the Church of Milan, his feast is kept on June 6, when the faithful remember a bishop who shepherded his people through a time of great change.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eustorgius a worthy successor of St. Ambrose at Milan, grant through his intercession that the bishops of Your Church may govern with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eustorgius_II"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fachtna-of-rosscarbery",
+  "name": "St. Fachtna of Rosscarbery",
+  "feastDay": "unknown",
+  "bio": "Fachtna of Rosscarbery, also known as Fachanan, was an Irish Christian leader honored as the founder of the monastery of Rosscarbery in County Cork. He labored in the sixth century, that great age of Irish monasticism, when saints founded houses of prayer and learning along the coast and in the valleys of Ireland. His monastery at Rosscarbery became a center of faith and teaching in the south, training clergy and scholars for the young Church. He died around the year 600, leaving behind a community that would keep his memory for centuries. He is remembered as one of the monastic founders who made the south of Ireland a land rich in sanctity and learning.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Fachtna the founder of a house of prayer at Rosscarbery, grant through his intercession that we may build up Your Church in faith and learning. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fachtna_of_Rosscarbery"
+  ],
+  "featured": false,
+  "draft": false
+}

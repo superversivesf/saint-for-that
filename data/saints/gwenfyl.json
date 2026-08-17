@@ -1,0 +1,25 @@
+{
+  "slug": "gwenfyl",
+  "name": "St. Gwenfyl",
+  "feastDay": "11-01",
+  "bio": "Saint Gwenfyl was an early Welsh Christian saint counted among the family of the legendary Brychan, whose many descendants furnished Wales and the West Country with saints in the early medieval period. Though little is known of the details of her life, her inclusion in the Brychan genealogies places her among that great company whose holiness was the seedbed of the Celtic Church in Wales. Such saints were remembered not for dramatic deeds but for the quiet fidelity with which they lived the Gospel in a land still being woven into the Christian story. Her feast is kept on November 1, and she remains a silent witness to the countless faithful whose names the Church has preserved though the record of their works has passed from history.",
+  "patronages": [
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "converts",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Gwenfyl among the holy company of Brychan's lineage, grant through her intercession that we too may be numbered among the faithful whose quiet devotion is known to You though hidden from the world. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gwenfyl"
+  ],
+  "featured": false,
+  "draft": false
+}

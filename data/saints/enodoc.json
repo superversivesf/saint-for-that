@@ -1,0 +1,21 @@
+{
+  "slug": "enodoc",
+  "name": "St. Enodoc",
+  "feastDay": "unknown",
+  "bio": "Saint Enodoc, originally Wenedoc, was a sub-Roman pre-congregational saint of Cornwall whose memory is preserved in the churches and parishes that bear his name. As with many of the early saints of the southwest of Britain, his life is known chiefly through these place-names and through the enduring devotion of the local people. The church of St Enodoc, near Trebetherick on the north Cornish coast, is set among the dunes and made famous in modern times by its association with the poet John Betjeman, who is buried in its churchyard.\n\nEnodoc belongs to that early generation of saints who carried the Christian faith through the coastal settlements of Cornwall, leaving their names upon the land. He is honored as a patron of the communities that bear his name and of the faithful of that region.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who preserved the memory of St. Enodoc in the parishes of Cornwall, grant through his intercession that the faithful of that land and all who invoke him may persevere in the faith he first preached. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enodoc"
+  ],
+  "featured": false,
+  "draft": false
+}

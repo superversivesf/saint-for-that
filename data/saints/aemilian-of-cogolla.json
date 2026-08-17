@@ -1,0 +1,25 @@
+{
+  "slug": "aemilian-of-cogolla",
+  "name": "St. Aemilian of Cogolla",
+  "feastDay": "11-12",
+  "bio": "Saint Aemilian, known in Spanish as San Millán, was an Iberian hermit and priest of the sixth century who lived during the age of Visigothic rule. Born in the mountains of La Rioja, he gave away his inheritance and became a hermit, devoting himself to prayer and fasting. His holiness attracted many disciples, and he reluctantly agreed to be ordained priest to serve the community that gathered around him.\n\nAemilian became a model of the eremitic tradition that would shape Spanish spirituality for centuries. He died at an advanced age, and his monastery at Suso became one of the most important pilgrimage sites in Spain. He is widely revered throughout Spain, and tradition holds that he aided Christian forces in the reconquest of Castile, earning him the title of patron of that region.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Aemilian from his solitude to be a light to the Church in Spain, grant through his intercession that we may seek You in prayer and serve You in our brothers and sisters. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aemilian_of_Cogolla"
+  ],
+  "featured": false,
+  "draft": false
+}

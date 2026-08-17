@@ -1,0 +1,29 @@
+{
+  "slug": "fridianus",
+  "name": "St. Fridianus",
+  "feastDay": "03-18",
+  "bio": "Fridianus, venerated since the sixth century, was by tradition an Irish prince, a son of King Ultach of Ulster, who renounced his royal inheritance to live as a hermit. Drawn by pilgrimage to Rome, he migrated to Italy, where his holiness became widely known and he was appointed Bishop of Lucca, guiding that diocese with pastoral zeal while preserving the humility of a hermit. He was credited with miracles, including turning the course of the river Serchio to spare the city from flooding. The Basilica of San Frediano in Lucca, one of the oldest churches of Tuscany, is dedicated to him, as are churches in Florence. His memory endured among the faithful of Italy and Ireland alike. He is honored as a patron of Lucca and of those who leave homeland and kindred to serve God in a foreign land.",
+  "patronages": [
+    {
+      "need": "immigrants",
+      "category": "travel"
+    },
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "bishops",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fridianus from a royal throne to the solitude of a hermit's life and then to the pastoral care of your Church at Lucca, grant through his intercession that we may renounce earthly honors and serve you with humble hearts. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fridianus"
+  ],
+  "featured": false,
+  "draft": false
+}

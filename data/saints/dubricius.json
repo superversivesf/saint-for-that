@@ -1,0 +1,25 @@
+{
+  "slug": "dubricius",
+  "name": "St. Dubricius",
+  "feastDay": "11-14",
+  "bio": "Dubricius, known in Welsh as Dyfrig, was a sixth-century British bishop and evangelist whose labors planted the Christian faith across Ergyng and much of south-east Wales. Of noble British lineage, he was renowned as a teacher and prelate, founding churches and a famous school at Hentland on the Wye, where he trained a generation of clergy. Ordained bishop, he is said to have consecrated Saint Germanus and to have played a part in the early mission to the Britons. In old age he retired to the island of Bardsey, the holy island of saints, where he ended his days in prayer. Honored as one of the chief fathers of the Welsh Church, his feast is kept on November 14.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Dubricius an evangelist of Wales and a father of bishops, grant through his intercession that the Church may always find zealous pastors to sow the seeds of faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dubricius"
+  ],
+  "featured": false,
+  "draft": false
+}

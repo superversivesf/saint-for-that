@@ -1,0 +1,21 @@
+{
+  "slug": "fachanan",
+  "name": "St. Fachanan",
+  "feastDay": "unknown",
+  "bio": "Saint Fachanan belonged to the ancient princely race of the Corcu Loígde, a dynasty that once ruled parts of Munster in the south of Ireland before the rise of the Eóganachta. As a Christian saint of that noble line, he stands among the early holy men and women of Ireland whose witness helped to form the Church in a land that would become known as the island of saints and scholars. Few details of his life survive beyond his lineage, yet his memory was preserved by the communities that honored him. He is remembered as one of the early Irish saints whose faith took root in the soil of tribal and family life.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Fachanan from the princely house of the Corcu Loígde to the service of Your Church, grant through his intercession that we may use every gift we have received for Your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fachanan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "eusebius-of-m-con",
+  "name": "St. Eusebius of Mâcon",
+  "feastDay": "unknown",
+  "bio": "Saint Eusebius of Mâcon served as bishop of Mâcon in Burgundy during the sixth century, a time when the Church in Gaul was still being shaped by the fusion of Roman tradition and Frankish rule. As a successor of the apostles, he labored to confirm the faith of his people and to govern his diocese with pastoral zeal. Few details of his life survive, yet his memory was cherished by the Christians of Mâcon, who honored him as a faithful shepherd after the manner of Christ the Good Shepherd. His witness points to that long line of Gallic bishops who, in an age of transition, preserved the lamps of faith, learning, and charity through the uncertain years that followed the fall of the Empire.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eusebius a faithful shepherd of Your Church at Mâcon, grant through his intercession that our pastors may be strengthened in their ministry and Your people confirmed in the faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eusebius_of_M%C3%A2con"
+  ],
+  "featured": false,
+  "draft": false
+}

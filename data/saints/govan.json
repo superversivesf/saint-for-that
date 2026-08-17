@@ -1,0 +1,29 @@
+{
+  "slug": "govan",
+  "name": "St. Govan",
+  "feastDay": "03-26",
+  "bio": "Saint Govan was a hermit who lived in a fissure on the side of a coastal cliff near Bosherston, in the Pembrokeshire Coast National Park of Wales. According to tradition he was once a knight who renounced the world for the life of a solitary, or perhaps a monk fleeing danger, who found refuge in that wild place. St Govan's Chapel was built in the fissure in the thirteenth century on what is now known as St Govan's Head, and pilgrims still descend the steps to the chapel cut into the rock. His memory is cherished among the Welsh saints who sought God in the rugged landscapes of the western shore. His feast is kept on March 26. He is invoked as a patron of hermits and of those who find God in the wilderness.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Govan to make his dwelling in the cleft of a cliff and there to seek your face in solitude, grant through his intercession that all who journey to wild and hidden places may find you waiting and be strengthened for their pilgrimage. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Govan"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "david",
+  "name": "St. David",
+  "feastDay": "unknown",
+  "bio": "David, known in Welsh as Dewi, was a sixth-century bishop of Mynyw in southwest Wales and is the patron saint of the Welsh nation. Born of noble lineage on the wild Pembrokeshire coast, he was formed in the Celtic monastic tradition and founded a strict religious community at Mynyw, where monks labored with their own hands and drank only water. Legends recount that during a sermon at the Synod of Brefi the ground rose beneath his feet so all could hear him, and a white dove settled on his shoulder. He died around the year 589 or 601, and his shrine at St Davids became one of the holiest sites of medieval Britain.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. David to build Your Church in the Welsh lands and made him a father of monks and a preacher of truth, grant through his intercession that we may labor with humble hands and bold hearts for Your kingdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_David"
+  ],
+  "featured": false,
+  "draft": false
+}

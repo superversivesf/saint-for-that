@@ -1,0 +1,25 @@
+{
+  "slug": "herculanus-of-perugia",
+  "name": "St. Herculanus of Perugia",
+  "feastDay": "03-01",
+  "bio": "Herculanus of Perugia served as bishop of that Umbrian city and was canonized as a saint by the Catholic Church, recognized as the patron saint of Perugia. According to Pope Gregory the Great in his Dialogues, Herculanus suffered martyrdom when Totila, king of the Ostrogoths, captured Perugia in 549. The invaders, it is told, sought to break the spirit of the city by putting its bishop to death, and the faithful received his relics with honor. His principal feast is kept on November 7, with a second feast on March 1. He is the heavenly protector of Perugia, whose intercession the city has invoked across fifteen centuries of devotion, and whose martyrdom remains a witness to the cost of pastoral fidelity in a violent age.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Herculanus with the palm of martyrdom as he shepherded the Church of Perugia, grant through his intercession that all bishops may be faithful even unto death, and that those who suffer persecution may stand firm in hope. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herculanus_of_Perugia"
+  ],
+  "featured": false,
+  "draft": false
+}

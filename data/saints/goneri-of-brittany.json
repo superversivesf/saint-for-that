@@ -1,0 +1,29 @@
+{
+  "slug": "goneri-of-brittany",
+  "name": "St. Goneri of Brittany",
+  "feastDay": "unknown",
+  "bio": "Saint Goneri of Brittany was a sixth-century hermit of the Church in Britain. Seeking a life of solitude and prayer, he withdrew from the world to devote himself wholly to God. Little biographical detail survives, yet his memory endured among the faithful of Brittany, where his cult was cherished for centuries. He exemplifies the hermit ideal embraced by many Celtic saints of his age: renunciation, contemplation, and ceaseless prayer in a remote dwelling. He is invoked as a patron of hermits and of all who seek God in silence and solitude.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    },
+    {
+      "need": "prayer life",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Goneri of Brittany to seek you in solitude and silence, grant through his intercession that all who long for contemplation may find you in the hidden places of the heart and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goneri_of_Brittany"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hermenegild",
+  "name": "St. Hermenegild",
+  "feastDay": "04-13",
+  "bio": "Hermenegild, eldest son of the Visigothic King Liuvigild, was raised an Arian but converted to Catholicism around 579, partly through the influence of his devout Catholic wife Ingund and the teaching of Bishop Leander of Seville. His father, fiercely defensive of Arianism, viewed the conversion as both religious betrayal and political threat. When Hermenegild took up arms in revolt, he was defeated, captured, and imprisoned at Tarragona. On Easter night 585 he refused communion from an Arian bishop sent by his father, and was struck down by an axe at his father's command. Pope Gregory the Great, in his Dialogues, portrayed the young prince as a Catholic martyr who chose death rather than receive the sacraments from schismatics, and his cult spread quickly through Visigothic Spain.",
+  "patronages": [
+    {
+      "need": "converts",
+      "category": "spiritual"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Hermenegild with martyrdom for his steadfast refusal to receive communion from those separated from Your Church, grant through his intercession that we may treasure the unity of the faith and hold fast to the sacraments even unto death. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hermenegild"
+  ],
+  "featured": false,
+  "draft": false
+}

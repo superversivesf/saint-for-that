@@ -1,0 +1,25 @@
+{
+  "slug": "fiacc",
+  "name": "St. Fiacc",
+  "feastDay": "10-12",
+  "bio": "Saint Fiacc was an early Irish bishop and poet, revered as the chief bishop of Leinster and the founder of two churches. Living in the fifth or sixth century, Fiacc combined the gifts of a bard with the office of a pastor, using verse to teach and inspire the early Irish Church. As bishop of Leinster, he labored to organize and strengthen the Church in that kingdom, founding churches that became centers of Christian worship and learning. His poetry, composed in the classical Irish tradition, has come down through the ages as part of the rich literary and spiritual heritage of early Christian Ireland. St. Fiacc is honored on October 12 and remembered as a holy bishop who served his people with both word and song.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "writers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Fiacc with the gifts of poetry and pastoral care, grant through his intercession that we may praise you with joyful hearts and serve you with faithful zeal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fiacc"
+  ],
+  "featured": false,
+  "draft": false
+}

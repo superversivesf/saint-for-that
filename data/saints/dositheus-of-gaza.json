@@ -1,0 +1,25 @@
+{
+  "slug": "dositheus-of-gaza",
+  "name": "St. Dositheus of Gaza",
+  "feastDay": "unknown",
+  "bio": "Dositheus of Gaza was a sixth-century monk whose brief life became a model of monastic obedience. Born into the world as a page in a noble household, he heard the call of Christ and forsook the court for the monastery of Seridus near Gaza. There he placed himself under the guidance of the holy abbot Dorotheus of Gaza, who trained him in the disciplines of prayer, fasting, and service to the sick. Though young and tender in years, Dositheus embraced the rigors of the ascetic life with fervor. A severe illness befell him, and he bore his suffering with patience, surrendering his soul to God before he had reached maturity. His short life, recorded by Dorotheus, was treasured in the monastic tradition as a pattern of discipleship and childlike obedience to a spiritual father.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called the young Dositheus from a worldly court to the obedience of the monastery, grant through his intercession that we may follow Christ with the same childlike trust, bearing our trials with patience. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dositheus_of_Gaza"
+  ],
+  "featured": false,
+  "draft": false
+}

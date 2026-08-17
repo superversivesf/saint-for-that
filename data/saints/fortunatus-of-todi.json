@@ -1,0 +1,25 @@
+{
+  "slug": "fortunatus-of-todi",
+  "name": "St. Fortunatus of Todi",
+  "feastDay": "10-14",
+  "bio": "Saint Fortunatus was a sixth-century bishop of Todi, an ancient hilltown in Umbria, Italy. According to tradition, he defended the city of Todi during a Gothic siege, standing firm to protect his people in a time of war and danger. As bishop, he shepherded the Christian community of Todi with courage and pastoral care, and his defense of the city made him beloved among its citizens. He is honored as the patron saint of Todi, where his memory is kept alive to this day. His feast is celebrated on October 14, when the faithful of Todi and beyond give thanks for this holy bishop who combined the care of souls with the courage to defend his flock. St. Fortunatus stands as a witness to the bishop's duty to guard both the spiritual and temporal welfare of his people.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "protection",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Fortunatus courage to defend his people and zeal to shepherd his flock, grant through his intercession that we may be steadfast in trial and faithful in care. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fortunatus_of_Todi"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "grwst",
+  "name": "St. Grwst",
+  "feastDay": "12-01",
+  "bio": "Saint Grwst the Confessor was a sixth- and seventh-century saint who labored in the Welsh Kingdom of Gwynedd. Little certain detail survives concerning his life, yet his memory was kept alive in the churches and place-names of north Wales, where St Grwst's Church at Llanrwst preserves his name to this day. He belongs to that great cloud of Celtic witnesses who carried the faith through the Welsh kingdoms in the age after Rome withdrew from Britain. Honored as a confessor, he is remembered for a life of faithfulness rather than martyrdom, a quiet saint of an age of saints. His feast is kept on December 1. He is invoked as a patron of confessors and of the people of Wales.",
+  "patronages": [
+    {
+      "need": "confessors",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Grwst to bear witness to your name in the kingdom of Gwynedd, grant through his intercession that all confessors of the faith may shine with quiet holiness and that the people of Wales may walk in the paths of their fathers. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Grwst"
+  ],
+  "featured": false,
+  "draft": false
+}

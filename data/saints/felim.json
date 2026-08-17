@@ -1,0 +1,25 @@
+{
+  "slug": "felim",
+  "name": "St. Felim",
+  "feastDay": "unknown",
+  "bio": "Saint Felim was an Irish Christian hermit and priest, born probably in Kiennacta Breagh, County Meath, in the mid sixth century. He lived in that great age of Irish holiness when men and women sought God in the quiet of solitude, on islands, in forests, and on the wild edges of the land. As a hermit he gave himself to prayer and penance, and as a priest he served the sacramental needs of the faithful who came to him. His birth in the heart of Meath points to a Church that was already producing saints from among its ruling and farming families. He is remembered as one of the many hidden Irish hermits whose prayer formed a quiet foundation for the faith of a whole people.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Felim to seek You in the solitude of County Meath, grant through his intercession that we may find in prayer the strength to serve Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Felim"
+  ],
+  "featured": false,
+  "draft": false
+}

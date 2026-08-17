@@ -1,0 +1,21 @@
+{
+  "slug": "john-iv-of-constantinople",
+  "name": "St. John IV of Constantinople",
+  "feastDay": "09-02",
+  "bio": "John IV of Constantinople, called John Nesteutes, was patriarch of Constantinople in the late sixth century and the first to assume the title Ecumenical Patriarch, a style that acknowledged the primacy of honor his see held among the Eastern churches. He shepherded the church of the imperial capital during a turbulent era, and the Eastern Orthodox Church venerates him as a saint, keeping his feast on September 2. Though the details of his patriarchate are sparse, his assumption of the ecumenical title marks a lasting moment in the unfolding of the Church's order, and his memory endures among the Fathers of the East.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John IV a zealous heart for the order and unity of Your Church, grant through his intercession that all who shepherd Your flock may govern with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_IV_of_Constantinople"
+  ],
+  "featured": false,
+  "draft": false
+}

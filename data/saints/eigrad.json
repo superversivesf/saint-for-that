@@ -1,0 +1,21 @@
+{
+  "slug": "eigrad",
+  "name": "St. Eigrad",
+  "feastDay": "unknown",
+  "bio": "Saint Eigrad, also called Eugrad, was a sixth-century Welsh saint and the founder of St Eugrad's Church in Llaneugrad, on the island of Anglesey. A member of the early Christian community that brought the Gospel to the Welsh, he established a church that bore his name and served the people of that ancient island. Little is recorded of his life beyond the foundation itself, yet the church at Llaneugrad stands as a quiet testament to his devotion. In an age when the saints of Wales planted the faith church by church across the land, Eigrad took his place among them, leaving a house of prayer as his enduring legacy. He is venerated among the holy company of Anglesey's early saints, whose memory the land itself preserves.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who moved St. Eigrad to found a house of prayer on Anglesey, grant through his intercession that we may build up Your Church in our own day, leaving a legacy of worship for those who come after us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Eigrad"
+  ],
+  "featured": false,
+  "draft": false
+}

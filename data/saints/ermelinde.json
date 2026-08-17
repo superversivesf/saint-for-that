@@ -1,0 +1,25 @@
+{
+  "slug": "ermelinde",
+  "name": "St. Ermelinde",
+  "feastDay": "10-29",
+  "bio": "Saint Ermelinde was a Brabant saint of the sixth century, venerated in what is now Belgium. Born into a noble family, she chose a life of virginity and prayer, resisting the marriage her father wished to arrange for her. According to tradition she fled to a hermitage and lived as a recluse, devoting herself to fasting and the care of the poor.\n\nErmelinde's holiness was soon recognized by the people of the surrounding countryside, who sought her counsel and her prayers. Miracles were reported at her tomb, and her cult spread through the villages of Brabant and into neighboring regions. She is remembered as one of the holy women of the early Low Countries who lived lives of hidden devotion, sanctifying the land by their prayers. Her feast is kept on 29 October.",
+  "patronages": [
+    {
+      "need": "single women",
+      "category": "family"
+    },
+    {
+      "need": "europe",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ermelinde to a life of virginity and prayer, grant through her intercession that those who seek to serve You in purity of heart may find strength in Your grace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ermelinde"
+  ],
+  "featured": false,
+  "draft": false
+}

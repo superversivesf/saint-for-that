@@ -1,0 +1,29 @@
+{
+  "slug": "gabriel-of-beth-qustan",
+  "name": "St. Gabriel of Beth Qustan",
+  "feastDay": "12-23",
+  "bio": "Saint Gabriel of Beth Qustan, also known as Saint Gabriel of Qartmin, served as Bishop of Tur Abdin in Upper Mesopotamia until his death in 648. He shepherded the Syriac Orthodox community of that rugged region during a turbulent age marked by Byzantine-Persian wars and the early expansion of Islam. Little biographical detail survives, but the veneration of his memory among the Oriental Orthodox faithful testifies to a life of holiness and pastoral care. The ancient monastery of Qartmin preserves the tradition of his episcopal ministry. He is remembered for guiding his flock through upheaval, preserving the faith in a land soon transformed by conquest. His feast is kept on December 23. He is invoked as a patron of bishops and of Christians who keep the faith under hostile rule.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "jobs"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Gabriel of Beth Qustan to shepherd your people in Tur Abdin through days of trial and change, grant through his intercession that Christians everywhere may preserve the faith handed down to them and live in unity of heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gabriel_of_Beth_Qustan"
+  ],
+  "featured": false,
+  "draft": false
+}
