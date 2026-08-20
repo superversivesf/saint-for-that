@@ -63,8 +63,6 @@ export const NEED_SYNONYMS: Record<string, string[]> = {
   'bakers': ['baking', 'bakery', 'bread making', 'bread', 'pastry', 'pastries', 'baking bread', 'dough', 'bake', 'baked goods'],
   'beekeepers': ['bees', 'beekeeping', 'honey', 'apiary', 'hives', 'honey bees', 'bee keeper', 'bee keeping', 'apiarists', 'honeybees'],
   'blindness': ['blind', 'vision loss', 'sight loss', 'visually impaired', 'cannot see', 'loss of sight', 'going blind', 'sight impaired', 'vision impaired'],
-  'epilepsy': ['seizures', 'epileptic', 'fits', 'convulsions', 'seizure disorder', 'falling sickness', 'fits of falling'],
-  'pilgrims': ['pilgrimage', 'pilgrim', 'pilgrimages', 'holy journeys', 'religious travel', 'sacred journeys', 'shrine visits'],
   'breast disease': ['breast cancer', 'breast health', 'mastitis', 'breast tumors', 'breast lumps', 'mammogram', 'breast care', 'breast ailments'],
   'brewers': ['brewing', 'beer', 'beer making', 'breweries', 'ale', 'ale making', 'brewing beer', 'brewmaster', 'fermentation', 'beer brewing'],
   'brides': ['bride', 'wedding', 'weddings', 'marriage', 'getting married', 'brides to be', 'engaged women', 'wedding day', 'bridal', 'bride to be'],
