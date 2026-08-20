@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Tr%C3%A9sain"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Trestain_en_pri%C3%A8re_devant_le_Crucifix_XVII_09386.JPG/960px-Trestain_en_pri%C3%A8re_devant_le_Crucifix_XVII_09386.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Trésain"
+  }
 }

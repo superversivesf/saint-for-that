@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Constantina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pietro_da_Cortona_-_Saint_Constantia%27s_Vision_before_the_Tomb_of_Saints_Agnes_and_Emerentiana_-_Google_Art_Project.jpg/960px-Pietro_da_Cortona_-_Saint_Constantia%27s_Vision_before_the_Tomb_of_Saints_Agnes_and_Emerentiana_-_Google_Art_Project.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constantina"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Sophronius_of_Jerusalem"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Athonite_Fresco_Icon_of_Saint_Sophronios_of_Jerusalem.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sophronius of Jerusalem"
+  }
 }

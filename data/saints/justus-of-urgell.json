@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Justus_of_Urgell"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Justus.PNG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Justus of Urgell"
+  }
 }

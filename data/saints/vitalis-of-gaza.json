@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Vitalis_of_Gaza"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Vitalis.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vitalis of Gaza"
+  }
 }

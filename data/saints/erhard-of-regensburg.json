@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Erhard_of_Regensburg"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Uta-Codex_-_Heiliger_Erhard.jpg/960px-Uta-Codex_-_Heiliger_Erhard.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Erhard of Regensburg"
+  }
 }

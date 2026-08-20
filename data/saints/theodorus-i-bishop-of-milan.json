@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Theodorus_I_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/D5_Teodoro_25m.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodorus I"
+  }
 }

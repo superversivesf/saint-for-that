@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Arnold_of_Arnoldsweiler"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arnoldusfigur_%2818._Jh%29%2C_Pfarrkirche_Arnoldsweiler.jpg/960px-Arnoldusfigur_%2818._Jh%29%2C_Pfarrkirche_Arnoldsweiler.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arnold of Arnoldsweiler"
+  }
 }

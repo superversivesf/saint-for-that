@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Castor_of_Karden"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karden_Statue_Kastorbrunnen_2006-08-16.jpg/960px-Karden_Statue_Kastorbrunnen_2006-08-16.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Castor of Karden"
+  }
 }

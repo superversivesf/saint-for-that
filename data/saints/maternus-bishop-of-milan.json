@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maternus_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sacello_di_san_vittore_in_ciel_d%27oro%2C_mosaici_del_450-500_dc_ca._13_materno.jpg/960px-Sacello_di_san_vittore_in_ciel_d%27oro%2C_mosaici_del_450-500_dc_ca._13_materno.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maternus"
+  }
 }

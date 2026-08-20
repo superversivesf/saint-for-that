@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Modestus_of_Jerusalem"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saint_Modestus_1851_Zidarovo.jpg/960px-Saint_Modestus_1851_Zidarovo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Modestus of Jerusalem"
+  }
 }

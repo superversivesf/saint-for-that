@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Aldhelm"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aldhelm.malmesbury.arp.jpg/960px-Aldhelm.malmesbury.arp.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aldhelm"
+  }
 }

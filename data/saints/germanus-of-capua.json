@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Germanus_of_Capua"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Petrus_de_Ebulo_-_Balneum_Sudatorium.jpg/960px-Petrus_de_Ebulo_-_Balneum_Sudatorium.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Germanus of Capua"
+  }
 }

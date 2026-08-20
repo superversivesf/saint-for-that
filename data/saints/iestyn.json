@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Iestyn"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/St_Iestyn_effigy.jpg/960px-St_Iestyn_effigy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Iestyn"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Rudesind"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Estatua_no_frontal_do_Mosteiro_de_San_Salvador_de_Celanova_-_Galiza.jpg/960px-Estatua_no_frontal_do_Mosteiro_de_San_Salvador_de_Celanova_-_Galiza.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rudesind"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Rodulf_(archbishop_of_Bourges)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Solignac_-_Eglise_abbatiale_-_Choeur_et_bras_Sud_du_transept.JPG/960px-Solignac_-_Eglise_abbatiale_-_Choeur_et_bras_Sud_du_transept.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rodulf"
+  }
 }

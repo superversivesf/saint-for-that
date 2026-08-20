@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Felix_and_Regula"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Altartafel_Kapelle_Spannweid_Z%C3%BCrich_Stadtheilige.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix and Regula"
+  }
 }

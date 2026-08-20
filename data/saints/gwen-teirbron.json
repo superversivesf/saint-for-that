@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Gwen_Teirbron"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/027_Briec-de-l%27Odet_Chapelle_Saint-Vennec_Statue_de_sainte_Gwenn.JPG/960px-027_Briec-de-l%27Odet_Chapelle_Saint-Vennec_Statue_de_sainte_Gwenn.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gwen Teirbron"
+  }
 }

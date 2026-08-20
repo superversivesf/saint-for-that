@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Martyrs_of_C%C3%B3rdoba"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/EulogioCordovamart.JPG/960px-EulogioCordovamart.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leocritia"
+  }
 }

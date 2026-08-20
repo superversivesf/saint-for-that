@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Liberalis_of_Treviso"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Duomo_%28Treviso%29_-_interior_-_Cappella_Malchiostro_-_San_Liberale_-_Pomponio_Amalteo.jpg/960px-Duomo_%28Treviso%29_-_interior_-_Cappella_Malchiostro_-_San_Liberale_-_Pomponio_Amalteo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Liberalis of Treviso"
+  }
 }

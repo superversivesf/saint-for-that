@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Evodius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Italian_School%2C_Saint_Evodius_of_Antioch%2C_17th_Century.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Evodius"
+  }
 }

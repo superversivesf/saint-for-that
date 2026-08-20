@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Chrodoara"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sarcophage_de_Sancta_Chrodoara.JPG/960px-Sarcophage_de_Sancta_Chrodoara.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Chrodoara"
+  }
 }

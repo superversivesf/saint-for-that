@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Xenia_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Icon_of_Saint_Xenia_of_Rome%2C_San_Remo.jpg/960px-Icon_of_Saint_Xenia_of_Rome%2C_San_Remo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Xenia of Rome"
+  }
 }

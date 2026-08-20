@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/S%C3%A6bbi_of_Essex"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Early_graves_lost_noted_on_the_memorial_in_St_Paul%27s_Cathedral.JPG/960px-Early_graves_lost_noted_on_the_memorial_in_St_Paul%27s_Cathedral.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sæbbi of Essex"
+  }
 }

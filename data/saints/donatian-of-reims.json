@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Donatian_of_Reims"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Canon_van_der_Paele_%28_Donatian%29_Van_Eyck.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Donatian of Reims"
+  }
 }

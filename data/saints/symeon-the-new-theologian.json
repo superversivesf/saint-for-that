@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Symeon_the_New_Theologian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Symeon_the_New_Theologian.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Symeon the New Theologian"
+  }
 }

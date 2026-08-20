@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Gregory_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/960px-Gregory_the_Great_with_the_Holy_Spirit.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory I"
+  }
 }

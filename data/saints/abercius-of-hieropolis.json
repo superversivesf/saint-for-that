@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Abercius_of_Hieropolis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Abercius_of_Hieropolis_%28Menologion_of_Basil_II%29_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abercius of Hieropolis"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Vendemianus_of_Bithynia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vendimian_of_Bythinia_%28Menologion_of_Basil_II%29.jpg/960px-Vendimian_of_Bythinia_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vendemianus of Bithynia"
+  }
 }

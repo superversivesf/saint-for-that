@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Paul_of_Xeropotamou"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/StPaulOfXeropotamou.jpg/960px-StPaulOfXeropotamou.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paul of Xeropotamou"
+  }
 }

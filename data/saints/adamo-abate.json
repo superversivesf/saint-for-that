@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Adamo_Abate"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Saint_Adamo_Abate.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adamo Abate"
+  }
 }

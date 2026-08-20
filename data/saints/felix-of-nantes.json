@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Felix_of_Nantes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/F%C3%A9lix_de_Nantes_%28cropped%29.JPG/960px-F%C3%A9lix_de_Nantes_%28cropped%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix of Nantes"
+  }
 }

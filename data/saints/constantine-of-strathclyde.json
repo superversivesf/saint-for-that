@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Constantine_of_Strathclyde"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Constantine_of_Strathclyde.jpg/960px-Constantine_of_Strathclyde.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constantine of Strathclyde"
+  }
 }

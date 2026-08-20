@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Moninne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Killevy_Old_Church_-_geograph.org.uk_-_564089.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Moninne"
+  }
 }

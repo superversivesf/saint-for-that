@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Patapios"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Saint_Patapios_icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Patapios"
+  }
 }

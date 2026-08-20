@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Mac_Cairthinn_of_Clogher"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/08_St_Macartan_Detail_by_Harry_Clarke%2C_St._Joseph%27s_Church%2C_Carrickmacross%2C_Stained_Glass_Window.jpg/960px-08_St_Macartan_Detail_by_Harry_Clarke%2C_St._Joseph%27s_Church%2C_Carrickmacross%2C_Stained_Glass_Window.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mac Cairthinn of Clogher"
+  }
 }

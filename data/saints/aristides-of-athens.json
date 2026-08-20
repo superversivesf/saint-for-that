@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Aristides_of_Athens"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aristides of Athens"
+  }
 }

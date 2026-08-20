@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Saint_Galdino"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/San_Galdino_1.jpg/960px-San_Galdino_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Galdino"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Bassianus_of_Lodi"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/San_Bassiano_-_litografia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bassianus of Lodi"
+  }
 }

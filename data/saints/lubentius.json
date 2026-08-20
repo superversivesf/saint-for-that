@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Lubentius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St.Lubentius-Sarkophag_und_Kopfreliqiuar.JPG/960px-St.Lubentius-Sarkophag_und_Kopfreliqiuar.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lubentius"
+  }
 }

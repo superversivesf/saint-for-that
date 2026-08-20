@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Dominic_of_Silos"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg/960px-Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dominic of Silos"
+  }
 }

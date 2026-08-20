@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Congar_of_Congresbury"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sculpture_of_St_Congar_of_Congresbury_at_the_Museum_of_Somerset_4.JPG/960px-Sculpture_of_St_Congar_of_Congresbury_at_the_Museum_of_Somerset_4.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Congar of Congresbury"
+  }
 }

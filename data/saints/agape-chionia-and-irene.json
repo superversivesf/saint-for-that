@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Agape%2C_Chionia%2C_and_Irene"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Agape%2C_Chionia%2C_and_Irene.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agape, Chionia, and Irene"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Maxentius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Saint-Maixent-l%27Ecole_-_Crypte_Saint-Maixent_et_Saint-L%C3%A9ger.JPG/960px-Saint-Maixent-l%27Ecole_-_Crypte_Saint-Maixent_et_Saint-L%C3%A9ger.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maxentius"
+  }
 }

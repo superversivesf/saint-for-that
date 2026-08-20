@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bruno_(bishop_of_Segni)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Saint_Bruno%2C_Bishop_of_Segni.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bruno, Bishop of Segni"
+  }
 }

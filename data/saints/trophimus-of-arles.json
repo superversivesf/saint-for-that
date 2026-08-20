@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Trophimus_of_Arles"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Saint-trophime.jpg/960px-Saint-trophime.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Trophimus of Arles"
+  }
 }

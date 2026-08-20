@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Ottone_Frangipane"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg/960px-Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ottone Frangipane"
+  }
 }

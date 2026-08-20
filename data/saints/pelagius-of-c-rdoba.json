@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pelagiusofcordoba.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pelagius of Córdoba"
+  }
 }

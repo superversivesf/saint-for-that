@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mesrop_Mashtots_1882_painting.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mesrop Mashtots"
+  }
 }

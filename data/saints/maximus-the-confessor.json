@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maximus_the_Confessor"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Athonite_Fresco_Icon_of_Saint_Maximos_the_Confessor_2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maximus the Confessor"
+  }
 }

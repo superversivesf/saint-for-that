@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Decl%C3%A1n_of_Ardmore"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/05_St_Declan_%26_Ruanus_detail%2C_Harry_Clarke%2C_Honan_Chapel_Stained_Glass.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Declán of Ardmore"
+  }
 }

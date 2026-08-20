@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Odilia_of_Cologne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Santa_Od%C3%ADlia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Odilia of Cologne"
+  }
 }

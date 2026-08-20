@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bertha_of_Bingen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bertha_von_Bingen.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bertha of Bingen"
+  }
 }

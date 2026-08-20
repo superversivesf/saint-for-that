@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Werburgh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chester_Cathedral_-_Refektorium_Ostfenster_1_St.Werburg.jpg/960px-Chester_Cathedral_-_Refektorium_Ostfenster_1_St.Werburg.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Werburgh"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Sigfrid_of_Sweden"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sankt_Sigfrid_i_V%C3%A4xj%C3%B6.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sigfrid of Sweden"
+  }
 }

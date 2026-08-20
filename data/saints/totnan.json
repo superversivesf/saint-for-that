@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Totnan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kilian_kolonat_totnan.jpg/960px-Kilian_kolonat_totnan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Totnan"
+  }
 }

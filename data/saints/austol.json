@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Austol"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Saint_M%C3%A9en_et_Saint_Austol.jpg/960px-Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Saint_M%C3%A9en_et_Saint_Austol.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Austol"
+  }
 }

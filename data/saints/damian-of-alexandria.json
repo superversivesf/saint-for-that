@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Damian_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pope_Damian_of_Alexandria.jpg/960px-Pope_Damian_of_Alexandria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Damian of Alexandria"
+  }
 }

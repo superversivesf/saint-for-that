@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Hywel_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C3%89glise_Saint-Clair_%28R%C3%A9guiny%29_6002.JPG/960px-%C3%89glise_Saint-Clair_%28R%C3%A9guiny%29_6002.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hywel the Great"
+  }
 }

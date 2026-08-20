@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Melchizedek_I_of_Georgia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Melkisedek_I.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Melchizedek I of Georgia"
+  }
 }

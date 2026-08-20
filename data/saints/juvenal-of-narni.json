@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Juvenal_of_Narni"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/San_Giovenale_Masaccio.jpg/960px-San_Giovenale_Masaccio.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Juvenal of Narni"
+  }
 }

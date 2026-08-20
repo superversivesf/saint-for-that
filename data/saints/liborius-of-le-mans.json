@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Liborius_of_Le_Mans"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Paderborner_Dom_Dreifaltigkeitskapelle_Liborius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Liborius of Le Mans"
+  }
 }

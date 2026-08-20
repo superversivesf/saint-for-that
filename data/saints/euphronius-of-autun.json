@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Euphronius_of_Autun"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Autun_Kathedrale_St._Lazare_Chor_1.JPG/960px-Autun_Kathedrale_St._Lazare_Chor_1.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Euphronius of Autun"
+  }
 }

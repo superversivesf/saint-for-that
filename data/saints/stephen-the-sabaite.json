@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Stephen_the_Sabaite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Menaion_icon_%2817_c.%2C_TsAK%29_-_July_-_18_-_Stephen_the_Sabaite.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Stephen the Sabaite"
+  }
 }

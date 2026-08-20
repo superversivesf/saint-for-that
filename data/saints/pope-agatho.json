@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Agatho"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pope_Agatho_%28Menologion_of_Basil_II%29_-_cropped.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agatho"
+  }
 }

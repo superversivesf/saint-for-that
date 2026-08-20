@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Catellus_of_Castellammare"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Concattedrale_di_castellammare_di_stabia%2C_interno%2C_cappella_di_san_catello%2C_statua_di_san_catello_del_1609%2C_01.jpg/960px-Concattedrale_di_castellammare_di_stabia%2C_interno%2C_cappella_di_san_catello%2C_statua_di_san_catello_del_1609%2C_01.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Catellus of Castellammare"
+  }
 }

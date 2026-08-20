@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Magnus_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/108_Crypt_of_St_Eustorgius_Milan_-_San_Magno_1r.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Magnus"
+  }
 }

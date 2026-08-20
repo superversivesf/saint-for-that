@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Brice_of_Tours"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saintbrice.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brice of Tours"
+  }
 }

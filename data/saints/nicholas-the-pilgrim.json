@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Nicholas_the_Pilgrim"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/San_Nicola_Pellegrino.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nicholas the Pilgrim"
+  }
 }

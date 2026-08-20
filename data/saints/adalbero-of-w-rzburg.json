@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Adalbero_of_W%C3%BCrzburg"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pfarrkirche_Liesing_-_Adalbero.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adalbero of Würzburg"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Boisil"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cuthbert_and_Boisil.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Boisil"
+  }
 }

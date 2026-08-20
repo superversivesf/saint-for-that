@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bystr%C3%ADk"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/SaintBystrik.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bystrík"
+  }
 }

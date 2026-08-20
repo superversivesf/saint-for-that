@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Benno_of_Meissen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Johann_Michael_Rottmayr_001.jpg/960px-Johann_Michael_Rottmayr_001.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Benno of Meissen"
+  }
 }

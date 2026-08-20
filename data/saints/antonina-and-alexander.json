@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theodora_and_Didymus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Theodora_and_Didymus.jpg/960px-Theodora_and_Didymus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Antonina and Alexander"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Renatus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Puteaux_Notre-Dame-de-Piti%C3%A9110999.JPG/960px-Puteaux_Notre-Dame-de-Piti%C3%A9110999.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Renatus"
+  }
 }

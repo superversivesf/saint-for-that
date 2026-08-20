@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fulgentius_von_Ruspe_17Jh.jpg/960px-Fulgentius_von_Ruspe_17Jh.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fulgentius of Ruspe"
+  }
 }

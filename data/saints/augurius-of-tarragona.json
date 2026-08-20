@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Augurius_of_Tarragona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/MartirioFructuoso.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Augurius of Tarragona"
+  }
 }

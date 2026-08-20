@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Eusebius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eusebius of Caesarea"
+  }
 }

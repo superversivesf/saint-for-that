@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Felicitas_of_Padua"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbazia_di_Santa_Giustina.jpg/960px-Abbazia_di_Santa_Giustina.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felicitas of Padua"
+  }
 }

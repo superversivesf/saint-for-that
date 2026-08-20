@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Cantius%2C_Cantianus%2C_and_Cantianilla"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martyrium_Cantii%2C_Cantiani%2C_et_Cantianillae.jpg/960px-Martyrium_Cantii%2C_Cantiani%2C_et_Cantianillae.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cantius, Cantianus, and Cantianilla"
+  }
 }

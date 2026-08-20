@@ -37,5 +37,10 @@
     "https://en.wikipedia.org/wiki/Anthony_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/960px-Saint_Anthony_%28Damaskinos%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthony the Great"
+  }
 }

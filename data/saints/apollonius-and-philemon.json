@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Apollonius_and_Philemon"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Philemon_and_Apollonius_of_Antinoe_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Apollonius and Philemon"
+  }
 }

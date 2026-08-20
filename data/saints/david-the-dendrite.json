@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/David_the_Dendrite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Thessaloniki_Museum_of_Byzantine_Culture_Relief_icon_of_Hosios_David.jpg/960px-Thessaloniki_Museum_of_Byzantine_Culture_Relief_icon_of_Hosios_David.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. David the Dendrite"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Amatus_of_Nusco"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sant%27Amato_da_Nusco.jpg/960px-Sant%27Amato_da_Nusco.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Amatus of Nusco"
+  }
 }

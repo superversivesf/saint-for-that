@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Martin_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/14_Chiesa_di_Santa_Maria_della_Consolazione_%28Todi%29%2C_el_papa_Mart%C3%AD_I%2C_de_Carlo_Laurenti.jpg/960px-14_Chiesa_di_Santa_Maria_della_Consolazione_%28Todi%29%2C_el_papa_Mart%C3%AD_I%2C_de_Carlo_Laurenti.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Martin I"
+  }
 }

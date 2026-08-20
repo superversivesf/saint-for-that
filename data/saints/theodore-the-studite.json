@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Theodore_the_Studite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Studite.jpg/960px-Studite.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodore the Studite"
+  }
 }

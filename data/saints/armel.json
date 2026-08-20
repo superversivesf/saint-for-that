@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Armel"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Notre-Dame_des_Fleurs_Plouharnel_Saint-Armel_Droit.jpg/960px-Notre-Dame_des_Fleurs_Plouharnel_Saint-Armel_Droit.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Armel"
+  }
 }

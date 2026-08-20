@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Gwenllwyfo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Llanwenllwyfo_Church_-_geograph.org.uk_-_232117.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gwenllwyfo"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Myron_of_Crete"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Myron_of_Krete_Icon.jpg/960px-Myron_of_Krete_Icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Myron of Crete"
+  }
 }

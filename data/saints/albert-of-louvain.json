@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Albert_of_Louvain"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Archduke_Albert_with_Albert_of_Louvain.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Albert of Louvain"
+  }
 }

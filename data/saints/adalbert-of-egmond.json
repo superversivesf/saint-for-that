@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Adalbert_of_Egmond"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bonifatius-gregorius-aedelbertus-noordwijk.JPG/960px-Bonifatius-gregorius-aedelbertus-noordwijk.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adalbert of Egmond"
+  }
 }

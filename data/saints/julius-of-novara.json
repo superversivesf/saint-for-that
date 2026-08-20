@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Julius_of_Novara"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/JuliusofNovara.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Julius of Novara"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Fausta_of_Sirmium"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Saint_Fausta_of_Sirmium_on_colonnade_photo.jpg/960px-Saint_Fausta_of_Sirmium_on_colonnade_photo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fausta of Sirmium"
+  }
 }

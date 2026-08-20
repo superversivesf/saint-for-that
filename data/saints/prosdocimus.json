@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Prosdocimus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Brera_San_Lucas_02.JPG/960px-Brera_San_Lucas_02.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Prosdocimus"
+  }
 }

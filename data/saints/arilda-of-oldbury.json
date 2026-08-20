@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Arilda_of_Oldbury"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St_Arilda%27s_Church_Oldbury_on_Severn.jpg/960px-St_Arilda%27s_Church_Oldbury_on_Severn.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arilda of Oldbury"
+  }
 }

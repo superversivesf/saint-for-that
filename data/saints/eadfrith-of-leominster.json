@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Eadfrith_of_Leominster"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Priory_Church_Leominster.JPG/960px-Priory_Church_Leominster.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eadfrith of Leominster"
+  }
 }

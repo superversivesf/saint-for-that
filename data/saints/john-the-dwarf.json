@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/John_the_Dwarf"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_John_Kolobos.jpg/960px-Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_John_Kolobos.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John the Dwarf"
+  }
 }

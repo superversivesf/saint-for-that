@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Donatus_of_Euroea"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Donato_di_Murano.jpg/960px-San_Donato_di_Murano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Donatus of Euroea"
+  }
 }

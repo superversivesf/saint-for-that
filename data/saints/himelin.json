@@ -24,5 +24,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Himelin"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vissenaken_Himelinus_3.jpg/960px-Vissenaken_Himelinus_3.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Himelin"
+  }
 }

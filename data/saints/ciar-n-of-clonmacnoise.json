@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ciar%C3%A1n_of_Clonmacnoise"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Birr_St._Brendan%27s_Church_Saint_Kieran_Window_Detail_2010_09_10.jpg/960px-Birr_St._Brendan%27s_Church_Saint_Kieran_Window_Detail_2010_09_10.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ciarán of Clonmacnoise"
+  }
 }

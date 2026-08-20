@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Peter_the_Wonderworker"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Petros_Archiepiskopos_Argous.JPG/960px-Petros_Archiepiskopos_Argous.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter the Wonderworker"
+  }
 }

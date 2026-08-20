@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Mamilian_of_Palermo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/San_Mamiliano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mamilian of Palermo"
+  }
 }

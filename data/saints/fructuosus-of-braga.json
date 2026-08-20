@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Fructuosus_of_Braga"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sao_Frutuoso.JPG/960px-Sao_Frutuoso.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fructuosus of Braga"
+  }
 }

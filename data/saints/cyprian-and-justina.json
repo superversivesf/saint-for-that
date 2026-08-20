@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Cyprian_and_Justina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Svjashhennomuchenik-Kiprian-i-Iustina.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cyprian and Justina"
+  }
 }

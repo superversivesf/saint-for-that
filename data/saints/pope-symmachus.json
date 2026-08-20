@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Symmachus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pope_Symmachus_%E2%80%93_apse_mosaic_of_Sant%27Agnese_fuori_le_mura.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Symmachus"
+  }
 }

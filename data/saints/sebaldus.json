@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Sebaldus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg/960px-Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sebaldus"
+  }
 }

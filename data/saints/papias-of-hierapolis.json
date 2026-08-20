@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Papias_of_Hierapolis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Papias of Hierapolis"
+  }
 }

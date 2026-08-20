@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Longinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bernini_Hl._Longinus_Petersdom.jpg/960px-Bernini_Hl._Longinus_Petersdom.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Longinus"
+  }
 }

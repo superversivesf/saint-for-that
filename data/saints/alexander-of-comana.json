@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Alexander_of_Comana"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Saint_Alexander_of_Comana_by_Jacques_Callot.PNG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alexander of Comana"
+  }
 }

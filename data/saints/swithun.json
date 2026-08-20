@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Swithun"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg/960px-St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Swithun"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Mamertinus_of_Auxerre"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saint_mamertinus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mamertinus of Auxerre"
+  }
 }

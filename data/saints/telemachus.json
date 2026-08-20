@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Telemachus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Telemachus.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Telemachus"
+  }
 }

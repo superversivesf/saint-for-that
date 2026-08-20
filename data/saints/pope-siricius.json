@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Pope_Siricius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png/960px-Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pope Siricius"
+  }
 }

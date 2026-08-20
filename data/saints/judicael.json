@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Judicael"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Paimpont_%2835%29_Abbatiale_Notre-Dame_-_Int%C3%A9rieur_-_Statue_de_Saint-Judica%C3%ABl_-_01.jpg/960px-Paimpont_%2835%29_Abbatiale_Notre-Dame_-_Int%C3%A9rieur_-_Statue_de_Saint-Judica%C3%ABl_-_01.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Judicael"
+  }
 }

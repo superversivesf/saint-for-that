@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Severus_of_Vienne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vue_de_l%27ancienne_Eglise_de_St_Sev%C3%AAre_%28de_Vienne%29_prise_dans_le_cimeti%C3%A8re_..._-_dessin_-_a_vienne_meunier_fecit_1788_-_btv1b7743311f_%282_of_2%29.jpg/960px-Vue_de_l%27ancienne_Eglise_de_St_Sev%C3%AAre_%28de_Vienne%29_prise_dans_le_cimeti%C3%A8re_..._-_dessin_-_a_vienne_meunier_fecit_1788_-_btv1b7743311f_%282_of_2%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Severus of Vienne"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Syagrius_of_Nice"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nice%2Ccath%C3%A9drale%2Cext%C3%A9rieur06.jpg/960px-Nice%2Ccath%C3%A9drale%2Cext%C3%A9rieur06.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Syagrius of Nice"
+  }
 }

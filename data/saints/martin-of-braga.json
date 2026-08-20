@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Martin_of_Braga"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MartindeBraga-Albelda.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Martin of Braga"
+  }
 }

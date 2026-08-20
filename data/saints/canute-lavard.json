@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Canute_Lavard"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Knut_Lavard.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Canute Lavard"
+  }
 }

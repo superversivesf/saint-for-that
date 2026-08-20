@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Samuel_the_Confessor"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A5%D8%A8%D8%B1%D8%A7%D9%85_63.jpg/960px-%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A5%D8%A8%D8%B1%D8%A7%D9%85_63.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Samuel the Confessor"
+  }
 }

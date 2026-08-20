@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hugh_of_Ch%C3%A2teauneuf"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Hugo_en_el_Refectorio.jpg/960px-San_Hugo_en_el_Refectorio.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hugh of Châteauneuf"
+  }
 }

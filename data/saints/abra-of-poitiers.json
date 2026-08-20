@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Abra_of_Poitiers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sainte_Abra_de_Poitiers%2C_vitrail_Chartres.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abra of Poitiers"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Plechelm"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/De_Lutte_-_Beeld_van_Sint_Plechelmus_op_de_toren_van_de_Sint_Plechelmuskerk.jpg/960px-De_Lutte_-_Beeld_van_Sint_Plechelmus_op_de_toren_van_de_Sint_Plechelmuskerk.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Plechelm"
+  }
 }

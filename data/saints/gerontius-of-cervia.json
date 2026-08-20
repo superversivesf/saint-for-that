@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Gerontius_of_Cervia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Geronzio_%28part.%29_dalla_pala_di_Luigi_Garzi_%281704%29_-_Cattedrale_di_Cagli.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gerontius of Cervia"
+  }
 }

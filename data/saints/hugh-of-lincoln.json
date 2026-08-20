@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hugh_of_Lincoln"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hugh of Lincoln"
+  }
 }

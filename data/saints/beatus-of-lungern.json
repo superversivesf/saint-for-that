@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Beatus_of_Lungern"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saints_Beatus_and_Achatus_of_Thun_-_Orthodox_Icon.jpg/960px-Saints_Beatus_and_Achatus_of_Thun_-_Orthodox_Icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Beatus of Lungern"
+  }
 }

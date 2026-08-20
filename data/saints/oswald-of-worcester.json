@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Oswald_of_Worcester"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Oswald_and_Eadnoth.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Oswald of Worcester"
+  }
 }

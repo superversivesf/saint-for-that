@@ -38,5 +38,10 @@
     "https://en.wikipedia.org/wiki/Balthazar_(magus)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_David_-_Adoration_of_the_Kings_-_Google_Art_Project_%28cropped%294.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Balthazar"
+  }
 }

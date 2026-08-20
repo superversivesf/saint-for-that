@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg/960px-Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felicitas of Rome"
+  }
 }

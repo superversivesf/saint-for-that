@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Columba_of_Sens"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hattstatt_SteColombe04.JPG/960px-Hattstatt_SteColombe04.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Columba of Sens"
+  }
 }

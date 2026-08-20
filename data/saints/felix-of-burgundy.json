@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Felix_of_Burgundy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Felix_of_Burgundy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix of Burgundy"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus_the_Elder"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Gregory_the_Elder_and_Gregory_of_Nazianzus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory of Nazianzus the Elder"
+  }
 }

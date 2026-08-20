@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Govan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St_Govans.jpg/960px-St_Govans.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Govan"
+  }
 }

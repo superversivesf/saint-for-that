@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mor_Ephrem_icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ephrem the Syrian"
+  }
 }

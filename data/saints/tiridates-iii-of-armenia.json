@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tiridates_III_of_Armenia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tiridates_III_illustration.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tiridates III of Armenia"
+  }
 }

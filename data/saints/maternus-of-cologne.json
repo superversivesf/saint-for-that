@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Maternus_of_Cologne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Maternus_von_Koeln%2C_Egbert_Psalter.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maternus of Cologne"
+  }
 }

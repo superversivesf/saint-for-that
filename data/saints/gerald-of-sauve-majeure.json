@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Gerald_of_Sauve-Majeure"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_Sauve_%C3%A9glise_Saint-Pierre_Vitraux_1.JPG/960px-La_Sauve_%C3%A9glise_Saint-Pierre_Vitraux_1.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gerald of Sauve-Majeure"
+  }
 }

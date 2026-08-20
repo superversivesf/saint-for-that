@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Pope_Anacletus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Interior_of_Chiesa_dei_Gesuiti_%28Venice%29_-_sacristy_-_Papa_Cleto_-_1592-1593_-_by_Palma_il_Giovane%28cropped%29.jpg/960px-Interior_of_Chiesa_dei_Gesuiti_%28Venice%29_-_sacristy_-_Papa_Cleto_-_1592-1593_-_by_Palma_il_Giovane%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anacletus"
+  }
 }

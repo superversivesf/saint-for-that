@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Olivia_of_Palermo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saint_Oliva_-_Cathedral_of_Palermo_-_Italy_2015.JPG/960px-Saint_Oliva_-_Cathedral_of_Palermo_-_Italy_2015.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Olivia of Palermo"
+  }
 }

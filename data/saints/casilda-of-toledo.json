@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Casilda_of_Toledo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francisco_de_Zurbar%C3%A1n_-_Santa_Casilda.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Santa_Casilda.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Casilda of Toledo"
+  }
 }

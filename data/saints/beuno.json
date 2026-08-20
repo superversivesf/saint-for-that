@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Beuno"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Beuno_-_Fassade.jpg/960px-St.Beuno_-_Fassade.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Beuno"
+  }
 }

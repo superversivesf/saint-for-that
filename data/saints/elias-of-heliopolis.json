@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Elias_of_Heliopolis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Elias_of_Heliopolis%27s_life.png/960px-Elias_of_Heliopolis%27s_life.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Elias of Heliopolis"
+  }
 }

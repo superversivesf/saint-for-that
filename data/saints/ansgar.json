@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Ansgar"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ansgar"
+  }
 }

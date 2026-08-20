@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Maonacan_of_Athleague"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Monk_125a.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maonacan of Athleague"
+  }
 }

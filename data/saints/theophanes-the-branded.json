@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Theodorus_and_Theophanes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/TeodorGrapte.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theophanes the Branded"
+  }
 }

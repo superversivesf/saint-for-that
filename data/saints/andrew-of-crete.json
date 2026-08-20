@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Andrew_of_Crete"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Andrew_of_Crete_%28fresco%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Andrew of Crete"
+  }
 }

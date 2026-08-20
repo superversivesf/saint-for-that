@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Erminold"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St._Erminold.jpg/960px-St._Erminold.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Erminold"
+  }
 }

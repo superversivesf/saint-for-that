@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Germanus_of_Normandy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Saint-Germain_arrivant_%C3%A0_Di%C3%A9lette_Vitrail_Eglise_Saint-Germain_de_Flamanville_ERNOUF_Annie.JPG/960px-Saint-Germain_arrivant_%C3%A0_Di%C3%A9lette_Vitrail_Eglise_Saint-Germain_de_Flamanville_ERNOUF_Annie.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Germanus of Normandy"
+  }
 }

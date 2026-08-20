@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Constabilis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/COSTABILE_GENTILCORE.JPG/960px-COSTABILE_GENTILCORE.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constabilis"
+  }
 }

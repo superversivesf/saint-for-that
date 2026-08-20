@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bernard_of_Thiron"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Statue_de_Saint_Bernard_de_Tiron_abbatiale_de_Thiron-Gardais_Eure-et-loir_France.jpg/960px-Statue_de_Saint_Bernard_de_Tiron_abbatiale_de_Thiron-Gardais_Eure-et-loir_France.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bernard of Thiron"
+  }
 }

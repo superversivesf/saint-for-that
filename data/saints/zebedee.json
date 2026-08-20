@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Zebedee"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mary_Salome_and_Zebedee_with_their_Sons_James_the_Greater_and_John_the_Evangelist.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Zebedee"
+  }
 }

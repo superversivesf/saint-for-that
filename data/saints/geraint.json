@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Geraint"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sir_Geraint%2C_Son_of_Erbin.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Geraint"
+  }
 }

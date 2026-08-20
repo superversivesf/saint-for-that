@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Kedron_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pope_Kedron_of_Alexandria.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kedron of Alexandria"
+  }
 }

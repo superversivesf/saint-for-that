@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gildas"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Statue_St-Gildas_07082.jpg/960px-Statue_St-Gildas_07082.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gildas"
+  }
 }

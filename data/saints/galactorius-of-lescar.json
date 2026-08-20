@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Galactorius_of_Lescar"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Galactorius.JPG/960px-Galactorius.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Galactorius of Lescar"
+  }
 }

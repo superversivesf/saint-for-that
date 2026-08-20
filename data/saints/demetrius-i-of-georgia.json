@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Demetrius_I_of_Georgia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/King_Demetre_I_wearing_front-opening_qaba_with_Arabic_tiraz_bands_inscribed_in_Kufic_script%2C_first_half_of_the_12th_centuryn_Macxvarisi%2C_Svaneti%2C_northern_Georgia.jpg/960px-thumbnail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Demetrius I of Georgia"
+  }
 }

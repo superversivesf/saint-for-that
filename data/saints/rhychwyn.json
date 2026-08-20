@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Rhychwyn"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Llanrhychwyn_Church_-_geograph.org.uk_-_209644.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rhychwyn"
+  }
 }

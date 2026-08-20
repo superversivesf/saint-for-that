@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Erentrude"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Statue_Erentrudis_am_Portal_der_Benediktinerinnenabtei_Nonnberg.JPG/960px-Statue_Erentrudis_am_Portal_der_Benediktinerinnenabtei_Nonnberg.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Erentrude"
+  }
 }

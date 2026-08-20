@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Moluag"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Saints_Window%2C_Cathedral_Church_of_St_Moluag%2C_Isle_of_Lismore%2C_Argyll.jpg/960px-Saints_Window%2C_Cathedral_Church_of_St_Moluag%2C_Isle_of_Lismore%2C_Argyll.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Moluag"
+  }
 }

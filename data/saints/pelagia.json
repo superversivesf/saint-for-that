@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Pelagia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saint_pelagia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pelagia"
+  }
 }

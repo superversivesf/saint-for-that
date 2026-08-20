@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Abgar_V"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abgarwithimageofedessa10thcentury.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abgar V"
+  }
 }

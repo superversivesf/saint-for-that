@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Kevin_of_Glendalough"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kevin-black.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kevin of Glendalough"
+  }
 }

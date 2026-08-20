@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Bobo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/San_Bernardo_e_San_Bovo_-_Abside_dell%27Oratorio_di_Santa_Maria_-_Garbagna_Novarese.jpg/960px-San_Bernardo_e_San_Bovo_-_Abside_dell%27Oratorio_di_Santa_Maria_-_Garbagna_Novarese.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bobo"
+  }
 }

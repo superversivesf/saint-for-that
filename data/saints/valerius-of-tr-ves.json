@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Valerius_of_Tr%C3%A8ves"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/GravesEuchariusValeriusStMatthiasAbbeyTrier.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Valerius of Trèves"
+  }
 }

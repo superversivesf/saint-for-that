@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Alexius_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Alexii.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alexius of Rome"
+  }
 }

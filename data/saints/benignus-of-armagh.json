@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Benignus_of_Armagh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kilbennan_St._Benin%27s_Church_Window_St._Benen_Detail_2010_09_16.jpg/960px-Kilbennan_St._Benin%27s_Church_Window_St._Benen_Detail_2010_09_16.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Benignus of Armagh"
+  }
 }

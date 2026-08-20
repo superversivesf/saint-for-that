@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Aldetrude"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Waltraud_Waudru.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aldetrude"
+  }
 }

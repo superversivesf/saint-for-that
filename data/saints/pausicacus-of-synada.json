@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pausicacus_of_Synada"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/St_Pavsekakii.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pausicacus of Synada"
+  }
 }

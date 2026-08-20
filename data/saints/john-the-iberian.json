@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_the_Iberian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fresco_of_John_Iberian%2C_Monastery_of_Iviron.jpg/960px-Fresco_of_John_Iberian%2C_Monastery_of_Iviron.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John the Iberian"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Pope_Miltiades"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pope_miltiades.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Miltiades"
+  }
 }

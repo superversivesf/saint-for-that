@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Justina_of_Padua"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Saint_Justina_of_Padua_MET_DT236982.jpg/960px-Saint_Justina_of_Padua_MET_DT236982.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Justina of Padua"
+  }
 }

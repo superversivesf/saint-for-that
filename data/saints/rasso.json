@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Rasso"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/St_Rasso_or_Ratho_%28baroque_painting%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rasso"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Hilary_of_Galeata"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Galeata_sant_ellero_tomba.jpg/960px-Galeata_sant_ellero_tomba.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hilary of Galeata"
+  }
 }

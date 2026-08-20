@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Conleth"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St-conleth.JPG/960px-St-conleth.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Conleth"
+  }
 }

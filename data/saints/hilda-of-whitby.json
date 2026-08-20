@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Hilda_of_Whitby"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG/330px-St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hilda of Whitby"
+  }
 }

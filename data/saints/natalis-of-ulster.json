@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Natalis_of_Ulster"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruins_Church_of_Naile%2C_Kinawley%2C_Fermanagh.jpg/960px-Ruins_Church_of_Naile%2C_Kinawley%2C_Fermanagh.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Natalis of Ulster"
+  }
 }

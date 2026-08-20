@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Alypius_of_the_Caves"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Painter_Alipius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alypius of the Caves"
+  }
 }

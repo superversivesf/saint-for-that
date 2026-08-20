@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Adelaide,_Abbess_of_Vilich"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bnadelhei.jpg/960px-Bnadelhei.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adelaide, Abbess of Vilich"
+  }
 }

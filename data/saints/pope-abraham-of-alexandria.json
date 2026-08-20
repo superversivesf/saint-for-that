@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Abraham_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Abraham_of_Alexandria_with_Simon_the_Tanner.jpg/960px-Abraham_of_Alexandria_with_Simon_the_Tanner.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abraham of Alexandria"
+  }
 }

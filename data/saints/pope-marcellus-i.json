@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Roma-sanmarcelloalcorso2.jpg/960px-Roma-sanmarcelloalcorso2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marcellus I"
+  }
 }

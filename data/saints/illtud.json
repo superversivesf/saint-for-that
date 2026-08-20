@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Illtud"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/St_Illtyd_in_Holy_Trinity_Church%2C_Abergavenny.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Illtud"
+  }
 }

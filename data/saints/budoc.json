@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Budoc"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint-Budoc_%C3%A0_Tr%C3%A9garvan.JPG/960px-Saint-Budoc_%C3%A0_Tr%C3%A9garvan.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Budoc"
+  }
 }

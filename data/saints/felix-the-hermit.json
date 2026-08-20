@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Felix_the_Hermit"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sao_Felix.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix the Hermit"
+  }
 }

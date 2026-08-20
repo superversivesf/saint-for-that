@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maxellende_of_Caudry"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Icon_of_Saint-Maxellende.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maxellende of Caudry"
+  }
 }

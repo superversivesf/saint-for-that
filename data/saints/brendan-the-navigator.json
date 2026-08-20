@@ -2,7 +2,7 @@
   "slug": "brendan-the-navigator",
   "name": "St. Brendan the Navigator",
   "feastDay": "05-16",
-  "bio": "Brendan of Clonfert is one of the early Irish monastic saints and one of the Twelve Apostles of Ireland. He is also called Brendan the Navigator, Brendan the Voyager, Brendan the Anchorite, and Brendan the Bold, and in Irish Naomh Br\u00e9anainn or Naomh Breand\u00e1n. He is chiefly known for his legendary voyage in search of the \"Isle of the Blessed,\" sometimes called \"Saint Brendan's Island,\" preserved in the immram Navigatio Sancti Brendani Abbatis. Across the medieval world this tale fired the imagination of sailors and monks alike, and later voyagers, looking west, thought of Brendan as a forerunner. He founded the monastery of Clonfert and labored among the peoples of the western seaboard. He is invoked by sailors, mariners, travelers, and all who go down to the sea in ships.",
+  "bio": "Brendan of Clonfert is one of the early Irish monastic saints and one of the Twelve Apostles of Ireland. He is also called Brendan the Navigator, Brendan the Voyager, Brendan the Anchorite, and Brendan the Bold, and in Irish Naomh Bréanainn or Naomh Breandán. He is chiefly known for his legendary voyage in search of the \"Isle of the Blessed,\" sometimes called \"Saint Brendan's Island,\" preserved in the immram Navigatio Sancti Brendani Abbatis. Across the medieval world this tale fired the imagination of sailors and monks alike, and later voyagers, looking west, thought of Brendan as a forerunner. He founded the monastery of Clonfert and labored among the peoples of the western seaboard. He is invoked by sailors, mariners, travelers, and all who go down to the sea in ships.",
   "patronages": [
     {
       "need": "sailors",
@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Brendan_the_Navigator"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brendan the Navigator"
+  }
 }

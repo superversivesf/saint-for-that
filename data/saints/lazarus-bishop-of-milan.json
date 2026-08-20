@@ -18,5 +18,10 @@
     "https://en.wikipedia.org/wiki/Lazarus_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lazarus_bishop_of_Milan.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lazarus"
+  }
 }

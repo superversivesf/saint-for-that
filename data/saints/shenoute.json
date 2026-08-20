@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Shenoute"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Shenoute_of_Atripe.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Shenoute"
+  }
 }

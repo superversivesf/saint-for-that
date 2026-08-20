@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Simon_the_Tanner"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/StSimonTheShoemaker.jpg/960px-StSimonTheShoemaker.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simon the Tanner"
+  }
 }

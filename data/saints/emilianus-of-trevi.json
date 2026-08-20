@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Emilianus_of_Trevi"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Emiliano_di_Trevi.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Emilianus of Trevi"
+  }
 }

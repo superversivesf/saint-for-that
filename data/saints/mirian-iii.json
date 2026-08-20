@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Mirian_III"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Mirian%2C_a_17th-century_fresco_from_Svetitskhoveli_Cathedral_%28Mtskheta%2C_Georgia%29.jpg/960px-King_Mirian%2C_a_17th-century_fresco_from_Svetitskhoveli_Cathedral_%28Mtskheta%2C_Georgia%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mirian III"
+  }
 }

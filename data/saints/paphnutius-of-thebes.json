@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Paphnutius_of_Thebes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Paphnutius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paphnutius of Thebes"
+  }
 }

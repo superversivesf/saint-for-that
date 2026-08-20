@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Winifred"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Castell_Coch_stained_glass_panel_4.JPG/960px-Castell_Coch_stained_glass_panel_4.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Winifred"
+  }
 }

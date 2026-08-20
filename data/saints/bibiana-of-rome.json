@@ -2,7 +2,7 @@
   "slug": "bibiana-of-rome",
   "name": "St. Bibiana of Rome",
   "feastDay": "12-02",
-  "bio": "Saint Bibiana of Rome is an early Christian virgin and martyr whose memory has been venerated in the Eternal City since ancient times. The earliest authentic mention of her occurs in the Liber Pontificalis, which records that Pope Simplicius (468\u2013483) consecrated a basilica in her honor near the palatium Licinianum, containing her body. The Basilica of Santa Bibiana in Rome remains dedicated to her to this day. According to later tradition, she endured torture and death during a persecution rather than renounce her faith and her consecrated virginity. Throughout the centuries, the faithful have invoked her especially against epilepsy, hangovers, headaches, and mental illness, and as a patron of single laywomen and torture victims.",
+  "bio": "Saint Bibiana of Rome is an early Christian virgin and martyr whose memory has been venerated in the Eternal City since ancient times. The earliest authentic mention of her occurs in the Liber Pontificalis, which records that Pope Simplicius (468–483) consecrated a basilica in her honor near the palatium Licinianum, containing her body. The Basilica of Santa Bibiana in Rome remains dedicated to her to this day. According to later tradition, she endured torture and death during a persecution rather than renounce her faith and her consecrated virginity. Throughout the centuries, the faithful have invoked her especially against epilepsy, hangovers, headaches, and mental illness, and as a patron of single laywomen and torture victims.",
   "patronages": [
     {
       "need": "epilepsy",
@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Bibiana_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Santa_Bibiana_by_Bernini.jpg/960px-Santa_Bibiana_by_Bernini.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bibiana of Rome"
+  }
 }

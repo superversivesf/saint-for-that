@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Basil_the_Confessor"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/St_vasily_ispovednik_icon.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Basil the Confessor"
+  }
 }

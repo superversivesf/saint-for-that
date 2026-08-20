@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hierotheos_the_Thesmothete"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hierotheos_the_Thesmothete.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hierotheos the Thesmothete"
+  }
 }

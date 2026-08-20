@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Digain"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Church_of_St_Digian%2C_Llangernyw_-_geograph.org.uk_-_1160352.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Digain"
+  }
 }

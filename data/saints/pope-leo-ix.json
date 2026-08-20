@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Leo_IX"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leo IX"
+  }
 }

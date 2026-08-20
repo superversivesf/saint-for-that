@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Himerius_of_Bosto"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sainthimerius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Himerius of Bosto"
+  }
 }

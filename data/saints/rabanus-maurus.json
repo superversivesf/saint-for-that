@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Rabanus_Maurus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Raban-Maur_Alcuin_Otgar.jpg/960px-Raban-Maur_Alcuin_Otgar.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rabanus Maurus"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tola_of_Clonard"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dysert_cross.jpg/960px-Dysert_cross.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tola of Clonard"
+  }
 }

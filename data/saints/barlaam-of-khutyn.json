@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Barlaam_of_Khutyn"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Barlaam_of_Khutyn.jpg/960px-Barlaam_of_Khutyn.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Barlaam of Khutyn"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Paraskeva_of_the_Balkans"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St_Petka-Klisura_Monastery_Icon.jpg/960px-St_Petka-Klisura_Monastery_Icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paraskeva of the Balkans"
+  }
 }

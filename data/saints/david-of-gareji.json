@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/David_of_Gareji"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/David_of_Gareji.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. David of Gareji"
+  }
 }

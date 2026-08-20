@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Guarinus_of_Sitten"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Illustration_3_m%C3%A9daille_saint_Gu%C3%A9rin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Guarinus of Sitten"
+  }
 }

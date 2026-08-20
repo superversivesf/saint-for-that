@@ -24,5 +24,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Pope_Gregory_III"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/178-7866_IMG_-_Gregorius_III_AV.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory III"
+  }
 }

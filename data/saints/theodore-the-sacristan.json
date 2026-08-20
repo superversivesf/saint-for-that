@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Theodore_the_Sacristan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pope-peter_pprubens.jpg/960px-Pope-peter_pprubens.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodore the Sacristan"
+  }
 }

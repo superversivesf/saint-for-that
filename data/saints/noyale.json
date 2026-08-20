@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Noyale"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Noyal-Pontivy_%2856%29_Chapelle_Sainte-Noyale_004.JPG/960px-Noyal-Pontivy_%2856%29_Chapelle_Sainte-Noyale_004.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Noyale"
+  }
 }

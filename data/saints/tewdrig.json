@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tewdrig"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Death.of.Tewdric.jpg/960px-Death.of.Tewdric.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tewdrig"
+  }
 }

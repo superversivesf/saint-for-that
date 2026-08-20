@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Macedonius_of_Syria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Church_of_Panagia_tou_Arakos%2C_sanctuary%2C_apse%2C_wall_paintings%2C_Lagoudera%2C_Cyprus_-_Apse_wall%2C_south_side%2C_medallion%2C_St._Macedonius_-_MSBZ004_BF_T_Lag_B_4_6_-_Dumbarton_Oaks.jpg/960px-thumbnail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Macedonius of Syria"
+  }
 }

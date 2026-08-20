@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Hilarius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carville-Pot-de-Fer_%28Seine-Mar.%29_%C3%A9glise%2C_statue_03_Saint_Hilaire_pape.jpg/960px-Carville-Pot-de-Fer_%28Seine-Mar.%29_%C3%A9glise%2C_statue_03_Saint_Hilaire_pape.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hilarius"
+  }
 }

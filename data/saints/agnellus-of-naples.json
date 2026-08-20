@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Agnellus_of_Naples"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pietro_Negroni_-_Madonna_e_santi.jpg/960px-Pietro_Negroni_-_Madonna_e_santi.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agnellus of Naples"
+  }
 }

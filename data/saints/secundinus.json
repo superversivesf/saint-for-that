@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Secundinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seachnall%27s_church.JPG/960px-Seachnall%27s_church.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Secundinus"
+  }
 }

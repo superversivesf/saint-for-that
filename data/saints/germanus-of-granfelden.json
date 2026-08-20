@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Germanus_of_Granfelden"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shoes_of_saint_Germain.jpg/960px-Shoes_of_saint_Germain.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Germanus of Granfelden"
+  }
 }

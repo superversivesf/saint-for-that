@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Julitta_(Cornwall)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/St_Julitta_on_stained_glass_in_St_Materiana%27s_Church%2C_Tintagel.jpg/960px-St_Julitta_on_stained_glass_in_St_Materiana%27s_Church%2C_Tintagel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Julitta"
+  }
 }

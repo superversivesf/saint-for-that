@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Adeodatus_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/SCeau_Deusdedit_pape_17108.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adeodatus I"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Stephen_of_Muret"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Stephen_Muret_Hugh_Lacerta_MNMA_Cl956a.jpg/960px-Stephen_Muret_Hugh_Lacerta_MNMA_Cl956a.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Stephen of Muret"
+  }
 }

@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Gregory_of_Narek"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Grigor_Narekatsi_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory of Narek"
+  }
 }

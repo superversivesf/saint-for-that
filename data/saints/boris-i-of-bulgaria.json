@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Boris_I_of_Bulgaria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Boris I of Bulgaria"
+  }
 }

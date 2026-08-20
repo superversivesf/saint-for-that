@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Adelaide_of_Italy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sainte-Ad%C3%A9la%C3%AFde_-_%C3%89glise_de_Toury%2C_vitraux_par_Lorin.jpg/960px-Sainte-Ad%C3%A9la%C3%AFde_-_%C3%89glise_de_Toury%2C_vitraux_par_Lorin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adelaide of Italy"
+  }
 }

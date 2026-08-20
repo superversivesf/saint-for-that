@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Calogerus_the_Anchorite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Calojru_maiolica.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Calogerus the Anchorite"
+  }
 }

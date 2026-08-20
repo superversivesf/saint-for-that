@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Guiraud"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Basilique_Saint-Aphrodise_de_B%C3%A9ziers_34.jpg/960px-Basilique_Saint-Aphrodise_de_B%C3%A9ziers_34.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Guiraud"
+  }
 }

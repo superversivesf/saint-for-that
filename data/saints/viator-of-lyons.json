@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Viator_of_Lyons"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Viator_de_Lyon_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Viator of Lyons"
+  }
 }

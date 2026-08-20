@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Turibius_of_Astorga"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Catedral_de_Astorga%2C_Santo_Toribio.jpg/960px-Catedral_de_Astorga%2C_Santo_Toribio.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Turibius of Astorga"
+  }
 }

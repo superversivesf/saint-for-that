@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Basolus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saint_basle_vittel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Basolus"
+  }
 }

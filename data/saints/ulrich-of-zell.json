@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ulrich_of_Zell"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ulryk_z_Zell.jpg/960px-Ulryk_z_Zell.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ulrich of Zell"
+  }
 }

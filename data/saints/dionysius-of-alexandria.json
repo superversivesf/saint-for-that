@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Dionysius_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dionysius of Alexandria"
+  }
 }

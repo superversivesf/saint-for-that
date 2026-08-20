@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Finan_Cam"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/House_of_St._Finan_Cam_on_Church_Island_Lough_Currane%2C_Co._Kerry.png/960px-House_of_St._Finan_Cam_on_Church_Island_Lough_Currane%2C_Co._Kerry.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Finan Cam"
+  }
 }

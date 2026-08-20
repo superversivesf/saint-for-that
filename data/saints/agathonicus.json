@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Agathonicus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Saint_Agathonikos_of_Nikomedeia_Mosaic_Medallion%2C_Chora.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agathonicus"
+  }
 }

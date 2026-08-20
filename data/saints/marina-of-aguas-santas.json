@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Marina_of_Aguas_Santas"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Zurbaran_santa_marina.jpg/960px-Zurbaran_santa_marina.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marina of Aguas Santas"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Beverley"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_-_St_John_of_Beverley_on_the_Minster.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Beverley"
+  }
 }

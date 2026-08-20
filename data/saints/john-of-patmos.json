@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Patmos"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Johannes_op_Patmos_Saint_John_on_Patmos_Berlin%2C_Staatlichen_Museen_zu_Berlin%2C_Gemaldegalerie_HR.jpg/960px-Johannes_op_Patmos_Saint_John_on_Patmos_Berlin%2C_Staatlichen_Museen_zu_Berlin%2C_Gemaldegalerie_HR.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Patmos"
+  }
 }

@@ -37,5 +37,10 @@
     "https://en.wikipedia.org/wiki/Saint_Fabiola"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jean-Jacques_Henner_Fabiola.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fabiola"
+  }
 }

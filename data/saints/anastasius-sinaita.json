@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Anastasius_Sinaita"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/St._Anastasius_Sinaita_%28Church_of_Panagia_Theotokos_-_Vouliagmenis_Avenue%29%2C_8-15-2023.jpg/960px-St._Anastasius_Sinaita_%28Church_of_Panagia_Theotokos_-_Vouliagmenis_Avenue%29%2C_8-15-2023.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anastasius Sinaita"
+  }
 }

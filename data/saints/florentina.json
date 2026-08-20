@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Florentina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Santa_Florentina_%2820240712_092823%29.jpg/960px-Santa_Florentina_%2820240712_092823%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Florentina"
+  }
 }

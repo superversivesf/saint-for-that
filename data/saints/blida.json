@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Blida"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panel_paintings_4%2C_5_at_St_Mary_Magdalene%2C_Norwich.jpg/960px-Panel_paintings_4%2C_5_at_St_Mary_Magdalene%2C_Norwich.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Blida"
+  }
 }

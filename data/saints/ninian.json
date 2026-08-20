@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ninian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ninian_of_Whithorn.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ninian"
+  }
 }

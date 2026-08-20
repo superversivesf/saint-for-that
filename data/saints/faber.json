@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Faber"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St_Faber%27s_Bullan.jpg/960px-St_Faber%27s_Bullan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Faber"
+  }
 }

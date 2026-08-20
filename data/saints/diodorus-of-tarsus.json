@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Diodorus_of_Tarsus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png/960px-Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Diodorus of Tarsus"
+  }
 }

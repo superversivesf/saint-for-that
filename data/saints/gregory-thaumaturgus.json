@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grigorii_chudotvoretz.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory Thaumaturgus"
+  }
 }

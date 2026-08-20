@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Ansfried_of_Utrecht"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Huy_051027_%2838%29.JPG/960px-Huy_051027_%2838%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ansfried of Utrecht"
+  }
 }

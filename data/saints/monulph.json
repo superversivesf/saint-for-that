@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Monulph"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Basiliek_van_Onze-Lieve-Vrouw-Tenhemelopneming_%28Maastricht%29_20080913_stained_glass_Monulphus_Gondulphus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Monulph"
+  }
 }

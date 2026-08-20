@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hegesippus_Egesippus_Nuremberg_Chronicle_cropped.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hegesippus"
+  }
 }

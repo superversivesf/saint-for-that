@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Erik"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stockholms_stads_tredje_sigill.png/960px-Stockholms_stads_tredje_sigill.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Erik"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/David_I_of_Scotland"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Malcolm_IV%2C_King_of_Scotland%2C_charter_to_Kelso_Abbey%2C_1159%2C_initial_%28crop_David_I%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. David I of Scotland"
+  }
 }

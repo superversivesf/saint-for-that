@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg/960px-Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brigid of Kildare"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tha%C3%AFs_(saint)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sainte_Tha%C3%AFs_-_Eglise_Saint-Boniface_-_Ixelles_-_Bruxelles_-_BE.jpg/960px-Sainte_Tha%C3%AFs_-_Eglise_Saint-Boniface_-_Ixelles_-_Bruxelles_-_BE.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Thaïs"
+  }
 }

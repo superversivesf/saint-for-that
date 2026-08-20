@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Domitian_of_Melitene"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Menologion_of_Basil_032.jpg/960px-Menologion_of_Basil_032.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Domitian of Melitene"
+  }
 }

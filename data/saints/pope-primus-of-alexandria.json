@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Primus_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pope_Primus_of_Alexandria.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Primus of Alexandria"
+  }
 }

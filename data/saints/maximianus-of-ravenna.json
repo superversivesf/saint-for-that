@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maximianus_of_Ravenna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Meister_von_San_Vitale_in_Ravenna_005.jpg/960px-Meister_von_San_Vitale_in_Ravenna_005.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maximianus of Ravenna"
+  }
 }

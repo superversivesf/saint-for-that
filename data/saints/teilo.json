@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Teilo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/St_Teilo_in_Holy_Trinity_Church%2C_Abergavenny.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Teilo"
+  }
 }

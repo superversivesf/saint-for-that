@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Cuthmann_of_Steyning"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cuthmann_of_Steyning_statue.jpg/960px-Cuthmann_of_Steyning_statue.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cuthmann of Steyning"
+  }
 }

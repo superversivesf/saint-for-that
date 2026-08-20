@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Fulbert_of_Chartres"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg/960px-Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fulbert of Chartres"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Prisca"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Santa_prisca.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Prisca"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bonfilius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Foligno099.jpg/960px-Foligno099.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bonfilius"
+  }
 }

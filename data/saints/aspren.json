@@ -18,5 +18,10 @@
     "https://en.wikipedia.org/wiki/Aspren"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luca_Giordano_Protector_saints_of_Naples.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aspren"
+  }
 }

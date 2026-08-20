@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Anthony_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Saint_Anthony_the_Roman.jpg/960px-Saint_Anthony_the_Roman.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthony of Rome"
+  }
 }

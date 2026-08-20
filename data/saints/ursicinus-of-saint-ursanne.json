@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ursicinus_of_Saint-Ursanne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Eremit_Saint_Ursanne.JPG/960px-Eremit_Saint_Ursanne.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ursicinus of Saint-Ursanne"
+  }
 }

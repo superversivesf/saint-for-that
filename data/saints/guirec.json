@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Guirec"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OratoriumStGuirec_Ploumanach.jpg/960px-OratoriumStGuirec_Ploumanach.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Guirec"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Mellonius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baie_ch%C5%93ur_208_Saint-Ouen_Rouen_Mellon.JPG/960px-Baie_ch%C5%93ur_208_Saint-Ouen_Rouen_Mellon.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mellonius"
+  }
 }

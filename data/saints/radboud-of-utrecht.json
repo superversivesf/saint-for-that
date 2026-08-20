@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Radboud_of_Utrecht"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Radboud_broerenkerk_zwolle.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Radboud of Utrecht"
+  }
 }

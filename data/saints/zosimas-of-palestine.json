@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Zosimas_of_Palestine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Zosimas_and_Mary_of_Egypt_%28Greece%2C_17_c.%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Zosimas of Palestine"
+  }
 }

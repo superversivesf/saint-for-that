@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Maximin_of_Trier"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ettringen_St._Maximin_und_Anna152.JPG/960px-Ettringen_St._Maximin_und_Anna152.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maximin of Trier"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Monasterevin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monasterevin_County_Kildare.jpg/960px-Monasterevin_County_Kildare.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Evin"
+  }
 }

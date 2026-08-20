@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Pope_Damasus_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis%2C_Folio_4v.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Damasus I"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Collen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Collen%27s_Church%2C_Llangollen_01.jpg/960px-St._Collen%27s_Church%2C_Llangollen_01.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Collen"
+  }
 }

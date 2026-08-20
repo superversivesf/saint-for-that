@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Sulpitius_I_of_Bourges"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/La_Celle-sur-Morin_Saint-Sulpice_Fenster_28.JPG/960px-La_Celle-sur-Morin_Saint-Sulpice_Fenster_28.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sulpitius I of Bourges"
+  }
 }

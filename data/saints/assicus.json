@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Assicus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sligo_Cathedral_of_the_Immaculate_Conception_Ambulatory_Window_03_Asicus_2013_09_14.jpg/960px-Sligo_Cathedral_of_the_Immaculate_Conception_Ambulatory_Window_03_Asicus_2013_09_14.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Assicus"
+  }
 }

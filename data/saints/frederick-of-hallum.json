@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Frederick_of_Hallum"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beeld_van_Fred._van_Mari%C3%ABngaarde_-_Hallum_-_20100046_-_RCE.jpg/960px-Beeld_van_Fred._van_Mari%C3%ABngaarde_-_Hallum_-_20100046_-_RCE.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Frederick of Hallum"
+  }
 }

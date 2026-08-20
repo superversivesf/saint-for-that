@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Manch%C3%A1n_of_Mohill"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Monk_125a.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Manchán of Mohill"
+  }
 }

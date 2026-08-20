@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg/960px-Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paulinus of Nola"
+  }
 }

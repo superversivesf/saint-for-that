@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Cainnech_of_Aghaboe"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Head_of_St_Cainneach_%28Canice%29%2C_Kilkenny.jpg/960px-Head_of_St_Cainneach_%28Canice%29%2C_Kilkenny.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cainnech of Aghaboe"
+  }
 }

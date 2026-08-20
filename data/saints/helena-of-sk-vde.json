@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Helena_of_Sk%C3%B6vde"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sankta_Helena_kyrka_i_Sk%C3%B6vde%2C_den_2_oktober_2006%2C_bild_6.JPG/960px-Sankta_Helena_kyrka_i_Sk%C3%B6vde%2C_den_2_oktober_2006%2C_bild_6.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Helena of Skövde"
+  }
 }

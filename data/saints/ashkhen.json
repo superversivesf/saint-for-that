@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ashkhen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/King_Tiridates_with_his_wife_Ashkhen_and_sister_Khosrovidukht_by_Naghash_Hovnatan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ashkhen"
+  }
 }

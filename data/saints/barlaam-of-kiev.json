@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Barlaam_of_Kiev"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Varlaam_Pecherskiy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Barlaam of Kiev"
+  }
 }

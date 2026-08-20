@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Maelog"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/St_Maelog%27s_Church%2C_Llandefaelog_Fach_-_geograph.org.uk_-_250804.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maelog"
+  }
 }

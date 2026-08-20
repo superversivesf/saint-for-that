@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Martin_of_Vertou"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blason_ville_fr_Vertou_%28Loire-Atlantique%29.svg/960px-Blason_ville_fr_Vertou_%28Loire-Atlantique%29.svg.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Martin of Vertou"
+  }
 }

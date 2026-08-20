@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/M%C3%A9l_of_Ardagh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Longford_St._Mel%27s_Cathedral_Pedimental_Sculpture_2019_08_23.jpg/960px-Longford_St._Mel%27s_Cathedral_Pedimental_Sculpture_2019_08_23.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mél of Ardagh"
+  }
 }

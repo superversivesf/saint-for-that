@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ibar_of_Beggerin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Our_Lady%27s_Island_Church_of_the_Assumption_Chancel_Window_Sanctus_Iberius_Detail_2010_09_26.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ibar of Beggerin"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Ilid"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Ilid_%26_St_Curig_-_Llanilid_Wales_1.JPG/960px-St_Ilid_%26_St_Curig_-_Llanilid_Wales_1.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ilid"
+  }
 }

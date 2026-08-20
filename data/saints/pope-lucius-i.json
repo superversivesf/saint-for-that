@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Lucius_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fresco_of_Pope_Lucius_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.jpg/960px-Fresco_of_Pope_Lucius_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lucius I"
+  }
 }

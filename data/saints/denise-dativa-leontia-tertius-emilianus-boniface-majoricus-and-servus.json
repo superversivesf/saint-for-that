@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Denise%2C_Dativa%2C_Leontia%2C_Tertius%2C_Emilianus%2C_Boniface%2C_Majoricus%2C_and_Servus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Saint_Denise_Callot.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Denise, Dativa, Leontia, Tertius, Emilianus, Boniface, Majoricus, and Servus"
+  }
 }

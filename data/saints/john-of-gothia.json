@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Gothia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Memorial_Bishop_John_of_Gothia.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Gothia"
+  }
 }

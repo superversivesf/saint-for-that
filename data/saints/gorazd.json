@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Gorazd"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gorazd_from_Slivnica_Monastery.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gorazd"
+  }
 }

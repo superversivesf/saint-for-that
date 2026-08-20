@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gurthiern"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Rennes%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg/960px-Procession_des_saints_de_Bretagne_-_dioc%C3%A8se_de_Rennes%2C_cath%C3%A9drale_saint_Pierre%2C_Rennes%2C_France.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gurthiern"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theophylact_of_Nicomedia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Archangels_Chapel_in_Rila_Monastery_Saint_Theophilactus_Fresco_in_the_altar_-_1835.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theophylact of Nicomedia"
+  }
 }

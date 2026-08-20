@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Abundius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gemonio_San_Pietro_12.JPG/960px-Gemonio_San_Pietro_12.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abundius"
+  }
 }

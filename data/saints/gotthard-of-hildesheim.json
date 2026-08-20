@@ -37,5 +37,10 @@
     "https://en.wikipedia.org/wiki/Gotthard_of_Hildesheim"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim_St._Godehard_Statue_Godehard.JPG/960px-Hildesheim_St._Godehard_Statue_Godehard.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gotthard of Hildesheim"
+  }
 }

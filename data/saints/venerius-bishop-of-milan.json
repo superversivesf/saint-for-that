@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Venerius_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/C2_Venerio_43m.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Venerius"
+  }
 }

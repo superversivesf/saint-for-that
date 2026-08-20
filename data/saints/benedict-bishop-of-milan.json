@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Benedict_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Benedict_bishop_of_Milan.JPG/960px-Benedict_bishop_of_Milan.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Benedict of Milan"
+  }
 }

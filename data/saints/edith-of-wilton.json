@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Edith_of_Wilton"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edith_of_Wilton.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Edith of Wilton"
+  }
 }

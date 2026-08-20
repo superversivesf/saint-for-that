@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Abbo_of_Fleury"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tract_by_Abbo_of_Fleury.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abbo of Fleury"
+  }
 }

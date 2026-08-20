@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Achillius_of_Larissa"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hosios_Loukas_%28diakonikon%2C_arch%29_-_Achillios.jpg/960px-Hosios_Loukas_%28diakonikon%2C_arch%29_-_Achillios.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Achillius of Larissa"
+  }
 }

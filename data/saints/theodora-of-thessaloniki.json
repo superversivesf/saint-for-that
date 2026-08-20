@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theodora_of_Thessaloniki"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Theodora_of_Thessaloniki%2C_Russian_fresco_by_Dionisius%2C_1502.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodora of Thessaloniki"
+  }
 }

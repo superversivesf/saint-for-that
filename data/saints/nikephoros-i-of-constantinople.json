@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chludov_Nikephoros_I_of_Constantinople.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nikephoros I of Constantinople"
+  }
 }

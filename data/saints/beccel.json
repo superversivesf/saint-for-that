@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Beccel"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Quatrefoil%2C_St._Guthlac%2C_Croyland_Abbey.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Beccel"
+  }
 }

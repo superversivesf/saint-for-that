@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Vladimir_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Coin_of_Vladimir_the_Great.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vladimir the Great"
+  }
 }

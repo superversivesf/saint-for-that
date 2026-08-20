@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/%C3%86lffl%C3%A6d_of_Whitby"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whitby_Abbey_image.jpg/960px-Whitby_Abbey_image.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ælfflæd of Whitby"
+  }
 }

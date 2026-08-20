@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ahrakas_and_Augani"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ahrakas_and_Oghani.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ahrakas and Augani"
+  }
 }

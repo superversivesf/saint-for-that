@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Deruvian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Merthyr_Dyfan_parish_church.jpg/960px-Merthyr_Dyfan_parish_church.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Deruvian"
+  }
 }

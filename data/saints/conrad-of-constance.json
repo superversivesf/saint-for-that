@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Conrad_of_Constance"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Konrad_Kupferscheibe.jpg/960px-Konrad_Kupferscheibe.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Conrad of Constance"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Leo_III"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pope_Leo_III_portrait_%E2%80%93_Triclinium_Leoninum.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leo III"
+  }
 }

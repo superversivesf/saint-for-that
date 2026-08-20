@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Nerses_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nerses.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nerses I"
+  }
 }

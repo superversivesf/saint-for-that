@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Macrina_the_Younger"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Macrina_the_Younger.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Macrina the Younger"
+  }
 }

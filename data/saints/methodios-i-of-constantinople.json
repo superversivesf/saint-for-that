@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Methodios_I_of_Constantinople"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Triumph_orthodoxy.jpg/960px-Triumph_orthodoxy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Methodios I of Constantinople"
+  }
 }

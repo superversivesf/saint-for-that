@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/George_the_Standard-Bearer"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Menaion_icon_%2817_c.%2C_TsAK%29_-_April_-_01_George_of_Mytilene.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. George the Standard-Bearer"
+  }
 }

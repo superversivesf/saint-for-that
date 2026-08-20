@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Novatus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/San_Pudenziana.021.JPG/960px-San_Pudenziana.021.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Novatus"
+  }
 }

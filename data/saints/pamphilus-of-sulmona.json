@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pamphilus_of_Sulmona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Statua_di_San_Panfilo.jpg/960px-Statua_di_San_Panfilo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pamphilus of Sulmona"
+  }
 }

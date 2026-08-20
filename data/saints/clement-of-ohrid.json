@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Clement_of_Ohrid"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png/960px-Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Clement of Ohrid"
+  }
 }

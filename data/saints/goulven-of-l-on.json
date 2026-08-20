@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Goulven_of_L%C3%A9on"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/063_Plougastel_Chapelle_Saint-Gu%C3%A9nol%C3%A9_Tryptique_Panneau_de_saint_Goulven.JPG/960px-063_Plougastel_Chapelle_Saint-Gu%C3%A9nol%C3%A9_Tryptique_Panneau_de_saint_Goulven.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Goulven of Léon"
+  }
 }

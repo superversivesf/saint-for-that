@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Alto_of_Altom%C3%BCnster"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St-Alto.jpg/960px-St-Alto.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alto of Altomünster"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Valerius_of_Saragossa"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Valero%2C_Francisco_de_Goya.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Valerius of Saragossa"
+  }
 }

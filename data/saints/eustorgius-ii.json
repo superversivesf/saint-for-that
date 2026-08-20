@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Eustorgius_II"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/E1_Eustorgio_II_37m.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eustorgius II"
+  }
 }

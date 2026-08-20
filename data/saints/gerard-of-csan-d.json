@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Gerard_of_Csan%C3%A1d"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/San_Rocco_%28Venice%29_-_Statue_of_Saint_Gerard_of_Csan%C3%A1d.jpg/960px-San_Rocco_%28Venice%29_-_Statue_of_Saint_Gerard_of_Csan%C3%A1d.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gerard of Csanád"
+  }
 }

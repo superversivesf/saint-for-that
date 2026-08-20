@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Caius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pope_Caius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Pope St. Caius"
+  }
 }

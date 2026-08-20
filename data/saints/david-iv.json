@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/David_IV"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/David_IV%2C_detail_from_icon%2C_St._Catherine_Monastery.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. David IV"
+  }
 }

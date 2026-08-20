@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Shio_of_Mgvime"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shio_of_Mgvime.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Shio of Mgvime"
+  }
 }

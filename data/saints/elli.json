@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Elli"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Llanelli_parish_church_-_geograph.org.uk_-_1276654.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Elli"
+  }
 }

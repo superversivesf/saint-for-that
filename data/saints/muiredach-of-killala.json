@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Muiredach_of_Killala"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ballina_St._Muredach%27s_Cathedral_East_Window_Irish_Saints_Detail_Saint_Muredach_2013_09_14.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Muiredach of Killala"
+  }
 }

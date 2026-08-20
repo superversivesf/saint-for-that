@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Tarasios_of_Constantinople"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Patriarch_Tarasios.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tarasios of Constantinople"
+  }
 }

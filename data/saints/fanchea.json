@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Fanchea"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/05_St_Fachnea_Detail_by_Harry_Clarke%2C_St_Joseph%27s_Church%2C_Carrickmacross%2C_Stained_Glass_Window.jpg/960px-05_St_Fachnea_Detail_by_Harry_Clarke%2C_St_Joseph%27s_Church%2C_Carrickmacross%2C_Stained_Glass_Window.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fanchea"
+  }
 }

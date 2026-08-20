@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/De_Speculo_Caritatis.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aelred of Rievaulx"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Gregory_the_Illuminator"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gregory_the_Illuminator_Aghtamar_bas_relief.jpg/960px-Gregory_the_Illuminator_Aghtamar_bas_relief.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory the Illuminator"
+  }
 }

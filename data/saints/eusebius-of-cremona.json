@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Eusebius_of_Cremona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Raphael_Eusebius_of_Cremona_raising_Three_Men_from_the_Dead_with_Saint_Jerome%27s_Cloak.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eusebius of Cremona"
+  }
 }

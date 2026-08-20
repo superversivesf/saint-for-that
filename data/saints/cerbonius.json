@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Cerbonius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Stained_glass_-_Saint_Cerbonius_of_Populonia_%28cropped%29.jpg/960px-Stained_glass_-_Saint_Cerbonius_of_Populonia_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cerbonius"
+  }
 }

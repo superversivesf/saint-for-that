@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/John_Chrysostom"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Johnchrysostom.jpg/960px-Johnchrysostom.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Chrysostom"
+  }
 }

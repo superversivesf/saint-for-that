@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Firmina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Santa_Fermina_%28cropped%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Firmina"
+  }
 }

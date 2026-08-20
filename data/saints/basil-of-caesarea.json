@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Basil of Caesarea"
+  }
 }

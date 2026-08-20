@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Baldwin_of_Rieti"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/S%C3%A3o_Baldu%C3%ADno_%28Cadeiral_da_Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Tarouca%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Baldwin of Rieti"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Abdon_and_Sennen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Abdon_and_Sennen.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abdon and Sennen"
+  }
 }

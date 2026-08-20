@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Athracht"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ballymote_Church_of_the_Immaculate_Conception_Apsis_Right_Window_Saint_Athracht_Detail_2010_09_23.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Athracht"
+  }
 }

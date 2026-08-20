@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Anselm%2C_Duke_of_Friuli"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Abbazia_di_nonantola%2C_portale_di_seguaci_wiligelmo%2C_stipite_sx%2C_formella_04_anselmo%2C_fatto_monaco%2C_fonda_nonantola.JPG/960px-Abbazia_di_nonantola%2C_portale_di_seguaci_wiligelmo%2C_stipite_sx%2C_formella_04_anselmo%2C_fatto_monaco%2C_fonda_nonantola.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anselm, Duke of Friuli"
+  }
 }

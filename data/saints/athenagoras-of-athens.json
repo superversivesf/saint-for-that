@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Athenagoras_of_Athens"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Greek_Icon_of_Saint_Athenagoras_of_Athens.jpg/960px-Greek_Icon_of_Saint_Athenagoras_of_Athens.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Athenagoras of Athens"
+  }
 }

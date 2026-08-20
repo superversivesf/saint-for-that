@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Daniel_the_Stylite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Spas_na_Ilyine_-_Stylite_Daniel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Daniel the Stylite"
+  }
 }

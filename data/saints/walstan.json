@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Walstan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Walstan_from_a_rood_screen_at_St_Mary_Magdalene%2C_Norwich_%28originally_at_St._James%2C_Pockthorpe%29.jpg/960px-St_Walstan_from_a_rood_screen_at_St_Mary_Magdalene%2C_Norwich_%28originally_at_St._James%2C_Pockthorpe%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Walstan"
+  }
 }

@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Angelar"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sv_Sedmo%C4%8Dislenici_with_Jovan_Kukuzel_in_Ardenica.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Angelar"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Soter"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/San_Sotero_Papa.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Soter"
+  }
 }

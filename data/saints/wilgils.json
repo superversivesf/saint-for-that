@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Wilgils"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Willibrord-echternach.jpg/960px-Willibrord-echternach.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Wilgils"
+  }
 }

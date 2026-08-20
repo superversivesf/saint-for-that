@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Theodosius_the_Cenobiarch.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodosius the Cenobiarch"
+  }
 }

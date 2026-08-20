@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Severus_of_Naples"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Santi_patroni.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Severus of Naples"
+  }
 }

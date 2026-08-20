@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Victor_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pfarrkirche_Semmering_Glasfenster.jpg/960px-Pfarrkirche_Semmering_Glasfenster.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Victor I"
+  }
 }

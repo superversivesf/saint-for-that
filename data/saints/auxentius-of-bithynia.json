@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Auxentius_of_Bithynia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auxentius%2C_monk_of_Bithynia_%28Menologion_of_Basil_II%29.jpeg/960px-Auxentius%2C_monk_of_Bithynia_%28Menologion_of_Basil_II%29.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Auxentius of Bithynia"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Herculanus_of_Perugia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pietro_Perugino_cat48h.jpg/960px-Pietro_Perugino_cat48h.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Herculanus of Perugia"
+  }
 }

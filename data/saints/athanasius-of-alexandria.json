@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg/960px-thumbnail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Athanasius of Alexandria"
+  }
 }

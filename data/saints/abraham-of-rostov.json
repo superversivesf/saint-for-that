@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Abraham_of_Rostov"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Saint_Abraham_of_Rostov.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abraham of Rostov"
+  }
 }

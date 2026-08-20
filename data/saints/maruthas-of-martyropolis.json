@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maruthas_of_Martyropolis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Saint_Maruthas%2C_Bishop_of_Martyropolis_in_Mesopotamia_%28Menologion_of_Basil_II%29.jpeg/960px-Saint_Maruthas%2C_Bishop_of_Martyropolis_in_Mesopotamia_%28Menologion_of_Basil_II%29.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maruthas of Martyropolis"
+  }
 }

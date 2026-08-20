@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Fortunatus_of_Naples"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Severo.JPG/960px-San_Severo.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fortunatus of Naples"
+  }
 }

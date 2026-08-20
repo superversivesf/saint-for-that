@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Maron"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/San_Mar%C3%B3n_de_L%C3%ADbano.jpg/960px-San_Mar%C3%B3n_de_L%C3%ADbano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maron"
+  }
 }

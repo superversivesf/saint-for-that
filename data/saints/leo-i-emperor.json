@@ -18,5 +18,10 @@
     "https://en.wikipedia.org/wiki/Leo_I_(emperor)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_I_Louvre_Ma1012_n2.jpg/960px-Leo_I_Louvre_Ma1012_n2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leo I"
+  }
 }

@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Simplician"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/IMG_7435_-_Milano_-_San_Simpliciano_-_Bassorilievo_di_san_Simpliciano_-_Foto_Giovanni_Dall%27Orto_25-Mar-2007.jpg/960px-IMG_7435_-_Milano_-_San_Simpliciano_-_Bassorilievo_di_san_Simpliciano_-_Foto_Giovanni_Dall%27Orto_25-Mar-2007.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simplician"
+  }
 }

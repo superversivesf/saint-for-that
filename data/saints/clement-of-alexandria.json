@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Clement_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clement_alexandrin.jpg/960px-Clement_alexandrin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Clement of Alexandria"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Triphyllius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Saint_Triphyllius.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Triphyllius"
+  }
 }

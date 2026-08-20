@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pambo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pambo_of_Nitria.jpeg/960px-Pambo_of_Nitria.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pambo"
+  }
 }

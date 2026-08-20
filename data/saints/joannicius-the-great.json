@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Joannicius_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Saint_Ioannikios.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Joannicius the Great"
+  }
 }

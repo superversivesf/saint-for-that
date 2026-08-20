@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Deiniol"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Deiniol_Sant_Cadeirlan_Bangor_Cathedral_St_Deiniol_-_geograph.org.uk_-_593071.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Deiniol"
+  }
 }

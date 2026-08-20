@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Paula_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Juan_de_Valdes_Leal_-_Santa_Paula_de_Roma.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paula of Rome"
+  }
 }

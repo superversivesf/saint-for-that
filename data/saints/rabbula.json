@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Rabbula"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ancient_Edessa_%287120805487%29.jpg/960px-Ancient_Edessa_%287120805487%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rabbula"
+  }
 }

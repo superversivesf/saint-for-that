@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Prochorus_the_Iberian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Prochorus_the_Iberian.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Prochorus the Iberian"
+  }
 }

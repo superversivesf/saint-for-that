@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Clovis_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Clovis I"
+  }
 }

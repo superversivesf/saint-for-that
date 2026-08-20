@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Maximus_of_Turin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Maximus_Taurinensis.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maximus of Turin"
+  }
 }

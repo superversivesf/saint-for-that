@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Eustathius_of_Antioch"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg/960px-Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eustathius of Antioch"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Euthymius_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg/960px-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Euthymius the Great"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/%C3%8D%C3%B1igo_of_O%C3%B1a"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Asunci%C3%B3n_de_la_Virgen_y_San_%C3%8D%C3%B1igo%2C_attributed_to_Francisco_de_Goya.jpg/960px-Asunci%C3%B3n_de_la_Virgen_y_San_%C3%8D%C3%B1igo%2C_attributed_to_Francisco_de_Goya.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Íñigo of Oña"
+  }
 }

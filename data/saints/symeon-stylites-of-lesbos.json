@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Symeon_Stylites_of_Lesbos"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Agios_Symeon_of_Lesvos.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Symeon Stylites of Lesbos"
+  }
 }

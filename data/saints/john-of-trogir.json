@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Trogir"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cathedral_of_St._Lovro_-_Trogir_-_Croatia.jpg/960px-Cathedral_of_St._Lovro_-_Trogir_-_Croatia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Trogir"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Photios_I_of_Constantinople"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Facial_Chronicle_-_b.13%2C_p.414_-_Photios_baptising_king_of_Bulgars.gif",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Photios I of Constantinople"
+  }
 }

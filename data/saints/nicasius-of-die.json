@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Nicasius_of_Die"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/COUNCIL_OF_NICEA_Fresco_in_the_Sistine_Salon_Vatican_t.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nicasius of Die"
+  }
 }

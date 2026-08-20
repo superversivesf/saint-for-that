@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Sergius_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg/960px-Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sergius I"
+  }
 }

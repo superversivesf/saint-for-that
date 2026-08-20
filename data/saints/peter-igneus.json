@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Peter_Igneus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/PalmezzanoIgneo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter Igneus"
+  }
 }

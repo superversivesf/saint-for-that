@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Gottschalk_(Obotrite_prince)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Saint_Gottschalk_of_the_Obotrites.jpg/960px-Saint_Gottschalk_of_the_Obotrites.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gottschalk"
+  }
 }

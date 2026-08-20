@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/John_II_(archbishop_of_Novgorod)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/04668_hires.jpg/960px-04668_hires.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John II"
+  }
 }

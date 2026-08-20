@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Rumbold_of_Buckingham"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/St_Rumbold%27s_well_-_geograph.org.uk_-_423381.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rumbold of Buckingham"
+  }
 }

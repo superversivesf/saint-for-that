@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/%C3%86bbe_the_Younger"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ecclesiae_Anglicanae_Trophae_-_Plate_18.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Æbbe the Younger"
+  }
 }

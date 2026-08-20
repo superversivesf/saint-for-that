@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theodosius_of_Oria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Theodosius_of_Oria.jpeg/960px-Theodosius_of_Oria.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodosius of Oria"
+  }
 }

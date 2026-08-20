@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Saint_Kilian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/San_Kilian.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kilian"
+  }
 }

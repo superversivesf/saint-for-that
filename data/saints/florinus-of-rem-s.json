@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Florinus_of_Rem%C3%BCs"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cathedral_of_St._Florin%2C_Vaduz_.jpg/960px-Cathedral_of_St._Florin%2C_Vaduz_.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Florinus of Remüs"
+  }
 }

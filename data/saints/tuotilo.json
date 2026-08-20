@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Tuotilo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St_Gallen_Tuotilotafeln_Kopie_img01.jpg/960px-St_Gallen_Tuotilotafeln_Kopie_img01.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tuotilo"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Aphrahat"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Les_Vies_des_P%C3%A8res_des_d%C3%A9serts_d%27Orient_-_leur_doctrine_spirituelle_et_leur_discipline_monastique_%281886%29_%2814590545527%29.jpg/960px-Les_Vies_des_P%C3%A8res_des_d%C3%A9serts_d%27Orient_-_leur_doctrine_spirituelle_et_leur_discipline_monastique_%281886%29_%2814590545527%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aphrahat"
+  }
 }

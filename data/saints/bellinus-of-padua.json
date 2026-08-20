@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Bellinus_of_Padua"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Palazzo_Roverella_-_lapidarium_San_Bellino.jpg/960px-Palazzo_Roverella_-_lapidarium_San_Bellino.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bellinus of Padua"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Stephen_Harding"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG/960px-Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Stephen Harding"
+  }
 }

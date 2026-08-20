@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Issel"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St_Issells_church%2C_Saundersfoot_%28geograph_2607213%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Issel"
+  }
 }

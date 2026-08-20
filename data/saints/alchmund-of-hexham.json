@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Alchmund_of_Hexham"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_seven_canonised_Saxon_bishops_of_Hexham_%28part_1%29%2C_former_reredos%2C_Hexham_Abbey_-_geograph.org.uk_-_748673.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alchmund of Hexham"
+  }
 }

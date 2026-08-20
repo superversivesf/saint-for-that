@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg/960px-B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Narcissus of Jerusalem"
+  }
 }

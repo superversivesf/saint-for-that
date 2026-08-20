@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Meriasek"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Vannes_-_cath%C3%A9drale%2C_vitrail_des_saints_Patern_et_M%C3%A9riadec_Detail_Metiadec.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Meriasek"
+  }
 }

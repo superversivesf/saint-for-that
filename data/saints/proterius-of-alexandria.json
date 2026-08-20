@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Proterius_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Proterius_of_Alexandria.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Proterius of Alexandria"
+  }
 }

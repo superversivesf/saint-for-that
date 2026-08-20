@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Isaac_of_Armenia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/St._Sahak_Partev.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Isaac of Armenia"
+  }
 }

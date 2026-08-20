@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Ermengol"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sant_Ermengol_a_la_catedral_d%27Urgell.JPG/960px-Sant_Ermengol_a_la_catedral_d%27Urgell.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ermengol"
+  }
 }

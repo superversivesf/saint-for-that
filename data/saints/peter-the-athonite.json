@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Peter_the_Athonite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Onuphrius%2C_Macarius_of_Egypt%2C_and_Peter_of_Athos.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter the Athonite"
+  }
 }

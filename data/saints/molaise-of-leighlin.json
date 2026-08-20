@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Molaise_of_Leighlin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Molaise_cave_by_Billlions.jpg/960px-Molaise_cave_by_Billlions.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Molaise of Leighlin"
+  }
 }

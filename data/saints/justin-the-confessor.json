@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Justin_the_Confessor"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Justinuskirche_Hoechst.jpg/960px-Justinuskirche_Hoechst.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Justin the Confessor"
+  }
 }

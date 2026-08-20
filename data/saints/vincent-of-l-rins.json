@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Vincent_of_L%C3%A9rins"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Icon_of_St_Vincent_of_Lerins_by_Bojan_Teodosijevi%C4%87.jpg/960px-Icon_of_St_Vincent_of_Lerins_by_Bojan_Teodosijevi%C4%87.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vincent of Lérins"
+  }
 }

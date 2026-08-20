@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Eskil"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Overselo_L1valv4a_detail_%28left%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eskil"
+  }
 }

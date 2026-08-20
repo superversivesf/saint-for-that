@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Everilda"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/St_Everilda%27s_Church%2C_Everingham.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Everilda"
+  }
 }

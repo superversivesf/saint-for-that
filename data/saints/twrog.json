@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Twrog"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sant_Twrog_Maentwrog_llawn_St_Twrog_from_window_at_Maentwrog%3B_detail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Twrog"
+  }
 }

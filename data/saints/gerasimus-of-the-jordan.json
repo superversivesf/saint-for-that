@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gerasimus_of_the_Jordan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Saint_Gerasimus_of_Jordan_with_a_Lion._Icon._Russia%2C_16th_century.jpg/960px-Saint_Gerasimus_of_Jordan_with_a_Lion._Icon._Russia%2C_16th_century.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gerasimus of the Jordan"
+  }
 }

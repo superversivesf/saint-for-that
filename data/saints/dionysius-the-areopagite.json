@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hosios_Loukas_%28diakonikon%2C_arch%29_-_Dionysius_Areopagite.jpg/960px-Hosios_Loukas_%28diakonikon%2C_arch%29_-_Dionysius_Areopagite.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dionysius the Areopagite"
+  }
 }

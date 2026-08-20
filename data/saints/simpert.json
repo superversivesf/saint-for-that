@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Simpert"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deckplatte_vom_Grabmal_des_heiligen_Simpertus%2C_Bischofs_von_Augsburg.jpg/960px-Deckplatte_vom_Grabmal_des_heiligen_Simpertus%2C_Bischofs_von_Augsburg.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simpert"
+  }
 }

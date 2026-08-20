@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pirmin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hornbacher_Sakramentar_fol._8v.jpg/960px-Hornbacher_Sakramentar_fol._8v.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pirmin"
+  }
 }

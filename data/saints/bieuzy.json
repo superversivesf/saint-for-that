@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Bieuzy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bieuzy_%2856%29_%C3%89glise_Notre-Dame_Int%C3%A9rieur_08.JPG/960px-Bieuzy_%2856%29_%C3%89glise_Notre-Dame_Int%C3%A9rieur_08.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bieuzy"
+  }
 }

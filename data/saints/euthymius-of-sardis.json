@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Euthymius_of_Sardis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Martyrdom_of_Euthymius_of_Sardeis.jpg/960px-Martyrdom_of_Euthymius_of_Sardeis.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Euthymius of Sardis"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Finbar_of_Cork"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/07_St_Finbarr_detail%2C_Harry_Clarke%2C_Honan_Chapel_Stained_Glass.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Finbar of Cork"
+  }
 }

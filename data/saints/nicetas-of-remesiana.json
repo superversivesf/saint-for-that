@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Nicetas_of_Remesiana"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Stamp_of_Albania_-_1998_-_Colnect_370782_-_Nicetas_of_Remesiana_c_335_414_Bishop_of_Remesiana.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nicetas of Remesiana"
+  }
 }

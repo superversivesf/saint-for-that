@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Julia_of_Corsica"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meaux_Vitrail_1867_30808_2.jpg/960px-Meaux_Vitrail_1867_30808_2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Julia of Corsica"
+  }
 }

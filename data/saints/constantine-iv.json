@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Constantine_IV"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Constantine_IV_mosaic.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constantine IV"
+  }
 }

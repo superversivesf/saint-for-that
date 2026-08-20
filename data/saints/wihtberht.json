@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Wihtberht"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bonifatius_und_Wigbert_Plum.JPG/960px-Bonifatius_und_Wigbert_Plum.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Wihtberht"
+  }
 }

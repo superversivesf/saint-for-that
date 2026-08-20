@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Paul_of_Thebes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/San_Pablo_Ermita%C3%B1o%2C_por_Jos%C3%A9_de_Ribera.jpg/960px-San_Pablo_Ermita%C3%B1o%2C_por_Jos%C3%A9_de_Ribera.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paul of Thebes"
+  }
 }

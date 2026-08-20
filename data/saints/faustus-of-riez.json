@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Faustus_of_Riez"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Riez_Notre-Dame_de_l%27Assomption_Vitrail_Saint_Fauste.jpg/960px-Riez_Notre-Dame_de_l%27Assomption_Vitrail_Saint_Fauste.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Faustus of Riez"
+  }
 }

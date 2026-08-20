@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Tysul"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St_Tyssul_01.jpg/960px-St_Tyssul_01.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tysul"
+  }
 }

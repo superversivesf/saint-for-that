@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Solange_of_Bourges"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_de_Saint_Solange.JPG/960px-Statue_de_Saint_Solange.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Solange of Bourges"
+  }
 }

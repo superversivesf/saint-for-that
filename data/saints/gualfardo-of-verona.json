@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gualfardo_of_Verona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/GualfardoVerona.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gualfardo of Verona"
+  }
 }

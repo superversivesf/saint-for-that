@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Gaudentius_of_Rimini"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tempio_malatestiano%2C_ri%2C_corte_della_diocesi%2C_sarcofago_di_san_gaudenzio_02.JPG/960px-Tempio_malatestiano%2C_ri%2C_corte_della_diocesi%2C_sarcofago_di_san_gaudenzio_02.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gaudentius of Rimini"
+  }
 }

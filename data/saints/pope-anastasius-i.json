@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Anastasius_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/AnastasiI.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anastasius I"
+  }
 }

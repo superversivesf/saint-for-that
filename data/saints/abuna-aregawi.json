@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Abuna_Aregawi"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_dipinto_di_abuna_aregawi_e_il_serpente.jpg/960px-Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_dipinto_di_abuna_aregawi_e_il_serpente.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abuna Aregawi"
+  }
 }

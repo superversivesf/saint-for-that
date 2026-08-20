@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Apollinaris_of_Valence"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Valence_Cath%C3%A9drale_Saint-Apollinaire_150343.JPG/960px-Valence_Cath%C3%A9drale_Saint-Apollinaire_150343.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Apollinaris of Valence"
+  }
 }

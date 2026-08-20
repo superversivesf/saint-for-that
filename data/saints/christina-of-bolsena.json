@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Christina_of_Bolsena"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ravensburg_St_Christina_Hl_Christina.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Christina of Bolsena"
+  }
 }

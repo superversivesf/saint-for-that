@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Alferius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/S.ALFERIO.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alferius"
+  }
 }

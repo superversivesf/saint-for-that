@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Paul_Aurelian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Etole_de_Saint_Paul_Aur%C3%A9lien.jpg/960px-Etole_de_Saint_Paul_Aur%C3%A9lien.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paul Aurelian"
+  }
 }

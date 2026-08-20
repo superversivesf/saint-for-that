@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Lupus_of_Troyes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Le_Lou-du-Lac_%2835%29_%C3%89glise_19.JPG/960px-Le_Lou-du-Lac_%2835%29_%C3%89glise_19.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lupus of Troyes"
+  }
 }

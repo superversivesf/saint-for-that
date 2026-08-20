@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Aventinus_of_Tours"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/W1511-Crach_StThuriau_1809_StAvertin_81110.JPG/960px-W1511-Crach_StThuriau_1809_StAvertin_81110.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aventinus of Tours"
+  }
 }

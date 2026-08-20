@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pulcheria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pulcheria_coin.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pulcheria"
+  }
 }

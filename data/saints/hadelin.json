@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Hadelin"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vis%C3%A9_St._Martin_162.JPG/960px-Vis%C3%A9_St._Martin_162.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hadelin"
+  }
 }

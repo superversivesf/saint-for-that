@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Geminianus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saint_Geminianus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Geminianus"
+  }
 }

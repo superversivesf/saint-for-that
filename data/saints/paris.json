@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Paris"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saint_Paris%27_Tomb.jpg/960px-Saint_Paris%27_Tomb.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paris"
+  }
 }

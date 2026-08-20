@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saint_B%C3%A9n%C3%A9zet%2C_Notre_Dame_des_Doms%2C_Avignon.jpg/960px-Saint_B%C3%A9n%C3%A9zet%2C_Notre_Dame_des_Doms%2C_Avignon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bénézet"
+  }
 }

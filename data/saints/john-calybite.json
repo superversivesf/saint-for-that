@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_Calybite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Athonite_Fresco_of_Saint_John_Calabytes.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Calybite"
+  }
 }

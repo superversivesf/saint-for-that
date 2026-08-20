@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ida_of_Lorraine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ida_syni.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ida of Lorraine"
+  }
 }

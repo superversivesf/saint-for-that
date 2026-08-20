@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Aemilian_of_Cogolla"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San-Millan-patron-de-castil.jpg/960px-San-Millan-patron-de-castil.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aemilian of Cogolla"
+  }
 }

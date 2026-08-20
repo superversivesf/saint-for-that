@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Agnes_of_Poitiers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sainte_Agn%C3%A8s_de_Poitiers.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Agnes of Poitiers"
+  }
 }

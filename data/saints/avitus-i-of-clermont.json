@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Avitus_I_of_Clermont"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Avit_de_Clermont.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Avitus I of Clermont"
+  }
 }

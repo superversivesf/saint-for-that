@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ephrem_Mtsire"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/John_of_Damascus%2C_%E2%80%9CThe_Orthodox_Faith%E2%80%9D%2C_translated_by_Ephrem_Mtsire%3B_12th_c.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ephrem Mtsire"
+  }
 }

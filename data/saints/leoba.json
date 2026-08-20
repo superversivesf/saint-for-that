@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Leoba"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Schornsheim-Lioba.JPG/960px-Schornsheim-Lioba.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leoba"
+  }
 }

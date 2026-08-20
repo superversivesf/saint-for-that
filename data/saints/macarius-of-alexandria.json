@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Blaj_Iconostasis_Makarios.jpg/960px-Blaj_Iconostasis_Makarios.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Macarius of Alexandria"
+  }
 }

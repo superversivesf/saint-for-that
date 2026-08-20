@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Ulrich_of_Augsburg"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Leonhard_Beck_-_Heiliger_Ulrich_%28Veste_Coburg%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ulrich of Augsburg"
+  }
 }

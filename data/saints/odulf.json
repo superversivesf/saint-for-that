@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Odulf"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HUA-31993-Portret_van_Odulf_geboortejaar_onbekend_geboortedag_12_juni_kanunnik_te_Utrecht_overleden_838_Ten_voeten_uit_van_voren_staande_links_in_bisschoppelijk.jpg/960px-thumbnail.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Odulf"
+  }
 }

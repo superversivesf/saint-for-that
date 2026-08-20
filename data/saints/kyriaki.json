@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Kyriaki"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Saint_nedelja_%28kyriaki%29_bulgaria_icon.gif",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Kyriaki"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Andeolus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Blason_ville-fr_Saint-Andeol-de-Clerguemort.svg/960px-Blason_ville-fr_Saint-Andeol-de-Clerguemort.svg.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Andeolus"
+  }
 }

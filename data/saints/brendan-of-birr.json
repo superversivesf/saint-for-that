@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Brendan_of_Birr"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Birr_St._Brendan%27s_Church_St._Brendan_Window_2010_09_10.jpg/960px-Birr_St._Brendan%27s_Church_St._Brendan_Window_2010_09_10.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brendan of Birr"
+  }
 }

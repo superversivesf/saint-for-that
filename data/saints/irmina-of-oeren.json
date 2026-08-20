@@ -20,5 +20,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Irmina_of_Oeren"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Irmina_von_Trier_V-1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Irmina of Oeren"
+  }
 }

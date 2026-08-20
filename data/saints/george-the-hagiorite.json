@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/George_the_Hagiorite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/George_Atoneli_fresco%2C_Iviron.jpg/960px-George_Atoneli_fresco%2C_Iviron.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. George the Hagiorite"
+  }
 }

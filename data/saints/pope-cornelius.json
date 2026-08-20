@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Pope_Cornelius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Pope St. Cornelius"
+  }
 }

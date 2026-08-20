@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Seven_Sleepers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Seven_sleepers_%28Menologion_of_Basil_II%29.jpg/960px-Seven_sleepers_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Seven Sleepers"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Columba_of_Cornwall"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Columba3.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Columba of Cornwall"
+  }
 }

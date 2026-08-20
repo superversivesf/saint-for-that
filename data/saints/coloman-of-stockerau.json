@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Coloman_of_Stockerau"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Heiliger-Koloman.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Coloman of Stockerau"
+  }
 }

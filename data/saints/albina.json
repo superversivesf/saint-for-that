@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Saint_Albina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Antonio_Sicurezza-Saint_Albina.jpg/960px-Antonio_Sicurezza-Saint_Albina.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Albina"
+  }
 }

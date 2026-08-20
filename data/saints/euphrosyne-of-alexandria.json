@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Euphrosyne_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Saint_Euphrosyne_of_Alexandria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Euphrosyne of Alexandria"
+  }
 }

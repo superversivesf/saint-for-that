@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hilaryofpoitiers.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hilary of Poitiers"
+  }
 }

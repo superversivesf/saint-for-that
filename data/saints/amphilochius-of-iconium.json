@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Amphilochius_of_Iconium_%28Menologion_of_Basil_II%29.jpg/960px-Amphilochius_of_Iconium_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Amphilochius of Iconium"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Anastasius_of_Antioch_(martyr)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Vrdnik-Ravanica_monastery_005.JPG/960px-Vrdnik-Ravanica_monastery_005.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anastasius of Antioch"
+  }
 }

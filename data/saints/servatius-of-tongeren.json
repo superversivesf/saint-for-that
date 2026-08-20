@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Servatius_of_Tongeren"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Maastricht%2C_Treasury_of_Saint_Servatius%2C_reliquary_bust_of_Servatius2.jpg/960px-Maastricht%2C_Treasury_of_Saint_Servatius%2C_reliquary_bust_of_Servatius2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Servatius of Tongeren"
+  }
 }

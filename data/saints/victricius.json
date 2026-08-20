@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Victricius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vitrail_basilique_Bonsecours_8.JPG/960px-Vitrail_basilique_Bonsecours_8.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Victricius"
+  }
 }

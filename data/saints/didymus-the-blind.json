@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Didymus_the_Blind"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Didymus_the_blind.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Didymus the Blind"
+  }
 }

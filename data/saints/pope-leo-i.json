@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Pope_Leo_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herrera_mozo_San_Le%C3%B3n_magno_Lienzo._%C3%93valo._164_x_105_cm._Museo_del_Prado.png/960px-Herrera_mozo_San_Le%C3%B3n_magno_Lienzo._%C3%93valo._164_x_105_cm._Museo_del_Prado.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leo I"
+  }
 }

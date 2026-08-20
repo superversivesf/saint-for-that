@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Aquit%C3%A1niai_Szent_Prosper.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Prosper of Aquitaine"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Earconwald"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wells_Cathedral%2C_Somerset%2C_UK_-_portrait_of_Erkenwald_in_stained_glass.jpg/960px-Wells_Cathedral%2C_Somerset%2C_UK_-_portrait_of_Erkenwald_in_stained_glass.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Earconwald"
+  }
 }

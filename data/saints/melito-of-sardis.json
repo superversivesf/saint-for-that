@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Melito_of_Sardis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif/lossy-page1-960px-Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Melito of Sardis"
+  }
 }

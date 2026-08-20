@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Eadburh_of_Winchester"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Edburgah_of_Winchester.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eadburh of Winchester"
+  }
 }

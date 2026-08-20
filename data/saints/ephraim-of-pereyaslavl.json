@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ephraim_of_Pereyaslavl"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Saint_Ephraimof_bishop_of_Pereyeslav.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ephraim of Pereyaslavl"
+  }
 }

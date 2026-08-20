@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Sidonius_Apollinaris"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SidonClermont.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sidonius Apollinaris"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Restituta"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/SaintRestituta.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Restituta"
+  }
 }

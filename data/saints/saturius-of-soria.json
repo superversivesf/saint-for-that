@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saturius_of_Soria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Saturius_of_Soria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Saturius of Soria"
+  }
 }

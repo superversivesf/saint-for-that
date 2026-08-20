@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Rhwydrys"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/St_Rhwydrus_Church.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rhwydrys"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Honorina"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Statue_de_Sainte-Honorine_sur_l%27%C3%A9glise_de_Corbeil-Cerf.JPG/960px-Statue_de_Sainte-Honorine_sur_l%27%C3%A9glise_de_Corbeil-Cerf.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Honorina"
+  }
 }

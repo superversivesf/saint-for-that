@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Nicarete"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Santa_nicarete.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nicarete"
+  }
 }

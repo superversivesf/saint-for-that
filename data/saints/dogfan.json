@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Dogfan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Eglwys_Sant_Dogfan%2C_Church_of_St_Dogfan%2C_Llanrhaeadr-ym-Mochnant%2C_Powys_23.JPG/960px-Eglwys_Sant_Dogfan%2C_Church_of_St_Dogfan%2C_Llanrhaeadr-ym-Mochnant%2C_Powys_23.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dogfan"
+  }
 }

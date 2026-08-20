@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Hormisdas"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tafel_paepste.jpg/960px-Tafel_paepste.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pope Hormisdas"
+  }
 }

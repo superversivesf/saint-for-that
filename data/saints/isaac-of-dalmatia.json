@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Isaac_of_Dalmatia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Isaac_of_Dalmatia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Isaac of Dalmatia"
+  }
 }

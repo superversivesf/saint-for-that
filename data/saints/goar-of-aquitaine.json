@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Saint_Goar.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Goar of Aquitaine"
+  }
 }

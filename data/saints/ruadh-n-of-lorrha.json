@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ruadh%C3%A1n_of_Lorrha"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/01_St._Ruadhan%2C_James_Watson_%26_Co.%2C_Youghal_Stained_Glass%2C_at_St._Ruadhan_Church_in_Lorrha.png/960px-01_St._Ruadhan%2C_James_Watson_%26_Co.%2C_Youghal_Stained_Glass%2C_at_St._Ruadhan_Church_in_Lorrha.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ruadhán of Lorrha"
+  }
 }

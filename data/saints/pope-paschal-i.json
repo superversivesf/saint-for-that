@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Paschal_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pope_Paschalis_I._in_apsis_mosaic_of_Santa_Prassede_in_Rome.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paschal I"
+  }
 }

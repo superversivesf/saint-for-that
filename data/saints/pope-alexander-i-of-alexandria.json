@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Pope_Alexander_I_of_Alexandria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Veljusa_Monastery_St._Alexander_of_Alexandria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alexander I of Alexandria"
+  }
 }

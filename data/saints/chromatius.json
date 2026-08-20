@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Chromatius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Th%C3%BCr_St._Johannes_16.JPG/960px-Th%C3%BCr_St._Johannes_16.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Chromatius"
+  }
 }

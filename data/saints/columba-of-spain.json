@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Columba_of_Spain"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/SantaColumba.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Columba of Spain"
+  }
 }

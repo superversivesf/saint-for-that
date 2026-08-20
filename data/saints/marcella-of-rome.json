@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Marcella_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcella_of_Rome.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marcella of Rome"
+  }
 }

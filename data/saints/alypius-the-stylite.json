@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Alypius_the_Stylite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Saint_Alypius_stylite.gif",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Alypius the Stylite"
+  }
 }

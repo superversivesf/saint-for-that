@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/James_Intercisus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mural_depicting_St._Jacob_at_the_Byzantine_and_Christian_Museum_of_Athens_%281-15-2023%29.jpg/960px-Mural_depicting_St._Jacob_at_the_Byzantine_and_Christian_Museum_of_Athens_%281-15-2023%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. James Intercisus"
+  }
 }

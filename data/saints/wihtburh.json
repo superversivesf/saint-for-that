@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Wihtburh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St_Wihtburh_%28Altar%2C_St._Nicholas_Church%2C_Dereham%2C_Norfolk%29.jpg/960px-St_Wihtburh_%28Altar%2C_St._Nicholas_Church%2C_Dereham%2C_Norfolk%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Wihtburh"
+  }
 }

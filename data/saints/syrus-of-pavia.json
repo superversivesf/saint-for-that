@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Syrus_of_Pavia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/San_giovanni_domnarum5.jpg/960px-San_giovanni_domnarum5.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Syrus of Pavia"
+  }
 }

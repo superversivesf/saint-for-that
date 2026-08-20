@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Boniface_IV"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Papa_Bonifacio_IV.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Boniface IV"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Quadratus_of_Athens"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Quadratus_of_Athens_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Quadratus of Athens"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Sidonius_of_Aix"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sidoine_d%27Aix.jpg/960px-Sidoine_d%27Aix.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sidonius of Aix"
+  }
 }

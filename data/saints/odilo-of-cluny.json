@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Troyes_%2810%29_Basilique_Saint-Urbain_Statue_de_Saint-Odilon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Odilo of Cluny"
+  }
 }

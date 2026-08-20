@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hugo-v-cluny_heinrich-iv_mathilde-v-tuszien_cod-vat-lat-4922_1115ad.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hugh of Cluny"
+  }
 }

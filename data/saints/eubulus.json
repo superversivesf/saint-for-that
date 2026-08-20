@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Menologion_of_Basil_II_-_Adrian_of_Batanea_and_Eubulus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eubulus"
+  }
 }

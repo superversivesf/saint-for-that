@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Walaric"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Apparition_of_Saint_Valery_to_Hugh_Capet.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Walaric"
+  }
 }

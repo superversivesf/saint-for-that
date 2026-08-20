@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Nectan_of_Hartland"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Nectan_icon.jpg/960px-Nectan_icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nectan of Hartland"
+  }
 }

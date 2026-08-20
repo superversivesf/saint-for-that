@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/La_Celle-Guenand_Notre-Dame_Vitrail_357.jpg/960px-La_Celle-Guenand_Notre-Dame_Vitrail_357.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gatianus of Tours"
+  }
 }

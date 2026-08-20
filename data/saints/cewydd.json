@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Cewydd"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/St_James_church%2C_Lancaut.jpg/960px-St_James_church%2C_Lancaut.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cewydd"
+  }
 }

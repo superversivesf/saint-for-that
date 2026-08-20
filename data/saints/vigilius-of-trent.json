@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Vigilius_of_Trent"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Vigilius_and_companions-Naurizio.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vigilius of Trent"
+  }
 }

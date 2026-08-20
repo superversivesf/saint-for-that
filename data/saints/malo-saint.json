@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Malo_(saint)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SanktamaloL%C3%A9hon.jpg/960px-SanktamaloL%C3%A9hon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Malo"
+  }
 }

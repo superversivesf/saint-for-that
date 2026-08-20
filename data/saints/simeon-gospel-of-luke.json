@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Simeon_(Gospel_of_Luke)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Yegorov-Simeon_the_Righteous.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simeon"
+  }
 }

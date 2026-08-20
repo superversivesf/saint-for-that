@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Aignan_of_Orleans"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chartres_Saint-Aignan_Xy5.JPG/960px-Chartres_Saint-Aignan_Xy5.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aignan of Orleans"
+  }
 }

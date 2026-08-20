@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Quiteria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Santa_Quit%C3%A9ria_-_Escola_Portuguesa%2C_s%C3%A9c._XVIII.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Quiteria"
+  }
 }

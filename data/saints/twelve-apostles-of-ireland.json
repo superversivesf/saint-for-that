@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Twelve_Apostles_of_Ireland"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Clonard_RC_Church_St_Finian_07_Detail_2007_08_26.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Twelve Apostles of Ireland"
+  }
 }

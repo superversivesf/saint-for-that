@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Theobald_of_Provins"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Joigny_-_Eglise_Saint-Thilbault_-_statue_de_Juan_de_Juni.jpg/960px-Joigny_-_Eglise_Saint-Thilbault_-_statue_de_Juan_de_Juni.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theobald of Provins"
+  }
 }

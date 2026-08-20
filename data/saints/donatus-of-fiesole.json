@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Donatus_of_Fiesole"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Andrea_del_verrocchio_e_lorenzo_di_credi%2C_madonna_di_piazza%2C_1475-86_ca._%28pistoia%2C_duomo%29_02.jpg/960px-Andrea_del_verrocchio_e_lorenzo_di_credi%2C_madonna_di_piazza%2C_1475-86_ca._%28pistoia%2C_duomo%29_02.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Donatus of Fiesole"
+  }
 }

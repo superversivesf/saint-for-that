@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Onuphrius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Saint_Onuphrius_Emmanuel_Tzanes.png/960px-Saint_Onuphrius_Emmanuel_Tzanes.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Onuphrius"
+  }
 }

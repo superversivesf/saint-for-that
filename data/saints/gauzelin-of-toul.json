@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Gauzelin_of_Toul"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cathedrale_01879_Gauzelin.jpg/960px-Cathedrale_01879_Gauzelin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gauzelin of Toul"
+  }
 }

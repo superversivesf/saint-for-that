@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hermenegild"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg/960px-Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hermenegild"
+  }
 }

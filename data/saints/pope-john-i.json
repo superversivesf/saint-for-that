@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_John_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg/960px-Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John I"
+  }
 }

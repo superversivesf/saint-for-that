@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Randoald_of_Grandval"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/A._Schweri_%283%29_St.Randoald.jpg/960px-A._Schweri_%283%29_St.Randoald.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Randoald of Grandval"
+  }
 }

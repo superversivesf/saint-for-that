@@ -37,5 +37,10 @@
     "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/YaroslavWiseSeal.jpg/960px-YaroslavWiseSeal.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Yaroslav the Wise"
+  }
 }

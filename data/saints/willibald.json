@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Willibald"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2010_Willibald_Handschuher-Figur_Spitalkirche_Eichst%C3%A4tt.JPG/960px-2010_Willibald_Handschuher-Figur_Spitalkirche_Eichst%C3%A4tt.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Willibald"
+  }
 }

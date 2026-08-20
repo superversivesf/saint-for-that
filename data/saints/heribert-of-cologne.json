@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Heribert_of_Cologne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Rathausturm_K%C3%B6ln_-_Heribert_%28detail%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Heribert of Cologne"
+  }
 }

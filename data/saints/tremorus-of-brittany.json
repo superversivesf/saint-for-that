@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tremorus_of_Brittany"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carhaix_37_Eglise_Saint-Tr%C3%A9meur_Statue_de_saint_Tr%C3%A9meur.jpg/960px-Carhaix_37_Eglise_Saint-Tr%C3%A9meur_Statue_de_saint_Tr%C3%A9meur.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tremorus of Brittany"
+  }
 }

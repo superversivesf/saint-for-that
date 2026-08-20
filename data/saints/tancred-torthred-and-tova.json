@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Tancred%2C_Torthred%2C_and_Tova"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Abbey_Church_of_St._Mary_the_Virgin_and_St._Botolph_Thorney_Cambs.JPG/960px-Abbey_Church_of_St._Mary_the_Virgin_and_St._Botolph_Thorney_Cambs.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tancred, Torthred, and Tova"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Spyridon"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saint_Spyridon_Icon.tif/lossy-page1-960px-Saint_Spyridon_Icon.tif.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Spyridon"
+  }
 }

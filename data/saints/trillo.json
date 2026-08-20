@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Trillo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Saint_Trillo.jpg/960px-Saint_Trillo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Trillo"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Eadfrith_of_Lindisfarne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LindisfarneFol27rIncipitMatt.jpg/960px-LindisfarneFol27rIncipitMatt.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eadfrith of Lindisfarne"
+  }
 }

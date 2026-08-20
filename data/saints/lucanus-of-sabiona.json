@@ -18,5 +18,10 @@
     "https://en.wikipedia.org/wiki/Lucanus_of_Sabiona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lukan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lucanus of Sabiona"
+  }
 }

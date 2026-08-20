@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Chelidonia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Chelidonia.jpg/960px-Chelidonia.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Chelidonia"
+  }
 }

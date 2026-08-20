@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Engelmund_of_Velsen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Beeld_van_Engelmundus_boven_de_hoofdingang_van_de_Engelmunduskerk_in_Driehuis._NL-HlmNHA_54050106.JPG/960px-Beeld_van_Engelmundus_boven_de_hoofdingang_van_de_Engelmunduskerk_in_Driehuis._NL-HlmNHA_54050106.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Engelmund of Velsen"
+  }
 }

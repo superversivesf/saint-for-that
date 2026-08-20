@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Conval"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/St_Conval%27s_Chariot_and_the_Argyll_Stone_cross_base%2C_Inchinnan.JPG/960px-St_Conval%27s_Chariot_and_the_Argyll_Stone_cross_base%2C_Inchinnan.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Conval"
+  }
 }

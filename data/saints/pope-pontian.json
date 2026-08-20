@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Pontian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Spinello_Aretino_008.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pope Pontian"
+  }
 }

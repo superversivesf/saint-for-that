@@ -18,5 +18,10 @@
     "https://en.wikipedia.org/wiki/Latuinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Autel_reliquaire_Saint-Latuin_S%C3%A9es.JPG/960px-Autel_reliquaire_Saint-Latuin_S%C3%A9es.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Latuinus"
+  }
 }

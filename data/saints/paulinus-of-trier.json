@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Paulinus_of_Trier"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Denkmal_Paulinus_von_Trier.jpg/960px-Denkmal_Paulinus_von_Trier.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paulinus of Trier"
+  }
 }

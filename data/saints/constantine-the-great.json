@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Constantine_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg/960px-Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constantine the Great"
+  }
 }

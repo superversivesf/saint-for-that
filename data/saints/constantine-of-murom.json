@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Constantine_of_Murom"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Izbornik.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Constantine of Murom"
+  }
 }

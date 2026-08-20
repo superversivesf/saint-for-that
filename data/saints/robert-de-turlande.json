@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Robert_de_Turlande"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Abbaye_Saint_Robert_de_La_Chaise_Dieu-St._Robert-201121007.jpg/960px-Abbaye_Saint_Robert_de_La_Chaise_Dieu-St._Robert-201121007.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Robert de Turlande"
+  }
 }

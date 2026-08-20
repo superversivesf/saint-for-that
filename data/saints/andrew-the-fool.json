@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Andrew_the_Fool"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Protection_de_la_Mere_de_Dieu_Ecole_de_Novgorod_Moscou%2C_Galerie_Tretiakov.jpg/960px-Protection_de_la_Mere_de_Dieu_Ecole_de_Novgorod_Moscou%2C_Galerie_Tretiakov.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Andrew the Fool"
+  }
 }

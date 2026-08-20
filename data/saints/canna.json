@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Canna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St_Canna%27s_Church%2C_Llangan.JPG/960px-St_Canna%27s_Church%2C_Llangan.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Canna"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Colman_mac_Duagh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Saint_Colman_MacDuagh_window%2C_Hugh_Lane_Gallery.jpg/960px-Saint_Colman_MacDuagh_window%2C_Hugh_Lane_Gallery.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Colman mac Duagh"
+  }
 }

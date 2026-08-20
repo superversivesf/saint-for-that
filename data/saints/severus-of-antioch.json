@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Severus_of_Antioch"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sevarios_of_Antioch.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Severus of Antioch"
+  }
 }

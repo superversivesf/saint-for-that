@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Maurus_of_P%C3%A9cs"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Maurus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Maurus of Pécs"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Peris"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Llanberis_Eglwys_Sant_Padarn_-_Church_of_St_Padarn%2C_Llanberis%2C_Gwynedd%2C_Wales_16.jpg/960px-Llanberis_Eglwys_Sant_Padarn_-_Church_of_St_Padarn%2C_Llanberis%2C_Gwynedd%2C_Wales_16.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peris"
+  }
 }

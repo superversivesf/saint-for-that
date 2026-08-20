@@ -24,5 +24,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Guthlac_of_Crowland"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/St_Guthlac%2C_Croyland_Abbey.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Guthlac of Crowland"
+  }
 }

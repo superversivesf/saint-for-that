@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theodard_of_Maastricht"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Theodard_Maastricht.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodard of Maastricht"
+  }
 }

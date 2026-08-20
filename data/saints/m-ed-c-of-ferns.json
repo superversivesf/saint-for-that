@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/M%C3%A1ed%C3%B3c_of_Ferns"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wexford_Church_of_the_Assumption_South_Aisle_Window_Harry_Clarke_The_Madonna_with_Sts_Aidan_and_Adrian_Detail_Saint_Aidan_2010_09_29.jpg/960px-Wexford_Church_of_the_Assumption_South_Aisle_Window_Harry_Clarke_The_Madonna_with_Sts_Aidan_and_Adrian_Detail_Saint_Aidan_2010_09_29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Máedóc of Ferns"
+  }
 }

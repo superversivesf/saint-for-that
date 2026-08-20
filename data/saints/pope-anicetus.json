@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Pope_Anicetus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wolnzach%2C_St_Laurentius_017.JPG/960px-Wolnzach%2C_St_Laurentius_017.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anicetus"
+  }
 }

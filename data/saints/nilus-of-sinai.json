@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Nilus_of_Sinai"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nil_Postnik.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nilus of Sinai"
+  }
 }

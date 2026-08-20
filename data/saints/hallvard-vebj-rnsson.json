@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Hallvard_Vebj%C3%B8rnsson"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oslo_komm.svg/960px-Oslo_komm.svg.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hallvard Vebjørnsson"
+  }
 }

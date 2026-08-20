@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Eustorgius_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sant_Eustorgio_di_Milano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eustorgius I"
+  }
 }

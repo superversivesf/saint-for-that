@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Ailer%C3%A1n"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Saint_Aileran.webp",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ailerán"
+  }
 }

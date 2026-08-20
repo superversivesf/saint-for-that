@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Albert_of_Cashel"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/09_St_Albert_of_Cashel_detail%2C_Harry_Clarke%2C_Honan_Chapel_Stained_Glass.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Albert of Cashel"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Innocent_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fresco_of_Pope_Innocent_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.png/960px-Fresco_of_Pope_Innocent_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Innocent I"
+  }
 }

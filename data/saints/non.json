@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Non"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/St_Non_stained_glass_window_in_St_Nons_Chapel.jpg/960px-St_Non_stained_glass_window_in_St_Nons_Chapel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Non"
+  }
 }

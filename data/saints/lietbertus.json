@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Lietbertus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Li%C3%A9bert_de_Cambrai.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Lietbertus"
+  }
 }

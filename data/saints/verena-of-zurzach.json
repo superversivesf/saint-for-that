@@ -41,5 +41,10 @@
     "https://en.wikipedia.org/wiki/Verena_of_Zurzach"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Saint_Verena_of_Zurzach_-_Orthodox_Icon.jpg/960px-Saint_Verena_of_Zurzach_-_Orthodox_Icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Verena of Zurzach"
+  }
 }

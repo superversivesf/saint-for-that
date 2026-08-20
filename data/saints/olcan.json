@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Olc%C3%A1n"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Armoy_round_tower_County_Antrim.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Olcán"
+  }
 }

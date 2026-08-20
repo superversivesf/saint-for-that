@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Corbinian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Corbinian_polack.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Corbinian"
+  }
 }

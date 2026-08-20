@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gobron"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sabinin._St._Mikel-Gobron.jpg/960px-Sabinin._St._Mikel-Gobron.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gobron"
+  }
 }

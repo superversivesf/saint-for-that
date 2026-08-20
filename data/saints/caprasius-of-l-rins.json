@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Caprasius_of_L%C3%A9rins"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aulla-IMG_0481.JPG/960px-Aulla-IMG_0481.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Caprasius of Lérins"
+  }
 }

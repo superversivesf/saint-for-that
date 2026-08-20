@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Neophytos_of_Nicaea"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Menologion_of_Basil_II_-_Neophytus_of_Nicaea.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Neophytos of Nicaea"
+  }
 }

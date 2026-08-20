@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Anthony_the_Hermit"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tapisserie_Beaune_143.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthony the Hermit"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Corentin_of_Quimper"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/St_Corentin_Banner.jpg/960px-St_Corentin_Banner.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Corentin of Quimper"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Notker_the_Stammerer"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Notker_der_Stammler.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Notker the Stammerer"
+  }
 }

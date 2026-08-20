@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Helena%2C_mother_of_Constantine_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Elena_Colosseo_Rome_Italy.jpg/960px-Elena_Colosseo_Rome_Italy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Helena, mother of Constantine I"
+  }
 }

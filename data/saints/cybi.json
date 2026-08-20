@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Cybi"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mural_of_St_Cybi.jpg/960px-Mural_of_St_Cybi.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cybi"
+  }
 }

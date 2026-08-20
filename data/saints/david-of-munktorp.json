@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/David_of_Munktorp"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/David_Overselo.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. David of Munktorp"
+  }
 }

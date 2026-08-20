@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Rufus_and_Zosimus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saint_Zosimus_of_Rome_Martyr.png/960px-Saint_Zosimus_of_Rome_Martyr.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Rufus and Zosimus"
+  }
 }

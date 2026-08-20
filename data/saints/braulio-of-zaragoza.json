@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Braulio_of_Zaragoza"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Braulio_de_Zaragoza_e_Isidoro_de_Sevilla.jpg/960px-Braulio_de_Zaragoza_e_Isidoro_de_Sevilla.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Braulio of Zaragoza"
+  }
 }

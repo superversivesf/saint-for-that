@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Abel_of_Reims"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Reims_%2851%29_Saint-R%C3%A9mi_Baie_204-2.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Abel of Reims"
+  }
 }

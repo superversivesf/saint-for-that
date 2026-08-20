@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Berthold_of_Calabria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Le_bienheureux_Berthold_du_Mont_Carmel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Berthold of Calabria"
+  }
 }

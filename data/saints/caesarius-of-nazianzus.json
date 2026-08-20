@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Caesarius_of_Nazianzus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cezary_z_Nazjanzu.jpg/960px-Cezary_z_Nazjanzu.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Caesarius of Nazianzus"
+  }
 }

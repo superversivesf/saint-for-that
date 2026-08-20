@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Peter_I_of_Bulgaria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seal_of_Peter_I_of_Bulgaria_with_Irene_Lekapene.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Peter I of Bulgaria"
+  }
 }

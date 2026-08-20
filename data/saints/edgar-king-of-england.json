@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Edgar%2C_King_of_England"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/New_Minster_Charter_966_detail_Edgar.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Edgar, King of England"
+  }
 }

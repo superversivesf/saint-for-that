@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bassus_of_Nice"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanbasso.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bassus of Nice"
+  }
 }

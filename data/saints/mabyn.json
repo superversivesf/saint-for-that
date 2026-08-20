@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Mabyn"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Saint_mabena.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mabyn"
+  }
 }

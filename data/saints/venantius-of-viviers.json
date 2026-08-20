@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Venantius_of_Viviers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Valence-Capucins-statueStVenance.jpg/960px-Valence-Capucins-statueStVenance.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Venantius of Viviers"
+  }
 }

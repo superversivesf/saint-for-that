@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Pope_Felix_IV"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mosaic_of_Felix_IV_in_Santi_Cosma_e_Damiano%2C_Rome%2C_Italy.jpg/960px-Mosaic_of_Felix_IV_in_Santi_Cosma_e_Damiano%2C_Rome%2C_Italy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix IV"
+  }
 }

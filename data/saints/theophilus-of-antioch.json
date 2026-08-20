@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Theophilus_of_Antioch"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Theophilus_Antiochenus.png/960px-Theophilus_Antiochenus.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theophilus of Antioch"
+  }
 }

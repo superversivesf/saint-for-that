@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pietro_I_Orseolo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pietro_I_Orseolo_murale.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pietro I Orseolo"
+  }
 }

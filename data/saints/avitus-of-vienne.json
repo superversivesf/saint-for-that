@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Avitus_of_Vienne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Saint_Avit_sculpture.JPG/960px-Saint_Avit_sculpture.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Avitus of Vienne"
+  }
 }

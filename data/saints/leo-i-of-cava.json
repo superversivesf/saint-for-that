@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Leo_I_of_Cava"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/San_Leone_Abate.JPG/960px-San_Leone_Abate.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leo I of Cava"
+  }
 }

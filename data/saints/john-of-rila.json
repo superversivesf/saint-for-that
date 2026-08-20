@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Rila"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/StJohnofRila.jpg/960px-StJohnofRila.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Rila"
+  }
 }

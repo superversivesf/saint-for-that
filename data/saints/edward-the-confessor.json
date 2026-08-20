@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Edward_the_Confessor"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/960px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Edward the Confessor"
+  }
 }

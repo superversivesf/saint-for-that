@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Sunniva"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/StSunniva.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sunniva"
+  }
 }

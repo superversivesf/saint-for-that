@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Germanus_of_Man"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Germanus_of_Man_british_orthodox_style_icon.jpg/960px-Saint_Germanus_of_Man_british_orthodox_style_icon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Germanus of Man"
+  }
 }

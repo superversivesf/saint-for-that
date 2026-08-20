@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Asaph"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sant_Silyn%2C_Wrecsam_Parish_Church_of_St._Giles%2C_Wrexham%2C_Wales_xz_48.jpg/960px-Sant_Silyn%2C_Wrecsam_Parish_Church_of_St._Giles%2C_Wrexham%2C_Wales_xz_48.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Asaph"
+  }
 }

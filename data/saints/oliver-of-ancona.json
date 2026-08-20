@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Oliver_of_Ancona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Promontorio_Monte_Conero.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Oliver of Ancona"
+  }
 }

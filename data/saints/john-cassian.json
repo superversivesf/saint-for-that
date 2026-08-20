@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_Cassian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Cassian.jpeg/960px-John_Cassian.jpeg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Cassian"
+  }
 }

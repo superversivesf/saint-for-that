@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Boris_and_Gleb"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Boris_Savvin.jpg/960px-Boris_Savvin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Boris and Gleb"
+  }
 }

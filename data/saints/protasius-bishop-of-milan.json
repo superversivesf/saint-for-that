@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Protasius_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/B3_Protaso_29m.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Protasius"
+  }
 }

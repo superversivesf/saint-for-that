@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Fagan_(saint)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trecynon_St_Fagans_Church_by_Aberdare_Blog.jpg/960px-Trecynon_St_Fagans_Church_by_Aberdare_Blog.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fagan"
+  }
 }

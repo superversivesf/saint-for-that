@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Blane"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/St_Blane%27s_Church_-_full_view.JPG/960px-St_Blane%27s_Church_-_full_view.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Blane"
+  }
 }

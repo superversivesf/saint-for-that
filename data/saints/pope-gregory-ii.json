@@ -24,5 +24,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Pope_Gregory_II"
   ],
-  "featured": false
+  "featured": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SsigregoryIIpope.jpg/960px-SsigregoryIIpope.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory II"
+  }
 }

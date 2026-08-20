@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Paulinus_II_of_Aquileia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Blessing_of_Friulo-slavic_Army_by_Paulinus_II_of_Aquilea.PNG/960px-Blessing_of_Friulo-slavic_Army_by_Paulinus_II_of_Aquilea.PNG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Paulinus II of Aquileia"
+  }
 }

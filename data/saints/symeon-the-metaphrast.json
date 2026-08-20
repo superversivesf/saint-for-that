@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Symeon_the_Metaphrast"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Symeon_Metafrast.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Symeon the Metaphrast"
+  }
 }

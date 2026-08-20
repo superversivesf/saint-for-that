@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Miliau"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Guimiliau05.JPG/960px-Guimiliau05.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Miliau"
+  }
 }

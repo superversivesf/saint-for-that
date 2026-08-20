@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Brynach"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Saint_Non%27s_Chapel_-_Fenster_4_St.Brynach.jpg/960px-Saint_Non%27s_Chapel_-_Fenster_4_St.Brynach.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Brynach"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theophilus_of_Adana"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Maastricht_Book_of_Hours%2C_BL_Stowe_MS17_f255v_%28detail%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theophilus of Adana"
+  }
 }

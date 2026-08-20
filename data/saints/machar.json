@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Machar"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_font_at_St_Machar%27s_Cathedral_by_Hew_Lorimer.jpg/960px-The_font_at_St_Machar%27s_Cathedral_by_Hew_Lorimer.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Machar"
+  }
 }

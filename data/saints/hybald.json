@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Hybald"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ashby_Church.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hybald"
+  }
 }

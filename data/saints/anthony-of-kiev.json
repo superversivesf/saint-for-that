@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Anthony_of_Kiev"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Antony_Pechersky_%28fragment%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthony of Kiev"
+  }
 }

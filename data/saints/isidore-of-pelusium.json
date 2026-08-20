@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Isidore_of_Pelusium"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Isidore_of_Pelusium.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Isidore of Pelusium"
+  }
 }

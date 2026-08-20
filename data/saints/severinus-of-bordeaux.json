@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Severinus_of_Bordeaux"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Basilique_St-Seurin%2C_Bordeaux.jpg/960px-Basilique_St-Seurin%2C_Bordeaux.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Severinus of Bordeaux"
+  }
 }

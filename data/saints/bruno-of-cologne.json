@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nicolas_Mignard-Saint_Bruno.jpg/960px-Nicolas_Mignard-Saint_Bruno.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bruno of Cologne"
+  }
 }

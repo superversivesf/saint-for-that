@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Yared"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yared_sings_before_Meskel.jpg/960px-Yared_sings_before_Meskel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Yared"
+  }
 }

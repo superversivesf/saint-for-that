@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Petronius_of_Bologna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ubaldo_Gandolfi_-_Saint_Petronius_of_Bologna.jpg/960px-Ubaldo_Gandolfi_-_Saint_Petronius_of_Bologna.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Petronius of Bologna"
+  }
 }

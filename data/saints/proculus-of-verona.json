@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Proculus_of_Verona"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sebastiano_Ricci_042.jpg/960px-Sebastiano_Ricci_042.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Proculus of Verona"
+  }
 }

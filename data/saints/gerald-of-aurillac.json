@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gerald_of_Aurillac"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/G%C3%A9raud_d%27Aurillac.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gerald of Aurillac"
+  }
 }

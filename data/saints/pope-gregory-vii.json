@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregory VII"
+  }
 }

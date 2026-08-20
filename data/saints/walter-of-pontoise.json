@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Walter_of_Pontoise"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG/960px-Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Walter of Pontoise"
+  }
 }

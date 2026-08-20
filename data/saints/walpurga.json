@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Saint_Walpurga"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Heilige_Walburga.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Walpurga"
+  }
 }

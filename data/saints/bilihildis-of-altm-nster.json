@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Bilihildis_of_Altm%C3%BCnster"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/S._Bilhiltis.jpg/960px-S._Bilhiltis.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bilihildis of Altmünster"
+  }
 }

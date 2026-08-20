@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Mirocles"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Urn_of_Saint_Mirocles_bishop_of_Milan.jpg/960px-Urn_of_Saint_Mirocles_bishop_of_Milan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mirocles"
+  }
 }

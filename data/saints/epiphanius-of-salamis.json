@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Epiphanius-Kosovo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Epiphanius of Salamis"
+  }
 }

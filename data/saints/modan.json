@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Modan"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/GlasgowButeHallStModan.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Modan"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Adelelmus_of_Flanders"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Saint_Alleaume.JPG/960px-Saint_Alleaume.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Adelelmus of Flanders"
+  }
 }

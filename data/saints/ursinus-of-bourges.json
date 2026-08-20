@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ursinus_of_Bourges"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Saint_ursin.jpg/960px-Saint_ursin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ursinus of Bourges"
+  }
 }

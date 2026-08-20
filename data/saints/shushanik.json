@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Shushanik"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Shushanik.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Shushanik"
+  }
 }

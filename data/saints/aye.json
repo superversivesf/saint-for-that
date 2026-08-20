@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Aye"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Svata_Aya.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aye"
+  }
 }

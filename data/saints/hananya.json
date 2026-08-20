@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Hananya"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_Chapel_of_Deyrul_Zafaran_-_Ancient_Syriac_Monastery_-_Outside_Mardin_-_Turkey_%285789008225%29.jpg/960px-Interior_of_Chapel_of_Deyrul_Zafaran_-_Ancient_Syriac_Monastery_-_Outside_Mardin_-_Turkey_%285789008225%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Hananya"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Aprunculus_of_Trier"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Besslich_St.Abruculus_Statue_Abrunculus_H1a.jpg/960px-Besslich_St.Abruculus_Statue_Abrunculus_H1a.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Aprunculus of Trier"
+  }
 }

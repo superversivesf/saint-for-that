@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Herculanus_of_Brescia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pietro_Perugino_Virgin_Mary_and_Saints.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Herculanus of Brescia"
+  }
 }

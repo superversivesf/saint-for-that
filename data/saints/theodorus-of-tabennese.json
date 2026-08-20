@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Theodorus_of_Tabennese"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Theodore_the_Sanctified.JPG/960px-Theodore_the_Sanctified.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodorus of Tabennese"
+  }
 }

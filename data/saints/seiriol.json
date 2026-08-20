@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Seiriol"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Seiriol_Wyn_-_geograph.org.uk_-_404566_cropped.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Seiriol"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Anthelm_of_Belley"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Anthelme_priez_pour_nous.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Anthelm of Belley"
+  }
 }

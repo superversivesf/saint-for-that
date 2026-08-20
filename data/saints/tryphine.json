@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Tryphine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Trephine.jpg/960px-Trephine.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Tryphine"
+  }
 }

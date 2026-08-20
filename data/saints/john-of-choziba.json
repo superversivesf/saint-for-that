@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/John_of_Choziba"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PikiWiki_34272_St._George_Monastery_in_Wadi_Qelt.jpg/960px-PikiWiki_34272_St._George_Monastery_in_Wadi_Qelt.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Choziba"
+  }
 }

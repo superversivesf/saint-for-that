@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Dabheog"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/29_St_Dabheoc_Detail%2C_Harry_Clarke_Studios%2C_St._Joseph%27s_Church%2C_Carrickmacross%2C_Stained_Glass_Window.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dabheog"
+  }
 }

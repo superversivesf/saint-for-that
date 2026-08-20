@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saints_Faith%2C_Hope_and_Charity"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sophia_the_Martyr.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Sts. Faith, Hope and Charity"
+  }
 }

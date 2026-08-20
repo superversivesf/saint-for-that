@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Enodoc"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_church_in_the_golf_course_-_geograph.org.uk_-_498759.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Enodoc"
+  }
 }

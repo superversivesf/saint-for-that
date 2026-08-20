@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Contentius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Saint_Contest3.JPG/960px-Saint_Contest3.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Contentius"
+  }
 }

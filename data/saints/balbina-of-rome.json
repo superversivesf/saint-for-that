@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Balbina_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint_Balbina.JPG/960px-Saint_Balbina.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Balbina of Rome"
+  }
 }

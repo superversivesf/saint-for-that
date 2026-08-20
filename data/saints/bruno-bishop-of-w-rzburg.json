@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Bruno_(bishop_of_W%C3%BCrzburg)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BrunoCarinthicebw.jpg/960px-BrunoCarinthicebw.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bruno, Bishop of Würzburg"
+  }
 }

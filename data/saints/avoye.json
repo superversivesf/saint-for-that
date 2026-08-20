@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Avoye"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saint_Avoye_and_the_Virgin_Mary.jpg/960px-Saint_Avoye_and_the_Virgin_Mary.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Avoye"
+  }
 }

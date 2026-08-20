@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Erembert_of_Toulouse"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bischof_Erembert_gegen%C3%BCber_dem_heiligen_Martin.jpg/960px-Bischof_Erembert_gegen%C3%BCber_dem_heiligen_Martin.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Erembert of Toulouse"
+  }
 }

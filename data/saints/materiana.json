@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Saint_Materiana"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Minster_Church_DSC_9374_%28cropped%29.png/960px-Minster_Church_DSC_9374_%28cropped%29.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Materiana"
+  }
 }

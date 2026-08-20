@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_Climacus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Lestvichnik.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John Climacus"
+  }
 }

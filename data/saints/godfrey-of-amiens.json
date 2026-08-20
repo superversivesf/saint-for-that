@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Heiliger_Gottfried.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Godfrey of Amiens"
+  }
 }

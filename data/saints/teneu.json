@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Teneu"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Traprain_Law_4.jpg/960px-Traprain_Law_4.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Teneu"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Cwenburh"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wimborne_Minster.jpg/960px-Wimborne_Minster.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cwenburh"
+  }
 }

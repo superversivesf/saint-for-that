@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Apronia_of_Toul"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saintes_02162.JPG/960px-Saintes_02162.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Apronia of Toul"
+  }
 }

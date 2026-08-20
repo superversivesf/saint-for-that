@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Irmgardis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/De_Heilige_Irmgardis_te_midden_der_Armen.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Irmgardis"
+  }
 }

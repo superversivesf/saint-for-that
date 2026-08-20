@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ursus_of_Ravenna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Sant-orso-basilica-classe.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ursus of Ravenna"
+  }
 }

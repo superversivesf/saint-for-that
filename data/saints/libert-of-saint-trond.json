@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Libert_of_Saint-Trond"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Colijn_de_Coter_-_Baptism_of_St_Libertus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Libert of Saint-Trond"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ecclesius_of_Ravenna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Saint_Ecclesius_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg/960px-Saint_Ecclesius_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ecclesius of Ravenna"
+  }
 }

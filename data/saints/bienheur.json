@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Bienheur%C3%A9"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Saint-B%C3%A9at_%C3%A9glise_St_B%C3%A9at_%282%29.JPG/960px-Saint-B%C3%A9at_%C3%A9glise_St_B%C3%A9at_%282%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bienheuré"
+  }
 }

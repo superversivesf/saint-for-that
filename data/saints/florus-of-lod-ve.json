@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Florus_of_Lod%C3%A8ve"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lod%C3%A8ve_cathedral_Saint-Fulcrain_stained_glass_window379.JPG/960px-Lod%C3%A8ve_cathedral_Saint-Fulcrain_stained_glass_window379.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Florus of Lodève"
+  }
 }

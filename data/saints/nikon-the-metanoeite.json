@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Nikon_the_Metanoeite"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hosios_Loukas_%28nave%2C_lunette_in_south-west_bay_of_nave%29_-_Nikon_Metanoeite.jpg/960px-Hosios_Loukas_%28nave%2C_lunette_in_south-west_bay_of_nave%29_-_Nikon_Metanoeite.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nikon the Metanoeite"
+  }
 }

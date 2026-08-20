@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Simeon_the_Holy_Fool"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Simeon_yurodovy_and_ioann.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simeon the Holy Fool"
+  }
 }

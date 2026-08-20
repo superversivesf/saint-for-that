@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Praxedes"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/SaintPraxedisJohannesVermeerPainting.jpg/960px-SaintPraxedisJohannesVermeerPainting.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Praxedes"
+  }
 }

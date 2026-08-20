@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Nana_of_Iberia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Queen_Nana%2C_Samtavro_relief.jpg/960px-Queen_Nana%2C_Samtavro_relief.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nana of Iberia"
+  }
 }

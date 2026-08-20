@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Regina_of_Autun"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StRegina.JPG/960px-StRegina.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Regina of Autun"
+  }
 }

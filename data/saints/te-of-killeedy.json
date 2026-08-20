@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/%C3%8Dte_of_Killeedy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/03_St_Ita_Detail%2C_Harry_Clarke%2C_Honan_Chapel_Stained_Glass.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Íte of Killeedy"
+  }
 }

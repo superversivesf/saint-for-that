@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Gavinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/San_gavino%2C_int.%2C_bottega_romana%2C_san_gavino_a_cavallo%2C_XVII_sec.JPG/960px-San_gavino%2C_int.%2C_bottega_romana%2C_san_gavino_a_cavallo%2C_XVII_sec.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gavinus"
+  }
 }

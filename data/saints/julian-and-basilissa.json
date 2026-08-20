@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Julian_and_Basilissa"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Basilissa_Julian.jpg/960px-Basilissa_Julian.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Julian and Basilissa"
+  }
 }

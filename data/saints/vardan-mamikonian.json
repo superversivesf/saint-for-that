@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Vardan_Mamikonian"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg/960px-Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Vardan Mamikonian"
+  }
 }

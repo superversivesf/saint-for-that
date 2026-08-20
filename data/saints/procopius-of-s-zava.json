@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Procopius_of_S%C3%A1zava"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Josef_Mathauser_-_Kn%C3%AD%C5%BEe_Old%C5%99ich_se_setk%C3%A1v%C3%A1_s_poustevn%C3%ADkem_Prokopem.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Procopius of Sázava"
+  }
 }

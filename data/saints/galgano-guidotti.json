@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Galgano_Guidotti"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pietro_di_giovanni_d%27ambrogio%2C_adorazione_dei_pastori_tra_i_ss._galgano_e_agostino%2C_da._agostino%2C_12.JPG/960px-Pietro_di_giovanni_d%27ambrogio%2C_adorazione_dei_pastori_tra_i_ss._galgano_e_agostino%2C_da._agostino%2C_12.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Galgano Guidotti"
+  }
 }

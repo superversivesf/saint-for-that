@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Macra_of_Reims"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mont_Notre-Dame_Sainte_Macre_Vitrail_de_Ren%C3%A9_Bour_et_Jacques_Damon.jpg/960px-Mont_Notre-Dame_Sainte_Macre_Vitrail_de_Ren%C3%A9_Bour_et_Jacques_Damon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Macra of Reims"
+  }
 }

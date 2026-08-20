@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Nilus_the_Younger"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/San_Nicodemo_-_Ritratto_San_Nilo.jpg/960px-San_Nicodemo_-_Ritratto_San_Nilo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nilus the Younger"
+  }
 }

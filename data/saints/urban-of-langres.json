@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Urban_of_Langres"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pfaffst%C3%A4tten_7282.jpg/960px-Pfaffst%C3%A4tten_7282.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Urban of Langres"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Felix_III"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Portret_van_paus_Felix_III_%28IV%29%2C_RP-P-1874-12-111-1.jpg/960px-Portret_van_paus_Felix_III_%28IV%29%2C_RP-P-1874-12-111-1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix III"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Plegmund"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coin_of_Plegmund_Ashmolean.JPG/960px-Coin_of_Plegmund_Ashmolean.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Plegmund"
+  }
 }

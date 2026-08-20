@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Pope_Boniface_I"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/H._Augustinus_met_brandend_hart_Titelpagina_voor_Cornelius_Jansenius%2C_Augustinus%2C_Leuven%2C_1640%2C_RP-P-OB-6932%28cropped2%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Boniface I"
+  }
 }

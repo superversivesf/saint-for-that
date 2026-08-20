@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/%C3%86thelberht_II_of_East_Anglia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/St_Ethelbert_the_King.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Æthelberht II of East Anglia"
+  }
 }

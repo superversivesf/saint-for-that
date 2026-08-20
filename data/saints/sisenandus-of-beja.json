@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Sisenandus_of_Beja"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/S%C3%A3o_Sisenando%2C_S%C3%A9_de_Beja_2021-04-13.png/960px-S%C3%A3o_Sisenando%2C_S%C3%A9_de_Beja_2021-04-13.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Sisenandus of Beja"
+  }
 }

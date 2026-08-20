@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Romedius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Barco_di_Sopra_-_Chiesa_di_San_Romedio_-_Statua_san_Romedio.JPG/960px-Barco_di_Sopra_-_Chiesa_di_San_Romedio_-_Statua_san_Romedio.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Romedius"
+  }
 }

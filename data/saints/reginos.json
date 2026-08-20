@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Reginos"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Reginos_of_Skopelos%2C_Menologion_of_Basil_II.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Reginos"
+  }
 }

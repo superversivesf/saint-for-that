@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Arsenius_the_Great"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hosios_Luka_-_Arsenios.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arsenius the Great"
+  }
 }

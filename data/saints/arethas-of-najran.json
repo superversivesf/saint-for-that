@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Arethas_of_Najran"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Saint_Arethas_of_Najran.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arethas of Najran"
+  }
 }

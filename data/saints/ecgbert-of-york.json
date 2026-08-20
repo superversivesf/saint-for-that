@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ecgbert_of_York"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Silver_sceatta_of_Eadberht_%28YORYM_2000_2283%29_reverse.jpg/960px-Silver_sceatta_of_Eadberht_%28YORYM_2000_2283%29_reverse.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ecgbert of York"
+  }
 }

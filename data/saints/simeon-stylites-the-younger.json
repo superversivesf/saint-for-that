@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Simeon_Stylites_the_Younger"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Simeon_Stylites_the_Younger.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Simeon Stylites the Younger"
+  }
 }

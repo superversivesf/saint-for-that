@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Thomas_Becket"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/London._British_Library%2C_Cotton_MS_Claudius_B_II._f.341r_%28cropped%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Thomas Becket"
+  }
 }

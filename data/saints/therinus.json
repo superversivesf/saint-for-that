@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Therinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7_-_%CE%A1%CE%BF%CF%84%CF%8C%CE%BD%CF%84%CE%B1_0905.jpg/960px-%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7_-_%CE%A1%CE%BF%CF%84%CF%8C%CE%BD%CF%84%CE%B1_0905.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Therinus"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Poemen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_S.Poimen.jpg/960px-Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_S.Poimen.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Poemen"
+  }
 }

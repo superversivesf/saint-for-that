@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Gregentios"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Gregentios_fresco.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Gregentios"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/%C3%86thelburh_of_Faremoutiers"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Juan_de_Roelas_-_Santa_Edilberga_20131207.jpg/960px-Juan_de_Roelas_-_Santa_Edilberga_20131207.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Æthelburh of Faremoutiers"
+  }
 }

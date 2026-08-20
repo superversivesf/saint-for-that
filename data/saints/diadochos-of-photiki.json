@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Diadochos_of_Photiki"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Diadochos_of_Photiki.jpg/960px-Diadochos_of_Photiki.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Diadochos of Photiki"
+  }
 }

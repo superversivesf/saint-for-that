@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Matthias_the_Apostle"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubens_apostle_Matthias_grt.jpg/960px-Rubens_apostle_Matthias_grt.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Matthias the Apostle"
+  }
 }

@@ -33,5 +33,10 @@
     "https://en.wikipedia.org/wiki/Moses_the_Black"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/San_Moises_el_Negro.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Moses the Black"
+  }
 }

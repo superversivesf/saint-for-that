@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Amator"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chapelle_de_Locadour_-_3654.JPG/960px-Chapelle_de_Locadour_-_3654.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Amator of Auxerre"
+  }
 }

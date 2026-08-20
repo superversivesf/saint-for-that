@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Austromoine"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Statue_St_Austremonius_martyrium_Issoire.jpg/960px-Statue_St_Austremonius_martyrium_Issoire.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Austromoine"
+  }
 }

@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Bernward_of_Hildesheim"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernwardst%C3%BCr.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bernward of Hildesheim"
+  }
 }

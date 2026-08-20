@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Monas_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/San_Mona_di_Milano.jpg/960px-San_Mona_di_Milano.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Monas"
+  }
 }

@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Fantinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/San_Nicodemo_-_Ritratto_San_Fantino.jpg/960px-San_Nicodemo_-_Ritratto_San_Fantino.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Fantinus"
+  }
 }

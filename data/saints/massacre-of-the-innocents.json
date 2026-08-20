@@ -30,5 +30,10 @@
     "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_La_Vierge_%C3%A0_l%27Enfant_entour%C3%A9e_des_saints_Innocents_-_Louvre_-_%282%29.JPG/960px-0_La_Vierge_%C3%A0_l%27Enfant_entour%C3%A9e_des_saints_Innocents_-_Louvre_-_%282%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Massacre of the Innocents"
+  }
 }

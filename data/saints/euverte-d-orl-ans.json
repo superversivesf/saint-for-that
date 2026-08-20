@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Euverte_d'Orl%C3%A9ans"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bussy_Saint_Euverte.jpg/960px-Bussy_Saint_Euverte.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Euverte d'Orléans"
+  }
 }

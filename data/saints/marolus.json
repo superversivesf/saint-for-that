@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Marolus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/C3_Marolo_34m.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marolus"
+  }
 }

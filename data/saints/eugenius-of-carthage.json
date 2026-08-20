@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/6212_-_Milano_-_Sant%27Eugenio_-_Sant%27Eustorgio_Museo_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg/960px-6212_-_Milano_-_Sant%27Eugenio_-_Sant%27Eustorgio_Museo_-_Foto_Giovanni_Dall%27Orto_1-Mar-2007.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eugenius of Carthage"
+  }
 }

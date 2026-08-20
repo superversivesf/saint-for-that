@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Faustina_and_Liberata_of_Como"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Pittura_con_SS._Faustina%2C_Marcello_e_Liberata_-_Chiesa_SS._Faustina_e_Liberata_-_Capo_di_Ponte_%28Foto_Luca_Giarelli%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Faustina and Liberata of Como"
+  }
 }

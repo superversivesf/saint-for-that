@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Emerentiana"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Museum_Emerentiana_stoned.jpg/960px-British_Museum_Emerentiana_stoned.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Emerentiana"
+  }
 }

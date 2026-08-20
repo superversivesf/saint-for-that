@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Marina_the_Monk"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Marina_the_monk.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marina the Monk"
+  }
 }

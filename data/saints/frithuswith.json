@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Frithuswith"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St_Frideswide_14th-century_window_at_Christ_Church_Oxford.jpg/960px-St_Frideswide_14th-century_window_at_Christ_Church_Oxford.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Frithuswith"
+  }
 }

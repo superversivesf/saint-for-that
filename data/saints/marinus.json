@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Marinus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG/960px-Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Marinus"
+  }
 }

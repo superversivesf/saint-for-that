@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Nunilo_and_Alodia"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Alqu%C3%A9zar_-_relieve_en_la_subida_a_la_Colegiata.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Nunilo and Alodia"
+  }
 }

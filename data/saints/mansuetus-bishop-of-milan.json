@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Mansuetus_(bishop_of_Milan)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/079_Basilica_of_Saint_Eustorgius_in_Milan%2C_Italy_-_Main_altar_-_Saint_Mansuetus_1.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mansuetus"
+  }
 }

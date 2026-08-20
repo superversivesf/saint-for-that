@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Canius"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Interno_della_Cattedrale_di_Acerenza.JPG/960px-Interno_della_Cattedrale_di_Acerenza.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Canius"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Christian-albrecht-von-benzon%2C_the_death_of_Canute_the_Holy.jpg/960px-Christian-albrecht-von-benzon%2C_the_death_of_Canute_the_Holy.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Canute IV of Denmark"
+  }
 }

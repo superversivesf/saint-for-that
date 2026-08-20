@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Cyprian_of_Toulon"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Saint_Cyprien_de_Toulon.jpg/960px-Saint_Cyprien_de_Toulon.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Cyprian of Toulon"
+  }
 }

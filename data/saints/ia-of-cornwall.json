@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ia_of_Cornwall"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/St._Ia_stained_glass_window%2C_St._Olaf%27s_church%2C_Poughill.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ia of Cornwall"
+  }
 }

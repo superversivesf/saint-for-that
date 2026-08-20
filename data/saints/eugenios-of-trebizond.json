@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Eugenios_of_Trebizond"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aquila%2C_Valerian%2C_Eugene_and_Candidus_of_Trebizond_%28Menologion_of_Basil_II%29.jpg/960px-Aquila%2C_Valerian%2C_Eugene_and_Candidus_of_Trebizond_%28Menologion_of_Basil_II%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Eugenios of Trebizond"
+  }
 }

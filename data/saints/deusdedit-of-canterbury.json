@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Deusdedit_of_Canterbury"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gravesites_of_Mellitus%2C_Justus_and_Laurence_at_St._Augustine%27s_Abbey.jpg/960px-Gravesites_of_Mellitus%2C_Justus_and_Laurence_at_St._Augustine%27s_Abbey.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Deusdedit of Canterbury"
+  }
 }

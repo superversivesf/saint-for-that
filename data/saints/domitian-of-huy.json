@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Domitian_of_Huy"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Huy_051027_%2832%29.JPG/960px-Huy_051027_%2832%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Domitian of Huy"
+  }
 }

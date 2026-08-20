@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Botolph_of_Thorney"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Botolph%2C_Cambridge_IMG_2936_%2828884698391%29.jpg/960px-St_Botolph%2C_Cambridge_IMG_2936_%2828884698391%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Botolph of Thorney"
+  }
 }

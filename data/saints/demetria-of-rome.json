@@ -22,5 +22,10 @@
     "https://en.wikipedia.org/wiki/Demetria_of_Rome"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/H._Demetria_van_Rome%2C_RP-P-1944-628.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Demetria of Rome"
+  }
 }

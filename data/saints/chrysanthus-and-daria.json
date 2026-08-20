@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Chrysanthus_and_Daria"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Chrysanthusdaria.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of Sts. Chrysanthus and Daria"
+  }
 }

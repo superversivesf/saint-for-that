@@ -26,5 +26,10 @@
     "https://en.wikipedia.org/wiki/Pantaenus"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Burghers-Pantaenus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Pantaenus"
+  }
 }

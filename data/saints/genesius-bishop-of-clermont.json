@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Genesius_(bishop_of_Clermont)"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Saint_Gen%C3%A8s.jpg/960px-Saint_Gen%C3%A8s.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Genesius"
+  }
 }

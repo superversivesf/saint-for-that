@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Manahen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Acts_of_the_Apostles_Chapter_13-3_%28Bible_Illustrations_by_Sweet_Media%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Manahen"
+  }
 }

@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Theodore_of_Sykeon"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/St_Theodore_the_Sykeote.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Theodore of Sykeon"
+  }
 }

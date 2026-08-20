@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Ursmar"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Coll%C3%A9giale_Saint-Ursmer_%28Lobbes%29_-_Int%C3%A9rieur_14_%28cropped2%29.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ursmar"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Felix_of_Bilibio"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arqueta_de_San_Felices_en_San_Mill%C3%A1n.jpg/960px-Arqueta_de_San_Felices_en_San_Mill%C3%A1n.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Felix of Bilibio"
+  }
 }

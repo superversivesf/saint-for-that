@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Bashnouna"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Saints-Egypt-1.JPG/960px-Saints-Egypt-1.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Bashnouna"
+  }
 }

@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Ida_of_Toggenburg"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/StIdda.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ida of Toggenburg"
+  }
 }

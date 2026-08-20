@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Leoluca"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/San_Leoluca_da_Corleone.jpg/960px-San_Leoluca_da_Corleone.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Leoluca"
+  }
 }

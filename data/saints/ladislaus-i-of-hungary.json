@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/King_St._Ladislaus.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Ladislaus I of Hungary"
+  }
 }

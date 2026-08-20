@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Saint_Piran"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/StPiran.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Piran"
+  }
 }

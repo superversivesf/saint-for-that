@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Dwynwen"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Llamddelw_fawr_am_%C5%B4yl_Santes_Dwynwen_Aberystwyth_2026.png",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Dwynwen"
+  }
 }

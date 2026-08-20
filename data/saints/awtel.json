@@ -17,5 +17,10 @@
     "https://en.wikipedia.org/wiki/Awtel"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mar_Awtel.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Awtel"
+  }
 }

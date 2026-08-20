@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Arbeo_of_Freising"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/F%C3%BCrstengang_Bisch%C3%B6fe_04_-_Arbeo.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Arbeo of Freising"
+  }
 }

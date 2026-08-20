@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/John_of_Egypt"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Joan_ermit%C3%A0_b.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. John of Egypt"
+  }
 }

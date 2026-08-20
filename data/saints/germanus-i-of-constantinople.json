@@ -29,5 +29,10 @@
     "https://en.wikipedia.org/wiki/Germanus_I_of_Constantinople"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Patriarch_Germanus_I_of_Constantinople.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Germanus I of Constantinople"
+  }
 }

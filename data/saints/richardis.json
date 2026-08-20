@@ -21,5 +21,10 @@
     "https://en.wikipedia.org/wiki/Richardis"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mont_Sainte_Odile_025.JPG",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Richardis"
+  }
 }

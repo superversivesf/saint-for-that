@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Saint_Mungo"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_Kentigern%2C_better_known_as_Mungo._Founder_and_patron_saint_of_Glasgow._%2810062429595%29.jpg/960px-St_Kentigern%2C_better_known_as_Mungo._Founder_and_patron_saint_of_Glasgow._%2810062429595%29.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Mungo"
+  }
 }

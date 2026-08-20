@@ -25,5 +25,10 @@
     "https://en.wikipedia.org/wiki/Edward_the_Martyr"
   ],
   "featured": false,
-  "draft": false
+  "draft": false,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Edward_the_Martyr_-_MS_Royal_14_B_VI.jpg",
+    "attribution": "Wikimedia Commons",
+    "altText": "Portrait of St. Edward the Martyr"
+  }
 }
