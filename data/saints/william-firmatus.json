@@ -1,0 +1,25 @@
+{
+  "slug": "william-firmatus",
+  "name": "St. William Firmatus",
+  "feastDay": "unknown",
+  "bio": "William Firmatus was a Norman hermit and pilgrim of the eleventh century who left his homeland to travel the roads of medieval Europe in penance and prayer. Little is recorded of his origins, but tradition remembers him as a man who sought God in solitude and in the rigors of pilgrimage, joining the great stream of holy wanderers who walked from shrine to shrine across the Christian world. As a hermit he embraced poverty and contemplation, and as a pilgrim he bore witness to the restlessness of the human heart until it rests in God. His memory survived in the piety of the Norman faithful, who honored him as one of the quiet saints whose holiness is measured not in fame but in fidelity to the narrow way.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. William Firmatus to seek you on the road and in the silence of solitude, grant through his intercession that we too may be pilgrims in this world, ever journeying toward your eternal home. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/William_Firmatus"
+  ],
+  "featured": false,
+  "draft": false
+}

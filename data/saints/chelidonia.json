@@ -1,0 +1,25 @@
+{
+  "slug": "chelidonia",
+  "name": "St. Chelidonia",
+  "feastDay": "10-13",
+  "bio": "Chelidonia was a Benedictine hermitess of the eleventh century, born in Ciculum, Italy. Drawn to a life of solitude and prayer, she withdrew to the mountains near Subiaco, making her home in a cave known today as Marra Ferogna. There she lived alone with God, sustained by the rhythms of the Divine Office and the quiet of the wilderness. Her reputation for holiness spread through the Sabine hills, and Cardinal Cuno of Frascati traveled to her refuge to give her the Benedictine habit, formally receiving her into the order. She died around 1297 after a life of contemplation, remembered as a model of the eremitic ideal and a daughter of St. Benedict's spirit.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Chelidonia to the silence of the hills near Subiaco and clothed her with the Benedictine habit, grant through her intercession that we may find You in stillness and persevere in prayer. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chelidonia"
+  ],
+  "featured": false,
+  "draft": false
+}

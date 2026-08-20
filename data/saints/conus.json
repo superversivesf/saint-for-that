@@ -1,0 +1,25 @@
+{
+  "slug": "conus",
+  "name": "St. Conus",
+  "feastDay": "06-03",
+  "bio": "Cono, or Conus, was a Benedictine monk born in Diano, Italy, in the late twelfth century. As a young man he entered the monastery of Santa Maria di Cadossa near Montesano sulla Marcellana, embracing the Benedictine rule with a fervor far beyond his years. He was known for his innocence, his love of prayer, and his obedience to the monastic discipline. He died very young in the early years of the thirteenth century, his brief life already marked by a reputation for holiness. When the Cadossa monastery was later closed, his relics were solemnly returned to Diano in 1261, where he has been venerated ever since as the town's patron saint, a witness that holiness knows no age.",
+  "patronages": [
+    {
+      "need": "youth",
+      "category": "family"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Conus the grace to serve You in the short years of his youth with the wisdom of the old, grant through his intercession that young people may seek You early and persevere in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Conus"
+  ],
+  "featured": false,
+  "draft": false
+}

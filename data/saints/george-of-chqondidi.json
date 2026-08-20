@@ -1,0 +1,29 @@
+{
+  "slug": "george-of-chqondidi",
+  "name": "St. George of Chqondidi",
+  "feastDay": "09-12",
+  "bio": "George of Chqondidi was a Georgian churchman, best known as tutor and closest adviser to King David IV. As archbishop of Chqondidi in western Georgia, he may have helped bring the young David to power. After the Council of Ruisi-Urbnisi in 1103, George was appointed Grand Chancellor of Georgia, the greatest office at court. He became David's key ally in reforms of church and state, supervising the recapture of Samshvilde (1110) and Rustavi (1115) from the Seljuk Turks. In 1118 he accompanied the king to Kipchak lands to recruit nomad tribesmen for the Georgian army, but died in Alania before returning. The Chronicles record he \"was mourned as a father by the whole kingdom.\" Canonized by the Georgian Orthodox Church in 2005, his feast is September 12.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "everyday"
+    },
+    {
+      "need": "spiritual direction",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant George of Chqondidi wisdom to counsel kings and zeal to reform your Church, grant through his intercession that those who guide nations may seek justice and truth, and that your people may be blessed with faithful shepherds. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/George_of_Chqondidi"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hildegund-widow",
+  "name": "St. Hildegund",
+  "feastDay": "02-06",
+  "bio": "Hildegund was born into the nobility of medieval Germany, daughter of Count Herman of Lidtberg and Countess Hedwig. She married Count Lothair of Meer in North Rhine-Westphalia and bore three children, one of whom died young. After Lothair's death, Hildegund turned from the world and entered religious life, becoming abbess of a Premonstratensian community. As abbess she guided her sisters in the disciplined life of the order, combining the practical wisdom of a widow and mother with the spiritual authority of her office. Her feast is kept on February 6, and she is remembered as a model of the widow who, having fulfilled the duties of marriage and family, gave herself wholly to God in the cloister.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "nobility",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Hildegund from the joys of family life to the discipline of the cloister, grant through her intercession that all widows may find in You their comfort and their strength. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hildegund_(widow)"
+  ],
+  "featured": false,
+  "draft": false
+}

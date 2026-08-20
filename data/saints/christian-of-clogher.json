@@ -1,0 +1,25 @@
+{
+  "slug": "christian-of-clogher",
+  "name": "St. Christian of Clogher",
+  "feastDay": "06-12",
+  "bio": "Christian, known in Irish as Gilla Críst Ua Morgair, was a twelfth-century Irish bishop and the elder brother of the great reformer St. Malachy of Armagh. Named Bishop of Clogher in 1126, he governed that see with devotion for twelve years until his death on June 12, 1138. He labored alongside his brother in the work of reforming the Irish church, promoting regular diocesan governance and the renewal of monastic discipline. At his death he was laid to rest at the Abbey of St. Peter and Paul in Armagh, a resting place fitting for one who had given his life to the service of the Church. He is remembered as a faithful pastor and a humble collaborator in the work of sanctification.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Christian of Clogher a faithful shepherd and a brother to Your reformer Malachy, grant through his intercession that those who govern Your Church may labor in unity and holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Christian_of_Clogher"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "frederick-of-liege",
+  "name": "St. Frederick of Liege",
+  "feastDay": "05-27",
+  "bio": "Frederick was Bishop of Liège, the great episcopal see on the Meuse in what is now Belgium, in the early medieval period. Though the surviving record of his life is brief, he is honored as one of the line of holy bishops who governed the church of Liège, a city renowned across Christendom for the density of its saints and the fervor of its religious life. As bishop he bore the pastoral staff over a diocese that was a crossroads of the imperial church, charged with teaching, sacramental care, and the defense of the faith. His feast is kept on May 27. He is remembered among the saintly bishops of the Meuse valley, a shepherd who served the see of Liège in the centuries of its spiritual flowering.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Frederick a faithful bishop of the church of Liège, grant through his intercession that all who bear the pastoral office may serve your people with wisdom and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frederick_of_Liege"
+  ],
+  "featured": false,
+  "draft": false
+}

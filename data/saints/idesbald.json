@@ -1,0 +1,25 @@
+{
+  "slug": "idesbald",
+  "name": "St. Idesbald",
+  "feastDay": "04-18",
+  "bio": "Saint Idesbald, also known as Idesbaldus, was a Cistercian monk who served as abbot of Ten Duinen Abbey, the great Cistercian house on the coast of Flanders in what is now Belgium. The abbey, also called Dunes Abbey, was one of the largest monasteries of the Low Countries, and Idesbald's leadership placed him among the notable religious figures of the region. As abbot he oversaw the spiritual and economic life of the house, its lands, its lay brothers, and its relations with surrounding towns and nobility. His cult developed especially around Bruges, where his relics were later venerated. He is remembered as a model of the Cistercian ideal of simplicity, labor, and prayer. His feast is kept on April 18.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "netherlands",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Idesbald to lead the monks of the Dunes in a life of prayer and labor, grant through his intercession that we may work faithfully and pray without ceasing. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Idesbald"
+  ],
+  "featured": false,
+  "draft": false
+}

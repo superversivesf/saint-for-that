@@ -1,0 +1,29 @@
+{
+  "slug": "cosmas-of-aphrodisia",
+  "name": "St. Cosmas of Aphrodisia",
+  "feastDay": "09-10",
+  "bio": "Cosmas was Bishop of Aphrodisia and a martyr of the Church. Born at Palermo on the island of Sicily, he was appointed and ordained Bishop of Aphrodisia by Pope Eugene III, entrusted with the care of a distant and embattled flock. When Saracen invaders swept across the island and captured his see, Cosmas refused to abandon his people or deny his faith. Seized by the raiders, he suffered martyrdom at their hands, giving his life for the Gospel he had been ordained to preach. His memory is kept on September 10, and he is honored as a shepherd who stayed with his sheep even to the shedding of his blood, a witness to the courage that the cross demands.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "persecution",
+      "category": "persecution"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Cosmas of Aphrodisia the courage to face his persecutors and die for the Name of Your Son, grant through his intercession that we may stand firm in faith when trial comes. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cosmas_of_Aphrodisia"
+  ],
+  "featured": false,
+  "draft": false
+}

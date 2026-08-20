@@ -1,0 +1,29 @@
+{
+  "slug": "goswin-of-anchin",
+  "name": "St. Goswin of Anchin",
+  "feastDay": "10-09",
+  "bio": "Goswin was a Benedictine abbot born in Douai in 1086, then in the County of Flanders. He studied in Paris and afterward returned to Douai to teach theology. In 1113 he entered Anchin Abbey in Pecquencourt, near his hometown, and became a Benedictine monk. In 1130 he was made abbot of Anchin Abbey, a position he held for over thirty years. He guided the community with learning and piety until his death from natural causes on October 9, 1165, at Pecquencourt, having reached the age of seventy-nine. His feast is celebrated on October 9.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "theologians",
+      "category": "spiritual"
+    },
+    {
+      "need": "teachers",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your servant Goswin a love of learning and a heart for monastic life, raising him from teacher of theology to abbot of Anchin, grant through his intercession that scholars may grow in holiness and abbots in wisdom. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goswin_of_Anchin"
+  ],
+  "featured": false,
+  "draft": false
+}

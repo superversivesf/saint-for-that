@@ -1,0 +1,29 @@
+{
+  "slug": "henry-bishop-of-finland",
+  "name": "St. Henry",
+  "feastDay": "01-19",
+  "bio": "Henry was a medieval English clergyman who traveled to Sweden with Cardinal Nicholas Breakspeare (the future Pope Adrian IV) in 1153. He was likely intended to become Archbishop of Uppsala, but the independent church province of Sweden could not be established until 1164 after a civil war. Henry was instead sent to organize the Church in Finland, where Christian communities had already existed for some two centuries. He labored as a missionary bishop among the Finns, consolidating the faith and planting the seeds of the Church in the North. He is venerated as the patron of the Catholic Cathedral of Helsinki, and his feast is kept on January 19. He is honored as a foundational figure of the Church in Finland.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "missionaries",
+      "category": "spiritual"
+    },
+    {
+      "need": "england",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent your servant Henry from England to the far North to build up your Church in Finland, grant through his intercession that missionaries may labor with courage and that the faith may take root in every land. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_(bishop_of_Finland)"
+  ],
+  "featured": false,
+  "draft": false
+}

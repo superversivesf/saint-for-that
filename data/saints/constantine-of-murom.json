@@ -1,0 +1,25 @@
+{
+  "slug": "constantine-of-murom",
+  "name": "St. Constantine of Murom",
+  "feastDay": "05-21",
+  "bio": "Constantine of Murom, called the Blessed, was a prince of the Russian land of Murom and a direct descendant of Vladimir I of Kiev, the baptizer of Rus. Son of Prince Svyatoslav of Chernigov, he governed his domain in the early twelfth century and labored to plant the Christian faith among a people still wedded to old pagan ways. According to tradition he bore his cross with patience, endured the suspicion of his subjects, and preached the Gospel by both word and example. Scholars have sometimes identified him with Yaroslav Sviatoslavich, prince of Chernigov from 1123 to 1127, though the matter remains uncertain. He is remembered as a royal confessor who ruled as a servant of Christ.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "russia",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who strengthened St. Constantine of Murom to plant the Gospel among his people and rule as a servant of Christ, grant through his intercession that those in authority may govern with justice and faith. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constantine_of_Murom"
+  ],
+  "featured": false,
+  "draft": false
+}

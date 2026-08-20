@@ -1,0 +1,25 @@
+{
+  "slug": "patriarch-cyril-ii-of-alexandria",
+  "name": "St. Patriarch Cyril II of Alexandria",
+  "feastDay": "unknown",
+  "bio": "Cyril II served as Greek Orthodox Patriarch of Alexandria in the twelfth century, shepherding the ancient See of St. Mark during a period of relative quiet in the patriarchate's long history. As patriarch he preserved the Greek-speaking flock of Egypt amid the rise of Islamic rule, maintaining the liturgy and the faith of the fathers. Though few details of his life survive, his office bound him to the succession of Alexandria's great bishops, from Peter the preacher to Cyril the theologian. He is remembered as a confessor of the faith who kept alive the lamp of learning and worship in the patriarchate.",
+  "patronages": [
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who through St. Cyril II preserved the ancient See of Alexandria in faith and worship, grant through his intercession that all who confess the name of Your Son may be gathered into one flock. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patriarch_Cyril_II_of_Alexandria"
+  ],
+  "featured": false,
+  "draft": false
+}

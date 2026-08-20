@@ -1,0 +1,25 @@
+{
+  "slug": "eysteinn-erlendsson",
+  "name": "St. Eysteinn Erlendsson",
+  "feastDay": "01-26",
+  "bio": "Eysteinn Erlendsson served as Archbishop of Nidaros from 1161 until his death in 1188, shepherding the young and vast Norwegian church province at a pivotal moment in its history. As metropolitan of Nidaros, whose archdiocese then embraced Norway, Iceland, Greenland, the Faroes, and the Hebrides, he worked to consolidate ecclesiastical discipline and strengthen the bonds between Rome and the northern churches. He was a contemporary of King Sverre and, like many bishops of his age, navigated the fraught border between royal power and church liberty. Eysteinn is remembered as a builder and pastor who held together an immense and scattered flock across sea and fjord, securing the foundations of the medieval Norwegian church. His feast is kept on January 26.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eysteinn a faithful shepherd of the northern churches, grant through his intercession that your people scattered across the world may be gathered in unity and held fast in truth. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eysteinn_Erlendsson"
+  ],
+  "featured": false,
+  "draft": false
+}

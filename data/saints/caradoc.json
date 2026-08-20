@@ -1,0 +1,25 @@
+{
+  "slug": "caradoc",
+  "name": "St. Caradoc",
+  "feastDay": "04-13",
+  "bio": "Caradoc, or Caradog, was a Welsh priest of the twelfth century who left the world to live as a recluse in the rocky hills of Wales. Though once a court harpist, he abandoned that life after a quarrel and devoted himself entirely to God, serving as a priest at St Ismael's and later withdrawing to a hermit's cell. His sanctity became so widely recognized that an inquiry into his qualifications for sainthood was commissioned in 1200. Though the formal process did not proceed, the Welsh people venerated him as if papally canonised, and before the Forty Martyrs of 1970 he was regarded as the last Welshman to become a saint. He died around 1124, remembered for his humility and persistent prayer.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "priests",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Caradoc from the music of courts to the silence of a hermit's cell, grant through his intercession that we may prefer the praise of Your glory above the praise of men. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Caradoc"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hugh-of-lincoln",
+  "name": "St. Hugh of Lincoln",
+  "feastDay": "11-16",
+  "bio": "Hugh of Lincoln, also known as Hugh of Avalon, was born around 1135 in Burgundy to a noble family. He entered the Carthusian Order at the Grande Chartreuse and lived as a monk there for years. In 1186 he was sent to England to become prior of the new Carthusian house at Witham, and later that year was elected Bishop of Lincoln. As bishop he defended the rights of the Church against the Crown, challenged royal abuses, and showed especial tenderness toward the poor and the sick. He was a friend to animals—legend tells of a swan at his manor that became devoted to him. Hugh died on November 16, 1200, and was canonized in 1220. He is one of the best-loved saints of medieval England, invoked for sick children.",
+  "patronages": [
+    {
+      "need": "sick children",
+      "category": "illness"
+    },
+    {
+      "need": "cobblers",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Hugh of Lincoln a heart of tenderness for the sick and the poor, grant through his intercession that all who suffer, especially children, may find healing and peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugh_of_Lincoln"
+  ],
+  "featured": false,
+  "draft": false
+}

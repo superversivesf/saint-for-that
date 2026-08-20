@@ -1,0 +1,25 @@
+{
+  "slug": "grimoald-of-pontecorvo",
+  "name": "St. Grimoald of Pontecorvo",
+  "feastDay": "09-29",
+  "bio": "Grimoaldus, believed to be of English descent, served as Archpriest of Pontecorvo in Italy. Though little is recorded of his life, his holiness and pastoral devotion were sufficient for the faithful to venerate him as a saint, preserving his memory across the centuries. The people of Pontecorvo honored him as a model of priestly fidelity, and his feast has been kept on September 29. His quiet example reminds us that sanctity does not always require fame, but faithful service in the place where God has planted us.",
+  "patronages": [
+    {
+      "need": "priests",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Grimoald a faithful shepherd of Pontecorvo, grant through his intercession that priests may serve with quiet devotion and that the faithful may find holiness in ordinary duty. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grimoald_of_Pontecorvo"
+  ],
+  "featured": false,
+  "draft": false
+}

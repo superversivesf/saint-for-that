@@ -1,0 +1,25 @@
+{
+  "slug": "erik",
+  "name": "St. Erik",
+  "feastDay": "05-18",
+  "bio": "Saint Erik, also called Eric IX or Erik Jedvardsson, was King of Sweden from about 1156 until his death in 1160. He founded the House of Erik, which ruled Sweden with interruptions until 1250, and labored to secure the kingdom's laws and to spread the faith into Finland, where a tradition holds he led a crusade. He governed with justice and was noted for his care of the poor. While attending Mass on Ascension Day he was slain by a rival claimant and his men, dying at the foot of the altar. Venerated as a martyr-king, he was soon honored as patron and heavenly founder of his nation, and his relics were enshrined at Uppsala Cathedral.",
+  "patronages": [
+    {
+      "need": "europe",
+      "category": "special"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Erik with martyrdom at the foot of Your altar, grant through his intercession that those who rule may govern with justice, and that we may prefer Your worship to our life. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Erik"
+  ],
+  "featured": false,
+  "draft": false
+}

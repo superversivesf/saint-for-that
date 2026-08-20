@@ -1,0 +1,21 @@
+{
+  "slug": "henry-of-coquet",
+  "name": "St. Henry of Coquet",
+  "feastDay": "01-16",
+  "bio": "Henry of Coquet was a Dane drawn to the eremitical ideal, who left behind homeland and comfort for a precarious existence on the rocky islet of Coquet, off the Northumberland coast of England. Exposed to storms and tides, he devoted himself to prayer, fasting, and contemplation. His solitude attracted the monks of Tynemouth, who brought bread when weather permitted and witnessed his holiness firsthand. Henry died around 1127 and was buried at Tynemouth Priory. The people of Northumberland venerated him as a model of the hermit's calling—one who sought God in silence, wind, and stone.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Henry of Coquet to seek You in the solitude of a windswept isle, grant through his intercession that we may find in quiet moments the depths of Your presence. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_of_Coquet"
+  ],
+  "featured": false,
+  "draft": false
+}

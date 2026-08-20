@@ -1,0 +1,33 @@
+{
+  "slug": "ottone-frangipane",
+  "name": "St. Ottone Frangipane",
+  "feastDay": "03-23",
+  "bio": "Ottone Frangipane, known simply as Saint Ottone, was a Benedictine monk and hermit of medieval southern Italy. Born into the noble Roman Frangipane family, he renounced the world and its ambitions to embrace the cloister and later the solitary life of a hermit. He settled near Ariano in the Campanian hills, where his reputation for holiness drew disciples and pilgrims. So great was his influence that he became the patron saint of Ariano Irpino and of the diocese of Ariano Irpino-Lacedonia, where his memory is still cherished. He died in the twelfth century, and his feast is kept on March 23. He is remembered as a nobleman who traded earthly rank for the kingdom of heaven, and whose prayers still bless the people of his adopted city.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "special"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led St. Ottone from the halls of nobility to the silence of the hermitage, grant through his intercession that we may set no worldly honor above the call to follow your Son. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ottone_Frangipane"
+  ],
+  "featured": false,
+  "draft": false
+}

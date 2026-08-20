@@ -1,0 +1,25 @@
+{
+  "slug": "egino",
+  "name": "St. Egino",
+  "feastDay": "07-15",
+  "bio": "Egino was born in Augsburg, Bavaria, and placed as a child in the abbey of Saints Ulric and Afra. He rose to be abbot, but was expelled when he supported Pope Callistus II against Emperor Henry V in the Investiture Contest. Taking refuge in St. Blaise Abbey, he returned to Augsburg in 1106 and resumed his office in 1109. A champion of the Church's freedom, he opposed the simony of Bishop Hermann, as recorded by Udalschalk, a monk of the abbey and his associate. In 1120, unable to bear the corruption, Egino fled to Rome. Returning to Augsburg two years later, he died at Pisa, honored as a Camaldolese abbot who suffered for righteousness.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Egino the courage to defend the freedom of Your Church against princes and to suffer exile for righteousness, grant through his intercession that we may never trade the truth for peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Egino"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "guarinus-of-palestrina",
+  "name": "St. Guarinus of Palestrina",
+  "feastDay": "02-06",
+  "bio": "Guarino Foscari was an Italian Augustinian canon regular who was raised to the cardinalate by his relative Pope Lucius II in December 1144 and appointed Cardinal-Bishop of Palestrina. As a bishop he governed his diocese with the discipline and piety of the Augustinian rule, combining pastoral care with the contemplative heritage of the canons regular. He was honored as a patron of Palestrina, the city he shepherded, and his feast is kept on February 6. His life of reform and faithful episcopal service made him a model of the medieval Church's renewal through regular canonical life.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Guarinus a faithful bishop of Palestrina and a light of the Augustinian rule, grant through his intercession that the Church may be governed with holiness and that all who serve her may walk in the way of reform. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guarinus_of_Palestrina"
+  ],
+  "featured": false,
+  "draft": false
+}

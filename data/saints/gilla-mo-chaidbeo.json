@@ -1,0 +1,25 @@
+{
+  "slug": "gilla-mo-chaidbeo",
+  "name": "St. Gilla Mo Chaidbeo",
+  "feastDay": "unknown",
+  "bio": "Gilla Mo Chaidbeo, also known as Machabeus in Latin, was a Gaelic-Irish abbot who served for over thirty years as head of the monastery dedicated to Saints Peter and Paul in Armagh. He died in 1174, and his death is the last to be commemorated in the Félire húi Gormáin, the Martyrology of Gorman, written by his contemporary Máel Muire Ua Gormáin in the second half of the twelfth century. The timing of Gilla Mo Chaidbeo's death on March 31, alongside that of Archbishop Gilla meic Liac on March 27 of the same year, helps date the completion of the martyrology. Though little detail of his life survives, his long service as abbot of one of Ireland's most significant monastic foundations marks him as a figure of considerable standing in the twelfth-century Irish Church.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Gilla Mo Chaidbeo a faithful abbot over the monastery of Saints Peter and Paul in Armagh for more than thirty years, grant through his intercession that those entrusted with leadership may serve with patience and devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gilla_Mo_Chaidbeo"
+  ],
+  "featured": false,
+  "draft": false
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "florentius-of-carracedo",
+  "name": "St. Florentius of Carracedo",
+  "feastDay": "12-10",
+  "bio": "Florentius of Carracedo was a Benedictine abbot in the rugged valley of Carracedo in the kingdom of León, Spain, during the twelfth century. He governed his monastery with such wisdom and holiness that King Alfonso VII of León and Castile held him in the highest regard, seeking his counsel and favoring his house. Under Florentius's leadership the community flourished as a center of monastic life in the Iberian northwest, and after his death in 1156 the monastery he had ruled adopted the Cistercian reform, entering the great wave of renewal that swept through the Spanish church. Honored as a father of monks and a trusted counselor of kings, his feast is kept on December 10. He is remembered as a quiet builder of the church in León.",
+  "patronages": [
+    {
+      "need": "abbots",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Florentius a wise abbot and a trusted counselor of kings, grant through his intercession that those who lead your church may govern with holiness and guide your people into the paths of renewal. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Florentius_of_Carracedo"
+  ],
+  "featured": false,
+  "draft": false
+}

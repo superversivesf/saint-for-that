@@ -1,0 +1,25 @@
+{
+  "slug": "dominic-de-la-calzada",
+  "name": "St. Dominic de la Calzada",
+  "feastDay": "05-12",
+  "bio": "Dominic de la Calzada was born in a cottage in Burgos, very close to La Rioja, in the eleventh century. Drawn to the solitude of the roads, he became a hermit and then a builder of bridges and causeways for the pilgrims streaming toward Santiago de Compostela. He cut roads through the mountains, constructed a bridge over the river Oja, and cleared the path that countless travelers would walk. With St. John of Ortega he labored to make the Camino passable, and a church and town rose around his work. He died around 1109, remembered as a saint who made the way smooth for those who sought the shrine of the apostle.",
+  "patronages": [
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Dominic de la Calzada to make straight the paths for those who seek You, grant through his intercession that we may smooth the way for pilgrims and travelers, and find You at the end of every road. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominic_de_la_Calzada"
+  ],
+  "featured": false,
+  "draft": false
+}

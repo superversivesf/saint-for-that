@@ -1,0 +1,33 @@
+{
+  "slug": "erminold",
+  "name": "St. Erminold",
+  "feastDay": "01-06",
+  "bio": "Erminold was a Benedictine abbot of medieval Germany whose life was offered as a child to Hirschau Monastery in Würzburg, where he grew in monastic discipline under the influence of the great Hirschau reform. In 1110 he was elected abbot of Lorsch, but when his election was disputed he humbly resigned and returned to Hirschau. In 1117 he became abbot of Prüfening near Regensburg, where he governed with rigor and zeal. On January 7, 1121, he was slain by a lay brother who struck him with a piece of timber, the violent act born of resentment toward the abbot's strictness. Honored as a martyr of monastic obedience, Erminold is remembered at Prüfening as a father who asked of others what he first lived himself.",
+  "patronages": [
+    {
+      "need": "abbots",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "martyrs",
+      "category": "persecution"
+    },
+    {
+      "need": "germany",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Erminold with martyrdom in his own monastery, grant through his intercession that those who govern in your name may be both just and merciful, and bear with patience the burdens of their charge. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Erminold"
+  ],
+  "featured": false,
+  "draft": false
+}

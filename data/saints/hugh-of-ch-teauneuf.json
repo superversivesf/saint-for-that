@@ -1,0 +1,25 @@
+{
+  "slug": "hugh-of-ch-teauneuf",
+  "name": "St. Hugh of Châteauneuf",
+  "feastDay": "04-01",
+  "bio": "Hugh of Châteauneuf, also known as Hugh of Grenoble, was born around 1053 and became Bishop of Grenoble in 1080, a see he held for over fifty years until his death in 1132. He was a devoted partisan of the Gregorian reform, working to root out simony and clerical corruption despite fierce opposition from local nobles. Bruno of Cologne came to Grenoble seeking a place for his small community of hermits, and Hugh gave them land in the wild Chartreuse valley, thereby helping to found the Carthusian Order. He served his diocese with tireless dedication, earning a reputation for justice and austerity. He died on April 1, 1132, and was canonized in 1134. He is invoked against headaches.",
+  "patronages": [
+    {
+      "need": "headaches",
+      "category": "illness"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Hugh of Grenoble the grace to reform his diocese and to welcome the first Carthusians, grant through his intercession relief to all who suffer from headaches and clarity of mind to those who serve You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugh_of_Ch%C3%A2teauneuf"
+  ],
+  "featured": false,
+  "draft": false
+}

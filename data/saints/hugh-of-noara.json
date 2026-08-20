@@ -1,0 +1,25 @@
+{
+  "slug": "hugh-of-noara",
+  "name": "St. Hugh of Noara",
+  "feastDay": "11-17",
+  "bio": "Hugh of Noara, also called Hugh of Novara, was a French-born Cistercian monk and a disciple of St. Bernard of Clairvaux. Sent by Bernard to help spread the Cistercian reform to the south, Hugh traveled to Sicily and became the first abbot of the newly founded Novara Abbey in the hill country of the Sicilian interior. There he established the rigorous Cistercian observance in a land far from his native France, guiding his brothers in the daily round of prayer, manual labor, and lectio divina. He served as abbot until his death in 1170 and was buried at the abbey. He is honored as a founder and father of one of Sicily's Cistercian communities. His feast is kept on November 17.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Hugh of Noara to plant the Cistercian life in the hills of Sicily, grant through his intercession that we may labor faithfully in the work You have given us. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugh_of_Noara"
+  ],
+  "featured": false,
+  "draft": false
+}

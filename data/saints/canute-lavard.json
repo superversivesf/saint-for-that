@@ -1,0 +1,25 @@
+{
+  "slug": "canute-lavard",
+  "name": "St. Canute Lavard",
+  "feastDay": "01-07",
+  "bio": "Canute Lavard was a Danish prince of the early twelfth century, a man born to power who wore it lightly. He became the first Duke of Schleswig, serving as both a Danish and a German vassal, a delicate border position that shaped the future of Southern Jutland. Pious and just, he governed with a care for his people that won him widespread affection. His cousin Magnus the Strong, seeing Canute as a rival for the Danish throne, ambushed and killed him in 1131. The faithful soon venerated him as a martyr for justice. Canonized in 1170, Canute Lavard is remembered as a noble who chose conscience over ambition, and whose blood watered the soil of a Christian Denmark.",
+  "patronages": [
+    {
+      "need": "nobility",
+      "category": "everyday"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who crowned St. Canute Lavard with the palm of martyrdom though he was born to a throne, grant through his intercession that we may seek justice over ambition and serve You with a clean heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canute_Lavard"
+  ],
+  "featured": false,
+  "draft": false
+}

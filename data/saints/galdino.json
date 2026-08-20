@@ -1,0 +1,33 @@
+{
+  "slug": "galdino",
+  "name": "St. Galdino",
+  "feastDay": "04-18",
+  "bio": "Galdino della Sala, also known as Galdinus or Galdimus, was a saint of the church of Milan in twelfth-century Lombardy. Raised to the cardinalate in 1165, he became Archbishop of Milan in 1166 and served the see until his death in 1176. He was a stalwart champion of Pope Alexander III in the bitter dispute with the Antipope Victor IV, and a fearless defender of Milan and the cities of Lombardy against the claims of Emperor Frederick I Barbarossa, whose imperial ambitions had brought war and destruction to the Italian communes. Galdino preached, governed, and consoled a flock living under the shadow of siege, holding the church firm in a time of schism and empire. His feast is kept on April 18, and he is honored as patron of the Archdiocese of Milan and of Lombardy.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church unity",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "special"
+    },
+    {
+      "need": "preachers",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Galdino a steadfast shepherd in a time of schism and war, grant through his intercession that your church may stand firm in truth and your people find peace under your protection. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Galdino"
+  ],
+  "featured": false,
+  "draft": false
+}

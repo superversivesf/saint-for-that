@@ -1,0 +1,29 @@
+{
+  "slug": "gerald-of-braga",
+  "name": "St. Gerald of Braga",
+  "feastDay": "12-05",
+  "bio": "Gerald of Braga was born in Cahors, Gascony, and became a Benedictine monk at Moissac in France. Archbishop Bernhard of Toledo, a fellow Cluniac monk, admired the liturgical singing at Moissac and asked Gerald to renew the liturgical music in Toledo, where he served as cathedral choir director. In 1100 Gerald became Bishop of Braga in Portugal, where he worked to end the practice of ecclesiastical investiture by laypeople in his diocese. He is also remembered for baptizing Afonso I of Portugal, the first king of that nation. Gerald died on December 5, 1109, and was buried in Braga Cathedral. His life was recorded in the Vita Sancti Geraldi by a companion named Bernard, a fellow Cluniac monk from France.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed your bishop Gerald with zeal for liturgical beauty and courage to end the abuse of lay investiture, grant through his intercession that your Church may worship you in spirit and truth, free from worldly entanglement. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerald_of_Braga"
+  ],
+  "featured": false,
+  "draft": false
+}

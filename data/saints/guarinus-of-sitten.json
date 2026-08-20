@@ -1,0 +1,25 @@
+{
+  "slug": "guarinus-of-sitten",
+  "name": "St. Guarinus of Sitten",
+  "feastDay": "08-27",
+  "bio": "Guarinus of Sitten served as Bishop of Sion (Sitten) in the Valais region of Switzerland. He was honored as a patron of animals and invoked for protection from animal diseases, a patronage that reflects the rural and pastoral character of his alpine diocese. His feast is kept on August 27, and his relics were venerated by the faithful who entrusted their livestock and harvests to his heavenly intercession. As a bishop in the mountains he shepherded both his people and, through popular devotion, the creatures upon whose health their livelihood depended.",
+  "patronages": [
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who entrusted your bishop Guarinus with the care of souls and the welfare of animals, grant through his intercession that we may be good stewards of your creation and that the creatures in our keeping may be kept from harm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guarinus_of_Sitten"
+  ],
+  "featured": false,
+  "draft": false
+}

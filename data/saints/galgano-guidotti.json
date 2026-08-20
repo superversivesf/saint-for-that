@@ -1,0 +1,29 @@
+{
+  "slug": "galgano-guidotti",
+  "name": "St. Galgano Guidotti",
+  "feastDay": "11-30",
+  "bio": "Galgano Guidotti was born in Chiusdino, near Siena in Tuscany, to a family of the local nobility. In his youth he lived the restless life of a knight until a profound conversion led him to renounce the world. In a dramatic gesture of his new devotion he plunged his sword into a stone, where it remains to this day as a relic by the ruins of the Abbey of San Galgano. He withdrew as a hermit to the hill where the abbey would later be built, embracing poverty and contemplation. He died in 1181 and was canonized in 1185. His feast is kept on November 30, and he remains one of Tuscany's most vivid witnesses to the conversion of a warrior into a man of peace.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the sword of your servant Galgano into a sign of peace and called him from the way of war to the life of a hermit, grant through his intercession that we may renounce what is violent in us and seek you in stillness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galgano_Guidotti"
+  ],
+  "featured": false,
+  "draft": false
+}

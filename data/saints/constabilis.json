@@ -1,0 +1,25 @@
+{
+  "slug": "constabilis",
+  "name": "St. Constabilis",
+  "feastDay": "02-17",
+  "bio": "Constabilis was an Italian Benedictine abbot of the early twelfth century, serving as head of La Trinità della Cava, the great abbey at Cava de' Tirreni near Salerno, from 1122 until his death in 1124. He governed the monastery during a period of flourishing spiritual and communal life, guiding his monks in the way of St. Benedict with steadiness and care. Devoted to the liturgy and the welfare of the surrounding people, he was revered for his wisdom and gentle authority. After his death on February 17 he was venerated as a saint, and his memory endures in the Cava tradition as one of a succession of holy abbots. He is honored at Castellabate and is invoked as a patron of sailors.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "sailors",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Constabilis to govern the monks of La Cava and to watch over those who go down to the sea, grant through his intercession that we may be steady in prayer and safe in every storm. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Constabilis"
+  ],
+  "featured": false,
+  "draft": false
+}

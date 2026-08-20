@@ -1,0 +1,33 @@
+{
+  "slug": "fulk",
+  "name": "St. Fulk",
+  "feastDay": "unknown",
+  "bio": "Saint Fulk was an English pilgrim of the twelfth century who set out on the long road to Rome, the great journey that medieval Christians made in penance and devotion. Along the way he stopped at Santopadre, also called Castrofuli, in southern Italy, where he found a community stricken by plague. Fulk stayed to nurse the dying, risking his own life to care for the sick, and in time he himself died of the plague. So selfless a death moved the people of the town, who venerated him as their patron and adopted him as the heavenly protector of Castrofuli. His cult was formally approved in 1572, and his feast is kept on May 22. He is remembered as a pilgrim who found his destination not at the threshold of the apostles but at the bedside of the afflicted.",
+  "patronages": [
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "plague",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "italy",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who taught St. Fulk to halt his pilgrimage and pour out his life for the plague-stricken, grant through his intercession that we may find you in the suffering of our neighbor and serve you there. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Fulk"
+  ],
+  "featured": false,
+  "draft": false
+}

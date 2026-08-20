@@ -1,0 +1,25 @@
+{
+  "slug": "ida-of-toggenburg",
+  "name": "St. Ida of Toggenburg",
+  "feastDay": "11-03",
+  "bio": "Ida of Toggenburg is venerated as a saint in the Diocese of Constance, especially at Fischingen in Switzerland. The details of her life are obscured by legend, but local tradition holds that she was a noblewoman of the Toggenburg family who, after a call to religious life, lived as a nun and became the protagonist of many stories told among the people of the region. She is associated with miracles and with the pastoral landscape of the Swiss uplands, and her cult was linked to the abbey at Fischingen. Ida is invoked for relief from headaches, for the difficulties of pregnancy, and even for the recovery of escaped livestock—a reminder that medieval sanctity touched every corner of daily life. Her feast is kept on November 3.",
+  "patronages": [
+    {
+      "need": "headaches",
+      "category": "illness"
+    },
+    {
+      "need": "expectant mothers",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who honored St. Ida of Toggenburg with a devotion that reached into every corner of daily life, grant through her intercession relief to those who suffer headaches and protection to mothers awaiting the birth of their children. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ida_of_Toggenburg"
+  ],
+  "featured": false,
+  "draft": false
+}

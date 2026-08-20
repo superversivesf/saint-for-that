@@ -1,0 +1,21 @@
+{
+  "slug": "guiraud",
+  "name": "St. Guiraud",
+  "feastDay": "11-05",
+  "bio": "Guiraud was a bishop of Béziers in the Languedoc region of southern France during the twelfth century, living from about 1070 until 1123. As bishop he governed the diocese of Béziers with pastoral care in an age of both flourishing monastic reform and recurring political turmoil. His feast is kept on November 5, and his memory was preserved by the faithful of his diocese as that of a conscientious shepherd. He died in 1123 and was buried at Béziers, where he was venerated as a holy bishop who served the Church with quiet fidelity in a turbulent era.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Guiraud a faithful bishop of Béziers, grant through his intercession that the shepherds of your Church may govern with holiness and that the faithful may be strengthened in their devotion. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guiraud"
+  ],
+  "featured": false,
+  "draft": false
+}

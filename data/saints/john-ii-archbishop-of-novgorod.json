@@ -1,0 +1,25 @@
+{
+  "slug": "john-ii-archbishop-of-novgorod",
+  "name": "St. John II",
+  "feastDay": "unknown",
+  "bio": "Saint John II, also known as Ioann II, was Archbishop of Novgorod from 1165 until his death in 1186. Before his consecration he was known as Ilya of Novgorod. In the twelfth century Novgorod was a great mercantile republic, and its archbishop was not only a spiritual leader but a major political figure, often mediating between the city's factions and the rival princes of the Rus'. John II governed his see through a period of relative stability, overseeing the church life of the city and its vast northern territories. He died in 1186 and was buried in Novgorod, where he was venerated as a saint and defender of the see. His feast day is not firmly established in the calendars.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "russia",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. John II the wisdom to govern the see of Novgorod in troubled times, grant through his intercession that all bishops may be faithful shepherds of Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_II_(archbishop_of_Novgorod)"
+  ],
+  "featured": false,
+  "draft": false
+}

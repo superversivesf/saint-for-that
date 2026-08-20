@@ -1,0 +1,29 @@
+{
+  "slug": "hatebrand",
+  "name": "St. Hatebrand",
+  "feastDay": "07-30",
+  "bio": "Hatebrand was a Benedictine abbot and a native of Frisia in the Netherlands. In 1183 he became the Abbot of Olden-Klooster in Frisia, where he labored to revive the Benedictine order in a region where monastic life had declined. He is remembered for the spiritual and institutional renewal he brought to the monasteries of Frisia, restoring the rhythm of prayer and work according to the Rule of St. Benedict. His relics rest at the Sint-Benedictuskerk in Mortsel, Belgium. His feast is kept on July 30, and he is honored as a restorer of monastic life in the Low Countries.",
+  "patronages": [
+    {
+      "need": "abbot",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "netherlands",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up your servant Hatebrand to revive the Benedictine life in Frisia, grant through his intercession that monks and all who seek you in community may persevere in prayer and work. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hatebrand"
+  ],
+  "featured": false,
+  "draft": false
+}

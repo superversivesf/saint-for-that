@@ -1,0 +1,29 @@
+{
+  "slug": "helena-of-sk-vde",
+  "name": "St. Helena of Skövde",
+  "feastDay": "07-31",
+  "bio": "Helena of Skövde was a Swedish saint born in Västergötland, the region of which she became patron. Widowed at a young age, she chose not to remarry but devoted herself to works of charity and piety, opening her gates to the poor and clothing the needy. At her own expense she built much of the church in Skövde, including a portico between the church and its tower; when asked its purpose she replied that God would one day provide a saint whose relics could rest there. In time she herself was interred in that very place. The church, named for her since the Middle Ages, burned in the city fire of 1759 but was rebuilt on its original foundations and remains in use. Her burial chamber survives in the oldest part of the church. Her feast is kept on July 31.",
+  "patronages": [
+    {
+      "need": "widows",
+      "category": "family"
+    },
+    {
+      "need": "the poor",
+      "category": "everyday"
+    },
+    {
+      "need": "builders",
+      "category": "jobs"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made your servant Helena a widow devoted to the poor and a builder of your house, grant through her intercession that the grieving may find comfort in charity and that all who build may do so for your glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Helena_of_Sk%C3%B6vde"
+  ],
+  "featured": false,
+  "draft": false
+}

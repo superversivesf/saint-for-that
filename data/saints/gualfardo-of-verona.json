@@ -1,0 +1,29 @@
+{
+  "slug": "gualfardo-of-verona",
+  "name": "St. Gualfardo of Verona",
+  "feastDay": "unknown",
+  "bio": "Gualfardo of Verona was born in Swabia around 1070 and lived as an artisan and trader near Verona before withdrawing to the life of a hermit. His holiness was recognized soon after his death in 1127, and a hagiographical vita was composed by the Bollandists within decades of his passing. By the early sixteenth century he was venerated as the patron saint of the harnessmakers' guild of Verona, a tribute to his earthly craft sanctified by his life of prayer and solitude. He died around 1127 and was buried at Verona, where his memory endured among the craftsmen who claimed him as their heavenly protector.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "spiritual"
+    },
+    {
+      "need": "workers",
+      "category": "jobs"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Gualfardo from the workbench to the silence of the hermitage, grant through his intercession that all who labor may find sanctity in their toil and all who seek solitude may find you waiting there. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gualfardo_of_Verona"
+  ],
+  "featured": false,
+  "draft": false
+}

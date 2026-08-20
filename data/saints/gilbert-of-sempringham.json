@@ -1,0 +1,29 @@
+{
+  "slug": "gilbert-of-sempringham",
+  "name": "St. Gilbert of Sempringham",
+  "feastDay": "02-04",
+  "bio": "Gilbert of Sempringham, born around 1085 in Lincolnshire, was the only medieval Englishman to found a conventual religious order. The son of an Anglo-Norman lord and an Anglo-Saxon mother, he studied theology in France before serving the Bishop of Lincoln. Given the churches of Sempringham and West Torrington by his father, he became lord of the manor in 1130 and in 1131 founded the Gilbertine Order, a double monastery of canons regular and nuns, unique in England. The Cistercians refused to help because he included women, so Gilbert persevered alone, overseeing twenty-six houses. In 1165 he was charged with aiding Thomas Becket but was found innocent. He resigned due to blindness and died at Sempringham around 1189, reputedly at age 106. Canonized in 1202, his feast is February 4.",
+  "patronages": [
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "the laity",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired your servant Gilbert to found the only religious order of English origin, embracing canons and nuns, lay brothers and sisters in one community, grant through his intercession that your Church may welcome the varied gifts of all the faithful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gilbert_of_Sempringham"
+  ],
+  "featured": false,
+  "draft": false
+}

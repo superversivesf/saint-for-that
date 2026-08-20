@@ -1,0 +1,25 @@
+{
+  "slug": "herbert-hoscam",
+  "name": "St. Herbert Hoscam",
+  "feastDay": "08-20",
+  "bio": "Herbert Hoscam was born in England but served much of his distinguished career in southern Italy, as Archbishop of Conza in the Irpinia region of Campania. The details of his English origins are obscure, but he was evidently a man of sufficient learning to be entrusted with an important see. As archbishop he governed the mountainous diocese of Conza and worked among the people of the Irpinian highlands. He is remembered as a prelate who bridged the Anglo-Norman world and the Italian south, part of the wider movement of reform-minded churchmen who traveled across Europe in the twelfth century to staff and reform distant dioceses. His feast is kept on August 20, and he is honored in Conza as one of its shepherds.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who sent St. Herbert Hoscam from a distant land to shepherd Your people in the hills of Campania, grant through his intercession that all bishops may serve with courage and love. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herbert_Hoscam"
+  ],
+  "featured": false,
+  "draft": false
+}

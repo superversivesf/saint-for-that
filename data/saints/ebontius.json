@@ -1,0 +1,25 @@
+{
+  "slug": "ebontius",
+  "name": "St. Ebontius",
+  "feastDay": "unknown",
+  "bio": "Ebontius, also called Ebon, Pontius, or Ponce, was born in Comminges, Haute Garonne, France, and entered a Benedictine monastery, where he rose to be abbot. After the recapture of Barbastro from the Moors, he was made Bishop of Barbastro in Spain, taking up the see of a frontier city only lately won back to Christendom. He governed the newly restored diocese with care, re-establishing the liturgy and the sacraments among a people long under Muslim rule. He is remembered as a monk, an abbot, and a bishop who served the Church on the contested border of the Reconquista, bringing the fullness of the faith to a town reclaimed for Christ.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Ebontius from the cloister to the frontier, that he might restore the faith to a people long deprived of it, grant through his intercession that we may carry the Gospel wherever it is not yet known. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ebontius"
+  ],
+  "featured": false,
+  "draft": false
+}

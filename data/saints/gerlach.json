@@ -1,0 +1,29 @@
+{
+  "slug": "gerlach",
+  "name": "St. Gerlach",
+  "feastDay": "01-05",
+  "bio": "Gerlach was a 12th-century Dutch hermit whose cult is centered at Houthem near Valkenburg in Limburg. His Vita, written around 1227, relates that he was originally a licentious soldier and brigand who became a pious Christian upon the death of his wife. He went on pilgrimage to Rome and Jerusalem, and at Rome nursed the sick for seven years, doing penance for the sins of his youth. Returning to the Netherlands, he gave all possessions to the poor and lived in a hollow oak on his former estate near Houthem. He ate bread mixed with ash and walked daily to the Basilica of Saint Servatius in Maastricht. Monks accused him of hiding treasure in his oak, but the bishop found nothing. Legend says the well water turned to wine three times as a sign his sins were forgiven. He died around 1170.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "everyday"
+    },
+    {
+      "need": "conversion",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who received the repentance of your servant Gerlach and turned his hollow oak into a school of penance, grant through his intercession that sinners may find hope in your mercy and the strength to begin anew. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Gerlach"
+  ],
+  "featured": false,
+  "draft": false
+}

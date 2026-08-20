@@ -1,0 +1,33 @@
+{
+  "slug": "euphrosyne-of-polotsk",
+  "name": "St. Euphrosyne of Polotsk",
+  "feastDay": "05-23",
+  "bio": "Euphrosyne of Polotsk, born Predslava, was the granddaughter of the prince of Polotsk and daughter of Prince Svyatoslav of Vitebsk in twelfth-century Rus. Refusing marriage, she secretly entered a convent and took the monastic name Euphrosyne, devoting herself to prayer, learning, and the copying of sacred books. She founded convents at Polotsk and at Seltse, and commissioned the famous jewelled cross of Polotsk, a masterpiece of medieval Rus craftsmanship. In old age she undertook a pilgrimage to the Holy Land and died in Jerusalem around 1173. Long venerated among the Orthodox of Belarus, Ukraine, and Russia, she has been numbered since 1984 among the patron saints of Belarus. Her feast is kept on May 23.",
+  "patronages": [
+    {
+      "need": "nuns",
+      "category": "spiritual"
+    },
+    {
+      "need": "scholars",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    },
+    {
+      "need": "single women",
+      "category": "family"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who inspired St. Euphrosyne to exchange a royal court for the quiet of the cloister and the labor of copying your word, grant through her intercession that we may treasure wisdom above all earthly glory. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Euphrosyne_of_Polotsk"
+  ],
+  "featured": false,
+  "draft": false
+}

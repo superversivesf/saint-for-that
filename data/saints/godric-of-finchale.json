@@ -1,0 +1,33 @@
+{
+  "slug": "godric-of-finchale",
+  "name": "St. Godric of Finchale",
+  "feastDay": "unknown",
+  "bio": "Godric of Finchale was an English hermit and merchant, born in Walpole, Norfolk, around 1065. Never formally canonized, his life was recorded by Reginald of Durham. He began as a peddler and became a ship's captain. After pilgrimages around the Mediterranean, he was inspired to change his life near the Farne Islands. He settled at Finchale by the River Wear, building an oratory to the Virgin Mary and a chapel to St. John the Baptist. He lived there for sixty years, sleeping on bare ground, eating herbs, wild honey, and nuts. Thomas Becket and Pope Alexander III sought his counsel. He is remembered for kindness to animals, hiding a stag from hunters and letting snakes warm at his fire. Reginald recorded four of his songs, the oldest English songs with original settings. He died in 1170.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "everyday"
+    },
+    {
+      "need": "merchants",
+      "category": "everyday"
+    },
+    {
+      "need": "animals",
+      "category": "nature"
+    },
+    {
+      "need": "musicians",
+      "category": "everyday"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who led your servant Godric from the life of a merchant to sixty years of hermitage at Finchale, and taught him songs of praise from the lips of the Virgin herself, grant through his intercession that we may find you in stillness and sing your mercy all our days. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Godric_of_Finchale"
+  ],
+  "featured": false,
+  "draft": false
+}

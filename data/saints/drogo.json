@@ -1,0 +1,29 @@
+{
+  "slug": "drogo",
+  "name": "St. Drogo",
+  "feastDay": "04-16",
+  "bio": "Drogo of Sebourg, also called Druon, Dreux, Dron, Droon, and Drogon, was a Flemish saint born in Epinoy in the County of Artois. Orphaned young, he gave his lands to the poor and set out as a pilgrim, traveling many times to Rome. Returning, he worked as a shepherd to support himself, and later became a penitent recluse in a cell adjoining the church at Sebourg, France, where he spent the rest of his days. He was visited by miraculous lights and was known for his deep compassion for the sick and the suffering. He died in Sebourg around 1186, honored as the patron of shepherds, of coffee-house keepers, and of those afflicted in mind and body.",
+  "patronages": [
+    {
+      "need": "mental illness",
+      "category": "illness"
+    },
+    {
+      "need": "the sick",
+      "category": "illness"
+    },
+    {
+      "need": "farmers",
+      "category": "nature"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. Drogo to walk the roads as a pilgrim and to dwell in a cell as a recluse, grant through his intercession that the sick, the troubled in mind, and all who labor may find comfort in Your mercy. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Drogo"
+  ],
+  "featured": false,
+  "draft": false
+}

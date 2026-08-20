@@ -1,0 +1,25 @@
+{
+  "slug": "cornelius-of-armagh",
+  "name": "St. Cornelius of Armagh",
+  "feastDay": "06-04",
+  "bio": "Cornelius, known in Irish as Conchobar mac Meic Con Caille, was an Irish Archbishop of Armagh of the twelfth century. Born in Ireland, he entered the Augustinian community at Armagh in 1140 and was made abbot in 1151, proving himself a man of prayer and prudent governance. In 1174 he was consecrated bishop and took up the primatial see of Armagh, the highest office of the Irish church. A pilgrim at heart, he set out for Rome but died on his return journey at Chambéry in Savoy, France, in 1175. His death far from home, on the road of pilgrimage, has made him a quiet patron of those who travel in the service of God. He is remembered for his humility and his zeal for the Church.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "pilgrims",
+      "category": "travel"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Cornelius of Armagh from the cloister to the primatial see and brought his pilgrimage to its end in a distant land, grant through his intercession that we may journey through this life as pilgrims toward You. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cornelius_of_Armagh"
+  ],
+  "featured": false,
+  "draft": false
+}

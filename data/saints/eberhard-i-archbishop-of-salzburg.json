@@ -1,0 +1,21 @@
+{
+  "slug": "eberhard-i-archbishop-of-salzburg",
+  "name": "St. Eberhard I",
+  "feastDay": "06-22",
+  "bio": "Eberhard I served as Archbishop of Salzburg, Austria, from 1146 until his death in 1164, governing the metropolitan see founded by St. Rupert. A prelate of the Hohenstaufen age, he upheld the rights of the Church in an era when emperor and pope contended for supremacy. He completed the rebuilding of the cathedral, which had been damaged by fire, and cared for the clergy and people of his large diocese. As archbishop he was the primate of the German lands, bound to the apostolic see and to the legacy of the Irish monks who first brought the faith to the Alps. He is remembered as a faithful shepherd who ruled his church in troubled times.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Eberhard a faithful shepherd of the see of Salzburg, grant through his intercession that the bishops of Your Church may uphold its rights and rebuild what is broken. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eberhard_I_(archbishop_of_Salzburg)"
+  ],
+  "featured": false,
+  "draft": false
+}

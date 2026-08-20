@@ -1,0 +1,25 @@
+{
+  "slug": "gaucherius",
+  "name": "St. Gaucherius",
+  "feastDay": "04-09",
+  "bio": "Born at Meulan-sur-Seine in France around 1060, Gaucherius received a classical education and was ordained a priest. Drawn to solitude, he spent a night in prayer at the tomb of St. Leonard of Limoges and then withdrew into the wild forest near Limoges to live as a hermit with his companion Germond. Their example attracted others, and hermitages multiplied around them. Gaucherius eventually built a monastery at Aureil, establishing two communities—one for men and one for women—both under the rule of St. Augustine. He lived as a model of sanctity for all his companions, among whom were Lambert of Angoulême, Faucherus, and Stephen Muret, founder of Grandmont. Gaucherius died in 1140 at the age of eighty after a fall from a horse and was canonized in 1194. His feast is celebrated on April 9.",
+  "patronages": [
+    {
+      "need": "hermits",
+      "category": "everyday"
+    },
+    {
+      "need": "contemplatives",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called your servant Gaucherius from the solitude of the forest to gather communities of canons and nuns in your service, grant through his intercession that we may seek you above all things and build up your Church in holiness. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaucherius"
+  ],
+  "featured": false,
+  "draft": false
+}

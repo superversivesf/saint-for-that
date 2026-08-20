@@ -1,0 +1,25 @@
+{
+  "slug": "demetrius-i-of-georgia",
+  "name": "St. Demetrius I of Georgia",
+  "feastDay": "05-23",
+  "bio": "Demetrius I, of the Bagrationi dynasty, ruled the Kingdom of Georgia from 1125 to 1154 and again from 1155 until his death in 1156, succeeding his father David the Builder. A monarch who was also a poet, he is credited with some of the finest verse of medieval Georgian literature and with completing the Gelati Monastery begun by his father. His reign saw the continued flourishing of Georgian culture and the defense of the realm. He is honored by the Georgian Church as a royal saint who united the crown with learning and devotion, ruling his people with justice and leaving behind hymns still sung in the churches.",
+  "patronages": [
+    {
+      "need": "poets",
+      "category": "jobs"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who endowed St. Demetrius with the gifts of ruler and poet, granting him to govern with justice and to praise You in verse, grant through his intercession that our words may serve the truth and our deeds may bless Your people. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demetrius_I_of_Georgia"
+  ],
+  "featured": false,
+  "draft": false
+}

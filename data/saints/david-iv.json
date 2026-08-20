@@ -1,0 +1,25 @@
+{
+  "slug": "david-iv",
+  "name": "St. David IV",
+  "feastDay": "unknown",
+  "bio": "David IV, called the Builder, was the fifth king of Georgia of the Bagrationi dynasty, reigning from 1089 until his death in 1125. He inherited a kingdom ravaged by Turkish raids and spent his youth driving the invaders from his lands, culminating in the decisive victory at Didgori in 1121. He rebuilt churches and monasteries, invited Georgian tribes to settle, and founded Gelati Monastery, a center of learning. Crowned at sixteen, he combined the skills of warrior and sage, and the Georgian Church honors him as a builder of the nation. He died in 1125, leaving a realm at peace.",
+  "patronages": [
+    {
+      "need": "builders",
+      "category": "jobs"
+    },
+    {
+      "need": "nobility",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave St. David the Builder wisdom to raise a nation from ruin and faith to crown his works with the house of prayer, grant through his intercession that we may build what lasts and defend what is right. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_IV"
+  ],
+  "featured": false,
+  "draft": false
+}

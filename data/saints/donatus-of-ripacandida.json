@@ -1,0 +1,25 @@
+{
+  "slug": "donatus-of-ripacandida",
+  "name": "St. Donatus of Ripacandida",
+  "feastDay": "08-17",
+  "bio": "Donatus was born in Ripacandida, Italy, and in 1194 entered the Benedictine monastery at Petina, embracing the rule of St. Benedict in the hills of the Mezzogiorno. Little else is recorded of his life beyond this single firm date, yet his memory endured among the people of his native town, who honored him as their patron. He lived in an age when the great monastic reform of the twelfth century was renewing the Church, and he shared in that renewal through the patient obedience of the cloister. He is remembered as a quiet saint of southern Italy, whose holiness was hidden in the common life of prayer and work.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "italy",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Donatus to the quiet obedience of the cloister, grant through his intercession that we may find You in the ordinary round of prayer and work, and persevere in the way of St. Benedict. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Donatus_of_Ripacandida"
+  ],
+  "featured": false,
+  "draft": false
+}

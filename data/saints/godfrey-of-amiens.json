@@ -1,0 +1,29 @@
+{
+  "slug": "godfrey-of-amiens",
+  "name": "St. Godfrey of Amiens",
+  "feastDay": "11-08",
+  "bio": "Godfrey of Amiens was born in 1066 in Moulincourt, Diocese of Soissons, the third child of a noble family. Educated at the Benedictine abbey of Mont-Saint-Quentin, he was given charge of the sick and appointed hospitaller to receive the poor. Ordained at twenty-five, he became abbot of Nogent-sous-Coucy in 1096, rebuilding the overrun house and establishing a hostel for pilgrims. After declining the bishopric of Reims, he was compelled to become Bishop of Amiens. Godfrey imposed rigid austerity on himself and his clergy, enforced clerical celibacy, and opposed simony so fiercely that an attempt was made on his life. He withdrew to a monastery in 1114, but was called back to his see in 1115. He died at Saint Crépin in Soissons on November 8, 1115.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    },
+    {
+      "need": "the poor",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who gave your bishop Godfrey courage to enforce clerical discipline and compassion to welcome the poor at the gate, grant through his intercession that your people may be served by shepherds who are both austere and merciful. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
+  ],
+  "featured": false,
+  "draft": false
+}

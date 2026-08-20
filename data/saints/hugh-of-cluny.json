@@ -1,0 +1,25 @@
+{
+  "slug": "hugh-of-cluny",
+  "name": "St. Hugh of Cluny",
+  "feastDay": "04-29",
+  "bio": "Hugh of Cluny, also called Hugh the Great or Hugh of Semur, was born in 1024 into the nobility of Burgundy. He entered the monastery of Cluny as a youth and in 1049, at only twenty-five, was elected abbot—a position he held for sixty years until his death in 1109. Under his leadership Cluny became the head of a vast monastic empire with hundreds of dependent priories across Europe. Hugh was a counselor to popes and kings, a peacemaker between rival powers, and a model of monastic discipline. He guided many future saints and spread the Cluniac reform throughout the Latin Church. He died on April 29, 1109, and was canonized in 1120. He was invoked against fever and is remembered as one of the greatest abbots in history.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "healing",
+      "category": "illness"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who made St. Hugh of Cluny a father of monks and a light of the Church, grant through his intercession that we may seek You in prayer and serve You in peace. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+  ],
+  "featured": false,
+  "draft": false
+}

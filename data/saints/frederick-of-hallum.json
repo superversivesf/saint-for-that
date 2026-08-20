@@ -1,0 +1,25 @@
+{
+  "slug": "frederick-of-hallum",
+  "name": "St. Frederick of Hallum",
+  "feastDay": "03-03",
+  "bio": "Saint Frederick of Hallum was a Premonstratensian priest and regular canon in Friesland, the low-lying northern province of the medieval Netherlands. He was the founder and first abbot of Mariengaarde Abbey, a community of canons who sought to live the Gospel according to the reforming rule of St. Norbert. Under his guidance Mariengaarde became a beacon of religious life in a region still young in the faith, and Frederick was revered as a father of his community and a pastor to the surrounding people. He died in 1175, and his feast is kept on March 3. He is remembered as one of the saintly builders of the church in Friesland, a man who planted the Premonstratensian ideal in Dutch soil and watched it flourish.",
+  "patronages": [
+    {
+      "need": "abbots",
+      "category": "spiritual"
+    },
+    {
+      "need": "netherlands",
+      "category": "special"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who called St. Frederick to found a house of prayer in the fields of Friesland, grant through his intercession that your church may always be renewed by those who seek you with a pure heart. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frederick_of_Hallum"
+  ],
+  "featured": false,
+  "draft": false
+}

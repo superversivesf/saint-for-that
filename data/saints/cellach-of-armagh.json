@@ -1,0 +1,25 @@
+{
+  "slug": "cellach-of-armagh",
+  "name": "St. Cellach of Armagh",
+  "feastDay": "04-01",
+  "bio": "Cellach of Armagh, also called Celsus or Celestinus, was born around 1080 into the hereditary ecclesiastical dynasty of Clann Sínaig. For over a century the supreme head of the Irish Church had been a layman, an anomaly Cellach courageously ended by taking holy vows and receiving priestly ordination. As Archbishop of Armagh he became a driving force of the twelfth-century reform of the Irish church. At the Synod of Ráith Bressail he helped establish a diocesan structure for Ireland and became its first metropolitan primate. He governed with wisdom and zeal, laboring to align the Irish Church with the wider Catholic communion. He died in 1129, honored as a reformer and a shepherd who restored order to a scattered flock.",
+  "patronages": [
+    {
+      "need": "bishops",
+      "category": "spiritual"
+    },
+    {
+      "need": "church reform",
+      "category": "spiritual"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who raised up St. Cellach of Armagh to renew Your Church in Ireland and restore the order of her hierarchy, grant through his intercession that we may treasure right worship and sound governance in Your house. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cellach_of_Armagh"
+  ],
+  "featured": false,
+  "draft": false
+}

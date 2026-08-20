@@ -1,0 +1,25 @@
+{
+  "slug": "gerard-of-clairvaux-died-1138",
+  "name": "St. Gerard of Clairvaux",
+  "feastDay": "06-13",
+  "bio": "Gerard of Clairvaux was the older brother of St. Bernard of Clairvaux, son of Tescelin le Roux and Aleth de Montbard. When Bernard entered Cîteaux in 1112 with a group of young relatives, Gerard did not join him. Instead he pursued a military life, but was injured during a siege of Grancy and imprisoned. During his captivity he resolved to enter monastic life and went to Cîteaux after his release. His brother Bernard appointed him cellarer, and Gerard managed the domestic affairs of the abbey with such skill that builders, smiths, shoemakers, and weavers sought his advice. On his way to Rome in 1137 he fell ill at Viterbo, recovered, and returned to France, only to die the following year. He was eulogized by Bernard, and a church at La Laigne is dedicated to him. His feast is June 13.",
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    },
+    {
+      "need": "soldiers",
+      "category": "military"
+    }
+  ],
+  "prayer": {
+    "text": "O God, who turned the heart of your servant Gerard from the sword to the cloister, and made him a faithful steward of your abbey, grant through his intercession that those who serve in humble tasks may find you in every labor. We ask this through Christ our Lord. Amen.",
+    "source": "original"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerard_of_Clairvaux_(died_1138)"
+  ],
+  "featured": false,
+  "draft": false
+}
