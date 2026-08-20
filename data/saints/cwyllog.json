@@ -3,7 +3,12 @@
   "name": "St. Cwyllog",
   "feastDay": "unknown",
   "bio": "Saint Cwyllog was a Christian holy woman of early sixth-century Anglesey, Wales, counted among the devout Celtic saints who shaped the faith in Britain. She was born into a remarkable family of sanctity: daughter, sister, and niece of saints, she inherited a lineage of holiness and carried it forward with her own devotion. According to tradition, she founded St Cwyllog's Church at Llangwyllog, in the heart of Anglesey, where a church remains dedicated to her to this day. Though few details of her life survive, her memory endured through the church and community that bore her name, a witness to the quiet but lasting influence of the holy women of the Celtic Church.",
-  "patronages": [],
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
   "prayer": {
     "text": "O God, who called St. Cwyllog to found a church in the heart of Anglesey and to carry forward a family's legacy of sanctity, grant through her intercession that we may build up Your Church with faithful devotion. We ask this through Christ our Lord. Amen.",
     "source": "original"

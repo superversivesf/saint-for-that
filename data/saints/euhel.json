@@ -3,7 +3,12 @@
   "name": "St. Euhel",
   "feastDay": "unknown",
   "bio": "Euhel was an Irish saint of the fifth century, living in the generation after St. Patrick, when the green island was newly clothed with the Gospel. The ancient martyrologies preserve his name among the multitude of holy men and women who spread the faith across Ireland in those first days of the Church's flowering there.\n\nLittle has come down to us concerning his deeds, yet his memory was kept alive in the local cultus of the Irish, who honored their saints with faithful devotion. He lived around the year 460, at a time when monasteries were rising and the Irish Church was taking shape. The bare preservation of his name in the rolls of the saints testifies to the veneration in which he was held.\n\nHe is remembered among the saints of Ireland, though the date of his feast has not been preserved.",
-  "patronages": [],
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
   "prayer": {
     "text": "O God, who preserved the name of your servant St. Euhel among the saints of Ireland, grant through his intercession that we may be numbered among the faithful and walk in the way of holiness all our days. We ask this through Christ our Lord. Amen.",
     "source": "original"

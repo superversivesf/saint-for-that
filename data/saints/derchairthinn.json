@@ -3,7 +3,12 @@
   "name": "St. Derchairthinn",
   "feastDay": "03-08",
   "bio": "Saint Derchairthinn, also called Tarcairteann, is venerated as a prioress of the monastery of Oughter Ard in Ardclough, County Kildare, Ireland. Little is recorded of her life, but her memory was preserved among the Irish saints as a woman devoted to the rule and prayer of her community. Her feast on March 8 has been kept from early times, marking her among the holy women of the early Irish Church who governed monastic houses and shaped the faith of a people. She stands as a quiet witness to the countless monastic leaders whose names history has only half-remembered.",
-  "patronages": [],
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
   "prayer": {
     "text": "O God, who raised up St. Derchairthinn to govern the monastery of Oughter Ard in prayer and rule, grant through her intercession that religious women may persevere in devotion and lead others to You. We ask this through Christ our Lord. Amen.",
     "source": "original"

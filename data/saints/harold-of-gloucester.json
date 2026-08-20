@@ -3,7 +3,12 @@
   "name": "St. Harold of Gloucester",
   "feastDay": "unknown",
   "bio": "Harold of Gloucester was a supposed child martyr of twelfth-century England whose cult arose in 1168 in the aftermath of the blood libel myth that had spread following the unsolved murder of William of Norwich. The story claimed that Harold, a child of Gloucester, was ritually murdered by Jews, a false accusation that was promoted by some Benedictine monks and briefly gave rise to a local veneration. The cult soon died out as the claims could not be sustained. Harold's story is preserved as a cautionary episode in the history of medieval hagiography, illustrating how suspicion and prejudice could manufacture a devotion that the Church ultimately let pass into silence.",
-  "patronages": [],
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
   "prayer": {
     "text": "O God, whose truth unmasks every falsehood, deliver your Church from the sins of prejudice and scapegoating, and grant that the innocent may never be exploited in your name. We ask this through Christ our Lord. Amen.",
     "source": "original"

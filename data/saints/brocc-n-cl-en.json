@@ -3,7 +3,12 @@
   "name": "St. Broccán Clóen",
   "feastDay": "09-17",
   "bio": "Broccán Clóen was an Irish cleric who lived in the sixth or seventh century, a time when the monastic movement in Ireland was flourishing and hermits and scholars were shaping the Church in the western isles. His epithet 'Clóen,' meaning 'the bent' or 'the crooked' in Old Irish, may refer to a physical disability he bore with patience. Little certain detail of his life survives, but his memory was preserved in the Irish martyrologies, where his feast was kept on September 17. He is counted among the early Irish saints whose prayers and ascetic life helped establish the faith in Ireland.",
-  "patronages": [],
+  "patronages": [
+    {
+      "need": "monks",
+      "category": "spiritual"
+    }
+  ],
   "prayer": {
     "text": "O God, who in the early days of the Church in Ireland raised up holy clerics like Broccán Clóen to plant the faith in the western isles, grant through his intercession that we may bear our weaknesses with patience and serve You with undivided hearts. We ask this through Christ our Lord. Amen.",
     "source": "original"
