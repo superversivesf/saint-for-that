@@ -9,7 +9,7 @@ const needs = saint.patronages.map((p) => p.need).join(' · ');
   <div class="flex gap-3">
     {saint.image
       ? <img src={saint.image.url} alt="" loading="lazy" decoding="async"
-             class="h-20 w-20 flex-none rounded-xl object-cover" />
+             class="h-20 w-20 flex-none rounded-xl object-cover object-top" />
       : <div class="h-20 w-20 flex-none rounded-xl bg-parchment-deep" aria-hidden="true" />}
     <div class="min-w-0 flex-1">
       <h3 class="font-serif text-base leading-tight text-brand">{saint.name}</h3>
